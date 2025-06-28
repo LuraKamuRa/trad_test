@@ -1,0 +1,32 @@
+{
+    "dataList": [
+        {
+            "id": "837901",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> <color=#fe4b48>recebem {0} de dano SP</color>"
+        },
+        {
+            "id": "837902_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>recebe {1} HP de dano</color> e <color=#80c9ff>cura {2} SP</color>"
+        },
+        {
+            "id": "837902_2",
+            "content": "<color=#ebcaa2>[{0}]</color> ganha %{2} [{1}]/% a cada turno"
+        },
+        {
+            "id": "837601_success_1_1",
+            "content": "O Caçador de Rosas ganha <color=#e30000>3 níveis de ataque reduzidos e 3 níveis de defesa reduzidos</color>"
+        },
+        {
+            "id": "837601_success_1_2",
+            "content": "O Caçador de Rosas ganha <color=#e30000>3 níveis de ataque reduzidos e 3 níveis de defesa reduzidos</color>"
+        },
+        {
+            "id": "837601_failure_1_1",
+            "content": "{0} recebe <color=#e30000>dano igual a 15% do seu HP máximo</color>"
+        },
+        {
+            "id": "837601_failure_1_2",
+            "content": "O Caçador de Rosas ganha <color=#f8c200>3 níveis de ataque e 3 níveis de defesa</color>"
+        }
+    ]
+}

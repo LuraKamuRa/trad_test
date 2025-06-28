@@ -1,0 +1,134 @@
+{
+    "dataList": [
+        {
+            "id": "get_10910_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "Ufa... Agora chega de descanso. Vamos continuar, pessoal. E fiquem quentinhos~"
+        },
+        {
+            "id": "lobby_morning_10910_1",
+            "desc": "Saudação matinal",
+            "dlg": "Nngh... Está tão frio aqui, mesmo durante o meio-dia. Estou preocupado em congelar até a morte toda vez que tento dormir na estrada.\nBem, se ficar frio o suficiente para me matar, acho que o porta-malas ativará automaticamente sua função de proteção térmica..."
+        },
+        {
+            "id": "lobby_noon_10910_1",
+            "desc": "Saudação da tarde",
+            "dlg": "Certo, vamos ver... estamos no ponto de verificação 17. Nngh~ Vamos almoçar aqui, que tal? Você não está cansado de mastigar barras energéticas por três refeições seguidas? Abra, Polu!"
+        },
+        {
+            "id": "lobby_night_10910_1",
+            "desc": "Saudação noturna",
+            "dlg": "Melhor se preparar para dormir o mais rápido possível quando o sol se pôr. Lembre-se de nivelar o terreno em que você vai se deitar também...\nQuer saber o que aconteceu quando tentamos nos mover durante a noite porque estávamos com pouco tempo? Quase caí em uma fenda e morri."
+        },
+        {
+            "id": "smalltalk_10910_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Bem, eu não faço entregas por diversão. Acho que havia algum senso de propósito no começo, mas...\nAh! Sim, eu ainda adoro ver todos os pontos turísticos enquanto me movo pela cidade."
+        },
+        {
+            "id": "smalltalk_10910_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "Você pode colocar praticamente qualquer coisa nesses baús~ Se eles couberem na capacidade máxima, é claro... Ainda assim, é uma grande vantagem que o peso não muda, não importa o que você enfie neles! <color=#9eada4><size=60%><i>[AVISO. O armazenamento não autorizado de itens de entrega não designados é—]</i></size></color> Ehehe, shush, Polu!"
+        },
+        {
+            "id": "smalltalk_10910_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "Ah... o que, esse baú? Não, não temos baús personalizados. Hmm~ quantas mãos de pessoas usaram esse baú, eu me pergunto... Ah, sim. Quando alguém morre em uma entrega, mandamos pessoas para pegá-lo e ele se torna deles. E quando morrem, outra pessoa sai para pegá-lo, e... você entendeu, certo? Ha ha."
+        },
+        {
+            "id": "smalltalk_10910_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "Niiice~ Isso parece moleza. Parem de enrolar, vamos logo, pessoal! E não ousem reclamar comigo depois sobre receber uma taxa de entrega reduzida~"
+        },
+        {
+            "id": "smalltalk_10910_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "Nngh, tão pesado... Ouvi dizer que os caras lá do sul carregam uma mala mais fina, então o que há com a gente no norte sendo sobrecarregados com algo tão volumoso? Sinto como se fosse deslocar meu ombro balançando essa coisa por aí."
+        },
+        {
+            "id": "neglect_10910_1",
+            "desc": "Parado",
+            "dlg": "Hmm... Acho que escondi um pacote de carne seca em algum lugar aí... <color=#9eada4><size=60%><i>[Liberação de bloqueio não autorizada fora das coordenadas de entrega detectada]</i></size></color> Droga, como faço para limpar esses dados?! <color=#9eada4><size=60%><i>[Comportamento não autorizado detectado]</i></size></color>"
+        },
+        {
+            "id": "gacksung_10910_1",
+            "desc": "Uptying",
+            "dlg": "Ativação do Courier Trunk nível 1... Certo, vamos cuidar disso antes que chegue a 3!"
+        },
+        {
+            "id": "formation_10910_1",
+            "desc": "Implantação 1",
+            "dlg": "Parece um trabalho... Vamos, Polu. <color=#9eada4><size=60%><i>[Ativando]</i></size></color>"
+        },
+        {
+            "id": "formation_10910_2",
+            "desc": "Implantação 2",
+            "dlg": "Bem, essa Poludnitsa é meio chata, mas pelo menos ela é competente~"
+        },
+        {
+            "id": "battleentry_10910_1",
+            "desc": "Entrada no palco",
+            "dlg": "Pessoal, vamos nos atrasar! Corram!"
+        },
+        {
+            "id": "battle_select_10910_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Falamos depois, hmm? Não posso me atrasar para a entrega."
+        },
+        {
+            "id": "battle_endcommand_10910_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Sai da minha frente, vamos!"
+        },
+        {
+            "id": "battle_enemy_break_10910_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Pare de desperdiçar meu tempo..."
+        },
+        {
+            "id": "battle_break_10910_1",
+            "desc": "escalonado",
+            "dlg": "Não..."
+        },
+        {
+            "id": "battle_kill_10910_1",
+            "desc": "Inimigo morto",
+            "dlg": "... e saia do meu caminho!"
+        },
+        {
+            "id": "battle_dead_10910_1",
+            "desc": "Morte #1",
+            "dlg": "Ah... Eu serei... apenas mais uma missão de recuperação de tronco, hein..."
+        },
+        {
+            "id": "battle_dead_10910_2",
+            "desc": "Morte #2",
+            "dlg": "N-não, pare! Vou me mover agora mesmo, ok— <color=#9eada4><size=60%><i>[Trunk Activated]</i></size></color>"
+        },
+        {
+            "id": "choice_success_p_10910_2",
+            "desc": "Verificação aprovada",
+            "dlg": "Pronto. Feliz agora? Nossa, não é como se eu estivesse rolando no tempo..."
+        },
+        {
+            "id": "choice_fail_n_10910_1",
+            "desc": "Verificação falhou",
+            "dlg": "Ah... Eu não sou tão bom nisso. Ugh, que desperdício do meu tempo..."
+        },
+        {
+            "id": "battle_clear_10910_1",
+            "desc": "Grito de vitória",
+            "dlg": "Demorou muito mais do que eu esperava, mas... eh, melhor do que ser devorado pela caixa de entrega. Tudo bem, vamos voltar para a estrada!"
+        },
+        {
+            "id": "battle_clear_ex_10910_1",
+            "desc": "Condição extra cumprida",
+            "dlg": "Mm~ temos bastante tempo de sobra. Acho que podemos descansar aqui para uma refeição? Pessoal, hora de comer!"
+        },
+        {
+            "id": "battle_defeat_10910_1",
+            "desc": "Derrote Wail",
+            "dlg": "... T-temos que tentar essa luta de novo agora. Vamos lá, vamos lá agora mesmo. Posso me atrasar para a entrega, sério... E-então..."
+        }
+    ]
+}

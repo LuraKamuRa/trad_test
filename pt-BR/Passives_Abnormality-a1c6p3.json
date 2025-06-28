@@ -1,0 +1,144 @@
+{
+    "dataList": [
+        {
+            "id": 816101,
+            "name": "Sin Nullification",
+            "desc": "A menos que esta unidade esteja escalada ou quebrada, tome 80% menos[Combustion]dano."
+        },
+        {
+            "id": 816102,
+            "name": "Proliferating Flame",
+            "desc": "Se o alvo tiver[Combustion]: Em sucesso, espalhe metade de[Combustion]no alvo para 2 unidades adjacentes ao alvo no painel."
+        },
+        {
+            "id": 816601,
+            "name": "Chaotic Hunt",
+            "desc": "Clash Win: Clash Power -1 para o próximo confronto (máximo 2)\nClash Lose: Clash Power +1 para o próximo confronto (máximo 2)"
+        },
+        {
+            "id": 816602,
+            "name": "Humanity Abandoned",
+            "desc": "Turn Start: Ganhe 2[AttackDmgUp]."
+        },
+        {
+            "id": 816603,
+            "name": "Sack",
+            "desc": "- Quando esta unidade tem a corrente, todas as partes ganham 1[Enhancement]e 2[AttackDmgUp]- Quando a corrente estiver quebrada, começando na próxima curva, ganhe 2[Binding]e +0,7 a todas as resistências físicas até o final deste encontro"
+        },
+        {
+            "id": 816604,
+            "name": "Ressentiment",
+            "desc": "Quando esta unidade tem 35% ou menos HP: se o alvo tiver uma porcentagem HP mais alta que esta unidade, o Clash Power +2"
+        },
+        {
+            "id": 816605,
+            "name": "Spite-driven",
+            "desc": "Se a porcentagem atual de HP desta unidade for 30% ou menos:\n- Skills Blunt causar +20% mais danos\n- Ganhe 1[Enhancement]e 2[Vulnerable]a cada turno que passa. (3 vezes max)"
+        },
+        {
+            "id": 816606,
+            "name": "Infernal Hound",
+            "desc": "Quando a corrente é quebrada, infligir[AaCfPcBg]para um inimigo aleatório.\nComeçando na próxima curva, priorize o alvo com[AaCfPcBg]."
+        },
+        {
+            "id": 817101,
+            "name": "Superiority",
+            "desc": "Clash Win: Se a velocidade desta unidade for mais rápida que a do alvo, Heal 3 SP"
+        },
+        {
+            "id": 817102,
+            "name": "The Uninvited",
+            "desc": "Se houver inimigos escalonados, esta unidade prioriza alvos escalonados com suas habilidades de ataque\nNegociar +20% mais danos a inimigos escalonados no golpe"
+        },
+        {
+            "id": 817103,
+            "name": "Receiving Arts 9: Binding",
+            "desc": "Após esta unidade, ganha um novo padrão e após o final do combate, infligir[AaCfPcBc]a uma identidade aleatória sem[AaCfPcBc]Próximo turno"
+        },
+        {
+            "id": 817104,
+            "name": "Release From Binds",
+            "desc": "Todos[AaCfPcBc]menor ou igual a 2 expira quando esta unidade é escalonada"
+        },
+        {
+            "id": 817201,
+            "name": "Spreading Emotions",
+            "desc": "Quando um aliado com a mesma afinidade com o efeito de emoções explosivas desta unidade é derrotado: perder emoções explosivas efetivas em si, matar todos os outros aliados e ganhar[AaCfPbBd]Próximo turno.\nTodos os pecadores ganham os efeitos do efeito de emoções explosivas correspondentes e proteção contra a afinidade correspondente."
+        },
+        {
+            "id": 817202,
+            "name": "Amalgamated Resentment",
+            "desc": "Quando esta unidade tem um efeito de emoções explosivas, todas as afinidades de habilidade são substituídas pela afinidade correspondente.\nMesmo após o efeito das emoções explosivas, as afinidades de habilidades alteradas permanecem alteradas para o restante da fase."
+        },
+        {
+            "id": 817203,
+            "name": "Continuing Revenge",
+            "desc": "Ganha um novo padrão em 75% e 35% do máximo de HP.\nQuando esta unidade ganha um novo padrão, reduz a redução da potência e da contagem de todos os efeitos negativos em si mesmo"
+        },
+        {
+            "id": 9101602,
+            "name": "Antagonism",
+            "desc": "Se o HP atual do alvo for maior que o delas, o Clash Power +2 e o causar +20% mais danos"
+        },
+        {
+            "id": 9101603,
+            "name": "Long-awaited Moment",
+            "desc": "Clash Win: Heal 5 SP em si mesmo\nClash Lose contra Heathcliff: Perca 5 SP e Ganhe 2[Binding]Próximo turno. (Uma vez por turno)\nSe esta unidade não acertou um único golpe contra Heathcliff nesta turno, perdi 5 sp no turno final"
+        },
+        {
+            "id": 9101606,
+            "name": "Vying Spirit",
+            "desc": "Quanto menor o HP desta unidade fica, maior o nível de defesa desta unidade\nNível de defesa +1 para cada 10% faltando HP em si (arredondado)"
+        },
+        {
+            "id": 821601,
+            "name": "Wild Hunt of Desolation",
+            "desc": "Não pode ser derrotado a 0 hp. HP não cai abaixo de 1."
+        },
+        {
+            "id": 817401,
+            "name": "A Distant Identity",
+            "desc": "Turn End: Se as duas mãos estiverem em 1 hp, fique imobilizado."
+        },
+        {
+            "id": 817402,
+            "name": "Cold Body",
+            "desc": "HP não cai abaixo de 1."
+        },
+        {
+            "id": 817403,
+            "name": "A Shaky Ego",
+            "desc": "Turn End: Se as duas mãos estiverem em 1 hp, ganhe o escudo no próximo turno.\nUma vez que o escudo está totalmente esgotado, fique imobilizado."
+        },
+        {
+            "id": 819201,
+            "name": "Misery-severing Hand",
+            "desc": "Se o outro lado estiver a mais de 2 hp na próxima curva após a curva em que esse mão atingir 1 hp, esta unidade cura HP igual a 50% do HP da outra mão. (arredondado para baixo)"
+        },
+        {
+            "id": 821401,
+            "name": "Deep Bereavement",
+            "desc": "Fique escalonado enquanto o HP desta unidade estiver em 1. O HP não cair abaixo de 1."
+        },
+        {
+            "id": 817404,
+            "name": "Broken Heart",
+            "desc": "Vire Início: Se houver uma mão com mais de 2 hp, ganhe 10[Protection]e todos os valores de resistência se tornam 0,2.\nStart Start: Se as duas mãos estiverem em 1 hp,[Protection]Expira, e todos os valores de resistência revertem aos valores padrão."
+        },
+        {
+            "id": 817405,
+            "name": "For Every Heathcliff",
+            "desc": "Ao entrar em conflito contra a Heathcliff, o poder de conflito -3 e causar -50% menos dano contra Heathcliff\nVence o encontro se Heathcliff morrer"
+        },
+        {
+            "id": 816408,
+            "name": "Moment of Vengeance",
+            "desc": "Clash Win: Heal 5 SP em si mesmo\nClash Lose: Lost 5 SP e Ganhe 2[Binding]Próximo turno. (Uma vez por turno)\nSe esta unidade não acertou um único golpe, perder 5 sp no final do turno"
+        },
+        {
+            "id": 9101607,
+            "name": "Cannot Retreat",
+            "desc": "Durante esse encontro, as funções de retirada não serão ativadas para as identidades de Heathcliff."
+        }
+    ]
+}

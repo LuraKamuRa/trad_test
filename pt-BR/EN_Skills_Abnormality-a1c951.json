@@ -1,0 +1,141 @@
+{
+  "dataList": [
+    {
+      "id": 811301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be The Joy",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] no alvo próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be The Comfort",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +3 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Backet]] ganho [[backet]] igual a [[backet]] em si mesmo"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe +3 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Here's a Gift",
+          "desc": "Se o alvo tiver [[suporte]], e se esta unidade tiver uma velocidade mais rápida, ganhe poder de conflito igual à diferença de velocidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Perca 5 sp"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]] e +3 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's Get Packing",
+          "desc": "Se esta unidade tiver [[suporte]], adicione 'Infligir 1 [[Bracket]] Next Turn' para efeitos de moedas\nTem como alvo a unidade com a velocidade mais baixa\n[[Bracket]] gaste tudo [[suporte]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]]."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] dano bônus de acordo igual a [[suporte]] em si mesmo"
+                },
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]] e +3 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Selecione aleatoriamente 1 de 4 efeitos ([[bracket]], [[bracket]], [[bracket]], [[backet]]). Infligir ou aplicar 3 do efeito selecionado."
+                },
+                {
+                  "desc": "O alvo [[suporte]] perde o SP igual a [[suporte]] contam nesta unidade"
+                },
+                {
+                  "desc": "[[Bracket]] Todos os inimigos perdem 10 sp."
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]] Próximo turno."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time to Get Boxed",
+          "desc": "Se o Shield HP estiver completamente esgotado, fique escalonado no próximo turno.\nSe houver escudo restante HP, ganhe 2 [[suporte]] na próxima curva",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

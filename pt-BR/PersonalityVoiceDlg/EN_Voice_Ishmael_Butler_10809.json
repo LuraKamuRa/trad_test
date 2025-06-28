@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10809_1",
+      "desc": "Aquisição de identidade",
+      "dlg": "Oh, há um pouco de poeira aqui. Lembrar. Nosso mestre tem problemas respiratórios, então ... não, eu farei isso sozinho."
+    },
+    {
+      "id": "lobby_morning_10809_1",
+      "desc": "Saudação matinal",
+      "dlg": "Bom dia, mestre. Espero que você tenha um sono repousante. Lembre -se, você tem uma consulta para atender depois do café da manhã. Certifique -se de participar de todas as refeições para se manter energizado."
+    },
+    {
+      "id": "lobby_noon_10809_1",
+      "desc": "Saudação da tarde",
+      "dlg": "De acordo com seus pedidos, focamos na limpeza do portão da frente, antecipando os convidados que chegam para o almoço.\nAh, aquela mancha vermelha no cascalho são apenas as sobras de lidar com a lue não convidada da noite passada - eu cuidarei disso imediatamente."
+    },
+    {
+      "id": "lobby_night_10809_1",
+      "desc": "Saudação noturna",
+      "dlg": "Estou em serviço noturno esta noite. Posso garantir que quaisquer problemas que possam surgir serão cuidados de maneira rápida e silenciosa. Vou tentar o meu máximo para que você possa ter uma noite repousante, mestre."
+    },
+    {
+      "id": "smalltalk_10809_1",
+      "desc": "Conversas #1",
+      "dlg": "Talvez você possa se deliciar menos ... ao beber. Lady Ryōshū descobriria sobre isso, ela confiscará cada garrafa de licor na mansão.\nSe você está tendo problemas para dormir, darei notícias à equipe da cozinha para preparar um lanche saudável à noite."
+    },
+    {
+      "id": "smalltalk_10809_2",
+      "desc": "Conversas #2",
+      "dlg": "Lady Ryōshū está no limite ultimamente ... provavelmente porque a caça está chegando tão cedo. Eu poli minhas facas e garfos tantas vezes que posso praticamente usá -las como espelhos."
+    },
+    {
+      "id": "smalltalk_10809_3",
+      "desc": "Conversas #3",
+      "dlg": "Eu sei que está muito frio lá fora, mas mantenha suas janelas abertas quando os ventos não forem tão selvagens. Você precisa de tanto ar fresco quanto possível, Mestre. Sua saúde nunca melhorará de outra forma.\n... Se tudo bem com você, você se importaria de passar um tempo na sala de recepção? Vou aquecer a sala na sua ausência."
+    },
+    {
+      "id": "smalltalk_10809_4",
+      "desc": "Chat pós-uptie 1",
+      "dlg": "Eles nem terão tempo para desviar o olhar. Qualquer intruso que ousa pisar na terra do nosso mestre ... eu vou cortar e citar em pedaços como um bom prato de picadas de bife."
+    },
+    {
+      "id": "smalltalk_10809_5",
+      "desc": "Chat pós-uptie 2",
+      "dlg": "Estamos nos reunindo para a caçada, hein ... Claro, eu vou participar. Para a segurança do nosso mestre, para o sucesso da caça ...\nVou ver minha missão até o fim da tempestade de Wuthering."
+    },
+    {
+      "id": "gacksung_10809_1",
+      "desc": "Uptying",
+      "dlg": "Eu sou um mordomo no emprego de sua casa. O que mais eu poderia fornecer além da maior competência?\nVou limpar todos os idiotas que procuram tirar proveito de sua doença."
+    },
+    {
+      "id": "neglect_10809_1",
+      "desc": "Parado",
+      "dlg": "... Mestre? Você poderia considerar ficar em outro lugar? É ... difícil limpar a sala com você em pé no meio. Dessa forma, por favor ..."
+    },
+    {
+      "id": "formation_10809_1",
+      "desc": "Implantação",
+      "dlg": "Tempo de limpeza."
+    },
+    {
+      "id": "battleentry_10809_1",
+      "desc": "Entrada no palco",
+      "dlg": "Caso de adesivo dimensional do mordomo no pronto."
+    },
+    {
+      "id": "battle_select_10809_1",
+      "desc": "Visto em batalha",
+      "dlg": "Sim? Há algo que eu possa ajudá -lo?"
+    },
+    {
+      "id": "battle_endcommand_10809_1",
+      "desc": "Ataques iniciando",
+      "dlg": "Vou espaná -los."
+    },
+    {
+      "id": "battle_enemy_break_10809_1",
+      "desc": "Inimigo cambaleia",
+      "dlg": "Até a velha e crocante de sujeira ..."
+    },
+    {
+      "id": "battle_break_10809_1",
+      "desc": "Escalonado",
+      "dlg": "Hah ...!"
+    },
+    {
+      "id": "battle_kill_10809_1",
+      "desc": "Inimigo morto",
+      "dlg": "... fica espanado no final."
+    },
+    {
+      "id": "battle_dead_10809_1",
+      "desc": "Morte",
+      "dlg": "Apolo ... Gies ... Mestre. Eu falhei ... minha missão ..."
+    },
+    {
+      "id": "choice_success_p_10809_2",
+      "desc": "Verifique se passou",
+      "dlg": "Mas é claro. Eu sou um mordomo competente."
+    },
+    {
+      "id": "choice_fail_n_10809_1",
+      "desc": "Verifique a falha",
+      "dlg": "T-isso é ... minhas desculpas."
+    },
+    {
+      "id": "battle_clear_10809_1",
+      "desc": "Victory Cry",
+      "dlg": "Fizemos um pouco de tumulto, mas colocamos todos eles na lixeira. Embora eu não tenha certeza se isso será para a satisfação de Lady Ryōshū."
+    },
+    {
+      "id": "battle_clear_ex_10809_1",
+      "desc": "Condições extras cumpridas",
+      "dlg": "Nem deixou uma mancha de poeira para trás. Tenho certeza de que o Mestre nem percebe o que aconteceu da noite para o dia."
+    },
+    {
+      "id": "battle_defeat_10809_1",
+      "desc": "Derrota lamento",
+      "dlg": "Acho que estou com mais uma repreensão de Lady Ryōshū. Bem, o que posso fazer?"
+    }
+  ]
+}

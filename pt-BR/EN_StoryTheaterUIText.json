@@ -1,0 +1,312 @@
+{
+  "dataList": [
+    {
+      "id": "MAINSTORY",
+      "content": "História principal"
+    },
+    {
+      "id": "PERSONALITYSTORY",
+      "content": "Arquivo de identidade"
+    },
+    {
+      "id": "NOTE_OF_DANTE",
+      "content": "Notas de Dante"
+    },
+    {
+      "id": "EPISODE",
+      "content": "Ep. {0}"
+    },
+    {
+      "id": "PAGE",
+      "content": "Pág. {0}"
+    },
+    {
+      "id": "PROGRESS",
+      "content": "Progresso"
+    },
+    {
+      "id": "Before",
+      "content": "Pré-batalha"
+    },
+    {
+      "id": "After",
+      "content": "Pós-batalha"
+    },
+    {
+      "id": "None",
+      "content": ""
+    },
+    {
+      "id": "ENTER",
+      "content": "Digitar"
+    },
+    {
+      "id": "CLOSE",
+      "content": "Fechar"
+    },
+    {
+      "id": "MIRRORWOLDS",
+      "content": "Mundos espelhados"
+    },
+    {
+      "id": "STORY",
+      "content": "História"
+    },
+    {
+      "id": "SECURITY_MATERIAL",
+      "content": "Logs classificados"
+    },
+    {
+      "id": "SPEECH",
+      "content": "Diálogo"
+    },
+    {
+      "id": "OPEN_CONDITION",
+      "content": "Para desbloquear:"
+    },
+    {
+      "id": "DEEP_ANALYSIS",
+      "content": "Em profundidade:"
+    },
+    {
+      "id": "DATA_DOWNLOAD",
+      "content": "Download de dados"
+    },
+    {
+      "id": "DATA_DOWNLOAD_DESC",
+      "content": "Reproduzir arquivos de som para diálogo expressado?\nDados adicionais serão baixados."
+    },
+    {
+      "id": "DATA_DOWNLOAD_NO",
+      "content": "Sem voz\n(0,00 MB)"
+    },
+    {
+      "id": "DATA_DOWNLOAD_YES",
+      "content": "Voed\n({0} mb)"
+    },
+    {
+      "id": "CV_1",
+      "content": "Min Seung-woo"
+    },
+    {
+      "id": "CV_2",
+      "content": "Park ji-yoon"
+    },
+    {
+      "id": "CV_3",
+      "content": "Kim Yea-Lim"
+    },
+    {
+      "id": "CV_4",
+      "content": "Yi sae-ah"
+    },
+    {
+      "id": "CV_5",
+      "content": "Kwon Sung-hyuk"
+    },
+    {
+      "id": "CV_6",
+      "content": "Kim Sin-woo"
+    },
+    {
+      "id": "CV_7",
+      "content": "Hong Seung-hyo"
+    },
+    {
+      "id": "CV_8",
+      "content": "Jang Ye-Na"
+    },
+    {
+      "id": "CV_9",
+      "content": "Yoon A-Young"
+    },
+    {
+      "id": "CV_10",
+      "content": "Kim Da-OL"
+    },
+    {
+      "id": "CV_11",
+      "content": "Kim Bo-Na"
+    },
+    {
+      "id": "CV_12",
+      "content": "Choi Han"
+    },
+    {
+      "id": "gacksung",
+      "content": "UPTIE"
+    },
+    {
+      "id": "EnterStoryPopupDesc",
+      "content": "Você vai entrar\n{0}?"
+    },
+    {
+      "id": "No",
+      "content": "Cancelar"
+    },
+    {
+      "id": "DetailStoryDungeon",
+      "content": "Dentro da história da história"
+    },
+    {
+      "id": "NeedsPersonality",
+      "content": "Identidade necessária"
+    },
+    {
+      "id": "NeedsPersonalityButton",
+      "content": "Exibir requisitos"
+    },
+    {
+      "id": "MainStoryOpenCondition_101",
+      "content": "Limpar 1-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_102",
+      "content": "Limpar 2-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_103",
+      "content": "Limpar 3-1"
+    },
+    {
+      "id": "PersonalityStory_OpenCodition",
+      "content": "Desbloqueado no Uptie Tier {0}"
+    },
+    {
+      "id": "OTHERSTORY",
+      "content": "Detour Tales"
+    },
+    {
+      "id": "DanteNote_Record",
+      "content": "Registro"
+    },
+    {
+      "id": "DanteNote_Time",
+      "content": "Tempo"
+    },
+    {
+      "id": "DanteNote_Update",
+      "content": "Atualizar"
+    },
+    {
+      "id": "DanteNote_Main",
+      "content": "Não sei por onde começar.\nAcho que é natural, já que não sei dizer o quanto esqueci de começar.\nTalvez eu comece fazendo anotações sempre que encontro coisas que não me lembro."
+    },
+    {
+      "id": "MINI",
+      "content": "Mini"
+    },
+    {
+      "id": "DetailStoryMini",
+      "content": "Mini episódios"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9103",
+      "content": "Limpar 3,5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9010",
+      "content": "Limpar 3,5-9"
+    },
+    {
+      "id": "MainStoryOpenCondition_104",
+      "content": "Claro 4-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9104",
+      "content": "Limpar 4.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9011",
+      "content": "Limpar 4.5-11"
+    },
+    {
+      "id": "MainStoryOpenCondition_105",
+      "content": "Limpar 5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9012",
+      "content": "Limpar 5-36"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9105",
+      "content": "Limpar 5.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9013",
+      "content": "Clear 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9014",
+      "content": "Clear 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9107",
+      "content": "Clear 5.5-13"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9015",
+      "content": "Clear 5.5-24"
+    },
+    {
+      "id": "MainStoryOpenCondition_106",
+      "content": "Limpar 6-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9016",
+      "content": "Limpar 6-48"
+    },
+    {
+      "id": "theStoryOf",
+      "content": "História"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9109",
+      "content": "Clear 6.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9017",
+      "content": "Limpar 6-48"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9110",
+      "content": "Clear 6.5-16"
+    },
+    {
+      "id": "personality_voice_section_before_clear_chapter_format",
+      "content": "Pré\nCanto {0}"
+    },
+    {
+      "id": "personality_voice_section_after_clear_chapter_format",
+      "content": "Publicar\nCanto {0}"
+    },
+    {
+      "id": "PersonalityStory_OpenCodition_UnlockCode106",
+      "content": "Limpo Canto VI"
+    },
+    {
+      "id": "PersoanlityStory_After",
+      "content": "(Depois)"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9018",
+      "content": "Clear 6.5-30"
+    },
+    {
+      "id": "MainStoryOpenCondition_107",
+      "content": "Limpar 7-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9019",
+      "content": "Limpar 7-36"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9114",
+      "content": "Clear 7.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9116",
+      "content": "Clear 7.5-15"
+    }
+  ]
+}

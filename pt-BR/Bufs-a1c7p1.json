@@ -1,0 +1,186 @@
+{
+    "dataList": [
+        {
+            "id": "BloodScissor",
+            "name": "Blood-tinged Scissorblades",
+            "desc": "- Valor Máximo: 10\n- Estágio 1 Blood-tinged Scissorblades\n- Usado para habilidades especiais",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodScissorTwo",
+            "name": "Blood-tinged Scissorblades II",
+            "desc": "- Valor Máximo: 20\n- Estágio 2 Blood-tinged Scissorblades\n- Início do Turno: ganhe 1 Nível de Ataque Aumentado e 1 Nível de Defesa Diminuído para cada 5 Pilhas\n- Usado para certas Habilidades",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodScissorThree",
+            "name": "Blood-tinged Scissorblades III",
+            "desc": "- Valor Máximo: 30\n- Estágio 3 Scissorblades Tingidas de Sangue\n- Início do Turno: ganhe 2 Nível de Ataque Aumentado e 1 Nível de Defesa Diminuído para cada 5 Pilhas\n- Usado para certas Habilidades",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodDinner",
+            "name": "Bloodfeast",
+            "desc": "- Valor Máximo: 999\n- Armazena todo o dano de Sangramento causado nesta zona\n- Reinicia ao mover para uma zona diferente\n- Este valor é compartilhado por todos os personagens\n- Entre os aliados, se houver um Kindred mais alto que também consuma Bloodfeast no mesmo turno, esta unidade não pode consumir Bloodfeast até que o aliado o consuma primeiro.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodDinner_Accumulation",
+            "name": "Bloodfeast Consumed",
+            "desc": "- Valor Máximo: 999\n- Total de Bloodfeast consumido neste Encontro: {0}",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FamineBlood_LowMorale",
+            "name": "Hunger",
+            "desc": "- Moral baixo\n- Início do turno: ganhe 1 Bind e 3 Attack Power Up. Fim do turno: receba 5 SP de dano",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FamineBlood_Panic",
+            "name": "Hunger",
+            "desc": "- Pânico\nInício de Turno: Ganhe 2 Bind e 4 Attack Power Up.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DuelDeclaration_Camille",
+            "name": "Declared Duel - Camille",
+            "desc": "- Em um Clash entre a unidade que infligiu Declared Duel e a unidade com o status, o declarante tem +1 Clash Power. Ao acertar, o declarante ganha 1 Haste no próximo turno. (4 vezes por turno)\n- Expira quando a unidade inflige Declared Duel em um alvo diferente. \n- Substituído quando outra unidade inflige Declared Duel no mesmo alvo.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RecklessDuel",
+            "name": "Foolhardy Duel",
+            "desc": "Fim do turno: ganhe 1 Clash Power Up no próximo turno para cada 10% dos HP perdidos. (máx. 5)\nFim do turno: ganhe 1 Bind no próximo turno para cada 10% dos HP perdidos. (máx. 5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ConcentratedAttack",
+            "name": "Focused Attack",
+            "desc": "Usado em certos Slots",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TrulyWeak",
+            "name": "The Weak",
+            "desc": "- Causa -10% de dano\n- Fim do turno: Reduz o valor em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RealPaperBear",
+            "name": "An Actual Bear",
+            "desc": "- Ele come pessoas. Que assustador!",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodScissorScars",
+            "name": "A Deep Wound",
+            "desc": "- Em Clash Lose: ganhe +3 Bleed Count e acione Bleed em si mesmo. Então, perca 1 Bleed Count.\n- Expira no Turn End",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "LineCutting",
+            "name": "Sewing Target",
+            "desc": "- Priorizado por ???.\n- Expira no Fim do Turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingBarberOne",
+            "name": "Withered",
+            "desc": "- Faminto por sangue por um longo, longo tempo.\n- Perca 15 níveis de ataque\n- Perca 15 níveis de defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingBarberTwo",
+            "name": "Withered",
+            "desc": "- Faminto por sangue por um longo, longo tempo.\n- Perca 25 Nível de Ataque\n- Perca 25 Nível de Defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodShooting",
+            "name": "Blood-shooting!!",
+            "desc": "Na Morte:\n- Bloodfeast +30\n- ganhe 2 recursos E.G.O para o recurso E.G.O menos possuído\n- Próximo turno: todos os aliados ganham 0,1 em todas as Resistências Físicas. Este efeito pode acumular. (máx. 5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RighteousFeeling",
+            "name": "HOW RIGHTEOUS!!",
+            "desc": "- Em cada Fim de Turno: ganhe 1 Aceleração, 3 Aumento de Nível de Ofensiva e 3 Redução de Nível de Defesa no próximo turno\n- Ganhe 2 Aumentos de Nível de Ofensiva adicionais após cada 3 turnos cumulativos (máx. 6)\n- Em Vitória de Choque, cure 3 SP\n- Em Morte, ganhe 1 Aumento de Poder de Choque no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DuelDeclarationMeursault",
+            "name": "Declared Duel - Meursault",
+            "desc": "- Em um Clash entre a unidade que infligiu Declared Duel e a unidade com o status, o declarante tem +1 Clash Power. Ao acertar, o declarante ganha 1 Haste no próximo turno. (4 vezes por turno)\n- Expira quando a unidade inflige Declared Duel em um alvo diferente. \n- Substituído quando outra unidade inflige Declared Duel no mesmo alvo.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ConcentratedAttackMeursault",
+            "name": "Focused Attack - Meursault",
+            "desc": "<Somente Encontros Focados>\nA unidade que infligiu este Ataque Focado ganha os seguintes efeitos com base na Pilha de Ataque Focado do Slot alvo.\n· 1x Pilha: Ganhe Poder de Choque +1\n· 2x Pilha: Ganhe Poder Base +1\n· 3x Pilha: Ganhe Poder Base +1 e Poder de Moeda +1\n- Expira se, por um turno, a unidade que o infligiu não conseguir atingir o Slot infligido com seu Ataque Focado.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Duello_LowMorale",
+            "name": "Duel Specialist",
+            "desc": "- Moral baixo\n- Início do turno: Ganhe 2 níveis de ataque. Em Clash Lose, ganhe 1 nível de defesa reduzido (máx. 3 por turno). Velocidade mínima -1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Duello_Panic",
+            "name": "Duel Specialist",
+            "desc": "- Pânico\n- Início do turno: Ganhe 4 níveis de ataque. Em Perda de Choque, ganhe 2 níveis de defesa reduzidos (máx. 6 por turno). Velocidade mínima -1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RighteousFeelingSancho",
+            "name": "I will take responsibility, through my bloody tears.",
+            "desc": "- Ganhe 1 Hardblood adicional toda vez que esta unidade ganhar Hardblood. (5 vezes por turno)\n- Em cada Fim de Turno: ganhe 2 Haste e 3 Offense Level Up no próximo turno\n- Ganhe 2 Offense Level Up adicionais após cada 3 turnos cumulativos (máx. 6)\n- Em Clash Win, cure 3 SP\n- Em Kill, ganhe 1 Clash Power Up no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnfinishedDreamSancho",
+            "name": "In which is recounted the thralldom to blood thicker than water.",
+            "desc": "- Ganhe 2 Hardblood adicionais toda vez que esta unidade ganhar Hardblood. (5 vezes por turno)\n- Em cada Fim de Turno: ganhe 2 Haste e 3 Offense Level Up no próximo turno\n- Ganhe 2 Offense Level Up adicionais após cada 3 turnos cumulativos (máx. 6)\n- Em Clash Win, cure 3 SP\n- Em Kill, ganhe 2 Clash Power Up no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHopeSancho",
+            "name": "Which treats the banquet of blood for the Family's suffering.",
+            "desc": "Ganhe Clash Power Up igual a Stack\nCausa +10% a mais de dano",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHopeTwoSancho",
+            "name": "Of how a lone Bloodfiend came to bear the guilt of slaying the Father who forsook his Children.",
+            "desc": "- Poder de Choque +4 para cada valor\n- Aplique Escudo a si mesmo e a todos os aliados no Início do Combate\n- Causa +20% a mais de dano\n- Ao Acertar, causa 1 de dano fixo também",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

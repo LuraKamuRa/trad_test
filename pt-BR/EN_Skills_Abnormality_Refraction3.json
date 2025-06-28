@@ -1,0 +1,656 @@
+{
+  "dataList": [
+    {
+      "id": 857801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gossypium Planting",
+          "desc": "[[Bracket]] infligir 3 [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[Bracket]] e +1 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wound Planting",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Draining Roots",
+          "desc": "[[SUPORTE]]\nEntre os alvos com [[suporte]], ataque a unidade com a velocidade mais lenta;\nAcordo ([[suporte]] x 10)% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cure por ([[suporte]] x 5)% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cure por ([[suporte]] x 5)% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flourishing Gossypium",
+          "desc": "Ataca o alvo com o mais [[suporte]]\n[[Bracket]] Se o alvo principal for o alvo com mais [[suporte]], potência base +5, infligir x2 os efeitos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] e 2 [[bracket]] Próxima turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]] e +4 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scattering Gossypium",
+          "desc": "Entre os alvos com [[suporte]], ataque a unidade com o menor HP\n[[Bracket]] Se o alvo principal for o alvo com o máximo [[suporte]], potência base +5\n[[Bracket]] [[Bracket]] O estado expira na próxima curva.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scattering Wind",
+          "desc": "[[Bracket]] Infligir 3 [[Bracket]] e +1 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Encroaching Gossypium",
+          "desc": "[[SUPORTE]]\nPrioriza a unidade com a velocidade mais baixa\nOs danos causados ​​por essa habilidade de ataque são fixados para 0.\n[[Bracket]] Digite [[Bracket]] Estado no próximo turno.",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scattering Red-stained Gossypium",
+          "desc": "Prioriza o alvo com o mais [[suporte]]\n[[Bracket]] Se o alvo principal for o alvo com o máximo [[suporte]], potência base +10\nSe o alvo tiver mais de 10 [[suporte]], causar + 50% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] e +4 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] Heal HP igual a [[suporte]] no alvo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] e +4 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] Heal HP igual a [[suporte]] no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flame Strike",
+          "desc": "[[Bracket]] Ganho 1 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ardor Blossom Pinions",
+          "desc": "[[Bracket]] Ganho 1 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spark",
+          "desc": "[[Bracket]] infligir [[suporte]] igual a [[bracket]] no alvo.\n[[Bracket]] infligir +2 [[bracket]] contagem.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 3+ [[bracket]], infligir +2 [[bracket]] contagem, 10 [[bracket]] e 2 [[bracket]]."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]] e +4 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dust Explosion",
+          "desc": "[[Bracket]] Se o Target tiver 7+ [[Bracket]], essa habilidade ganha poder de confronto +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] contagem igual ao número de habilidades de afinidade da ira de que a mariposa flor de flor usará essa curva"
+                },
+                {
+                  "desc": "[[Bracket]] Contra o inimigo com a velocidade mais baixa, infligir [[suporte]] contagem igual ao número de habilidades de afinidade da ira de que o ardor Blossom Moth usará esta vez"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual ao número de habilidades de afinidade da ira que o Ardor Blossom Moth usará essa curva"
+                },
+                {
+                  "desc": "[[Bracket]] Contra o inimigo com a velocidade mais baixa, infligir [[suporte]] igual ao número de habilidades de afinidade da ira que a mariposa de flor de ardor usará essa curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ardor Blossom Star",
+          "desc": "Ganhar poder de conflito igual a (# da ira Habilidades de afinidade de que a mariposa de flor de ardor usará esta curva x2)\n[[Bracket]] Infligir (# das habilidades de afinidade da ira que a mariposa da Blossom usará essa curva x2) [[suporte]] a todos os inimigos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual ao número de habilidades de afinidade da ira que o Ardor Blossom Moth usará essa curva"
+                },
+                {
+                  "desc": "[[Bracket]] Contra o inimigo com a velocidade mais baixa, infligir [[suporte]] e [[suporte]] contagem igual ao número de habilidades de afinidade da ira de que o Ardor Blossom Moth usará esta curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual ao número de habilidades de afinidade da ira que o Ardor Blossom Moth usará essa curva"
+                },
+                {
+                  "desc": "[[Bracket]] Contra o inimigo com a velocidade mais baixa, infligir [[suporte]] e [[suporte]] contagem igual ao número de habilidades de afinidade da ira de que o Ardor Blossom Moth usará esta curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] aumenta o limiar de cambaleou em 10% dos danos causados"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 10 [[suporte]] contra alvos que foram escalonados por esse ataque."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Bracket]] infligir 4 [[suporte]].\n[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857712,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stoke the Flames",
+          "desc": "[[SUPORTE]]\n[[SUPORTE]]\nOs danos causados ​​por essa habilidade de ataque são fixados para 0.",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Penetrate",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Be Insidious",
+          "desc": "[[Bracket]] dobrar o [[suporte]] e [[bracket]] infligidos pelos efeitos da moeda.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]] e +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Grip",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] Próxima turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Constrict",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Shun",
+          "desc": "Se houver uma unidade sobrevivente 'GRASP', Power final +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]] e +3 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Caso 10 SP dano"
+                },
+                {
+                  "desc": "[[Bracket]] Levante o limite de cambaleou até os 20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "And it Shall Contempt All",
+          "desc": "Se houver uma unidade sobrevivente 'GRASP', Power final +5\n[[Bracket]] Remova [[suporte]] de todos os inimigos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 10 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]] e +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] causar 15 de dano SP"
+                },
+                {
+                  "desc": "[[Bracket]] Aumente o limiar de cambaleante em 30"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Bracket]] Deal 4 SP dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6:5",
+          "desc": "[[Bracket]] [[suporte]]\nTome dano no lugar do alvo. Fique escalonado no próximo turno.\nInfligir marcados em um inimigo aleatório sem [[suporte]].\n[[Bracket]] Todas as velas se curam para Max HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] O máximo de HP desta unidade diminui 5%."
+                },
+                {
+                  "desc": "[[Suporte]] infligir 10 queima em si mesmo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] O máximo de HP desta unidade diminui 5%."
+                },
+                {
+                  "desc": "[[Suporte]] infligir 10 queima em si mesmo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scorn Not the Prophecy",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]] e +2 [[bracket]] contam no alvo"
+                },
+                {
+                  "desc": "[[Suporte]] Cura 20 hp em si mesmo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Insidious Pallidification",
+          "desc": "[[Bracket]] Ganhe 10% do máximo de HP como escudo. Para cada ego de Queequeg, obtenha 0,3% adicional de HP máximo como escudo adicional.\nQuando atacado enquanto protegeu, o atacante perde 5 sp\nQuando atacado, use esta habilidade uma vez para cada 10 ego de Queequeg",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

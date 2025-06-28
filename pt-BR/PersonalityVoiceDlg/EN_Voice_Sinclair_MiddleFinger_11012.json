@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_11012_1",
+      "desc": "Aquisição de identidade",
+      "dlg": "Atravessamos todos na lista de hoje, e ... tudo bem, hora de dizer ao Big Brother que estamos prontos para perseguir aqueles ladrões de cupom de cabelo."
+    },
+    {
+      "id": "lobby_morning_11012_1",
+      "desc": "Saudação matinal",
+      "dlg": "Uh-huh. Bom dia para você também. ... Ei, apenas um heads-up, aparentemente a grande irmã está descendo para se juntar a nós durante a hora das refeições. ... Não surte, eu estarei lá com você para a preparação."
+    },
+    {
+      "id": "lobby_noon_11012_1",
+      "desc": "Saudação da tarde",
+      "dlg": "Desculpe, não vou me juntar para almoçar hoje. Tenho que começar a se preparar para ir para o leste."
+    },
+    {
+      "id": "lobby_night_11012_1",
+      "desc": "Saudação noturna",
+      "dlg": "Tudo certo? Ufa ... já é pôr do sol, hein. Parece que o irmão jovem saiu para verificar nossos 'negócios' e ... somos ... HM. Vamos começar cuidando de alguns alvos mais fáceis do livro. Teremos que limpar nossa programação se quisermos acompanhar o irmão mais velho."
+    },
+    {
+      "id": "smalltalk_11012_1",
+      "desc": "Conversas #1",
+      "dlg": "É o dia de reestruturação da H Corp. em breve, não é? Isso ficará com todos os vermes escondidos nas ruas de backstreets para sair rastreando ... fugitivos nojentos do livro de vingança, resíduos de papel ... vamos aproveitar a chance de limpar o lixo."
+    },
+    {
+      "id": "smalltalk_11012_2",
+      "desc": "Conversas #2",
+      "dlg": "Normalmente, isso se enquadrava sob a jurisdição da nossa família oriental, mas ... nosso irmão mais velho estava morto em lidar pessoalmente com esse caso específico."
+    },
+    {
+      "id": "smalltalk_11012_3",
+      "desc": "Conversas #3",
+      "dlg": "Parece que ... A lista de vingança da família 8 do Distrito 8 foi adicionada à nossa. Certo, então cuidamos desses caras, e eles nos ignoram começando um tumulto no leste, hein. O que estava dizendo de novo? Nós arranhamos suas costas e eles arranham o nosso, sim."
+    },
+    {
+      "id": "smalltalk_11012_4",
+      "desc": "Chat pós-uptie 1",
+      "dlg": "Você está dificultando as coisas para nós dois. Por que você não aceita sua punição em vez de revidar e fazer uma bagunça?\nVocê sabe que, uma vez que seu nome estiver no livro, o meio pare para não rastreá -lo onde quer que você vá, certo?"
+    },
+    {
+      "id": "smalltalk_11012_5",
+      "desc": "Chat pós-uptie 2",
+      "dlg": "Eles estão realmente nos fazendo um sólido, permitindo que esses favores paguem pelo pedido do nosso irmão mais velho. Terrivelmente generoso deles.\nDevemos presentear alguns bolus caros como agradecimentos, pelo menos ..."
+    },
+    {
+      "id": "neglect_11012_1",
+      "desc": "Parado",
+      "dlg": "... Você gostaria de algumas recomendações em lugares para visitar no Distrito 8, Big Bro?"
+    },
+    {
+      "id": "gacksung_11012_1",
+      "desc": "Uptying",
+      "dlg": "Aha ... sim, sim. Pipa para baixo, um de cada vez. Onde está o Big Brother foi novamente?"
+    },
+    {
+      "id": "formation_11012_1",
+      "desc": "Implantação",
+      "dlg": "Você pode contar comigo para guiar o seu caminho através da H Corp. e do Distrito 8."
+    },
+    {
+      "id": "battleentry_11012_1",
+      "desc": "Entrada no palco",
+      "dlg": "Vamos cuidar de uma vingança de cada vez."
+    },
+    {
+      "id": "battle_select_11012_1",
+      "desc": "Visto em batalha",
+      "dlg": "Quem se intrometeram em nossos negócios?"
+    },
+    {
+      "id": "battle_endcommand_11012_1",
+      "desc": "Ataques iniciando",
+      "dlg": "Eu os baterei para pó."
+    },
+    {
+      "id": "battle_enemy_break_11012_1",
+      "desc": "Inimigo cambaleia",
+      "dlg": "Não resista."
+    },
+    {
+      "id": "battle_break_11012_1",
+      "desc": "Escalonado",
+      "dlg": "Você ... pequeno ... merda!"
+    },
+    {
+      "id": "battle_kill_11012_1",
+      "desc": "Inimigo morto",
+      "dlg": "... Legal, agora eu posso atravessar isso do livro."
+    },
+    {
+      "id": "battle_dead_11012_1",
+      "desc": "Morte",
+      "dlg": "Heh ... heh. Matando -me não vai limpar seu nome do livro."
+    },
+    {
+      "id": "choice_success_p_11012_2",
+      "desc": "Verifique se passou",
+      "dlg": "Fico feliz que você tenha achado minha orientação útil, irmão mais velho."
+    },
+    {
+      "id": "choice_fail_n_11012_1",
+      "desc": "Verifique a falha",
+      "dlg": "... Por que não apenas quebramos isso ao meio?"
+    },
+    {
+      "id": "battle_clear_11012_1",
+      "desc": "Victory Cry",
+      "dlg": "Finalmente tivemos nossa vingança, mas muitos da família morreram no processo. Mesmo aqueles com quem eu compartilhei uma refeição com apenas algumas horas atrás ... vou ... vingar você, juro que vou."
+    },
+    {
+      "id": "battle_clear_ex_11012_1",
+      "desc": "Condições extras cumpridas",
+      "dlg": "O Big Brother nos deu alguns bolus de tartaruga como recompensa por um trabalho bem feito. Aqui estão algumas informações para os irmãos e irmãs que nunca estiveram no Distrito 8 antes - essas coisas são muito raras. Então, considere -se sortudo."
+    },
+    {
+      "id": "battle_defeat_11012_1",
+      "desc": "Derrota lamento",
+      "dlg": "... Eu não me importo que falhássemos. É o meu fracasso, não o do meio.\nE o meio sempre paga suas dívidas."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "dataList": [
+        {
+            "id": 107804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let's Get Packing",
+                    "desc": "Se esta unidade tiver[AaCeSeBa], adicione 'infligir 1[Paralysis]Próximo turno 'para efeitos de moedas\nTem como alvo a unidade com a velocidade mais baixa[EndBattle]Gastar tudo[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Dano de bônus de acordo igual a[Breath]em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Breath]e +3[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Selecione aleatoriamente 1 de 4 efeitos ([Protection], Assim,[Enhancement], Assim,[Vulnerable], Assim,[Paralysis]). Infligir ou aplicar 3 do efeito selecionado."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]O alvo perde SP igual a[Charge]Conte com esta unidade"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Todos os inimigos perdem 10 sp."
+                                },
+                                {
+                                    "desc": "[EnemyKillFail]Ganho 2[Paralysis]Próximo turno."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

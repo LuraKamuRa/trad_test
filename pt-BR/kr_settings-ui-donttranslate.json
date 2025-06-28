@@ -1,0 +1,248 @@
+{
+    "dataList": [
+        {
+            "id": "mainui_settings_game",
+            "content": "Jogabilidade"
+        },
+        {
+            "id": "mainui_settings_graphic",
+            "content": "Gráficos"
+        },
+        {
+            "id": "mainui_settings_sound",
+            "content": "Áudio"
+        },
+        {
+            "id": "mainui_settings_notice",
+            "content": "Notificações"
+        },
+        {
+            "id": "mainui_settings_etc",
+            "content": "Diversos."
+        },
+        {
+            "id": "mainui_settings_download",
+            "content": "Download"
+        },
+        {
+            "id": "mainui_settings_download_complete",
+            "content": "Download Completo"
+        },
+        {
+            "id": "mainui_settings_video_resource",
+            "content": "Recursos de vídeo"
+        },
+        {
+            "id": "mainui_settings_audio_resource",
+            "content": "Recursos de áudio"
+        },
+        {
+            "id": "mainui_settings_animation_resource",
+            "content": "Recursos de animação"
+        },
+        {
+            "id": "mainui_settings_ego_presentation",
+            "content": "Animação E.G.O"
+        },
+        {
+            "id": "mainui_settings_on",
+            "content": "Sobre"
+        },
+        {
+            "id": "mainui_settings_off",
+            "content": "Desligado"
+        },
+        {
+            "id": "mainui_settings_play_once_per_day",
+            "content": "Uma vez por dia"
+        },
+        {
+            "id": "mainui_settings_resolution",
+            "content": "Resolução"
+        },
+        {
+            "id": "mainui_settings_resolution_windowded",
+            "content": "Com janela"
+        },
+        {
+            "id": "mainui_settings_resolution_fullscreen",
+            "content": "Tela cheia"
+        },
+        {
+            "id": "mainui_settings_texquality",
+            "content": "Qualidade da textura"
+        },
+        {
+            "id": "mainui_settings_resolution_warning",
+            "content": "Resoluções mais altas podem fazer com que o dispositivo aqueça e consuma mais energia."
+        },
+        {
+            "id": "mainui_settings_fps_warning",
+            "content": "Taxas de quadros mais altas podem fazer com que o dispositivo aqueça e consuma mais energia."
+        },
+        {
+            "id": "mainui_settings_low",
+            "content": "Baixo"
+        },
+        {
+            "id": "mainui_settings_middle",
+            "content": "Médio"
+        },
+        {
+            "id": "mainui_settings_high",
+            "content": "Alto"
+        },
+        {
+            "id": "mainui_settings_postprocessing",
+            "content": "Pós-processamento"
+        },
+        {
+            "id": "mainui_settings_ppon",
+            "content": "Sobre"
+        },
+        {
+            "id": "mainui_settings_ppoff",
+            "content": "Desligado"
+        },
+        {
+            "id": "mainui_settings_ppdesc",
+            "content": "Controla efeitos de câmera em batalha. Afeta o desempenho do jogo."
+        },
+        {
+            "id": "mainui_settings_antialiasing",
+            "content": "Anti-aliasing"
+        },
+        {
+            "id": "mainui_settings_clear",
+            "content": "Reiniciar"
+        },
+        {
+            "id": "mainui_settings_clear_ask",
+            "content": "Redefinir tudo para o padrão?"
+        },
+        {
+            "id": "mainui_settings_render_acceleration",
+            "content": "Renderização Acelerada"
+        },
+        {
+            "id": "mainui_settings_sound_master",
+            "content": "Mestre"
+        },
+        {
+            "id": "mainui_settings_sound_sfx",
+            "content": "Efeitos sonoros"
+        },
+        {
+            "id": "mainui_settings_sound_voice",
+            "content": "Voz"
+        },
+        {
+            "id": "mainui_settings_sound_battle_announcer",
+            "content": "Locutor"
+        },
+        {
+            "id": "mainui_settings_notice_enkephalin_full",
+            "content": "Recuperação de Encefalina"
+        },
+        {
+            "id": "mainui_settings_notice_ads",
+            "content": "Avisos promocionais"
+        },
+        {
+            "id": "mainui_settings_notice_ads_night",
+            "content": "Avisos promocionais (noite)"
+        },
+        {
+            "id": "mainui_settings_change_launguage",
+            "content": "Linguagem"
+        },
+        {
+            "id": "mainui_settings_change_launguage_ask",
+            "content": "As alterações de idioma serão aplicadas após reiniciar o jogo."
+        },
+        {
+            "id": "mainui_settings_faq_btn",
+            "content": "Atendimento ao Cliente"
+        },
+        {
+            "id": "connect_to_google_account",
+            "content": "Link com o Google"
+        },
+        {
+            "id": "connect_to_apple_account",
+            "content": "Link com a Apple"
+        },
+        {
+            "id": "explain_sucession",
+            "content": "Se você fechar a conta, todos os dados de jogo e compras serão excluídos."
+        },
+        {
+            "id": "explain_sucession_remain_days",
+            "content": "Você receberá um período de carência de 7 dias. Você pode restaurar a conta se fizer login antes do fim do período."
+        },
+        {
+            "id": "explain_writing_code_for_sucession",
+            "content": "※ Se você concorda com os termos acima,\npor favor, digite as letras que você vê na caixa."
+        },
+        {
+            "id": "explain_secession_status",
+            "content": "A conta está atualmente em um período de encerramento.\nTempo restante: {0}D {1}H {2}M\nVocê pode recuperar a conta se fizer login agora.\nRecuperar a conta?"
+        },
+        {
+            "id": "recover",
+            "content": "Recuperar"
+        },
+        {
+            "id": "request_sucession",
+            "content": "Solicitar encerramento"
+        },
+        {
+            "id": "request_sucession_success",
+            "content": "Fechamento solicitado com sucesso."
+        },
+        {
+            "id": "mainui_settings_account",
+            "content": "Conta"
+        },
+        {
+            "id": "account_secede",
+            "content": "Fechar conta"
+        },
+        {
+            "id": "connected_accounts",
+            "content": "Contas vinculadas"
+        },
+        {
+            "id": "mainui_settings_bloom",
+            "content": "Florescer"
+        },
+        {
+            "id": "mainui_settings_blur",
+            "content": "Borrão"
+        },
+        {
+            "id": "mainui_settings_bloomdesc",
+            "content": "Controla a propagação de efeitos de luz. Afeta o desempenho do jogo."
+        },
+        {
+            "id": "mainui_settings_blurdesc",
+            "content": "Controla efeitos de desfoque. Afeta o desempenho do jogo."
+        },
+        {
+            "id": "mainui_settings_fps_common",
+            "content": "FPS normal"
+        },
+        {
+            "id": "mainui_settings_fps_battle",
+            "content": "FPS de combate"
+        },
+        {
+            "id": "mainui_settings_renderingscale",
+            "content": "Escala de renderização"
+        },
+        {
+            "id": "mainui_settings_renderingscale_warning",
+            "content": "Recomendamos que você defina como 「Alto」no PC. No celular, 「Médio」ou inferior é recomendado.\nUm valor de escala de renderização mais alto pode levar a um maior consumo de energia e calor."
+        }
+    ]
+}

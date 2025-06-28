@@ -1,0 +1,340 @@
+{
+    "dataList": [
+        {
+            "id": 9156,
+            "name": "Decamillennial Hearthflame",
+            "desc": "Fim do turno: inimigos com 3+ [Combustão] Contagem ativa [Combustão] mais uma vez (reduz [Combustão] Contagem em 1)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9156,
+                    "simpleDesc": ""
+                }
+            ]
+        },
+        {
+            "id": 9158,
+            "name": "Purloined Flame",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam [Combustão] ou 'Queimadura Única'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nAo Acertar com uma Habilidade (incluindo Habilidades E.G.O): se o alvo tiver 3+ Contagem de [Combustão], ative [Combustão] uma vez no alvo. (o alvo perde 1 Contagem de [Combustão]; ativa uma vez por Habilidade)\n\nFim do Turno: alvos com 3+ Contagem de [Combustão] ativam [Combustão] mais uma vez (o alvo perde 1 Contagem de [Combustão])\n\nSe um alvo com [Combustão] for derrotado (para Anormalidades, quando o Núcleo é derrotado), inflija sua Potência de [Combustão] restante a um dos inimigos com a menor Potência de [Combustão] no próximo Início do Turno.\n\nInício do Turno: neste turno, inflija 4 [AtaqueDiminuído] a inimigos com [Combustão]\n\nSe um alvo com [Combustão] for derrotado, no próximo Início do Turno, (Potência de [Combustão] do inimigo derrotado / 15) aliados com Habilidades que infligem [Combustão] ganham 2 [AtaqueDmgAumento]. (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9158,
+                    "simpleDesc": "Activate [Combustion] once"
+                },
+                {
+                    "abilityID": 91581,
+                    "simpleDesc": "Activate [Combustion] 1 more time"
+                },
+                {
+                    "abilityID": 91582,
+                    "simpleDesc": "Inflict ([Combustion] Potency on defeated enemy)/2 [Combustion] Potency"
+                },
+                {
+                    "abilityID": 91583,
+                    "simpleDesc": "Inflict 4 [AttackDown]"
+                },
+                {
+                    "abilityID": 91583,
+                    "simpleDesc": "Gain 2 [AttackDmgUp]"
+                }
+            ]
+        },
+        {
+            "id": 9160,
+            "name": "Ruptured Blood Sac",
+            "desc": "Em Confronto com Aliados: ative a [Laceração] do inimigo uma vez (3 vezes por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9160,
+                    "simpleDesc": "Activate Bleed once"
+                }
+            ]
+        },
+        {
+            "id": 9162,
+            "name": "Hemorrhagic Shock",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam efeitos de [Laceração] ou 'Sangramento Único'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nEm Vitória de Confronto de aliados: ative a [Laceração] do inimigo uma vez. (uma vez por turno para cada aliado)\n\nOs inimigos se tornam Estupefatos por Dano de [Laceração]; se um inimigo for Estupefato devido a dano de [Laceração] no meio do Confronto, ative [Laceração] (# de Moedas inimigas restantes) vezes\n\nSe todos os inimigos tiverem [Laceração], eles perdem 2 Níveis de Defesa. No Fim do Turno, inflija (# de ativações de [Laceração] x 2) [DefesaBaixa] (máx. 20)\n\nAo infligir Potência de [Laceração] ou 'Sangramento Único' com efeitos de Habilidade, inflija 3 Potência de [Laceração] e +1 Contagem de [Laceração] no alvo",
+            "simpleDesc": [
+                {
+                    "abilityID": 9162,
+                    "simpleDesc": "On Clash Win, activate Bleed on the target once"
+                },
+                {
+                    "abilityID": 91621,
+                    "simpleDesc": "After Clashing, activate the enemy's [Laceration] (# of remaining Coins on self) times"
+                },
+                {
+                    "abilityID": 91622,
+                    "simpleDesc": "Inflict (# of [Laceration] activations x 2) [DefenseDown] (max 20)"
+                },
+                {
+                    "abilityID": 91623,
+                    "simpleDesc": "Inflict 3 Bleed Potency and +1 Bleed Count"
+                }
+            ]
+        },
+        {
+            "id": 9163,
+            "name": "Gemstone Oscillator",
+            "desc": "Ao vencer um Clash com uma Skill que consumiu [Vibração] Contagem: se o alvo não tiver [Vibração], inflija +2 [Vibração] Contagem\n\nEm 3+ Ressonância da Preguiça, incluindo esta Skill, inflija +3 [Vibração] Contagem em vez disso",
+            "simpleDesc": [
+                {
+                    "abilityID": 9163,
+                    "simpleDesc": "When winning a Clash with a Skill that consumed [Vibration] Count, inflict +2 [Vibration] Count"
+                },
+                {
+                    "abilityID": 91631,
+                    "simpleDesc": "When winning a Clash with a Skill that consumed [Vibration] Count and is a part of a 3+ Sloth Reson.: inflict +3 [Vibration] Count"
+                }
+            ]
+        },
+        {
+            "id": 9164,
+            "name": "Wobbling Keg",
+            "desc": "Início do turno: em 8+ [Vibração] Contagem, Poder de Choque +1\n\nAo derrotar ou atordoar um inimigo com uma Habilidade que consome [Vibração] Contagem em si mesmo: ganhe +([Vibração] Contagem consumida / 4) [Vibração] Contagem (uma vez por Habilidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9164,
+                    "simpleDesc": "At 8+ Tremor Count, Clash Power +1"
+                },
+                {
+                    "abilityID": 91641,
+                    "simpleDesc": "When winning a Clash with a Skill that consumes [Vibration] Count: gain [Vibration] Count"
+                }
+            ]
+        },
+        {
+            "id": 9166,
+            "name": "Epicenter",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam Potência de [Vibração] ou Contagem. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n(Se uma Identidade tiver apenas Habilidades de Ataque que ganham [Vibração] Contagem em si, este Dom E.G.O não é ativado para elas)\n\nAo vencer um Confronto com uma Habilidade que consumiu [Vibração] Contagem em si: se o alvo não tiver [Vibração], inflija +3 [Vibração] Contagem\n\nInício do Turno: ganhe Poder de Confronto +([Vibração] Contagem em si / 5) (máx. 3)\n\nAo usar uma Habilidade que consome [Vibração] Contagem em si: se o alvo for derrotado ou Estupefato, ganhe +([Vibração] Contagem consumida / 2) [Vibração] Contagem (uma vez por Habilidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9166,
+                    "simpleDesc": "When winning a Clash with a Skill that consumed [Vibration] Count on self: if the target does not have [Vibration], inflict +3 [Vibration] Count"
+                },
+                {
+                    "abilityID": 91661,
+                    "simpleDesc": "Turn Start: gain ([Vibration] Count on self / 5) Clash Power"
+                },
+                {
+                    "abilityID": 91662,
+                    "simpleDesc": "When winning a Clash with a Skill that consumes [Vibration] Count: gain [Vibration] Count"
+                }
+            ]
+        },
+        {
+            "id": 9167,
+            "name": "Omnivibro-octovecti-bell",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam Potência de [Vibração], Contagem ou 'Tremor Único'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n(Se uma Identidade tiver apenas Habilidades de Ataque que ganham [Vibração] Contagem em si, este Dom E.G.O não é ativado para elas)\n\nAo vencer um Confronto com uma Habilidade que inflige Potência de [Vibração] ou Contagem, ou consome [Vibração] Contagem em si: inflija (# de Moedas restantes) Potência de [Vibração] contra o alvo; se o alvo não tiver [Vibração], inflija +3 [Vibração] Contagem\n\nInício do Turno: ganhe (1 + ([Vibração] Contagem em si / 5)) [ParryingResultUp]. (máx. 3)\n\nAo usar uma Habilidade que consome [Vibração] Contagem em si mesmo: ao derrotar ou atordoar um alvo, ganhe ([Vibração] Contagem consumida / 2) [Vibração] Contagem (uma vez por Habilidade)\n\nHabilidades que consomem [Vibração] Contagem em si mesmo causam +([Vibração] consumida em si mesmo + [Vibração] Potência no inimigo + 5)% a mais de dano (exceto Habilidades E.G.O; máx. 50%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9167,
+                    "simpleDesc": "On Clash Win, inflict Tremor equal to the # of remaining Coins. If the target does not have Tremor, inflict Tremor Count"
+                },
+                {
+                    "abilityID": 91671,
+                    "simpleDesc": "Turm Start: gain Clash Power Up based on Tremor Count on self"
+                },
+                {
+                    "abilityID": 91672,
+                    "simpleDesc": "When winning a Clash with a Skill that consumes [Vibration] Count: gain [Vibration] Count"
+                },
+                {
+                    "abilityID": 91673,
+                    "simpleDesc": "Skills that consume [Tremor] Count deal more damage"
+                }
+            ]
+        },
+        {
+            "id": 9168,
+            "name": "Shard of Apocalypse",
+            "desc": "Se o alvo tiver menos de 15 de Potência [Explosão], inflija 1 Potência adicional ao infligir Potência [Explosão]",
+            "simpleDesc": [
+                {
+                    "abilityID": 9168,
+                    "simpleDesc": "Inflict 1 additional [Burst] Potency"
+                }
+            ]
+        },
+        {
+            "id": 9170,
+            "name": "Eerie Effigy",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam Potência [Explosão] ou Contagem. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\nEfeitos [Explosão] causam +100% mais dano contra Escudos inimigos\nSe o alvo tiver menos de 15 Potência [Explosão], inflija 2 a mais de Potência ao infligir Potência [Explosão]\n\nSe [Explosão] não puder ser aplicado devido a efeitos de Habilidade, ganhe Poder de Moeda +1 em vez disso",
+            "simpleDesc": [
+                {
+                    "abilityID": 9170,
+                    "simpleDesc": "Rupture effects deal +100% more damage against Shields"
+                },
+                {
+                    "abilityID": 91701,
+                    "simpleDesc": "Inflict 2 additional [Burst] Potency"
+                },
+                {
+                    "abilityID": 91702,
+                    "simpleDesc": "If [Burst] cannot be applied due to Skill effects, gain Coin Power +1 instead"
+                }
+            ]
+        },
+        {
+            "id": 9171,
+            "name": "Ruin",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam Potência [Explosão] ou Contagem. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nEfeitos [Explosão] causam +150% mais dano contra Escudo inimigo\n\nInício do Turno: inimigos ou Partes com [Explosão] perdem (3 + (Potência [Explosão] / 2)) Nível de Ataque e Nível de Defesa. (máx. 6)\n\nAo infligir Potência [Explosão] com efeitos de Habilidade, inflija 2 Potência [Explosão] e +1 Contagem [Explosão] contra o alvo. Se o alvo tiver menos de 15 Potência [Explosão], inflija 2 Potências [Explosão] adicionais.\n\nSe [Explosão] não puder ser aplicado devido a efeitos de Habilidade, ganhe Poder de Moeda +(4 / # de Moedas) em vez disso",
+            "simpleDesc": [
+                {
+                    "abilityID": 9171,
+                    "simpleDesc": "[Burst] effects deal +150% more damage against Shields"
+                },
+                {
+                    "abilityID": 91711,
+                    "simpleDesc": "Enemies with [Burst] lose Offense and Defense Levels"
+                },
+                {
+                    "abilityID": 91712,
+                    "simpleDesc": "When inflicting [Burst] Potency with Skill effects, Inflict 2 [Burst] Potency and +1 [Burst] Count on target"
+                },
+                {
+                    "abilityID": 91713,
+                    "simpleDesc": "If [Burst] cannot be applied due to Skill effects, gain Coin Power +(4 / # of Coins) instead"
+                }
+            ]
+        },
+        {
+            "id": 9172,
+            "name": "Cantabile",
+            "desc": "Ao usar Habilidades de Ataque base, se o alvo tiver 5+ [Afundamento] de Potência, cure ([Afundamento] de Potência no alvo / 10) SP em si mesmo (máx. 3)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9172,
+                    "simpleDesc": "Heal SP based on Sinking on the target"
+                }
+            ]
+        },
+        {
+            "id": 9173,
+            "name": "Faded Overcoat",
+            "desc": "Fim do turno: se houver 3+ inimigos com -45 SP, todos os aliados ganham 2 [AtaqueAumentar] no próximo turno",
+            "simpleDesc": [
+                {
+                    "abilityID": 9173,
+                    "simpleDesc": "All allies gain 2 [AttackUp]"
+                }
+            ]
+        },
+        {
+            "id": 9175,
+            "name": "Surging Globe",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam Potência [Afundamento], Contagem ou 'Afundamento Único'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nAo usar uma Habilidade de Ataque base, se o inimigo tiver 5+ Potência [Afundamento], cure (Potência [Afundamento] no alvo / 10) SP em si mesmo (máx. 5)\n\nFim do Turno: no próximo turno, todos os aliados ganham [AtaqueAumentar] igual ao número de inimigos com -45 SP (máx. 3)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9175,
+                    "simpleDesc": "Heal SP based on Sinking on the target"
+                },
+                {
+                    "abilityID": 91751,
+                    "simpleDesc": "All allies gain [AttackUp] equal to the number of enemies with -45 SP (max 3)"
+                }
+            ]
+        },
+        {
+            "id": 9176,
+            "name": "Impending Wave",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam Potência de [Afundamento], Contagem ou 'Afundamento Único'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nAo atingir e causar dano de HP a um inimigo com uma Habilidade que inflige Potência [Afundando], Contagem ou 'Afundando Único', inflija 4 Potência [Afundando] e +3 Contagem [Afundando] no Fim do Turno (uma vez por turno para cada inimigo)\n\nAo usar uma Habilidade de Ataque base, se o alvo tiver 10+ Potência [Afundando], cure (Potência [Afundando] no alvo / 10) SP em si mesmo e inflija a mesma quantidade que [DefenseDown] contra o alvo (máx. 5; uma vez por turno para cada inimigo)\n\nFim do Turno: todos os aliados ganham [AtaqueAumentar] igual ao número de inimigos com -45 SP (máx. 6)\n\nPara este Encontro, aliados que usaram Habilidades de Ataque que infligem Potência [Afundando], Contagem ou 'Afundando Único' 3 vezes infligem 2 adicionais [Afundando] Potência ao infligir [Afundando] Potência (entra em vigor a partir da 3ª Habilidade que se encaixa nas condições acima)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9176,
+                    "simpleDesc": "On Hit with Skills that inflict Sinking: inflict more [Sinking] Potency and Count at Turn End"
+                },
+                {
+                    "abilityID": 91761,
+                    "simpleDesc": "Heal SP and inflict [DefenseDown] based on Sinking on the target"
+                },
+                {
+                    "abilityID": 91762,
+                    "simpleDesc": "All allies gain [AttackUp] equal to the number of enemies with -45 SP"
+                },
+                {
+                    "abilityID": 91763,
+                    "simpleDesc": "+2 inflicted [Sinking] Potency"
+                }
+            ]
+        },
+        {
+            "id": 9178,
+            "name": "Angel's Cut",
+            "desc": "Fim do turno: quando um aliado tem mais de 20 de Potência de Poise, a referida unidade consome 1 Potência de Poise para ganhar +1 Contagem de Poise",
+            "simpleDesc": [
+                {
+                    "abilityID": 9178,
+                    "simpleDesc": "Consume 1 Poise Potency to gain 1 Poise Count"
+                }
+            ]
+        },
+        {
+            "id": 9180,
+            "name": "Cask Spirits",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que se aplicam ou ganham Potência ou Contagem de [Sopro]. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nFinal do Turno: Se um aliado tiver mais de 20 Potências de [Sopro] em si mesmo, o aliado consome 1 Potência de [Sopro] para ganhar 1 Contagem de [Sopro]\n\nFinal do Turno: 1 aliado com a maior Potência de [Sopro] e 1 aliado com a maior Contagem de [Sopro] ganham 2 [Agilidade] e 1 [Ataque] (pode ativar na mesma Identidade)\n\nAo ganhar Potência de [Sopro] de efeitos de Habilidade, ganhe 2 Potências de [Sopro] adicionais e +2 Contagem de [Sopro]. Se a soma de [Breath] Potency e Count em si for menor que 20, ganhe 3 [Breath] Potency e +3 [Breath] Count em vez disso.\n\nFim do turno: com mais de 40 [Breath] Potency, consuma 15 [Breath] Potency para [Descartar] 1 Skill do menor nível em todos os Skill Slots daquela unidade (uma vez por turno para cada personagem)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9180,
+                    "simpleDesc": "Gain Poise Count"
+                },
+                {
+                    "abilityID": 91801,
+                    "simpleDesc": "Apply 2 Haste and 1 Offense Level Up"
+                },
+                {
+                    "abilityID": 91802,
+                    "simpleDesc": "When gaining [Breath] Potency with Skill effects, gain additional Potency and Count"
+                },
+                {
+                    "abilityID": 91803,
+                    "simpleDesc": "Discard a Skill of the lowest rank in this unit's Skill Slot"
+                }
+            ]
+        },
+        {
+            "id": 9181,
+            "name": "Miniature Telepole",
+            "desc": "Após Ataque com um Ataque de Habilidade que consumiu 7+ [Carga] Contagem em si mesmo: se o alvo for derrotado, ganhe ([Carga] Contagem consumida pela Habilidade / 4) [Carga] Contagem",
+            "simpleDesc": [
+                {
+                    "abilityID": 9181,
+                    "simpleDesc": "Gain [Charge] Count based on [Charge] Count consumed"
+                }
+            ]
+        },
+        {
+            "id": 9183,
+            "name": "Insulator",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que ganham Contagem de [Carga] ou 'Carga Única'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nApós Ataque Com um Ataque de Habilidade que consome Contagem de [Carga] em si mesmo: se o alvo for derrotado, ganhe (Contagem de [Carga] consumida pela Habilidade / 3) Contagem de [Carga]\n\nInício do Turno: em menos de 3 Contagem de [Carga], ganhe +3 Contagem de [Carga]\nInício do Turno: em 3+ Contagem de [Carga], ganhe 1 [AtaqueDmgUp]",
+            "simpleDesc": [
+                {
+                    "abilityID": 9183,
+                    "simpleDesc": "Gain [Charge] Count based on [Charge] Count consumed"
+                },
+                {
+                    "abilityID": 91831,
+                    "simpleDesc": "Gain 1 [AttackDmgUp] or [Charge] Count based on [Charge] Count"
+                }
+            ]
+        },
+        {
+            "id": 9184,
+            "name": "T-5 Perpetual Motion Machine",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que ganham Contagem de [Carga] ou 'Carga Única'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nInício do Turno: com menos de 3 Contagens de [Carga], ganhe +3 Contagens de [Carga].\nInício do Turno: com 5+ Contagens de [Carga], ganhe +2 Velocidade mín./máx., 1 [Aprimoramento] e 2 [AumentoDanoAtaque].\n\nApós Ataque com uma Habilidade que consumiu Contagem de [Carga] em si mesmo: se o alvo for derrotado, ganhe +(Contagem de [Carga] consumida pela Habilidade / 3) Contagem de [Carga]; próximo turno, ganhe 1 [PlusCoinValueUp]\n\nApós Ataque com uma Habilidade 3 que consumiu [Carga] Conte consigo mesmo: se o alvo for derrotado, ou se o aliado que usou a Habilidade estiver com 3+ [Carga], ele adiciona 1 Habilidade 3 à lista de Habilidades para o próximo turno. (uma vez por turno para cada aliado; 'Carga Única' não interage com este efeito)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9184,
+                    "simpleDesc": "Gain 1 [AttackDmgUp] or [Charge] Count based on [Charge] Count"
+                },
+                {
+                    "abilityID": 91841,
+                    "simpleDesc": "Gain [Charge] Count based on [Charge] Count consumed. Next turn, gain [PlusCoinValueUp]"
+                },
+                {
+                    "abilityID": 91842,
+                    "simpleDesc": "After Attack with a Skill 3 that consumed [Charge] Count, add 1 Skill 3 to the Skill list"
+                }
+            ]
+        }
+    ]
+}

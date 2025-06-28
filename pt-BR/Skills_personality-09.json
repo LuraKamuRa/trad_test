@@ -1,0 +1,1325 @@
+{
+    "dataList": [
+        {
+            "id": 1090701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Illuminate Thy Vacuity",
+                    "desc": "Ganho (Insight x 3% de Max HP) se essa habilidade for descartada",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por 5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Illuminate Thy Vacuity",
+                    "desc": "Ganho (Insight x 4% de Max HP) se essa habilidade for descartada[WhenUse]Se o Insight for 2 ou superior, ganhe poder de moeda por (Insight -1)",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por 8"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Illuminate Thy Vacuity",
+                    "desc": "Ganho (Insight x 5% de Max HP) se essa habilidade for descartada[WhenUse]Se o Insight for 2 ou superior, ganhe poder de moeda por (Insight -1)",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por 10"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Weight of Knowledge",
+                    "desc": "Ganho (Insight x 5% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade[WhenUse]Este slot ganha 2 aggro na próxima curva",
+                    "coinlist": [
+                        {},
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Weight of Knowledge",
+                    "desc": "Ganho (Insight x 8% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade[WhenUse]Este slot ganha 3 aggro na próxima curva",
+                    "coinlist": [
+                        {},
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Weight of Knowledge",
+                    "desc": "Ganho (Insight x 10% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade[WhenUse]Este slot ganha 5 aggro na próxima curva[WhenUse]Se o alvo tiver mais de 5 naufrágio, ganhe poder de conflito +2",
+                    "coinlist": [
+                        {},
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090703,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Excruciating Study",
+                    "desc": "Ganho (Insight x 15% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 2 habilidades das fileiras mais baixas em todos os slots de habilidade desta unidade[WhenUse]Este slot ganha 3 aggro na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +4 contagem de naufrágio"
+                                }
+                            ]
+                        },
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Excruciating Study",
+                    "desc": "Ganho (Insight x 20% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 2 habilidades das fileiras mais baixas em todos os slots de habilidade desta unidade[WhenUse]Este slot ganha 5 aggro na próxima curva[WhenUse]Se o alvo tiver mais de 7 anos, ganhe poder de moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4 contagem de naufrágio"
+                                }
+                            ]
+                        },
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090704,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Fixated Study",
+                    "desc": "[WhenUse]Descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade[WhenUse]Este slot ganha 2 aggro na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fixated Study",
+                    "desc": "[WhenUse]Descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade[WhenUse]Este slot ganha 5 aggro na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flaming Fists",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Flaming Fists",
+                    "desc": "Se o alvo tiver 3+[Combustion], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Flaming Fists",
+                    "desc": "Poder de moeda +1 para cada 3[Combustion]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fiery Knifehand-Combust",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Combustion]Conte, aplique 3[Combustion]a 2 alvos sem[Combustion]ou com o mínimo[Combustion]Contar."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Fiery Knifehand-Combust",
+                    "desc": "Se o alvo tiver 6+[Combustion], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1[Combustion]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Combustion]Conte, aplique 3[Combustion]a 2 alvos sem[Combustion]ou com o mínimo[Combustion]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fiery Knifehand-Combust",
+                    "desc": "Poder de moeda +1 para cada 6[Combustion]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1[Combustion]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Combustion]Conte, aplique 3[Combustion]a 2 alvos sem[Combustion]ou com o mínimo[Combustion]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090803,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Pinpoint Blitz",
+                    "desc": "Se o alvo tiver 6+[Combustion]e[Combustion]Contar, causar +30% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir dano de afinidade da ira igual a metade de[Combustion]Potência no alvo. (Máximo 20) reduz o alvo[Combustion]Contagem por 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Pinpoint Blitz",
+                    "desc": "<style=\"highlight\">Se o alvo tiver 6+[Combustion], Power de moedas +1</style>Se o alvo tiver 6+[Combustion]e[Combustion]Contar, causar +30% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir danos de afinidade da ira igual a[Combustion]Potência no alvo. (No máximo 30) reduz o alvo[Combustion]Contagem por 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Prepare To Collect",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Prepare To Collect",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Vibration], Clash Power +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vibration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Vibration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +1[Vibration]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Prepare To Collect",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar[WhenUse] <style=\"highlight\">Clash Power +1 para cada 6[Vibration]no alvo (máximo 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">2</style> [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Vibration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +1[Vibration]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "T Corp. Martial Suppression",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "T Corp. Martial Suppression",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Vibration], Clash Power +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Vibration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[WinDuelAttack]Infligir +2[Vibration]Contar</style>"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "T Corp. Martial Suppression",
+                    "desc": "<style=\"highlight\">Acordo +5% mais danos para cada[Binding]no alvo (máximo 15%)</style>\n[WhenUse]Ganhe +2[Vibration]Contar[WhenUse] <style=\"highlight\">Clash Power +1 para cada 6[Vibration]no alvo (máximo 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Vibration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +<style=\"highlight\">3</style> [Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir 1[Binding]Próximo turno</style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Se o alvo tiver 6+[Vibration], infligir 1[Binding]Próximo turno</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090903,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Execute Collections",
+                    "desc": "[WhenUse]Se o alvo tiver 8+[Vibration], Clash Power +1[WhenUse]Consuma 8[Vibration]Conte consigo mesmo para ganhar o poder da moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade estiver em um[TimeRentalTwoPersonality]estado, infligir 2[TimeSuspend]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Execute Collections",
+                    "desc": "<style=\"highlight\">Acordo +5% mais danos para cada[Binding]no alvo (máximo 20%)</style>\n[WhenUse]Se o alvo tiver 8+[Vibration], Clash Power +<style=\"highlight\">2</style>\n[WhenUse]Consuma 8[Vibration]Conte consigo mesmo para ganhar o poder da moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">3</style> [Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vibration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Se esta unidade consumida[Vibration]Conte com o uso de habilidades, infligir 2[Binding]Próximo turno</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade estiver em um[TimeRentalTwoPersonality]estado, infligir 2[TimeSuspend]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1090904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Borrow Time",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[StartBattle]Se esta unidade não estiver em um[TimeRentalTwoPersonality]estado, ganha 3[TimeRentalTwoPersonality]no final da curva (uma vez por turno)[WhenUse]Para este turno: quando atingido por um inimigo, infligir 2[Vibration]no alvo na próxima curva (2 vezes por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Borrow Time",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[StartBattle]Se esta unidade não estiver em um[TimeRentalTwoPersonality]estado, ganha 3[TimeRentalTwoPersonality]no final da curva (uma vez por turno)[WhenUse]Para este turno: quando atingido por um inimigo, infligir 2[Vibration]no alvo próximo turno (<style=\"highlight\">6 vezes</style>por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Courier Trunk - Decay Knife",
+                    "desc": "[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: esta habilidade não consome o alvo[Burst]Conte com hit, mas não inflige[Burst]Com esta habilidade em efeitos de sucesso",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSack]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Courier Trunk - Decay Knife",
+                    "desc": "<style=\"highlight\">Em mais de 10 anos[DevyatDimensionalSack], ou se o alvo tiver mais de 6[Burst], Power de moedas +1</style>\n[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: esta habilidade não consome o alvo[Burst]Conte com hit, mas não inflige[Burst]Com esta habilidade em efeitos de sucesso",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSack]\n<style=\"highlight\">- Se esta unidade tiver menos de 15[DevyatDimensionalSack], ganha 1 adicional[DevyatDimensionalSack]</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Courier Trunk - Decay Knife",
+                    "desc": "<style=\"highlight\">Potência de moedas +1 para cada 10[DevyatDimensionalSack]ou para cada 6[Burst]no alvo (máximo 2)</style>\n[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: esta habilidade não consome o alvo[Burst]Conte com hit, mas não inflige[Burst]Com esta habilidade em efeitos de sucesso",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSack]- Se esta unidade tiver menos de 15[DevyatDimensionalSack], ganha 1 adicional[DevyatDimensionalSack]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">3</style> [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Courier Trunk - Gadget Reveal",
+                    "desc": "Em mais de 10 anos[DevyatDimensionalSack], ou se o alvo tiver mais de 6[Burst], Power de moedas +1[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: esta habilidade não consome o alvo[Burst]Conte com hit",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSack]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Agility]Próximo turno (uma vez por turno)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]para cada 10[DevyatDimensionalSack]em si mesmo ou a cada 5[Burst]no alvo (máximo 2, uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Courier Trunk - Gadget Reveal",
+                    "desc": "<style=\"highlight\">Potência de moedas +1 para cada 10[DevyatDimensionalSack]ou para cada 6[Burst]no alvo (máximo 2)</style>\n[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: esta habilidade não consome o alvo[Burst]Conte com hit",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSack]\n<style=\"highlight\">- Se esta unidade tiver menos de 15[DevyatDimensionalSack], ganha 1 adicional[DevyatDimensionalSack]</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Agility]Próximo turno (uma vez por turno)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]para todo<style=\"highlight\">5</style> [DevyatDimensionalSack]em si mesmo ou a cada 5[Burst]no alvo (Max<style=\"highlight\">4</style>, uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Courier Trunk - Gadget Reveal",
+                    "desc": "<style=\"highlight\">Acordo +2% mais danos para cada[DevyatDimensionalSack]em si mesmo (máximo 40%)</style>Potência de moedas +1 para cada 10[DevyatDimensionalSack]ou para cada 6[Burst]no alvo (máximo 2)[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: esta habilidade não consome o alvo[Burst]Conte com hit",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSack]- Se esta unidade tiver menos de 15[DevyatDimensionalSack], ganho<style=\"highlight\">2</style>adicional[DevyatDimensionalSack]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Agility]Próximo turno (uma vez por turno)<style=\"highlight\">- em mais de 15 anos[DevyatDimensionalSack], ganha 1 adicional[Agility]</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]Para cada 5[DevyatDimensionalSack]em si mesmo ou a cada 5[Burst]no alvo (Max<style=\"highlight\">6</style>, uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091003,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "I Trust Ya, Polu!",
+                    "desc": "Acordo +2% mais danos para cada[DevyatDimensionalSack](MAX 40%)\nEm mais de 10 anos[DevyatDimensionalSack]em si, ou se o alvo tiver 6+[Burst], Power de moedas +1[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]Conte com seus efeitos de sucesso; Em vez disso, reutilize sua última moeda",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contagem (uma vez por turno)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 15 anos[DevyatDimensionalSack], causar +15% mais danos"
+                                },
+                                {
+                                    "desc": "[EndSkill]Se o alvo estiver escalonado ou derrotado, ganhe 1[Agility]Próximo turno (uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "I Trust Ya, Polu!",
+                    "desc": "Negócio<style=\"highlight\">+4%</style>mais danos para cada[DevyatDimensionalSack](máx<style=\"highlight\">80%</style>)\n<style=\"highlight\">Potência de moedas +1 para cada 10[DevyatDimensionalSack]em si mesmo ou a cada 6[Burst]no alvo (máximo 2)</style>\n[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: Esta habilidade não inflige[Burst]Conte com seus efeitos de sucesso; Em vez disso, reutilize sua última moeda",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contagem (uma vez por turno)<style=\"highlight\">- infligir +1 mais[Burst]Conte para cada 10[DevyatDimensionalSack](Máx 2)</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 15 anos[DevyatDimensionalSack], negócio<style=\"highlight\">+25%</style>mais dano"
+                                },
+                                {
+                                    "desc": "[EndSkill]Se o alvo for escalonado ou derrotado, ganha<style=\"highlight\">2</style> [Agility]Próximo turno (uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Courier Support & Control Sequence",
+                    "desc": "[StartBattle]A mais de 15 anos[DevyatDimensionalSack], Ative 'Just apenas ... um tempo estratégico!' em vez disso (uma vez por turno)[StartBattle]Se essa habilidade for ativada, ganho ([DevyatDimensionalSack]/2)% do máximo HP desta unidade como escudo (máximo 15%, uma vez por turno)[WhenUse]Ganho 2[DevyatDimensionalSack](uma vez por turno)\n- em menos de 15[DevyatDimensionalSack], ganha 1 adicional[DevyatDimensionalSack]",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Courier Support & Control Sequence",
+                    "desc": "[StartBattle]A mais de 15 anos[DevyatDimensionalSack], Ative 'Just apenas ... um tempo estratégico!' em vez disso (uma vez por turno)[StartBattle]Se essa habilidade for ativada, ganha<style=\"highlight\">([DevyatDimensionalSack])%</style>do max hp desta unidade como escudo (máximo<style=\"highlight\">25%</style>, uma vez por turno)[WhenUse]Ganho 2[DevyatDimensionalSack](uma vez por turno)\n- em menos de 15[DevyatDimensionalSack], ganha 1 adicional[DevyatDimensionalSack]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Just... a Strategic Time Off!",
+                    "desc": "[StartBattle]Se essa habilidade for ativada, ganho ([DevyatDimensionalSack]/2)% do máximo HP desta unidade como escudo (máximo 15%, uma vez por turno)[EndBattle]Ativar[Retreat]",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Just... a Strategic Time Off!",
+                    "desc": "[StartBattle]Se essa habilidade for ativada, ganha<style=\"highlight\">([DevyatDimensionalSack])%</style>do max hp desta unidade como escudo (máximo<style=\"highlight\">25%</style>, uma vez por turno)[EndBattle]Ativar[Retreat]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Begone...",
+                    "desc": "[StartBattle]Sob -se e 1 aliado com o mais alto HP máximo: consuma até 20[BloodDinner]e aplique 1[BloomingThornsRodionFirst]para cada 10[BloodDinner]Esta unidade consumida (2 vezes por turno)\n- prioriza<Bloodfiend>aliados\n- Se o aliado afetado for um<Bloodfiend>, esta unidade aplica 1 adicional[BloomingThornsRodionFirst]- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Begone...",
+                    "desc": "[StartBattle]Sob -se e 1 aliado com o mais alto HP máximo: consuma até 20[BloodDinner]e aplique 1[BloomingThornsRodionFirst]para cada 10[BloodDinner]Esta unidade consumida (2 vezes por turno)\n- prioriza<Bloodfiend>aliados\n- Se o aliado afetado for um<Bloodfiend>, esta unidade aplica 1 adicional[BloomingThornsRodionFirst]- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]\n<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1</style>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Begone...",
+                    "desc": "[StartBattle]Sob -se e 1 aliado com o mais alto HP máximo: consuma até 20[BloodDinner]e aplique 1[BloomingThornsRodionFirst]para cada 10[BloodDinner]Esta unidade consumida (2 vezes por turno)\n- prioriza<Bloodfiend>aliados\n- Se o aliado afetado for um<Bloodfiend>, esta unidade aplica 1 adicional[BloomingThornsRodionFirst]- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]\n<style=\"highlight\">[WhenUse]Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)</style>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "In Finely Ground Mistfall",
+                    "desc": "[StartBattle]Sob -se e 1 aliado com o menor máximo de HP: aplique 1[Enhancement], consuma até 30[BloodDinner]e aplique 1[BloomingThornsRodionFirst]para cada 10[BloodDinner]Esta unidade consumida (2 vezes por turno)\n- prioriza<Bloodfiend>aliados\n- Se o aliado afetado for um<Bloodfiend>, esta unidade aplica 1 adicional[Enhancement]e 2[BloomingThornsRodionFirst]- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "In Finely Ground Mistfall",
+                    "desc": "[StartBattle]Sob -se e 1 aliado com o menor máximo de HP: aplique 1[Enhancement], consuma até 30[BloodDinner]e aplique 1[BloomingThornsRodionFirst]para cada 10[BloodDinner]Esta unidade consumida (2 vezes por turno)\n- prioriza<Bloodfiend>aliados\n- Se o aliado afetado for um<Bloodfiend>, esta unidade aplica 1 adicional[Enhancement]e 2[BloomingThornsRodionFirst]- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]\n<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "In Finely Ground Mistfall",
+                    "desc": "[StartBattle]Sob -se e 1 aliado com o menor máximo de HP: aplique 1[Enhancement], consuma até 30[BloodDinner]e aplique 1[BloomingThornsRodionFirst]para cada 10[BloodDinner]Esta unidade consumida (2 vezes por turno)\n- prioriza<Bloodfiend>aliados\n- Se o aliado afetado for um<Bloodfiend>, esta unidade aplica 1 adicional[Enhancement]e 2[BloomingThornsRodionFirst]- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]\n<style=\"highlight\">[WhenUse]Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091103,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "The Festival Will End",
+                    "desc": "[BeforeUse]Em mais de 25 anos[BloomingThornsRodionFirst], Ative 'Ascendente Don Quixote Hardblood[TabExplain]Artes - o final 'em vez disso[WhenUse]Para si mesmo e (maior ressonância.) Aliados: aplique (3 + (1 para cada 50[BloodDinner_Accumulation]por esta unidade)[FestivalFeverRodion]Esta curva e o próximo turno (máximo 10)[WhenUse]Para si mesmo e (mais alta ressonância.) Aliados: aplique 3[BloomingThornsRodionFirst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "The Festival Will End",
+                    "desc": "[BeforeUse]Em mais de 25 anos[BloomingThornsRodionFirst], Ative 'Ascendente Don Quixote Hardblood[TabExplain]Artes - o final 'em vez disso<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1</style>\n[WhenUse]Para si mesmo e (maior ressonância.) Aliados: aplique (3 + (1 para cada 50[BloodDinner_Accumulation]por esta unidade)[FestivalFeverRodion]Esta curva e o próximo turno (máximo 10)[WhenUse]Para si mesmo e (mais alta ressonância.) Aliados: aplique 3[BloomingThornsRodionFirst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 15: Parasol",
+                    "desc": "[DuelCounter]\n[WhenUse]Reduzir[Laceration]Contar por 3 para 2 outros aliados com o mais alto ([Laceration]Potência x contagem) valor e aumento[BloodDinner]por (pré-redução[Laceration]Potência x contagem reduzida)\n  - Se este efeito reduzir[Laceration]Contar para 0,[Laceration]expira[WinDuel]Ganhe 4[BloomingThornsRodionFirst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Don Quixote Hardblood Arts 15: Parasol",
+                    "desc": "[DuelCounter]\n[WhenUse]Reduzir[Laceration]Contar por 3 para 2 outros aliados com o mais alto ([Laceration]Potência x contagem) valor e aumento[BloodDinner]por (pré-redução[Laceration]Potência x contagem reduzida)\n  - Se este efeito reduzir[Laceration]Contar para 0,[Laceration]expira<style=\"highlight\">- Se o aliado afetado for um<Bloodfiend>, reduza o deles[Laceration]Contar por mais 2</style>\n[WinDuel]Ganhe 4[BloomingThornsRodionFirst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1091105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ascendant Don Quixote Hardblood Arts - The Finale",
+                    "desc": "[WhenUse]Para si mesmo e (ressonância mais alta.) Aliados: aplique (5 + (1 para cada 50[BloodDinner_Accumulation]por esta unidade)[FestivalFeverRodion]Esta curva e o próximo turno (máximo 10)[WhenUse]Para si mesmo e (ressonância mais alta.) Aliados: aplique 5[BloomingThornsRodionFirst]\n[WhenUse]Acordo +1% mais dano para cada 5[BloodDinner_Accumulation]por esta unidade (máximo 50%)[EndSkill]Consuma tudo[BloomingThornsRodionFirst]em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ascendant Don Quixote Hardblood Arts - The Finale",
+                    "desc": "<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1</style>\n[WhenUse]Para si mesmo e (ressonância mais alta.) Aliados: aplique (5 + (1 para cada 50[BloodDinner_Accumulation]por esta unidade)[FestivalFeverRodion]Esta curva e o próximo turno (máximo 10)[WhenUse]Para si mesmo e (ressonância mais alta.) Aliados: aplique 5[BloomingThornsRodionFirst]\n[WhenUse]Acordo +1% mais dano para cada 5[BloodDinner_Accumulation]por esta unidade (máximo 50%)[EndSkill]Consuma tudo[BloomingThornsRodionFirst]em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

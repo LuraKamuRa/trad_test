@@ -1,0 +1,302 @@
+{
+  "dataList": [
+    {
+      "id": 837901,
+      "name": "아파하는 테디 선택지 선택 이벤트",
+      "subDesc": "UNUSED TEXT",
+      "desc": "Um macio de urso olha para nós com uma expressão triste. Várias unhas afiadas estão empalando seu corpo.",
+      "options": [
+        {
+          "message": "Abrace o urso de pelúcia.",
+          "messageDesc": "Selecione para reduzir o poder de confronto da anormalidade. Passe uma verificação de luxúria, e a identidade selecionada perde algum HP, mas cura muito",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Desligue o olhar.",
+          "messageDesc": "Todas as identidades perdem SP",
+          "result": [
+            "Perhaps the nails looked too threatening.\n\nNo one wanted to get close to the bear plush.\n\nIt slumps its shoulders, clearly hurt.\n\nIt's clear that most Sinners felt bad about this decision."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10701,
+      "name": "",
+      "subDesc": "",
+      "desc": "Nós nos aproximamos da placa desbotada neste espaço distorcido.\n\n[[TAG-I]] Bem-vindo a La Manchaland. [[TAG-I]]\n\nDois tipos de ingressos e seus preços são escritos embaixo desse logotipo.\n\nParece que teremos que comprar um ingresso aqui para entrar ...\n\nQual devemos comprar?",
+      "options": [
+        {
+          "message": "Compre o passe durante todo o dia",
+          "messageDesc": "Todos os aliados perdem a HP. Ganhe um presente, por exemplo.",
+          "result": [
+            "Each Sinner paid for their own All-day Pass with their blood.\n\nSome of them were none to happy about this decision, but they all agreed to go with All-day Passes.\n\nWe should be able to experience every attraction here as long as we have this ticket."
+          ]
+        },
+        {
+          "message": "Compre o passe padrão",
+          "messageDesc": "Todos os aliados ganham, por exemplo, presentes que ganham sangramento",
+          "result": [
+            "It might be unwise to lose so much blood here at the entrance.\n\nAfter a discussion with the Sinners, we decided to go with the Standard Pass, which does not require a payment of blood.\n\nThere's a disclaimer on the ticket: 'visitors must pay a certain amount of blood before participating in an attraction'.\n\nWe might be able to get more of our blood's worth, as long as we carefully choose which attraction we want to go for."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070101,
+      "name": "",
+      "subDesc": "",
+      "desc": "Passamos pela entrada e entramos em La Manchaland.\n\nQual área devemos visitar primeiro para escapar deste parque de diversões semelhantes a labirintos?",
+      "options": [
+        {
+          "message": "Participe de um jogo de tiro sanguíneo de fantasia.",
+          "messageDesc": "Comece um encontro de combate. Ganhe para ganhar um presente, por exemplo",
+          "result": [
+            "Maybe the way out will open if we defeat as many Bloodfiends as we can.\n\nSome Sinners suggested that we attempt the Fantasy Blood-shooting again.\n\n<i>To Adventurers who make it to the end of the attraction, we grant you a Token of Victory!</i>\n\nThrough the pre-recorded voiceline, a Bloodfiend cheers us on.\n\nWe've already done this once; I'm sure we can do it again."
+          ]
+        },
+        {
+          "message": "Vá para o confessionário.",
+          "messageDesc": "Execute uma verificação do orgulho. Passe para ganhar um presente, por exemplo.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Assista ao desfile",
+          "messageDesc": "Ganhe um presente, por exemplo",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070103,
+      "name": "",
+      "subDesc": "",
+      "desc": "Chegamos à área do desfile sem perder mais tempo.\n\nDepois de um tempo caminhando pelo desfile até a frente, um fixo de sangue de repente veio até nós.\n\n\"Por que não tirar uma foto comemorativa com o desfile como fundo?\"\n\"Um pouco de sangue, e você pode se lembrar desse momento de sempre!\"\n\nO que devemos fazer?",
+      "options": [
+        {
+          "message": "Pague com sangue e tire uma foto comemorativa.",
+          "messageDesc": "Alguns pecadores perdem HP. Ganhe um presente, por exemplo",
+          "result": [
+            "Some Sinners agreed to pay with blood for some pictures.\n\nI can't help but feel the pain of Don Quixote's absence now that we're standing all together for a group photo.\n\nWhen we received the photograph, which appeared after the flash, the Parade marched far, far away from us as the warped space returned to normal.\n\nThe photograph in my hands was gone, replaced with a Bloodfiend's mask."
+          ]
+        },
+        {
+          "message": "Saia daqui.",
+          "result": [
+            "There's no time to waste on pictures.\n\nWe decided to continue walking past the Parade."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10702,
+      "name": "",
+      "subDesc": "",
+      "desc": "Vemos uma porta para uma câmara de contenção gigante.\n\nVamos ter que passar por isso para escapar deste labirinto.\n\nHá uma máquina desconhecida na estrada para a câmara.\n\nDeve ser uma máquina de sorteio La Manchaland usada durante os períodos de eventos.\n\n[[Tag-i]] Um pouco de sangue para algo muito útil! [[Tag-i]]\n\nHá um anúncio escrito em tipografia elaborada.\n\nTalvez possamos encontrar 'algo muito útil' lá?",
+      "options": [
+        {
+          "message": "Pague com sangue para entrar no sorteio.",
+          "messageDesc": "Um pecador aleatório perde HP. Chance aleatória de ganhar um presente, por exemplo",
+          "result": [
+            "When the Sinner pays with their blood, the raffle machine begins to whir loudly.\n\n<i>You get... nothing!</i>\n\nWith a sad jingle, the machine comes to a slow stop before falling silent.\n\nThe chances of pulling what we want is probably pretty low.",
+            "When the Sinner pays with their blood, the raffle machine begins to whir loudly.\n\n<i>YOU WIN! YOU WIN!</i>\n\nA loud, jolly jingle plays, and a cube-shaped crystal made of blood rolls out of the machine.\n\nIt might be useful for something."
+          ]
+        },
+        {
+          "message": "Destrua a máquina de sorteio.",
+          "messageDesc": null,
+          "result": [
+            "It wasn't like there was anyone around to stop us.\n\nWhy pay with Sinners' blood to activate this raffle machine?\n\nCan't we just crack the thing open and take the prize in there?\n\nI order the Sinners to break the machine, and some Sinners were all too happy to oblige.\n\nThe machine begins to warp into a bizarre shape—then a massive peccatulum appears before us."
+          ]
+        },
+        {
+          "message": "Deixar.",
+          "result": [
+            "I doubt there's anything that's useful for us in there.\n\nWe decided to ignore the raffle machine and keep moving forward."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070201,
+      "name": "",
+      "subDesc": "",
+      "desc": "Um pouco de sangue não nos deu nada.\n\nO texto do anúncio está mentindo para nós?\n\nOu talvez tenhamos apenas azar.\n\nO que devemos fazer?",
+      "options": [
+        {
+          "message": "Pague com sangue para entrar no sorteio.",
+          "messageDesc": "Um pecador aleatório perde HP. Chance aleatória de ganhar um presente, por exemplo",
+          "result": [
+            "When the Sinner pays with their blood, the raffle machine begins to whir loudly.\n\n<i>You get... nothing!</i>\n\nWith a sad jingle, the machine comes to a slow stop before falling silent.\n\nThe chances of pulling what we want is probably pretty low.",
+            "When the Sinner pays with their blood, the raffle machine begins to whir loudly.\n\n<i>YOU WIN! YOU WIN!</i>\n\nA loud, jolly jingle plays, and a cube-shaped crystal made of blood rolls out of the machine.\n\nIt might be useful for something."
+          ]
+        },
+        {
+          "message": "Destrua a máquina de sorteio.",
+          "messageDesc": null,
+          "result": [
+            "It wasn't like there was anyone around to stop us.\n\nWhy pay with Sinners' blood to activate this raffle machine?\n\nCan't we just crack the thing open and take the prize in there?\n\nI order the Sinners to break the machine, and some Sinners were all too happy to oblige.\n\nThe machine begins to warp into a bizarre shape—then a massive peccatulum appears before us."
+          ]
+        },
+        {
+          "message": "Deixar.",
+          "result": [
+            "I doubt there's anything that's useful for us in there.\n\nWe decided to ignore the raffle machine and keep moving forward."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10703,
+      "name": "",
+      "subDesc": "",
+      "desc": "\"Enquanto o Noble Knight e seu escudeiro estavam em sua aventura mais maravilhosa ...\"\n\n\"O resto da família esperou, mastigando lentamente a subsistência que eles foram utilizados\".\n\n\"Embora não esteja claro se toda essa espera valeu a pena\".\n\nUma narração sarcástica e desencarnada ecoa de algum lugar.\n\nAntes dos pecadores, a 'subsistência' que a família estava comendo apareceu.",
+      "options": [
+        {
+          "message": "Coma o hemobar. (É sem sabor.)",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Deixe.",
+          "result": [
+            "We waited for a while, refusing to eat that thing. The space around us warped and twisted, before opening a path ahead.\n\nThere's no time to rest. Let's keep moving."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070301,
+      "name": "",
+      "subDesc": "",
+      "desc": "\"Eles devoram aquela 'comida' seca e sem sabor\".\n\n\"Mas a fome deles não é do tipo que é saciado por tais suplementos\".\n\n\"Incapaz de suportar esse sentimento oco, eles tentaram comer mais daquela comida\".\n\n\"Como se eles estivessem tentando se convencer de que a coisa daquela coisa os libertaria dessa fome\".",
+      "options": [
+        {
+          "message": "Coma o hemobar.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Coma o hemobar.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Pare de comer.",
+          "result": [
+            "We waited for a while, refusing to eat that thing. The space around us warped and twisted, before opening a path ahead.\n\nThere's no time to rest. Let's keep moving."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070302,
+      "name": "",
+      "subDesc": "",
+      "desc": "\"Mais uma vez, eles devoraram a comida.\"\n\n\"Eles comeram e comeram e comeram até que não pudessem mais enchê -lo mais na boca.\"\n\n\"Mas oh, que lamentável ... eles estavam [[tag-i]] ainda com fome [[tag-i]].\"\n\n\"A família mais uma vez começa a colocar a mesa com essa comida sem sabor\".",
+      "options": [
+        {
+          "message": "Coma dez hemobares.",
+          "messageDesc": "Aviso) continuar a comer resultará em um presente, por exemplo, com uma desvantagem",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Coma dez hemobares.",
+          "messageDesc": "Aviso) continuar a comer resultará em um presente, por exemplo, com uma desvantagem",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Coma dez hemobares.",
+          "messageDesc": "Aviso) continuar a comer resultará em um presente, por exemplo, com uma desvantagem",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Pare de comer.",
+          "result": [
+            "We waited for a while, refusing to eat that thing. The space around us warped and twisted, before opening a path ahead.\n\nThere's no time to rest. Let's keep moving."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070303,
+      "name": "",
+      "subDesc": "",
+      "desc": "\"Parece que eles, em sua infinita ingenuidade, ainda acreditam que simplesmente não comeram comida suficiente\".\n\n\"Vamos ver quanto tempo dura isso ... banquete sem sentido.\"",
+      "options": [
+        {
+          "message": "Continue comendo os Hemobars.",
+          "messageDesc": "Ganhe um presente, por exemplo, com desvantagens",
+          "result": [
+            "\"The family ate, and ate, and ate in that desperate wish.\"\n\n\"That this painful hunger might go away.\"\n\n\"What came next was an anticipation, of sorts.\"\n\n\"That maybe, just maybe, this hunger might go away once the Knight and his Squire returns from their adventure.\"\n\n\"But it won't go away.\"\n\n\"It never will.\"\n\nWe begin to feel a sudden, bottomless hunger once the narration ends.\n\nEvery Sinner lurches over from hunger so intense that it became pain.\n\nBut the path opens, without any time for us to fill our stomachs.\n\nNo choice but to keep moving, I suppose."
+          ]
+        },
+        {
+          "message": "Continue comendo os Hemobars.",
+          "messageDesc": "Ganhe um presente, por exemplo, com desvantagens",
+          "result": [
+            "\"The family ate, and ate, and ate in that desperate wish.\"\n\n\"That this painful hunger might go away.\"\n\n\"What came next was an anticipation, of sorts.\"\n\n\"That maybe, just maybe, this hunger might go away once the Knight and his Squire returns from their adventure.\"\n\n\"But it won't go away.\"\n\n\"It never will.\"\n\nWe begin to feel a sudden, bottomless hunger once the narration ends.\n\nEvery Sinner lurches over from hunger so intense that it became pain.\n\nBut the path opens, without any time for us to fill our stomachs.\n\nNo choice but to keep moving, I suppose."
+          ]
+        },
+        {
+          "message": "Continue comendo os Hemobars.",
+          "messageDesc": "Ganhe um presente, por exemplo, com desvantagens",
+          "result": [
+            "\"The family ate, and ate, and ate in that desperate wish.\"\n\n\"That this painful hunger might go away.\"\n\n\"What came next was an anticipation, of sorts.\"\n\n\"That maybe, just maybe, this hunger might go away once the Knight and his Squire returns from their adventure.\"\n\n\"But it won't go away.\"\n\n\"It never will.\"\n\nWe begin to feel a sudden, bottomless hunger once the narration ends.\n\nEvery Sinner lurches over from hunger so intense that it became pain.\n\nBut the path opens, without any time for us to fill our stomachs.\n\nNo choice but to keep moving, I suppose."
+          ]
+        },
+        {
+          "message": "Continue comendo os Hemobars.",
+          "messageDesc": "Ganhe um presente, por exemplo, com desvantagens",
+          "result": [
+            "\"The family ate, and ate, and ate in that desperate wish.\"\n\n\"That this painful hunger might go away.\"\n\n\"What came next was an anticipation, of sorts.\"\n\n\"That maybe, just maybe, this hunger might go away once the Knight and his Squire returns from their adventure.\"\n\n\"But it won't go away.\"\n\n\"It never will.\"\n\nWe begin to feel a sudden, bottomless hunger once the narration ends.\n\nEvery Sinner lurches over from hunger so intense that it became pain.\n\nBut the path opens, without any time for us to fill our stomachs.\n\nNo choice but to keep moving, I suppose."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10704,
+      "name": "",
+      "subDesc": "",
+      "desc": "Uma massa de arbustos, seus espinhos nítidos, fica em nosso caminho.\n\n\"O cavaleiro e o escudeiro se aventuraram juntos por muito, muito tempo.\"\n\n\"Eles desfrutaram de tantas aventuras juntos\".\n\n\"Qual deles foi o mais interessante?\"\n\nA narração, novamente.\n\nO que devemos dizer?",
+      "options": [
+        {
+          "message": "Farooth, 'era a batalha contra os gigantes montanhosos",
+          "messageDesc": "Ganhar ira e orgulho, por exemplo, recursos",
+          "result": [
+            "\"A long, long time ago, the Knight and the Squire warred against the giants.\"\n\n\"But it wasn't very exciting, as it always ended with the Knight's victory.\"\n\n\"What other adventure awaits, one must wonder.\""
+          ]
+        },
+        {
+          "message": "Por muito a libertação de uma vila problemática do mal, em verdade",
+          "messageDesc": "Ganhar luxúria e gula, por exemplo",
+          "result": [
+            "\"The Knight and the Squire rescued the troubled village.\"\n\n\"It was so, so easy for them, as they were two mighty beings hiding their true strengths.\"\n\n\"What other adventure awaits, one must wonder.\""
+          ]
+        },
+        {
+          "message": "De fato, era a aventura para o comando de Mambrino",
+          "messageDesc": "Ganhe escuridão e inveja, por exemplo, recursos",
+          "result": [
+            "\"After a long, trying journey, the Knight and the Squire claimed the great helm of Mambrino as their own.\"\n\n\"Clueless about the helm's true powers.\"\n\n\"What other adventure awaits, one must wonder.\""
+          ]
+        }
+      ]
+    }
+  ]
+}

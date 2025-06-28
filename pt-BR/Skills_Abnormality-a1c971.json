@@ -1,0 +1,567 @@
+{
+    "dataList": [
+        {
+            "id": 108001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stoneshower",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Vibration], Potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gather Stones",
+                    "desc": "[WinDuel]Se o alvo tem[Vibration], Potência base +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rising Sloth",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Vibration]no alvo (máximo 3)[WinDuel]Esta habilidade ganha peso ATK +1 para cada 5[Vibration]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[Switch_Vibration]em[VibrationEcho]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]uma vez para cada[Vibration]Conte com o alvo (máximo 2); Em seguida, reduza os alvos[Vibration]Contagem por 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "Infligir 2[Vibration]Contra o atacante quando atingido, desde que haja escudo restante HP[WhenUse]Ganhe 3 proteção",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Decay Collission",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Sinking], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]e +2[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Torrent",
+                    "desc": "[WhenUse]Se o alvo tiver[Sinking], Potência base +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Sinking]e +2[Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]e +2[Sinking]Contar contra 2 alvos aleatórios"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cascading Gloom",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Sinking]no alvo (máximo 3)[WinDuel]Esta habilidade ganha peso ATK +1 para cada 5[Sinking]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Sinking]e +4[Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Próximo poder de moeda +1 para cada 3[Sinking]No alvo (3 vezes máximo)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Causa[SinkingSurge]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Target perde 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Topple",
+                    "desc": "[WhenUse]Consuma 20[BloodDinner]: ganha 1[BloodArmor]para cada 10[BloodDinner]consumido[WhenUse]Potência de moedas +1 para cada 10[BloodArmor](Máx 2)[WhenUse]Potência de moedas +1 para cada 15[Laceration]em si (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wound",
+                    "desc": "[WhenUse]Consuma 20[BloodDinner]: ganha 1[BloodArmor]para cada 10[BloodDinner]consumido[WhenUse]Potência de moedas +1 para cada 10[BloodArmor](Máx 2)[WhenUse]Potência de moedas +1 para cada 15[Laceration]em si (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 4 - Sundering",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1[WinDuel]Com essa habilidade, causar +20% mais danos a cada estágio de[BloodArmor](MAX 60%)[DefeatDuel]Consuma 4[BloodArmor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 11 - Impaling",
+                    "desc": "[WhenUse]Para cada 3[Laceration]No alvo, potência base +1 (máx. 3)[WinDuel]Com essa habilidade, causar +20% mais danos a cada estágio de[BloodArmor](MAX 60%)[DefeatDuel]Consuma 4[BloodArmor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ativar[Laceration]no alvo igual à sua contagem. Use o alvo do alvo[Laceration]Contar até 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Variant Don Quixote Style: Sancho Arts 4 - Track",
+                    "desc": "Prioriza os alvos com mais[Laceration]\n[BeforeAttack]Peso ATK +1 para cada 10[BloodArmor]em si (máximo 3)[WhenUse]Clash Power +1 para cada 5[Laceration]no alvo (máximo 3)[WhenUse]Consumir até 30[BloodDinner]: ganha 1[BloodArmor]e poder de moeda +1 para cada 15[BloodDinner]consumido (máximo 2)\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 10[Laceration]e ativar[Laceration]imediatamente. Perder 1[Laceration]Contar[EndSkill]Aumentar[BloodDinner]igual ao dano que essa habilidade causou",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno\n- Se essa habilidade consumida 30[BloodDinner], infligir 2 adicionais[Binding]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Variant Don Quixote Style: Sancho Arts 3 - Ambush",
+                    "desc": "Prioriza os alvos com mais[Laceration]\n[BeforeAttack]Peso ATK +1 para cada 10[BloodArmor]em si mesmo (máximo 2)[WhenUse]Clash Power +1 para cada 5[Laceration]no alvo (máximo 3)[WhenUse]Consumir até 30[BloodDinner]: ganha 1[BloodArmor]e poder de moeda +1 para cada 15[BloodDinner]consumido (máximo 2)\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 10[Laceration]e ativar[Laceration]imediatamente. Perder 1[Laceration]Contar[EndSkill]Aumentar[BloodDinner]igual ao dano que essa habilidade causou",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno\n- Se essa habilidade consumiu 50[BloodDinner], infligir 2 adicionais[Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107907,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 2 - Hardblood",
+                    "desc": "Pode se chocá -lo com essa habilidade, independentemente da velocidade[StartBattle]Ganho 1[SwirlingBlood]\n[StartBattle]Consuma 100[BloodDinner]; Ganho 1[BloodArmor]e 20 Shield HP para cada 10[BloodDinner]consumido\n- Se esta unidade não tiver o suficiente[BloodDinner], ganhe 50[Laceration]e ativá -lo imediatamente. Perder 2[Laceration]Contar. Ganhe 200 Shield HP (esse dano não reduz o HP desta unidade para 0)[DefeatDuel]Enquanto o escudo HP dessa habilidade permanecer, ganhe 3[Vulnerable]\n[DefeatDuel]Esta habilidade causa -50% menos dano[EndSkill]Fase de combate final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e +3[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107908,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "La Aventura Ha Terminado",
+                    "desc": "Negociar +10% mais danos para cada[Laceration]no alvo (máximo de 200%)\nAcordo +10% mais danos a cada 3[BloodArmor](máximo 100%)[StartBattle]Consuma (45 - SP atual)[BloodDinner]e curar até 45 sp\n- Se não houver suficiente[BloodDinner], ganhe 20[Laceration]e curar até 45 sp\n- Ganhe Shield HP igual a permanecer[BloodDinner](máximo 100)[WinDuel]Infligir 10[Laceration]\n[EndSkill]Aumentar[BloodDinner]por danos hp causados ​​contra o alvo[EndSkill]Se o alvo for derrotado, aumente[BloodDinner]pelo max hp do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 10[Laceration]e +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e +3[Laceration]Conte a todos os inimigos, exceto pelo alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107909,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "La Aventura Ha Terminado...",
+                    "desc": "Acordo +40% mais dano para cada 10 (soma de[Laceration]em todos os alvos]) (máximo 200%)\nAcordo +10% mais danos para cada cumulativo[BloodDinner]Esta unidade consumida (máximo 100%)[StartBattle]Consuma (45 - SP atual)[BloodDinner]e curar até 45 sp\n- Se não houver suficiente[BloodDinner], ganhe 20[Laceration]e curar até 45 sp\n- Ganhe Shield HP igual a permanecer[BloodDinner](máximo 100)[WinDuel]Infligir 10[Laceration]\n[EndSkill]Aumentar[BloodDinner]por danos hp causados ​​contra o alvo[EndSkill]Se o alvo for derrotado, aumente[BloodDinner]pelo max hp do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Infligir 10[Laceration]e +3[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Compression",
+                    "desc": "[WhenUse]Power final +1 para cada 5[Breath]Potência em si (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]Potência"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 3[Vibration]Potência e +2[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dismantle",
+                    "desc": "[WhenUse]Power final +1 para cada 3[Breath]Potência em si mesmo (máximo 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]Potência"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +3[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Conduct Analysis",
+                    "desc": "[WhenUse]Em mais de 10 anos[Breath]Potência, consuma[Breath]Potência para ganhar +2 poder final para cada 3[Breath]Potência consumida (máx. 4)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Vibration]Conte, gatilho[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir 5[Vibration]Potência e +3[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar[VibrationExplosion]duas vezes; Em seguida, reduza os alvos[Vibration]Contagem por 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Trigger Extinction Sequence",
+                    "desc": "[WhenUse]Consumir metade de[Breath]Potência e conte em si mesmo\n- Ganho (soma de consumido[Breath]Potência e contagem / 2) Poder final (máximo 20)\n- Deal +(soma de consumido[Breath]Potência e contagem x 2)% mais danos (máximo 50%)\n- +(soma de consumido[Breath]Potência e contagem x 4)% mais danos no acerto crítico (máximo 100%)[DefeatDuel]Reduzir o restante[Breath]Contar pela metade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se o usuário não sofreu danos HP na última vez, garanta um crítico"
+                                },
+                                {
+                                    "desc": "Se o usuário sofreu danos HP na última vez, não criticou; Em vez disso, causar -80% menos dano"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar[VibrationExplosion]três vezes; Em seguida, reduza os alvos[Vibration]Contar por 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contemplation",
+                    "desc": "[WhenUse]Power final +1 para[Breath]Potência em si mesmo (máximo 5)[WhenUse]Ganhe 4[Breath]Potência\n- Se esta unidade tiver escudo, ganhe +2[Breath]Conte também",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

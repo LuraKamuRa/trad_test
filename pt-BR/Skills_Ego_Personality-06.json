@@ -1,0 +1,635 @@
+{
+    "dataList": [
+        {
+            "id": 2060411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkillHead]Heal 2 aliados com as menores porcentagens de HP para 10 hp"
+                                },
+                                {
+                                    "desc": "[EndSkillTail]Heal 10 SP para 2 aliados com o mínimo de SP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkillHead]Heal 2 aliados com as menores porcentagens de HP por 12 hp"
+                                },
+                                {
+                                    "desc": "[EndSkillTail]Heal 12 SP para 2 aliados com o mínimo de SP"
+                                },
+                                {
+                                    "desc": "[CriticalEndSkill]Cure o aliado com a menor porcentagem de HP para 6 hp; Cure o aliado com o mínimo de SP por 6 sp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkillHead]Heal 2 aliados com as menores porcentagens de HP por 15 hp"
+                                },
+                                {
+                                    "desc": "[EndSkillTail]Heal 15 SP para 2 aliados com o mínimo de SP"
+                                },
+                                {
+                                    "desc": "[CriticalEndSkill]Cure o aliado com a menor porcentagem de HP para 8 hp; Cure o aliado com o mínimo de SP por 8 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 vincular a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060511,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Effervescent Corrosion",
+                    "abName": "Ambling Pearl",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir ruptura por (ressonância gul. /2)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Effervescent Corrosion",
+                    "abName": "Ambling Pearl",
+                    "desc": "[BeforeAttack]A 50%- hp, peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir ruptura por (ressonância gul. /2)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 fragilidade da gula na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Effervescent Corrosion",
+                    "abName": "Ambling Pearl",
+                    "desc": "[BeforeAttack]A 50%- hp, peso ATK +1;\nA 25%- hp, ganhe um peso ATK adicional +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir ruptura por (ressonância gul. /2)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 fragilidade da gula na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060521,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Effervescent Corrosion",
+                    "abName": "Ambling Pearl",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir a contagem de ruptura por (ressonância gulosa /3)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar 20% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Effervescent Corrosion",
+                    "abName": "Ambling Pearl",
+                    "desc": "[CantIdentify]Alvo a unidade com o mínimo de HP[BeforeAttack]A 50%- hp, peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir a contagem de ruptura por (ressonância gulosa /3)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura 30% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Effervescent Corrosion",
+                    "abName": "Ambling Pearl",
+                    "desc": "[CantIdentify]Alvo a unidade com o mínimo de HP[BeforeAttack]A 50%- hp, peso ATK +1\nA 25%- hp, peso ATK adicional +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir a contagem de ruptura por (ressonância gulosa /3)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cure 50% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "Se o alvo tiver[Vibration], acordo +((a soma de[Vibration]Potência e contagem no alvo)/2)% mais danos (máximo 20%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "Se o alvo tiver[Vibration], acordo +((a soma de[Vibration]Potência e contagem no alvo)/2)% mais dano (máximo<style=\"highlight\">25%</style>)\n<style=\"highlight\">- em mais de 4 mais alta ressonância, acordo + (5 + (a soma de[Vibration]Potência e contagem no alvo)/2)% mais danos (no máximo 35%)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]e<style=\"highlight\">+2[Vibration]Contar</style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Acionar[Switch_Vibration]em[VibrationEcho]</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "Se o alvo tiver[Vibration], Deal +(<style=\"highlight\">5 +</style>(a soma de[Vibration]Potência e contagem no alvo)/2)% mais dano (máximo<style=\"highlight\">30%</style>)\n- em mais de 4 mais alto resson., Deal + (<style=\"highlight\">7.5 +</style>(a soma de[Vibration]Potência e contagem no alvo)/<style=\"highlight\">1.5</style>)% mais danos (max<style=\"highlight\">40%</style>)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]e<style=\"highlight\">+3</style> [Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[Switch_Vibration]em[VibrationEcho]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060621,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe o alvo tiver[Vibration], acordo +((a soma de[Vibration]Potência e contagem no alvo)/2)% mais danos (máximo 25%)\n- Com mais de 4 ressonamento mais alto, aumente a tampa acima para (máximo 35%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]e +3[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe o alvo tiver[Vibration], acordo +((a soma de[Vibration]Potência e contagem no alvo)/2)% mais dano (máximo<style=\"highlight\">30%</style>)\n- em mais de mais de ressonância mais alta,<style=\"highlight\">acordo + (5 + (a soma de[Vibration]Potência e contagem no alvo)/2)% mais danos (no máximo 40%)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]e +3[Vibration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Acionar[Switch_Vibration]em[VibrationEcho]</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe o alvo tiver[Vibration], Deal +(<style=\"highlight\">5</style>+ (a soma de[Vibration]Potência e contagem no alvo)/2)% mais dano (máximo<style=\"highlight\">40%</style>)\n- em mais de 4 mais alto resson., Deal + (<style=\"highlight\">7.5</style>+ (a soma de[Vibration]Potência e contagem no alvo)/<style=\"highlight\">1.5</style>)% mais danos (max<style=\"highlight\">50%</style>)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">6</style> [Vibration]e<style=\"highlight\">+6</style> [Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[Switch_Vibration]em[VibrationEcho]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lasso",
+                    "abName": "Rose Hunter",
+                    "desc": "Moeda Power +1 para cada 7[Burst]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Snare]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Conte para cada 2 ressonomia de gula. (Máx 3)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lasso",
+                    "abName": "Rose Hunter",
+                    "desc": "<style=\"highlight\">Se a soma desta unidade e a velocidade do alvo for 6 ou mais, poder de moeda +1</style>Moeda Power +1 para cada 7[Burst]no alvo (máximo 2)<style=\"highlight\">[BeforeAttack]Ganho 2[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Snare]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Conte para cada 2 ressonomia de gula. (Máx 3)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir aleatoriamente[Laceration]igual a (velocidade desta unidade/2) entre os alvos (máx. 3)</style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir aleatoriamente[Burst]igual a (velocidade desta unidade/2) entre os alvos (máx. 3)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Lasso",
+                    "abName": "Rose Hunter",
+                    "desc": "Se a soma desta unidade e a velocidade do alvo for 6 ou mais, poder de moeda +1\nMoeda Power +1 para cada 7[Burst]no alvo (máximo 2)[BeforeAttack]Ganho 2[Agility]Próximo turno<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Snare]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir 2[TakeHpHealReduce]Próximo turno</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Conte para cada 2 ressonomia de gula. (Máx 3)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir aleatoriamente[Laceration]igual à velocidade desta unidade entre os alvos (máx. 7)</style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir aleatoriamente[Burst]igual à velocidade desta unidade entre os alvos (máx. 7)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lasso",
+                    "abName": "Rose Hunter",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nMoeda Power +1 para cada 7[Burst]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Snare]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +1% mais dano para cada[Laceration]no alvo (no máximo 20%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +1% mais dano para cada[Burst]no alvo (no máximo 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lasso",
+                    "abName": "Rose Hunter",
+                    "desc": "[CantIdentify]Alvos aleatoriamente<style=\"highlight\">Se a soma desta unidade e a velocidade do alvo for 6 ou mais, poder de moeda +1</style>Moeda Power +1 para cada 7[Burst]no alvo (máximo 2)<style=\"highlight\">[BeforeAttack]Ganho 2[Agility]Próximo turno</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Snare]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +1% mais dano para cada[Laceration]no alvo<style=\"highlight\">(no máximo 30%)</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +1% mais dano para cada[Burst]no alvo<style=\"highlight\">(no máximo 30%)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Lasso",
+                    "abName": "Rose Hunter",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe a soma desta unidade e a velocidade do alvo for 6 ou mais, poder de moeda +1\nMoeda Power +1 para cada 7[Burst]no alvo (máximo 2)[BeforeAttack]Ganho 2[Agility]Próximo turno<style=\"highlight\">[BeforeAttack]A 4+ Gluttony ou Lust Reson., Ganhe +1 Peso ATK</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Snare]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir 3[TakeHpHealReduce]Próximo turno</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +1% mais dano para cada[Laceration]no alvo (no máximo 30%)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +1% mais dano para cada[Burst]no alvo (no máximo 30%)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

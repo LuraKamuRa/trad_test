@@ -1,0 +1,139 @@
+{
+  "dataList": [
+    {
+      "id": 2027,
+      "name": "Black Ledger",
+      "desc": "Primeira virada no início de um encontro: ganha aleatório, por exemplo, recursos iguais ao número de inimigos.\n\nSe houver 4 ou mais identidades de linhagem de lâmina ou clã Kurokumo que participam desse encontro, ganhe recursos, por exemplo, os recursos para a afinidade menos de propriedade, por exemplo,.",
+      "simpleDesc": [
+        {
+          "abilityID": 2027,
+          "simpleDesc": "Ganhe aleatório, por exemplo"
+        },
+        {
+          "abilityID": 20271,
+          "simpleDesc": "Ganhe os recursos menos pertencentes"
+        }
+      ]
+    },
+    {
+      "id": 2028,
+      "name": "Rusted Hilt",
+      "desc": "Turn Start: Todos os aliados ganham 1 barra.\n\nA linhagem da lâmina ou as identidades do clã Kurokumo ganham 2 barra de barra.",
+      "simpleDesc": [
+        {
+          "abilityID": 2028,
+          "simpleDesc": "Ganhe 1 Slash Power Up"
+        },
+        {
+          "abilityID": 20281,
+          "simpleDesc": "Ganhe 2 barra de barra"
+        }
+      ]
+    },
+    {
+      "id": 2029,
+      "name": "Fractured Blade",
+      "desc": "Durante esse encontro: ao infligir [[suporte]] potência ou sangramento único pela primeira vez contra um inimigo com um efeito de habilidade de ataque, infligir uma contagem adicional de +2 [[suporte]]. (Uma vez por encontro)\n\nAs identidades do clã Kurokumo, ao causar danos contra um inimigo pela primeira vez, infligirem uma potência adicional de 4 [[suporte]] e +4 [[[suporte]]].",
+      "simpleDesc": [
+        {
+          "abilityID": 2029,
+          "simpleDesc": "Infligir 2 [[suporte]] contagem"
+        },
+        {
+          "abilityID": 20291,
+          "simpleDesc": "Infligir 4 [[suporte]] Potência e +4 [[Bracket]] contagem de contagem"
+        }
+      ]
+    },
+    {
+      "id": 2030,
+      "name": "Broken Blade",
+      "desc": "Quando um aliado atinge criticamente um inimigo, lide uma potência adicional ([[suporte]]/3) do orgulho.\n\nAs identidades da linhagem da lâmina, quando atingem criticamente um inimigo, causam um dano adicional ([[bracket]]/2) do orgulho.",
+      "simpleDesc": [
+        {
+          "abilityID": 2030,
+          "simpleDesc": "Deixe um dano adicional ([[suporte]] da potência/3)."
+        },
+        {
+          "abilityID": 20301,
+          "simpleDesc": "Deixe um dano adicional ([[suporte]] da potência/2)."
+        }
+      ]
+    },
+    {
+      "id": 2031,
+      "name": "Red Tassel",
+      "desc": "Se o alvo tiver 1,5 ou menor resistência à barra, resistência à barra +0,3.",
+      "simpleDesc": [
+        {
+          "abilityID": 2031,
+          "simpleDesc": "Resistência à barra +0,3"
+        }
+      ]
+    },
+    {
+      "id": 2032,
+      "name": "Sublimity",
+      "desc": "Encontro Início: Ativa quando há 3 ou mais identidades de clã Kurokumo.\n\nTurn Start: Todos os aliados ganham 2 barra de barra e causam +35% mais danos à barra.\n\nTurn START: Quando uma identidade de clã Kurokumo causa danos pela primeira vez, inflige uma potência adicional de 4 [[suporte]] e +4 [[bracket]]. (Uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 2032,
+          "simpleDesc": "Ganhe 2 Slash Power Up and Deal +35% MAIS DANOS DE SLASH"
+        },
+        {
+          "abilityID": 20321,
+          "simpleDesc": "Infligir 4 [[suporte]] Potência e +4 [[Bracket]] contagem de contagem"
+        }
+      ]
+    },
+    {
+      "id": 2033,
+      "name": "Unbending",
+      "desc": "Encontro Início: Ativa quando há 3 ou mais identidades de linhagem de lâmina.\n\nTurn Start: Todos os aliados ganham 2 barra de barra e causam +35% mais danos à barra.\n\nTurn Start: Quando uma identidade de linhagem de lâmina atinge criticamente, causar danos adicionais ao orgulho igual a [[suporte]] potência em si mesmo.",
+      "simpleDesc": [
+        {
+          "abilityID": 2033,
+          "simpleDesc": "Ganhe 2 Slash Power Up and Deal +35% MAIS DANOS DE SLASH"
+        },
+        {
+          "abilityID": 20331,
+          "simpleDesc": "Causar danos adicionais ao orgulho igual a [[suporte]] potência em si mesmo"
+        }
+      ]
+    },
+    {
+      "id": 2034,
+      "name": "Ragged Bamboo Hat",
+      "desc": "Encontro Início: Ativa quando há 3 ou mais identidades de linhagem de lâmina.\n\nTodos os aliados causam +50% mais danos à barra.\n\nOs aliados da linhagem da lâmina com [[suporte]] têm uma taxa crítica fixa de 100%.",
+      "simpleDesc": [
+        {
+          "abilityID": 2034,
+          "simpleDesc": "Acordo +50% de dano de barra"
+        },
+        {
+          "abilityID": 20341,
+          "simpleDesc": "Corrija a taxa crítica a 100%"
+        }
+      ]
+    },
+    {
+      "id": 2035,
+      "name": "Old Dopo Robe",
+      "desc": "Encontro Início: Ativa quando há 3 ou mais identidades de linhagem de lâmina.\n\nTodos os aliados causam +50% mais danos à barra.\n\nIdentidades da linhagem da lâmina: Habilidade 1 ganha poder de moeda +1. Habilidade de uma unidade 1 ganha poder de moeda +3.\n\n[[Bracket]] 'render minha carne' Power de conflito final de habilidade -12; 'Reivindicar a habilidade de seus ossos causa +50% mais danos.",
+      "simpleDesc": [
+        {
+          "abilityID": 2035,
+          "simpleDesc": "Acordo +50% de dano de barra"
+        },
+        {
+          "abilityID": 20351,
+          "simpleDesc": "Habilidade 1 Moeda Power Up"
+        },
+        {
+          "abilityID": 20352,
+          "simpleDesc": "'Rendimento da minha carne' Power de conflito final de habilidade -12; 'Reivindicar os ossos de seus ossos +50% mais danos"
+        }
+      ]
+    }
+  ]
+}

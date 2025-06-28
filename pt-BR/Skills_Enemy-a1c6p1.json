@@ -1,0 +1,1631 @@
+{
+    "dataList": [
+        {
+            "id": 9011401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Oi, Oi",
+                    "desc": "[WhenUse]Poder de moeda +1 contra alvos com[Paralysis]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Vibration]e +2[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This'll Sting!",
+                    "desc": "[WhenUse]Poder de moeda +1 contra alvos com[Vibration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Vibration]e +1[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Found a Gap!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "Se o alvo for escalonado por[VibrationExplosion], reutilize moeda"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don't You Stop Now",
+                    "desc": "[WhenUse]Poder de moeda +1 contra alvos com[Paralysis]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]e +4[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dizzy, Eh?!",
+                    "desc": "[WhenUse]Poder de moeda +1 contra alvos com[Vibration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]e +3[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Topsy-Turvy!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "Se o alvo for escalonado por[VibrationExplosion], reutilize moeda"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "H-hurt",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...Brea...",
+                    "desc": "[WhenUse]Se o alvo tiver 3+[Burst]Potência, potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Weakness...",
+                    "desc": "[WhenUse]Se o alvo tiver[Burst], Potência base +1 para cada 3[Burst]Potência no alvo (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gua...",
+                    "desc": "Se esta unidade tiver escudo restante HP no final, ganhe 1[AttackUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Exten...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "A-armor Br-",
+                    "desc": "[WhenUse]Se o alvo tiver 3+[Burst]Contagem, potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cut You...",
+                    "desc": "[WhenUse]Se o alvo tiver[Burst], Potência base +1 para cada 2[Burst]Conte no alvo (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...rd...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se esta unidade tiver escudo restante HP no final, ganhe 1[AttackUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Taking Ca...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Remo...ve...",
+                    "desc": "[WhenUse]Se o alvo tiver 3+[Burst]Potência, potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hold... Them Ba...",
+                    "desc": "[WhenUse]Infligir 3 danos sp[WhenUse]Se o alvo tiver[Burst], Potência base +1 para cada 4[Burst]Potência no alvo (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cou...",
+                    "desc": "Se o alvo tiver[Burst], Power final +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "M...ove",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Get... Out of My...",
+                    "desc": "[WhenUse]Se o alvo tiver 3+[Burst]Contagem, potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Break...through",
+                    "desc": "[WhenUse]Infligir 3 danos sp[WhenUse]Se o alvo tiver[Burst], Potência base +1 para cada 3[Burst]Conte no alvo (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...nter...",
+                    "desc": "Se o alvo tiver[Burst], Power final +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Defense Nullification Technique",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Grasping Vulnerabilities",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, Heal 3 SP em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Armor Fracture",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, infligir 1[SlashResistDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Heal 3 sp em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counterattack",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[AttackDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Neutralization Technique",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, Heal 3 SP em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Immobilisation",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, infligir 1[SlashResistDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Heal 3 sp em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Parrying",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suppression",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, Heal 5 SP em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Agility]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Restraining Technique",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, infligir 2[SlashResistDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vulnerable]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Agility]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[SlashResistDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Housekeeping",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, Clash Power +3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 15[Laceration]e +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, reutilize essa habilidade (uma vez)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Heal 5 sp em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ratcatching",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Twisting",
+                    "desc": "[WinDuel]Se o HP do alvo estiver em 100%, causar +30% mais danos[DefeatDuel]Ganhe 3[DefenseDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Laceration]Potência, infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Exacerbate Wound",
+                    "desc": "[WinDuel]Ganho 1[SlashResultUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 7+[Laceration]Potência, causar 20% dos danos causados ​​como dano de bônus"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 7+[Laceration]Potência, causar 20% dos danos causados ​​como dano de bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Heal 3 sp em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nerve Mutilation",
+                    "desc": "[WinDuel]Ganho 1[SlashResultUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 7+[Laceration]Potência, causar 20% dos danos causados ​​como dano de bônus"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 7+[Laceration]Potência, causar 20% dos danos causados ​​como dano de bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rat Hunt",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rat Herding",
+                    "desc": "[WinDuel]Se o HP do alvo estiver em 80%, causar +50% mais danos[DefeatDuel]Ganho 2[DefenseDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Laceration]Potência, causar 20% dos danos causados ​​como dano de bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interloper Banishment",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for maior que a do alvo por 3 ou mais, reutilize essa habilidade (uma vez)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Aumentar o limiar do escalonamento do alvo por valor igual a[Laceration]no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 12+[Laceration], infligir 3[AttackDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 15+[Laceration]Potência, infligir 2[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Box Conferment",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Clash Power +2[WinDuel]Heal 10 sp em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Heal 5 sp em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Housekeeping Start",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interloper Reception",
+                    "desc": "[WinDuel]Ganho 1[PlusCoinValueUp]\n[DefeatDuel]Ganhe 3[Sinking]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reception Arts 2: Bind",
+                    "desc": "[WhenUse]Potência base +1 para cada 5[Sinking]Potência no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 8+[Sinking]Potência, reutilize esta moeda (1 tempo máx)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4[DefenseDown]4 e 1[Vulnerable]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, o limiar mais baixo do Stagger por 10\nSe a HP de escudo desta unidade estiver esgotada, o último atacante cura 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Commence Housekeeping",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interloper Response",
+                    "desc": "[WinDuel]Ganho 1[PlusCoinValueUp]\n[DefeatDuel]Ganhe 3[Sinking]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reception Arts 2: Topple",
+                    "desc": "Potência base +1 para cada 5[Sinking]Potência no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 4+[Sinking]Conte, reutilize esta moeda (1 tempo máx)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4[AttackDown]e 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, o limiar mais baixo do Stagger por 10\nSe a HP de escudo desta unidade estiver esgotada, o último atacante cura 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Knocking",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Sinking]Potência, infligir 1[AttackDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Time to Clean!",
+                    "desc": "[WhenUse]Se o alvo estiver em 10 ou menos SP, infligir 2[AttackDown]\n[WinDuel]Infligir 1[Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 Plus Coin Drop no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "As Mistress Commands...!",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Sinking]Potência no alvo (máximo 3)[WinDuel]Todos os aliados curam 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[EchoOfMansion]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Not Even a Speck of Dust!",
+                    "desc": "[StartBattle]Aplique 3[AttackUp]e Heal 15 SP para todos os aliados, incluindo esta unidade[StartBattle]Infligir 1[Vulnerable]Para todos os outros aliados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir dano de bônus de afinidade da escuridão igual a[Sinking]Potência no alvo. Reduzir[Sinking]Conte no alvo por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir dano de bônus de afinidade da escuridão igual a[Sinking]Potência no alvo. Reduzir[Sinking]Conte no alvo por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir dano de bônus de afinidade da escuridão igual a[Sinking]Potência no alvo. Reduzir[Sinking]Conte no alvo por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 3+[Sinking]Conte, reutilize esta moeda (duas vezes)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slippery Rat!",
+                    "desc": "Se esta unidade tiver a HP de escudo restante na extremidade do turno, o limiar mais baixo do Stagger por 50\nSe o escudo desta unidade HP estiver esgotado, todos os inimigos curam 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

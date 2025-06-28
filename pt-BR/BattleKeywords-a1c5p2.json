@@ -1,0 +1,53 @@
+{
+    "dataList": [
+        {
+            "id": "AaCePbBa",
+            "name": "Pallid Noise",
+            "desc": "Eficiência de Perda de SP +2\nSe for menor ou igual a -45 SP e infligido com este buff, ganhe Pânico de Barulho no próximo turno.\nFim do Turno: Reduza este efeito em 1",
+            "summary": "Eficiência de perda de SP +2",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePbBb",
+            "name": "Noise Panic",
+            "desc": "Cada moeda que esta unidade vira cai em coroa.\nExpira no próximo turno",
+            "summary": "Toda moeda cai em coroa",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePbBc",
+            "name": "Impurity",
+            "desc": "- Moral baixo\n- Ganhe 1 Frágil. Se esta unidade perder um confronto, o alvo perde 2 SP",
+            "summary": "O alvo perde 2 SP se esta unidade perder o confronto",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePbBd",
+            "name": "Impurity",
+            "desc": "- Pânico\n- Ganhe 2 Frágil. Se esta unidade perder um confronto, o alvo perde 5 SP",
+            "summary": "O alvo perde 5 SP se esta unidade perder o confronto",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePbBi",
+            "name": "Test of the Big Brother",
+            "desc": "Fim do turno: reduza o valor em 1\nEnquanto estiver ativo, receba o dobro do dano das Habilidades. Dobre a quantidade de limite de Stagger aumentado por Tremor Burst.\nEste efeito expira quando esta unidade estiver Staggered.\nSe esta unidade não estiver Staggered quando este efeito expirar, ganhe 5 Damage Up no início do próximo turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePbBe",
+            "name": "Vengeance",
+            "desc": "- Moral baixo\n- Início do turno: Ganhe 1 aumento de poder de ataque e 3 níveis de defesa reduzidos. Ganhe aumento de dano com base na quantidade de dano recebido no último turno (1 aumento de dano para cada 3% do HP máximo perdido)",
+            "summary": "Aumenta o dano com base no dano total recebido no último turno.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePbBf",
+            "name": "Vengeance",
+            "desc": "- Pânico\n- Início do turno: Ganhe 2 de Poder de Ataque e 6 de Nível de Defesa Reduzido. Ganhe Aumento de Dano com base na quantidade de dano recebido no último turno\n(1 Aumento de Dano para cada 3% de HP Máx. perdido)",
+            "summary": "Aumenta o dano com base no dano total recebido no último turno.",
+            "undefined": "-"
+        }
+    ]
+}

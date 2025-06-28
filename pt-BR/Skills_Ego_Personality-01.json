@@ -1,0 +1,381 @@
+{
+    "dataList": [
+        {
+            "id": 2010611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[EndSkill]Infligir aleatoriamente (6 + ressonância sombria.)[Sinking]entre alvos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Sinking], infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[EndSkill]Infligir aleatoriamente (6 + ressonância sombria.)[Sinking]entre alvos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Sinking], infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[EndSkill]Infligir aleatoriamente (6 + (<style=\"highlight\">Ressonância melancólica. X1.5</style>)) [Sinking]entre alvos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Sinking], infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010621,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]. Infligir 2[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Sinking], infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Em mais de 3 anos (escuridão resson.), Peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]. Infligir 2[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Sinking], infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Em mais de 3 anos (escuridão resson.), Peso ATK +1[BeforeAttack]A 5+ (escuridão resson.), Peso ATK adicional +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]. Infligir 2[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Sinking], infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "Prioriza as metas com o menor HP (prioriza os aliados)[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](Máx 7)[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra o alvo principal."
+                                },
+                                {
+                                    "desc": "Se o alvo principal for um aliado, causar +8% mais danos para cada[BoseProjektil](máximo 56%)"
+                                },
+                                {
+                                    "desc": "[AllyKill]Aplique 2[Breath]para si mesmo e 2 aliados"
+                                },
+                                {
+                                    "desc": "[AllyKillFail]Ganho 1[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano"
+                                },
+                                {
+                                    "desc": "+2% de dano no acerto crítico para cada[BoseProjektil](no máximo 14%)"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "Prioriza as metas com o menor HP (prioriza os aliados)[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](Máx 7)[EndSkill]Perder cada[BoseProjektil]<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra o alvo principal.<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Se o alvo principal for um aliado, negócio<style=\"highlight\">+10%</style>mais danos para cada[BoseProjektil](máx<style=\"highlight\">70%</style>)"
+                                },
+                                {
+                                    "desc": "[AllyKill]Aplique 3[Breath]para si mesmo e 2 aliados<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[AllyKill]+1, por exemplo</style>"
+                                },
+                                {
+                                    "desc": "[AllyKillFail]Ganho<style=\"highlight\">3</style> [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">+5%</style>Dano no acerto crítico para cada[BoseProjektil](máx<style=\"highlight\">35%</style>)"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "Prioriza as metas com o menor HP (prioriza os aliados)[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)<style=\"highlight\">- Se o referido resson. foi uma ressonância orgulho, ganho (maior ressonância x 2)[BoseProjektil]Em vez disso (máximo 7)</style>\n[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](Máx 7)[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra o alvo principal.<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Se o alvo principal for um aliado, negócio<style=\"highlight\">+15%</style>mais danos para cada[BoseProjektil](máx<style=\"highlight\">105%</style>)"
+                                },
+                                {
+                                    "desc": "[AllyKill]Aplique 3[Breath]para si mesmo e 2 aliados<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[AllyKill]+1, por exemplo</style>"
+                                },
+                                {
+                                    "desc": "[AllyKillFail]Ganho<style=\"highlight\">3</style> [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">+9%</style>Dano no acerto crítico para cada[BoseProjektil](máx<style=\"highlight\">63%</style>)"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir<style=\"highlight\">3</style> [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[CantIdentify]Prioriza as metas com o menor HP (prioriza os aliados)[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)[BeforeAttack]Acordo +2% mais danos para cada[BoseProjektil](no máximo 14%)[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](Máx 7)[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra o alvo principal."
+                                },
+                                {
+                                    "desc": "Se o alvo principal for um aliado, causar +10% mais danos para cada[BoseProjektil](máximo 70%)"
+                                },
+                                {
+                                    "desc": "Se o alvo principal for um aliado, causar +2% mais danos para cada[Breath]em si mesmo (máximo 50%)"
+                                },
+                                {
+                                    "desc": "[AllyKill]Aplique 2[Breath]para si mesmo e 3 aliados"
+                                },
+                                {
+                                    "desc": "[AllyKill]A próxima moeda causa +2% mais danos para cada[BoseProjektil](no máximo 14%)"
+                                },
+                                {
+                                    "desc": "[AllyKill]+1, por exemplo"
+                                },
+                                {
+                                    "desc": "[AllyKillFail]Ganho 1[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano"
+                                },
+                                {
+                                    "desc": "+2% de dano no acerto crítico para cada[BoseProjektil](no máximo 14%)"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[CantIdentify]Prioriza as metas com o menor HP (prioriza os aliados)[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)[BeforeAttack]Negócio<style=\"highlight\">+3%</style>mais danos para cada[BoseProjektil](máx<style=\"highlight\">21%</style>)\n[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](Máx 7)[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra o alvo principal.<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Se o alvo principal for um aliado, negócio<style=\"highlight\">+12%</style>mais danos para cada[BoseProjektil](máx<style=\"highlight\">84%</style>)"
+                                },
+                                {
+                                    "desc": "Se o alvo principal for um aliado, causar +2% mais danos para cada[Breath]em si mesmo (máximo 50%)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[AllyKill]Aplique 3[Breath]para si mesmo e<style=\"highlight\">3</style>aliados"
+                                },
+                                {
+                                    "desc": "[AllyKill]As próximas ofertas de moedas<style=\"highlight\">+5%</style>mais danos para cada[BoseProjektil](máx<style=\"highlight\">35%</style>)"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[AllyKill]+1, por exemplo</style>"
+                                },
+                                {
+                                    "desc": "[AllyKillFail]Ganho<style=\"highlight\">2</style> [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">+3%</style>Dano no acerto crítico para cada[BoseProjektil](máx<style=\"highlight\">21%</style>)"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir<style=\"highlight\">4</style> [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[CantIdentify]Prioriza as metas com o menor HP (prioriza os aliados)[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)<style=\"highlight\">- Se o referido resson. foi uma ressonância orgulho, ganho (maior ressonância x 2)[BoseProjektil]Em vez disso (máximo 7)</style>\n[BeforeAttack]Negócio<style=\"highlight\">+4%</style>mais danos para cada[BoseProjektil](MAX 28%)[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](Máx 7)[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra o alvo principal.<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Se o alvo principal for um aliado, causar +15% mais danos para cada[BoseProjektil](máximo 105%)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "Se o alvo principal for um aliado, causar +2% mais danos para cada[Breath]em si mesmo (máximo 50%)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">+30% de dano no acerto crítico</style>"
+                                },
+                                {
+                                    "desc": "[AllyKill]Aplique 3[Breath]para si mesmo e<style=\"highlight\">4</style>aliados"
+                                },
+                                {
+                                    "desc": "[AllyKill]As próximas ofertas de moedas<style=\"highlight\">+7%</style>mais danos para cada[BoseProjektil](máx<style=\"highlight\">49%</style>)"
+                                },
+                                {
+                                    "desc": "[AllyKill]+1, por exemplo<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[AllyKillFail]Ganho<style=\"highlight\">3</style> [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">+4% de dano no acerto crítico para cada[BoseProjektil](MAX 28%)</style>"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir<style=\"highlight\">5</style> [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

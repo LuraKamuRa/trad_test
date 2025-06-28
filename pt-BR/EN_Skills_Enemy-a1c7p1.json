@@ -1,0 +1,840 @@
+{
+  "dataList": [
+    {
+      "id": 9015201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Stab",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Cleave",
+          "desc": "[[Bracket]] Se o alvo tiver 8+ [[suporte]], acordo + 20% dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] em 6+ [[bracket]], ganho 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 8 [[Bracket]] e 1 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Powercleave",
+          "desc": "[[Bracket]] Se o alvo tiver 6+ [[suporte]], potência base +1\nAcordo +5% mais danos para cada [suporte]] (no máximo 25%)\n[[Bracket]] Consuma todos [[Bracket]] e [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal ([[[suporte]] no alvo)% HP (no máximo 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[[Bracket]] Power Base +1 para cada [[suporte]] em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Wedge",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Chop",
+          "desc": "[[Bracket]] Se o alvo tiver 4+ [[suporte]], acordo + 10% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] em 6+ [[bracket]], ganho 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 8 [[Bracket]] e 1 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Powerchop",
+          "desc": "[[Bracket]] Se o alvo tiver 6+ [[bracket]] contagem, potência base +1\nAcordo +5% mais danos para cada [suporte]] (no máximo 25%)\n[[Bracket]] Consuma todos [[Bracket]] e [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal ([[[suporte]] no alvo)% HP (no máximo 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[[Bracket]] Power Base +1 para cada [[suporte]] em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It's a Festival, a Festival!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's Dress Up",
+          "desc": "[[Bracket]] Se o alvo tiver 6+ [[suporte]], negociar + 20% dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], ganhe 1 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "We've an Event for You!",
+          "desc": "[[Bracket]] consome até 50 [[suporte]]; Ganhe 1 [[suporte]] para cada 10 [[suporte]] consumido\n[[Bracket]] Se esta unidade falhou em consumir [[suporte]] com essa habilidade, ganhe 5 [[suporte]] e 1 [[suporte]].\n[[Bracket]] Se o alvo tiver 5+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don't Rush Me",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], Power de moedas +1\n[[Suporte]] Clash Power +1 para cada [[suporte]] (máximo 3)\nAcordo +7% mais danos para cada [suporte]] (no máximo 35%)\n[[Bracket]] Consuma todos [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] consome até 5 [[suporte]] e acordo +(20 * consumido [[backet]])% mais dano (máximo 100%)"
+                },
+                {
+                  "desc": "[[Bracket]] Heal ([[[suporte]] Potência no alvo)% HP (no máximo 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[[Bracket]] em 1+ [[Bracket]], potência base +1\n[[Bracket]] em 3+ [[Bracket]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "More, More!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Have Some More",
+          "desc": "[[Bracket]] Se o alvo tiver 4+ [[suporte]], acordo + 10% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], ganhe 1 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "What Heavenly Taste!",
+          "desc": "[[Bracket]] consome até 50 [[suporte]]; Ganhe 1 [[suporte]] para cada 10 [[suporte]] consumido\n[[Bracket]] Se esta unidade falhou em consumir [[suporte]] com essa habilidade, ganhe 5 [[suporte]] e 1 [[suporte]].\n[[Bracket]] Se o alvo tiver 5+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Rat Bastard!",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], Power de moedas +1\n[[Suporte]] Clash Power +1 para cada [[suporte]] (máximo 3)\nAcordo +7% mais danos para cada [suporte]] (no máximo 35%)\n[[Bracket]] Consuma todos [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] consome até 5 [[suporte]] e acordo +(20 * consumido [[backet]])% mais dano (máximo 100%)"
+                },
+                {
+                  "desc": "[[Bracket]] Heal ([[[suporte]] Potência no alvo)% HP (no máximo 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[[Bracket]] em 1+ [[Bracket]], potência base +1\n[[Bracket]] em 3+ [[Bracket]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slam",
+          "desc": "Se o alvo tiver 5+ [[suporte]], causar + 10% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crush Wounds",
+          "desc": "Se o alvo tiver 5+ [[suporte]], potência base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], infligir 1 [[suporte]] também"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wild Swinging",
+          "desc": "[[Bracket]] Se o alvo tiver 10+ [[Bracket]] contagem: essa habilidade não consome a contagem de [[backet]] do alvo [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 10+ [[suporte]], acordo + 30% de dano"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hemostasis",
+          "desc": "[[Bracket]] Se esta unidade tiver [[bracket]], perca 2 [[suporte]] (não cair abaixo de 1)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slam",
+          "desc": "Se o alvo tiver 3+ [[suporte]] contagem, preça + 10% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crush Wounds",
+          "desc": "Se o alvo tiver 3+ [[suporte]] contagem, potência base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], infligir 1 [[suporte]] também"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wild Swinging",
+          "desc": "[[Bracket]] Se o alvo tiver 10+ [[Bracket]] contagem: essa habilidade não consome a contagem de [[backet]] do alvo [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 10+ [[suporte]], acordo + 30% de dano"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hemostasis",
+          "desc": "[[Bracket]] Se esta unidade tiver [[bracket]], perca 2 [[suporte]] (não cair abaixo de 1)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Plain Villainy",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Suporte]] negociar +20% mais danos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bullying",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], causar +30% mais danos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "\"Grrr...\"",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "\"Krrr...\"",
+          "desc": "Se o alvo tiver 5+ [[suporte]], causar + 10% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Listen, you sod. It's— \"Grrrr.\"",
+          "desc": "Se o alvo tiver mais de 5 anos [[suporte]], poder de moeda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...",
+          "desc": "[[Bracket]] Ganho 1 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oi, can we stop now?",
+          "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

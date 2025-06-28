@@ -1,0 +1,116 @@
+{
+    "dataList": [
+        {
+            "id": "tutorial_1001_renewal_01",
+            "content": "Em masmorras, você pode encontrar entidades conhecidas como Anormalidades. Mesmo entre os inimigos que você pode enfrentar em sua jornada, eles exigem o máximo de cautela e tomada de decisão cuidadosa."
+        },
+        {
+            "id": "tutorial_1001_renewal_02",
+            "content": "Entidades como essas exigem uma abordagem mais meticulosa e prática do que os outros inimigos."
+        },
+        {
+            "id": "tutorial_1001_renewal_03",
+            "content": "Os encontros com esses inimigos são chamados de \"Encontros Focados\"."
+        },
+        {
+            "id": "tutorial_1001_renewal_04",
+            "content": "Em Encontros Regulares, você dava comando aos seus pecadores encadeando Habilidades da extremidade esquerda do Painel para a direita."
+        },
+        {
+            "id": "tutorial_1001_renewal_05",
+            "content": "Em Encontros Focados, no entanto, você deve selecionar os ícones de Habilidade dos Pecadores e encadeá-los diretamente aos Slots de Habilidade das Anormalidades."
+        },
+        {
+            "id": "tutorial_1001_renewal_06",
+            "content": "Vamos realizar um exercício prático de campo. Selecione uma Skill na coluna mais à esquerda do Dashboard."
+        },
+        {
+            "id": "tutorial_1001_renewal_07",
+            "content": "Encadeie o ícone de Habilidade selecionado ao Slot de Habilidade da entidade."
+        },
+        {
+            "id": "tutorial_1001_renewal_08",
+            "content": "Exatamente. Lembre-se: em Focused Encounters, conecte as Skills dos Sinners diretamente aos Skill Slots dos inimigos."
+        },
+        {
+            "id": "tutorial_1001_renewal_09",
+            "content": "Pressione a engrenagem à esquerda se quiser diminuir o zoom e visualizar todo o campo de batalha."
+        },
+        {
+            "id": "tutorial_1001_renewal_10",
+            "content": "Ótimo. Pressionar a engrenagem à esquerda enquanto estiver ampliado redefinirá seu campo de visão."
+        },
+        {
+            "id": "tutorial_1001_renewal_11",
+            "content": "Depois de selecionar e conectar todas as Skills disponíveis aos Skill Slots dos inimigos, o equipamento à direita será ativado. Então, você pode prosseguir para a Combat Phase."
+        },
+        {
+            "id": "tutorial_1001_renewal_12",
+            "content": "Então, caro Gerente. Por favor, comande seus Sinners para que possamos continuar a batalha."
+        },
+        {
+            "id": "tutorial_1001_renewal_13",
+            "content": "Assim terminam os fundamentos da introdução aos Encontros Focados. \"Velocidade\" antes de continuarmos mais adiante na batalha."
+        },
+        {
+            "id": "tutorial_1001_renewal_14",
+            "content": "Anormalidades geralmente têm várias partes que podem ser alvo. A \"Speed\" exibida acima de seus Skill Slots reflete a Speed ​​das Partes correspondentes."
+        },
+        {
+            "id": "tutorial_1001_renewal_01_popup_title",
+            "content": "Partes de Anormalidade"
+        },
+        {
+            "id": "tutorial_1001_renewal_01_popup_desc",
+            "content": "Anormalidades geralmente têm várias Partes que podem ser alvo.\nCada Parte usará Habilidades dos Slots de Habilidade atribuídos a elas.\nA Velocidade dos Slots de Habilidade é a mesma que a Velocidade da Parte que os usa."
+        },
+        {
+            "id": "tutorial_1001_renewal_15",
+            "content": "A velocidade determina a ordem das ações nos encontros."
+        },
+        {
+            "id": "tutorial_1001_renewal_16",
+            "content": "Ao contrário de Regular Encounters, você pode selecionar quais inimigos mirar em Focused Encounters. Você pode usar Sinners com valores de Speed ​​mais altos para forçar inimigos com valores de Speed ​​mais baixos a mirar neles."
+        },
+        {
+            "id": "tutorial_1001_renewal_17",
+            "content": "Pecadores com valores de Velocidade mais altos podem forçar Anormalidades com valores de Velocidade mais baixos a alvejá-los, resultando em um Choque."
+        },
+        {
+            "id": "tutorial_1001_renewal_18",
+            "content": "Sinners com valores de Speed ​​menores ou iguais não podem forçar Abnormalities com valores de Speed ​​maiores a alvejá-los. Encadear a Skill de um Sinner mais lento a uma Abnormality mais rápida fará com que eles conduzam um Unopposed attack em vez de Choshing with the Abnormality."
+        },
+        {
+            "id": "tutorial_1001_renewal_19",
+            "content": "Pecadores que são alvos de uma Habilidade de Anormalidade, no entanto, podem usar sua Habilidade para Chocar com a Habilidade da Anormalidade que os está mirando. Nesse caso, Velocidade não é um fator relevante."
+        },
+        {
+            "id": "tutorial_1001_renewal_20",
+            "content": "Entendo que a experiência prática pode ser a melhor maneira de aprender. Por enquanto, simplesmente tenha em mente que Sinners com valores de Speed ​​mais altos podem redirecionar ataques de inimigos com valores de Speed ​​mais baixos para si mesmos."
+        },
+        {
+            "id": "tutorial_1001_renewal_02_popup_title",
+            "content": "Velocidade do Pecador > Velocidade do Inimigo"
+        },
+        {
+            "id": "tutorial_1001_renewal_02_popup_desc",
+            "content": "Pecadores com valores de Velocidade mais altos podem forçar Anormalidades com valores de Velocidade mais baixos a alvejá-los.\nIsso levará a um Clash (marcado por setas amarelas) entre o Pecador e a Anormalidade."
+        },
+        {
+            "id": "tutorial_1001_renewal_03_popup_title",
+            "content": "Velocidade do pecador ≤ Velocidade do inimigo"
+        },
+        {
+            "id": "tutorial_1001_renewal_03_popup_desc",
+            "content": "Pecadores com valores de Velocidade menores ou iguais não podem forçar Anormalidades com valores de Velocidade maiores a alvejá-los.\nNesse caso, o Pecador conduzirá um ataque Unopposed (marcado por setas azuis) em vez de Chocar com a Anormalidade."
+        },
+        {
+            "id": "tutorial_1001_renewal_04_popup_title",
+            "content": "Quando alvo de uma habilidade inimiga"
+        },
+        {
+            "id": "tutorial_1001_renewal_04_popup_desc",
+            "content": "Pecadores que são alvos de uma Habilidade de Anormalidade podem usar sua Habilidade para Chocar (marcada por setas amarelas) com a Habilidade da Anormalidade que os está mirando. Nesse caso, Velocidade não é um fator relevante."
+        }
+    ]
+}

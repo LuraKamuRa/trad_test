@@ -1,0 +1,905 @@
+{
+    "dataList": [
+        {
+            "id": 9018301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Unmannerly Attack",
+                    "desc": "[WhenUse]Ganho 1[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tendon Slice",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, a moeda Power +1[WhenUse]Se o alvo tiver 3+[Laceration], Potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Messy Attack",
+                    "desc": "[WhenUse]A 7+ velocidade, moeda de moeda +1[WhenUse]Se o alvo tiver 4+[Laceration], Power de moedas +1[WinDuel]Causar mais danos com base na contagem de conflitos (+5% por contagem de confrontos, máximo 50%)[WinDuel]Infligir +3[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Ganhe 3 escudo para todo tipo de efeito negativo no eu (máximo 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cleave",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Leg Wound",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Laceration]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wild Swipe",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Laceration]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[BeforeHit]Ganhe 2 escudo para todo tipo de efeito negativo no eu (máximo 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade tiver escudo, infligir 1[Paralysis]no alvo próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Extract Fuel",
+                    "desc": "Se o alvo tiver 2+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura 2 hp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sweep the Backstreets",
+                    "desc": "Se o alvo tiver 2+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Trash Disposal",
+                    "desc": "Se o alvo tiver 4+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "Em sucesso nesta moeda, curar 30% dos danos hp causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Reutilizar esta moeda (3 vezes por habilidade)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "333..1973",
+                    "desc": "[StartBattle]Ganhe 4[Persistent]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por 5"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "For the Family",
+                    "desc": "[StartBattle]Aplique 1[Protection]para 2 aliados aleatórios",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Night in the Backstreets",
+                    "desc": "Se o alvo tiver 2+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura 8 hp"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura 8 hp"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por 8"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ativar[Laceration]no alvo uma vez (reduza[Laceration]Contagem por 1)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sudden Strike",
+                    "desc": "[WhenUse]Ganho 1[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Muscle Slice",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, a moeda Power +1[WhenUse]Se o alvo tiver 3+[Laceration], Potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Indiscriminate Attack",
+                    "desc": "[WhenUse]A 7+ velocidade, moeda de moeda +1[WhenUse]Se o alvo tiver 4+[Laceration], Power de moedas +1[WinDuel]Causar mais danos com base na contagem de conflitos (+5% por contagem de confrontos, máximo 50%)[WinDuel]Infligir 5[Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Ganhe 3 escudo para todo tipo de efeito negativo no eu (máximo 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Muscle Wound",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Laceration]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swift Attack",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Laceration]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[BeforeHit]Ganhe 2 escudo para todo tipo de efeito negativo no eu (máximo 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade tiver escudo, infligir 1[Paralysis]no alvo próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Startling Strike",
+                    "desc": "[WhenUse]Se o alvo tiver 3+[Burst], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Restraint",
+                    "desc": "[WhenUse]Se o alvo tiver 3+[Burst], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Reutilize esta moeda (velocidade desta unidade / 4) vezes (máximo 2)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Feather Strike",
+                    "desc": "Se a velocidade desta unidade for mais rápida que o poder de moeda de ganho do alvo com base na diferença de velocidade (potência da moeda +1 para cada diferença de velocidade de 2; max 3)[WhenUse]Se o alvo tiver 4+[Burst], Power de moedas +1[WinDuel]Infligir +3[Burst]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[BurstAgility]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se o alvo tiver[BurstAgility], causar +50% mais danos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[LegStrength]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Windup",
+                    "desc": "[DuelCounter]\n[WhenUse]Ganhe 3[Agility]Próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pursuit",
+                    "desc": "[WhenUse]Se o alvo tiver 3+[Burst], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Overwhelm",
+                    "desc": "[WhenUse]Se o alvo tiver 3+[Burst], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Reutilize esta moeda (velocidade desta unidade / 4) vezes (máximo 2)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Umbra Strike",
+                    "desc": "Se a velocidade desta unidade for mais rápida que o poder de moeda de ganho do alvo com base na diferença de velocidade (potência da moeda +1 para cada diferença de velocidade de 2; max 3)[WhenUse]Se o alvo tiver 4+[Burst], Power de moedas +1[WinDuel]Infligir +3[Burst]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[BurstAgility]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se o alvo tiver[BurstAgility], causar +50% mais danos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[LegStrength]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Windup",
+                    "desc": "[DuelCounter]\n[WhenUse]Ganhe 3[Agility]Próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aim for the Solar Plexus",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Right in the Dome",
+                    "desc": "[WhenUse]Se o alvo tiver[MiddleFingerBook], infligir 2 adicionais[DefenseDown]com esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gut Crush",
+                    "desc": "[WhenUse]Se o alvo tiver[MiddleFingerBook], infligir 1 adicional[AttackDown]com esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[AttackDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[MiddleFingerBook], ganha 1[PlusCoinValueUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[AttackDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[MiddleFingerBook], ganha 1[PlusCoinValueUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vengeance awaits you all!",
+                    "desc": "Acordo +10% mais danos para cada 2[MiddleFingerBook]no alvo (máximo 50%)[BeforeAttack]Com 40% ou menos HP, ganho de peso ATK +1[WhenUse]Se o alvo principal tiver[MiddleFingerBook], converta todas as moedas nesta habilidade para[SuperCoin]s[WhenUse]Power de moedas +1 para cada 3 inimigo com[MiddleFingerBook](Máx 2)[WhenUse]Clash Power +1 para cada 2[MiddleFingerBook]no alvo principal (máximo 5)[EndSkill]Se esta unidade matou um alvo com[MiddleFingerBook], ganha 1[PlusCoinValueUp]Próximo turno (2 vezes por turno)[EndSkill]Remover[MiddleFingerBook]em todos os alvos que foram atingidos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Reduction]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Seize ya Chance",
+                    "desc": "[BeforeHit]Ganhe 5 escudo para cada[MiddleFingerBook]no alvo (uma vez por turno; máximo 50)[WhenUse]Se o alvo tiver 5+[MiddleFingerBook], Potência base +3; infligir 4[DefenseDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Levante o limite de cambaleou até os 20"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]OFERECIMENTO 15 DANOS DO HP FIXO"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Levante o limite de cambaleou até os 20"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]OFERECIMENTO 15 DANOS DO HP FIXO"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

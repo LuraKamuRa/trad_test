@@ -1,0 +1,129 @@
+{
+  "dataList": [
+    {
+      "id": 40000101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crimson Strike",
+          "desc": "[[Bracket]] Se o alvo tiver mais de 5 efeitos negativos, poder de conflito +1\n[[Bracket]] Power Base +1 para cada 3 [[suporte]] no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crimson Phoenix",
+          "desc": "[[Bracket]] Se o alvo tiver mais de 5 efeitos negativos, a potência da moeda +1\n[[Bracket]] Power +1 para cada 6 [[suporte]] no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganho [[Bracket]] igual a [[bracket]] no alvo (máximo 5)"
+                },
+                {
+                  "desc": "[[Backet]] ganho [[backet]] contagem igual a [[backet]] contagem no alvo (máximo 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]]."
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crimson Spring",
+          "desc": "[[Bracket]] Ganhe +1 Peso ATK para cada 4 efeito negativo no alvo (máximo 2)\n[[Bracket]] Se o alvo tiver mais de 5 efeitos negativos, potência base +5\n[[Bracket]] Se a soma da contagem do [[suporte]] e [[bracket]] estiver em mais de 15 anos, poder de moeda +5\n[[Bracket]] infligir +2 [[backet]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 7 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] acordo +200% mais danos"
+                },
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]] e +1 [[Bracket]] Count Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Adept Evasion",
+          "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno. (3 vezes por turno)"
+        }
+      ]
+    }
+  ]
+}

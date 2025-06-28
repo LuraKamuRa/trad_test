@@ -1,0 +1,2088 @@
+{
+  "dataList": [
+    {
+      "id": 1010101,
+      "name": "Information Relay",
+      "desc": "Aplique 1 dano até 2 aliados colocados após esta unidade no painel."
+    },
+    {
+      "id": 1010201,
+      "name": "Acute Studies",
+      "desc": "Em um confronto, o oponente tem -2 poder de confronto."
+    },
+    {
+      "id": 1010301,
+      "name": "Poised",
+      "desc": "Na vitória do Clash, ganhe +1 de contagem de pontos."
+    },
+    {
+      "id": 1020101,
+      "name": "Analytic Eye",
+      "desc": "OFERECE +10% danos a unidades com efeitos de status negativo."
+    },
+    {
+      "id": 1020201,
+      "name": "Self-charging",
+      "desc": "Ganhe +1 contagem de carga após um ataque."
+    },
+    {
+      "id": 1020301,
+      "name": "Resolution",
+      "desc": "No início do turno, se estiver com mais de 4 pontos de equilíbrio, ganhe 2 pressa."
+    },
+    {
+      "id": 1030101,
+      "name": "Righteous Retribution",
+      "desc": "Caus de habilidades +10% de dano em um confronto vencido."
+    },
+    {
+      "id": 1030201,
+      "name": "Quick Recharge",
+      "desc": "No início da fase de combate, a contagem de carga de ganho por (sombria resson. / 3)."
+    },
+    {
+      "id": 1030301,
+      "name": "Prepared Mind",
+      "desc": "Ganho [[suporte]] por (Wrath Reson. / 3) Próximo turno."
+    },
+    {
+      "id": 1040101,
+      "name": "Indiscriminate Art",
+      "desc": "Lidar e receber +25% de dano."
+    },
+    {
+      "id": 1040201,
+      "name": "C. I. H.",
+      "desc": "OFERECIMENTO +10% de dano de barra nesta curva."
+    },
+    {
+      "id": 1040301,
+      "name": "Kokuuntō",
+      "desc": "Acordo +10% de dano aos alvos com [[suporte]]."
+    },
+    {
+      "id": 1050101,
+      "name": "Staunchness",
+      "desc": "Em menos de 50% HP, ganhe 1 proteção no início da fase de combate."
+    },
+    {
+      "id": 1050201,
+      "name": "Great Mountain",
+      "desc": "Quando atacado, infligir 1 queima em um inimigo aleatório.\n(Até 4 vezes)"
+    },
+    {
+      "id": 1050301,
+      "name": "Enduring Spirit",
+      "desc": "Quando atacado, ganhe +1 de contagem de carga.\n(Até 6 vezes)"
+    },
+    {
+      "id": 1060101,
+      "name": "Entertainment",
+      "desc": "Cura 6 sp na próxima curva."
+    },
+    {
+      "id": 1060201,
+      "name": "Hēiyúndào",
+      "desc": "A última moeda sobre a última habilidade na cadeia inflige 3 sangramento."
+    },
+    {
+      "id": 1060301,
+      "name": "Gaiety",
+      "desc": "Heal (2x Gluttony Reson.) SP na próxima curva."
+    },
+    {
+      "id": 1070101,
+      "name": "Ressentiment",
+      "desc": "OFERECIMENTO +10% de dano a alvos com maior hp máximo."
+    },
+    {
+      "id": 1070201,
+      "name": "Respiration",
+      "desc": "Depois de sofrer danos causados ​​por ataques, causar +10% de dano."
+    },
+    {
+      "id": 1070301,
+      "name": "Raring to Graze",
+      "desc": "Gain (ressonância de ira.) Contagem de cobrança na próxima curva.\nCom mais de 5 anos de contagem de carga, ganhe 1 pressa e atacione a energia."
+    },
+    {
+      "id": 1080101,
+      "name": "Last-ditch Struggle",
+      "desc": "Em menos de 25% HP, ganhe +1 de poder de confronto em um confronto."
+    },
+    {
+      "id": 1080201,
+      "name": "Brainwave Focus",
+      "desc": "No início da fase de combate, perde 15 sp.\nGain (Gloom Res / 3) Ataque Power Up no próximo turno."
+    },
+    {
+      "id": 1080301,
+      "name": "Walking the Line of Death",
+      "desc": "Em menos de 50% HP, ganhe 1 postura adicional com as habilidades."
+    },
+    {
+      "id": 1080401,
+      "name": "Eye for Weakness",
+      "desc": "Os ataques infligem 1 tremor em um confronto vencido."
+    },
+    {
+      "id": 1090101,
+      "name": "Split Evil",
+      "desc": "Em sucesso, infligir 1 sangrar com uma chance de 50%."
+    },
+    {
+      "id": 1090201,
+      "name": "Dark Cloud Blade",
+      "desc": "Aos mais de 5 anos [[suporte]], as habilidades de contador usam habilidades 3."
+    },
+    {
+      "id": 1090301,
+      "name": "Breach Defense",
+      "desc": "Deixe +10% de dano aos inimigos que usaram habilidades de defesa nesta virada."
+    },
+    {
+      "id": 1100101,
+      "name": "Pluckiness",
+      "desc": "Quando um aliado for derrotado, ganhe 1 ataque de ataque na próxima curva."
+    },
+    {
+      "id": 1100201,
+      "name": "Slayer",
+      "desc": "A última moeda sobre a última habilidade na cadeia causa +20% de dano."
+    },
+    {
+      "id": 1100301,
+      "name": "Your Shield",
+      "desc": "No início da fase de combate, aplique 2 power up de defesa e 1 proteção aos aliados adjacentes a esta unidade no painel."
+    },
+    {
+      "id": 1100401,
+      "name": "Júbilo Hedonista",
+      "desc": "Após um escape bem -sucedido, o limiar mais baixo do Stagger pelo poder de Evade Skill em uma chance (5x de ressonância escuridão.)."
+    },
+    {
+      "id": 1110101,
+      "name": "Executor",
+      "desc": "Se o SP da Target estiver abaixo de 0, causar +10% de dano."
+    },
+    {
+      "id": 1110201,
+      "name": "Levelheaded",
+      "desc": "Ocorrente +20% de dano a alvos abaixo de 25% hp."
+    },
+    {
+      "id": 1110301,
+      "name": "Morale Boost",
+      "desc": "No próximo turno, aplique 2 pressa em si e aliados adjacentes a esta unidade no painel nesta curva."
+    },
+    {
+      "id": 1120101,
+      "name": "Forced Survival",
+      "desc": "Cure 5 hp no início da fase de combate."
+    },
+    {
+      "id": 1120201,
+      "name": "Ignition",
+      "desc": "As 3ª e subsequente moedas de uma habilidade infligir 1 queima no golpe."
+    },
+    {
+      "id": 1120301,
+      "name": "Emergency Rations",
+      "desc": "Em menos de 25% de HP, cura 5% do máximo de HP depois de vencer um confronto."
+    },
+    {
+      "id": 1010121,
+      "name": "Information Neutralization",
+      "desc": "No final do turno, cure 10 sp para 1 aliado com o mínimo de SP se eles perdem o sp."
+    },
+    {
+      "id": 1010221,
+      "name": "Observational Eye",
+      "desc": "1 aliado com o maior máximo de hp ganha +1 poder de confronto em um choque."
+    },
+    {
+      "id": 1010321,
+      "name": "Bestow",
+      "desc": "1 Ally com o maior número de SP ganham +1 de postura contam com habilidades."
+    },
+    {
+      "id": 1020121,
+      "name": "Keen Observation",
+      "desc": "1 Ally com o maior máximo de HP inflige o nível de ofensa 2 com ataques com uma chance de 25%."
+    },
+    {
+      "id": 1020221,
+      "name": "Radio Comms",
+      "desc": "1 aliado com os menores ganhos máximos de HP +1 contagem de carga."
+    },
+    {
+      "id": 1020321,
+      "name": "Backing",
+      "desc": "1 Ally com o menor máximo de HP ganha +2 Habilidade de defesa Power final."
+    },
+    {
+      "id": 1030121,
+      "name": "Support",
+      "desc": "1 Ally com o maior número de SP causar +10% de dano de pierce."
+    },
+    {
+      "id": 1030221,
+      "name": "Broken Spirit",
+      "desc": "1 Ally com a velocidade mais alta ganha +1 energia final para sua primeira habilidade."
+    },
+    {
+      "id": 1030321,
+      "name": "Divide in Two",
+      "desc": "1 Ally com a velocidade mais alta acessa +10% de dano de barra."
+    },
+    {
+      "id": 1040121,
+      "name": "Hustle",
+      "desc": "1 aliado com as ofertas mais baixas de HP máximo e recebe +20% de dano."
+    },
+    {
+      "id": 1040221,
+      "name": "Ice Breaker",
+      "desc": "1 aliado com a menor hp máxima inflige +1 ruptura."
+    },
+    {
+      "id": 1040321,
+      "name": "Muscle in Charge",
+      "desc": "1 aliado com a velocidade mais alta inflige +1 sangramento."
+    },
+    {
+      "id": 1050121,
+      "name": "Backup",
+      "desc": "1 Ally com o maior máximo de HP leva -10% de dano das habilidades de ataque."
+    },
+    {
+      "id": 1050221,
+      "name": "Friction Point",
+      "desc": "1 aliado com a velocidade mais baixa inflige +1 queima."
+    },
+    {
+      "id": 1050321,
+      "name": "Taciturn",
+      "desc": "1 aliado com a velocidade mais baixa inflige +1 ruptura."
+    },
+    {
+      "id": 1060121,
+      "name": "Frivolous Jokes",
+      "desc": "No início da fase de combate, o aliado com o menor SP cura 6 sp."
+    },
+    {
+      "id": 1060221,
+      "name": "Syndicate Payback",
+      "desc": "1 aliado com a velocidade mais alta inflige +1 sangramento."
+    },
+    {
+      "id": 1060321,
+      "name": "Gambit",
+      "desc": "1 Ally com o maior número de SP causar +20% de dano com as moedas da cabeça."
+    },
+    {
+      "id": 1070121,
+      "name": "Spite-driven",
+      "desc": "1 aliado com o menor desempenho máximo de HP +10% de dano contundente."
+    },
+    {
+      "id": 1070221,
+      "name": "Self-neglect",
+      "desc": "1 aliado com os menos acordos de HP e recebe +20% de dano."
+    },
+    {
+      "id": 1070321,
+      "name": "Doggedness",
+      "desc": "1 aliado com a velocidade mais alta acessa +10% de dano de pierce."
+    },
+    {
+      "id": 1080121,
+      "name": "Determination to Survive",
+      "desc": "1 aliado com o menor HP e menos de 50% do máximo de hp ganha +1 de poder de confronto em um confronto."
+    },
+    {
+      "id": 1080221,
+      "name": "Tenacity",
+      "desc": "1 Ally com o menor SP causar +10% de dano contundente."
+    },
+    {
+      "id": 1080321,
+      "name": "Strife",
+      "desc": "1 aliado com o menor HP ganha +2 de habilidade final de habilidade."
+    },
+    {
+      "id": 1080421,
+      "name": "By the Manual",
+      "desc": "1 aliado com a velocidade mais baixa ganha +2 de habilidade de guarda."
+    },
+    {
+      "id": 1090121,
+      "name": "Gambler",
+      "desc": "1 Ally com o maior número de HP causar +20% de dano com as moedas da cabeça."
+    },
+    {
+      "id": 1090221,
+      "name": "Dark Cloud Swordsmanship",
+      "desc": "1 aliado com a velocidade mais baixa acida +10% de dano de barra."
+    },
+    {
+      "id": 1090321,
+      "name": "Breaching",
+      "desc": "1 Ally com o maior número de HP causar +20% de dano aos inimigos que usaram habilidades de defesa nesta virada."
+    },
+    {
+      "id": 1100121,
+      "name": "Grudge",
+      "desc": "1 Ally com os menores ganhos de SP 1 Ataque Powe a curva depois que um aliado é derrotado."
+    },
+    {
+      "id": 1100221,
+      "name": "Bloodied Hands",
+      "desc": "1 Ally com a velocidade mais baixa ganha +1 energia final para sua última habilidade."
+    },
+    {
+      "id": 1100321,
+      "name": "Stubbornness",
+      "desc": "1 aliado com o menor HP leva -10% de dano."
+    },
+    {
+      "id": 1100421,
+      "name": "Jugar con Enemigos",
+      "desc": "1 Ally com o maior número de SP causar +10% de dano aos inimigos com SP mais baixo."
+    },
+    {
+      "id": 1110121,
+      "name": "Military Mindset",
+      "desc": "1 Ally com o maior número de HP causar +30% de dano aos inimigos abaixo de 0 sp."
+    },
+    {
+      "id": 1110221,
+      "name": "Double Tap",
+      "desc": "1 Ally com o maior número de SP causar +30% de dano a inimigos abaixo de 25% HP."
+    },
+    {
+      "id": 1110321,
+      "name": "Valor",
+      "desc": "1 Ally com o máximo de HP ganha aleatoriamente 1 Ataque Power Up, 1 Defense Power Up ou 1 Proteção no início da fase de combate."
+    },
+    {
+      "id": 1120121,
+      "name": "Gene Code G-0",
+      "desc": "No início da fase de combate, o aliado com o menor HP cura 5 hp."
+    },
+    {
+      "id": 1120221,
+      "name": "Rushing Heart",
+      "desc": "1 aliado com a velocidade mais baixa causar +30% de dano com a 4ª e as moedas subsequentes."
+    },
+    {
+      "id": 1120321,
+      "name": "Gene Code G-3",
+      "desc": "O aliado com o menor HP cura 5 hp depois de vencer um confronto."
+    },
+    {
+      "id": 1000101,
+      "name": "Wrath",
+      "desc": "Caça +1 de dano com ataques após cada sucesso de sucesso."
+    },
+    {
+      "id": 1000121,
+      "name": "Wrath",
+      "desc": "Dê a um aliado aleatório o seguinte efeito: causar +1 de dano com ataques após cada sucesso de sucesso."
+    },
+    {
+      "id": 1000201,
+      "name": "Lust",
+      "desc": "Quando atingido por um ataque neste turno, cure 3 hp com uma chance de 50%."
+    },
+    {
+      "id": 1000221,
+      "name": "Lust",
+      "desc": "Dê a um aliado aleatório o seguinte efeito: Quando atingido por um ataque neste turno, cure 3 hp com uma chance de 50%."
+    },
+    {
+      "id": 1000301,
+      "name": "Sloth",
+      "desc": "Tome menos 1 dano nesta curva."
+    },
+    {
+      "id": 1000321,
+      "name": "Sloth",
+      "desc": "Dê a um aliado aleatório o seguinte efeito: Tome 1 menos dano nesta curva."
+    },
+    {
+      "id": 1000401,
+      "name": "Gluttony",
+      "desc": "Cure 5 hp no início da fase de combate."
+    },
+    {
+      "id": 1000421,
+      "name": "Gluttony",
+      "desc": "Dê um aliado aleatório o seguinte efeito: Cure 5 hp no início da fase de combate."
+    },
+    {
+      "id": 1000501,
+      "name": "Gloom",
+      "desc": "Cure 5 SP no início da fase de combate."
+    },
+    {
+      "id": 1000521,
+      "name": "Gloom",
+      "desc": "Dê a um aliado aleatório o seguinte efeito: Heal 5 SP no início da fase de combate."
+    },
+    {
+      "id": 1000601,
+      "name": "Pride",
+      "desc": "Causar +2 de dano depois de vencer um confronto."
+    },
+    {
+      "id": 1000621,
+      "name": "Pride",
+      "desc": "Dê a um aliado aleatório o seguinte efeito: Caus +2 de dano depois de vencer um confronto."
+    },
+    {
+      "id": 1000701,
+      "name": "Envy",
+      "desc": "Quando atingido por um ataque neste turno, prejudique o dano 1 ao atacante com 25% de chance."
+    },
+    {
+      "id": 1000721,
+      "name": "Envy",
+      "desc": "Dê a um aliado aleatório o seguinte efeito: Quando atingido por um ataque neste turno, caça 1 dano ao atacante com 25% de chance."
+    },
+    {
+      "id": 1050401,
+      "name": "Obsessive Hammer",
+      "desc": "Quando abaixo de 50% HP, remova 1 efeito de status negativo e ganhe 1 fanático, 1 ataque de ataque e 3 proteção no início da fase de combate."
+    },
+    {
+      "id": 1090401,
+      "name": "Joy of Execution",
+      "desc": "Depois que um inimigo é derrotado, ganhe 1 pressa e 1 dano no próximo turno.\nSe esta unidade derrotou um inimigo, também ganhe 1 fanático. (Uma vez por turno.)"
+    },
+    {
+      "id": 1050421,
+      "name": "Highest Honor",
+      "desc": "Aplique 1 Ataque Power Up e 1 proteção ao aliado com o menor HP abaixo de 50%.\nSe o aliado for um 'N Corp. Fanatic', aplique também 1 fanático."
+    },
+    {
+      "id": 1090421,
+      "name": "Rising Faith",
+      "desc": "Depois que um inimigo é derrotado, aplique 1 pressa e 1 dano até o aliado com o maior sp. (Uma vez por turno.)"
+    },
+    {
+      "id": 1020401,
+      "name": "Whistles",
+      "desc": "No início da fase de combate, cure 2 aliados com o menor SP por 15 sp.\nSe o aliado for um 'N Corp. Fanatic', aplique também 1 fanático."
+    },
+    {
+      "id": 1020421,
+      "name": "Whispers",
+      "desc": "No início da fase de combate, cure 1 aliado com o menor SP por 15 sp.\nSe o aliado for um 'N Corp. Fanatic', aplique também 1 fanático."
+    },
+    {
+      "id": 1070401,
+      "name": "Bugger…",
+      "desc": "Quando um aliado for derrotado, perca 10 sp e ganhe 1 desvantagem na próxima curva."
+    },
+    {
+      "id": 1070421,
+      "name": "Cantillation",
+      "desc": "1 aliado com a velocidade mais alta inflige +1 unhas."
+    },
+    {
+      "id": 1110401,
+      "name": "Grasping Vulnerabilities",
+      "desc": "Ao atacar um alvo com um tipo de dano, o alvo é \"fraco\" ou \"fatal\", causar +10% de dano."
+    },
+    {
+      "id": 1110421,
+      "name": "Relay Intelligence",
+      "desc": "1 Ally com a velocidade mais alta causa +10% de dano ao atacar um alvo com um tipo de dano que o alvo é \"fraco\" ou \"fatal\"."
+    },
+    {
+      "id": 1060401,
+      "name": "Flaring Up~",
+      "desc": "A 30+ SP, infligir +1 contagem de queimaduras com os efeitos das habilidades de ataque/moedas."
+    },
+    {
+      "id": 1060421,
+      "name": "Isn’t It Warm?",
+      "desc": "1 Ally com o maior número de SP inflige +1 contagem de queimaduras com os efeitos de suas habilidades/moedas de ataque."
+    },
+    {
+      "id": 1040401,
+      "name": "Rustle Up",
+      "desc": "Depois de derrotar um inimigo, cure o aliado com o menor HP por 15 hp. (Uma vez por turno.)\nSe esta unidade tiver um apetite, gaste -o para aumentar a cura com base em sua contagem."
+    },
+    {
+      "id": 1040421,
+      "name": "Artistic Flavor",
+      "desc": "Quando um inimigo é derrotado, o aliado com o menor HP cura 15 hp. (Uma vez por turno.)"
+    },
+    {
+      "id": 1120401,
+      "name": "Packed Pies",
+      "desc": "Cure 8 hp no início da fase de combate."
+    },
+    {
+      "id": 1120421,
+      "name": "Culinary Aid",
+      "desc": "No início da fase de combate, o aliado com o menor HP cura 5 hp.\nAumente a cura do R.B. Chef de Cuisine Ryōshū \"Rustle Up\", do Ryōshū, por 5."
+    },
+    {
+      "id": 1100501,
+      "name": "Mad Flame",
+      "desc": "Cure 50% menos SP de ganhar um confronto ou derrotar um inimigo."
+    },
+    {
+      "id": 1100521,
+      "name": "Cornering",
+      "desc": "1 Ally com o menor SP causar +10% de dano contundente.\nSe o aliado estiver abaixo de 0 SP, aumenta ainda mais o dano contundente quanto menor o SP. (No máximo 10%)"
+    },
+    {
+      "id": 1030401,
+      "name": "Thou Shalt Hammer!",
+      "desc": "Se o alvo tiver pregos, infligir +1 contagem de tremores.\nSe esta unidade for fanática, infligir +1 unhas."
+    },
+    {
+      "id": 1030421,
+      "name": "Hammer of Zealotry",
+      "desc": "1 aliado fanático com o mínimo de SP +10% de dano."
+    },
+    {
+      "id": 1090501,
+      "name": "Here’s to Getting Off Early~",
+      "desc": "Em [[suporte]], gaste 3 contagem de cobranças para aumentar o aumento do limite de escalonamento em +40%.\nDepois de desencadear [[suporte]], ganhe 1 pressa e 1 DMG contundente no próximo turno."
+    },
+    {
+      "id": 1090521,
+      "name": "Resonant Spanner",
+      "desc": "Quando 1 aliado com os gatilhos de velocidade mais baixa [[suporte]], aumente o aumento do limite de cambaleação em +20%."
+    },
+    {
+      "id": 1050501,
+      "name": "Chronic Fatigue",
+      "desc": "Em um confronto, o oponente tem -1 poder de confronto se tiver mais de 5 tremor.\nAo se recuperar de escalonamento, curar 5% de HP máx."
+    },
+    {
+      "id": 1050521,
+      "name": "Leave by Suggestion",
+      "desc": "1 aliado com a velocidade mais alta diminui o poder de choque dos oponentes com tremor em 1."
+    },
+    {
+      "id": 1070501,
+      "name": "Rain of Tears",
+      "desc": "No início da fase de combate, gaste 1 a conta e perca o SP pela quantidade atual de afundamento.\nAntes de ser atingido por um ataque, ganhe proteção igual ao naufrágio desta unidade. (Até 5 proteção pode ser obtida por turno)\nQuando atingido, ganhe 1 brusco dmg no próximo turno. (3 por turno)"
+    },
+    {
+      "id": 1070521,
+      "name": "Ragged Umbrella",
+      "desc": "1 Ally com o mínimo de SP perde 10 SP quando atingido por um ataque e ganha 1 DMG contundente no próximo turno. (Uma vez por turno)"
+    },
+    {
+      "id": 1120501,
+      "name": "Sawblade Fired Up",
+      "desc": "Infligir +1 ruptura a alvos com [[suporte]]"
+    },
+    {
+      "id": 1120521,
+      "name": "Sawblade Maintenance",
+      "desc": "1 aliado com a velocidade mais baixa inflige +1 ruptura a alvos com [[suporte]]]"
+    },
+    {
+      "id": 1010401,
+      "name": "Full Bloom",
+      "desc": "Ao atacar 2 ou mais alvos de uma só vez, caça +30% de dano."
+    },
+    {
+      "id": 1010421,
+      "name": "Pungent Spring Breeze",
+      "desc": "1 Ally com o menor SP causa +10% de dano ao atacar 2 ou mais alvos de uma só vez."
+    },
+    {
+      "id": 1080501,
+      "name": "Filling Fluid",
+      "desc": "Se esta unidade não causar danos à HP usando habilidades de ataque em uma curva, obtenha um escudo igual a 5% do máximo de HP no próximo turno. (Máx 30)"
+    },
+    {
+      "id": 1080521,
+      "name": "Corrosive Slime",
+      "desc": "Quando 1 aliado com a velocidade mais alta desencadeia o tremor, eles infligem 2 ruptura."
+    },
+    {
+      "id": 1060501,
+      "name": "Regeneration Ampule Activation",
+      "desc": "Quando atingido, se em menos de 20% HP, cura 90% do máximo de HP e ganhe 1 K Corp Ampule.\nDepois disso ativa, ganhe 1 frágil a cada turno para o resto da batalha. (Uma vez por batalha)"
+    },
+    {
+      "id": 1060521,
+      "name": "High-grade Ampule",
+      "desc": "No início da fase de combate, forneça 2 K Corp Ampula para 1 aliado com a menor porcentagem de HP."
+    },
+    {
+      "id": 1100601,
+      "name": "Unfixing Talismans",
+      "desc": "Em sucesso, se o alvo tivesse [[suporte]], ganhe 1 talismã."
+    },
+    {
+      "id": 1100621,
+      "name": "Wishing Talisman",
+      "desc": "No início da fase de combate, dê (mais alto ressonamento. * 2) talismã ao aliado com mais HP."
+    },
+    {
+      "id": 1080601,
+      "name": "Intense Blaze",
+      "desc": "OFERECIMENTO +10% de dano contundente para cada 3 contagem de queimaduras no alvo. (No máximo 30%)"
+    },
+    {
+      "id": 1080621,
+      "name": "Intense Blaze",
+      "desc": "1 aliado com as ofertas de velocidade mais baixa +5% de dano contundente para cada 3 contagem de queimaduras no alvo. (No máximo 15%)"
+    },
+    {
+      "id": 1050601,
+      "name": "Activate rrR-#4 Suit Pressurization",
+      "desc": "No final do turno, a velocidade máxima +2 (limitada a 6) por 5 contagem de carga na próxima curva."
+    },
+    {
+      "id": 1050621,
+      "name": "Maneuver Training",
+      "desc": "No final do turno, 1 aliado com a maior contagem de carga ganha velocidade máxima +1 (limitada a 3) por 5 contagem de carga no próximo turno."
+    },
+    {
+      "id": 1090601,
+      "name": "Defensive Breathing",
+      "desc": "No início da fase de combate, ganhe 2 escudo por 1 contagem de pontos. (Máx 20)"
+    },
+    {
+      "id": 1090621,
+      "name": "Designated Protection",
+      "desc": "No início da fase de combate, 1 aliado com a menor porcentagem de HP ganha 1 blindagem por 1 contagem de pontos na próxima curva. (Máximo 10)"
+    },
+    {
+      "id": 1030501,
+      "name": "A Noble Duel",
+      "desc": "Se a velocidade de todos os aliados é maior que a velocidade de todos os inimigos, esta unidade causa mais danos com base na diferença de velocidade entre ela e o inimigo mais lento. (+6% por 1 ponto de diferença, no máximo 30%)"
+    },
+    {
+      "id": 1030521,
+      "name": "Dueling Request",
+      "desc": "Se a velocidade de todos os aliados é maior que a velocidade de todos os inimigos, o aliado mais rápido causa mais danos com base na diferença de velocidade entre ele e o inimigo mais lento. (+3% por 1 ponto de diferença, no máximo 15%)"
+    },
+    {
+      "id": 1080701,
+      "name": "Crushin' Crabs",
+      "desc": "ACONTECE contra um alvo com [[suporte]], infligir +1 contagem de naufrágio"
+    },
+    {
+      "id": 1080721,
+      "name": "Crab Driver",
+      "desc": "Quando um aliado com o menor máximo de HP atinge as moedas das cabeças, elas infligem +1 na contagem de afundamentos ao infligir o tremor contagem de seu alvo com efeitos de moedas."
+    },
+    {
+      "id": 1100701,
+      "name": "Unstable Power Output",
+      "desc": "No golpe com as moedas da cabeça com mais de 10 tremoros contam com o eu, infligir +1 tremor e tremor contam com os efeitos da moeda."
+    },
+    {
+      "id": 1100721,
+      "name": "Modified Power Output",
+      "desc": "1 Ally com o maior máximo de HP inflige +1 tremor com os efeitos de suas habilidades de ataque/moedas."
+    },
+    {
+      "id": 1120601,
+      "name": "Combat Shield",
+      "desc": "Se direcionado por 2 ou mais ataques no início da fase de combate, obtenha 2 nível de defesa.\nSe a 50% ou menos hp no início da fase de combate, obtenha 3 nível de defesa."
+    },
+    {
+      "id": 1120621,
+      "name": "Your Shield",
+      "desc": "Se 1 aliado com o maior hp máximo for direcionado por 2 ou mais ataques, obtenha 3 nível de defesa"
+    },
+    {
+      "id": 1020501,
+      "name": "Territory Protection",
+      "desc": "No início da fase de combate, aplique 2 níveis de defesa até os 2 aliados adjacentes a esta unidade no painel."
+    },
+    {
+      "id": 1020511,
+      "name": "Territory Protection",
+      "desc": "No início da fase de combate, aplique 2 níveis de defesa até os 2 aliados adjacentes a esta unidade no painel.\nSe o HP dos Aliados estiver abaixo de 50%, aplique um nível adicional de 2 defesa"
+    },
+    {
+      "id": 1020521,
+      "name": "Protection Request Received",
+      "desc": "No início da fase de combate, aplique 2 nível de defesa até o aliado com a menor porcentagem de HP\nSe a HP da Target estiver abaixo de 50%, aplique um nível adicional de 2 defesa"
+    },
+    {
+      "id": 1040501,
+      "name": "Dimensional Demon Edge",
+      "desc": "Ao derrotar um inimigo, ganhe +2 de contagem de carga (3 vezes por turno)"
+    },
+    {
+      "id": 1040521,
+      "name": "Dimensional Refraction Edge - Type: Blade Mk7",
+      "desc": "Quando um aliado com o menor máximo de HP derrota um inimigo, eles ganham +2 de contagem de carga (uma vez por turno)"
+    },
+    {
+      "id": 1060601,
+      "name": "Cleanup Mastery",
+      "desc": "Se a contagem de taxas mais de mais de 5 no início da fase de combate, ganhe 2 pressa no próximo turno"
+    },
+    {
+      "id": 1060621,
+      "name": "Train Cleanup Manual",
+      "desc": "Um aliado com a velocidade mais baixa ganha 2 pressa no próximo turno, se em mais de 5 contagem de cobrança no início da fase de combate"
+    },
+    {
+      "id": 1070601,
+      "name": "Instinctive Read",
+      "desc": "Ao atacar um alvo com um tipo de dano, o alvo é \"fatal\" (resistência> x1.5) a, infligir +1 mais ruptura com efeitos de habilidade",
+      "summary": "Ao atacar um alvo com um tipo de dano que o alvo é fatal, infligir +1 mais ruptura"
+    },
+    {
+      "id": 1070611,
+      "name": "Instinctive Read",
+      "desc": "Ao atacar um alvo com um tipo de dano, o alvo é \"fatal\" (resistência> x1.5) a, infligir +1 mais ruptura com efeitos de habilidade\n[[Estilo de tag]] Se 4 ou mais unidades sobreviventes, incluindo esta unidade, são sete fixadores de associação, adicionais +1 mais ruptura [[estilo de tag]]]",
+      "summary": "Ao atacar um alvo com um tipo de dano que o alvo é fatal, infligir +1 mais ruptura\nCom 4 ou mais sete aliados do fixador de associação, mais 1 ruptura adicional"
+    },
+    {
+      "id": 1070621,
+      "name": "Connect The Dots",
+      "desc": "1 aliado com o maior máximo de HP inflige +1 mais ruptura com efeitos de habilidade ao atacar um alvo com um tipo de dano que o alvo é \"fatal\" (resistência> x1.5) a",
+      "summary": "1 aliado com o maior máximo de HP inflige +1 mais ruptura ao atacar com um tipo de dano que o alvo é fatal para"
+    },
+    {
+      "id": 1070631,
+      "name": "Connect The Dots",
+      "desc": "1 aliado com o maior máximo de HP inflige +1 mais ruptura com efeitos de habilidade ao atacar um alvo com um tipo de dano que o alvo é \"fatal\" (resistência> x1.5) a\n[[Estilo de tag]] Se o aliado for um fixador de sete associações, adicional +1 mais ruptura [[estilo de tag]]]",
+      "summary": "1 aliado com o maior máximo de HP inflige +1 mais ruptura ao atacar com um tipo de dano que o alvo é fatal para\nSe o aliado for um fixador de sete associações, adicional +1 mais ruptura"
+    },
+    {
+      "id": 1020601,
+      "name": "Before The Tea Cools...",
+      "desc": "Ao atacar um alvo com um tipo de dano, o alvo é \"fraco\" ou \"fatal\" (resistência> x1) para, ganha 1 [[suporte]] para cada um [[suporte]] no alvo antes do ataque (máximo de 20 por turno)",
+      "summary": "Ao atacar com um tipo de dano, o alvo é fraco ou fatal, ganhe 1 equilíbrio para cada ruptura no alvo antes do ataque"
+    },
+    {
+      "id": 1020621,
+      "name": "Seven Association Tea Time",
+      "desc": "1 Ally com a velocidade mais rápida causa mais danos com base nos [[tag-sprite]] [[colorido tag]] [[tag-u]] [[tag-link]] ruptura [[tag-color]] [[tag-link]] [[tag-u]] ao atacar com um tipo de dano que o alvo é \"fatal\" (resistência> x1.5) para \n+1,5% por 1 ruptura (no máximo 15%)",
+      "summary": "1 aliado com a velocidade mais rápida causa mais danos com base na ruptura do alvo ao atacar com um tipo de dano que o alvo é fatal para"
+    },
+    {
+      "id": 1020631,
+      "name": "Seven Association Tea Time",
+      "desc": "1 aliado com a velocidade mais rápida causa mais danos com base no [[tag-sprite]] [[colorido tag]] [[tag-u]] [[tag-link]] ruptura [[tag-color]] [[tag-link]] [tag-u]] ao atacar com um tipo de dano que o alvo é [[tag-style]] \"fracas\" ou \"ousado] quando o ataque com um tipo de dano que o alvo é [[tag-style]]\" fracas \"ou\" ousada] quando atacar com um tipo de dano que o alvo é [[tag-style]] \"fracas\" ou \"ousado]\" fato] ao atacar com um tipo de dano que o alvo é [[tag-style]] \"fracas\" ou \"ousado] quando se ataca com um tipo de dano que o alvo é [[tag-style]]\" frady \"ou\" ou \"\n(+1,5% por 1 ruptura; máximo 15%)\n[[Estilo de tag]] Se o aliado for um fixador de sete associações, o negócio aumentou ainda mais danos aumentados\n(+0,5% por 1 ruptura; max 5%) [[estilo de tag]]]",
+      "summary": "1 aliado com a velocidade mais rápida causa mais danos com base na ruptura do alvo ao atacar com um tipo de dano que o alvo é fraco ou fatal para\nSe o aliado for um fixador de sete associações, lidar ainda mais danos aumentados"
+    },
+    {
+      "id": 1010501,
+      "name": "In Times Like These...",
+      "desc": "Ao desencadear o tremor explodido em um inimigo, infligir 1 nível de defesa por 4 limiar de cambaleante levantado (máximo 5 por 1 inimigo a cada turno)"
+    },
+    {
+      "id": 1010521,
+      "name": "Cleaning Up the Mess",
+      "desc": "Quando 1 aliado com o menor máximo de HP desencadeia tremor estourar em um inimigo, infligir 1 nível de defesa por 4 limiar de escalonamento aumentado (máximo 3 por 1 inimigo a cada volta)"
+    },
+    {
+      "id": 1110501,
+      "name": "Drinking Boast",
+      "desc": "Ao desencadear o tremor explodido em um inimigo, infligir 30% do limiar de cambaleamento elevado como dano de preguiça (máximo 20; arredondado)"
+    },
+    {
+      "id": 1110521,
+      "name": "Carrot & Stick",
+      "desc": "1 aliado com a maior contagem de tremores ganhos +1 mais contagem de tremores de efeitos de habilidade"
+    },
+    {
+      "id": 1090701,
+      "name": "Incandescent Enlightenment",
+      "desc": "Gain [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Blunt dmg up [[tag-link]] [[tag-u]] [[coloria tag]] próxima virada com base nos danos que esta unidade tomou essa curva.\n(Danos de escudo incluídos no cálculo. MAXES AO REVISO DANOS Iguais a 25% de HP máximo no início.\nSe esta unidade tiver 3 [[suporte]] no final do turno, remova 1 efeito negativo aplicado a si mesmo"
+    },
+    {
+      "id": 1090721,
+      "name": "Missionary of Knowledge",
+      "desc": "1 aliado com os maiores ganhos máximos de HP [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Blunt dmg up [[tag-link]] [[tag-u]] [[cor-cor]] próximo, com base nos danos que receberam esse turno.\n(Danos de escudo incluídos no cálculo. MAXES AO REVISO DANOS Iguais a 15% de HP máximo no início da curva. Max Blunt dmg Up obtido por esse efeito: 3)"
+    },
+    {
+      "id": 1060701,
+      "name": "Hook",
+      "desc": "Ao derrotar um inimigo, ganhe 1 ataque Power Up no próximo turno (uma vez por turno)"
+    },
+    {
+      "id": 1060721,
+      "name": "Mass-produced Bionic Gear",
+      "desc": "Quando 1 aliado com a velocidade mais rápida derrota um inimigo infligido com [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangramento [[tag-color]] [[tag-link]] [[tag-u]], ganho 1 ataque de ataque próximo (uma vez por turno)"
+    },
+    {
+      "id": 1020701,
+      "name": "Coerced Regret",
+      "desc": "- Em um confronto, o alvo tem -1 poder de confronto se tiver mais de 3 tipos de efeitos negativos\n- Quando esta unidade está viva, os inimigos afetados pelo [[suporte]] ganham 2 nível de defesa. (Uma vez por inimigo por turno)\n- Corrupção mental: se em menos de -25 sp na extremidade, ganha 2 bind e 1 power up up na próxima curva"
+    },
+    {
+      "id": 1020711,
+      "name": "Coerced Regret",
+      "desc": "-Em um confronto, o alvo possui -1 poder de confronto para cada 3 tipos de efeitos negativos que possui (MAX -2 Clash Power)\n- Quando esta unidade está viva, os inimigos afetados pelo [[suporte]] ganham 2 nível de defesa. (3 vezes por inimigo por turno)\n- Corrupção mental: se em menos de -25 sp na extremidade, ganha 2 bind e 1 power up up na próxima curva"
+    },
+    {
+      "id": 1020721,
+      "name": "Repression Work",
+      "desc": "Em um confronto, o alvo do aliado mais lento tem -1 poder de confronto se eles tiverem mais de 3 tipos de efeitos negativos"
+    },
+    {
+      "id": 1010601,
+      "name": "Emptied Thought",
+      "desc": "- No final da curva, ganhe 1 pressa por 5 contagem de cobrança no próximo turno. (Máx 2)\n- Se a habilidade desta unidade consumiu a contagem de cobranças, aplique 3 barreira de carga a 1 aliado com a menor porcentagem de HP"
+    },
+    {
+      "id": 1010611,
+      "name": "Emptied Thought",
+      "desc": "- No final da curva, ganhe 1 pressa por 5 contagem de cobrança no próximo turno. (Máx 3)\n- Se a habilidade desta unidade consumiu a contagem de cobranças, aplique 3 barreira de carga a 1 aliado com a menor porcentagem de HP"
+    },
+    {
+      "id": 1010621,
+      "name": "Cleanup Demonstration",
+      "desc": "1 aliado com a maior contagem de carga causa mais danos contra alvos com [[tag-sprite]] [[colorido tag]] [[tag-u]] [[tag-link]] ruptura [[tag-color]] [[tag-link]] [[tag-u]] com base na ruptura do alvo ( +1,5% de ruptura."
+    },
+    {
+      "id": 1120701,
+      "name": "Bullets are Pricey",
+      "desc": "-nas cabeças atingem o alvo com [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangramento [[colorido tag]] [[tag-link]] [[tag-u]], ganho [[tag-sprite]] [[tag-color] [[tag-u]] [[tag-link]] Enriquecimento [[Tag-Color]] [[tag-link]] [[tag-u]]. (Máx 4)\n-Se esta unidade hits críticos quando fora do [[suporte]], gaste tudo [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] enriquecimento injusto [[tag-color]] [[tag-link]] [[tag-u] e deal adicional (5 x [[tag-sprite]] [[tag-link]] [[tag-u] e o negócio adicional (5 x [[tag-sprite]] Enriquecimento [[colorido de tag]] [[tag-link]] [[tag-u]] consumido)% dos danos causados ​​como dano de bônus."
+    },
+    {
+      "id": 1120702,
+      "name": "Bullets are Pricey",
+      "desc": "[[Estilo de tag]]-Sempre ativo: inicia os encontros com 7 munição [[estilo de tag]]]\n-nas cabeças atingem o alvo com [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangramento [[colorido tag]] [[tag-link]] [[tag-u]], ganho [[tag-sprite]] [[tag-color] [[tag-u]] [[tag-link]] Enriquecimento [[Tag-Color]] [[tag-link]] [[tag-u]]. (Máx 4)\n[[Estilo de tag-estilo]] Se uma moeda que usa acertos de munição, consuma todos [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] enriquecimento injusto [[tag-tag-spr]] [[tag-link]] [[tag-u]] e lidam adicionais (25 x [[[tag-spr]] Enriquecimento [[colorido de tag]] [[tag-link]] [[tag-u]] consumido)% de dano como dano bônus. [[Estilo de tag]]]\n-Se esta unidade acertarmos quando fora de [[suporte]], consuma todos [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] enriquecimento injusto [[tag-color]] [[tag-link]] [[tag-u] e lidador adicional (5 x [[tag-sprite]]] Enriquecimento [[colorido de tag]] [[tag-link]] [[tag-u]] consumido)% dos danos causados ​​como dano de bônus."
+    },
+    {
+      "id": 1120721,
+      "name": "New Breathing Hole",
+      "desc": "Se 1 aliar com o máximo [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] poise [[tag-color]] [[tag-link]] [[tag-u]] derrota um inimigo, ganhe 1 pierce dmg para cima em seguida. (Uma vez por turno)"
+    },
+    {
+      "id": 1040601,
+      "name": "A S.B.",
+      "desc": "Se esta unidade tiver 7+ [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Poise [[tag-color]] [[tag-link]] [[tag-u]] no final do turno, Heal 8 sp."
+    },
+    {
+      "id": 1040602,
+      "name": "A S.B.",
+      "desc": "[[Estilo de tag]]-Sempre ativo: inicia os encontros com 7 munição [[estilo de tag]]]\n-Se esta unidade tiver 7+ [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Poise [[tag-color]] [[tag-link]] [[tag-u]] no final do turno, Heal 8 sp."
+    },
+    {
+      "id": 1040611,
+      "name": "A S.B.",
+      "desc": "- Sempre ativo: Begin Encounters com 7 munição\n-Se esta unidade tiver 7+ [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Poise [[tag-color]] [[tag-link]] [[tag-u]] no final do turno, Heal 8 sp.\n[[Estilo de tag]]-Se esta unidade já tiver max sp ao atender à condição acima, ganhe 1 postura na próxima curva [[estilo de tag]]"
+    },
+    {
+      "id": 1040621,
+      "name": "The Lucky Cig",
+      "desc": "Se um aliado com o mínimo de munição usar sua última munição com uma moeda, causar 50% dos danos causados ​​por esse ataque de moeda contra cada alvo como dano de bônus contra cada alvo individual. (arredondado)"
+    },
+    {
+      "id": 1040631,
+      "name": "The Lucky Cig",
+      "desc": "[[Estilo tag-estilo]]- Se 1 aliado com o mínimo [[backet]] usa uma habilidade que gasta [[suporte]], ganhe 3 emoção. (uma vez por turno; não se aplica a aliados sem munição) [[estilo de tag]]\n- Se um aliado com o mínimo de munição usa sua última munição com uma moeda, causar 50% dos danos causados ​​por esse ataque de moeda contra cada alvo como dano de bônus contra cada alvo individual. (arredondado)"
+    },
+    {
+      "id": 1030601,
+      "name": "Vengeance Tattoo",
+      "desc": "- Ganhe 1 inveja dmg na próxima curva toda vez que os inimigos atacam um aliado (incluindo esta unidade) três vezes. (Máx 5)\n-Aplicar [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Vengeance Mark [[tag-color]] [[tag-link]] [[tag-u]] à unidade que causou o maior dano de habilidade a um aliado.\n- Se o alvo principal tiver uma marca de vingança, poder final +1"
+    },
+    {
+      "id": 1030611,
+      "name": "Vengeance Tattoo",
+      "desc": "- Ganhe 1 inveja dmg na próxima curva toda vez que os inimigos atacam um aliado (incluindo esta unidade) três vezes. (Máx 5)\n-Aplicar [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Vengeance Mark [[tag-color]] [[tag-link]] [[tag-u]] à unidade que causou o maior dano de habilidade a um aliado.\n- Se o alvo principal tiver uma marca de vingança, o poder da moeda +1"
+    },
+    {
+      "id": 1030621,
+      "name": "Favoritism",
+      "desc": "1 Ally com o menor máximo de HP ganha 1 DMG contado na próxima curva toda vez que os inimigos atingem um aliado (sem incluir esta unidade) 6 vezes. (Máx 2)"
+    },
+    {
+      "id": 1050701,
+      "name": "Loyalty",
+      "desc": "-Aplicar [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Vengeance Mark [[tag-color]] [[tag-link]] [[tag-u]] à unidade que causou o maior dano de habilidade a um aliado.\n- Se o alvo principal tiver uma marca de vingança, poder final +1\n- Se houver outro aliado sobrevivente do meio, cure 6 sp a cada turno"
+    },
+    {
+      "id": 1050711,
+      "name": "Loyalty",
+      "desc": "-Aplicar [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Vengeance Mark [[tag-color]] [[tag-link]] [[tag-u]] à unidade que causou o maior dano de habilidade a um aliado.\n- Se o alvo principal tiver uma marca de vingança, poder final +1\n- Se houver outro aliado sobrevivente do meio, exceto esta unidade, esta unidade e o aliado sobrevivente do meio, com o mínimo de SP."
+    },
+    {
+      "id": 1050721,
+      "name": "One Family",
+      "desc": "O aliado de 1 com o mínimo de SP cura 10 sp no Turn End, se houver outro aliado da mesma facção"
+    },
+    {
+      "id": 1070701,
+      "name": "Mutilated Tattoos",
+      "desc": "Ganho 1 [[suporte]] e 1 [[bracket]] Em seguida, toda vez que um aliado (incluindo esta unidade) é atacado. (Máx 6)\nCausar mais danos a menos HP.\n- causar 0,4% mais danos por cada 1% faltando HP",
+      "summary": "Ganho 1 [[suporte]] e 1 [[suporte]] toda vez que esta unidade é atacada. Causar mais danos quanto menos HP esta unidade tem."
+    },
+    {
+      "id": 1070711,
+      "name": "Mutilated Tattoos",
+      "desc": "Ganho 1 [[suporte]] e 1 [[bracket]] Em seguida, toda vez que um aliado (incluindo esta unidade) é atacado. Ganhe 2 de cada um, em vez disso, se o aliado for do Pequod. (Máx 9)\nCausar mais danos quanto menos HP esta unidade tem.\n- causar 1% a mais danos por cada 1% faltando HP",
+      "summary": "Ganho 1 [[suporte]] e 1 [[suporte]] toda vez que esta unidade é atacada. Causar mais danos quanto menos HP esta unidade tem."
+    },
+    {
+      "id": 1070721,
+      "name": "Desperation",
+      "desc": "1 aliado com o maior máximo de HP causar mais danos de Pierce em menos HP\n- causar 0,15% mais danos para cada 1% faltando HP (máximo 15%)",
+      "summary": "1 aliado com o maior máximo de HP causar mais danos de Pierce em menos HP"
+    },
+    {
+      "id": 1070731,
+      "name": "Desperation",
+      "desc": "1 aliado com o maior máximo de HP causar mais danos de Pierce em menos HP\n- causar 0,3% mais danos por cada 1% faltando HP (máximo 30%)",
+      "summary": "1 aliado com o maior máximo de HP causar mais danos de Pierce em menos HP"
+    },
+    {
+      "id": 1010701,
+      "name": "The First Mate's Harpoon",
+      "desc": "No crit, infligir mais 2 potência de sangria com uma habilidade (6 vezes por turno)"
+    },
+    {
+      "id": 1010721,
+      "name": "The First Mate's Acumen",
+      "desc": "No crit, 1 aliado com o mais [[suporte]] inflige 2 potência de sangria adicional com uma habilidade (6 vezes por turno)"
+    },
+    {
+      "id": 1110601,
+      "name": "Redirect",
+      "desc": "Em Evade, Ganhe 1 [[Bracket]] Próximo turno (Máx 3)"
+    },
+    {
+      "id": 1110611,
+      "name": "Redirect",
+      "desc": "Em Evade, ganha 1 [[suporte]] na próxima curva; Abaixe o limite de escalonamento desta unidade em 5 (máximo 3)"
+    },
+    {
+      "id": 1110621,
+      "name": "Mentor's Counsel",
+      "desc": "Se a velocidade do aliado mais rápida for mais rápido que a velocidade de todos os inimigos, o aliado mais rápido ganha o poder de conflito +1"
+    },
+    {
+      "id": 1110631,
+      "name": "Mentor's Counsel",
+      "desc": "Se a velocidade do aliado mais rápida for mais rápido que a velocidade de todos os inimigos, o aliado mais rápido ganha o poder de conflito +1\nSe o referido aliado for um fixador de associação CINQ, o aliado mais rápido causa +10% de dano de pierce"
+    },
+    {
+      "id": 1100801,
+      "name": "Slumbering Bloodthirst",
+      "desc": "Turn End: Ganho +2 Velocidade máxima Próxima turno para cada 5 [[suporte]] contagem (máximo 6)"
+    },
+    {
+      "id": 1100811,
+      "name": "Slumbering Bloodthirst",
+      "desc": "Turn End: Ganho +2 Velocidade máxima Próxima turno para cada 5 [[suporte]] contagem (máximo 6)\nInício do combate: Se a velocidade de todos os aliados for maior que a velocidade de todos os inimigos, ganhe 1 [[suporte]]"
+    },
+    {
+      "id": 1100821,
+      "name": "Too Slow",
+      "desc": "O aliado mais rápido, em Evade, ganha 1 [[Bracket]] Próximo turno (máximo 5)"
+    },
+    {
+      "id": 1110701,
+      "name": "The Marksman's Smoking Pipe",
+      "desc": "Se o nível de defesa do alvo principal for reduzido atualmente em 4 ou mais, ganho ([[suporte]] no alvo principal/2) [[backet]] antes do ataque (no máximo 20 por turno)"
+    },
+    {
+      "id": 1110711,
+      "name": "The Marksman's Smoking Pipe",
+      "desc": "Se o nível de defesa do alvo principal for reduzido atualmente em 4 ou mais, ganho ([[suporte]] no alvo principal) [[Bracket]] antes do ataque (no máximo 20 por turno)"
+    },
+    {
+      "id": 1110721,
+      "name": "Request Work",
+      "desc": "1 Ally com o maior número de SP causar +10% de dano com as habilidades, por exemplo"
+    },
+    {
+      "id": 1110731,
+      "name": "Request Work",
+      "desc": "1 Ally com o maior número de SP causar +10% de dano com as habilidades, por exemplo\nSe a habilidade, por exemplo"
+    },
+    {
+      "id": 1030701,
+      "name": "Om Nom Nom",
+      "desc": "Se o slot de habilidade desta unidade tiver [[suporte]], Power Clash +1\nCure 4 hp toda vez que esta unidade atinge inimigos que visavam esta unidade com uma habilidade de ataque na fase de encadeamento (para anormalidades, as partes que direcionavam esta unidade com uma habilidade de ataque)"
+    },
+    {
+      "id": 1030711,
+      "name": "Om Nom Nom",
+      "desc": "Se o slot de habilidade desta unidade tiver [[suporte]], Power Clash +1\nCure 6 hp toda vez que esta unidade atinge inimigos que visavam esta unidade com uma habilidade de ataque na fase de encadeamento (para anormalidades, cada parte é calculada separadamente)"
+    },
+    {
+      "id": 1030721,
+      "name": "Illumilantern",
+      "desc": "O aliado com o slot de habilidade mais alto [[suporte]] cura 2 hp toda vez que atingem um inimigo que tem como alvo esta unidade (não se aplica a unidades sem [[suporte]])"
+    },
+    {
+      "id": 1030731,
+      "name": "Illumilantern",
+      "desc": "O aliado com o slot de habilidade mais alto [[suporte]] cura 4 hp toda vez que atingem um inimigo que tem como alvo esta unidade (não se aplica a unidades sem [[suporte]])"
+    },
+    {
+      "id": 1060801,
+      "name": "Peering Through a Key",
+      "desc": "Ao descartar uma habilidade, ganhe [[suporte]] igual à classificação da habilidade descartada. (Máximo 3 por turno)"
+    },
+    {
+      "id": 1060811,
+      "name": "Peering Through a Key",
+      "desc": "Ao descartar uma habilidade, ganhe [[suporte]] igual à classificação de habilidades descartadas. (Máximo 3 por turno)\nQuando outros aliados descartam uma habilidade, e se a classificação de habilidade descartada do aliado for maior que o valor [[suporte]] desta unidade, esta unidade ganha +1 [[bracket]]."
+    },
+    {
+      "id": 1060821,
+      "name": "Enlightenment",
+      "desc": "Após o ataque: se o alvo estiver em um estado escalonado ou derrotado por um ataque de 1 aliado com o mínimo de SP, o aliado cura 7 sp."
+    },
+    {
+      "id": 1010801,
+      "name": "Sinking Knowledge",
+      "desc": "Quando atacado, infligir 1 afundando ao atacante (4 vezes máximo)"
+    },
+    {
+      "id": 1010811,
+      "name": "Sinking Knowledge",
+      "desc": "Quando atacado, infligir 1 afundando no atacante. Quando atacado enquanto protegeu, inflige 1 naufrágio adicional ao atacante. (4 vezes max)"
+    },
+    {
+      "id": 1010821,
+      "name": "Reviewed Knowledge",
+      "desc": "Quando 1 aliado com a velocidade mais alta descarta uma habilidade, o ganho (3 x descarregou a classificação)% do máximo HP como escudo (uma vez por turno)"
+    },
+    {
+      "id": 1010831,
+      "name": "Reviewed Knowledge",
+      "desc": "Quando 1 aliado com a velocidade mais alta descarta uma habilidade, o ganho (5 x descarregou a classificação)% do máximo HP como escudo (2 vezes por turno)"
+    },
+    {
+      "id": 1080801,
+      "name": "Captain of the Pequod",
+      "desc": "Após o ataque: se o inimigo for derrotado após o ataque desta unidade,\n- Ganhe [[suporte]] Próximo turno.\n- 1 Outro aliado com o menor SP cura 7 sp.\n- Se o aliado for do pequod, curar mais 5 sp."
+    },
+    {
+      "id": 1080802,
+      "name": "Hour of the Hunt",
+      "desc": "Se o alvo for um [[tag-lake]], causar +10% de dano"
+    },
+    {
+      "id": 1080811,
+      "name": "Captain of the Pequod",
+      "desc": "- Após o ataque: se o inimigo for derrotado após o ataque desta unidade,\n[[Estilo de tag]]- Ganhe 4 equilíbrio, +2 contagem de pontos. Então, ganha [[suporte]] próximo. [[Estilo de tag]]]\n[[Estilo de tag]]-2 outros aliados com o menor SP Heal 7 SP e Ganhe 4 Poise. [[Estilo de tag]]]\n- Se os Aliados forem do Pequod, curam 5 sp adicionais. [[Estilo de tag]] Então, uma vez por turno, aplique 1 Pierce Power Up no próximo turno. [[Estilo de tag]]]"
+    },
+    {
+      "id": 1080821,
+      "name": "Captain's Orders",
+      "desc": "1 aliado com os maiores ganhos de SP 2 quando o alvo é derrotado após o ataque dessa unidade (2 vezes por turno)"
+    },
+    {
+      "id": 1080831,
+      "name": "Captain's Orders",
+      "desc": "Após o ataque: 1 aliado com os mais altos ganhos de SP 2 e [[estilo de etiqueta]]+2 contagem de pontos [[estilo de tag]] quando o alvo é derrotado após o ataque dessa unidade (2 vezes por turno)"
+    },
+    {
+      "id": 1050801,
+      "name": "Swordplay of the Homeland",
+      "desc": "Nesse encontro, quando esta unidade sofre danos que reduz o HP para 0, anularem esse dano; Então, o HP desta unidade não pode cair abaixo de 1 para a curva. (Uma vez por encontro)\n\nQuando esta unidade ganha [[suporte]] potência/contagem com sua própria habilidade ou efeitos de moeda: dê 1 [[suporte]] potência e +1 [[bracket]] contam para outros 2 aliados da linhagem de lâmina sem [[suporte]] ou com o mínimo [[suporte]]\n- Se houver 6 ou mais aliados de linhagem de lâmina participando deste encontro, dê 2 [[suporte]] potência e +2 [[bracket]] contam em vez disso"
+    },
+    {
+      "id": 1050811,
+      "name": "Swordplay of the Homeland",
+      "desc": "Nesse encontro, quando esta unidade sofre danos que reduz o HP para 0, anularem esse dano; Então, o HP desta unidade não pode cair abaixo de 1 para a curva. (Uma vez por encontro)\n\nQuando esta unidade ganha [[suporte]] potência/contagem com sua própria habilidade ou efeitos de moeda: dê 1 [[suporte]] potência e +1 [[bracket]] contam para outros 2 aliados da linhagem de lâmina sem [[suporte]] ou com o mínimo [[suporte]]\n- Se houver 6 ou mais aliados de linhagem de lâmina participando deste encontro, dê 2 [[suporte]] potência e +2 [[bracket]] contam em vez disso\n\nInício de combate: aplicar [[suporte]] Buff a todos os outros aliados da linhagem da lâmina"
+    },
+    {
+      "id": 1050821,
+      "name": "Swordplay of the Homeland",
+      "desc": "Início de combate: 1 aliado com o maior [[suporte]] causa +15% de dano no acerto crítico"
+    },
+    {
+      "id": 1020801,
+      "name": "Sanguine Plum Blossoms",
+      "desc": "On Crit: Inflight 1 [[Bracket]]. (3 vezes max)"
+    },
+    {
+      "id": 1020811,
+      "name": "Sanguine Plum Blossoms",
+      "desc": "On Crit: Inflight 1 [[Bracket]]. Se o alvo tiver 10 [[suporte]], infligir 1 nível de defesa abaixo (6 vezes max)"
+    },
+    {
+      "id": 1020821,
+      "name": "Lingering Bladepoint",
+      "desc": "Quando o aliado foi implantado pela primeira vez na equipe de pré-batalha, acerta criticamente com uma habilidade do tipo barra, infliga 1 nível de defesa (3 vezes no máximo por 1 inimigo por turno)"
+    },
+    {
+      "id": 1030801,
+      "name": "Collective Breathing",
+      "desc": "Quando esta unidade ganha [[suporte]] potência com sua própria habilidade ou efeitos de moeda: dê 1 [[suporte]] potência a 1 aliado sem [[suporte]] ou com o mínimo [[suporte]] potência (3 vezes max)"
+    },
+    {
+      "id": 1030811,
+      "name": "Collective Breathing",
+      "desc": "Quando esta unidade ganha potência [[suporte]] com sua própria habilidade ou efeitos de moeda: dê 1 [[suporte]] potência a 1 aliado sem [[suporte]] ou com o mínimo [[suporte]] potência (5 vezes max)"
+    },
+    {
+      "id": 1030821,
+      "name": "Nightly Stroll",
+      "desc": "1 aliado com o mínimo [[suporte]] ganha 1 mais [[suporte]] potência ao obter potência [[suporte]] com sua própria habilidade ou efeitos de moeda. (2 vezes máx. Não se aplica a aliados sem [[suporte]])"
+    },
+    {
+      "id": 1030831,
+      "name": "Nightly Stroll",
+      "desc": "1 Ally com o mínimo [[suporte]] ganha mais 2 potência [[bracket]] ao obter potência [[suporte]] com sua própria habilidade ou efeitos de moeda. (2 vezes máx. Não se aplica a aliados sem [[suporte]])"
+    },
+    {
+      "id": 1120801,
+      "name": "Dark Cloud Blade",
+      "desc": "Win Clash: Infligir 1 [[suporte]] (3 vezes por turno)"
+    },
+    {
+      "id": 1120821,
+      "name": "Dark Cloud Style",
+      "desc": "Quando 1 aliado com a velocidade mais lenta atinge um inimigo com mais de 10 [[suporte]], infligir 1 nível de ofensa no próximo turno (3 vezes por turno)"
+    },
+    {
+      "id": 1120831,
+      "name": "Dark Cloud Style",
+      "desc": "Quando 1 aliado com a velocidade mais lenta atinge um inimigo com 7+ [[suporte]], infligir 1 nível de ofensa no próximo turno (3 vezes por turno)"
+    },
+    {
+      "id": 1050802,
+      "name": "In Memoriam",
+      "desc": "Quando 3 ou mais outros aliados da linhagem lâmina são derrotados:\n- Ao ganhar potência/contagem com as próprias habilidades e efeitos de moedas desta unidade: Ganhe mais 1 de cada\n- Quando 5 ou mais outros aliados da linhagem lâmina são derrotados, ganhe mais 2\n- Combate Iniciar: Aplicar [[Bracket]] em si mesmo"
+    },
+    {
+      "id": 1090801,
+      "name": "Burning Passion",
+      "desc": "Negância +5% mais danos a cada 6 [[suporte]] potência no alvo (no máximo 15%)\nInício de combate: se todos os inimigos tiverem 6+ [[suporte]] Potência, aplique 1 [[suporte]] a (mais alta ira a-reson.) Aliados em ordem de implantação\n- Em encontros focados, o acima é ativado quando todas as partes inimigas têm 6+ [[backet]] potência",
+      "summary": "Negância +5% mais danos a cada 6 [[suporte]] potência no alvo (no máximo 15%)\nSob certos queimaduras e ira a-reson. Condições, aplique buff aos aliados"
+    },
+    {
+      "id": 1090811,
+      "name": "Burning Passion",
+      "desc": "Negância +10% mais danos a cada 6 [[suporte]] potência no alvo (no máximo 30%)\nInício de combate: se todos os inimigos tiverem 6+ [[suporte]] Potência, aplique 1 [[suporte]] a (mais alta ira a-reson.) Aliados em ordem de implantação\n- Em encontros focados, o acima é ativado quando todas as partes inimigas têm 6+ [[backet]] potência\n- Se o aliado for um fixador da associação Liu, aplique 1 ataque de ataque",
+      "summary": "Negância +10% mais danos a cada 6 [[suporte]] potência no alvo (no máximo 30%)\nSob certos queimaduras e ira a-reson. Condições, aplique buff aos aliados"
+    },
+    {
+      "id": 1090821,
+      "name": "Passionate Cheer",
+      "desc": "1 Ally com o menor SP causa +5% de dano de pierce por cada 6 [[suporte]] potência no alvo no acerto (no máximo 15%)"
+    },
+    {
+      "id": 1040701,
+      "name": "Flame Spread",
+      "desc": "Quando esta unidade derrotar um inimigo com [[suporte]], aplique 4 [[suporte]] a 1 inimigo aleatório sem [[suporte]] ou com o mínimo de potência [[suporte]]. (Uma vez por turno)\n- em encontros focados, para 1 parte aleatória",
+      "summary": "Quando esta unidade derrotar um inimigo com [[suporte]], aplique 4 [[suporte]] a 1 inimigo aleatório sem [[suporte]] ou com o mínimo [[suporte]] potência"
+    },
+    {
+      "id": 1040711,
+      "name": "Flame Spread",
+      "desc": "Quando esta unidade derrotar um inimigo com [[suporte]], aplique 4 [[suporte]] a 2 inimigos aleatórios sem [[suporte]] ou com o mínimo de potência [[suporte]]. (2 vezes por turno)\n- em encontros focados, para 2 partes aleatórias",
+      "summary": "Quando esta unidade derrotar um inimigo com [[suporte]], aplique 4 [[suporte]] a 2 inimigos aleatórios sem [[suporte]] ou com o mínimo [[suporte]] potência"
+    },
+    {
+      "id": 1040721,
+      "name": "Spread Flame",
+      "desc": "Quando 1 aliado com a velocidade mais baixa derrota um inimigo com [[suporte]], infligir 3 [[suporte]] em 1 inimigo aleatório (uma vez por turno)\n- em encontros focados, em 1 parte aleatória",
+      "summary": "Quando 1 aliado com a velocidade mais baixa derrota um inimigo com [[suporte]], infligir 3 [[suporte]] em 1 inimigo aleatório"
+    },
+    {
+      "id": 1040731,
+      "name": "Spread Flame",
+      "desc": "Quando 1 aliado com a velocidade mais baixa derrota um inimigo com [[suporte]], infligir 3 [[suporte]] em 2 inimigos aleatórios (uma vez por turno)\n- em encontros focados, em 2 peças aleatórias",
+      "summary": "Quando 1 aliado com a velocidade mais baixa derrota um inimigo com [[suporte]], infligir 3 [[suporte]] em 2 inimigos aleatórios"
+    },
+    {
+      "id": 1070801,
+      "name": "Grave Attendance",
+      "desc": "Negância +5% mais danos a cada 6 [[suporte]] potência no alvo (no máximo 15%)",
+      "summary": ""
+    },
+    {
+      "id": 1070811,
+      "name": "Grave Attendance",
+      "desc": "Negância +10% mais danos a cada 6 [[suporte]] potência no alvo (no máximo 30%)\nAo converter [[backet]] em [[backet]] com os efeitos da habilidade desta unidade, gatilho [[backet]] no alvo",
+      "summary": ""
+    },
+    {
+      "id": 1070821,
+      "name": "Verify Obligation Fulfillment",
+      "desc": "Para 1 aliar com a velocidade mais rápida: poder de conflito +1 para habilidades que se aplicam [[suporte]] potência ou contagem",
+      "summary": ""
+    },
+    {
+      "id": 1050901,
+      "name": "Buy Time",
+      "desc": "Clash Power +1 em um confronto contra alvos com [[suporte]]",
+      "summary": "Clash Power +1 em um confronto contra alvos com [[suporte]]"
+    },
+    {
+      "id": 1050921,
+      "name": "My Responsibility",
+      "desc": "Quando 1 aliado com a velocidade mais rápida atinge um inimigo com 6+ [[suporte]], infligir 1 [[suporte]] (3 vezes por inimigo por turno)",
+      "summary": "Infligir 1 [[Bracket]] no acerto contra alvos com 6+ [[suporte]]]"
+    },
+    {
+      "id": 1050931,
+      "name": "My Responsibility",
+      "desc": "Quando 1 aliado com a velocidade mais rápida atinge um inimigo com 3+ [[suporte]], infligir 1 [[suporte]] (3 vezes por inimigo por turno)",
+      "summary": "Infligir 1 [[suporte]] no acerto contra alvos com 3+ [[suporte]]"
+    },
+    {
+      "id": 1110801,
+      "name": "The Mistress's Voice...!",
+      "desc": "- Ao conflitar contra metas com menos de -25 sp, poder de conflito +1 e causar +10% mais danos\n- OFERECE +15% mais danos contra alvos com [[suporte]]\n- Ao ganhar um confronto sem perder uma única moeda, Heal 10 sp. Se esta unidade já estiver em Max SP, ganhe 2 [[suporte]] na próxima curva (2 vezes por turno)",
+      "summary": "Contra alvos com baixo SP, poder de conflito +1 e causar +10% mais danos\nAcordo +15% mais danos se o alvo tiver [[suporte]]\nCura SP na vitória do Clash"
+    },
+    {
+      "id": 1110811,
+      "name": "The Mistress's Voice...!",
+      "desc": "- Ao conflitar contra metas com menos de 0 sp, poder de conflito +1 e causar +20% mais danos\n- OFERECIMENTO +30% MAIS DANOS CONTRA OS METORES COM [EchoOfMansion]\n- Ao ganhar um confronto sem perder uma única moeda, Heal 10 sp. Se esta unidade já estiver em Max SP, ganhe 3 [[suporte]] na próxima curva (2 vezes por turno)",
+      "summary": "Contra alvos com baixo SP, poder de conflito +1 e causar +20% mais danos\nAcordo +30% mais danos se o alvo tiver [[suporte]]\nCura SP na vitória do Clash"
+    },
+    {
+      "id": 1110821,
+      "name": "Butler Training",
+      "desc": "Clash Power +1 a 1 aliado com o maior SP ao conflitar contra alvos com menos de -25 sp",
+      "summary": "Clash Power +1 quando se chateando contra alvos com menos de -25 sp"
+    },
+    {
+      "id": 1110831,
+      "name": "Butler Training",
+      "desc": "Clash Power +1 a 1 aliado com o maior SP ao conflitar contra alvos com menos de -25 sp",
+      "summary": "Clash Power +1 quando se chateando contra alvos com menos de -25 sp"
+    },
+    {
+      "id": 1050911,
+      "name": "Buy Time",
+      "desc": "Clash Power +1 contra alvos com [[suporte]]\nClash Power +2 se o alvo tiver 5+ [[backet]] contagem",
+      "summary": ""
+    },
+    {
+      "id": 1020901,
+      "name": "Butler Style Response",
+      "desc": "- Win Clash: Infligir 1 [[suporte]] no alvo (3 vezes por turno)",
+      "summary": "Clash Win: Inflight 1 [[Bracket]]"
+    },
+    {
+      "id": 1020911,
+      "name": "Butler Style Response",
+      "desc": "- Win Clash: Infligir 1 [[suporte]] no alvo (3 vezes por turno)\n- Se o alvo tiver [[suporte]], infligir 3 [[suporte]] em vez disso",
+      "summary": "Clash Win: Inflight 1 [[Bracket]]"
+    },
+    {
+      "id": 1020921,
+      "name": "Anticipatory Training",
+      "desc": "Quando 1 aliado com o mínimo de SP atinge um inimigo com 5+ [[suporte]], o aliado cura 2 sp no acerto (4 vezes por turno)",
+      "summary": "Cura condicional de SP"
+    },
+    {
+      "id": 1020931,
+      "name": "Anticipatory Training",
+      "desc": "Quando 1 aliado com o menor SP atinge um inimigo com 5+ [[suporte]], o aliado cura 3 sp no acerto (4 vezes por turno)",
+      "summary": "Cura condicional de SP"
+    },
+    {
+      "id": 1120901,
+      "name": "Endless Nightmares",
+      "desc": "- Início de combate: ganho 1 [[suporte]] e 1 [[suporte]] para cada 5 SP diferença entre o início do combate e o último turno (no máximo 5)\n- Deal +1% mais dano para cada potência [[suporte]] no alvo (máximo 20%)",
+      "summary": ""
+    },
+    {
+      "id": 1120911,
+      "name": "Endless Nightmares",
+      "desc": "- Início de combate: ganho 1 [[suporte]] e 1 [[suporte]] para cada 5 SP diferença entre o início do combate e o último turno (no máximo 5)\n- Deal +2% mais danos para cada potência [[suporte]] no alvo (máximo 40%)",
+      "summary": ""
+    },
+    {
+      "id": 1120921,
+      "name": "Suffering",
+      "desc": "Início de combate: 1 aliado com o menor SP perde 7 sp, depois ganha 1 [[suporte]]]",
+      "summary": ""
+    },
+    {
+      "id": 1120931,
+      "name": "Suffering",
+      "desc": "Início de combate: 1 aliado com o menor SP perde 5 sp, depois ganha 1 [[suporte]]]",
+      "summary": ""
+    },
+    {
+      "id": 999901,
+      "name": "The Red Gaze",
+      "desc": "Infligir 3 [[suporte]] Próxima virada contra inimigos com 50% ou mais HP no Turn End\nSe o inimigo que está prestes a usar uma habilidade contra esta unidade não está no HP completo, essa unidade ganha 1 [[suporte]] para cada 20% HP restante restante",
+      "summary": ""
+    },
+    {
+      "id": 999902,
+      "name": "White-hot Gladius",
+      "desc": "Infligir 1 [[suporte]] em sucesso com uma habilidade Gladius",
+      "summary": ""
+    },
+    {
+      "id": 999903,
+      "name": "Bloody Tears",
+      "desc": "No uso de habilidades: Tome 3% de HP máximo como dano fixo (esse dano não pode matar esta unidade).\nApós o ataque: curar 15% do máximo de HP para cada unidade morta",
+      "summary": ""
+    },
+    {
+      "id": 999904,
+      "name": "Blood Barrier",
+      "desc": "Todos os aliados, incluindo esta unidade, ganham escudo a cada turno.\nTodos os aliados, incluindo esta unidade, não caem abaixo de 1 hp para este encontro.",
+      "summary": ""
+    },
+    {
+      "id": 999905,
+      "name": "Eyes of a Friend Who ████",
+      "desc": "'O olhar vermelho' fica disponível",
+      "summary": ""
+    },
+    {
+      "id": 999906,
+      "name": "Shin (心)",
+      "desc": "Gera mang com base no SP",
+      "summary": ""
+    },
+    {
+      "id": 999907,
+      "name": "Mang (望)",
+      "desc": "Consuma SP para gerar mang. Causar mais danos com base no número de mang",
+      "summary": ""
+    },
+    {
+      "id": 1040801,
+      "name": "Clearing Household Chores",
+      "desc": "Em atingido contra alvos com [[suporte]], ganhe 1 [[suporte]] no próximo turno (3 vezes por turno)\nNo crítico contra alvos com [[suporte]], elimine [[backet]] no alvo; Então, se a velocidade desta unidade for mais rápida que a do alvo, caça +5% de dano no acerto crítico para cada 1 diferença de velocidade (no máximo 30%)",
+      "summary": ""
+    },
+    {
+      "id": 1040811,
+      "name": "Clearing Household Chores",
+      "desc": "Em atingido contra alvos com [[suporte]], ganhe +1 [[bracket]] contagem e ganha 1 [[suporte]] próximo (3 vezes por turno)\nNo crítico contra alvos com [[suporte]], elimine [[backet]] no alvo; Então, se a velocidade desta unidade for mais rápida que a do alvo, caça +10% de dano no acerto crítico para cada 1 diferença de velocidade (no máximo 60%)",
+      "summary": ""
+    },
+    {
+      "id": 1040821,
+      "name": "Cleaning Command",
+      "desc": "Quando o aliado que foi implantado pela última vez vence um confronto, ganhe +1 [[suporte]] contagem (3 vezes por turno)",
+      "summary": ""
+    },
+    {
+      "id": 1040831,
+      "name": "Cleaning Command",
+      "desc": "Quando o aliado que foi implantado pela última vez vence um confronto, ganha +1 [[suporte]] contagem (3 vezes por turno) e ganhe 1 [[bracket]] no próximo turno (uma vez por turno)",
+      "summary": ""
+    },
+    {
+      "id": 1080901,
+      "name": "Deep Cleaning",
+      "desc": "Se esta unidade acertar criticamente contra alvos com velocidade mais lenta que esta unidade, infligir 1 potência adicional para efeitos negativos com suas habilidades (3 vezes por turno)",
+      "summary": ""
+    },
+    {
+      "id": 1080921,
+      "name": "Loyal Supporter",
+      "desc": "Quando 1 aliado com a velocidade mais rápida ataca um alvo com [[suporte]], o acordo +0,5% mais dano a cada 1 [[suporte]] no alvo (máximo 10%)",
+      "summary": ""
+    },
+    {
+      "id": 1080931,
+      "name": "Loyal Supporter",
+      "desc": "Quando 1 aliado com a velocidade mais rápida ataca um alvo com [[suporte]], causar +1% mais danos a cada 1 [[suporte]] no alvo (máximo 20%)",
+      "summary": ""
+    },
+    {
+      "id": 1100901,
+      "name": "Stigma Workshop Weaponry / Passion",
+      "desc": "Esta unidade inflige +1 mais [[suporte]] potência com suas habilidades (ativa 6 vezes por turno)\nQuando em um estado volátil, por exemplo, e em 0+ sp, ganhe potência da moeda + (sp/20). A 45 SP, ganhe poder de moeda +3.",
+      "summary": "Infligir +1 mais [[suporte]] potência com habilidades\nGanhe poder de moeda com base no SP"
+    },
+    {
+      "id": 1100911,
+      "name": "Stigma Workshop Weaponry / Passion",
+      "desc": "Esta unidade inflige +1 mais [[suporte]] potência [[estilo de tag]] e contagem [[estilo de tag]] com suas habilidades (ativa 6 vezes por turno)\nQuando em um estado volátil, por exemplo, e em 0+ sp, ganhe potência da moeda + (sp/20). A 45 SP, ganhe poder de moeda +3.",
+      "summary": "Infligir +1 mais [[suporte]] potência e contar com habilidades\nGanhe poder de moeda com base no SP"
+    },
+    {
+      "id": 1100902,
+      "name": "Unstable Shell of Ego",
+      "desc": "Turn Start: Em 40+ SP, consuma 20 SP para entrar no estado volátil, por exemplo, O :: Waxen Pinion State. (Este efeito de 'Turn Start' não é ativado repetidamente)\n\nSe 2+ aliados forem derrotados em um único turno, e se o SP desta unidade não estiver em -45 na extremidade do turno, redefine o SP para 20; Em seguida, digite o estado volátil, por exemplo: :: Waxen Pinion State. (Se ambas as condições forem atendidas ao mesmo tempo, qualquer condição que resulte em um SP mais alto entrar em vigor)\n\nSe esta unidade for escalonada devido a danos ou limiar de cambalhamento aumentado ao entrar no estado volátil, por exemplo,, recupere -se de escalonamento. Se a escalonamento é algo que não pode ser recuperado naturalmente, esta unidade não entra no estado volátil, por exemplo,.\n\nGanho [[suporte]] enquanto estiver no estado volátil, por exemplo, estado.\n\nTurn Start: A 0 ou menos SP, saia do estado volátil, por exemplo, :: Waxen Pinion State.",
+      "summary": " "
+    },
+    {
+      "id": 1100921,
+      "name": "Flaring Brand",
+      "desc": "Quando o pecador nº 1 a ser implantado chefes, infligir +1 [[suporte]] contagem (4 vezes por turno)",
+      "summary": "Nas cabeças atingidas, infligir +1 [[suporte]] contagem"
+    },
+    {
+      "id": 1010901,
+      "name": "Assignment Evaluation",
+      "desc": "Em sucesso, se o alvo tiver 6+ [[suporte]], Heal 2 sp.\nCura 1 SP adicional para todo tipo de efeito negativo no alvo. (Máx 3)\nSe o SP desta unidade estiver no máximo, ganha 1 [[suporte]] na próxima curva quando esta unidade cura o SP com esse efeito.\n(Este passivo ativa 4 vezes no máximo por turno)",
+      "summary": "O SP condicional cura no golpe. Em Max SP, Ganhe 1 [[suporte]] Próximo turno"
+    },
+    {
+      "id": 1010911,
+      "name": "Assignment Evaluation",
+      "desc": "On Hit, se o alvo tiver [[estilo de tag]] 4 [[estilo tag-estilo]]+ [[suporte]], Heal 2 sp.\nCura 1 SP adicional para todo tipo de efeito negativo no alvo. (Máx 3)\nSe o SP desta unidade estiver no máximo, ganha [[estilo de tag]] 2 [[estilo de tag]] [[suporte]] próximo quando esta unidade cura SP com esse efeito.\n(Este passivo ativa 4 vezes no máximo por turno)",
+      "summary": "O SP condicional cura no golpe. Em Max SP, Ganhe 2 [[suporte]] Próximo turno"
+    },
+    {
+      "id": 1010921,
+      "name": "Practices on Aesthetics",
+      "desc": "1 aliado com o menor SP cura 2 SP no acerto para todos os tipos de efeito negativo no alvo. (Máx 6)\n(Este passivo ativa 2 vezes no máximo por turno)",
+      "summary": "Em sucesso, Heal SP com base no número de tipos de efeito negativo no alvo"
+    },
+    {
+      "id": 1010931,
+      "name": "Practices on Aesthetics",
+      "desc": "1 aliado com o menor SP cura 2 SP no acerto para todos os tipos de efeito negativo no alvo. (Máx 6)\n[[Estilo de tag]] Se o alvo tiver [[suporte]], Heal 3 adicional sp. [[Estilo de etiqueta]]]\n(Este passivo ativa 2 vezes no máximo por turno)",
+      "summary": "Em sucesso, Heal SP com base no número de tipos de efeito negativo no alvo"
+    },
+    {
+      "id": 1110901,
+      "name": "Multitude of Dots",
+      "desc": "Início de combate: infligir 2 potência para 1 dos seguintes efeitos sobre 1 inimigo com os menores tipos de efeitos negativos: [[Bracket]], [[bracket]], [[bracket]], [[backet]] ou [[suporte]]. Efeito selecionado aleatoriamente.\n(Em encontros focados, uma parte)",
+      "summary": "Início de combate: infligir 2 potência para um efeito de status aleatório a um inimigo"
+    },
+    {
+      "id": 1110911,
+      "name": "Multitude of Dots",
+      "desc": "Início de combate: infligir 2 potência para 1 dos seguintes efeitos em [[estilo de tag-estilo]] 2 [[estilo de etiqueta]] inimigos com os menores tipos de efeitos negativos: [[bracket]], [[backet]], [[backet]], [[[backet]], ou [[bracket]]. Efeito selecionado aleatoriamente.\n(Em encontros focados, peças)",
+      "summary": "Início de combate: infligir 2 potência para um efeito de status aleatório a 2 inimigos"
+    },
+    {
+      "id": 1110921,
+      "name": "Rough Sketch",
+      "desc": "1 aliado com o menor SP cura 4 sp ao derrotar um inimigo com [[suporte]].\nCura 1 SP adicional para todo tipo de efeito negativo no alvo. (Máx 4. Uma vez por turno)",
+      "summary": "Heal Sp On Self On Kill contra alvos com [[suporte]]"
+    },
+    {
+      "id": 1110931,
+      "name": "Rough Sketch",
+      "desc": "1 aliado com o menor SP cura 4 sp ao derrotar um inimigo com [[suporte]].\nCura 1 SP adicional para todo tipo de efeito negativo no alvo. (Máx 4. 3 vezes por turno)",
+      "summary": "Heal Sp On Self On Kill contra alvos com [[suporte]]"
+    },
+    {
+      "id": 1010902,
+      "name": "Sanguine Pointillist",
+      "desc": "Essa identidade conta apenas como uma 'identidade que inflige [[suporte]]'. As habilidades dessa identidade que infligirem aleatoriamente [[bracket]]]], [[backet]]], [[backet]]], [[bracket]] e [[backet]] não contam como habilidades que infligem cada palavra -chave respectiva."
+    },
+    {
+      "id": 1110902,
+      "name": "Sanguine Pointillist",
+      "desc": "Essa identidade conta apenas como uma 'identidade que inflige [[suporte]]'. As habilidades dessa identidade que infligirem aleatoriamente [[bracket]]]], [[backet]]], [[backet]]], [[bracket]] e [[backet]] não contam como habilidades que infligem cada palavra -chave respectiva."
+    },
+    {
+      "id": 1040901,
+      "name": "N.O.",
+      "desc": "- Quando outro aliado cambaleia um inimigo com um ataque: acompanhe uma habilidade 1 contra o inimigo escalonado. (uma vez por turno)\n- Se vários inimigos forem escalonados de uma só vez, atinja o inimigo com o menor HP (para anormalidades, atinja a anormalidade com o menor HP; então, atinja a parte com o menor HP).\n- Ao usar a Habilidade 1 com este efeito, esta unidade ganha +1 mais [[backet]] contam de seus efeitos de moedas e desencadeia um [[suporte]] com a última moeda no golpe"
+    },
+    {
+      "id": 1040921,
+      "name": "The A.I.",
+      "desc": "#1 Ally implantou ganha +1 mais contagem de tremores de suas habilidades ou efeitos de moedas (2 vezes por turno)"
+    },
+    {
+      "id": 1060901,
+      "name": "Vibroweld Morph-combat Cane (Unauthorized Invention)",
+      "desc": "Turn End: Gain [[Bracket]] Próximo turno igual ao número de vezes que esta unidade desencadeou [[Bracket]] esta curva (Máx 3)"
+    },
+    {
+      "id": 1060921,
+      "name": "In the Culprit's Shoes",
+      "desc": "Quando a identidade implantada nº 1 desencadeia o tremor explodindo com os efeitos de habilidade ou moeda, 25% de chance de desencadear uma explosão adicional de tremor (uma vez por turno)"
+    },
+    {
+      "id": 1030901,
+      "name": "Golden Time - Extracting",
+      "desc": "Turn End: Se o HP desta unidade estiver entre 10% ~ 20%, cure 80% do máximo de HP desta unidade e se recupere de escalonamento. (uma vez por encontro)\n\nQuando esta unidade perde [[suporte]], ganhe +8 [[suporte]] para um dos slots de habilidade desta unidade na próxima curva"
+    },
+    {
+      "id": 1030921,
+      "name": "T Corp. Physics Distortion Field",
+      "desc": "Quando 1 aliado com a velocidade mais lenta sofre danos dos inimigos com [[suporte]], tome -10% menos dano"
+    },
+    {
+      "id": 1090901,
+      "name": "Golden Time - Standoff",
+      "desc": "Turn End: Se o HP desta unidade estiver entre 16% a 20%, curar instantaneamente até 60% do HP máximo e se recuperar de escalonamento. (uma vez por encontro)\n\nAo confrontar contra alvos com [[suporte]], poder de conflito +2\nTome -10% menos dano dos alvos com [[suporte]]]"
+    },
+    {
+      "id": 1090921,
+      "name": "T Corp. Martial Arts",
+      "desc": "Para 1 aliado com a velocidade mais rápida: Power de conflito +1 ao conflitar contra alvos com 5+ [[suporte]]"
+    },
+    {
+      "id": 1051001,
+      "name": "Study Hall",
+      "desc": "Toda vez que outro aliado descarta uma habilidade, aplique 1 [[suporte]] ao aliado e ao eu (uma vez por habilidade, 3 vezes por turno)\nTurn End: Em seguida, Ganhe Pierce DMG Up e Blunt DMG Up Igual ao número de outros aliados que descartaram habilidades (MAX 3)"
+    },
+    {
+      "id": 1051021,
+      "name": "Diligent Learning",
+      "desc": "Quando 1 aliado com o maior máximo de HP descarta uma habilidade, ganho (5 x descarregados de habilidade)% do HP máximo como escudo (uma vez por turno)\nSe a unidade tiver [[suporte]], multiplique o valor de escudo acima por 1.5"
+    },
+    {
+      "id": 1111001,
+      "name": "Overcharge / Cleanup Order",
+      "desc": "Ganho 1 [[suporte]] Toda vez que esta unidade consome 10 contagem cumulativa [[bracket]] neste encontro\nTurn End: Aplique 1 [[Bracket]] Próxima virada para ([[Bracket]]) W Funcionários, incluindo esta unidade, em ordem de implantação reversa (Máx: 5 aliados)"
+    },
+    {
+      "id": 1111021,
+      "name": "Refraction",
+      "desc": "1 Ally Who tem a maior contagem [[suporte]] no início de turno: causar + 10% mais danos com habilidades que consumiram 7+ [[Bracket]] contagem (uma vez por turno)"
+    },
+    {
+      "id": 1021001,
+      "name": "Electrocurrent Dismantling",
+      "desc": "Ganho 1 [[suporte]] Toda vez que esta unidade consome 10 contagem cumulativa [[bracket]] neste encontro\nA 2+ [[Bracket]], Deal + ([[Supleta]] x 3)% MAIS DANOS (MAX 15%)\n\nNa matança, esta unidade e 1 aliado com o mínimo [[suporte]] contam ganhos [[bracket]] contam iguais a [[backet]] (máximo 3, prioriza aliados que consomem ou ganham [[suporte]]))",
+      "summary": "Ganho [[suporte]] a cada 10 [[suporte]] consumo de contagem de contagem\nEm mais de 2 [[suporte]], cause mais danos\nEm Kill, esta unidade e 1 ganho de aliado [[suporte]] contagem"
+    },
+    {
+      "id": 1021011,
+      "name": "Electrocurrent Dismantling",
+      "desc": "Ganho 1 [[suporte]] Toda vez que esta unidade consome 10 contagem cumulativa [[bracket]] neste encontro\nA 2+ [[Bracket]], Deal + ([[Supleta]] x 3)% MAIS DANOS (MAX 15%)\n[[Estilo de tag]]-Se o alvo estiver em menos de 50% hp, acordo +([[bracket]] x 5) aumentou adicionalmente danos (no máximo 25%) [[estilo tag]]]\n\nEm matar, esta unidade e [[estilo tag]] 2 aliados [[estilo tag-estilo]] com o mínimo de [[suporte]].",
+      "summary": "Ganho [[suporte]] a cada 10 [[suporte]] consumo de contagem de contagem\nEm mais de 2 [[suporte]], cause mais danos\nEm Kill, esta unidade e 2 aliados ganham [[suporte]] contagem"
+    },
+    {
+      "id": 1021021,
+      "name": "Auxiliary Dismantling Current",
+      "desc": "Quando 1 aliado com o mínimo [[suporte]] mata um inimigo, o aliado ganha +2 [[bracket]] contagem (uma vez por turno, prioriza aliados que consomem ou ganham [[backet]]))"
+    },
+    {
+      "id": 1021031,
+      "name": "Auxiliary Dismantling Current",
+      "desc": "Quando 1 aliado com o mínimo [[suporte]] mata um inimigo, o aliado ganha +3 [[bracket]] contagem (uma vez por turno, prioriza aliados que consomem ou ganham [[backet]]))"
+    },
+    {
+      "id": 1070901,
+      "name": "Charge Model L37",
+      "desc": "Ganho 1 [[suporte]] Toda vez que esta unidade consome 10 contagem cumulativa [[bracket]] neste encontro\n\nTurn End: em 2+ [[suporte]], ganha 1 [[suporte]] Próximo turno da próxima volta",
+      "summary": "Ganho [[suporte]] a cada 10 [[suporte]] consumo de contagem de contagem"
+    },
+    {
+      "id": 1070911,
+      "name": "Charge Model L37",
+      "desc": "Ganho 1 [[suporte]] Toda vez que esta unidade consome 10 contagem cumulativa [[bracket]] neste encontro\nTurn End: em 2+ [[suporte]], ganha 1 [[suporte]] Próximo turno da próxima volta\n[[Estilo de tag-estilo]] Turn End: em 3+ [[backet]], ganha 1 adicional [[backet]] e 1 [[bracket]] próximo turno [[estilo de tag]]]",
+      "summary": "Ganho [[suporte]] a cada 10 [[suporte]] consumo de contagem de contagem"
+    },
+    {
+      "id": 1070921,
+      "name": "Charging Module Installation",
+      "desc": "#1 Ally implantado: max [[backet]] contagem +5\n(Quando as condições forem atendidas, esse efeito permanecerá ativado até o início do próximo turno)"
+    },
+    {
+      "id": 1071002,
+      "name": "Dullahan",
+      "desc": "- Turn Start: Se esta unidade tiver [[suporte]], monte [[suporte]].\n- Perca 5 SP toda vez que esta unidade monta [[suporte]]]\n- Se 3+ aliados foram derrotados neste encontro, ganha [[suporte]] na próxima curva. (uma vez por encontro)\n- Se esta unidade for escalonada devido a danos ou limiar de cambalhamento aumentado ao montar [[suporte]], recupere -se de escalonamento. Se a escalonação é algo que não pode ser recuperado naturalmente, esta unidade não monta [[suporte]].\n\n- Ganhe 1 caixão ao matar o alvo."
+    },
+    {
+      "id": 1071001,
+      "name": "Call of the Erlking",
+      "desc": "- Deal +1% mais dano para cada 1 [[suporte]] no alvo (máximo 15%)",
+      "summary": "Causar mais danos baseados em [[suporte]] no alvo"
+    },
+    {
+      "id": 1071011,
+      "name": "Call of the Erlking",
+      "desc": "- Deal +1% mais dano para cada 1 [[suporte]] no alvo (máximo 15%)\n\n[[Estilo de tag]]- Quando, durante o combate, 1 aliado recebe danos que os matariam, consomem 2 caixões para aplicar [[suporte]] a eles (uma vez por turno)\n\n- Aplique 2 [[Bracket]] Em seguida, o aliado com [[suporte]]]\n- Se o referido aliado for de Wuthering Heights ou Edgar Family, aplique 1 [[suporte]] na próxima curva também [[estilo de tag]]]",
+      "summary": "Causar mais danos baseados em [[suporte]] no alvo"
+    },
+    {
+      "id": 1071021,
+      "name": "Endless Lamentation",
+      "desc": "1 aliado com o maior SP causa +5% mais danos aos alvos com menos de 0 sp\nSe o alvo tiver menos de 0 sp: cair ainda mais danos quanto mais o SP do alvo é de 0 (+0,5% mais dano por SP, no máximo 20%)\nSe o alvo não tiver SP, o referido aliado inflige +1 a mais [[suporte]] potência e conta com suas habilidades e efeitos de moedas de suas habilidades de ataque (2 vezes por turno)",
+      "summary": "Causar mais danos aos alvos com menos de 0 sp"
+    },
+    {
+      "id": 1071012,
+      "name": "Call of the Erlking",
+      "desc": "- Deal +1% mais dano para cada 1 [[suporte]] no alvo (máximo 15%)\n\n-Quando, durante o combate, 1 aliado recebe danos que os matariam, consumiriam 2 caixões para aplicar [[suporte]] a eles ([[estilo de tag]] 2 vezes [[estilo de tag]] por turno)\n\n- Aplique 2 [[Bracket]] Em seguida, o aliado com [[suporte]]]\n- Se o referido aliado for de Wuthering Heights ou Edgar Family, aplique 1 [[suporte]] na próxima curva também",
+      "summary": "Causar mais danos baseados em [[suporte]] no alvo"
+    },
+    {
+      "id": 1041001,
+      "name": "Spiderhead/Skullface",
+      "desc": "Ao atingir um inimigo com uma moeda que ganha [[suporte]]:\n- acordo +([[suporte]]/2)% mais danos\n- Se o alvo tiver [[suporte]], ganhe 1 [[suporte]] (3 vezes por turno)\n\nAo atingir um inimigo com uma moeda que ganha [[suporte]]:\n- acordo +([[suporte]]/2)% mais danos\n- Aos 20+ sp, ganha 1 [[suporte]] (3 vezes por turno)",
+      "summary": "Moedas que ganham olhos vermelhos causam mais danos; Se o alvo tiver sangramento, ganhe 1 olhos vermelhos\nMoedas que ganham penitência causam mais danos; Com mais de 20 sp, ganhe 1 penitência"
+    },
+    {
+      "id": 1041011,
+      "name": "Spiderhead/Skullface",
+      "desc": "Ao atingir um inimigo com uma moeda que ganha [[suporte]]:\n- acordo +([[suporte]]/2)% mais danos\n[[Estilo de tag]]-Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, trate um adicional +([[bracket]]/2)% mais danos [[estilo de tag]]]\n- Se o alvo tiver [[suporte]], ganhe 1 [[suporte]] (3 vezes por turno)\n\nAo atingir um inimigo com uma moeda que ganha [[suporte]]:\n- acordo +([[suporte]]/2)% mais danos\n[[Estilo de tag]]-Se o SP do alvo for menor que o de essa unidade, ligue um adicional +([[suporte]]/2)% mais dano (alvos sem SP: o SP deles contam como 0) [[estilo de tag]]]\n- Aos 20+ sp, ganha 1 [[suporte]] (3 vezes por turno)\n\n[[Estilo de tag]] Quando atingido por um inimigo, ganha 1 [[suporte]] (máximo 3) [[estilo de tag]]]",
+      "summary": "Moedas que ganham olhos vermelhos causam mais danos; Se o alvo tiver sangramento, ganhe 1 olhos vermelhos\nMoedas que ganham penitência causam mais danos; Com mais de 20 sp, ganhe 1 penitência\nQuando atingido por um inimigo, ganhe 1 penitência (máximo 3)"
+    },
+    {
+      "id": 1041002,
+      "name": "E.G.O Assimilation",
+      "desc": "Ao ganhar [[suporte]] contagem, ganha [[suporte]] ou [[suporte]] em vez disso\n- [[Bracket]] e [[Bracket]] não são afetados pela potência [[Bracket]]",
+      "summary": "Ao ganhar a contagem de acusações, ganhe olhos vermelhos ou penitência em vez disso"
+    },
+    {
+      "id": 1041021,
+      "name": "Eat and Sleep",
+      "desc": "Início de combate:\n- 1 aliado com a menor porcentagem de HP cura 3 hp\n- 1 aliado com o menor SP cura 3 sp",
+      "summary": "Cure HP para 1 aliado com a menor porcentagem de HP, Heal SP para 1 aliado com o mínimo de SP"
+    },
+    {
+      "id": 1011001,
+      "name": "Fire.IShallFire.",
+      "desc": "Quando esta unidade ganha [[suporte]], ganhe 2 [[backet]] na próxima curva (uma vez por turno)",
+      "summary": "Quando esta unidade ganha munição, ganhe agilidade na próxima curva"
+    },
+    {
+      "id": 1011002,
+      "name": "ISeeTheDyingButterfly.",
+      "desc": "Iniciar encontros com 10 de cada um de [[suporte]]]\n\nAo consumir [[suporte]], selecione aleatoriamente entre os vivos (potência) e o que partiu (contagem) para cada valor [[suporte]].\n\nAo infligir [[suporte]], infligir a mesma quantidade dos vivos e os que partiram à medida que foram consumidos. Exemplo abaixo:\n- Se esta unidade consumiu x viver, infligir x viver\n- Se esta unidade consumida Y partiu, infligiu\n\nSe esta unidade ficar sem [[suporte]] no meio do uso de habilidades, cancele todas as moedas subsequentes e [[suporte]]]\n\nQuando [[Bracket]] ing, ou ao ganhar [[suporte]], ganhe os vivos ou os que partiram com base no atual SP desta unidade\n- AS 0 ou superior SP: 30% de chance de ganhar a vida; 70% de chance de ganhar o partido.\n- em menos de 0 sp: 70% chance de ganhar a vida; 30% de chance de ganhar o partido.\n- As probabilidades são calculadas separadamente para cada munição consumida.",
+      "summary": "Recarrega se esta unidade ficar sem munição no meio do uso de habilidades"
+    },
+    {
+      "id": 1011011,
+      "name": "Fire.IShallFire.",
+      "desc": "Após o ataque: se esta unidade matou o alvo com sua habilidade, [[suporte]]]\nQuando esta unidade ganha [[suporte]], ganhe 2 [[backet]] na próxima curva (uma vez por turno)",
+      "summary": "Quando esta unidade ganha munição, obtenha agilidade na próxima curva. Recarregue em Kill."
+    },
+    {
+      "id": 1011021,
+      "name": "Hand of Salvation",
+      "desc": "Quando um aliado acertar com uma habilidade, consuma 2 [[suporte]] no alvo para infligi -los com 1 [[suporte]] (3 vezes por turno)",
+      "summary": "Converter o afundamento do alvo em borboleta"
+    },
+    {
+      "id": 1091001,
+      "name": "Speedy Delivery",
+      "desc": "Turn Start: a mais de 6 velocidades, ou se esta unidade tiver [[suporte]], ganho ([[bracket]]/2)% do máximo desta unidade HP como escudo (máximo 15%)\n\nApós a retirada, aplique 1 [[suporte]] a 2 aliados no próximo turno (prioriza as unidades substituídas primeiro e depois em ordem de implantação)",
+      "summary": "Ganho ([[suporte]]/2)% do máximo HP desta unidade como escudo\nApós a retirada, aplique 1 [[suporte]] a 2 aliados aleatórios"
+    },
+    {
+      "id": 1091011,
+      "name": "Speedy Delivery",
+      "desc": "Vire o início: a mais de 6 anos, ou se esta unidade tiver [[suporte]], ganho [[estilo tag-estilo]] ([[bracket]])%[[estilo tag-estilo]] do max hp desta unidade como escudo (max [[estilo tag-estilo]] 20%[[tag-estilo]])\n\nApós a retirada, aplique 1 [[suporte]] a 2 aliados no próximo turno (prioriza as unidades substituídas primeiro e depois em ordem de implantação)\n[[Estilo de tag]]-dura 1 turno adicional para cada 15 [[suporte]] em self (mais 2 voltas no máximo) [[estilo de tag]]]",
+      "summary": "Ganho ([[suporte]])% do máximo HP desta unidade como escudo\nApós a retirada, aplique 1 [[suporte]] a 2 aliados aleatórios"
+    },
+    {
+      "id": 1091002,
+      "name": "Lemme go and I swear I'll make it in time!",
+      "desc": "[[Tag-for]] Quando, depois de se retirar com '[[backet]]', se esta unidade se reúne a batalha, reduz o valor da [[bracket]] (uma vez por encontro, arredondado)",
+      "summary": "Pela metade o valor [[suporte]]"
+    },
+    {
+      "id": 1091021,
+      "name": "Outstanding Courier",
+      "desc": "Para 1 aliar com a velocidade mais rápida: poder de conflito +1 para habilidades que se aplicam [[suporte]] potência ou contagem",
+      "summary": "Habilidades que se aplicam [[suporte]] potência ou contagem de ganho de choque Power +1"
+    },
+    {
+      "id": 1081001,
+      "name": "Shock-nullifying Greatsword",
+      "desc": "No início do combate, ganha [[suporte]] igual a [[backet]] contagem em si (máximo 5)"
+    },
+    {
+      "id": 1081011,
+      "name": "Shock-nullifying Greatsword",
+      "desc": "No início do combate, ganha [[suporte]] igual a [[backet]] contagem em si (máximo 5)\n- Se esta unidade estiver em [[suporte]], o dobro da quantidade de [[suporte]] obtido com o efeito acima."
+    },
+    {
+      "id": 1081021,
+      "name": "Emergency Protection",
+      "desc": "No início do combate, compare o HP atual de cada identidade com o HP no início do turno anterior. Em seguida, aplique 2 [[suporte]] à identidade com a maior disparidade dos valores de HP entre as voltas."
+    },
+    {
+      "id": 1101001,
+      "name": "Begin Protection Mission",
+      "desc": "No início do combate, ganha [[suporte]] igual a [[backet]] contagem em si (máximo 5)"
+    },
+    {
+      "id": 1101021,
+      "name": "Contract Target Protection",
+      "desc": "Turn End: Aplique 1 [[suporte]] e 3 [[suporte]] a 1 aliado com a menor porcentagem de HP na próxima volta"
+    },
+    {
+      "id": 1051101,
+      "name": "Duel Livestream",
+      "desc": "Ganho 1 [[suporte]] Próximo turno para cada 3 [[suporte]] potência no Self na Turn End (Máx 2)\nOn Hit with Base Attack Skills: Inflight [[Bracket]] Próximo turno. (uma vez por habilidade)",
+      "summary": "Turn End: Gain [[Bracket]] com base na [[Bracket]] contam em si mesmo. Em termos de habilidade, infligir [[suporte]] na próxima curva"
+    },
+    {
+      "id": 1051111,
+      "name": "Duel Livestream",
+      "desc": "Ganho 1 [[suporte]] Próximo turno para cada 3 [[suporte]] potência no Self na Turn End (Máx 2)\nOn Hit with Base Attack Skills: Inflight [[Bracket]] Próximo turno. (uma vez por habilidade)\n[[Estilo de tag]] Se esta unidade atacou o slot com [[suporte]] e derrotou seu proprietário ou quebrou a peça, Heal 7 SP [[estilo de tag-estilo]]",
+      "summary": "Turn End: Gain [[Bracket]] com base na [[Bracket]] contam em si mesmo. Em termos de habilidade, infligir [[suporte]] no próximo turno. Cura sp na morte"
+    },
+    {
+      "id": 1051121,
+      "name": "One Step Ahead",
+      "desc": "O aliado mais rápido, na vitória do Clash, ganha 1 [[suporte]] na próxima curva (2 vezes por turno)",
+      "summary": "O aliado mais rápido, na vitória do confronto, ganha 1 [[suporte]] na próxima curva"
+    },
+    {
+      "id": 1061001,
+      "name": "How to Hunt Cheerfully",
+      "desc": "Se o alvo for um [[Bloodfiend]] ou um [[tag-bloodbag]], trata +10% mais danos\nNo uso de habilidades, se esta unidade tiver [[suporte]], infligir 3 [[suporte]] no acerto (uma vez por turno)",
+      "summary": ""
+    },
+    {
+      "id": 1061011,
+      "name": "How to Hunt Cheerfully",
+      "desc": "Se o alvo for um [[Bloodfiend]], [[tag-bloodbag]] ou se o alvo tiver 10+ [[backet]], causar + 10% mais danos\nNo uso de habilidades, se esta unidade tiver [[suporte]], infligir 3 [[suporte]] no acerto (2 vezes por turno)",
+      "summary": ""
+    },
+    {
+      "id": 1061021,
+      "name": "Bloodfiend Hunting Manual - Styptics",
+      "desc": "Início de combate: 1 aliado com a maior soma de [[suporte]] potência e contagem perde 2 [[suporte]] contagem\nQuando 1 aliado com a velocidade mais rápida atinge um inimigo com [[suporte]], infligir 1 [[suporte]] (2 vezes por turno)",
+      "summary": ""
+    },
+    {
+      "id": 1111101,
+      "name": "WRONG COSTUME!!!",
+      "desc": "No acerto, causa +1% mais danos a cada 10 [[suporte]] por si (máximo 20%)",
+      "summary": "Causar mais danos com base em Blood -beast cumulativo consumido"
+    },
+    {
+      "id": 1111111,
+      "name": "WRONG COSTUME!!!",
+      "desc": "Em um confronto contra [[suporte]], o poder de conflito +1.\nNo acerto, causa +1,5% mais dano a cada 10 [[suporte]] por si (máximo 30%)\nNo acerto, preça +0,5% mais danos para cada [[suporte]] no alvo (máximo 10%)",
+      "summary": "Em um confronto contra o alvo de costura, Clash Power +1"
+    },
+    {
+      "id": 1111102,
+      "name": "Bloodfeast",
+      "desc": "Se esta unidade estiver em campo ou for uma das unidades que podem aparecer neste estágio, aumente o valor [[suporte]] pela quantidade de dano [[suporte]] recebido coletivamente por todas as unidades. \nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha se eleva acima da superfície.",
+      "summary": ""
+    },
+    {
+      "id": 1111121,
+      "name": "Don Quixote Hardblood Arts 8: Scissors",
+      "desc": "1 aliado com a velocidade mais rápida: se o inimigo for morto após o ataque, cura 10 hp (2 vezes por turno)\n1 aliado com a velocidade mais rápida: se o inimigo for morto após o ataque, infligir +1 [[bracket]] contagem ao infligir [[bracket]] potência com habilidade ou efeitos de moeda para o próximo turno (3 vezes por turno)",
+      "summary": "Se o inimigo estiver morto após o ataque, curar HP"
+    },
+    {
+      "id": 1121001,
+      "name": "Self-destructive Dedication",
+      "desc": "Turn End: Heal ((10 - [[suporte]])/2) SP para o aliado com o mínimo de SP (excluindo: eu ou aliados que estão em pânico ou corroídos; arredondados)\nNesse encontro, quando esta unidade sofre danos que reduz o HP para 0, anularem esse dano; Então, o HP desta unidade não pode cair abaixo de 1 para a curva. (uma vez por encontro)",
+      "summary": ""
+    },
+    {
+      "id": 1121002,
+      "name": "Bloodfeast",
+      "desc": "Se esta unidade estiver em campo ou for uma das unidades que podem aparecer neste estágio, aumente o valor [[suporte]] pela quantidade de dano [[suporte]] recebido coletivamente por todas as unidades. \nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha se eleva acima da superfície.",
+      "summary": ""
+    },
+    {
+      "id": 1121011,
+      "name": "Self-destructive Dedication",
+      "desc": "Turn End: Heal (10 - [[suporte]]) SP para o aliado com o mínimo de SP (excluindo: eu ou aliados que estão em pânico ou corroídos)\nNesse encontro, quando esta unidade sofre danos que reduz o HP para 0, anularem esse dano; Então, o HP desta unidade não pode cair abaixo de 1 para a curva. (uma vez por encontro)",
+      "summary": ""
+    },
+    {
+      "id": 1121021,
+      "name": "Don Quixote Hardblood Arts 6: Whip",
+      "desc": "1 aliado com a menor porcentagem de HP cura 3 hp no acerto (3 vezes por turno)",
+      "summary": ""
+    },
+    {
+      "id": 1121031,
+      "name": "Don Quixote Hardblood Arts 6: Whip",
+      "desc": "1 aliado com a menor porcentagem de HP cura 3 hp no acerto (3 vezes por turno)\n- Se o alvo atingido pelo referido aliado teve [[suporte]], curar 3 HP adicionais adicionais",
+      "summary": ""
+    },
+    {
+      "id": 1091101,
+      "name": "Hardblood Thorn",
+      "desc": "Quando um outro aliado recebe dano [[suporte]] ou consome [[bracket]], ganhe 1 [[suporte]] (3 vezes por turno)\nCure HP em si mesmo em 20% dos danos causados ​​com habilidades básicas (máximo 10 por habilidade)",
+      "summary": ""
+    },
+    {
+      "id": 1091102,
+      "name": "Bloodfeast",
+      "desc": "Se esta unidade estiver em campo ou for uma das unidades que podem aparecer neste estágio, aumente o valor [[suporte]] pela quantidade de dano [[suporte]] recebido coletivamente por todas as unidades. \nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha preenche a superfície.",
+      "summary": ""
+    },
+    {
+      "id": 1091111,
+      "name": "Hardblood Thorn",
+      "desc": "Quando um outro aliado recebe dano [[suporte]] ou consome [[suporte]], esta unidade ganha 1 [[suporte]] (5 vezes por turno)\nCure HP em si mesmo em 20% dos danos causados ​​com habilidades básicas (máximo 10 por habilidade)\n- em Max HP, Heal 1 aliado com a menor porcentagem de HP por excesso de cura",
+      "summary": ""
+    },
+    {
+      "id": 1091121,
+      "name": "\"Blossom with Blood...\"",
+      "desc": "Para 1 aliado com a potência mais alta [[suporte]] no turno final: reduza a potência do [[suporte]] do aliado por 6 no máximo e aplique (potência sangrada reduzida / 2) [[suporte]] (arredondado)",
+      "summary": ""
+    },
+    {
+      "id": 1101101,
+      "name": "A moment, please...",
+      "desc": "Turn Start: a mais de 6 velocidades, ou se esta unidade tiver [[suporte]], ganho ([[[suporte]])% do máximo desta unidade como escudo (máximo de 20%)",
+      "summary": ""
+    },
+    {
+      "id": 1101102,
+      "name": "I'll do better next time...",
+      "desc": "[[Tag-for]] Quando, depois de se retirar com '[[backet]]', se esta unidade se reúne a batalha, reduz o valor da [[bracket]] (uma vez por encontro, arredondado)",
+      "summary": ""
+    },
+    {
+      "id": 1101111,
+      "name": "A moment, please...",
+      "desc": "Turn Start: a mais de 6 velocidades, ou se esta unidade tiver [[suporte]], ganho ([[[suporte]])% do máximo desta unidade como escudo (máximo de 20%)\nApós a retirada, aplique 1 [[suporte]] a 2 aliados no próximo turno (prioriza as unidades substituídas primeiro e depois em ordem de implantação)\n- dura 1 turno adicional para cada 15 [[suporte]] (mais 2 voltas no máximo)",
+      "summary": ""
+    },
+    {
+      "id": 1101121,
+      "name": "Speedy Courier",
+      "desc": "Quando 1 aliado com a velocidade mais rápida atinge um inimigo com [[suporte]], infligir 1 [[suporte]] (3 vezes por inimigo por turno)",
+      "summary": ""
+    },
+    {
+      "id": 1031001,
+      "name": "Bloodfeast",
+      "desc": "Se esta unidade estiver em campo, ou for uma das unidades que poderá aparecer neste estágio, aumente o valor da Bloodfeast pela quantidade de dano [[suporte]] recebido coletivamente por todas as unidades.\nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha preenche a superfície.\n\nAo consumir [[Bracket]], se houver [[tag-la]] Kindreds da mesma geração que esta unidade, esta unidade terá precedência.\n\nAo usar 'Variante Sancho Hardblood [[Bracket]] Artes 6 - WHIP', o HP não pode cair abaixo de 1 devido a danos ao sangramento."
+    },
+    {
+      "id": 1031002,
+      "name": "Variant Sancho Hardblood Arts",
+      "desc": "Turn Start: Com mais de 15 [[suporte]], se cada unidade a seguir for derrotada ou participando do encontro, capacite o slot mais à esquerda desta unidade.\nO sacerdote de La Manchaland [[suporte]] Gregor: Empower Skill 1\nO barbeiro de La Manchaland [[Bracket]] outis: Empower Skill 2\nEsta unidade: Habilidade de capacitar 3\nA princesa de La Manchaland [[Bracket]] Rodion: Empower Defense Habilidade [[Bracket]]\n\nQuando outras unidades entre os aliados recebem danos ou consomem [[suporte]], ganhe 2 [[suporte]] em si (3 vezes por turno)"
+    },
+    {
+      "id": 1031003,
+      "name": "Bearer of the Blood Kin",
+      "desc": "Em um encontro, se uma outra unidade aliada [[tag-la]] for derrotada:\n- Ganhe mais 1 [[suporte]] ao ganhar [[suporte]] das habilidades de ataque básico desta unidade\n- quando 3+ outras unidades aliadas [[tag-la]] são derrotadas: Ganhe 3 adicionais [[Bracket]]; No Turn Start, Ganhe 1 [[suporte]]"
+    },
+    {
+      "id": 1031004,
+      "name": "Armadura de Sangre",
+      "desc": "Após o ataque: se o inimigo for derrotado, aumente [[suporte]] em 10% do HP máximo do alvo (100 por turno; para encontros focados, se a peça for quebrada)\nGanho 1 [[suporte]] Próximo turno para cada 15% faltando HP no Turn End (Máx 3)\nSe um aliado estiver prestes a ser derrotado por danos [[backet]], impeça que eles sejam derrotados por danos causados ​​pelo turno (uma vez por encontro para cada identidade)"
+    },
+    {
+      "id": 1031021,
+      "name": "‘Feed your repressed hunger, my Family’",
+      "desc": "Início de combate: 1 aliado com os menores ganhos de HP 1 [[suporte]] para cada 20% faltando HP (máximo 3)\n- Se o aliado referido for um [[Bloodfiend]], ganhe 1 [[suporte]] para cada 15% faltando HP (máximo 3)"
+    },
+    {
+      "id": 1061101,
+      "name": "Concentration",
+      "desc": "Ao virar uma moeda que consome [[suporte]]: Mesmo quando esta unidade está fora de [[suporte]], o ataque não é cancelado. No entanto, as moedas afetadas nos efeitos de acerto não se ativam nesses casos."
+    },
+    {
+      "id": 1061102,
+      "name": "Tactical Firearm Support",
+      "desc": "Se o fixador de escritório de parada completa Heathcliff estiver no estado [[Bracket]], ou foi implantado como uma unidade de backup, capacite o deputado de parto completo de Hong Lu Skill 2 and Skill 3"
+    },
+    {
+      "id": 1061111,
+      "name": "Tactical Fire Support",
+      "desc": "Se o fixador de escritório de parada completa Heathcliff estiver no estado [[Bracket]], ou foi implantado como uma unidade de backup, capacite o deputado de parto completo de Hong Lu Skill 2 and Skill 3\n\nInício de combate: em mais de 20 [[suporte]] potência, ganho +1 [[backet]] contagem"
+    },
+    {
+      "id": 1061121,
+      "name": "Suppressing Fire",
+      "desc": "A identidade do aliado com o mais [[suporte]] causa +10% mais danos com habilidades que gastam [[suporte]]\n(Não é ativado quando fora de [[suporte]]))"
+    },
+    {
+      "id": 1071101,
+      "name": "Snipe",
+      "desc": "Encontro Início: Ganhe 3 [[Bracket]]\n\nTurn End: Se esta unidade não tiver nenhum [[suporte]] de qualquer tipo restante, ative [[suporte]] (uma vez por encontro)\n\nSe esta unidade for substituída ou estiver juntando a batalha após [[suporte]], ganhe max [[backet]], 3 [[shround]]] e [[suporte]] (exceto [[bracket]]; uma vez por encontro)"
+    },
+    {
+      "id": 1071102,
+      "name": "Precision Aim",
+      "desc": "Turn End: Gain 1 [[Bracket]] Próximo turno para cada 10 [[suporte]] em Self (Máx 2)\n\nTurn End: Se esta unidade não estiver configurada para usar nenhuma habilidade de ataque (incluindo, por exemplo, habilidades, excluindo [[backet]]), ganhe 10 [[suporte]] e 1 [[bracket]] no próximo turno."
+    },
+    {
+      "id": 1071103,
+      "name": "Snipe",
+      "desc": "Encontro Início: Ganhe 3 [[Bracket]]\n\n[[Estilo de tag]] Quando esta unidade entra no encontro, ganhe 1 [[suporte]] (uma vez por encontro) [[estilo de tag]]]\n\nTurn End: Se esta unidade não tiver nenhum [[suporte]] de qualquer tipo restante, ative [[suporte]] (uma vez por encontro)\n\nSe esta unidade for substituída, ou estiver juntando a batalha após [[suporte]], ganhe max [[backet]], 3 [[bracket]] e [[bracket]]\n(Exceto [[suporte]]; uma vez por encontro)"
+    },
+    {
+      "id": 1071111,
+      "name": "Precision Aim",
+      "desc": "Turn End: Gain 1 [[Bracket]] Próximo turno para cada 10 [[suporte]] em Self (Máx 2)\n\n[[Estilo tag-estilo]] Início de combate: Se esta unidade não estiver configurada para usar nenhuma habilidade de ataque (incluindo, por exemplo, habilidades), aplique 3 [[suporte]] para 1 aliado com a menor potência de equilíbrio [[estilo de tag]]]\n\nTurn End: Se esta unidade não usou nenhuma habilidade de ataque (incluindo, por exemplo, habilidades, excluindo [[Bracket]]), ganhe 10 [[suporte]] e 1 [[bracket]] na próxima vez"
+    },
+    {
+      "id": 1071121,
+      "name": "Spotter",
+      "desc": "1 Ally com o mínimo [[suporte]] ganha +2 [[bracket]] contagem ao usar uma habilidade que consome [[bracket]].\n- Se o referido aliado for uma identidade de escritório completa, ou se eles têm menos de 5 [[suporte]] contam, ganhe +4 [[bracket]] contagem (uma vez por turno; não se aplica a unidades sem [[suporte]])"
+    },
+    {
+      "id": 1011101,
+      "name": "This is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do",
+      "desc": "Na morte, infligir 4 [[suporte]] e +2 [[bracket]] contam contra o alvo que atacou esta unidade por último; Em seguida, ganhe 2, por exemplo, recursos para 4 recursos de propriedade menos de propriedade.\n- Se ninguém atacou esta unidade, ou se um aliado matou esta unidade, infligir 4 [[suporte]] e +2 [[bracket]] contagem contra o inimigo com o mínimo [[suporte]] contagem"
+    },
+    {
+      "id": 1011111,
+      "name": "This is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do",
+      "desc": "Na morte, infligir [[estilo de tag]] 5 [[estilo de tag]] [[spilhet]] e +[[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]] contagem contra o alvo que atacou esta unidade por último; Em seguida, ganhe 2, por exemplo, recursos para 4 recursos de propriedade menos de propriedade.\n- Se ninguém atacou esta unidade, ou se um aliado matou esta unidade, infligir 5 [[bracket]] e +3 [[bracket]] contagem contra o inimigo com o mínimo [[suporte]] contagem\n- Se esta unidade estiver em um estado [[suporte]], infligir o dobro da potência [[suporte]] com este efeito"
+    },
+    {
+      "id": 1011121,
+      "name": "E.G.O disintegration is not unlike decomposition of compost",
+      "desc": "Quando 1 aliado com o mínimo de HP é morto, ganhe 2, por exemplo, recursos para 2, por exemplo."
+    },
+    {
+      "id": 1021101,
+      "name": "Fireproof",
+      "desc": "Não pode ser escalonado ou cair abaixo de 1 hp devido a danos [[suporte]]."
+    },
+    {
+      "id": 1021111,
+      "name": "Flame Moth",
+      "desc": "Início de combate: a 80%+ falta de HP e com menos de 30 [[suporte]], ganhe até 30 [[suporte]] (uma vez por encontro)\n\nTurn End: Gain 1 [[Bracket]] Próximo turno para cada 6 [[suporte]] em Self (Máx 5)\n\nNa morte, ative o seguinte:\n- infligir 2 [[suporte]] em todos os inimigos; infligir queima em si mesmo entre todos os inimigos (máximo 3 por inimigo)\n- Ganhe 2, por exemplo\n\nSe esta unidade morreu devido ao A.B.S. A sintonização máxima 【Degradada Corrosão】 Habilidade, Aumente o efeito:\n- infligir 3 [[suporte]] em todos os inimigos; infligir [[suporte]] em si entre todos os inimigos (máximo 5 por inimigo)\n- Ganhe 2, por exemplo\n- Se esta unidade teve mais de 30 queimadura, aplique 3 [[suporte]] a 1 aliado que é substituído em"
+    },
+    {
+      "id": 1021121,
+      "name": "Residual Heat",
+      "desc": "Quando 1 aliado com o menor SP inflige [[suporte]] com uma habilidade de ataque base no efeito de acerto, infligir 2 adicionais [[suporte]] (3 vezes max)\n- Se o alvo que o aliado está atacando tem mais de 30 queimaduras, infligir +1 contagem de queimaduras (3 vezes max)"
+    },
+    {
+      "id": 1071201,
+      "name": "Dark Cloud Blade",
+      "desc": "Quando há mais de 2 identidades de clã Kurokumo aliadas em campo, incluindo esta unidade, ganhe 1 [[suporte]] (máximo 1)\n\nContra inimigos que, nesse turno, usaram habilidades de defesa ou estavam no máximo HP antes de atacar: causar +10% mais danos\n\nSe um inimigo atacou outro aliado com uma habilidade e causou danos neste turno: use um ataque sem oposição contra o atacante com a habilidade 1 (uma vez por turno)",
+      "summary": "Ganho [[suporte]]; causar mais danos contra inimigos que estavam no Max HP ou usaram uma habilidade de defesa; contra -ataque quando um aliado é atacado"
+    },
+    {
+      "id": 1071202,
+      "name": "Battle Ready",
+      "desc": "Quando um aliado do clã Kurokumo morre, ganhe 1 [[suporte]] para este encontro\n\nQuando 3 ou mais aliados do clã Kurokumo são derrotados, ganha [[suporte]] para este encontro"
+    },
+    {
+      "id": 1071211,
+      "name": "Dark Cloud Blade",
+      "desc": "Quando há mais de 2 identidades de clã Kurokumo aliadas em campo, incluindo esta unidade, ganhe 1 [[suporte]] (máximo 1)\n\nContra inimigos que, nesse turno, usaram habilidades de defesa ou estavam no máximo HP antes de atacar: causar +10% mais danos\n\nSe um inimigo atacou outro aliado com uma habilidade e causou danos neste turno: use um ataque sem oposição contra o atacante com a habilidade 1 (uma vez por turno)\n\n[[Estilo tag-estilo]] Se o inimigo matou outro aliado, ou se o HP do referido aliado estiver em menos de 25% após o ataque do inimigo, use um ataque sem oposição contra o atacante com [[tag-rulas]] (uma vez por aliado] por turno; a habilidade ativada com esse efeito contam como uma habilidade de ataque) [tag-estyle]",
+      "summary": "Ganho [[suporte]]; causar mais danos contra inimigos que estavam no Max HP ou usaram uma habilidade de defesa; contra -ataque quando um aliado é atacado"
+    },
+    {
+      "id": 1071221,
+      "name": "Impale",
+      "desc": "1 aliado com a velocidade mais rápida: contra inimigos que usavam habilidades de defesa ou estavam no máximo HP antes de atacar este turno: causar +10% mais danos"
+    },
+    {
+      "id": 1081101,
+      "name": "Gathering Dark Clouds",
+      "desc": "Início de combate: Se houver mais 2 identidades de clã Kurokumo aliado neste encontro, incluindo esta unidade, ganhe 1 [[suporte]]]\n\nInício de combate: aplique 1 [[suporte]] às identidades do clã Kurokumo adjacentes a esta unidade no painel",
+      "summary": "Ganho [[suporte]]; Aplique [[Bracket]] às identidades do clã Kurokumo aliadas"
+    },
+    {
+      "id": 1081102,
+      "name": "Battle Ready",
+      "desc": "Quando um aliado do clã Kurokumo morre, ganhe 1 [[suporte]] para este encontro\n\nQuando 3 ou mais aliados do clã Kurokumo são derrotados, ganha [[suporte]] para este encontro"
+    },
+    {
+      "id": 1081111,
+      "name": "Gathering Dark Clouds",
+      "desc": "Início de combate: Se houver mais 2 identidades de clã Kurokumo aliado neste encontro, incluindo esta unidade, ganhe 1 [[suporte]]]\n\nInício de combate: aplique 1 [[suporte]] às identidades do clã Kurokumo adjacentes a esta unidade no painel\n[[Estilo de tag]]-Em 4+ Lust Reson., Aplique 1 [[Bracket]] a todos os outros aliados do clã Kurokumo [[estilo de tag]]",
+      "summary": "Ganho [[suporte]]; Aplique [[Bracket]] às identidades do clã Kurokumo aliadas"
+    },
+    {
+      "id": 1081121,
+      "name": "Cloud Workshop Blade",
+      "desc": "1 aliado com a velocidade mais rápida inflige +1 mais [[suporte]] potência ou contagem com habilidades e efeitos de moedas contra inimigos"
+    },
+    {
+      "id": 1011201,
+      "name": "Inner Ardor",
+      "desc": "Turn End: Heal 1 aliado com o menor SP por (5 + maior resson.\n- Se o aliado referido tiver habilidades básicas que infligem [[suporte]] potência ou contem, cure 5 sp adicionais a eles"
+    },
+    {
+      "id": 1011211,
+      "name": "Inner Ardor",
+      "desc": "Turn End: Heal 1 aliado com o menor SP por (5 + maior resson.\n- Se o aliado referido tiver habilidades básicas que infligem [[suporte]] potência ou contem, cure 5 sp adicionais a eles\n- Aos 4+ Wrath Reson., Heal 1 Ally adicional"
+    },
+    {
+      "id": 1011221,
+      "name": "Liu Defensive Square",
+      "desc": "Para 2 aliados com o mínimo de SP: se eles perderam o SP neste turno, Heal 5 SP no Turn End"
+    },
+    {
+      "id": 1011231,
+      "name": "Liu Defensive Square",
+      "desc": "Para 2 aliados com o mínimo de SP: se eles perderam o SP neste turno, Heal 5 SP no Turn End\n- Se os aliados referidos têm habilidades básicas que infligem [[suporte]] potência ou contagem, curar 5 ~ 10 sp em vez"
+    },
+    {
+      "id": 1121102,
+      "name": "District 12 Special Workshop Fuel",
+      "desc": "Iniciar encontros com 100 [[suporte]]\n- Em mais de 50 pilha, torne -se [[suporte]]\n- Aos 50 ou menos pilha, qualquer [[suporte]] se torna [[suporte]]"
+    },
+    {
+      "id": 1121101,
+      "name": "I'm the only survivor...",
+      "desc": "Acordo +0,2% mais danos para cada [[suporte]] e [[suporte]] Esta unidade consumida neste encontro (máximo de 40%)\n-Se o alvo principal for um [[Bloodfiend]], [[tag-bloodbag]] ou se a soma da contagem de [[bracket]] e [[bracket]] for 30+, o acordo +0,3% mais dano (no máximo 60%)\n\nEm 1+ [[suporte]] ou [[backet]], se esta unidade cambalear ou derrotar inimigos com [[suporte]], infligir +2 [[bracket]] contagem contra 2 inimigos aleatórios sem [[suporte]] ou com o mínimo [[suporte]] (uma vez por turno)\n- Para encontros focados, em peças"
+    },
+    {
+      "id": 1121121,
+      "name": "I hope they're from our Office...",
+      "desc": "1 aliado com a velocidade mais rápida: no acerto, preços +5% mais danos causados ​​pela ira para cada 6 [[suporte]] no alvo (máximo de 20%)"
+    },
+    {
+      "id": 1031101,
+      "name": "Virescent Pyrojade",
+      "desc": "Turn End: Gain 1 [[Bracket]] Próximo turno para cada 5 [[suporte]] Potência em Self (Máx 2)\n\nContra o alvo (ou a parte) uma habilidade de ataque básica atingida por último, infligir [[suporte]] na próxima curva (uma vez por turno)\n\nDeal +([[bracket]] potência no alvo)% mais danos no acerto crítico (no máximo 15%)"
+    },
+    {
+      "id": 1031111,
+      "name": "Virescent Pyrojade",
+      "desc": "Turn End: Gain 1 [[Bracket]] Próximo turno para cada [[estilo de tag-estilo]] 3 [[estilo de tag]] [[suporte]] potência em self (max 2)\n\nContra o alvo (ou a parte) uma habilidade de ataque básica atingida por último, infligir [[suporte]] na próxima curva (uma vez por turno)\n\nDeal +([[bracket]] potência no alvo)% mais danos no acerto crítico (no máximo 15%)\n[[Estilo de tag]]-Aumente a tampa máxima em 5% para cada 1 [[suporte]] no alvo [[estilo de tag]]]"
+    },
+    {
+      "id": 1031121,
+      "name": "Featherstride Technique",
+      "desc": "1 aliado com a velocidade mais rápida: na vitória do confronto contra os inimigos com [[suporte]] ou 'queimaduras únicas', ganha 1 [[suporte]] no próximo turno (uma vez por turno)"
+    },
+    {
+      "id": 1031131,
+      "name": "Featherstride Technique",
+      "desc": "1 aliado com a velocidade mais rápida: na vitória do confronto contra os inimigos com [[suporte]] ou 'queimaduras únicas', ganha 1 [[suporte]] no próximo turno (uma vez por turno)\n[[Estilo de tag]]-Se o alvo tiver 20+ [[bracket]] potência, ganhe 1 adicional [[backet]] [[estilo de tag]]]"
+    },
+    {
+      "id": 1041101,
+      "name": "Heishou Mutation [Mao]",
+      "desc": "Se esta unidade tiver [[suporte]], causar +5% mais danos"
+    },
+    {
+      "id": 1041111,
+      "name": "Heishou Mutation [Mao]",
+      "desc": "Se esta unidade tiver [[suporte]], causar +5% mais danos\nSe o alvo tiver [[suporte]], causar +5% mais danos"
+    },
+    {
+      "id": 1041121,
+      "name": "Partial Heishou Mutation Training",
+      "desc": "Turn End: 1 aliado com os ganhos de velocidade mais rápidos 2 [[suporte]] Próxima virada"
+    },
+    {
+      "id": 1111201,
+      "name": "Heishou Mutation [Mao]",
+      "desc": "Se esta unidade tiver [[suporte]] e o alvo possui [[suporte]], acordo +5% mais dano para cada [[suporte]] (máximo 15%)"
+    },
+    {
+      "id": 1111221,
+      "name": "A Husk of Hares",
+      "desc": "1 aliado com a velocidade mais rápida: ao atacar alvos com [[suporte]], causar +10% mais danos\nGanhe 1 [[suporte]] Próximo turno (uma vez por turno)"
+    },
+    {
+      "id": 1101201,
+      "name": "The Middle Never Forgets",
+      "desc": "Quando atingido por um inimigo, infligir 3 [[suporte]] contra o atacante (ou parte) (uma vez por turno)\n\nQuando um outro aliado é atingido por um inimigo, infligir 2 [[suporte]] contra o atacante (ou parte) (uma vez por turno por identidade)\n\nDepois de atacar com habilidades de ataque base ou contra -habilidades, consuma todos [[suporte]] no alvo\n- Toda vez que o alvo consome [[suporte]], ganho [[suporte]] igual à quantidade consumida"
+    },
+    {
+      "id": 1101211,
+      "name": "The Middle Never Forgets",
+      "desc": "Quando atingido por um inimigo, infligir [[estilo de tag]] 5 [[estilo tag-estilo]] [[suporte]] contra o atacante (ou parte) (uma vez por turno)\n\nQuando um outro aliado é atingido por um inimigo, infligir 2 [[suporte]] contra o atacante (ou parte) (uma vez por turno por identidade)\n[[Estilo de tag]]-Se o aliado referido é do meio, infligir 3 adicional [[suporte]] [[estilo de tag]]]\n\nDepois de atacar com habilidades de ataque base ou contra -habilidades, consuma todos [[suporte]] no alvo\n- Toda vez que o alvo consome [[suporte]], ganho [[suporte]] igual à quantidade consumida"
+    },
+    {
+      "id": 1101221,
+      "name": "We've Got Your Back",
+      "desc": "Início de combate: 1 aliado com os ganhos de menor porcentagem de HP atuais 2 [[suporte]]]"
+    },
+    {
+      "id": 1101231,
+      "name": "We've Got Your Back",
+      "desc": "Início de combate: 1 aliado com os ganhos de menor porcentagem de HP atuais 2 [[suporte]]]\n[[Estilo tag]]-Se o aliado referido é do meio, também ganha 2 [[suporte]] [[estilo de tag]]]"
+    }
+  ]
+}

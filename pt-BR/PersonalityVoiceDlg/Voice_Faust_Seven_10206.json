@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10206_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "Bem-vindo. Vou anotar seus pedidos aqui."
+        },
+        {
+            "id": "lobby_morning_10206_1",
+            "desc": "Saudação matinal",
+            "dlg": "Esta cafeteria está sempre movimentada, mas agora é seu horário mais movimentado. É bem compreensível, já que passar um dia sem uma xícara de chá seria tropeçar nele com uma mente que está apenas meio acordada."
+        },
+        {
+            "id": "lobby_noon_10206_1",
+            "desc": "Saudação da tarde",
+            "dlg": "Designar tempo para onze rápidos ou um chá da tarde é uma escolha gerencial sábia, considerando que eles são conhecidos por melhorar a eficiência do trabalho. Vou anotar seus pedidos aqui."
+        },
+        {
+            "id": "lobby_night_10206_1",
+            "desc": "Saudação noturna",
+            "dlg": "Aceitamos pedidos até altas horas para nossos colegas que trabalham em turnos noturnos ou horas extras. Se você estiver de folga hoje à noite, posso preparar um chá gostoso com um toque de xerez ou conhaque?"
+        },
+        {
+            "id": "smalltalk_10206_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Esta cafeteria é um estabelecimento administrado por funcionários da Seven Association, que amam chá mais do que qualquer outra coisa no mundo. Os turnos são todos voluntários, e retornamos às nossas tarefas habituais nas horas vagas. Ah, e nem preciso dizer que todos os lucros vão para a compra de folhas de chá e bules de melhor qualidade."
+        },
+        {
+            "id": "smalltalk_10206_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "O LEITE!...já deve estar na xícara antes do chá ser servido. Essa é a nossa...maneira recomendada."
+        },
+        {
+            "id": "smalltalk_10206_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "Você gostaria de um pouco de... gelo? Desculpe, mas este estabelecimento não serve \"chá\" gelado.\nSe não for problema para você, posso tomar um momento do seu tempo para explicar por que o chá preto deve ser apreciado em temperaturas mais altas?"
+        },
+        {
+            "id": "smalltalk_10206_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "Ah, estou ocupado no momento.\nEmbora eu sempre goste de nossas discussões sobre chá, isso deve esperar por enquanto."
+        },
+        {
+            "id": "smalltalk_10206_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "Ética de trabalho precisa e talento para preparar chá de sabor exato e puro. Faust considera esses como seus dois objetivos principais."
+        },
+        {
+            "id": "neglect_10206_1",
+            "desc": "Parado",
+            "dlg": "Infundir demais seu chá é permitir que sabores impuros venham à tona. Por favor, evite fazer isso."
+        },
+        {
+            "id": "gacksung_10206_1",
+            "desc": "Uptying",
+            "dlg": "Sim, claro. Você pode me chamar a qualquer hora, se necessário. A menos que seja hora do chá, claro."
+        },
+        {
+            "id": "formation_10206_1",
+            "desc": "Implantação",
+            "dlg": "Um pedido urgente, certo?"
+        },
+        {
+            "id": "battleentry_10206_1",
+            "desc": "Entrada no palco",
+            "dlg": "Vou me encontrar com você no campo."
+        },
+        {
+            "id": "battle_select_10206_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Antes que o chá esfrie."
+        },
+        {
+            "id": "battle_endcommand_10206_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Perfeito."
+        },
+        {
+            "id": "battle_enemy_break_10206_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Como folhas de chá quebradas."
+        },
+        {
+            "id": "battle_break_10206_1",
+            "desc": "escalonado",
+            "dlg": "Ah…"
+        },
+        {
+            "id": "battle_kill_10206_1",
+            "desc": "Inimigo morto",
+            "dlg": "Não há mais informações a serem obtidas."
+        },
+        {
+            "id": "battle_dead_10206_1",
+            "desc": "Morte",
+            "dlg": "Haah... Mas... Eu não tenho ninguém... para cobrir meu próximo turno..."
+        },
+        {
+            "id": "choice_success_p_10206_2",
+            "desc": "Verificação aprovada",
+            "dlg": "Resultado de observação meticulosa."
+        },
+        {
+            "id": "choice_fail_n_10206_1",
+            "desc": "Verificação falhou",
+            "dlg": "... Eu deveria ter observado com mais cuidado."
+        },
+        {
+            "id": "battle_clear_10206_1",
+            "desc": "Grito de vitória",
+            "dlg": "Esta missão foi um sucesso. Ah, agora preciso ir para meu turno no refeitório. Então, se me derem licença..."
+        },
+        {
+            "id": "battle_clear_ex_10206_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "Chá com leite, por favor. Servido, não mexido. De fato, o chá tem um gosto melhor quando é servido a você do que quando você mesmo o serve."
+        },
+        {
+            "id": "battle_defeat_10206_1",
+            "desc": "Derrote Wail",
+            "dlg": "Isso foi... inesperado. Não devemos ter ingerido chá suficiente. Vamos tirar um tempo para tomar chá antes da próxima tentativa."
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "dataList": [
+        {
+            "id": "857701_abm_success_1_1",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> perdem %{0}/%."
+        },
+        {
+            "id": "857701_abm_success_1_2",
+            "content": "<color=#ebcaa2>{0}</color> perde %{2} {1}/%"
+        },
+        {
+            "id": "857701_abm_failure_1_1",
+            "content": "Some <color=#ebcaa2>{0} e {0}</color> Contagem respectivamente em <color=#ebcaa2>todos os Pecadores</color>, então divida a soma pelo número de Pecadores. Inflija a <color=#e30000>{0} e {0} Contagem</color> resultantes em todos os Pecadores. (Mínimo 1)"
+        },
+        {
+            "id": "857801_success_1_1",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> perdem %{0}/%."
+        },
+        {
+            "id": "857801_success_1_2",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> <color=#80c9ff>curam {0} SP.</color>"
+        },
+        {
+            "id": "857801_success_1_3",
+            "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganha</color> %{2} [{1}]/% no próximo turno."
+        },
+        {
+            "id": "857801_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}]/%"
+        },
+        {
+            "id": "857801_failure_1_2",
+            "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>perde {1} SP</color>"
+        },
+        {
+            "id": "857801_failure_1_3",
+            "content": "<color=#ebcaa2>{0}</color> <color=#e30000>perde {1} HP</color>"
+        },
+        {
+            "id": "857101_skinPredector_success_1_2",
+            "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganhos</color> %{2} {1}/% <color=#ebcaa2>pelo encontro.</color>"
+        },
+        {
+            "id": "857101_skinPredector_success_1_3",
+            "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganha</color> %{2} {1}/% e %{4} {3}/% <color=#ebcaa2>pelo Encontro.</color>"
+        },
+        {
+            "id": "857101_skinPredector_failure_1_1",
+            "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganha</color> %{2} {1}/% e %{4} {3}/% <color=#ebcaa2>pelo Encontro.</color>"
+        },
+        {
+            "id": "857101_skinPredector_failure_1_2",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> <color=#ebcaa2>ganham</color> %{1} {0}/% e %{3} {2}/%."
+        },
+        {
+            "id": "858501_soc_success_1_1",
+            "content": "<color=#ebcaa2>A resistência de {0} {1}</color> <color=#ebcaa2>se torna 1,5</color>"
+        },
+        {
+            "id": "858501_soc_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000> recebe {1} HP de dano</color>"
+        },
+        {
+            "id": "858501_soc_failure_1_2",
+            "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>recebe {1} de dano SP</color>"
+        },
+        {
+            "id": "858502_soc_success_1_1",
+            "content": "<color=#ebcaa2>A resistência de {0} {1}</color> <color=#ebcaa2>se torna 1,5</color>"
+        },
+        {
+            "id": "858502_soc_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000> recebe {1} HP de dano</color>"
+        },
+        {
+            "id": "858502_soc_failure_1_2",
+            "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>recebe {1} de dano SP</color>"
+        },
+        {
+            "id": "858502_soc_failure_1_3",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} {1}/%"
+        }
+    ]
+}

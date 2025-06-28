@@ -1,0 +1,153 @@
+{
+  "dataList": [
+    {
+      "id": "TipsinessRail",
+      "name": "Tipsy",
+      "desc": "Perder o poder de conflito pela contagem do efeito (máximo 5)",
+      "summary": "Perder o poder de choque pela contagem do efeito"
+    },
+    {
+      "id": "PassedPortal_Red",
+      "name": "Hemorrhaging Dimension",
+      "desc": "Dano acima de 10%",
+      "summary": "Dano acima de 10%"
+    },
+    {
+      "id": "PassedPortal_Green",
+      "name": "Poisonous Dimension",
+      "desc": "Máximo hp +20%",
+      "summary": "Máximo hp +20%"
+    },
+    {
+      "id": "PassedPortal_Yellow",
+      "name": "Tremoring Dimension",
+      "desc": "Aumentar a velocidade em 1",
+      "summary": "Aumentar a velocidade em 1"
+    },
+    {
+      "id": "PassedPortal_Blue",
+      "name": "Electrifying Dimension",
+      "desc": "Poder de moeda +1",
+      "summary": "Poder de moeda +1"
+    },
+    {
+      "id": "FairyCharm",
+      "name": "Charmed",
+      "desc": "- Todos os danos causados ​​à fada reduzidos a 0.\n- expira quando a fada morre.",
+      "summary": "Dano fixado a 0"
+    },
+    {
+      "id": "DecoyRegenerated",
+      "name": "Regenerate",
+      "desc": "Ganhe 1 toda vez que uma peça é restaurada",
+      "summary": ""
+    },
+    {
+      "id": "WaveFoxUmbrella",
+      "name": "Protection Umbrella",
+      "desc": "Todas as peças ganham proteção igual ao valor\nAo usar a habilidade de espera, convoce o velho guarda -chuva igual ao valor\nEu gastei toda vez que um guarda -chuva é quebrado."
+    },
+    {
+      "id": "InterlockingTime_Re",
+      "name": "Interlocking Time",
+      "desc": "Reduza os danos finais em 30% e guarde -o. Na contagem 3, sofra danos fixos em 2 vezes o dano acumulado e ganhe 3 ligue o próximo turno.",
+      "summary": "Reduza os danos finais em 30% e guarde -o. Na contagem 3, sofra danos fixos em 2 vezes o dano acumulado e ganhe 3 ligue o próximo turno."
+    },
+    {
+      "id": "TimeRental_Re",
+      "name": "Borrowed Time",
+      "desc": "No final do turno, ganhe 3 pressa, 2 danos e 2 ofensas de nível acima; Se apenas 1 contagem permanecer, ganha 3 lige 1 ataque de ataque e 2 curva frágil na próxima vez",
+      "summary": "No final do turno, ganhe 3 pressa, 2 danos e 2 ofensas de nível acima; Se apenas 1 contagem permanecer, ganha 3 lige 1 ataque de ataque e 2 curva frágil na próxima vez"
+    },
+    {
+      "id": "ReattachedCurseTag_Re",
+      "name": "Reattached Curse Talisman",
+      "desc": "Aos 9 anos ou mais, ganhe 5 ligações no início do turno.\nAos 12 anos, ganhe 5 ataques de ataque no início do turno. (Máximo 12)",
+      "summary": "Aos 9 anos ou mais, ganhe 5 ligações no início do turno.\nAos 12 anos, ganhe 5 ataques de ataque no início do turno."
+    },
+    {
+      "id": "WrappedCurseTagRe",
+      "name": "Entangled Curse Talisman",
+      "desc": "Acordo +1% de dano por contagem\nNa contagem de mais de 9",
+      "summary": "Acordo +1% de dano por contagem; Na contagem de mais de 9 anos, ganhe 2 ataque de ataque no momento"
+    },
+    {
+      "id": "AccumulatedPast",
+      "name": "Accumulated Past",
+      "desc": "Ganhe 11 no final do turno.\nGasto completamente quando a parte do corpo é quebrada.",
+      "summary": ""
+    },
+    {
+      "id": "PrepareSinRose",
+      "name": "Crown of Thorns",
+      "desc": "Gera uma unidade de rosas cuja afinidade corresponde à afinidade de habilidade mais pertencente ao alvo infligida a esse efeito",
+      "summary": ""
+    },
+    {
+      "id": "BloomingRose",
+      "name": "Blooming Sin",
+      "desc": "No final da curva\n- Ganhe 1 contagem.\n- A identidade ligada perde HP igual a 25% de HP máx.\n- Perca 10% do recurso, por exemplo, correspondente ao Rose.\n- O sinal de rosas cura HP igual a 5% de seu HP máximo.\n\nEm 4 contagem,\n- A identidade ligada morre.\n- Perca tudo, por exemplo, recursos correspondentes ao Rose.",
+      "summary": ""
+    },
+    {
+      "id": "EatingSin",
+      "name": "Drenched Sin",
+      "desc": "Max HP aumenta em (por exemplo, recursos drenados)%\n\nNa morte\n- Recupere, por exemplo, o recurso que ele drenou.\n- HP da identidade limitada por cura por (25% da contagem de pecadores de Blooming da Identity HP * Blooming).",
+      "summary": ""
+    },
+    {
+      "id": "EnhanceRose",
+      "name": "Power-up State",
+      "desc": "Powe-up State Passive ativado",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Crimson",
+      "name": "Bloomed Rose",
+      "desc": "Maior dano causado e tomado com a afinidade da ira da identidade",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Scarlet",
+      "name": "Bloomed Rose",
+      "desc": "Maior dano causado e tomado com a afinidade da luxúria da identidade",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Amber",
+      "name": "Bloomed Rose",
+      "desc": "Maior dano causado e tomado com a afinidade da preguiça da identidade",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Shamrock",
+      "name": "Bloomed Rose",
+      "desc": "Maior dano causado e tomado com a afinidade da gula da identidade",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Azure",
+      "name": "Bloomed Rose",
+      "desc": "Maior dano causado e tomado com a afinidade da escuridão da identidade",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Indigo",
+      "name": "Bloomed Rose",
+      "desc": "Maior dano causado e tomado com a afinidade do orgulho da identidade",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Violet",
+      "name": "Bloomed Rose",
+      "desc": "Maior dano causado e tomado com a afinidade da inveja da identidade",
+      "summary": ""
+    },
+    {
+      "id": "KalpaVine",
+      "name": "Brambles of Eternity",
+      "desc": "Todos os personagens causam menos dano\nTodos os personagens recebem menos dano",
+      "summary": ""
+    }
+  ]
+}

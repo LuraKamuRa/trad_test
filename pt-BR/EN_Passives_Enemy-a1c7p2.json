@@ -1,0 +1,69 @@
+{
+  "dataList": [
+    {
+      "id": 9015801,
+      "name": "Clumsy Bloodsucking",
+      "desc": "Em sucesso, se o alvo tiver [[suporte]], cure 5 ~ 10% dos danos causados"
+    },
+    {
+      "id": 9017501,
+      "name": "Festive Mood",
+      "desc": "Ganho 1 [[suporte]] Toda vez que esta unidade ganha lustre positivo com efeitos de habilidade (uma vez por tipo de buff)\n\nTurn Start: Gain [[Bracket]] igual ao número de outros aliados (máximo 3)\nTurn End: Lose [[Bracket]] igual ao número de aliados que foram mortos nesta curva\nTurn End: Heal SP igual a [[suporte]] em si (não é ativado em -45 sp)\n\nTurn End: às 8+ [[suporte]], use uma habilidade poderosa na próxima curva"
+    },
+    {
+      "id": 9017502,
+      "name": "Bloodsucking",
+      "desc": "Em sucesso, se o alvo tiver [[suporte]], cure 20% dos danos causados"
+    },
+    {
+      "id": 9017503,
+      "name": "Blood Coagulation",
+      "desc": "Após o ataque: se o alvo tiver 5+ [[suporte]], ganhe 1 [[suporte]]]"
+    },
+    {
+      "id": 9017504,
+      "name": "Thirst for Blood",
+      "desc": "- prioriza os alvos com [[suporte]]\nTurn End: Se esta unidade falhar em causar nenhum dano neste turno, ganhe 2 [[suporte]] e 2 ofensas no nível próximo na próxima curva\n- Turn End: Se esta unidade causou danos a essa curva, Heal 5 sp"
+    },
+    {
+      "id": 9017505,
+      "name": "Bloodfeast",
+      "desc": "Se esta unidade estiver em campo ou for uma das unidades que podem aparecer neste estágio, aumente o valor [[suporte]] pela quantidade de dano [[suporte]] recebido coletivamente por todas as unidades. \nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha aparecerá."
+    },
+    {
+      "id": 9017506,
+      "name": "Starved and Withered",
+      "desc": "Ganha [[suporte]] no início do encontro"
+    },
+    {
+      "id": 9017301,
+      "name": "Festive Sounds",
+      "desc": "Ganho 1 [[suporte]] Toda vez que esta unidade ganha lustre positivo com efeitos de habilidade (uma vez por tipo de buff)\n\nTurn Start: Gain [[Bracket]] igual ao número de outros aliados (máximo 3)\nTurn End: Lose [[Bracket]] igual ao número de aliados que foram mortos nesta curva\n\nTurn End: às 8+ [[suporte]], use uma habilidade poderosa na próxima curva"
+    },
+    {
+      "id": 9017302,
+      "name": "Bloodsucking",
+      "desc": "Em sucesso, se o alvo tiver [[suporte]], cure 15% dos danos causados"
+    },
+    {
+      "id": 9017303,
+      "name": "Blood Coagulation",
+      "desc": "Após o ataque: se o alvo tiver 8+ [[suporte]], ganhe 1 [[suporte]]]"
+    },
+    {
+      "id": 9017304,
+      "name": "Thirst for Blood",
+      "desc": "Prioriza metas com [[suporte]]\nTurn End: Se esta unidade falhou em causar nenhum dano nesta curva, ganhe 2 [[suporte]] e 2 [[suporte]] Próxima turno"
+    },
+    {
+      "id": 9017305,
+      "name": "Bloodbag",
+      "desc": "Quando atingido, ganhe +1 [[suporte]] contagem.\nGanho 1 [[suporte]] e 2 [[suporte]] toda vez que esta unidade perde 20% de hp.\nSe houver um amigo de sangue em campo, independentemente de ser um aliado ou um inimigo, aumente [[suporte]] em 30 após a morte"
+    },
+    {
+      "id": 9017101,
+      "name": "Starved and Withered",
+      "desc": "Ganha [[suporte]] no início do encontro"
+    }
+  ]
+}

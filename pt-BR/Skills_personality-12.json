@@ -1,0 +1,1396 @@
+{
+    "dataList": [
+        {
+            "id": 1120601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Standoff",
+                    "desc": "[WhenUse]Ganhe 2 nível de defesa",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 1 pressa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Standoff",
+                    "desc": "[WhenUse]Ganhe 2 nível de defesa[DefeatDuel]Ganhe escudo por (3 * Defense nivelado em si); Ganhe 1 nível de defesa no próximo turno",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 pressa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Standoff",
+                    "desc": "[WhenUse]Ganhe 2 nível de defesa[DefeatDuel]Ganhe escudo por (5 * Defense nivelado em si); Ganhe 2 nível de defesa no próximo turno",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 pressa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flexible Suppression",
+                    "desc": "[WhenUse]Ganhe 2 nível de defesa",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 1 nível de defesa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 1 nível de defesa no próximo turno"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "No nível de defesa de 6+"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Flexible Suppression",
+                    "desc": "[WhenUse]Ganhe 3 nível de defesa[WhenUse]Ganhe +2 agro a este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 nível de defesa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 nível de defesa no próximo turno"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "No nível de defesa de 6+"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Flexible Suppression",
+                    "desc": "[WhenUse]Ganhe 3 nível de defesa[WhenUse]Ganhe +3 Aggro a este slot de habilidade na próxima curva\nNo nível de defesa de mais de 6 anos, Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 nível de defesa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 nível de defesa no próximo turno"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "No nível de defesa de 6+"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120603,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Guardian",
+                    "desc": "[WhenUse]Aplique 2 Power Up de defesa e 3 nível de defesa até todos os aliados\nNo nível de defesa de mais de 6 anos, o poder da moeda +1\nNo nível de defesa de 10+",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 3 nível de defesa até todos os aliados na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Guardian",
+                    "desc": "[WhenUse]Aplique 2 Power Up de defesa e 3 nível de defesa até todos os aliados\nPower de moedas +1 por 6 Defense Level Up (Máx 3)\nNo nível de defesa de 10+",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 3 nível de defesa até todos os aliados na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Best Defense",
+                    "desc": "[StartBattle]Ganhe escudo por (2 * Defense Nível Up On Self)",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "The Best Defense",
+                    "desc": "[StartBattle]Ganhe escudo por (2 * Defense Nível Up On Self)[WhenUse]Ganhe +5 agro a este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Negotiation Start",
+                    "desc": "[WhenUse]Ganhe 2 equilíbrio",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho +1 contagem de posições"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Negotiation Start",
+                    "desc": "[WhenUse]Ganhe 3 equilíbrio",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Negotiation Start",
+                    "desc": "[WhenUse]Ganhe 3 equilíbrio\nSe o alvo tiver 7+<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>, Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Unilateral Business",
+                    "desc": "[WhenUse]Ganhe +2 contagem de posições",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 3 equilíbrio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Unilateral Business",
+                    "desc": "[WhenUse]Ganhe +3 contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 4 equilíbrio"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 sangramento"
+                                },
+                                {
+                                    "desc": "+30% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Unilateral Business",
+                    "desc": "Moeda Power +1 para cada 7 sangramento no alvo (máximo 2)[WhenUse]Ganhe +3 contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4 equilíbrio"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 sangramento"
+                                },
+                                {
+                                    "desc": "+50% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120703,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Foregone Conclusion",
+                    "desc": "[WhenUse]Ganho 1 Poise por 3 sangramento no alvo (máximo 5)\nÀs 7+<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Equilíbrio</color></color></link></u>, Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir +2 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Gaste 1 munição"
+                                },
+                                {
+                                    "desc": "+50% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Foregone Conclusion",
+                    "desc": "[WhenUse]Ganhe 1 equilíbrio para cada 3 sangramento no alvo (máximo 10)\nGanhe poder de moeda +1 para cada 7<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Equilíbrio</color></color></link></u>em si mesmo (max +3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir +2 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Gaste 1 munição"
+                                },
+                                {
+                                    "desc": "+100% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 1 Plus Boost de moeda no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Take a Breather",
+                    "desc": "[OnSucceedEvade]Ganho 1 equilíbrio (máximo 3 por turno)",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Take a Breather",
+                    "desc": "[OnSucceedEvade]Ganho 1 Poise (máximo 5 por turno)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lenticular Rend",
+                    "desc": "[WinDuel]Infligir 1[Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Lenticular Rend",
+                    "desc": "<style=\"highlight\">[WhenUse]Se o alvo tiver 7+[Laceration], Clash Power +1</style>\n[WinDuel]Infligir 1[Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lenticular Rend",
+                    "desc": "[WhenUse_Force] <color=#EBCAA2>Se o alvo tiver 7+[Laceration], Clash Power +1</color>\n[WinDuel]Infligir 1[Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Lenticular Rend",
+                    "desc": "[WhenUse]Se o alvo tiver 7+[Laceration], Clash Power +<style=\"highlight\">2</style>\n[WinDuel]Infligir 1[Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Shadow Cloud",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], infligir 1 Atacar a energia na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Shadow Cloud",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], infligir 1 Atacar a energia na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Shadow Cloud",
+                    "desc": "[WhenUse]Se o alvo tiver 7+[Laceration], Clash Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 7+[Laceration], infligir 1 Atacar a energia na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120803,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Shadowcloud Shattercleave",
+                    "desc": "[WhenUse]Se o alvo tiver 7+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 7+[Laceration], infligir 1 nível de ofensa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 7+[Laceration], infligir 1 nível de ofensa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], infligir 1 mais queda de moeda na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Shadowcloud Shattercleave",
+                    "desc": "[WhenUse]Se o alvo tiver 7+[Laceration], Clash Power +1[WhenUse]Se o alvo tiver 10+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 7+[Laceration], infligir 1 nível de ofensa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 7+[Laceration], infligir 1 nível de ofensa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver<style=\"highlight\">7</style>+ [Laceration], infligir 1 mais queda de moeda na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sabre Slash",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Sabre Slash",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Sinking], Power de moedas +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Sabre Slash",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Sinking]no alvo (máximo 2)[WhenUse]Clash Power +1 para cada 3[Sinking]Conte no Target (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Remise",
+                    "desc": "[WinDuel]Infligir +1[Sinking]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Sinking], ganha 1[Agility]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Remise",
+                    "desc": "[WhenUse]Clash Power +1 para cada 3[Sinking]Conte no Target (máximo 2)[WinDuel]Infligir +1[Sinking]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Sinking], ganha 1[Agility]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Remise",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Sinking], Power de moedas +1[WhenUse]Clash Power +1 para cada 3[Sinking]Conte no Target (máximo 2)[WinDuel]Infligir +2[Sinking]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Sinking], ganha 1[Agility]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120903,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Nightmare Hunt",
+                    "desc": "[WhenUse]Clash Power +1 para cada 3[Sinking]Conte no Target (máximo 2)[EndSkill]Se o alvo estiver escalonado, infligir +3[Sinking]Contar[EndSkill]Se o alvo for derrotado, infligir +3[Sinking]Conte com 1 inimigo aleatório",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Absorver 10[Sinking]do alvo e ganho 1[PlusCoinValueUp]e 1[AttackDmgUp]Próximo turno. 50% de chance de obter os efeitos acima sem absorver[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Nightmare Hunt",
+                    "desc": "[WhenUse]Clash Power +1 para cada 3[Sinking]Conte no alvo (máximo 3)[EndSkill]Se o alvo estiver escalonado, infligir +3[Sinking]Contar[EndSkill]Se o alvo for derrotado, infligir +3[Sinking]Conte com 2 inimigos aleatórios",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Absorver 10[Sinking]do alvo e ganho 1[PlusCoinValueUp]e 3[AttackDmgUp]Próximo turno. 50% de chance de obter os efeitos acima sem absorver[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Do You Wish to Weep?",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Sinking], Power de moedas +1",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Do You Wish to Weep?",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Sinking]no alvo (máximo 3)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1121001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sacrifice for the Family",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganhe 10[Laceration]- a 50% + hp, ganho +15 adicional[Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[BloodyHandGregFirst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Sacrifice for the Family",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1</style>\n[WhenUse]Ganhe 10[Laceration]- a 50%+ hp, ganhe 15 adicionais[Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Sacrifice for the Family",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva<style=\"highlight\">[WhenUse]Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)</style>\n[WhenUse]Ganhe 10[Laceration]- a 50%+ hp, ganhe 15 adicionais[Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">2</style> [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1121002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suffocating Guilt",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganhe 10[Laceration]\n[WhenUse]A 5+[WornHeartGreg], consuma até 60[BloodDinner]; Então, ganhe 1[BloodyHandGregFirst]Para cada 6[BloodDinner]consumido\n- em menos de 5[WornHeartGreg], ganhe 10[Laceration]e 2[BloodyHandGregFirst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[BloodyHandGregFirst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Suffocating Guilt",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1</style>\n[WhenUse]Ganhe 10[Laceration]\n[WhenUse]A 5+[WornHeartGreg], consuma até 60[BloodDinner]; Então, ganhe 1[BloodyHandGregFirst]Para cada 6[BloodDinner]consumido\n- em menos de 5[WornHeartGreg], ganhe 10[Laceration]e 2[BloodyHandGregFirst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Suffocating Guilt",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva<style=\"highlight\">[WhenUse]Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)</style>\n[WhenUse]Ganhe 10[Laceration]\n[WhenUse]A 5+[WornHeartGreg], consuma até 60[BloodDinner]; Então, ganhe 1[BloodyHandGregFirst]Para cada 6[BloodDinner]consumido\n- em menos de 5[WornHeartGreg], ganhe 10[Laceration]e<style=\"highlight\">3</style> [BloodyHandGregFirst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1121003,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "The Unforgivable Sin",
+                    "desc": "ACOMPANDO COM ESTA Habilidade: Cure 50% dos danos da HP (MAX 100 por habilidade)[WhenUse]Acordo +1% mais dano para cada 1% faltando HP em si (máximo 60%)[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1[WhenUse]Consumir todo excesso de pilha de[BloodyHandGregFirst]PASSA 10 PATHE para obter os seguintes efeitos:\n- Heal (pilhas consumidas x 3) HP em si mesmo\n- Se esta unidade consumiu mais de 10 pilha, a moeda Power +1[WhenUse]Ganhe 10[Laceration]\n[EndSkill]Cura 10% HP em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[BloodyHandGregFirst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "The Unforgivable Sin",
+                    "desc": "ACOMPANDO COM ESTA Habilidade: Cure 50% dos danos da HP (MAX 100 por habilidade)[WhenUse]Negócio<style=\"highlight\">+1,5%</style>mais danos para cada 1% faltando HP em si mesmo<style=\"highlight\">(no máximo 90%)</style>\n[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1[WhenUse]Consumir todo excesso de pilha de[BloodyHandGregFirst]PASSA 10 PATHE para obter os seguintes efeitos:\n- Heal (pilhas consumidas x 3) HP em si mesmo\n- Se esta unidade consumiu mais de 10 pilha, a moeda Power +1<style=\"highlight\">- Se esta unidade consumiu 20 pilha, reutilize a moeda final</style>\n[WhenUse]Ganhe 10[Laceration]\n[EndSkill]Cura 10% HP em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">2</style> [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">2</style> [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1121004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Faded Patience",
+                    "desc": "[StartBattle]Ganhe 3[WornHeartGreg](uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Faded Patience",
+                    "desc": "<style=\"highlight\">[StartBattle]A 40%+ hp, ganhe 5[Laceration]e ativar[Laceration]até 3 vezes em si (uma vez por turno; perder[Laceration]Contagem igual ao número de vezes que foi ativado)[StartBattle]Em menos de 40% HP, consuma até 20[BloodDinner]e curar o mesmo valor que HP (uma vez por turno)</style>\n[StartBattle]Ganhe 3[WornHeartGreg](uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1121101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flamethrow",
+                    "desc": "Se o alvo tiver 6+[Combustion], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 15[FirePunchFuel]e infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Flamethrow",
+                    "desc": "Se o alvo tiver<style=\"highlight\">3</style>+ [Combustion], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 15[FirePunchFuel]e infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Flamethrow",
+                    "desc": "<style=\"highlight\">Moeda Power +1 para cada 3 queima no alvo (máximo 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">2</style> [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 15[FirePunchFuel]e infligir +<style=\"highlight\">2</style> [Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1121102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll burn away every last drop of your filthy blood",
+                    "desc": "Se o alvo tiver 6+[Combustion], Power de moedas +1\nQuando entrar[FirePunchFuelOverheated]Estado, causar +10% mais danos com moedas que consumiram[FirePunchFuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 10[FirePunchFuel]e infligir 1[Combustion]contra 2 inimigos com o mínimo[Combustion]Potência"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 10[FirePunchFuel]e infligir +1[Combustion]Contar contra 1 inimigo com o mínimo[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "I'll burn away every last drop of your filthy blood",
+                    "desc": "Se o alvo tiver 6+[Combustion], Power de moedas +1\nMoedas que consumiram[FirePunchFuel]acordo +10% mais dano<style=\"highlight\">- Quando entrar[FirePunchFuelOverheated]Estado, causar +20% mais danos em vez disso</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 10[FirePunchFuel]e infligir 1[Combustion]contra 2 inimigos com o mínimo[Combustion]Potência<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 10[FirePunchFuel]e infligir +1[Combustion]Contar contra<style=\"highlight\">2 inimigos</style>com o mínimo[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "I'll burn away every last drop of your filthy blood",
+                    "desc": "<style=\"highlight\">Poder de moeda +1 para cada 6[Combustion]no alvo (máximo 2)</style>Moedas que consumiram[FirePunchFuel]negócio +<style=\"highlight\">15</style>% mais danos\n- Quando entrar[FirePunchFuelOverheated]Estado, Deal +<style=\"highlight\">30</style>% mais dano em vez disso",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 10[FirePunchFuel]e infligir<style=\"highlight\">2</style> [Combustion]contra 2 inimigos com o mínimo[Combustion]Potência"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">+2</style> [Combustion]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 10[FirePunchFuel]e infligir +1[Combustion]Contar contra 2 inimigos com o mínimo[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1121103,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Firefist",
+                    "desc": "Se o alvo tiver 3+[Combustion]Conte, Power de moedas +1[WhenUse]Potência base +1 para cada 6[Combustion]no alvo (máximo 2)[WhenUse]Consumir até 25[FirePunchFuel]e causar +1% mais danos para cada[FirePunchFuel]consumido (no máximo 25%)\n- Quando entrar[FirePunchFuelOverheated]Estado, causar +3% mais danos para cada[FirePunchFuel]em vez disso (no máximo 75%)[EndSkill]Se o alvo for derrotado ou se essa habilidade consumida[FirePunchFuel], ganha 1[HitDamageUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade consumida[FirePunchFuel], infligir 1[Combustion]e +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade consumida[FirePunchFuel], infligir 1[Combustion]e +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +1% mais dano para cada[FirePunchFuel]consumido por essa habilidade (máximo de 25%)\n- Quando entrar[FirePunchFuelOverheated]Estado, causar +3% mais danos para cada[FirePunchFuel]em vez disso (no máximo 75%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Firefist",
+                    "desc": "<style=\"highlight\">Poder de moeda +1 para cada 3[Combustion]Conte com o alvo (máximo 2)</style>\n[WhenUse]Potência base +1 para cada 6[Combustion]no alvo (Max<style=\"highlight\">3</style>)\n[WhenUse]Consumir até 25[FirePunchFuel]e negócio +<style=\"highlight\">2</style>% mais dano para cada[FirePunchFuel]consumido (máx<style=\"highlight\">50</style>%)\n- Quando entrar[FirePunchFuelOverheated]Estado, Deal +<style=\"highlight\">4</style>% mais dano para cada[FirePunchFuel]consumido (máx<style=\"highlight\">100</style>%)\n[EndSkill]Se o alvo for derrotado ou se essa habilidade consumida[FirePunchFuel], ganho<style=\"highlight\">2</style> [HitDamageUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade consumida[FirePunchFuel], infligir<style=\"highlight\">2</style> [Combustion]e +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade consumida[FirePunchFuel], infligir<style=\"highlight\">2</style> [Combustion]e +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Negócio +<style=\"highlight\">2</style>% mais dano para cada[FirePunchFuel]consumido por essa habilidade (Max<style=\"highlight\">50</style>%)\n- Quando entrar[FirePunchFuelOverheated]Estado, Deal +<style=\"highlight\">4</style>% mais dano para cada[FirePunchFuel]em vez disso (máx<style=\"highlight\">100</style>%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1121104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I have to keep going for big sis",
+                    "desc": "[DuelCounter]\n[StartBattle]Ganhe 100[FirePunchFuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "I have to keep going for big sis",
+                    "desc": "[DuelCounter]\n[StartBattle]Ganhe 100[FirePunchFuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "dataList": [
+        {
+            "id": "tutorial_101_01",
+            "content": "Deixe-me mostrar a você os princípios básicos de gerenciamento e comando."
+        },
+        {
+            "id": "tutorial_101_02",
+            "content": "Você pode dar ordens aos Pecadores conectando (encadeando) habilidades no Painel na parte inferior da tela."
+        },
+        {
+            "id": "tutorial_101_03",
+            "content": "Pressione e segure esta engrenagem à esquerda."
+        },
+        {
+            "id": "tutorial_101_04",
+            "content": "A partir daqui, forme uma cadeia de habilidades até o equipamento à direita."
+        },
+        {
+            "id": "tutorial_101_05",
+            "content": "Depois de formar uma cadeia de habilidades, pressione a engrenagem correta para começar o combate."
+        },
+        {
+            "id": "tutorial_102_01",
+            "content": "Parece que precisamos de um ataque poderoso.\nVamos formar a corrente adequada para isso."
+        },
+        {
+            "id": "tutorial_102_02",
+            "content": "Ao encadear 2 ou mais habilidades da mesma Afinidade neste turno, você causará <Ressonância>."
+        },
+        {
+            "id": "tutorial_102_03_popup_title",
+            "content": "Entrada de ressonância"
+        },
+        {
+            "id": "tutorial_102_03",
+            "content": "Resonance aumenta o dano de habilidades com a mesma\nSin Affinity. (Sua cor, em outras palavras.)\nO poder de cada habilidade é aumentado pelo número de habilidades que vêm antes dela."
+        },
+        {
+            "id": "tutorial_103_01",
+            "content": "Isso não foi o suficiente. Precisamos atacá-los ainda mais forte.\nTente encadear nossas habilidades novamente."
+        },
+        {
+            "id": "tutorial_103_02",
+            "content": "Ao encadear 3 ou mais habilidades da mesma Afinidade em sucessão direta, você causará <Ressonância Absoluta>."
+        },
+        {
+            "id": "tutorial_103_03_popup_title",
+            "content": "O que é Ressonância Absoluta?"
+        },
+        {
+            "id": "tutorial_103_03",
+            "content": "Como acabamos de cobrir, encadear 3 ou mais habilidades da mesma Afinidade em sucessão causa <Ressonância Absoluta>.\nCada habilidade sob <Ressonância Absoluta> recebe um aumento de Poder com base em seu número total.\nDa mesma forma, esse aumento brilha especialmente com habilidades mais ressonantes."
+        },
+        {
+            "id": "tutorial_104_01",
+            "content": "Você encontrará Limiares de Cambaleio amarelos nas barras de saúde dos seus Pecadores e inimigos."
+        },
+        {
+            "id": "tutorial_104_02_popup_title",
+            "content": "O que é Stagger?"
+        },
+        {
+            "id": "tutorial_104_02",
+            "content": "Quando um ataque coloca o HP de uma unidade abaixo de um dos limites amarelos, ela se tornará <Staggered>.\nEnquanto <Staggered>, todas as resistências físicas mudam para Fatal.\nSe o HP de uma unidade cair além de vários Stagger Thresholds em um único turno, seu <Stagger Level> aumentará.\nEste <Stagger Level> pode ir até 3 e, à medida que aumenta, o dano que a unidade recebe é amplificado."
+        },
+        {
+            "id": "tutorial_104_03",
+            "content": "Bem feito. Nós <Staggered> um inimigo. Agora, continue a luta com o que eu te ensinei até agora."
+        },
+        {
+            "id": "tutorial_201_01",
+            "content": "Todas as ações são ditadas por um valor <Speed>."
+        },
+        {
+            "id": "tutorial_201_02_popup_title",
+            "content": "O que é velocidade?"
+        },
+        {
+            "id": "tutorial_201_02",
+            "content": "A velocidade é um número aleatório escolhido dentro de um intervalo dado a cada turno.\nAs posições das unidades são reorganizadas a cada turno de acordo com suas velocidades.\nAqueles com velocidades mais baixas são colocados na frente, tornando-os alvos mais fáceis."
+        },
+        {
+            "id": "tutorial_201_05",
+            "content": "Antes de usar uma habilidade, os personagens vão virar Moedas para determinar seu valor final de Poder.\nMaior Poder significa maior dano."
+        },
+        {
+            "id": "tutorial_201_06",
+            "content": "O número de Moedas indica quantos ataques são feitos. Duas Moedas significam dois acertos."
+        },
+        {
+            "id": "tutorial_201_07",
+            "content": "Antes de usar uma habilidade, os personagens vão virar Moedas para determinar seu valor final de Poder.\nMaior Poder significa maior dano."
+        },
+        {
+            "id": "tutorial_201_08",
+            "content": "Geralmente, se uma Moeda cair em cara, seu Poder será adicionado ao Poder da habilidade.\nParece que a habilidade será fortalecida dessa vez."
+        },
+        {
+            "id": "tutorial_201_09",
+            "content": "O Poder adicionado persiste até o próximo lançamento de moeda."
+        },
+        {
+            "id": "tutorial_202_01",
+            "content": "No início de cada turno, um slot de habilidade será adicionado para um Pecador na ordem em que ele foi mobilizado durante a configuração da equipe, independentemente de o Pecador estar <Atordoado>, <em Pânico> ou <corrosão E.G.O.>."
+        },
+        {
+            "id": "tutorial_202_02",
+            "content": "Quando um Pecador e seu alvo usam habilidades de ataque, um <Clash> ocorre."
+        },
+        {
+            "id": "tutorial_202_03_popup_title",
+            "content": "O que são Clashes?"
+        },
+        {
+            "id": "tutorial_202_03",
+            "content": "Um <Clash> ocorre quando dois personagens atacam um ao outro.\nO lado com o Poder mais alto vence, removendo 1 Moeda do perdedor.\nSe ambos os lados ainda tiverem Moedas, mais Clashes ocorrerão até que um lado tenha perdido todas as suas Moedas.\nO lado que perder todas as suas Moedas terá sua habilidade de ataque cancelada.\nO vencedor então atacará com suas Moedas restantes, ganhando um bônus de dano com base no número total de Clashes."
+        },
+        {
+            "id": "tutorial_202_04",
+            "content": "Em um <Clash>, o Clash Power de duas habilidades opostas é comparado, e o lado com maior Power vence.\nO medidor e o texto mostrados no topo da tela preveem suas chances de ganhar."
+        },
+        {
+            "id": "tutorial_202_05",
+            "content": "Quando um Clash começa, os dois personagens jogam uma Moeda cada para determinar o poder de suas habilidades no Clash. Então, o lado com mais Poder vence e destrói a Moeda do oponente."
+        },
+        {
+            "id": "tutorial_202_06",
+            "content": "O Clash continuará até que um lado fique sem Moedas.\nQuando a Moeda final de um personagem é destruída, sua habilidade é cancelada, e o Clash terminará em derrota completa."
+        },
+        {
+            "id": "tutorial_203_01",
+            "content": "O orbe azul ao lado da barra de saúde de um personagem é um indicador de sua <Sanidade>, ou SP."
+        },
+        {
+            "id": "tutorial_203_02_popup_title",
+            "content": "O que é Sanidade?"
+        },
+        {
+            "id": "tutorial_203_02",
+            "content": "A esfera à direita de uma unidade indica sua <Sanidade>, ou SP. Ela tem um alcance de -45 a +45.\nUnidades com maior Sanidade têm uma chance maior de seus lançamentos de Moeda darem cara.\nDerrotar inimigos aumenta a Sanidade, enquanto mortes de aliados prejudicarão a Sanidade.\nUnidades inimigas com baixa Sanidade podem cair em estados de \"Moral Baixo\" ou \"Pânico\"."
+        },
+        {
+            "id": "tutorial_203_06",
+            "content": "Você pode visualizar os efeitos e doenças em uma unidade na área indicada."
+        },
+        {
+            "id": "tutorial_203_07",
+            "content": "Pressione ou passe o mouse sobre um dos ícones de efeito para examiná-lo em detalhes."
+        },
+        {
+            "id": "tutorial_203_08",
+            "content": "Todos os nossos inimigos entraram em pânico. Agora é a nossa chance. Dê-nos ordens a seu critério."
+        },
+        {
+            "id": "tutorial_301_01",
+            "content": "Por favor, forme uma cadeia de habilidades. Tenho mais a lhe ensinar."
+        },
+        {
+            "id": "tutorial_301_02_popup_tItle",
+            "content": "Tipos de Ataque e Afinidades"
+        },
+        {
+            "id": "tutorial_301_02",
+            "content": "As habilidades têm duas propriedades principais:\nSeu <Tipo de Ataque> e <Afinidade com Pecado>.\nOs Tipos de Ataque são Corte, Perfuração e Contundente.\nAs Afinidades com Pecado são Ira, Luxúria, Preguiça, Gula, Melancolia, Orgulho e Inveja.\nCombinados com Resistências, Tipos de Ataque e Afinidades determinam o dano das habilidades."
+        },
+        {
+            "id": "tutorial_301_03",
+            "content": "Aqui, você pode verificar o Tipo de Ataque e a Afinidade com o Pecado das Habilidades dos seus Pecadores."
+        },
+        {
+            "id": "tutorial_301_04",
+            "content": "Você pode ver as resistências e fraquezas de cada unidade aqui em cima. Este hooligan é vulnerável a ataques Slash."
+        },
+        {
+            "id": "tutorial_302_01",
+            "content": "Você também pode usar habilidades de defesa para lidar com uma ofensiva inimiga.\nHabilidades de defesa são ativadas contra o ataque inimigo pareado com ela.\nSe uma habilidade de defesa não estiver pareada, ela será ativada quando a unidade estiver sujeita a um ataque sem oposição."
+        },
+        {
+            "id": "tutorial_302_02",
+            "content": "Ao contrário das habilidades de ataque, as habilidades de defesa precisam ser geradas."
+        },
+        {
+            "id": "tutorial_302_03",
+            "content": "Vamos gerar uma habilidade de Guarda primeiro."
+        },
+        {
+            "id": "tutorial_302_04",
+            "content": "Se você pudesse gentilmente pressionar o retrato de Gregor."
+        },
+        {
+            "id": "tutorial_302_05_popup_title",
+            "content": "Habilidades de defesa: Guarda"
+        },
+        {
+            "id": "tutorial_302_05",
+            "content": "Guard cria um escudo com saúde igual ao seu valor de Power.\nEste escudo absorverá o dano recebido primeiro.\nUsar Guard várias vezes em um único turno fará com que ele seja ativado muitas vezes."
+        },
+        {
+            "id": "tutorial_302_06",
+            "content": "Bom. Uma habilidade de Guarda foi gerada.\nVamos fazer o mesmo para uma habilidade de Contra-ataque."
+        },
+        {
+            "id": "tutorial_302_07",
+            "content": "Se você pudesse gentilmente pressionar o retrato de Rodya."
+        },
+        {
+            "id": "tutorial_302_08_popup_title",
+            "content": "Habilidades de defesa: Contra-ataque"
+        },
+        {
+            "id": "tutorial_302_08",
+            "content": "Diferentemente de outras habilidades de defesa, Counter tem uma Affinity e gerará seu recurso E.G.O correspondente.\nAo usar Counter, a unidade lançará um ataque sem oposição após ser atingida.\nNo entanto, a unidade não pode lançar um Counter enquanto Staggered."
+        },
+        {
+            "id": "tutorial_302_09",
+            "content": "Bom trabalho.\nPor fim, geraremos uma habilidade de Evasão."
+        },
+        {
+            "id": "tutorial_302_10",
+            "content": "Se você pudesse gentilmente pressionar o retrato de Fausto."
+        },
+        {
+            "id": "tutorial_302_11_popup_title",
+            "content": "Habilidades de Defesa: Evasão"
+        },
+        {
+            "id": "tutorial_302_11",
+            "content": "Ao usar Evade, o personagem irá se esquivar se o valor final de Power da Evade for maior ou igual ao do ataque recebido.\nO ataque atingirá com força total se o Power da Evade for menor, então tome cuidado."
+        },
+        {
+            "id": "tutorial_302_12",
+            "content": "Essas habilidades foram geradas sem problemas.\nAgora, utilize-as e continue a batalha.\nSeu objetivo é eliminar todos os nossos inimigos."
+        },
+        {
+            "id": "tutorial_1001_01",
+            "content": "Em masmorras, criaturas que chamamos de <Anormalidades> existem.\nEncontros com elas serão inevitáveis."
+        },
+        {
+            "id": "tutorial_1001_02_popup_title",
+            "content": "Anormalidades e suas partes"
+        },
+        {
+            "id": "tutorial_1001_02",
+            "content": "Anormalidades consistem em pelo menos uma parte do corpo.\nCada parte tem seus próprios slots, assim como habilidades individuais."
+        },
+        {
+            "id": "tutorial_1001_03",
+            "content": "Escolha uma das habilidades do seu Pecador e arraste-a para o slot de habilidade da Anormalidade."
+        },
+        {
+            "id": "tutorial_1001_04",
+            "content": "Habilidades de anormalidade também têm valores de <Speed>.\nAlém de determinar a ordem das ações, as Speeds de uma anormalidade são algo a que se deve prestar atenção quando você deseja redirecionar seus ataques."
+        },
+        {
+            "id": "tutorial_1001_05",
+            "content": "Quando você ordena que um Pecador com Velocidade *maior* tenha como alvo um dos slots de habilidade da Anormalidade, ele será forçado a se envolver em um <Clash> com seu novo alvo."
+        },
+        {
+            "id": "tutorial_1001_06",
+            "content": "Arraste uma habilidade pertencente a um personagem com maior Velocidade para alterar o alvo da Anormalidade."
+        },
+        {
+            "id": "tutorial_1001_07",
+            "content": "Você redirecionou o alvo da Abnormality. Esses dois agora entrarão em um Clash neste turno."
+        },
+        {
+            "id": "tutorial_1001_08",
+            "content": "Ao usar Speed ​​dessa forma,\nvocê pode manipular livremente quem uma Anormalidade ataca.\nEm Focused Encounters, é vital *trocar de alvos*\npara que eles sejam forçados a Clashes que vão jogar a seu favor."
+        },
+        {
+            "id": "tutorial_1001_09",
+            "content": "Agora, dê suas ordens ao resto dos Pecadores."
+        },
+        {
+            "id": "tutorial_1001_10",
+            "content": "Depois de planejar os movimentos dos seus Sinners, pressione aqui para começar o combate."
+        },
+        {
+            "id": "tutorial_1001_99_popup_title",
+            "content": "Quebrando peças"
+        },
+        {
+            "id": "tutorial_1001_99",
+            "content": "Quando o HP de uma parte do corpo é reduzido a 0, ela é <Quebrada>.\nUma parte quebrada se torna vulnerável a todos os tipos de ataque físico.\nAlgumas partes podem perder certas habilidades ou passivas após quebrar.\nObserve que algumas Anormalidades têm partes regenerativas, assim como quebrar certas pode enfurecer uma Anormalidade."
+        },
+        {
+            "id": "tutorial_1101_01",
+            "content": "Você pode encontrar Anormalidades com múltiplas partes nas masmorras que você explora.\nNesses casos, cada parte terá Resistências e Passivas diferentes, e usará habilidades diferentes."
+        },
+        {
+            "id": "tutorial_1101_02",
+            "content": "Preparamos uma <Enciclopédia de Anormalidades> para ocasiões como esta.\nEla lista as Resistências, Habilidades e Passivas para cada parte.\nSelecione uma Anormalidade para visualizar sua entrada."
+        },
+        {
+            "id": "tutorial_1101_03_popup_title",
+            "content": "No entanto, a enciclopédia está incompleta no momento.\nA análise de nível superficial só pode produzir uma certa quantidade de informações.\nNossas entradas serão complementadas com mais informações conforme você encontrar Anormalidades no campo."
+        },
+        {
+            "id": "tutorial_1101_03",
+            "content": "A Enciclopédia de Anormalidades registra informações sobre Anormalidades e suas partes.\nPor natureza, a Enciclopédia começa incompleta.\nQuanto mais você lutar contra uma Anormalidade, mais sua entrada será escrita na Enciclopédia.\nApós encontros suficientes, o Nível de Observação para a Anormalidade aumentará.\nNíveis de Observação mais altos aumentam o dano que você causa contra uma Anormalidade."
+        },
+        {
+            "id": "tutorial_1201_01",
+            "content": "Durante os Encontros Focados, você pode ocasionalmente ser encarregado de tomar <Decisões> importantes.\nElas exigem que você escolha um Pecador ou uma ação com base na sua situação atual.\nA resposta de uma Anormalidade pode diferir muito pelas escolhas que você faz, então escolha sabiamente."
+        },
+        {
+            "id": "tutorial_1301_01_popup_title",
+            "content": "Habilidades de área de efeito"
+        },
+        {
+            "id": "tutorial_1301_01",
+            "content": "Habilidades de Área de Efeito, ou habilidades AoE para abreviar, têm um peso de ataque (Peso Atk) atribuído a elas.\nOs alvos de uma habilidade AoE dependem do seu alcance de mira. (Frente, Meio, Trás, Especial, etc.)\nCom habilidades AoE, os Clashes só podem ocorrer contra a unidade manualmente alvejada.\nSe uma habilidade AoE perder em um Clash, o ataque será cancelado contra todos os seus alvos.\nHabilidades de defesa ainda serão ativadas contra habilidades AoE."
+        }
+    ]
+}

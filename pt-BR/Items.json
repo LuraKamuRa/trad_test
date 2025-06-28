@@ -1,0 +1,502 @@
+{
+    "dataList": [
+        {
+            "id": 1,
+            "name": "Paid Lunacy",
+            "desc": "Um material cristalino em forma de rosa. Usado para realizar extrações e comprar caixas de Enkephalin.",
+            "flavor": "Uma rosa de cristal que parece estar voltada para uma certa direção o tempo todo. Dizem que esse objeto humanóide absorve a umidade de um certo rio para florescer."
+        },
+        {
+            "id": 2,
+            "name": "Free Lunacy",
+            "desc": "Um material cristalino em forma de rosa. Usado para realizar extrações e comprar caixas de Enkephalin.",
+            "flavor": "Uma rosa de cristal que parece estar voltada para uma certa direção o tempo todo. Dizem que esse objeto humanóide absorve a umidade de um certo rio para florescer."
+        },
+        {
+            "id": 3,
+            "name": "Lunacy",
+            "desc": "Um material cristalino em forma de rosa. Usado para realizar extrações e comprar caixas de Enkephalin.",
+            "flavor": "Abraçar a loucura é um passo necessário para que os humanos avancem."
+        },
+        {
+            "id": 11,
+            "name": "Enkephalin Module",
+            "desc": "Usado para entrar em masmorras.",
+            "flavor": "Um módulo esférico projetado para contenção especial.\n[NOTA] Utilizar uma dosagem de Encefalina líquida permite um uso mais estável em comparação com sua forma gasosa.\nA Encefalina pode ser convertida em energia conectando o módulo em um soquete designado.\n[CUIDADO] A modularização da Encefalina é um processo irreversível; o módulo só pode ser gasto por meio de um soquete.\nO uso fora dos propósitos pretendidos ou modificação é estritamente proibido."
+        },
+        {
+            "id": 101,
+            "name": "Extraction Ticket",
+            "desc": "Pode ser usado para realizar 1 extração.",
+            "flavor": "Um item consumível tecido de Lunacy, a fonte da energia extrativa de Mephistopheles.\nParece uma folha fina de papel à primeira vista, mas algo parece estar pulsando por dentro."
+        },
+        {
+            "id": 102,
+            "name": "Decaextraction Ticket",
+            "desc": "Pode ser usado para realizar 10 extrações.",
+            "flavor": "Um item consumível tecido de Lunacy, a fonte da energia extrativa de Mephistopheles.\nParece uma folha fina de papel à primeira vista, mas algo parece estar pulsando por dentro."
+        },
+        {
+            "id": 103,
+            "name": "3★ Guarantee Decaextraction Ticket",
+            "desc": "Pode ser usado para executar 10 extrações onde uma Identidade 3★ certamente aparecerá.",
+            "flavor": "Um bilhete especial com uma marca nele. Ele pode extrair uma Identidade de um mundo de possibilidades improváveis ​​com certeza. O papel está batendo e pulsando ferozmente."
+        },
+        {
+            "id": 104,
+            "name": "[Season 1] 3★ Guarantee Decaextraction Ticket",
+            "desc": "Pode ser usado para executar 10 extrações onde uma Identidade 3★ da [Temporada 1] tem a garantia de aparecer.",
+            "flavor": "Um bilhete especial com uma marca nele. Ele pode extrair uma Identidade de um mundo de possibilidades improváveis ​​com certeza. O papel está batendo e pulsando ferozmente."
+        },
+        {
+            "id": 105,
+            "name": "[Season 2] 3★ Guarantee Decaextraction Ticket",
+            "desc": "Pode ser usado para executar 10 extrações onde uma Identidade 3★ da [Temporada 2] certamente aparecerá.",
+            "flavor": "Um bilhete especial com uma marca nele. Ele pode extrair uma Identidade de um mundo de possibilidades improváveis ​​com certeza. O papel está batendo e pulsando ferozmente."
+        },
+        {
+            "id": 106,
+            "name": "[Season 3] 3★ Guarantee Decaextraction Ticket",
+            "desc": "Pode ser usado para executar 10 extrações onde uma Identidade 3★ da [Temporada 3] certamente aparecerá.",
+            "flavor": "Um bilhete especial com uma marca nele. Ele pode extrair uma Identidade de um mundo de possibilidades improváveis ​​com certeza. O papel está batendo e pulsando ferozmente."
+        },
+        {
+            "id": 201,
+            "name": "Thread",
+            "desc": "Usado para a vinculação de identidades e a fiação de E.G.O.",
+            "flavor": "Thread é um objeto parecido com uma corda concebido para amarrar todas as possibilidades em um só lugar.\nNossa empresa está utilizando Thread de várias maneiras, como Uptying Identities ou Threadspinning E.G.O para entendê-lo melhor."
+        },
+        {
+            "id": 211,
+            "name": "Identity Training Ticket I",
+            "desc": "Concede 50 XP de Identidade.",
+            "flavor": "Um bilhete carregando possibilidades do passado, presente e futuro.\n“Descobri que um pensamento de algo que eu nunca havia experimentado se plantou firmemente em minha cabeça.”"
+        },
+        {
+            "id": 212,
+            "name": "Identity Training Ticket II",
+            "desc": "Concede 200 XP de Identidade.",
+            "flavor": "Um bilhete carregando possibilidades do passado, presente e futuro.\n“Hmhm~ Eu nunca estive no bairro sul antes, então por que parece tão familiar…?”"
+        },
+        {
+            "id": 213,
+            "name": "Identity Training Ticket III",
+            "desc": "Concede 1000 XP de Identidade.",
+            "flavor": "Um bilhete carregando possibilidades do passado, presente e futuro.\n“…Se eu pudesse ter tido algo tão conveniente no passado, essas dificuldades de pesadelo teriam sido tão simples de superar.”"
+        },
+        {
+            "id": 214,
+            "name": "Identity Training Ticket IV",
+            "desc": "Concede 3000 XP de Identidade.",
+            "flavor": "Um Ticket brilhando com possibilidades que experimentamos, estamos experimentando e experimentaremos.\n\"Este é um sentimento não muito diferente de ter memórias que não experimentamos forçadas em nós. Este não é o sentimento mais agradável, mas certamente é eficiente."
+        },
+        {
+            "id": 221,
+            "name": "Level Boost Ticket I",
+            "desc": "Aumenta o nível de uma Identidade para até 10.",
+            "flavor": "Um bilhete de desengajamento de limite que permite que uma Identidade mantenha experiência excedente.\n“Oho! Minha estrutura se tornou mais apta do que nunca para promulgar justiça!”"
+        },
+        {
+            "id": 222,
+            "name": "Level Boost Ticket II",
+            "desc": "Aumenta o nível de uma Identidade para até 20.",
+            "flavor": "Um tíquete de desengajamento de limite que permite que uma Identidade mantenha experiência excedente.\n“É… estranhamente calmante. Sinto que posso fazer coisas que não conseguia antes.”"
+        },
+        {
+            "id": 223,
+            "name": "Level Boost Ticket III",
+            "desc": "Aumenta o nível de uma Identidade para até 30.",
+            "flavor": "Um tíquete de desativação de limite que permite que uma Identidade mantenha experiência excedente.\n“Essa coisa seria uma ameaça real se estivesse disponível durante a guerra. Imagine criar veteranos em meros segundos.”"
+        },
+        {
+            "id": 224,
+            "name": "Level Boost Ticket IV",
+            "desc": "Aumenta o nível de uma Identidade para até 40.",
+            "flavor": "Um tíquete de desativação de limite que permite que uma Identidade tenha experiência excedente. \n\"O.P. Para me dar anos de experiência no uso de uma técnica que nunca usei antes... não há satisfação aqui. Revoltante.\""
+        },
+        {
+            "id": 231,
+            "name": "Identity Takeoff Ticket",
+            "desc": "Aumenta o nível de uma Identidade para até 40 e o Nível Uptie para o Nível 4.",
+            "flavor": "Rasgue este bilhete para ativá-lo.\nEle rasga o espaço-tempo, amarrando e aprimorando uma Identidade a uma velocidade ridícula.\nEle faz um som bem viciante quando rasga; faz com que a pessoa queira rasgar mais bilhetes."
+        },
+        {
+            "id": 301,
+            "name": "Enkephalin Box",
+            "desc": "Recupera 60 Encefalinas quando usado.",
+            "flavor": "Um recipiente estável armazenando Encefalina líquida.\n[CUIDADO] Manusear esta caixa sem seguir os procedimentos prescritos pode resultar em acidentes como vazamento de Encefalina.\nA ingestão descontrolada de Encefalina pode causar uma ampla gama de sintomas psicopatológicos não verificados."
+        },
+        {
+            "id": 401,
+            "name": "Thread Crate",
+            "desc": "Abra para receber de 1 a 3 fios de linha.",
+            "flavor": "Uma caixa de possibilidades empacotadas.\nNinguém sabe o quanto você pode tirar dela."
+        },
+        {
+            "id": 1101,
+            "name": "[Season 1] Egoshard Crate",
+            "desc": "Disponível para receber de 1 a 3 fragmentos de ego de pecadores aleatórios.",
+            "flavor": "Egoshards foram coletados aleatoriamente e armazenados nessas caixas. Seu conteúdo é um mistério.\nQuando você segura um em um lugar tranquilo, você pode ouvir pequenos barulhos."
+        },
+        {
+            "id": 1201,
+            "name": "[Season 1] Nominable Egoshard Crate",
+            "desc": "Disponível para receber de 1 a 3 Fragmentos de Egos de um Pecador de sua escolha.",
+            "flavor": "Uma caixa que rende Egoshards of a Sinner que você escolher.\nDe acordo com Faust, seu conteúdo é determinado quando um gerente toma sua decisão."
+        },
+        {
+            "id": 1102,
+            "name": "[Season 2] Egoshard Crate",
+            "desc": "Disponível para receber de 1 a 3 fragmentos de ego de pecadores aleatórios.",
+            "flavor": "Egoshards foram coletados aleatoriamente e armazenados nessas caixas. Seu conteúdo é um mistério.\nQuando você segura um em um lugar tranquilo, você pode ouvir pequenos barulhos."
+        },
+        {
+            "id": 1202,
+            "name": "[Season 2] Nominable Egoshard Crate",
+            "desc": "Disponível para receber de 1 a 3 Fragmentos de Egos de um Pecador de sua escolha.",
+            "flavor": "Uma caixa que rende Egoshards of a Sinner que você escolher.\nDe acordo com Faust, seu conteúdo é determinado quando um gerente toma sua decisão."
+        },
+        {
+            "id": 1103,
+            "name": "[Season 3] Egoshard Crate",
+            "desc": "Disponível para receber de 1 a 3 Egoshards aleatórios.",
+            "flavor": "Egoshards foram coletados aleatoriamente e armazenados nessas caixas. Seu conteúdo é um mistério.\nQuando você segura um em um lugar tranquilo, você pode ouvir pequenos barulhos."
+        },
+        {
+            "id": 1203,
+            "name": "[Season 3] Nominable Egoshard Crate",
+            "desc": "Disponível para receber de 1 a 3 Fragmentos de Egos de um Pecador de sua escolha.",
+            "flavor": "Uma caixa que rende Egoshards of a Sinner que você escolher.\nDe acordo com Faust, seu conteúdo é determinado quando um gerente toma sua decisão."
+        },
+        {
+            "id": 10101,
+            "name": "[Season 1] Yi Sang’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Yi Sang no Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto dentro da vida do Pecador, condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10201,
+            "name": "[Season 1] Faust’s Egoshard",
+            "desc": "Usado para comprar Identidades de Fausto, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto dentro da vida do Pecador, condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10301,
+            "name": "[Season 1] Don Quixote’s Egoshard",
+            "desc": "Usado para comprar Identidades de Dom Quixote, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto dentro da vida do Pecador, condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10401,
+            "name": "[Season 1] Ryōshū’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Ryōshū no Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10501,
+            "name": "[Season 1] Meursault’s Egoshard",
+            "desc": "Usado para comprar Identidades de Meursault, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10601,
+            "name": "[Season 1] Hong Lu’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Hong Lu no Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10701,
+            "name": "[Season 1] Heathcliff’s Egoshard",
+            "desc": "Usado para comprar Identidades de Heathcliff, E.G.O e Fio do Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10801,
+            "name": "[Season 1] Ishmael’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Ishmael no Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10901,
+            "name": "[Season 1] Rodion’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fios de Rodya no Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 11001,
+            "name": "[Season 1] Sinclair’s Egoshard",
+            "desc": "Usado para comprar Identidades de Sinclair, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 11101,
+            "name": "[Season 1] Outis’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fios de Outis no Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 11201,
+            "name": "[Season 1] Gregor’s Egoshard",
+            "desc": "Usado para comprar Identidades de Gregor, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10001,
+            "name": "Season 1 [Selected Sinner]’s Egoshard",
+            "desc": "Para exibição detalhada da probabilidade de aparecimento de mercadorias (traduza apenas o nome)",
+            "flavor": ""
+        },
+        {
+            "id": 10102,
+            "name": "[Season 2] Yi Sang’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Yi Sang no Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10202,
+            "name": "[Season 2] Faust’s Egoshard",
+            "desc": "Usado para comprar Identidades de Fausto, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10302,
+            "name": "[Season 2] Don Quixote’s Egoshard",
+            "desc": "Usado para comprar Identidades de Dom Quixote, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10402,
+            "name": "[Season 2] Ryōshū’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Ryōshū no Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto dentro da vida do Pecador, condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10502,
+            "name": "[Season 2] Meursault’s Egoshard",
+            "desc": "Usado para comprar Identidades de Meursault, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto dentro da vida do Pecador, condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10602,
+            "name": "[Season 2] Hong Lu’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Hong Lu no Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto dentro da vida do Pecador, condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10702,
+            "name": "[Season 2] Heathcliff’s Egoshard",
+            "desc": "Usado para comprar Identidades de Heathcliff, E.G.O e Fio do Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10802,
+            "name": "[Season 2] Ishmael’s Egoshard",
+            "desc": "Usado para comprar Identidades de Ishmael, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10902,
+            "name": "[Season 2] Rodion’s Egoshard",
+            "desc": "Usado para comprar Identidades de Rodion, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 11002,
+            "name": "[Season 2] Sinclair’s Egoshard",
+            "desc": "Usado para comprar Identidades de Sinclair, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 11102,
+            "name": "[Season 2] Outis’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fios de Outis no Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 11202,
+            "name": "[Season 2] Gregor’s Egoshard",
+            "desc": "Usado para comprar Identidades de Gregor, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10103,
+            "name": "[Season 3] Yi Sang’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Yi Sang no Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10203,
+            "name": "[Season 3] Faust’s Egoshard",
+            "desc": "Usado para comprar Identidades de Fausto, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10303,
+            "name": "[Season 3] Don Quixote’s Egoshard",
+            "desc": "Usado para comprar Identidades de Dom Quixote, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10403,
+            "name": "[Season 3] Ryōshū’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Ryōshū no Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10503,
+            "name": "[Season 3] Meursault’s Egoshard",
+            "desc": "Usado para comprar Identidades de Meursault, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10603,
+            "name": "[Season 3] Hong Lu’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fio de Hong Lu no Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10703,
+            "name": "[Season 3] Heathcliff’s Egoshard",
+            "desc": "Usado para comprar Identidades de Heathcliff, E.G.O e Fio do Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10803,
+            "name": "[Season 3] Ishmael’s Egoshard",
+            "desc": "Usado para comprar Identidades de Ishmael, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10903,
+            "name": "[Season 3] Rodion’s Egoshard",
+            "desc": "Usado para comprar Identidades de Rodion, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 11003,
+            "name": "[Season 3] Sinclair’s Egoshard",
+            "desc": "Usado para comprar Identidades de Sinclair, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 11103,
+            "name": "[Season 3] Outis’s Egoshard",
+            "desc": "Usado para comprar Identidades, E.G.O e Fios de Outis no Dispenser.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 11203,
+            "name": "[Season 3] Gregor’s Egoshard",
+            "desc": "Usado para comprar Identidades de Gregor, E.G.O e Fio do Distribuidor.",
+            "flavor": "Momentos fugazes de qualquer ponto no tempo do Pecador condensados ​​em forma física. Os cacos flutuam no ar.\nPossibilidades são coisas transitórias; elas flutuam no reino da incerteza a menos que sejam aproveitadas."
+        },
+        {
+            "id": 10002,
+            "name": "Season 2 [Selected Sinner]’s Egoshard",
+            "desc": "Para exibição detalhada da probabilidade de aparecimento de mercadorias (traduza apenas o nome)",
+            "flavor": ""
+        },
+        {
+            "id": 4,
+            "name": "Yisang [Ideality]",
+            "desc": "Para exibir produtos de teto (traduza apenas o nome)",
+            "flavor": ""
+        },
+        {
+            "id": 20001,
+            "name": "Bus-modifying Scrap",
+            "desc": "Lixo diverso como pratos enferrujados e parafusos arrancados das costas de caranguejos de lixo.\nPode ser usado para modificar Mephistopheles.",
+            "flavor": ""
+        },
+        {
+            "id": 20002,
+            "name": "Rare Horseshoe with Bus-modifying Scrap",
+            "desc": "Um grande item em forma de ferradura tirado do king trash crab.\nPoderia substituir vários pedaços de sucata, ou assim nos disseram.",
+            "flavor": ""
+        },
+        {
+            "id": 5,
+            "name": "Egoshards",
+            "desc": "Para exposição de produtos em máquinas de venda automática (traduza apenas o nome)",
+            "flavor": ""
+        },
+        {
+            "id": 20009,
+            "name": "Trinkets Sack",
+            "desc": "Uma sacola cheia de bugigangas e decorações retiradas às pressas da Fábrica de Presentes.\nDom Quixote fará bom uso delas para enfeitar os interiores de Mefistófeles.",
+            "flavor": ""
+        },
+        {
+            "id": 20010,
+            "name": "Huge Trinkets Sack",
+            "desc": "Um enorme saco cheio até a borda com bugigangas e decorações da Gift Factory.\nDom Quixote fará bom uso delas para enfeitar os interiores de Mefistófeles.",
+            "flavor": ""
+        },
+        {
+            "id": 20012,
+            "name": "Bloodied Scabbard",
+            "desc": "Aqueles que empunham lâminas em vida deixam para trás bainhas ensanguentadas na morte.\nA verdadeira morada daqueles que trilham o caminho das lâminas é sua bainha.",
+            "flavor": ""
+        },
+        {
+            "id": 20013,
+            "name": "Resentful Scabbard",
+            "desc": "Aquele que empunha sua lâmina com profundo ressentimento é chamado de Demônio da Lâmina.\nDemônio da Lâmina não precisa mais de bainha; ainda assim, eles a carregam, pois esse ressentimento é tingido com um apego persistente.",
+            "flavor": ""
+        },
+        {
+            "id": 20017,
+            "name": "Pocket Watch",
+            "desc": "Cada um tem seu próprio relógio, com escalas de tempo variadas.\nTempo que passa rápido. Tempo que leva.\nAs horas estão sempre desalinhadas.",
+            "flavor": ""
+        },
+        {
+            "id": 20018,
+            "name": "Pocket Watch Bundle",
+            "desc": "O mesmo destino aguarda cada relógio.\nAs horas finalmente se alinham quando os ponteiros param de marcar os segundos, quando alguém respira sua última lufada de ar.",
+            "flavor": ""
+        },
+        {
+            "id": 20020,
+            "name": "Civilian Recov. Pack",
+            "desc": "Usado para comprar várias recompensas do menu Troca de Recompensas.\n\n<color=#a16a3b>Aviso aos Agentes de Limpeza: coletem e armazenem as peças de um único passageiro neste pacote. Não importa o quão difícil possa parecer coletar suas peças, observe que há um único fio de veia conectando as peças do passageiro. Imagine que você está girando uma bola de lã em forma e pacientemente colete-as uma por uma.</color>",
+            "flavor": ""
+        },
+        {
+            "id": 20021,
+            "name": "Fixer Recov. Pack",
+            "desc": "Raramente aparece. Convertido para 20 Pacotes de Recuperação Civil imediatamente após a aquisição.\n\n<color=#a16a3b>Às vezes, você pode ter que trabalhar em passageiros equipados com próteses.\nObserve que mesmo próteses de corpo inteiro não removem o cérebro do passageiro.\nQuaisquer partes protéticas reconhecidas pelo cérebro como o próprio corpo do passageiro serão conectadas por veias, então não há necessidade de se preocupar em misturá-las e combiná-las.\nLembre-se: o sangue é mais espesso que a água.</color>",
+            "flavor": ""
+        },
+        {
+            "id": 232,
+            "name": "Takeoff Module - ID Uptie",
+            "desc": "Aumenta o nível de Uptie de uma identidade para o nível 4.",
+            "flavor": "Módulo Rapid Identity Uptie desenvolvido pela equipe de P&D da LCA.\nInsira à força os fios brilhantes e teça os fragmentos juntos, elevando rapidamente o nível Uptie para um certo nível.\nEmbora aqueles fora do espelho possam não saber, essa injeção devastadora varre a destruição de curta duração através do espelho."
+        },
+        {
+            "id": 233,
+            "name": "Takeoff Module - E.G.O Spinning [WAW] x1",
+            "desc": "Aumenta o nível de Threadspinning de um E.G.O até o nível 4. (Utilizável apenas em E.G.Os nível WAW ou inferior)",
+            "flavor": "Módulo E.G.O Threadspinning desenvolvido pela equipe de P&D da LCA.\nTece os fios brilhantes com vários fragmentos, aumentando o nível do Threadspinning E.G.O para um certo nível em um ritmo acelerado.\nAinda não se sabe quanta mais dessa pressão o coração conhecido como E.G.O... pode lidar com o Threadspinning desses E.G.Os baseados em psicomento anormal tão descuidadamente por conveniência."
+        },
+        {
+            "id": 501,
+            "name": "Nominable S1 Identity Ticket",
+            "desc": "Use este item para selecionar uma Identidade da Temporada 1 (incluindo Identidades de Evento) para obter.",
+            "flavor": "Um bilhete capaz de observar e extrair uma Identidade de um período específico dentro da busca da equipe LCB por Golden Boughs.\n'A capacidade de mirar e extrair um período específico no qual uma Identidade de um Mirror World observado demonstra o triunfo tecnológico vastamente significativo da Limbus Company. - LCA Mirror World Observatorium Department Mirror Researcher'"
+        },
+        {
+            "id": 601,
+            "name": "Nominable S1 Battle Pass E.G.O Ticket",
+            "desc": "Use este item para selecionar um Passe de Batalha da Temporada 1 E.G.O para obter.",
+            "flavor": "Um bilhete capaz de observar e retirar um E.G.O de um período específico dentro da busca da equipe LCB por Golden Boughs.\n'Arrastar um E.G.O, observado dentro de um período específico das braças profundas, é uma pesquisa muito mais complicada do que tornar Identidades selecionáveis. Fuhu. - Pesquisador de Observação do Departamento do Observatório do Mundo Espelho LCA'"
+        },
+        {
+            "id": 12004,
+            "name": "Season 4 Uptie & Threadspinning only Shard (Universal)",
+            "desc": "Pode ser usado para Uptie Identities e Threadspin E.G.O para todos os Sinners.",
+            "flavor": "Um fragmento universal que pode ser usado para Uptie ou Threadspin Identities & E.G.O para todos os Sinners.\nNo entanto, esses fragmentos não podem ser usados ​​para extrair Identidades ou E.G.O, não importa quantos desses fragmentos alguém colete.\n'Esses fragmentos são produtos de nossa pesquisa sobre a natureza omnitransformativa dos Golden Boughs; eles podem ser usados ​​para preencher quaisquer braças ou mundos de espelhos. Hein? Extrações? Claro que não. Sua natureza de tamanho único para todos os mundos significaria que ele obviamente não pode ter sido feito *para* nenhum mundo específico, certo? - Pesquisador Chefe do Departamento do Observatório de Mundos Espelhos do LCA'"
+        }
+    ]
+}

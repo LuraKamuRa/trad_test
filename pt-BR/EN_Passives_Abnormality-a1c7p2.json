@@ -1,0 +1,54 @@
+{
+  "dataList": [
+    {
+      "id": 838101,
+      "name": "Festival of Wonders",
+      "desc": "Ganho 1 [[suporte]] Toda vez que esta unidade aplica um buff positivo a outros aliados com seus efeitos de habilidade (uma vez por tipo de buff)\n\nTurn Start: Gain [[Bracket]] igual ao número de outros aliados (máximo 3)\nTurn End: Heal SP igual a [[suporte]] em si (não é ativado em -45 sp)\n\nTurn End: Aos 10+ [[Bracket]], use uma habilidade poderosa na próxima curva (no entanto, se 'o desfile se repete para a eternidade' estiver ativo, esse efeito não é ativado)"
+    },
+    {
+      "id": 838102,
+      "name": "The Parade's Lady",
+      "desc": "Turn Start: Gain 8 [[Bracket]]\n- A cada morte de aliada, ganhe 1 menos [[suporte]] no início da curva\nTurn End: Se esta unidade não sofreu nenhum dano da HP nesta curva, ganhe 2 [[suporte]] no próximo turno"
+    },
+    {
+      "id": 838103,
+      "name": "The Parade Repeats for Eternity",
+      "desc": "Turn End: Se em 5+ [[suporte]], use uma habilidade poderosa na próxima vez"
+    },
+    {
+      "id": 838104,
+      "name": "Parade of Happiness",
+      "desc": "Ganha um novo padrão quando a HP desta unidade cai para 66% ou menos pela primeira vez\n\nApós a mudança de padrão,\n- Aumente os valores de velocidade min e máxima em 1\n- Converta [[Bracket]] em Self para [[Bracket]]\n- Todos os aliados ganham 3 [[suporte]] e 3 [[suporte]] a cada turno"
+    },
+    {
+      "id": 838105,
+      "name": "Eternal Parade of Happiness",
+      "desc": "Ganha um novo padrão quando a HP desta unidade cai para 33% ou menos pela primeira vez\n\nApós a mudança de padrão,\n- Aumente os valores de velocidade min e máxima em 2\n- usa uma habilidade poderosa; Em seguida, enfraquece as resistências contra a barra, Pierce e Blunt (+0,5)\n- Converter [[Bracket]] e [[Bracket]] em Self para [[Bracket]]\n- Todos os aliados ganham 5 [[suporte]] e 5 [[suporte]] a cada turno"
+    },
+    {
+      "id": 838106,
+      "name": "This isn't how it ends",
+      "desc": "Turn End: Se não houver aliados sobreviventes nem aliados de backup, consuma todos [[suporte]] e [[suporte]] no próximo turno e fique escalonado (é ativado imediatamente se não houver aliados sobreviventes no Start Start)\n\nNa curva depois que esta unidade estiver escalonada, convocar 2 Fisos de Bloods"
+    },
+    {
+      "id": 838107,
+      "name": "Bloodfeast",
+      "desc": "Se esta unidade estiver em campo ou for uma das unidades que podem aparecer neste estágio, aumente o valor [[suporte]] pela quantidade de dano [[suporte]] recebido coletivamente por todas as unidades. \nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha preenche a superfície."
+    },
+    {
+      "id": 838108,
+      "name": "Starved and Withered",
+      "desc": "Ganha [[suporte]] no início do encontro"
+    },
+    {
+      "id": 838901,
+      "name": "The Knight of the White Moon",
+      "desc": "Danos causados ​​-20%\nGanhe 3 [[suporte]] no Clash Lose"
+    },
+    {
+      "id": 838902,
+      "name": "A Close Match",
+      "desc": "Com mais de 10 confrontos contra o mesmo inimigo, ganham aleatoriamente ou perdem o poder de conflito por (contagem de choque / 10) em um confronto. (arredondado para baixo)"
+    }
+  ]
+}

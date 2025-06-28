@@ -1,0 +1,144 @@
+{
+  "dataList": [
+    {
+      "id": 108001,
+      "name": "Sin Resistance",
+      "desc": "A menos que esta unidade esteja escalada ou quebrada, tome 50% menos dano"
+    },
+    {
+      "id": 108002,
+      "name": "Resonating Tremor",
+      "desc": "Quando atingido, infligir +2 [[suporte]] contra o atacante\nSe o alvo tiver [[suporte]], infligir 2 [[suporte]] contra todos os inimigos em golpes.\nApós o ataque: se o alvo for derrotado, infligir +4 [[suporte]] contra todos os inimigos"
+    },
+    {
+      "id": 108101,
+      "name": "Sin Resistance",
+      "desc": "A menos que esta unidade esteja escalada ou quebrada, tome 80% menos dano [[suporte]]"
+    },
+    {
+      "id": 108102,
+      "name": "Infectious Gloom",
+      "desc": "Turn Start: Inflight 5 [[Bracket]] contra todos os inimigos, exceto aquele com o máximo de SP\nApós o ataque: se o inimigo for derrotado, todos os inimigos perdem 10 sp; Então, infligir 3 [[suporte]] e +2 [[backet]] contam contra todos os inimigos"
+    },
+    {
+      "id": 9018101,
+      "name": "Teeth",
+      "desc": "On Hit, Heal 5 HP. 50% de chance de infligir 1 [[suporte]]"
+    },
+    {
+      "id": 9018102,
+      "name": "Lantern",
+      "desc": "Início de combate: se esta unidade for direcionada por mais de 2 unidades, ganha 1 [[suporte]], 1 [[backet]] e 1 [[bracket]]]"
+    },
+    {
+      "id": 9018103,
+      "name": "Censored Courage",
+      "desc": "Após o ataque: se o alvo for escalonado ou derrotado, aumente o máximo de HP desta unidade em 20% do HP máximo no início do encontro (máximo +100%)"
+    },
+    {
+      "id": 9018104,
+      "name": "Censored Justice",
+      "desc": "Turn End: Se esta unidade falhou em atingir suas habilidades de ataque, aumente os valores de velocidade min e máxima por 1 e ganhe 3 [[suporte]] Próxima turno"
+    },
+    {
+      "id": 9018105,
+      "name": "Oddly Uncanny Lantern",
+      "desc": "Início de combate: Ganho 1 [[suporte]] para cada identidade que segmentou esta unidade (máximo 5)\nInício de combate: se todos os inimigos atacarem esta unidade, peso ATK +1\n- Ganhar nível de ofensa igual ao número de inimigos; Quando esta unidade cura, curar 5 hp adicionais"
+    },
+    {
+      "id": 9018106,
+      "name": "BLACK Type Weapon",
+      "desc": "On Hit, infligir danos à HP e SP"
+    },
+    {
+      "id": 9018201,
+      "name": "Censored Wisdom",
+      "desc": "Turn Start: em menos de 0 sp, cura 5 ~ 20 sp"
+    },
+    {
+      "id": 9018202,
+      "name": "Censored Temperance",
+      "desc": "Quando atingido, ganho 1 [[suporte]] e 1 [[suporte]] próximo turno (máximo 2)"
+    },
+    {
+      "id": 107901,
+      "name": "My Siblings Call to Me",
+      "desc": "Turn End: Para cada 3% faltando HP no Self, ganhe 1 ofensa ao nível. (Máx 5)\nTurn End: Ganho +1 min e velocidade máxima Próxima curva para cada 300 [[suporte]]]\nO HP desta unidade não pode ser reduzido abaixo de 60%."
+    },
+    {
+      "id": 107902,
+      "name": "Hardblood",
+      "desc": "Início de combate: Ganho 1 [[suporte]]\n- [[Bracket]] não pode cair abaixo de 1\n- Aos 10+ [[suporte]], converta -os em [[suporte]].\n- Aos 20+ [[Bracket]], converta -os em [[suporte]].\nGanho Min & Max Speed ​​com base no estágio desse efeito (Máx 2)\nSe esta unidade consumir [[suporte]] e cair abaixo dos limites acima, reverte para os estágios anteriores de acordo"
+    },
+    {
+      "id": 107903,
+      "name": "They Crave Blood",
+      "desc": "Turn End: Se em pânico, recupere -se do pânico e consuma 50 [[Bracket]] para ganhar 3 [[suporte]]]\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 30 [[Bracket]], 3 [[bracket]] e 2 [[bracket]]]"
+    },
+    {
+      "id": 107904,
+      "name": "Yearning for Blood",
+      "desc": "Início de combate: ganho [[suporte]]"
+    },
+    {
+      "id": 107905,
+      "name": "More Bloodfeast",
+      "desc": "Se o alvo for derrotado no final da habilidade de ataque desta unidade, aumente [[suporte]] pelo Max HP do alvo HP"
+    },
+    {
+      "id": 108201,
+      "name": "Observation",
+      "desc": "Encontro Iniciar: Aplique 1 [[Bracket]] em todos os inimigos; Então, ganha [[suporte]] potência e contagem igual ao número de unidades com [[suporte]]\n\nTurn Start: Aplique 1 [[Bracket]] contra alvos sem [[suporte]]\n\nPara cada 10 [[suporte]] no alvo, infligir + 1 a mais [[suporte]] Potência e conte com as habilidades desta unidade (máximo 3)"
+    },
+    {
+      "id": 108202,
+      "name": "Adaptation",
+      "desc": "Ganho 1 [[suporte]] potência toda vez que esta unidade causa danos aos efeitos da habilidade de ataque (15 por turno)\n- Se o alvo tiver mais de 15 [[suporte]], obtenha 1 potência adicional [[backet]] a cada golpe\n\nGanhe +1 [[Bracket]] Conta toda vez que esta unidade sofre danos dos efeitos de habilidade de ataque dos inimigos (15 por turno)\n- Se o alvo tiver mais de 15 [[suporte]], ganhe +1 adicional [[backet]] contagem com cada golpe recebido"
+    },
+    {
+      "id": 108203,
+      "name": "Defense Mechanism",
+      "desc": "Turn Start: Gain Shield igual a 30% da HP ausente (Shield HP não pode exceder 15% do máximo HP)\n- Se esta unidade tiver [[suporte]], perca ([[[suporte]] contagem x 1,5)% escudo HP\n- Shield recebe +30% mais danos dos efeitos [[Bracket]] e não perde a contagem [[Bracket]] quando abaixo de 3 [[suporte]] contagem\n\nTurn End: Se o escudo obtido devido a esse efeito for destruído, para o restante deste encontro, ganhe 1 [[suporte]] para cada instância em que o escudo foi destruído (máximo 5)"
+    },
+    {
+      "id": 108204,
+      "name": "Confirmation Bias",
+      "desc": "Turn End: Siphon 10 SP de alvos com SP mais alto do que esta unidade (máx. 3; em ordem decrescente de SP; não pode empilhar no mesmo alvo)\n(Não é ativado se Hohenheim estiver em pânico)"
+    },
+    {
+      "id": 108205,
+      "name": "Establish Hypothesis",
+      "desc": "Na curva 3: ganha um novo padrão e se prepara para usar uma habilidade poderosa.\nApós o tiro 3 terminou: o efeito acima é ativado quando esta unidade tem mais de 30 [[suporte]] contagem no final do turno\n\nSe esta unidade não sofreu nenhum dano à HP durante o período de preparação antes de usar a habilidade poderosa, melhore bastante a habilidade (não conta os danos causados ​​pelo Shield HP)"
+    },
+    {
+      "id": 108206,
+      "name": "Maladaptation",
+      "desc": "Quando enfraquecido devido a um evento de escolha, essa passiva substitui 「Adaptação」\n\nGanho 1 [[suporte]] potência toda vez que esta unidade causa danos aos efeitos da habilidade de ataque (15 por turno)\n- Se o alvo tiver mais de 15 [[suporte]], obtenha 1 potência adicional [[backet]] a cada golpe; No entanto, reduza o [[suporte] do alvo] por 3\n\nGanhe +1 [[Bracket]] Conta toda vez que esta unidade sofre danos dos efeitos de habilidade de ataque dos inimigos (15 por turno)\n- Se o alvo tiver 15+ [[suporte]], obtenha +1 contagem adicional [[backet]] com cada golpe; No entanto, reduza o [[suporte] do alvo] por 3"
+    },
+    {
+      "id": 108207,
+      "name": "Inadequate Defense Mechanism",
+      "desc": "Quando enfraquecido devido a um evento de escolha, esse passivo substitui 「Mecanismo de Defesa」\n\nTurn Start: Gain Shield igual a 15% da HP ausente (o Shield HP não pode exceder 5% do máximo HP)\n- Se esta unidade possui [[suporte]], perdem ([[[suporte]] contagem x 2)% escudo HP\n- Shield leva +60% mais danos dos efeitos [[Bracket]] e não perde a contagem [[Bracket]] quando abaixo de 3 [[suporte]] contagem\n\nTurn End: Se o escudo obtido devido a esse efeito for destruído, para o resto deste encontro, ganhe 2 [[suporte]] para cada instância em que o escudo foi destruído (máximo 10)"
+    },
+    {
+      "id": 108208,
+      "name": "Self-doubt",
+      "desc": "Quando enfraquecido devido a um evento de escolha, este passivo substitui 「Viés de confirmação」\n\nTurn Start: Lost 15 SP\nTurn End: Siphon 5 SP de alvos com SP mais alto do que esta unidade (Máx 3; em ordem decrescente de SP; não pode empilhar no mesmo alvo)\n(Não é ativado se Hohenheim estiver em pânico)"
+    },
+    {
+      "id": 108209,
+      "name": "Adaptation",
+      "desc": "Ganho 1 [[suporte]] potência toda vez que esta unidade causa danos aos efeitos da habilidade de ataque (15 por turno)\n- Se o alvo tiver mais de 15 [[suporte]], obtenha 1 potência adicional [[backet]] a cada golpe\n\nGanhe +1 [[Bracket]] Conta toda vez que esta unidade sofre danos dos efeitos de habilidade de ataque dos inimigos (15 por turno)\n- Se o alvo tiver mais de 15 [[suporte]], ganhe +1 adicional [[backet]] contagem com cada golpe recebido"
+    },
+    {
+      "id": 108210,
+      "name": "Defense Mechanism",
+      "desc": "Turn Start: Gain Shield igual a 30% da HP ausente (Shield HP não pode exceder 15% do máximo HP)\n- Se esta unidade tiver [[suporte]], perca ([[[suporte]] contagem x 1,5)% escudo HP\n- Shield recebe +100% mais danos dos efeitos [[suporte]]\n\nTurn End: Se o escudo obtido devido a esse efeito for destruído, para o restante deste encontro, ganhe 1 [[suporte]] para cada instância em que o escudo foi destruído (máximo 5)"
+    },
+    {
+      "id": 108211,
+      "name": "Maladaptation",
+      "desc": "Quando enfraquecido devido a um evento de escolha, essa passiva substitui 「Adaptação」\n\nGanho 1 [[suporte]] potência toda vez que esta unidade causa danos aos efeitos da habilidade de ataque (15 por turno)\n- Se o alvo tiver mais de 15 [[suporte]], obtenha 1 potência adicional [[backet]] a cada golpe; No entanto, reduza o [[suporte] do alvo] por 3\n\nGanhe +1 [[Bracket]] Conta toda vez que esta unidade sofre danos dos efeitos de habilidade de ataque dos inimigos (15 por turno)\n- Se o alvo tiver 15+ [[suporte]], obtenha +1 contagem adicional [[backet]] com cada golpe; No entanto, reduza o [[suporte] do alvo] por 3"
+    }
+  ]
+}

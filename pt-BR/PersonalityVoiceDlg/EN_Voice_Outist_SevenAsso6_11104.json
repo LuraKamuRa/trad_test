@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_11104_1",
+      "desc": "Aquisição de identidade",
+      "dlg": "HM, é outis. O que te traz aqui?"
+    },
+    {
+      "id": "lobby_morning_11104_1",
+      "desc": "Saudação matinal",
+      "dlg": "O trabalho está sob preparação a essa hora do dia, para que eu possa fazer pouco por você, mesmo que você me visite agora ... bem, acho que posso ouvir o que você tem a dizer."
+    },
+    {
+      "id": "lobby_noon_11104_1",
+      "desc": "Saudação da tarde",
+      "dlg": "Almoço? Ah, você pode deixar lá. Estou bastante ocupado com este documento ... oh, você estava pedindo para comer fora? Desculpe, não posso dedicar tempo a isso."
+    },
+    {
+      "id": "lobby_night_11104_1",
+      "desc": "Saudação noturna",
+      "dlg": "Você pode sair do escritório antes que eu faça - eu ficarei bem. É certo que os superiores assumam assuntos difíceis."
+    },
+    {
+      "id": "smalltalk_11104_1",
+      "desc": "Conversas #1",
+      "dlg": "Você poderia me pegar um chá preto? Aqui está o dinheiro que você precisa. Obtenha algo para você também."
+    },
+    {
+      "id": "smalltalk_11104_2",
+      "desc": "Conversas #2",
+      "dlg": "Embora eu não possa poupar muito tempo ... não consigo manter alguém esperando para sempre. Qual é o seu negócio?"
+    },
+    {
+      "id": "smalltalk_11104_3",
+      "desc": "Conversas #3",
+      "dlg": "Embora o trabalho de campo não seja tão ruim ... isso simplesmente não se compara ao conforto de sentar em uma mesa."
+    },
+    {
+      "id": "smalltalk_11104_4",
+      "desc": "Chat pós-uptie 1",
+      "dlg": "A Seção 6 pode estar no degrau inferior, mas tem sua parcela de indivíduos valiosos. Eu tenho notado mais deles ultimamente ...\nO gosto deles também combina com os meus."
+    },
+    {
+      "id": "smalltalk_11104_5",
+      "desc": "Chat pós-uptie 2",
+      "dlg": "... Com tudo isso dito, pretendo ouvir os pensamentos de alguém que conheço que posso confiar.\n... você está cochilando? HM, o trabalho deve ter usado você. Eu vou te dar meio dia de folga, então vá buscar o resto que você precisa. Podemos conversar depois que você se recuperar."
+    },
+    {
+      "id": "neglect_11104_1",
+      "desc": "Parado",
+      "dlg": "Este é o Outis, diretor da Seção 6 da filial do sul. Estou ausente agora; portanto, se você tiver algum assunto importante para compartilhar, deixe uma mensagem após o sinal sonoro."
+    },
+    {
+      "id": "gacksung_11104_1",
+      "desc": "Uptying",
+      "dlg": "Isso significa mais trabalho de campo para mim, não é ... bem, tudo bem. Não vou recusar experiência adicional."
+    },
+    {
+      "id": "formation_11104_1",
+      "desc": "Implantação",
+      "dlg": "Precisa de um comandante de campo?"
+    },
+    {
+      "id": "battleentry_11104_1",
+      "desc": "Entrada no palco",
+      "dlg": "…Vamos."
+    },
+    {
+      "id": "battle_select_11104_1",
+      "desc": "Visto em batalha",
+      "dlg": "Você tem uma opinião que deseja expressar?"
+    },
+    {
+      "id": "battle_endcommand_11104_1",
+      "desc": "Ataques iniciando",
+      "dlg": "Vou assumir o comando."
+    },
+    {
+      "id": "battle_enemy_break_11104_1",
+      "desc": "Inimigo cambaleia",
+      "dlg": "Você está cheio de lacunas."
+    },
+    {
+      "id": "battle_break_11104_1",
+      "desc": "Escalonado",
+      "dlg": "Kgh…"
+    },
+    {
+      "id": "battle_kill_11104_1",
+      "desc": "Inimigo morto",
+      "dlg": "Lá vai um."
+    },
+    {
+      "id": "battle_dead_11104_1",
+      "desc": "Morte",
+      "dlg": "Como eu temia ... não sou adequado para o campo ..."
+    },
+    {
+      "id": "choice_success_p_11104_2",
+      "desc": "Verifique se passou",
+      "dlg": "Assim como previsto."
+    },
+    {
+      "id": "choice_fail_n_11104_1",
+      "desc": "Verifique a falha",
+      "dlg": "Isso não foi ... não o que eu previ."
+    },
+    {
+      "id": "battle_clear_11104_1",
+      "desc": "Victory Cry",
+      "dlg": "Isso foi um bom constitucional. Vamos voltar ao escritório."
+    },
+    {
+      "id": "battle_clear_ex_11104_1",
+      "desc": "Condições extras cumpridas",
+      "dlg": "Rot Riot um pouco mais difícil do que eu pensava ... seria um desperdício limitar essas capacidades a uma mesa."
+    },
+    {
+      "id": "battle_defeat_11104_1",
+      "desc": "Derrota lamento",
+      "dlg": "TCH ... eu enferrujei muito cedo, não é?"
+    }
+  ]
+}

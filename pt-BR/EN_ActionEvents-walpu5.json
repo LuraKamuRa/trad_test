@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": 971038,
+      "name": "",
+      "desc": "Em meio a este lugar preenchido com azul-aura, um ser sombrio se aproxima de nós e estende a mão.\n\nNa palma do ser, há uma bala. Pulsa com uma aura agourenta.\n\n\"Esta é uma bala mágica que nunca vai perder, não importa o quê.\"\n\n'Mas ... tem uma condição. A bala final sempre voará em direção à que você mais ama.\n\n\"Se você ainda está disposto a demitir essa bala ou ter alguém que gostaria de atirar ... posso conceder isso a você.\"",
+      "options": [
+        {
+          "message": "Expressar dúvida.",
+          "messageDesc": "Execute uma verificação de vantagem do Pride & Invy para obter um presente sem palavras, por exemplo, um presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Expresse vontade de atirar na bala.",
+          "messageDesc": "Execute uma verificação de Wrath & Pride Advantage para obter um Pierce, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971039,
+      "name": "",
+      "desc": "Os tiros ecoam de uma distância.\n\nQuando procuramos o som, só nos encontramos os restos sangrentos de uma batalha.\n\nOs combatentes já devem ter deixado a cena; está quieto aqui.\n\nVárias engrenagens, agora inertes, espalharam o piso ensanguentado.\n\nEm meio a eles é uma cadeira intacta.\n\nHá um equipamento na cadeira que ainda está girando.",
+      "options": [
+        {
+          "message": "Sente -se.",
+          "messageDesc": "Execute uma verificação de vantagem do Pride & Invy para obter uma postura, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Passar por isso.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971040,
+      "name": "",
+      "desc": "Nos encontramos no que parecia ser um prédio de escritórios bastante vazio.\n\nHavia fixadores aqui, discutindo os detalhes de seu próximo contrato.\n\n'Entendi. Traremos apenas dois rifles para este contrato.\n\n\"Eu diria que precisamos de um rifle de assalto apenas por precaução.\"\n\n'Tudo bem para mim.'\n\nAssim que a discussão terminou, os fixadores pegaram suas mochilas e deixaram a sala.",
+      "options": [
+        {
+          "message": "Observe a mesa.",
+          "messageDesc": "Execute uma verificação de vantagem do Pride & Invy para obter um Pierce, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Siga -os lá fora.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971041,
+      "name": "",
+      "desc": "Eu posso ouvir os sons da montagem de armas e das páginas de livros invertidas.\n\nEste lugar parece ser uma espécie de instalação educacional. Bastante sério também.\n\nTalvez os pecadores possam aprender algo com um dos instrutores.",
+      "options": [
+        {
+          "message": "Aprenda CQB.",
+          "messageDesc": "Execute uma verificação de vantagem da ira e luxúria para obter uma postura, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Aprenda a arte da guerra.",
+          "messageDesc": "Execute uma verificação de Wrath & Envy Advantage para obter um presente sem palavras, por exemplo, um presente.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

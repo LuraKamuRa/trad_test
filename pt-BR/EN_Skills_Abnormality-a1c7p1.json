@@ -1,0 +1,407 @@
+{
+  "dataList": [
+    {
+      "id": 837101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Allez",
+          "desc": "[[Bracket]] infligir [[suporte]]\n[[Bracket]] Ganhe 5 [[Bracket]]\n[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coup Droit",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] A 7+ velocidade, infligir 3 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] A 7+ velocidade, infligir 3 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fente",
+          "desc": "[[Bracket]] em 7+ [[Bracket]], Power de moedas +2\n[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] A 7+ velocidade, infligir 3 [[suporte]] contagem"
+                },
+                {
+                  "desc": "[[Suporte]] +50% de dano no acerto crítico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Salut",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo, a moeda Power +1 (potência da moeda +1 para cada diferença de velocidade de 2; max 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +4 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] A 7+ velocidade, infligir 3 [[suporte]] e +1 [[suporte]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 5 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] A 7+ velocidade, infligir 3 [[suporte]] e +1 [[suporte]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 5 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] A 7+ velocidade, infligir 3 [[suporte]] e +1 [[suporte]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] +100% de dano no acerto crítico"
+                },
+                {
+                  "desc": "[[Bracket]] Deal +5% de dano para cada [[suporte]] no alvo (no máximo 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Parry",
+          "desc": "[[Bracket]] causar mais danos com base no número de confrontos (+10% mais danos a cada confronto, no máximo 50%)\n[[Bracket]] Ganhe 2 [[Bracket]] Próxima turno\n[[Bracket]] Ganhe 2 [[Bracket]] Próxima turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Défensive",
+          "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Cut You Up All Pretty!",
+          "desc": "[[Bracket]] Se o alvo tiver 6+ [[suporte]], Power Clash +1\n[[Bracket]] Power +1 para cada 5 [[suporte]] em Self (Máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] reutiliza a moeda ([[bracket]] estágio - 1) vezes (máximo 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Even Sharper",
+          "desc": "[[Bracket]] consome até 20 [[suporte]]; ganho 1 [[suporte]] e curam 3 sp para cada 10 [[suporte]] consumido\n- Se esta unidade falhou em consumir [[Bracket]] com essa habilidade, ganhe 30 [[Bracket]]\n[[Bracket]] Se o alvo tiver 6+ [[suporte]], Power Clash +1\n[[Bracket]] Power +1 para cada 5 [[suporte]] em Self (Máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "SNIP!!",
+          "desc": "[[Bracket]] consome até 30 [[suporte]]; ganho 1 [[suporte]] e curam 3 sp para cada 10 [[suporte]] consumido\n[[Bracket]] Se o alvo tiver [[suporte]], Power Clash +5\nHeal 5 SP em todos os acertos contra [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Cut You Up Too!",
+          "desc": "[[Bracket]] Peso ATK +1 para todas as etapas de [[Bracket]] (Máx 2)\n[[Bracket]] consome até 30 [[suporte]]; ganho 1 [[suporte]] e curam 3 sp para cada 10 [[suporte]] consumido\n[[Bracket]] Se o alvo tiver 6+ [[suporte]], Power Clash +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Now, It's Your Turn",
+          "desc": "[[Bracket]] Se o alvo tiver 6+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Cut You Together!",
+          "desc": "[[Bracket]] Peso ATK +1 para todas as etapas de [[suporte]]\n[[Bracket]] consome até 100 [[suporte]]; ganho 1 [[suporte]] e curam 3 sp para cada 10 [[suporte]] consumido\n[[Bracket]] Se o alvo tiver 6+ [[suporte]], Power Clash +2\n[[Bracket]] Consuma 10 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Ativa o [[suporte]] do alvo (máximo). O alvo perde 1 [[suporte]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ativa o [[suporte]] do alvo (máximo). O alvo perde 1 [[suporte]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ativa o [[suporte]] do alvo (máximo). O alvo perde 1 [[suporte]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Negância +40% mais danos para cada estágio [[suporte]] (máximo 120%)"
+                },
+                {
+                  "desc": "[[Bracket]] Se esse efeito de moeda matou o alvo, curará 50% dos danos causados ​​contra o alvo morto."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "How Discourteous!",
+          "desc": "[[SUPORTE]]\n[[Bracket]] Clash Power +1 para cada estágio [[suporte]] (máximo 3)\n[[Bracket]] Power +1 para cada 5 [[suporte]] em Self (Máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]] e +4 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Don't Need Ugly Things!!",
+          "desc": "[[SUPORTE]]\nPrioriza as metas com a menor porcentagem de HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo estiver em 30%- HP, mate o alvo"
+                },
+                {
+                  "desc": "[[Bracket]] Aumento [[Bracket]] em 30% do Max HP do inimigo derrotado"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 4 [[Bracket]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

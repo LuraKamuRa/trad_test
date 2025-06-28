@@ -1,0 +1,521 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "K Corp. Laboratory Lobby",
+            "content": "Assim que voltamos ao saguão, pudemos ver funcionários em pânico correndo na frente de Dongrang e Samjo."
+        },
+        {
+            "id": 1,
+            "model": "K사연구원3",
+            "teller": "Hurrying Researcher",
+            "title": "K Corp. Laboratory",
+            "content": "Sr. Dongrang... Um momento, por favor...!"
+        },
+        {
+            "id": 2,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Haha, vocês todos ficaram pálidos. Ah, me desculpem por um momento."
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<A situação parece bem tensa. É meio estranho ficar parado assim...>"
+        },
+        {
+            "id": 4,
+            "content": "Enquanto eu vagava pelo saguão murmurando coisas sem sentido para mim mesmo, Dom Quixote correu até uma prateleira."
+        },
+        {
+            "id": 5,
+            "model": "돈키호테",
+            "content": "Oho, que tipo de livros são esses? As imagens brilham intensamente!"
+        },
+        {
+            "id": 6,
+            "content": "Com um cantarolar alegre, ela pegou um livro de histórias."
+        },
+        {
+            "id": 7,
+            "content": "Dei uma espiada no livro que ela abriu."
+        },
+        {
+            "id": 8,
+            "content": "Yi Sang também voltou seu olhar para o livro, possivelmente incomodado com algo nele..."
+        },
+        {
+            "id": 9,
+            "content": "Logo, uma névoa dourada se desdobrou."
+        },
+        {
+            "id": 10,
+            "content": "<i>Era uma vez, quando todos estavam com a cabeça baixa e os olhos fixos no chão, havia uma pessoa que olhava para o céu.</i>"
+        },
+        {
+            "id": 11,
+            "content": "<i>Em seus olhos havia estrelas cintilantes.</i>"
+        },
+        {
+            "id": 12,
+            "content": "<i>Conectando as estrelas sem nome que ninguém mais olharia,</i>"
+        },
+        {
+            "id": 13,
+            "content": "<i>A pessoa deu-lhes nomes e inventou histórias para eles como quis.</i>"
+        },
+        {
+            "id": 14,
+            "content": "<i>As histórias são como novelos de linha sem fim;</i>"
+        },
+        {
+            "id": 15,
+            "content": "<i>Eles são desenhados e entrelaçados em um esforço para encontrar significado na falta de significado.</i>"
+        },
+        {
+            "id": 16,
+            "content": "<i>Todos os tipos de histórias do mundo, felizes e tristes, circulavam no céu noturno.</i>"
+        },
+        {
+            "id": 17,
+            "content": "<i>Então, um dia, a família da pessoa adoeceu gravemente e sua vida estava chegando ao fim.</i>"
+        },
+        {
+            "id": 18,
+            "content": "<i>Como em qualquer outro dia, a pessoa falou para o céu sobre a dor que sentia.</i>"
+        },
+        {
+            "id": 19,
+            "content": "<i>E então...</i>"
+        },
+        {
+            "id": 20,
+            "content": "<i>Uma gota de água caiu na cabeça da pessoa.</i>"
+        },
+        {
+            "id": 21,
+            "content": "<i>Olhando para cima, a pessoa encontrou a constelação falando com ela.</i>"
+        },
+        {
+            "id": 22,
+            "content": "<i>'Querida pessoa que me nomeou e me deu uma história, graças a você, fui lançado na terra e empurrado pelo fluxo do tempo, sentindo o mundo por completo.'</i>"
+        },
+        {
+            "id": 23,
+            "content": "<i>'Você sabia que as estrelas podem realizar desejos?'</i>"
+        },
+        {
+            "id": 24,
+            "content": "<i>'As lágrimas que derramei irão livrar você da sua dor.'</i>"
+        },
+        {
+            "id": 25,
+            "content": "<i>Depois disso, uma chuva caiu sobre o mundo por um dia e meio.</i>"
+        },
+        {
+            "id": 26,
+            "content": "<i>Todos os que foram pegos pela chuva ficaram curados.</i>"
+        },
+        {
+            "id": 27,
+            "content": "<i>A família doente da pessoa também recuperou a saúde.</i>"
+        },
+        {
+            "id": 28,
+            "content": "<i>Desde então, a pessoa e sua família, assim como todos os moradores da cidade, olham para o céu e falam sobre felicidade todas as noites.</i>"
+        },
+        {
+            "id": 29,
+            "model": "이스마엘",
+            "content": "Isso explica. Li que o Nest K tem o costume de andar do lado de fora sem guarda-chuva para ficar na chuva na noite de um certo mês todo ano..."
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "...Não me diga, estou sozinho nisso de novo? Nenhum de vocês deu uma olhada no guia de panfletos para o Nest e Backstreets da K Corp até agora? Ninguém?"
+        },
+        {
+            "id": 31,
+            "model": "로쟈",
+            "content": "Ah, aquela coisa... Eu usei a minha para matar alguns insetos... Então eu tenho que comprar uma... nova..."
+        },
+        {
+            "id": 32,
+            "model": "이스마엘",
+            "content": "Parece que essa é a hora de brincar, Rodya?!"
+        },
+        {
+            "id": 33,
+            "content": "Rodya não parecia estar brincando, mas Ishmael parecia não perceber."
+        },
+        {
+            "id": 34,
+            "model": "싱클레어",
+            "content": "A propósito, essa história... Parece semelhante ao que a ampola de regeneração faz, não é?"
+        },
+        {
+            "id": 35,
+            "model": "싱클레어",
+            "content": "Aquela chuva que te restaura a saúde..."
+        },
+        {
+            "id": 36,
+            "model": "그레고르",
+            "content": "Sim, então... Você está tentando dizer que foi feito de chuvas deixadas pelas estrelas?"
+        },
+        {
+            "id": 37,
+            "model": "로쟈",
+            "content": "Espera, não eram nanobots e não coisas aquosas em primeiro lugar?"
+        },
+        {
+            "id": 38,
+            "model": "단테",
+            "content": "<O que você acha, Fausto?>"
+        },
+        {
+            "id": 39,
+            "model": "파우스트",
+            "content": "Sou uma mulher da ciência. Prefiro julgamentos baseados em fatos do que em metáforas."
+        },
+        {
+            "id": 40,
+            "model": "파우스트",
+            "content": "Essa... chamada análise e interpretação de estrelas e nuvens pode ser uma área com a qual Yi Sang esteja mais familiarizado."
+        },
+        {
+            "id": 41,
+            "model": "파우스트",
+            "content": "Ele é um pesquisador como eu, mas não somos exatamente iguais."
+        },
+        {
+            "id": 42,
+            "model": "이상",
+            "content": "…"
+        },
+        {
+            "id": 43,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "É melhor nos apressarmos. A situação parece bem séria."
+        },
+        {
+            "id": 44,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ouvi dizer que eles conseguiram invadir todas as salas onde os experimentos são conduzidos desta vez."
+        },
+        {
+            "id": 45,
+            "model": "돈키호테",
+            "content": "Hmm? Este lugar não parece pacífico demais para uma situação tão terrível? Não vejo nenhum homem fugindo!"
+        },
+        {
+            "id": 46,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Parece que houve uma ordem de evacuação. No entanto, como você testemunhou da última vez, esta não é a primeira emergência que ocorreu esta semana. Eles podem estar preocupados que evacuar novamente possa interromper a política de semana de trabalho de 70 horas."
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<Trabalhar nesse tipo de lugar não é fácil, hein...>"
+        },
+        {
+            "id": 48,
+            "model": "오티스",
+            "content": "Não entendi. Como esse ataque foi possível? Não parecia uma estrutura que permitisse que intrusos entrassem furtivamente na sala sem serem detectados."
+        },
+        {
+            "id": 49,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Estamos com pouco tempo, então explicarei à medida que avançarmos."
+        },
+        {
+            "id": 50,
+            "model": "료슈",
+            "content": "Objeto."
+        },
+        {
+            "id": 51,
+            "model": "료슈",
+            "content": "Dê uma razão pela qual deveríamos ir com você."
+        },
+        {
+            "id": 52,
+            "model": "뫼르소",
+            "content": "De fato. O contrato foi cumprido."
+        },
+        {
+            "id": 53,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Isso é verdade. Mas, por mais que eu queira dar o Bough para você, ele foi tirado diante dos nossos olhos."
+        },
+        {
+            "id": 54,
+            "model": "료슈",
+            "content": "Hmgh... LIXO..."
+        },
+        {
+            "id": 55,
+            "model": "로쟈",
+            "content": "Isso é... realmente certo? Ei... O que o contrato diz exatamente?"
+        },
+        {
+            "id": 56,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Hm... Eu não saberia dizer, não sou muito versado em assuntos legais..."
+        },
+        {
+            "id": 57,
+            "content": "Em vez de argumentar como de costume, Samjo de repente começou a limpar os óculos."
+        },
+        {
+            "id": 58,
+            "model": "료슈",
+            "content": "S.A."
+        },
+        {
+            "id": 59,
+            "model": "싱클레어",
+            "content": "Senhor Samjo... Ela quer respostas..."
+        },
+        {
+            "id": 60,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Milímetros?"
+        },
+        {
+            "id": 61,
+            "model": "료슈",
+            "content": "S.A...!"
+        },
+        {
+            "id": 62,
+            "model": "싱클레어",
+            "content": "S-Samjo... Ela disse que vai atacar você dessa vez...!"
+        },
+        {
+            "id": 63,
+            "model": "료슈",
+            "content": "Errado. Eu disse que vou atacá-lo agora mesmo."
+        },
+        {
+            "id": 64,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "E-Isso é uma emergência, uma emergência!!! Você deveria subir, rápido!"
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<V-Vamos nos apressar por enquanto, Ryōshū...>"
+        },
+        {
+            "id": 66,
+            "model": "료슈",
+            "content": "Vou mostrar SANGRIA... Juro."
+        },
+        {
+            "id": 67,
+            "content": "Samjo nos mandou subir com urgência."
+        },
+        {
+            "id": 68,
+            "place": "Ruined K Corp. Laboratory Hallway",
+            "content": "O corredor que estava limpo e calmo horas atrás..."
+        },
+        {
+            "id": 69,
+            "content": "Agora se transformou em um caos total, cheio de gritos e pessoas fugindo."
+        },
+        {
+            "id": 70,
+            "content": "Um pesquisador estava chorando e agarrado a alguém que parecia ser um membro da aliança de libertação."
+        },
+        {
+            "id": 71,
+            "model": "K사연구원2",
+            "teller": "Dying Researcher",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ajude-me... Sr. Dongrang... Por favor, salve-me..."
+        },
+        {
+            "id": 72,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Meu funcionário... está implorando por ajuda, você não consideraria deixá-lo ir?"
+        },
+        {
+            "id": 73,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Se é inteligência que você quer, eu te darei. Estávamos planejando sair para um jantar de equipe amanhã, e o restaurante que reservamos serve uma carne tão deliciosa."
+        },
+        {
+            "id": 74,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Seria bem lamentável se o cheiro que nos espera amanhã viesse de incensos em um funeral em vez de carne na grelha. Você não concorda?"
+        },
+        {
+            "id": 75,
+            "model": "기술해방연합1",
+            "teller": "Alliance Member",
+            "title": "Technology Liberation Alliance",
+            "content": "Inteligência? Não precisamos dela."
+        },
+        {
+            "id": 76,
+            "model": "히스클리프",
+            "content": "Huh, você está entrando desarmado agora? O que aconteceu com seus robôs que lutavam por vocês, fracotes?"
+        },
+        {
+            "id": 77,
+            "model": "기술해방연합1",
+            "teller": "Alliance Member",
+            "title": "Technology Liberation Alliance",
+            "content": "Também não precisamos trazer nossos robôs."
+        },
+        {
+            "id": 78,
+            "model": "기술해방연합1",
+            "teller": "Alliance Member",
+            "title": "Technology Liberation Alliance",
+            "content": "Vejo muitos que parecem úteis aqui."
+        },
+        {
+            "id": 79,
+            "model": "오티스",
+            "content": "...Você está tentando...?"
+        },
+        {
+            "id": 80,
+            "model": "검문소경비2",
+            "teller": "Class 2 Excision Staff",
+            "title": "K Corp.",
+            "content": "Recebemos ordens para extirpar terroristas. Alvo: todas as partes."
+        },
+        {
+            "id": 81,
+            "model": "이스마엘",
+            "content": "Huff. Nós os superamos em número por uma larga margem. Pode ser um pouco injusto, mas... parece que não teremos problemas para derrotá-los."
+        },
+        {
+            "id": 82,
+            "model": "기술해방연합1",
+            "teller": "Alliance Member",
+            "title": "Technology Liberation Alliance",
+            "content": "A especialidade da Sra. Ran era sequestrar máquinas."
+        },
+        {
+            "id": 83,
+            "model": "기술해방연합1",
+            "teller": "Alliance Member",
+            "title": "Technology Liberation Alliance",
+            "content": "Ela tinha mais experiência em hackear do que em lutar."
+        },
+        {
+            "id": 84,
+            "model": "K사앰플기계",
+            "teller": "Ampule Helper",
+            "title": "K Corp.",
+            "content": "Bem-vindo. Aqui na K Corp, valorizamos sua segurança acima de tudo."
+        },
+        {
+            "id": 85,
+            "model": "검문소경비",
+            "teller": "Class 2 Excision Staff",
+            "title": "K Corp.",
+            "content": "Huh, espera... O que..."
+        },
+        {
+            "id": 86,
+            "model": "K사앰플기계",
+            "teller": "Ampule Helper",
+            "title": "K Corp.",
+            "content": "Para a segurança de todos, desertores que tentarem fugir da batalha serão injetados com uma ampola de decaimento de acordo com as regras regulatórias. A ampola será lançada se você deixar o raio de 120 metros da área de combate; você está a 49 metros de distância do perímetro."
+        },
+        {
+            "id": 87,
+            "model": "검문소경비",
+            "teller": "Class 2 Excision Staff",
+            "title": "K Corp.",
+            "content": "...Atirar..."
+        },
+        {
+            "id": 88,
+            "model": "해킹당한K사앰플기계",
+            "teller": "Ampule Helper",
+            "title": "K Corp.",
+            "content": "Se você não atacar o inimigo dentro dos próximos 5 segundos, a ampola de decaimento será administrada de acordo com as regras regulatórias. Você tem 4 segundos restantes."
+        },
+        {
+            "id": 89,
+            "model": "단테",
+            "content": "<Espere, nós somos... o \"inimigo\" agora?>"
+        },
+        {
+            "id": 90,
+            "model": "검문소경비",
+            "teller": "Class 2 Excision Staff",
+            "title": "K Corp.",
+            "content": "Droga... Não tenho escolha..."
+        },
+        {
+            "id": 91,
+            "model": "뫼르소",
+            "content": "…!"
+        },
+        {
+            "id": 92,
+            "model": "돈키호테",
+            "content": "Por que...!"
+        },
+        {
+            "id": 93,
+            "model": "검문소경비",
+            "teller": "Class 2 Excision Staff",
+            "title": "K Corp.",
+            "content": "Eu... não quero ser atingido pela ampola de decadência. Eu quero viver..."
+        },
+        {
+            "id": 94,
+            "model": "해킹당한K사앰플기계",
+            "teller": "Ampule Helper",
+            "title": "K Corp.",
+            "content": "Status atual: nenhum desertor detectado, todos os status verdes. Por favor, fiquem na fila para receber ampolas de regeneração."
+        },
+        {
+            "id": 95,
+            "model": "뫼르소",
+            "content": "…Eu vejo."
+        },
+        {
+            "id": 96,
+            "model": "오티스",
+            "content": "Eles estão pesando suas vidas com as nossas, não muito diferente do que fazemos. Por favor, permita-nos nos envolver."
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<...Entendi.>"
+        }
+    ]
+}

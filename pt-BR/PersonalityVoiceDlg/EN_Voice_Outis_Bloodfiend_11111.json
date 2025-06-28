@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_11111_1",
+      "desc": "Aquisição de identidade",
+      "dlg": "Bem-vindo. Vou mostrar o que significa realmente 'vestir' ... você pode esperar."
+    },
+    {
+      "id": "lobby_morning_11111_1",
+      "desc": "Saudação matinal",
+      "dlg": "Não me mantenha apenas porque o desfile não começa até o anoitecer. Você lá, suas costuras estão rasgando. Fique parado e eu vou consertar você bem - e você está pulando o café da manhã hoje."
+    },
+    {
+      "id": "lobby_noon_11111_1",
+      "desc": "Saudação da tarde",
+      "dlg": "Hemobars ... prefiro morrer de fome do que mastigar naquele pedaço de papelão. Ah! Por que você não me ajuda a testar o campo de tiro? Ninguém conseguiu melhorar minha pontuação ainda."
+    },
+    {
+      "id": "lobby_night_11111_1",
+      "desc": "Saudação noturna",
+      "dlg": "MM ... muito bem. Correndo positivamente. Fazendo meus olhos nas roupas e nas máscaras da minha criação que andam nas ruas noturnas faz maravilhas por aliviar minha fadiga.\n... Espere, esse tolo está gasto sua roupa de dentro para fora ..."
+    },
+    {
+      "id": "smalltalk_11111_1",
+      "desc": "Conversas #1",
+      "dlg": "Eu não sou o barbeiro por nada. Embora eu seja apenas um terceiro parentes, minha habilidade com a arte de cortar é inigualável em nossa família ...\n... Isso não é um desafio contra o pai, então eu preferiria se você não interpretasse mal minhas reivindicações."
+    },
+    {
+      "id": "smalltalk_11111_2",
+      "desc": "Conversas #2",
+      "dlg": "Eu preciso de corda robusta e durável para costurá -las na pele ... HM, não. Suponho que as tiras de couro funcionariam melhor para esse fim.\nHaah ... suponho que não posso usar apenas couro. Eu vou encontrar sozinho."
+    },
+    {
+      "id": "smalltalk_11111_3",
+      "desc": "Conversas #3",
+      "dlg": "Espere ... qual de vocês foi responsável pela manutenção da atração ontem?! Você me viu acertar o alvo, sim? Você viu isso cair? Não! Não me diga que você está relaxando porque o pai não está aqui para assistir a todos os seus movimentos!"
+    },
+    {
+      "id": "smalltalk_11111_4",
+      "desc": "Chat pós-uptie 1",
+      "dlg": "Snip, Snip. Cada fio de tecido pendurado como jarra deve ser cortado. O mesmo vale para os hóspedes que não combinam tão bem com o carnaval, aqueles menores do que meus restos de tecido restante."
+    },
+    {
+      "id": "smalltalk_11111_5",
+      "desc": "Chat pós-uptie 2",
+      "dlg": "Ha! Hahahaha! A pura audácia me faz rir! Como você se atreve a passear aqui com roupas tão impróprias da minha atração?!\nVou matar - Não. Sente -se, e eu vou te cortar e ensinar o que significa vestir -se para a ocasião!"
+    },
+    {
+      "id": "neglect_11111_1",
+      "desc": "Parado",
+      "dlg": "Esta é a minha casa. Eu estava na minha jornada para casa, quando - não. É aqui que minha família está. É aqui que meu pai e filhos estão."
+    },
+    {
+      "id": "gacksung_11111_1",
+      "desc": "Uptying",
+      "dlg": "Como estão os preparativos para o desfile? Fantasias? Prop de palco? Haah ... seus vagabundos preguiçosos. Vou assumir a revisão final dos preparativos!"
+    },
+    {
+      "id": "formation_11111_1",
+      "desc": "Implantação",
+      "dlg": "Você ligou?"
+    },
+    {
+      "id": "battleentry_11111_1",
+      "desc": "Entrada no palco",
+      "dlg": "Hora do carnaval."
+    },
+    {
+      "id": "battle_select_11111_1",
+      "desc": "Visto em batalha",
+      "dlg": "HM? A alça para a sua máscara caiu?"
+    },
+    {
+      "id": "battle_endcommand_11111_1",
+      "desc": "Ataques iniciando",
+      "dlg": "Vou tirar o carbage!"
+    },
+    {
+      "id": "battle_enemy_break_11111_1",
+      "desc": "Inimigo cambaleia",
+      "dlg": "Huh. As costuras explodiram?"
+    },
+    {
+      "id": "battle_break_11111_1",
+      "desc": "Escalonado",
+      "dlg": "TSK ..."
+    },
+    {
+      "id": "battle_kill_11111_1",
+      "desc": "Inimigo morto",
+      "dlg": "Nem vale a pena uma retalhos. Desmoronar onde você está."
+    },
+    {
+      "id": "battle_dead_11111_1",
+      "desc": "Morte",
+      "dlg": "A--pelo menos, deixe-me manter a máscara ...! ... então ... me mate ..."
+    },
+    {
+      "id": "choice_success_p_11111_2",
+      "desc": "Verifique se passou",
+      "dlg": "Heh. Eu sabia que estaria vindo primeiro."
+    },
+    {
+      "id": "choice_fail_n_11111_1",
+      "desc": "Verifique a falha",
+      "dlg": "... Por que esse passeio não começa?"
+    },
+    {
+      "id": "battle_clear_11111_1",
+      "desc": "Victory Cry",
+      "dlg": "O desfile em si saiu sem problemas ... mas vi alguns de vocês vestindo roupas não estão à altura dos meus regulamentos uniformes. Não te disse que não vou tolerar ninguém usando as roupas da minha própria criação de maneiras tão desleixadas?"
+    },
+    {
+      "id": "battle_clear_ex_11111_1",
+      "desc": "Condições extras cumpridas",
+      "dlg": "Isso foi um desfile digno do carnaval ... heh. A senhora do desfile usa um vestido particularmente deslumbrante ... eu não preciso dizer de quem é o design, devo?"
+    },
+    {
+      "id": "battle_defeat_11111_1",
+      "desc": "Derrota lamento",
+      "dlg": "São! Você! Vendo! Esse! Bagunça! Tenho quase vergonha de voltar para casa neste estado ... oh ... mas ... a que casa voltarei? Ainda está lá, ainda?"
+    }
+  ]
+}

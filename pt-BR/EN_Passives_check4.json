@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": 1010311,
+      "name": "Poised",
+      "desc": "Na vitória do Clash, ganhe +1 de contagem de pontos.\nPoder de moeda +1 para cada 5 pontos de equilíbrio. (Máx 3)"
+    },
+    {
+      "id": 1020211,
+      "name": "Self-charging",
+      "desc": "Ganhe +1 contagem de carga após um ataque.\nUm aliado aleatório ganha +1 contagem de carga após um ataque."
+    },
+    {
+      "id": 1050311,
+      "name": "Enduring Spirit",
+      "desc": "Quando atacado, ganhe +1 de contagem de carga. (Até 6 vezes)\nDepois de perder um confronto, ganhe +1 de contagem de carga. (Até 6 vezes, contado independentemente de hits tirados)"
+    },
+    {
+      "id": 1070411,
+      "name": "Bugger…",
+      "desc": "Quando um aliado for derrotado, perca 10 sp e ganhe 1 desvantagem na próxima curva.\nSe 4 ou mais unidades sobreviventes da equipe, incluindo esta unidade, são 'N Corp. Fanatics', Coin Power +1."
+    },
+    {
+      "id": 1100211,
+      "name": "Slayer",
+      "desc": "A última moeda sobre a última habilidade na cadeia causa +20% de dano.\nSempre que um aliado que não seja essa unidade ganha contagem de pontos, esta unidade ganha +1 de postura contando com uma chance de 50%.",
+      "summary": "A última moeda sobre a última habilidade na cadeia causa +20% de dano. Ganhe contagem adicional de ponto"
+    },
+    {
+      "id": 1020411,
+      "name": "Whistles",
+      "desc": "No início da fase de combate, cure 2 aliados com o menor SP por 15 sp.\nSe o aliado for um 'N Corp. Fanatic', aplique também 2 fanáticos."
+    },
+    {
+      "id": 1020431,
+      "name": "Whispers",
+      "desc": "No início da fase de combate, cure 1 aliado com o menor SP por 15 sp.\nSe o aliado for um 'N Corp. Fanatic', aplique também 2 fanáticos."
+    },
+    {
+      "id": 1100511,
+      "name": "Mad Flame",
+      "desc": "Cure 50% menos SP de ganhar um confronto ou derrotar um inimigo.\nSe 5 ou mais unidades sobreviventes, incluindo esta unidade, são 'Fanáticas da N Corp., elas causam +10% de dano."
+    },
+    {
+      "id": 1070311,
+      "name": "Raring to Graze",
+      "desc": "Gain (ressonância de ira.) Contagem de cobrança na próxima curva.\nCom mais de 5 anos de contagem de carga, ganhe 1 pressa e atacione a energia.\nSempre ative: no início do palco, ganhe +3 munição."
+    },
+    {
+      "id": 1050611,
+      "name": "Activate rrR-#4 Suit Pressurization",
+      "desc": "No final do turno, ganhe +2 de velocidade máxima por 5 contagem de carga no próximo turno. (Máx 6)\nNo início do turno, se estiver com mais de 5 anos, ganhe 3 agro ao slot mais à direita desta unidade."
+    },
+    {
+      "id": 1080511,
+      "name": "Filling Fluid",
+      "desc": "Se esta unidade não causar danos à HP usando habilidades de ataque em uma curva, obtenha um escudo igual a 10% do máximo de HP no próximo turno. (Máx 30)"
+    },
+    {
+      "id": 1080211,
+      "name": "Brainwave Focus",
+      "desc": "No início da fase de combate, o ganho (escuridão resson. / 3) Ataque Power Up.\nSe esta unidade não causar danos a esse turno, perca 15 SP no final do turno."
+    },
+    {
+      "id": 1040511,
+      "name": "Dimensional Demon Edge",
+      "desc": "Ao derrotar um inimigo, ganhe +3 contagem de carga (3 vezes por turno)"
+    },
+    {
+      "id": 1040531,
+      "name": "Dimensional Refraction Edge - Type: Blade Mk7",
+      "desc": "Quando um aliado com o menor máximo de HP derrota um inimigo, eles ganham +3 de contagem de carga (uma vez por turno)"
+    },
+    {
+      "id": 1060611,
+      "name": "Cleanup Mastery",
+      "desc": "Se, com mais de 5 anos, contagem de carga no início da fase de combate, ganhe 2 pressa. [[Estilo de tag]] Com mais de 10 contagem de carga, ganho 1 pressa adicional. [[Estilo de tag]]]"
+    }
+  ]
+}

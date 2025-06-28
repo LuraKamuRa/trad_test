@@ -1,0 +1,248 @@
+{
+    "dataList": [
+        {
+            "id": "tutorial_401_01",
+            "content": "Cada personagem tem um <Skillset>.\nEsta é a lista de habilidades das quais eles extraem."
+        },
+        {
+            "id": "tutorial_401_02",
+            "content": "Pressione um personagem para abrir sua aba de informações."
+        },
+        {
+            "id": "tutorial_401_03",
+            "content": "Com isso, você pode verificar vários detalhes, incluindo suas habilidades."
+        },
+        {
+            "id": "tutorial_401_04",
+            "content": "Cada Sinner que você controla tem seu próprio grupo de habilidades.\nUm número deles desses Skillsets será selecionado aleatoriamente e implantado no Dashboard."
+        },
+        {
+            "id": "tutorial_401_05",
+            "content": "Habilidades usadas são tratadas como “descartadas” do conjunto.\nElas não reaparecerão até que todas as outras habilidades no Skillset tenham sido usadas, recarregando-o assim."
+        },
+        {
+            "id": "tutorial_401_06",
+            "content": "Além disso, as habilidades de ataque têm um “nível de ataque”.\nEm confrontos, as diferenças nos níveis de ataque podem afetar o resultado."
+        },
+        {
+            "id": "tutorial_401_07",
+            "content": "Isso deve cobrir o básico das habilidades dos seus Sinners.\nAgora, dê a eles suas ordens."
+        },
+        {
+            "id": "tutorial_402_01",
+            "content": "Além das habilidades, seus Sinners têm <Habilidades Passivas>.\nSinners em batalha têm suas Passivas de Combate ativas."
+        },
+        {
+            "id": "tutorial_402_02",
+            "content": "Pecadores que não estão participando diretamente da batalha fornecerão ajuda com suas Passivas de Suporte."
+        },
+        {
+            "id": "tutorial_402_03",
+            "content": "Para colocar a teoria em prática, ative a Passiva encadeando duas habilidades de Orgulho."
+        },
+        {
+            "id": "tutorial_402_04",
+            "content": "Esta parte indicará quais Passivas estão ativas.\nAs Passivas são ativadas quando você possui um certo número de recursos E.G.O ou habilidades de cadeia de certas Afinidades para causar Ressonância."
+        },
+        {
+            "id": "tutorial_403_00",
+            "content": "Nosso encontro atual acontece em múltiplas ondas."
+        },
+        {
+            "id": "tutorial_403_01",
+            "content": "Para ajudar com isso, seus Pecadores possuem habilidades poderosas chamadas <E.G.O>, manifestadas pela ressonância com suas emoções."
+        },
+        {
+            "id": "tutorial_403_02",
+            "content": "Para usar <E.G.O>, você precisa de recursos E.G.O."
+        },
+        {
+            "id": "tutorial_403_03",
+            "content": "Você pode visualizar os recursos E.G.O que você tem atualmente armazenados aqui à direita."
+        },
+        {
+            "id": "tutorial_403_04",
+            "content": "Como esta é sua primeira vez tentando sua sorte em <E.G.O>, eu coletei os recursos necessários para você.\nEste é um poder especial, então você precisará reuni-los por conta própria a partir de agora."
+        },
+        {
+            "id": "tutorial_403_05",
+            "content": "Pecadores que atualmente podem usar <E.G.O> serão destacados."
+        },
+        {
+            "id": "tutorial_403_06",
+            "content": "<E.G.O Skills> deve ser gerado no Dashboard, assim como as habilidades de defesa. Pressione e segure aqui."
+        },
+        {
+            "id": "tutorial_403_07",
+            "content": "Pressione o ícone do <E.G.O> que você usará.\nIsso também pode ser usado para cancelar os que você gerou."
+        },
+        {
+            "id": "tutorial_403_08_title",
+            "content": "E.G.O"
+        },
+        {
+            "id": "tutorial_403_08",
+            "content": "E.G.O é um equipamento poderoso que se manifesta ressoando com as emoções dos seus Sinners.\nPara usar uma habilidade E.G.O, você precisa de recursos E.G.O baseados em Sin Affinity.\nSempre que você usar uma habilidade de ataque, você ganhará um recurso E.G.O correspondente à sua Affinity."
+        },
+        {
+            "id": "tutorial_403_09_title",
+            "content": "Corrosão E.G.O."
+        },
+        {
+            "id": "tutorial_403_09",
+            "content": "Além de exigir recursos de E.G.O, E.G.O cobra um preço da Sanidade de um Pecador.\nCom baixa Sanidade, o Pecador pode sofrer de <Corrosão de E.G.O>.\nPecadores corroídos por E.G.O ignorarão seus comandos, então garanta que seus Pecadores estejam com boa saúde mental."
+        },
+        {
+            "id": "tutorial_403_10_title",
+            "content": "Passivos E.G.O"
+        },
+        {
+            "id": "tutorial_403_10",
+            "content": "Após usar uma Habilidade E.G.O, sua habilidade Passiva será ativada no próximo turno e fortalecerá ainda mais o Pecador pelo resto da batalha.\nFaça bom uso da variedade de Passivas que E.G.O tem a oferecer."
+        },
+        {
+            "id": "tutorial_403_11",
+            "content": "As habilidades de ataque podem ser de alvo único ou alvo múltiplo;\nas últimas são chamadas de “Habilidades AoE”."
+        },
+        {
+            "id": "tutorial_403_12",
+            "content": "Parece que o E.G.O que está prestes a entrar em jogo tem uma habilidade AoE."
+        },
+        {
+            "id": "tutorial_403_13_title",
+            "content": "Habilidades de área de efeito"
+        },
+        {
+            "id": "tutorial_403_13",
+            "content": "Os alvos das habilidades AoE são divididos em duas categorias:\no alvo principal e os sub-alvos."
+        },
+        {
+            "id": "tutorial_403_14",
+            "content": "Conflitos com habilidades AoE só podem ocorrer a partir do alvo principal escolhido."
+        },
+        {
+            "id": "tutorial_403_15",
+            "content": "Se uma habilidade AoE perder seu Clash, o ataque será cancelado para todos os alvos."
+        },
+        {
+            "id": "tutorial_403_16",
+            "content": "Os subalvos são determinados pelo alcance de segmentação da habilidade."
+        },
+        {
+            "id": "tutorial_403_17_title",
+            "content": "Os alvos das habilidades AoE são divididos em duas categorias:\no alvo principal e os sub-alvos."
+        },
+        {
+            "id": "tutorial_403_17",
+            "content": "As habilidades em área de efeito têm como alvo os espaços de habilidade do inimigo."
+        },
+        {
+            "id": "tutorial_403_18",
+            "content": "Cada habilidade AoE tem um peso de ataque (Peso Atk)."
+        },
+        {
+            "id": "tutorial_403_19",
+            "content": "Cada slot tem um “peso” que pode ocupar uma parte do Peso de Ataque de uma habilidade AoE."
+        },
+        {
+            "id": "tutorial_403_20",
+            "content": "Em encontros regulares, um inimigo só é atacado uma vez por uma habilidade AoE, mesmo que a unidade esteja atacando vários alvos."
+        },
+        {
+            "id": "tutorial_403_21",
+            "content": "Em Encontros Focados, os espaços em suas partes do corpo são atacados apenas uma vez, mesmo que esses espaços estejam ocupando vários alvos."
+        },
+        {
+            "id": "tutorial_404_00",
+            "content": "Utilizar o E.G.O será uma parte importante da sua estratégia."
+        },
+        {
+            "id": "tutorial_404_01",
+            "content": "Nosso encontro atual acontece em múltiplas ondas."
+        },
+        {
+            "id": "tutorial_404_02",
+            "content": "Antes de prosseguirmos, deixe-me apresentar um recurso útil."
+        },
+        {
+            "id": "tutorial_404_03",
+            "content": "Agora você pode deixar o jogo encadear habilidades para você.\nAs cadeias serão escolhidas automaticamente dependendo de qual botão você pressionar."
+        },
+        {
+            "id": "tutorial_404_04",
+            "content": "‘Win Rate’ escolhe habilidades que têm mais probabilidade de vencer Clashes.\n‘Damage’, como o nome indica, escolhe habilidades que podem machucar mais seus inimigos."
+        },
+        {
+            "id": "tutorial_404_05",
+            "content": "No entanto, tenha em mente que o encadeamento automático não leva em consideração toda a extensão de cada fator complexo."
+        },
+        {
+            "id": "tutorial_404_06",
+            "content": "Além disso, você pode alternar a exibição das setas de destino usando o painel no canto superior direito e configurar a exibição da dica de habilidade e os controles de cara ou coroa nas configurações."
+        },
+        {
+            "id": "tutorial_404_07",
+            "content": "Esse é o último conselho meu.\nAgora, administre os Sinners sem minha ajuda.\nEspero receber comandos excelentes de você, Dante."
+        },
+        {
+            "id": "tutorial_404_08_title",
+            "content": "Encadeamento automático de dano e taxa de vitória"
+        },
+        {
+            "id": "tutorial_404_08",
+            "content": "‘Win Rate’ seleciona as habilidades que têm mais probabilidade de vencer os Clashes."
+        },
+        {
+            "id": "tutorial_404_09",
+            "content": "‘Dano’, como o nome indica, seleciona habilidades que podem machucar mais seus inimigos."
+        },
+        {
+            "id": "tutorial_404_10",
+            "content": "Para encontros regulares, o auto-chaining só está disponível em estágios onde você limpou as EX Conditions.\nO auto-chaining sempre pode ser usado para Focused Encounters.\nNote que os auto-chains não são necessariamente a solução ótima garantida."
+        },
+        {
+            "id": "tutorial_ego_overclock_title",
+            "content": "E.G.O Overclock"
+        },
+        {
+            "id": "tutorial_ego_overclock_1",
+            "content": "O overclock do E.G.O pode ser estável ou instável, dependendo dos recursos disponíveis."
+        },
+        {
+            "id": "tutorial_ego_overclock_2",
+            "content": "O overclocking gasta 1,5 vezes mais recursos E.G.O e SP do que o custo normal da habilidade E.G.O."
+        },
+        {
+            "id": "tutorial_ego_overclock_3",
+            "content": "Para fazer overclock em uma habilidade E.G.O, você precisa possuir pelo menos o custo base do recurso E.G.O. Se você tiver o custo base, mas não o suficiente para fazer overclock, o custo do overclock será subtraído da sua posse além de 0."
+        },
+        {
+            "id": "tutorial_ego_overclock_4",
+            "content": "A unidade ainda pode ser corroída durante o overclock; neste caso, apenas o custo do recurso base E.G.O será consumido."
+        },
+        {
+            "id": "tutorial_ego_overclock_5",
+            "content": "Habilidades E.G.O estáveis ​​e com overclock têm os mesmos efeitos e valores de dano que a habilidade de corrosão, além de serem capazes de distinguir aliados de inimigos."
+        },
+        {
+            "id": "tutorial_ego_overclock_6",
+            "content": "Habilidades instáveis ​​com overclock trazem o risco de serem alvejadas indiscriminadamente e têm os mesmos efeitos e valores que a habilidade de corrosão."
+        },
+        {
+            "id": "tutorial_403_06_New",
+            "content": "<E.G.O Skills> deve ser gerado no Dashboard, assim como habilidades defensivas. Pressione e segure o retrato destacado."
+        },
+        {
+            "id": "tutorial_403_07_New",
+            "content": "Pressione o ícone do <E.G.O> que você deseja usar."
+        },
+        {
+            "id": "tutorial_403_07_1",
+            "content": "Consuma recursos E.G.O. para gerar um ícone de habilidade E.G.O. no painel."
+        },
+        {
+            "id": "tutorial_403_07_2",
+            "content": "As habilidades E.G.O. podem ser canceladas tocando no retrato duas vezes depois que forem adicionadas ao Dashboard. A habilidade E.G.O. será cancelada e seus recursos serão reembolsados."
+        }
+    ]
+}

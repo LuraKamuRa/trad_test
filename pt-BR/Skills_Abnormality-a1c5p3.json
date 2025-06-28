@@ -1,0 +1,1950 @@
+{
+    "dataList": [
+        {
+            "id": 810001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "All Shall Scatter",
+                    "desc": "Prioriza os inimigos com marcado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Causar danos SP pelo número de velas acesas"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Causar danos SP pelo número de velas acesas"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Longing...",
+                    "desc": "Prioriza os inimigos com marcado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da ira no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tem[Combustion], infligir 4 queima"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da ira no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tem[Combustion], infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "9:2",
+                    "desc": "Sapta todas as velas no próximo turno.\nAo atingir alvos com[AaCePcBa], a Target perde 5% adicionais de seu HP máx.[DefeatDuel]Infligir 10 queimadura. Infligir o alvo com a próxima curva marcada.[EndBattle]Todas as velas curam para Max HP.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]O HP máximo da Target diminui 10%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 queimadura e +2 de contagem de queimaduras"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]O HP máximo da Target diminui 10%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 queimadura e +2 de contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "6:5",
+                    "desc": "[CantDuel][CantChangeTarget]Tome dano no lugar do alvo. Fique escalonado no próximo turno.\nInfligir marcado em um inimigo aleatório sem[AaCePcBa].\n[EndBattle]Todas as velas curam para max hp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]O máximo de HP desta unidade diminui 10%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 queima em si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]O máximo de HP desta unidade diminui 10%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 queima em si mesmo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "All Shall be Revealed",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da ira"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "All Shall Burn",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tem[Combustion], infligir 3 queimar."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sparked Flame",
+                    "desc": "Prioriza os alvos com[AaCePcBa]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 queimadura e +2 de contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "So That It Will Burn",
+                    "desc": "[StartBattle]Ganhe 20 escudo\nSquufá as luzes na próxima curva quando estão fora do escudo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 queima e +1 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Toxic Fluid",
+                    "desc": "[StartBattle]Consumir 1 lodo verde",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 veneno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 veneno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Corrosive Fluid",
+                    "desc": "[StartBattle]Consumir 1 lodo verde",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir o nível de defesa para baixo por[Poison]no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 larva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir o nível de defesa para baixo por[Poison]no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 larva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Paralytic Fluid",
+                    "desc": "[StartBattle]Consumir 1 lodo verde",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tem[Poison], infligir 1 paralisar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 larva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tem[Poison], infligir 1 paralisar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 larva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Devouring Fluid",
+                    "desc": "[StartBattle]Consuma 2 lodo verde[WhenUse]Infligir 3 larva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 veneno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 paralisar a próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 veneno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Effervescent Green Slime",
+                    "desc": "[StartBattle]Ganhar peso ATK por[AaCePcBh]\n[StartBattle]Ganhe 10[AaCePcBh]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 veneno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Perder 7 sp"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 larva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 paralisar e 3 nível de defesa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810106,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Predation",
+                    "desc": "[CantDuel][CantChangeTarget]Tem como alvo o lodo verde principalmente\nDerrota o lodo verde ao atacar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[TargetKill]Ganhe 3[AaCePcBh]."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810107,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Overflowing Poison",
+                    "desc": "[OnSucceedEvade]Infligir 5 veneno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Headbutt",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pound",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Press",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio se o alvo tiver[AaCePcBb]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio se o alvo tiver[AaCePcBb]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blind Obsession",
+                    "desc": "[DefeatDuel]A parte de fluorescência desta unidade perde 34% de HP máx.[DefeatDuel]Ganhe 1 obsessão cega",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Dilúvio afundando"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crashing Siltcurrent",
+                    "desc": "[CantDuel][StartBattle]Altera o meio ambiente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio e +2 contagem de naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho -2 eficiência de perda SP na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio e +2 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wayward Blind Obsession",
+                    "desc": "[CantDuel][CantChangeTarget]Os alvos destruíram o flotsam[EndSkill]A parte da fluorescência perde 34% de HP máx.[EndBattle]Ganhe 1 obsessão cega.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Destrói o alvo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810207,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sweep",
+                    "desc": "[EndBattle]Crie Flotsam",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio se o alvo tiver[AaCePcBb]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio se o alvo tiver[AaCePcBb]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810208,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wriggle",
+                    "desc": "[StartBattle]Gaste toda a obsessão cega[StartBattle]Destrua todo o flotsam e destruiu o flotsam",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear Up Wound",
+                    "desc": "[WinDuel]Heal 5 sp.\nAcordo +5% de dano por[Laceration]no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Protect the Town!",
+                    "desc": "[WhenUse]Ganhe 5 postagem",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tangling Javelin",
+                    "desc": "[WhenUse]Ganhe 5 pontos de equilíbrio e +2 de contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir emaranhado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "Quando atacado enquanto esta unidade possui escudo, ganhe 1 ofensa no nível seguinte",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quick Jabs",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Carve Wound",
+                    "desc": "[WinDuel]Heal 5 sp.\nAcordo +5% de dano por[Laceration]no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Protect the Town!",
+                    "desc": "[WhenUse]Ganhe 5 postagem",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Capturing Javelin",
+                    "desc": "[WhenUse]Ganhe 5 pontos de equilíbrio e +2 de contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir captura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Ganhe 1 Ofensão Nível no próximo turno (Máx 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Starting Hunt",
+                    "desc": "[StartBattle]Invocar 4 aliados na próxima curva[WhenUse]Aplique a presa marca na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Harpooning",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Piercing Harpoon",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 nível de ofensa para baixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Deep Breath",
+                    "desc": "[StartBattle]Ganhe 10 pontos de equilíbrio e +10 Poise Count.\nOs acertos críticos não consomem contagem de pontos com essa habilidade.\nTurn End: Gain[PlusCoinValueUp]Próximo turno pelo número de outros aliados sobreviventes.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "Os acertos críticos não consomem contagem de pontos com essa habilidade.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810306,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stalk Prey",
+                    "desc": "+30% de dano no acerto crítico",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Aumentar o primeiro limite de cambaleamento do alvo em 50% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810307,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cut Throat",
+                    "desc": "Essa habilidade não consome o equilíbrio contagem de acertos críticos.\nAcordo +5% mais danos para cada[Laceration]no alvo[WhenUse]Campirado no Turn End se esta unidade não tiver equilíbrio em si mesmo.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+50% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Target Stagger no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810308,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Deep Breathing",
+                    "desc": "[StartBattle]Ganhe 3 pontos de equilíbrio e +5 contagem de pontos.\nPara este turno, obtenha o poder final igual à potência de equilíbrio em si mesmo.\nPara este turno, perca 1 contagem de pontos quando atacado.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810309,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "To Survive",
+                    "desc": "+30% de dano no acerto crítico",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar núcleo e parte hp em 50% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar núcleo e parte hp em 50% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar núcleo e parte hp em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810310,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Must... Protect",
+                    "desc": "[TurnStartBattle]Ao usar essa habilidade, se esta unidade tiver mais de 0 barreira de assistência, ative a defesa de assistência.[StartBattle]Ganhe 10% de Max HP como barreira de assistência.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Persistent Harpoon",
+                    "desc": "Power final +1 ao atacar o mesmo alvo que a Starbuck",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar núcleo e parte hp em 50% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir emaranhado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar núcleo e parte hp em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810312,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Must Finish Hunt...",
+                    "desc": "Os acertos críticos não consomem contagem de pontos com essa habilidade.\nAcordo +5% de dano por[Laceration]no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+50% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Target Stagger no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Impale",
+                    "desc": "[WhenUse]Ganhe +3 contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Piercing Thrust",
+                    "desc": "[WhenUse]Ganhe 5 postagem",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 curva frágil na próxima vez"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 nível de defesa no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Reutilize esta moeda uma vez (máximo 3)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I Follow Orders...",
+                    "desc": "[TurnStartBattle]Se Queequeg tiver mais de 0 barreira de assistência, ativa o ataque de assistência",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ambush",
+                    "desc": "Causar 50% mais dano com acerto crítico\nAcordo +5% mais dano por[Laceration]no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Aumentar o primeiro limite de cambaleamento do alvo em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fearful Sigh",
+                    "desc": "[WhenUse]Ganhe +6 contagem de posições",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810406,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Determined Harpoon",
+                    "desc": "Power final +2 ao atacar o mesmo alvo que Queequeg",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir captura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 níveis de defesa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 curva frágil na próxima vez"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Reutilize esta moeda uma vez (máximo 3)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810407,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "To Escape...",
+                    "desc": "Causar 100% mais dano com acerto crítico\nAcordo +5% mais dano por[Laceration]no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Aumentar o primeiro limite de cambaleamento do alvo em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Obey My Orders",
+                    "desc": "[WhenUse]Heal 10 sp para si mesmo e 1 outro aliado com o mínimo SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "To Me!",
+                    "desc": "[StartBattle]Encomende o queequeg para ativar a defesa de assistência no próximo turno. O pedido é cancelado quando esta unidade estiver escalonada.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Track Them to the End!",
+                    "desc": "[StartBattle]Encomende a Starbuck para ativar o ataque de assistência no próximo turno. O pedido é cancelado quando esta unidade estiver escalonada.[WhenUse]Aplicar 1 marca de presa na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Veteran's Harpoon",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Burning Harpoon",
+                    "desc": "Power final +1 para cada efeito negativo no alvo principal (máximo 5)\nAcordo +5% de dano por[Laceration]no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir queimadura por sangramento no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810506,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Foolishness!",
+                    "desc": "[WhenUse]Heal 5 sp[OnSucceedEvade]Target perde 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810507,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Exhale!",
+                    "desc": "[WhenUse]Infligir 1 marca de presa no próximo turno[WinDuel]Ganhe 4 equilíbrio",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 4 postagem a 2 outros aliados.\nSe não houver outros aliados, ganhe 2 pontos de equilíbrio."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810508,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Be Fearless!",
+                    "desc": "[WhenUse]Cure 10 sp em si mesmo. 1 outro aliado com o maior SP perde 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de queimaduras"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 1 paralisação a um outro aliado aleatório na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de queimaduras"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 1 paralisação a um outro aliado aleatório na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de queimaduras"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 1 paralisação a um outro aliado aleatório na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810509,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tempering of Death",
+                    "desc": "[WhenUse]Aplique comando indefiável a 1 aliado com o menor SP[DefeatDuel]Levante o limite de cambaleou por 20 para 1 aliado com o menor SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 frágeis"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Strike Me Down!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab to Kill",
+                    "desc": "Tem como alvo a unidade com o menor máximo de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 nível de ofensa para baixo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Undying Soul",
+                    "desc": "Reutilizar fugir após a falha de fuga (até 2 vezes)[OnDefeatEvade]Perder 2 ego do PIP",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Murky Innocence",
+                    "desc": "[DefeatDuel]Ganhe 2 poder de defesa para baixo. Perder 10 sp em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruído pálido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 paralisação"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruído pálido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Weight of Guilt",
+                    "desc": "Alvos de 3 unidades com o menor máximo de HP[StartBattle]Ganhe potência base +2 e peso ATK +1 para cada 5 ego do PIP[WhenUse]Perca 3 Pip's Ego",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ruído pálido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Levante o limite de cambaleou em 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Target perde 10 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "사용하지않는스킬(번역x)",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810607,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swathed Fear",
+                    "desc": "[WhenUse]Infligir 1 marca de presa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruído pálido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento e +4 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810608,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Punctured Weakness",
+                    "desc": "[WhenUse]Infligir 1 marca de presa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruído pálido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 nível de ofensa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810609,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Echoing Cry",
+                    "desc": "Acordo +5% de dano para cada 1 sangramento no alvo\nSe o alvo não tiver marca de presa, o poder da moeda +1[DefeatDuel]Perder 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 danos sp em 3 inimigos aleatórios"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 danos sp em 3 inimigos aleatórios"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 danos sp em 3 inimigos aleatórios"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 danos sp em 3 inimigos aleatórios"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 danos sp em 3 inimigos aleatórios"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Reutilize a moeda final uma vez para cada 10 ego da Starbuck"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810610,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Clouded Path",
+                    "desc": "[WhenUse]Infligir 1 marca de presa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 danos baixos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruído pálido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bleached Atonement",
+                    "desc": "[WhenUse]Perca 5 ego de Queequeg[WinDuel]Ganhe 6 nível de defesa[DefeatDuel]Perder 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruído pálido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Target Stagger"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810612,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Insidious Pallidification",
+                    "desc": "[StartBattle]Ganhe 10% do máximo de HP como escudo. Para cada ego de Queequeg, obtenha 0,5% adicional de HP máximo como escudo adicional.\nQuando atacado enquanto protegeu, o atacante perde 5 sp\nQuando atacado, use esta habilidade uma vez para cada 10 ego de Queequeg",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Scorn Not the Prophecy",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Combustion]e 2[Combustion]Conte no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

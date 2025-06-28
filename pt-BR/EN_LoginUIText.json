@@ -1,0 +1,340 @@
+{
+  "dataList": [
+    {
+      "id": "loginui_sign_in_with_google",
+      "content": "Entre no Google"
+    },
+    {
+      "id": "loginui_sign_in_with_apple",
+      "content": "Faça login com a Apple"
+    },
+    {
+      "id": "loginui_sign_in_with_steam",
+      "content": "Faça login com vapor"
+    },
+    {
+      "id": "loginui_sign_in_with_guest",
+      "content": "Faça login como convidado"
+    },
+    {
+      "id": "loginui_sign_out_current_account",
+      "content": "Sair"
+    },
+    {
+      "id": "loginui_sign_out_current_account_desc",
+      "content": "Sair da conta corrente?\nSe você está jogando como convidado, seus dados podem ser perdidos."
+    },
+    {
+      "id": "loginui_sign_out_switch_account_desc",
+      "content": "Saltar da conta corrente\ne mudar para o selecionado?\nSe você está jogando como convidado, seus dados podem ser perdidos."
+    },
+    {
+      "id": "switch_account",
+      "content": "Alterar conta"
+    },
+    {
+      "id": "user_agreements",
+      "content": "Termos de Serviço"
+    },
+    {
+      "id": "title_game_data_download",
+      "content": "Baixar dados do jogo"
+    },
+    {
+      "id": "content_game_data_download",
+      "content": "Download {0} de dados."
+    },
+    {
+      "id": "content_game_data_download_description",
+      "content": "Você será devolvido à tela de título se o seu dispositivo tiver espaço de armazenamento insuficiente."
+    },
+    {
+      "id": "content_game_data_download_recommend",
+      "content": "Recomenda-se uma conexão direta à Internet (Wi-Fi)."
+    },
+    {
+      "id": "switch_allcacheclear",
+      "content": "Limpe todos os caches"
+    },
+    {
+      "id": "switch_oldcacheclear",
+      "content": "Cache velho limpo"
+    },
+    {
+      "id": "networkingerror_content",
+      "content": "A rede é instável.\nPor favor, verifique sua conexão com a Internet."
+    },
+    {
+      "id": "networkingerror_close",
+      "content": "Fechar"
+    },
+    {
+      "id": "networkingerror_retry",
+      "content": "Tente novamente"
+    },
+    {
+      "id": "loginui_ok",
+      "content": "Confirmar"
+    },
+    {
+      "id": "login_cancel",
+      "content": "Cancelar"
+    },
+    {
+      "id": "loginui_loading_battlehint",
+      "content": "Dicas de combate"
+    },
+    {
+      "id": "servererror_content",
+      "content": "Um erro de servidor ocorreu.\nPor favor, tente novamente em um momento."
+    },
+    {
+      "id": "forcequit_content",
+      "content": "Não pode operar o jogo.\nDesligando agora."
+    },
+    {
+      "id": "serverstate_openpreparation",
+      "content": "As coisas ainda estão sendo preparadas!"
+    },
+    {
+      "id": "serverstate_regularcheck",
+      "content": "O servidor está atualmente sob manutenção de rotina."
+    },
+    {
+      "id": "serverstate_temporary_check",
+      "content": "O servidor está atualmente sob manutenção temporária."
+    },
+    {
+      "id": "serverstate_verify_invaliduser",
+      "content": "A conta não existe ou foi fechada."
+    },
+    {
+      "id": "serverstate_verify_ban",
+      "content": "A conta está restrita a jogar."
+    },
+    {
+      "id": "serverstate_verify_invalidauth",
+      "content": "Ocorreu um erro.\nPor favor, inscreva -se novamente."
+    },
+    {
+      "id": "guestlogin_failed_try_newguest",
+      "content": "Login de convidado fracassado.\nA conta já está vinculada ou a conta do convidado não existe.\n\nVocê gostaria de fazer uma nova conta de convidado?"
+    },
+    {
+      "id": "secession_remain_days",
+      "content": "A conta está atualmente em um período de fechamento.\nTempo restante: {0} d {1} h {2} m\n\nVocê pode recuperar a conta se entrar agora.\nRecuperar a conta?"
+    },
+    {
+      "id": "secession_canceled",
+      "content": "Conta recuperada com sucesso."
+    },
+    {
+      "id": "serverstate_verify_invalidclientversion",
+      "content": "O cliente do jogo deve ser atualizado."
+    },
+    {
+      "id": "create_guest",
+      "content": "Crie uma conta de convidado"
+    },
+    {
+      "id": "ask_to_remove_all_cache",
+      "content": "Limpar todos os caches?"
+    },
+    {
+      "id": "networkingerror_update",
+      "content": "Vá para a loja"
+    },
+    {
+      "id": "speed_hack_warning",
+      "content": "O uso do programa de terceiros não autorizado foi detectado."
+    },
+    {
+      "id": "serverstate_verify_ban_startdate",
+      "content": "Data"
+    },
+    {
+      "id": "serverstate_verify_ban_reason",
+      "content": "Descrição"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_refund",
+      "content": "Abuso de sistema de reembolso de mercado aberto"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_cheat",
+      "content": "Registros de atividades de jogo anormais"
+    },
+    {
+      "id": "serverstate_blocking_endpoint",
+      "content": "Esta função está atualmente sob manutenção."
+    },
+    {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "Esta solicitação já foi processada.\nReinicie o jogo para sincronizar."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "Esta história se passa após o capítulo principal da história {0}. Você gostaria de ver a história, afinal?"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_105",
+      "content": "5"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_9105",
+      "content": "5.5"
+    },
+    {
+      "id": "switch_clearcatalog",
+      "content": "Excluir catálogo"
+    },
+    {
+      "id": "panel_clearcatalog",
+      "content": "Excluir catálogo?"
+    },
+    {
+      "id": "serverstate_error_thirdparty_api",
+      "content": "Erro de conexão do servidor externo. Por favor, tente novamente mais tarde."
+    },
+    {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "A transação falhou."
+    },
+    {
+      "id": "forcequit_cache_initialize_fail",
+      "content": "O cliente do jogo não foi lançado corretamente.\nConfirme seu status de rede e tente novamente.\nConsultas: Limbussupport+bug@projmoon.com"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_title",
+      "content": "Companhia de Limbus"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_text",
+      "content": "A enkefalina foi totalmente recarregada."
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_text",
+      "content": "Observe o conhecimento, mas nada é estranho aqui. Idealmente, meu único objetivo aqui seria informá -lo de que a enkefalina é reabastecida completamente. É tudo o que tenho a dizer."
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_text",
+      "content": "A recarga de enkefalina está completa. Caro gerente, a conversão do módulo de enkefalina é recomendada por uma questão de eficiência."
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_text",
+      "content": "Gerente Esquire !!! O tanque de combustível foi reabastecido !!! Venha aqui, pois nossas aventuras devem continuar !!!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_text",
+      "content": "E.C. (Enkephalin cobrado.)"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_text",
+      "content": "A enkefalina foi totalmente recarregada, gerente."
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_text",
+      "content": "Woow ~ Enkephalin já está totalmente carregado ~ Você gostaria de ir verificar?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_text",
+      "content": "O, uh. ENKEPH—? ... O material verde está cheio. Vá dar uma olhada, sim?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_text",
+      "content": "A enkefalina foi recarregada ... HM. Sim, o ônibus está pronto para outra viagem. Vamos."
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_text",
+      "content": "Dante ~ Enkephalin é acusado! Não esqueça de converter -os em módulos!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_text",
+      "content": "Oi, gerente ... você está ... ocupado? Não é nada muito sério, mas ... a enkefalina está prestes a transbordar ..."
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_text",
+      "content": "Reportagem ao gerente executivo. A enkefalina foi totalmente reabastecida. Posso sugerir que você os use ou converta?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_text",
+      "content": "Uhh, gerente amigo? Você aí? O tanque de combustível de ônibus está cheio ... pode querer ver?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_text",
+      "content": "Sua pausa acabou, gerente Dante. Não mantenha o ônibus sentado por muito tempo."
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_title",
+      "content": "Enkephalin cobrado"
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_text",
+      "content": "Mephi está recheado. Charon, hora de Vroom-Vroom."
+    },
+    {
+      "id": "custom_localize_button",
+      "content": "Selecione o idioma personalizado"
+    },
+    {
+      "id": "custom_localize_title",
+      "content": "Selecione o idioma personalizado"
+    },
+    {
+      "id": "custom_localize_desc",
+      "content": "※ Reinicie o jogo para aplicar a mudança de idioma."
+    }
+  ]
+}

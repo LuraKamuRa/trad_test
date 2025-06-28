@@ -1,0 +1,745 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "K Corp. Laboratory Lobby",
+            "model": "단테",
+            "content": "<Quer dizer... não me importo, mas vocês dois não podem me ouvir de qualquer maneira.>"
+        },
+        {
+            "id": 1,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Fiquei com vergonha de falar sobre isso na frente de todo o grupo, mas, na verdade, um dos seus... funcionários era um velho amigo meu."
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<Oh, quem é?>"
+        },
+        {
+            "id": 3,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "E ele também não me daria um aceno. Talvez ele estivesse envergonhado como eu. Era uma luta esconder o quão desanimado eu estava."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Talvez você não estivesse tão perto quanto pensava, então? …Espere, você consegue ouvir minha voz?>"
+        },
+        {
+            "id": 5,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Sr. Dongrang, este indivíduo não consegue se comunicar normalmente."
+        },
+        {
+            "id": 6,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "É por isso que estou falando, Sr. Samjo. É como se eu estivesse de volta a ser criança, murmurando minhas aflições para um brinquedo de corda, não acha?"
+        },
+        {
+            "id": 7,
+            "content": "…Isso tudo era um monólogo?"
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<O que vocês dois estão fazendo?>"
+        },
+        {
+            "id": 9,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Foi principalmente por causa dele que decidi enviar meu pedido a você. Posso confiar mais em uma pessoa familiar do que em um estranho."
+        },
+        {
+            "id": 10,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Veja, é por isso que não consigo baixar a guarda nem por um segundo. Você é facilmente influenciado pelo apego humano..."
+        },
+        {
+            "id": 11,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Então, deixe-me pedir um favor; use seu tato e consideração para... fingir que você não sabe nada sobre o relacionamento entre ele e eu, ok?"
+        },
+        {
+            "id": 12,
+            "model": "단테",
+            "content": "<Você nem me disse quem é esse amigo…>"
+        },
+        {
+            "id": 13,
+            "content": "Só consegui soltar um suspiro profundo e balançar a cabeça…"
+        },
+        {
+            "id": 14,
+            "content": "A conversa que nunca chegou ao fim terminou tão arbitrariamente quanto começou."
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<Isso não é pedir um favor. Você está me dando um aviso.>"
+        },
+        {
+            "id": 16,
+            "place": "K Corp. Laboratory Hallway",
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Estamos no corredor do laboratório. Visitantes comuns não teriam permissão para ir mais longe…"
+        },
+        {
+            "id": 17,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Mas já que você foi convidado pelo Sr. Dongrang… Vou lhe mostrar o interior."
+        },
+        {
+            "id": 18,
+            "model": "싱클레어",
+            "content": "Uau… Eu esperava… poder trabalhar em uma empresa tão grande quanto essa."
+        },
+        {
+            "id": 19,
+            "model": "로쟈",
+            "content": "Então, talvez você pudesse ter se candidatado a uma. Por que você não tentou?"
+        },
+        {
+            "id": 20,
+            "model": "이스마엘",
+            "content": "Você está brincando, certo, Rodion? Nem todo mundo pode se juntar a essas empresas. Esse tipo de firma só aceita o melhor da elite."
+        },
+        {
+            "id": 21,
+            "model": "이스마엘",
+            "content": "Como Fausto ou Yi Sang, por exemplo…"
+        },
+        {
+            "id": 22,
+            "content": "A observação de Ishmael me deu uma boa oportunidade de trazer à tona minha pergunta anterior."
+        },
+        {
+            "id": 23,
+            "model": "단테",
+            "content": "<É, por que você escolheu se juntar à Limbus Company dentre todas as opções que você tinha? Deve ter havido lugares melhores para mirar.>"
+        },
+        {
+            "id": 24,
+            "model": "파우스트",
+            "content": "Porque eu sou Fausto."
+        },
+        {
+            "id": 25,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 26,
+            "content": "Havia uma certa energia em seu tom confiante e esclarecedor que me desencorajou de fazer outra pergunta."
+        },
+        {
+            "id": 27,
+            "model": "단테",
+            "content": "<E você, Yi Sang?>"
+        },
+        {
+            "id": 28,
+            "model": "이상",
+            "content": "Deixe-me me dar ao trabalho de perguntar em troca. Gerente, por que você entrou para a empresa em que trabalha?"
+        },
+        {
+            "id": 29,
+            "model": "단테",
+            "content": "<Quer dizer, é porque eu não tinha outra escolha.>"
+        },
+        {
+            "id": 30,
+            "model": "이상",
+            "content": "…Isso deve responder suficientemente à sua pergunta."
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 32,
+            "content": "Parece que Ishmael não estava exagerando sobre as qualificações necessárias para ingressar nesta empresa."
+        },
+        {
+            "id": 33,
+            "place": "K Corp. Laboratory Room",
+            "content": "O laboratório era dominado por uma quietude que só poderia ser alcançada com todos totalmente concentrados."
+        },
+        {
+            "id": 34,
+            "model": "로쟈",
+            "content": "Dante, Dante, Dante, olha, ali… Você vê isso? A geladeira está cheia de salgadinhos… Poderíamos pegar um… ou dez, e eles não notariam!"
+        },
+        {
+            "id": 35,
+            "content": "E nós quebrávamos essa quietude com indiferença."
+        },
+        {
+            "id": 36,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Pegue quantos quiser. Sr. Samjo, embale alguns lanches da sala de descanso em pequenos pacotes para dar a eles mais tarde."
+        },
+        {
+            "id": 37,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Entendido."
+        },
+        {
+            "id": 38,
+            "model": "로쟈",
+            "content": "Isso é incrível, Ishy, talvez devêssemos largar nosso emprego e nos juntar aqui?"
+        },
+        {
+            "id": 39,
+            "model": "이스마엘",
+            "content": "Todos podem ouvir você, Rodya…"
+        },
+        {
+            "id": 40,
+            "model": "파우스트",
+            "content": "Rodion, o contrato de trabalho diz…"
+        },
+        {
+            "id": 41,
+            "model": "로쟈",
+            "content": "Brincadeira, Fausto. Brincadeira. Viu?"
+        },
+        {
+            "id": 42,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 43,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Vamos passar para o pedido:"
+        },
+        {
+            "id": 44,
+            "model": "슈렌느",
+            "title": "K Corp. Laboratory",
+            "content": "Você está trazendo pessoas de fora para o prédio agora... O que você é, um guia de excursão, Dongrang?"
+        },
+        {
+            "id": 45,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ah. Desculpe-me por um momento. Esta é Shrenne. Ela é a gerente do departamento ao lado do meu e uma colega que entrou na empresa ao mesmo tempo que eu. Visitar-me para lançar palavras ofensivas ocupa grande parte de sua rotina diária."
+        },
+        {
+            "id": 46,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "K Corp. Laboratory",
+            "content": "Imaginei que alguém tivesse que apontar o enorme dreno no orçamento de bem-estar da nossa empresa que é sua equipe."
+        },
+        {
+            "id": 47,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ah, se você está se perguntando sobre como gastamos nosso orçamento de bem-estar... Você verá quando o troféu do Departamento do Ano for concedido. Certo, Samjo?"
+        },
+        {
+            "id": 48,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Levaria um dia inteiro para listar os benefícios que o departamento escolhido como o melhor recebe."
+        },
+        {
+            "id": 49,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "K Corp. Laboratory",
+            "content": "Eca, vocês dois são esnobes."
+        },
+        {
+            "id": 50,
+            "model": "그레고르",
+            "content": "Hm. Isso é um rival? Eu suponho que a excelência é seguida pela inveja onde quer que ela esteja."
+        },
+        {
+            "id": 51,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "A inveja alimenta o avanço, como dizem, então é justo que mostremos um pouco de generosidade para aqueles que vêm atrás. Deveríamos dar algumas das tortas que compramos naquela loja para o departamento de Shrenne, Sr. Samjo?"
+        },
+        {
+            "id": 52,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Eu estava planejando fazer isso. Os de pimenta, chili, alface e curry, especificamente."
+        },
+        {
+            "id": 53,
+            "model": "로쟈",
+            "content": "Suspiro… Isso… também parece saboroso?"
+        },
+        {
+            "id": 54,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Haha… Agora, vamos voltar ao assunto principal."
+        },
+        {
+            "id": 55,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ouvi os rumores. Eles eram sobre uma empresa recém-formada que coletava objetos orgânicos chamada “Golden Boughs”."
+        },
+        {
+            "id": 56,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "E esses Golden Boughs são encontrados exclusivamente dentro das instalações fechadas da Lobotomy Corp."
+        },
+        {
+            "id": 57,
+            "model": "오티스",
+            "content": "Como você soube da existência da Golden Boughs?"
+        },
+        {
+            "id": 58,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Foi uma descoberta recente. Estávamos usando uma filial da Lobotomy Corp. perto de nossa unidade de pesquisa como laboratório até alguns meses atrás."
+        },
+        {
+            "id": 59,
+            "model": "히스클리프",
+            "content": "Você… montou um laboratório naquele lugar horrível?"
+        },
+        {
+            "id": 60,
+            "model": "싱클레어",
+            "content": "Mas eu pensei que eles estavam todos enterrados no subsolo…"
+        },
+        {
+            "id": 61,
+            "model": "그레고르",
+            "content": "Bem… Acho que havia recursos e documentos raros que eles poderiam usar…"
+        },
+        {
+            "id": 62,
+            "model": "파우스트",
+            "content": "…O escopo da sua pesquisa incluiu anormalidades?"
+        },
+        {
+            "id": 63,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Por que, certamente. Nenhum pesquisador poderia ignorar assuntos tão intrigantes."
+        },
+        {
+            "id": 64,
+            "model": "히스클리프",
+            "content": "Os pesquisadores devem ser todos moles da cabeça se é nisso que estão interessados…"
+        },
+        {
+            "id": 65,
+            "model": "히스클리프",
+            "content": "…Aguentar."
+        },
+        {
+            "id": 66,
+            "model": "히스클리프",
+            "content": "Quando você estava resmungando bobagens e jogando uma pedra em um daqueles cabeças de galinha, você..."
+        },
+        {
+            "id": 67,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ahh ..."
+        },
+        {
+            "id": 68,
+            "model": "파우스트",
+            "content": "Eu diria que os inesperados ataques de percepção de Heathcliff às vezes me surpreendem."
+        },
+        {
+            "id": 69,
+            "model": "파우스트",
+            "content": "Você nos levou a lidar com uma Distorção em um encontro “coincidente” para que você pudesse reunir dados para sua pesquisa sobre Anormalidades."
+        },
+        {
+            "id": 70,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "O Sr. Samjo aqui não é bom em atuar. Suponho que seja devido ao seu modo de vida correto."
+        },
+        {
+            "id": 71,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Por favor, entenda. Não tínhamos meios de distinguir claramente uma Distorção de uma Anormalidade."
+        },
+        {
+            "id": 72,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Uma pessoa distorce “quando a mente se desintegra em pedaços figurativos…”, não é? Essa foi uma figura de linguagem estelar. Você restaurou a mente desintegrada dele de volta à saúde, então?"
+        },
+        {
+            "id": 73,
+            "model": "파우스트",
+            "content": "Não há como reconstruir a mente quebrada de outra pessoa."
+        },
+        {
+            "id": 74,
+            "model": "파우스트",
+            "content": "Nós apenas mostramos o caminho a ele. Era escolha do dono do restaurante ficar ali ou seguir aquele caminho."
+        },
+        {
+            "id": 75,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Uau, você sabe tanto. Se eu fosse um pouco mais novo, eu teria pulado e saltado tentando dar um high-five em você."
+        },
+        {
+            "id": 76,
+            "model": "파우스트",
+            "content": "Você nunca é bem-vindo para tentar."
+        },
+        {
+            "id": 77,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Sr. Dongrang, você está se desviando do assunto novamente."
+        },
+        {
+            "id": 78,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ah, você está certo. Tudo bem... Então, um dia, enquanto nos entregávamos alegremente à pesquisa naquele laboratório da filial da Lobotomy Corp., terroristas armados atacaram o lugar. Foi tudo muito repentino."
+        },
+        {
+            "id": 79,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Você já viu uma bomba explodir diante dos seus olhos? É um espetáculo e tanto. Tudo começa e termina em uma fração de segundo. Assim como o universo, não é?"
+        },
+        {
+            "id": 80,
+            "model": "오티스",
+            "content": "Onde estão os terroristas agora?"
+        },
+        {
+            "id": 81,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Os membros não têm quase nada em comum, e seu motivo é desconhecido. Eles só apareceram recentemente."
+        },
+        {
+            "id": 82,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "No final, a organização terrorista assumiu o controle do laboratório onde a equipe do Sr. Dongrang estava hospedada."
+        },
+        {
+            "id": 83,
+            "model": "오티스",
+            "content": "Hum. Deve ter sido nessa época que o laboratório foi transferido."
+        },
+        {
+            "id": 84,
+            "model": "이상",
+            "content": "…Quão grave foi o dano?"
+        },
+        {
+            "id": 85,
+            "content": "Dongrang desviou o olhar de Yi Sang para os assentos esporadicamente desocupados."
+        },
+        {
+            "id": 86,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Veja, aqueles assentos vazios…"
+        },
+        {
+            "id": 87,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Eles ficarão assim por um tempo. Seus donos morreram — naquele ato de terror."
+        },
+        {
+            "id": 88,
+            "content": "Olhando mais de perto, vi salgadinhos e flores colocados em suas almofadas, provavelmente como uma forma de lamentar os mortos."
+        },
+        {
+            "id": 89,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ah, esse sujeito de quem só conseguimos recuperar um dedo. Não conseguimos encontrar o lugar certo para colocá-lo, então o mantivemos guardado. Deve estar na exposição no segundo andar."
+        },
+        {
+            "id": 90,
+            "content": "Um silêncio solene tomou conta do escritório, mas Dongrang continuou, esfregando a mesa vazia com a mão."
+        },
+        {
+            "id": 91,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Há tanta coisa que tivemos que deixar para trás."
+        },
+        {
+            "id": 92,
+            "model": "그레고르",
+            "content": "…Dongrang…"
+        },
+        {
+            "id": 93,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Sinto falta principalmente da placa modelada com base no rosto do meu personagem, que era uma das minhas lembranças favoritas."
+        },
+        {
+            "id": 94,
+            "model": "그레고르",
+            "content": "Ficarei perplexo, não consigo dizer o quanto do que ele diz é brincadeira e o quanto é sério."
+        },
+        {
+            "id": 95,
+            "model": "오티스",
+            "content": "E aquele assento então?"
+        },
+        {
+            "id": 96,
+            "content": "Nossa atenção foi atraída para uma mesa branca que estava completamente vazia."
+        },
+        {
+            "id": 97,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ah, esse está reservado."
+        },
+        {
+            "id": 98,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Estamos esperando um novo funcionário para assumir esse cargo."
+        },
+        {
+            "id": 99,
+            "model": "이스마엘",
+            "content": "Ah… Existe uma diretriz de aplicação para a posição, então? Onde posso vê-la?"
+        },
+        {
+            "id": 100,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Hum."
+        },
+        {
+            "id": 101,
+            "content": "A inquisição de olhos brilhantes de Ishmael foi interrompida pela declaração descontente de Samjo."
+        },
+        {
+            "id": 102,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Oh, meu Deus, nosso Sr. Samjo está se sentindo todo desconfortável agora. Vamos direto ao ponto, Samjo?"
+        },
+        {
+            "id": 103,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Vou ser direto: sugiro um acordo que beneficiará ambas as partes."
+        },
+        {
+            "id": 104,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Se você nos ajudar a retomar o laboratório, nós lhe devolveremos a propriedade do Ramo Dourado que encontramos."
+        },
+        {
+            "id": 105,
+            "model": "파우스트",
+            "content": "Tenho uma pergunta. Este é um contrato fixo ou um contrato de revisão pós-cumprimento? Ele será representado por órgãos delegados ou membros coexecutivos?"
+        },
+        {
+            "id": 106,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Deixe-me responder a isso. Este será um contrato imediato representado por um delegado-corpo sem responsabilidade de garantia. Uma assinatura contratual supervisionada por um observador de um Escritório de Contratos de Grau 1 ocorrerá após o devido processo."
+        },
+        {
+            "id": 107,
+            "model": "단테",
+            "content": "<Um Escritório de Contratos…? E-eu não sei o que está acontecendo… Realmente tem que ser tão complicado?>"
+        },
+        {
+            "id": 108,
+            "model": "이스마엘",
+            "content": "No Distrito da J Corp, não conseguimos o Golden Bough imediatamente, apesar de vencermos, porque não tínhamos ninguém supervisionando o negócio."
+        },
+        {
+            "id": 109,
+            "model": "그레고르",
+            "content": "Ah… Aquela Ayuda dos Merry Archils? Ela começou uma briga mesmo depois que Rodya ganhou o jogo."
+        },
+        {
+            "id": 110,
+            "model": "싱클레어",
+            "content": "É Aida de Los Mariachis…"
+        },
+        {
+            "id": 111,
+            "model": "이스마엘",
+            "content": "Isso mesmo. Em vez de desempenhar o papel de observadora, ela não nos deixou outra escolha senão tomar o Bough à força."
+        },
+        {
+            "id": 112,
+            "model": "이스마엘",
+            "content": "É por isso que é mais seguro usar o serviço de uma Associação ou de um Escritório de Contratos para ficar como observador ou para autenticar o contrato, mesmo que isso possa ser custoso. É isso que Faust provavelmente considerou com mais cuidado, eu acho."
+        },
+        {
+            "id": 113,
+            "content": "Ishmael explicou como se fosse de conhecimento comum. Acho que é algo bem conhecido entre o pessoal da City…"
+        },
+        {
+            "id": 114,
+            "model": "파우스트",
+            "content": "Este contrato certamente favorece o nosso lado."
+        },
+        {
+            "id": 115,
+            "model": "파우스트와삼조",
+            "teller": "Faust & Samjo",
+            "title": "Both",
+            "content": "Desde que o objetivo seja alcançado."
+        },
+        {
+            "id": 116,
+            "content": "…Assistimos boquiabertos enquanto os dois declaravam a conclusão ao mesmo tempo."
+        },
+        {
+            "id": 117,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Isso é segredo, mas, sinceramente, não entendo mais da metade do que Samjo diz. Eu apenas aceno como se dissesse \"Ah, entendi~\" e sigo em frente."
+        },
+        {
+            "id": 118,
+            "model": "그레고르",
+            "content": "Não é uma coincidência? É o mesmo para nós também."
+        },
+        {
+            "id": 119,
+            "model": "이스마엘",
+            "content": "Você não deveria ser a última pessoa a ignorar as palavras da sua secretária…?"
+        },
+        {
+            "id": 120,
+            "model": "홍루",
+            "content": "Ah, ainda assim, acho que fazer um contrato com o laboratório da K Corp significa que não lutaremos contra a equipe da Wing por um tempo."
+        },
+        {
+            "id": 121,
+            "model": "홍루",
+            "content": "Você sabe, aquelas pessoas que continuam curando suas feridas."
+        },
+        {
+            "id": 122,
+            "content": "A equipe caiu em um silêncio sombrio. Todas as memórias relacionadas a eles estavam cheias de miséria e sofrimento."
+        },
+        {
+            "id": 123,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ah, então você já viu a tecnologia regenerativa da K Corp."
+        },
+        {
+            "id": 124,
+            "model": "로쟈",
+            "content": "Ugh, nós já vimos isso mais do que nunca!"
+        },
+        {
+            "id": 125,
+            "model": "그레고르",
+            "content": "Tive que lidar com isso repetidamente, fico enjoado só de pensar..."
+        },
+        {
+            "id": 126,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ah… Por que eu não te mostro meu laboratório, então? Mas ele não está aqui… Você vai ter que pegar o elevador mais uma vez."
+        },
+        {
+            "id": 127,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Geh? Você mostraria isso a eles, Sr. Dongrang? Aquele lugar é proibido para pessoal não autorizado…"
+        },
+        {
+            "id": 128,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Hah, você acabou de fazer um barulho muito engraçado, Sr. Samjo. Bem, não deve doer. Estamos saindo um pouco para comemorar a assinatura do contrato provisório."
+        },
+        {
+            "id": 129,
+            "content": "Eu não tinha certeza se essa era uma maneira apropriada de comemorar as coisas... mas como ninguém na equipe se opôs, decidi segui-lo."
+        }
+    ]
+}

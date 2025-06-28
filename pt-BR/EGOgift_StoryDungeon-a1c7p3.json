@@ -1,0 +1,190 @@
+{
+    "dataList": [
+        {
+            "id": 2047,
+            "name": "A Broken Dream",
+            "desc": "Ao obter este presente E.G.O, ganhe os seguintes efeitos:\n• O nível de Dom Quixote sobe para 50\n• Os níveis Uptie e Threadspin de Dom Quixote sobem para o nível 4\n(Se o nível, o nível Uptie ou o nível Threadspin forem maiores que os valores acima, mantenha esses valores.)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2047,
+                    "simpleDesc": "Don Quixote's level rises to 50"
+                },
+                {
+                    "abilityID": 204701,
+                    "simpleDesc": "Don Quixote's Uptie and Threadspin Tiers rise to Tier 4"
+                }
+            ]
+        },
+        {
+            "id": 2048,
+            "name": "La Manchaland All-day Pass",
+            "desc": "Ao acertar alvos com 10+ (soma de [Laceração], 'Sangramento Único' e [Explosão]): ganhe 1 Potência de [Sopro] e Contagem (3 vezes por Habilidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2048,
+                    "simpleDesc": "On Hit against targets with 10+ (sum of [Laceration], 'Unique Bleed', and [Burst]): gain 1 [Breath] Potency and Count"
+                }
+            ]
+        },
+        {
+            "id": 2049,
+            "name": "La Manchaland Standard Pass",
+            "desc": "Primeiro turno Início de um encontro: todas as unidades ganham 4 de Potência e Contagem de [Laceração].",
+            "simpleDesc": [
+                {
+                    "abilityID": 2049,
+                    "simpleDesc": "First Turn Start of an Encounter: all units gain 4 [Laceration] Potency and Count."
+                }
+            ]
+        },
+        {
+            "id": 2050,
+            "name": "Token of Victory",
+            "desc": "Ao matar com uma habilidade, o dano: 1 aliado com o menor SP cura 8 SP.\nApós o ataque: se um inimigo com 10+ (soma de [Laceration], 'Unique Bleed' e [Burst]) for derrotado, a unidade que matou o inimigo ganha 2 [AttackUp] no próximo turno. (3 vezes por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2050,
+                    "simpleDesc": "On Kill, 1 ally with the least SP heals 8 SP."
+                },
+                {
+                    "abilityID": 205001,
+                    "simpleDesc": "After Attack: if an enemy with 10+ (sum of [Laceration], 'Unique Bleed', and [Burst]) is defeated, the unit who killed that enemy gains 2 [AttackUp] next turn."
+                }
+            ]
+        },
+        {
+            "id": 2051,
+            "name": "Self-flagellation Whip",
+            "desc": "Quando 1 aliado com a maior porcentagem de HP usa uma Habilidade de Ataque, ganhe 10 [Laceração], 3 [AtaqueAumentar] e 3 [DefesaAumentar]. (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2051,
+                    "simpleDesc": "When 1 ally with currently the highest HP percentage uses an Attack Skill, gain 10 [Laceration], 3 [AttackUp], and 3 [DefenseUp]."
+                }
+            ]
+        },
+        {
+            "id": 2052,
+            "name": "Mask of the Parade",
+            "desc": "Batalhas em Cadeia: quando um novo inimigo entra na batalha, inflija 5 [Laceração] e +3 [Laceração] na Contagem contra esse inimigo no Início do Combate.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2052,
+                    "simpleDesc": "Chain Battles: when a new enemy enters the battle, inflict 5 [Laceration] and +3 [Laceration] Count against that enemy at Combat Start."
+                }
+            ]
+        },
+        {
+            "id": 2053,
+            "name": "Devouring Cube",
+            "desc": "Quando um aliado morre, ganhe 1 recurso E.G.O para cada uma das Habilidades 1, 2 e 3 desse aliado e 1 recurso E.G.O aleatório\nApós o Ataque: se o inimigo for morto, ganhe 1 recurso E.G.O aleatório (uma vez por Habilidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2053,
+                    "simpleDesc": "When an ally dies, gain 1 E.G.O resource for each of that ally's Skills 1, 2, and 3 and 1 random E.G.O resource"
+                },
+                {
+                    "abilityID": 205301,
+                    "simpleDesc": "After Attack: if the enemy is killed, gain 1 random E.G.O resource (once per Skill)"
+                }
+            ]
+        },
+        {
+            "id": 2054,
+            "name": "Endless Hunger",
+            "desc": "Primeiro Turno Início de um Encontro: cada Identidade no campo perde 5 SP e ganha 1 [Aprimoramento] por 3 turnos.\nSe a referida Identidade for um Bloodfiend, perca 10 SP, ganhe 2 [Aprimoramento] por 3 turnos e inflija +1 a mais de Potência e Contagem de [Laceração] com seus efeitos de Habilidade e Moeda",
+            "simpleDesc": [
+                {
+                    "abilityID": 2054,
+                    "simpleDesc": "First Turn Start of an Encounter: every Identity on the field loses 5 SP and gains 1 [Enhancement] for 3 turns."
+                },
+                {
+                    "abilityID": 205401,
+                    "simpleDesc": "If the said Identity is a Bloodfiend, lose 10 SP, gain 2 [Enhancement] for 3 turns, and inflict +1 more [Laceration] Potency and Count with its Skill & Coin effects"
+                }
+            ]
+        },
+        {
+            "id": 2055,
+            "name": "A Little Dream",
+            "desc": "Em Clash Win com uma Pride Skill: cure 5 SP.\nEm Hit após Clash Win com a dita Skill: inflija +1 [Laceration] Count e +1 [Burst] Count (4 vezes por Skill)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2055,
+                    "simpleDesc": "On Clash Win with a Pride Skill: heal 5 SP, and On Hit after Clash Win with the said Skill, inflict +1 [Laceration] Count and +1 [Burst] Count"
+                }
+            ]
+        },
+        {
+            "id": 2056,
+            "name": "A Hollow Dream",
+            "desc": "Ao acertar alvos com [Laceration] ou 'Unique Bleed': cure 2~5 HP.\nHabilidades que consomem [BloodDinner]: Poder de Moeda +1",
+            "simpleDesc": [
+                {
+                    "abilityID": 2056,
+                    "simpleDesc": "Heal HP On Hit against targets with [Laceration] or 'Unique Bleed'."
+                },
+                {
+                    "abilityID": 205601,
+                    "simpleDesc": "Skills that consume [BloodDinner]: Coin Power +1"
+                }
+            ]
+        },
+        {
+            "id": 2057,
+            "name": "The Dream Begins Anew",
+            "desc": "Todas as habilidades de Dom Quixote ganham Poder Final +2\nQuando um aliado morre, os aliados restantes curam 15 SP e, no Fim do Turno, ganham 1 [Melhoria] no próximo turno (máx. [Melhoria]: 3)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2057,
+                    "simpleDesc": "Don Quixote's Skill Final Power +2"
+                },
+                {
+                    "abilityID": 205701,
+                    "simpleDesc": "When an ally dies, the remaining allies heal 15 SP, and at Turn End, gain 1 [Enhancement] next turn"
+                }
+            ]
+        },
+        {
+            "id": 2058,
+            "name": "Grimy Iron Stake",
+            "desc": "Ao atingir um inimigo usando uma Habilidade de Moeda Única, inflija 1 Potência de [Laceração]. Inflija 2 [DefesaBaixa] até o fim do próximo turno.\nSe o alvo já tiver [Laceração] ou 'Sangramento Único', inflija 3 Potência de [Laceração] em vez disso.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2058,
+                    "simpleDesc": "Inflict 1 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn"
+                },
+                {
+                    "abilityID": 205801,
+                    "simpleDesc": "Inflict 3 [Laceration] Potency"
+                }
+            ]
+        },
+        {
+            "id": 2059,
+            "name": "Barbed Lasso",
+            "desc": "Fim do Turno: Inflige [Burst] Potency em todos os inimigos igual aos seus valores de Speed ​​atuais.\n\nAo ativar Lust Absolute Resonance, aplique 3 [Burst] Potency e +3 [Burst] Count a um inimigo aleatório no Combat Start.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2059,
+                    "simpleDesc": "Inflict [Burst] Potency by Speed"
+                },
+                {
+                    "abilityID": 205901,
+                    "simpleDesc": "Inflict 3 [Burst] Potency and +3 [Burst] Count"
+                }
+            ]
+        },
+        {
+            "id": 2060,
+            "name": "Carmilla",
+            "desc": "No início de um Encontro não Focado, todos os inimigos recebem dano fixo igual a 20% de seu HP Máximo.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2060,
+                    "simpleDesc": "Deal 20% of Max HP as fixed damage"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,557 @@
+{
+  "dataList": [
+    {
+      "id": 2090411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de tremores"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[Bracket]] Se o alvo principal tiver 50% + hp, peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 tremor e +5 contagem de tremores"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[Suporte]] se o alvo principal tiver 50% + hp, peso ATK +1;\nSe o alvo principal tiver 75% + hp, peso ATK adicional +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 tremor e +7 contagem de tremores"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] curar 30% dos danos causados"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Se o alvo principal tiver 50% + hp, peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] curar 30% dos danos causados"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 nível de defesa"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Suporte]] se o alvo principal tiver 50% + hp, peso ATK +1;\nSe o alvo principal tiver 75% + hp, peso ATK adicional +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] curar 30% dos danos causados"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 5 nível de defesa"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 fragilidade da preguiça no próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Heal 2 outros aliados com a menor porcentagem de HP para 15% do máximo HP desta unidade"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 fragilidade da preguiça no próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Heal 2 outros aliados com a menor porcentagem de HP para 25% do máximo HP desta unidade"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo for escalonado ou derrotado, aplique 10% do máximo HP desta unidade como escudo aos aliados que esta unidade curou"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 fragilidade da preguiça no próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Heal 2 outros aliados com a menor porcentagem de HP para 30% do máximo HP desta unidade"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo for escalonado ou derrotado, aplique 15% do máximo HP desta unidade como escudo aos aliados que esta unidade curou"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                },
+                {
+                  "desc": "[[Bracket]] causar 15 de dano SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Suporte]] a 50%- HP, peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                },
+                {
+                  "desc": "[[Bracket]] causar 20 danos causados ​​pelo SP"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo estiver escalonado ou derrotado, cure 5 sp em si mesmo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Suporte]] a 50%- HP, peso ATK +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                },
+                {
+                  "desc": "[[Bracket]] causar 20 danos causados ​​pelo SP"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo estiver escalonado ou derrotado, Heal 7 SP em si mesmo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "Poder de moeda +1 para cada 2 [[suporte]] no alvo (máximo 6)\n[[Bracket]] O principal alvo para essa habilidade não perde [[suporte]] para este turno.\n[[Bracket]] Por 3 voltas, perca 10 SP na curva.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir danos à afinidade da luxúria igual à potência [[bracket]] no alvo.\n- Aos 4+ ressonamento de luxúria, infligir danos por afinidade de luxúria igual a ([[suporte]] potência no alvo x 1.2).\n([[Bracket]] A potência de até apenas 99 será usada para calcular para essa habilidade.)",
+                  "summary": "[[Bracket]] Dano de afinidade de luxúria de acordo com base em [[backet]] no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] Se essa habilidade ou seus efeitos de moeda causar danos que excedem os HP restantes do alvo (em encontros focados, do núcleo), causam danos ao excesso como dano fixo entre todos os inimigos.",
+                  "summary": "[[Bracket]] infligir o excesso de dano entre todos os inimigos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "Potência de moedas +1 para cada 2 [[suporte]] no alvo (max [[estilo de tag]] 9 [[estilo de tag]]))\n[[Bracket]] O principal alvo para essa habilidade não perde [[suporte]] para este turno.\n[[Bracket]] Por 3 voltas, perca 10 SP na curva.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir danos à afinidade da luxúria igual a [[estilo de tag-estilo]] ([[bracket]] potência no alvo x 1.2) [[estilo de etiqueta]].\n-Aos 4+ ressonamento de luxúria, infligir danos por afinidade de luxúria igual a ([[suporte]] potência no alvo x [[estilo de tag]] 1.5 [[estilo tag-estilo]]).\n[[Estilo de tag]]-A 4+ luxúria a-reson., Infligir danos causados ​​pela afinidade igual a ([[suporte]] potência no alvo x 1,8). [[Estilo tag]]\n([[Bracket]] A potência de até apenas 99 será usada para calcular para essa habilidade.)",
+                  "summary": "[[Bracket]] Dano de afinidade de luxúria de acordo com base em [[backet]] no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] Se essa habilidade ou seus efeitos de moeda causar danos que excedem os HP restantes do alvo (em encontros focados, do núcleo), causam danos ao excesso como dano fixo entre todos os inimigos.",
+                  "summary": "[[Bracket]] infligir o excesso de dano entre todos os inimigos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "Potência de moedas +1 para cada 2 [[suporte]] no alvo (max [[estilo de tag]] 13 [[estilo tag]]))\n[[Bracket]] O principal alvo para essa habilidade não perde [[suporte]] para este turno.\n[[Bracket]] Por 3 voltas, perca 10 SP na curva.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir danos à afinidade da luxúria igual a ([[bracket]] potência no alvo X [[estilo de tag]] 1.5 [[estilo de etiqueta]]))\n-a 4+ ressonamento de luxúria, infligir danos por afinidade de luxúria igual a ([[suporte]] potência no alvo x [[estilo de tag]] 1.8 [[estilo de tag]]).\n-A 4+ Lust A-Reson., Infligir danos causados ​​pela afinidade da luxúria igual a ([[bracket]] potência no alvo X [[estilo de tag]] 2 [[estilo tag-estilo]]).\n([[Bracket]] A potência de até apenas 99 será usada para calcular para essa habilidade.)",
+                  "summary": "[[Bracket]] Dano de afinidade de luxúria de acordo com base em [[backet]] no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] Se essa habilidade ou seus efeitos de moeda causar danos que excedem os HP restantes do alvo (em encontros focados, do núcleo), causam danos ao excesso como dano fixo entre todos os inimigos.",
+                  "summary": "[[Bracket]] infligir o excesso de dano entre todos os inimigos."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Ganho (# da maior ressonância. - 2) Peso ATK (Máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir (2 + (ressonância de luxúria) [[Bracket]]]\n(Ressonamento máximo de luxúria. Levado em consideração: 4)",
+                  "summary": "[[Bracket]] infligir (2 + (ressonância de luxúria) [[Bracket]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Ganho (# da maior ressonância. - 2) Peso ATK (Máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir ([[estilo de tag]] 3 [[estilo de etiqueta]] + (lust reson.)) [[Bracket]]\n(Reson máxima de luxúria. Levado em consideração: [[estilo de tag]] 5 [[estilo de tag]]))",
+                  "summary": "[[Bracket]] infligir (3 + (ressonância de luxúria) [[Bracket]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Ganho (# da maior ressonância. - 2) Peso ATK (Máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir ([[estilo de tag]] 4 [[estilo de etiqueta]] + (lust reson.)) [[Bracket]]\n(Reson máxima de luxúria. Levado em consideração: [[estilo de tag]] 6 [[estilo de tag]]))",
+                  "summary": "[[Bracket]] infligir (4 + (ressonância de luxúria) [[Bracket]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +[[estilo de tag]] 3 [[estilo de tag-estilo]] [[Bracket]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[Bracket]] Heal Self e 2 outros aliados com a menor porcentagem de HP para 12,5% do Max HP desta unidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[Bracket]] Heal Self e 2 outros aliados com a menor porcentagem de HP para 12,5% do Max HP desta unidade\n[[Estilo de tag]]-Cada unidade de recuperação de curas cura +2,5% mais HP para cada 2 efeito negativo sobre si (máximo 7,5) [[estilo de tag-estilo]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[Bracket]] Heal Self e 2 outros aliados com a menor porcentagem de HP para [[estilo de tag]] 15%[[estilo de tag]] do Max HP desta unidade\n-Cada unidade de recebimento de cicatrização cura +2,5% mais HP para [[estilo de tag]] todo [[estilo de tag]] efeito negativo em si mesmos (max [[estilo tag]] 10% [[estilo de tag]]))\n[[Estilo de tag]]- em 4+ Envy Reson. Incluindo essa habilidade, curar 1 aliado adicional [[estilo de tag]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 4 [[estilo tag-estilo]] [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Heal 3 outros aliados com a menor porcentagem de HP para 15% do máximo HP desta unidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Heal 3 outros aliados com a menor porcentagem de HP para 15% do máximo HP desta unidade\n[[Estilo de tag]]-Cada unidade de recebimento de curas ganha 1 [[suporte]] até a próxima curva para cada 2 efeito negativo sobre si (máximo 2) [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Heal 3 outros aliados com a menor porcentagem de HP para [[estilo de tag]] 20%[[estilo de tag]] do máximo HP desta unidade\n-Cada unidade de recebimento de curas ganha 1 [[suporte]] até o próximo turno para [[estilo de tag]] todo efeito negativo [[estilo de tag]] em si mesmos (max [[estilo tag]] 3 [[estilo tag]]))\n[[Estilo de tag]]- em 4+ Envy Reson. Incluindo essa habilidade, curar 1 aliado adicional [[estilo de tag]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 4 [[estilo tag-estilo]] [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

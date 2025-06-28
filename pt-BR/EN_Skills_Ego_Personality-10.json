@@ -1,0 +1,587 @@
+{
+  "dataList": [
+    {
+      "id": 2100411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                },
+                {
+                  "desc": "[[Bracket]] Cura 2 aliados com as menores porcentagens de HP em 10% do máximo de HP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[[Suporte]] a 50%- HP, peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                },
+                {
+                  "desc": "[[Bracket]] Heal 2 aliados com o menor HP em 12% do máximo de HP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[[Suporte]] a 50%- HP, peso ATK +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                },
+                {
+                  "desc": "[[Bracket]] Cure 2 aliados com o menor HP em 15% do HP máx."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[[SUPORTE]] \nAlvo a unidade com mais HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de ruptura"
+                },
+                {
+                  "desc": "[[Bracket]] Cura -se em 30% dos danos causados"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[[SUPORTE]]\nAlvo a unidade com mais HP\n[[Suporte]] a 50%- HP, peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de ruptura"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 nível de defesa"
+                },
+                {
+                  "desc": "[[Bracket]] Cura -se por 50% dos danos causados"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[[SUPORTE]]\nAlvo a unidade com mais HP\n[[Suporte]] a 50%- HP, peso ATK +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de ruptura"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 5 nível de defesa"
+                },
+                {
+                  "desc": "[[Bracket]] Cura -se por 50% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo não tiver [[suporte]], infligir 4 queima"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 queima"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[[Bracket]] em mais de 4 (ressonância de luxúria), peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo não tiver [[suporte]], infligir 4 queima"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 queima"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[[Bracket]] em mais de 4 (ressonância de luxúria), peso ATK +1\n[[Bracket]] em 4+ (mais alta luxúria a-reson.), Peso ATK adicional +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo não tiver [[suporte]], infligir 4 queima"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 queima"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 10+ [[suporte]], infligir 1 ataque de energia e 1 energia de defesa no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo não tiver [[suporte]], infligir 6 queima"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 queima"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] em mais de 4 (ressonância de luxúria), peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo não tiver [[suporte]], infligir 6 queima"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 queima"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 10+ [[suporte]], infligir 1 fragilidade da luxúria no próximo turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] em mais de 4 (ressonância de luxúria), peso ATK +1\n[[Bracket]] Em 4+ (mais alta luxúria a-reson), peso ATK adicional +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo não tiver [[suporte]], infligir 6 queima"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 queima"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 10+ [[Bracket]], infligir 2 fragilidade da luxúria no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[[Bracket]] Com mais de 4 anos de resson., Peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aplique 10% do máximo HP desta unidade como escudo para si mesmo e 1 outro aliado com o menor HP atual, e aplique 2 [[suporte]] também"
+                },
+                {
+                  "desc": "- Com mais de 4 ressonomens"
+                },
+                {
+                  "desc": "- Se a unidade afetada já tiver [[suporte]], altere o valor [[backet]] para 2"
+                },
+                {
+                  "desc": "- Com mais de mais de mais de 4, a escuridão mais alta A-Reson., A habilidade acima da habilidade muda para 'aplicar 3 [[suporte]]' e 'altere o valor [[bracket]] para 3'."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[[Estilo tag-estilo]] [[backet]] Ganho (maior ressonância.-2) Peso ATK (máximo 2) [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aplicar [[estilo de tag]] 14%[[estilo de tag]] do máximo HP desta unidade como escudo para si mesmo e [[estilo de etiqueta]] (1 + (ressonamento mais alto.-2)) [[estilo de tag]] Aliados com o menor HP atual e aplicar 2 [[backet]] como o bem\n[[Estilo de tag]] (Max # de outros aliados que ganham [[backet]]: 3) [[estilo de tag]]]"
+                },
+                {
+                  "desc": "-Se a unidade afetada já tiver [[suporte]], altere o valor [[backet]] para 2 [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "-Com mais de mais de 4 melancolia mais alta, a habilidade, os efeitos acima da habilidade mudam para 'Aplicar 3 [[suporte]]' e 'Altere o valor [[bracket]] para 3'."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[[Bracket]] Ganho (maior ressonância.-2) Peso ATK (máximo 2) [[estilo de tag]] [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aplicar [[estilo de tag]] 20%[[estilo de tag]] do máximo HP desta unidade como escudo para si mesmo e (1 + (ressonância mais alta.-2)) aliados com o menor HP atual e aplicar 2 [[bracket]] e também\n(Max # de outros aliados que ganham [[suporte]]: 3)"
+                },
+                {
+                  "desc": "-Se a unidade afetada já tiver [[suporte]], altere o valor [[backet]] para 2 [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "-Com mais de mais de 4 melancolia mais alta, a habilidade, os efeitos acima da habilidade mudam para 'Aplicar 3 [[suporte]]' e 'Altere o valor [[bracket]] para 3'."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Com mais de 4 anos de resson., Peso ATK +1\n[[Bracket]] Ganhe +5 [[Bracket]] para este slot de habilidade no próximo turno de volta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "Ganho [[suporte]] (15 + 2,5 (ressonância mais alta))% do máximo HP desta unidade como blindagem para si mesmo e ganhar 2 [[suporte]]. (MAX 25%)"
+                },
+                {
+                  "desc": "- Se esta unidade já tiver [[Bracket]], altere o valor [[Bracket]] para 2"
+                },
+                {
+                  "desc": "- Com mais de mais de mais de 4 mais escuridão a-reson., A habilidade acima da habilidade muda para 'Gain 3 [[Bracket]]' e 'Altere o valor [[Bracket]] para 3'."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Estilo tag-estilo]] [[backet]] Ganho (maior ressonância.-2) Peso ATK (máximo 2) [[estilo de tag]]]\n[[Bracket]] ganho [[estilo de tag]]+10 [[backet]] [[estilo de tag]] para esse slot de habilidade no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[SPRACKET]] Ganho ([[estilo de tag]] 18 [[estilo de tag-estilo]] + [[estilo de tag]] 3 [[estilo de tag]] (ressonamento mais alto))% do máximo HP desta unidade como escudo para si mesmo e ganhar 2 [[suporte]]. (Max [[estilo de tag]] 30%[[estilo de tag]]))"
+                },
+                {
+                  "desc": "-Se esta unidade já possui [[Bracket]], altere o valor [[Bracket]] para 2 [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "-Com mais de mais de 4 melancolia mais alta, a habilidade, os efeitos acima da habilidade mudam para 'Aplicar 3 [[suporte]]' e 'Altere o valor [[bracket]] para 3'."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Ganho (ressonância mais alta. - 2) Peso ATK (máximo 2)\n[[Bracket]] Ganhe +10 [[Bracket]] para este slot de habilidade no próximo turno [[estilo de tag]] [[estilo de tag]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] e [[estilo de tag]]+3 [[backet]] contagem [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[SPRACKET]] Ganho ([[estilo de tag]] 20 [[estilo de tag-estilo]] + [[estilo de tag]] 5 [[estilo tag-estilo]] (ressonamento mais alto))% do máximo HP desta unidade como blindagem para si mesmo e ganhar 2 [[suporte]]. (Max [[estilo de tag]] 40%[[estilo de tag]]))"
+                },
+                {
+                  "desc": "-Se esta unidade já possui [[Bracket]], altere o valor [[Bracket]] para 2 [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "-Com mais de mais de 4 melancolia mais alta, a habilidade, os efeitos acima da habilidade mudam para 'Aplicar 3 [[suporte]]' e 'Altere o valor [[bracket]] para 3'."
+                },
+                {
+                  "desc": "[[Estilo de tag]]-Em mais de 4 anos, obtenha escudo adicional igual a 10% do máximo HP desta unidade [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[Bracket]] Se o Target tiver [[Bracket]], ativá -lo imediatamente duas vezes e reduzi -lo por 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]\n- Infligir 1 adicional [[suporte]] para cada 3 efeito negativo no alvo que não é [[suporte]] ou [[suporte]] (máximo 2)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[Estilo tag-estilo]] [[suporte]] em mais de inveja de 4 resson. Incluindo essa habilidade, o peso ATK +1 [[estilo de tag]]]\n[[Bracket]] Se o Target tiver [[Bracket]], ativá -lo imediatamente duas vezes e reduzi -lo por 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]\n-Infligir 1 adicional [[suporte]] para cada 3 efeito negativo no alvo que não é [[suporte]] ou [[suporte]] (máx."
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] infligir 2 [[backet]] próximo turno (uma vez por turno) [[estilo de tag]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[Estilo de tag]] [[suporte]] para cada 3 inveja de resson. Incluindo essa habilidade, o peso ATK +1 (máximo 2) [[estilo de tag]]]\n[[Bracket]] Se o Target tiver [[Bracket]], ativá -lo imediatamente duas vezes e reduzi -lo por 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]\n-Infligir 1 adicional [[suporte]] para cada [[estilo de tag]] 2 [[estilo de tag]] efeito negativo no alvo que não é [[backet]] ou [[suporte]] (máximo 2)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] em 4+ [[backet]], infligir 1 [[bracket]] (uma vez por turno) [[estilo tag-estilo]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 2 [[Bracket]] Próximo turno (uma vez por turno) [[estilo de tag]] [[estilo de tag]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Se o Target tiver [[Bracket]], ativá -lo imediatamente duas vezes e reduzi -lo por 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Se o Target tiver [[Bracket]], ative-o imediatamente duas vezes e reduza-o em 2 [[estilo de tag]] [[estilo tag-estilo]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 4 [[Bracket]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] infligir 2 [[backet]] próximo turno (uma vez por turno) [[estilo de tag]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Se o Target tiver [[Bracket]], ative-o imediatamente duas vezes e reduza-o em 2 [[estilo de tag]] [[estilo tag-estilo]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 4 [[Bracket]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[suporte]] em mais de inveja de 4 resson. Incluindo essa habilidade, infligir 1 [[suporte]] (uma vez por turno) [[estilo de etiqueta]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 2 [[Bracket]] Próximo turno (uma vez por turno) [[estilo de tag]] [[estilo de tag]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] infligir 2 [[backet]] próximo turno (uma vez por turno) [[estilo de tag]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

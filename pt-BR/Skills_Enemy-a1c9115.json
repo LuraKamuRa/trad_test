@@ -1,0 +1,62 @@
+{
+    "dataList": [
+        {
+            "id": 9101905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sky-clearing Cut",
+                    "desc": "[StartBattle]Se o alvo principal tiver 5+[Laceration], Peso ATK +1[StartBattle]Se esta unidade usará mais de 4 habilidades de ataque neste turno, potência final +5[WinDuel]Todos os aliados curam 15 sp\nSe o alvo tiver 7+[Laceration], causar +30% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver 7+[Laceration], causar +50% de dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +10[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rules of the Backstreets",
+                    "desc": "[WhenUse]Adicione mais 1 moeda por cada aliado sobrevivente (máximo)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]e +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Todos os aliados curam 20 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

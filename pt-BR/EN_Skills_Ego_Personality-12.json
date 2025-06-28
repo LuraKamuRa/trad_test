@@ -1,0 +1,593 @@
+{
+  "dataList": [
+    {
+      "id": 2120511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[[Bracket]] Com mais de 3 anos de ressonância mais alta, Peso ATK +1\n[[Bracket]] Aplicar 1 '(afinidade do pecado correspondente) Danos Up' e '1 (Affinidade do pecado correspondente) Power Up' para (1 + # de mais altos aliados.\n- em mais de 4 ressonismo correspondente, aplique 1 dano adicional '(afinidade do pecado correspondente)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura 1 aliado com a menor porcentagem de HP para 15% de hp do seu HP máximo\n- Heal (ressonância mais alta. - 2) Mais aliados (máximo 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[[Bracket]] Ganho (# da maior ressonância. - 2) Peso ATK (Máx 2)\n[[Bracket]] Aplicar 1 '(afinidade do pecado correspondente) Danos Up' e '1 (Affinidade do pecado correspondente) Power Up' para (2 + # de mais altos aliados.\n- em mais de 4 ressonismo correspondente, aplique 1 dano adicional '(afinidade do pecado correspondente)\n- Aos 5+ Resson.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura 2 aliados com as menores porcentagens de HP para 18% de hp do seu HP máximo\n- Heal (ressonância mais alta. - 2) Mais aliados (máximo 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[[Bracket]] Ganho (# da maior ressonância. - 2) Peso ATK (Máx 3)\n[[Bracket]] Aplicar 1 '(afinidade do pecado correspondente) Dano Up' e '1 (Affinidade do pecado correspondente) Power Up' para (4 + # de mais altos aliados.\n- em mais de 4 ressonismo correspondente, aplique 1 dano adicional '(afinidade do pecado correspondente)\n- Aos 5+ Resson.\n- Aos 6+ a-reson correspondente, aplique os efeitos acima na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura 4 aliados com as menores porcentagens de HP para 22% de hp do máximo HP\n- Heal (ressonância mais alta. - 2) Mais aliados (máximo 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Com mais de 3 anos de ressonância mais alta, Peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]. Infligir 2 [[suporte]] Próximo turno."
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 'fragilidade' e 1 'Power Down' para a afinidade do pecado com a maior ressonância. contar\n- Aos 4+ Resson."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Ganho (ressonância mais alta. - 2) Peso ATK (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]. Infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 'fragilidade' e 1 'Power Down' para a afinidade do pecado com a maior contagem de ressonância\n- Aos 4+ Resson.\n- Aos 5+ Resson."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Ganho (ressonância mais alta. - 2) Peso ATK (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]. Infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 'fragilidade' e 1 'Power Down' para a afinidade do pecado com a maior contagem de ressonância\n- Aos 4+ Resson.\n- Aos 5+ Resson.\n- Aos 6+ a-reson correspondente, aplique os efeitos acima na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[Bracket]] Heal 10 SP para si mesmo e 2 outros aliados com o mínimo de SP\n- Se a Target sobreviver a esse ataque, consuma 5 [[suporte]] contagem no alvo, depois curar SP adicional (para si mesmo e aliados afetados) igual a [[bracket]] potência no alvo (Max SP Heal: 20)\n- Se o alvo for derrotado, infligir 3 [[suporte]] em 2 inimigos aleatórios (para encontros focados, peças aleatórias)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[Bracket]] Heal [[estilo de tag]] 12 [[estilo de tag]] SP para si mesmo e 2 outros aliados com o mínimo de SP\n- Se a Target sobreviver a esse ataque, consuma 5 [[suporte]] contagem no alvo, depois curar SP adicional (para si mesmo e aliados afetados) igual a [[bracket]] potência no alvo (Max SP Heal: 20)\n-Se o alvo for derrotado, infligir 3 [[suporte]] e [[estilo de tag]] 1 [[backet]] [[estilo de tag]] em 2 inimigos aleatórios (para encontros focados, peças aleatórias)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[Bracket]] Heal [[estilo de tag]] 15 [[estilo de tag]] SP para si mesmo e 2 outros aliados com o mínimo de SP\n-Se o alvo sobreviver a esse ataque, consuma [[estilo de tag]] 3 [[estilo de tag-estilo]] [[backet]] contagem no alvo, depois curar SP adicional (para si mesmo e afetado) igual a [[suporte]] potência no alvo (Max SP Heal: 20)\n-Se o alvo for derrotado, infligir 3 [[suporte]] e 1 [[suporte]] em [[estilo de tag]] 3 [[estilo de tag]] inimigos aleatórios (para encontros focados, peças aleatórias)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]. Em mais de 3 anos, infligir 1 ressonante, infligir 1 [[suporte]] adicional]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]. Infligir 1 adicional [[suporte]] para cada 3 ressonométrica. (Máx 2)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nSe o alvo tiver [[suporte]], causar +50% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]. Infligir 1 adicional [[suporte]] para cada 2 ressonante sombria. (Máx 2)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "Quando essa habilidade vira moedas, cada moeda vira contra um inimigo aleatório entre seus alvos.\n- A primeira moeda sempre tem como alvo o alvo principal.\n- Todos os efeitos de 'hit' e todos os danos causados ​​por cada moeda são infligidos apenas contra o alvo aleatório que a moeda selecionada.\nAo infligir [[suporte]] com esses efeitos de habilidade: (chance de virar as cabeças)% Chance de infligir os partidos. Se esta unidade não infligiu os partidos, infligir os vivos. (calcula cada [[suporte]] pilha de forma independente)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 1 Random [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 1 Random [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ~ 2 aleatório [[suporte]]"
+                },
+                {
+                  "desc": "[[Suporte]] perde 2 ~ 6 sp"
+                },
+                {
+                  "desc": "[[Bracket]] Em 0+ SP, reutilize esta moeda (5 vezes máximo por habilidade)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "Quando essa habilidade vira moedas, cada moeda vira contra um inimigo aleatório entre seus alvos.\n- A primeira moeda sempre tem como alvo o alvo principal.\n- Todos os efeitos de 'hit' e todos os danos causados ​​por cada moeda são infligidos apenas contra o alvo aleatório que a moeda selecionada.\nAo infligir [[suporte]] com esses efeitos de habilidade: (chance de virar as cabeças)% Chance de infligir os partidos. Se esta unidade não infligiu os partidos, infligir os vivos. (calcula cada [[suporte]] pilha de forma independente)\n[[Estilo de tag]] [[backet]] Heal (# da moeda 3 hits x 2) sp [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 1 Random [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 1 Random [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 ~ 2 aleatório [[bracket]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Lose 2 ~ 6 SP [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Em 0+ SP, reutilize esta moeda (5 vezes max por habilidade) [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "Quando essa habilidade vira moedas, cada moeda vira contra um inimigo aleatório entre seus alvos.\n- A primeira moeda sempre tem como alvo o alvo principal.\n- Todos os efeitos de 'hit' e todos os danos causados ​​por cada moeda são infligidos apenas contra o alvo aleatório que a moeda selecionada.\nAo infligir [[suporte]] com esses efeitos de habilidade: (chance de virar as cabeças)% Chance de infligir os partidos. Se esta unidade não infligiu os partidos, infligir os vivos. (calcula cada [[suporte]] pilha de forma independente)\n[[Bracket]] Heal [[estilo de tag]] (# da moeda 3 hits x 3) [[estilo de tag]] SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 1 Random [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 1 Random [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 ~ 2 aleatório [[bracket]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Lose 2 ~ 6 SP [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Em 0+ SP, reutilize esta moeda (5 vezes max por habilidade) [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nSe a Target tiver menos de 0 SP, causar mais danos quanto mais o valor do SP será de 0 (+1% mais dano para cada SP ausente, max 45%)\nContra alvos sem SP: causar +1% mais danos a cada 2 [[suporte]] no alvo (no máximo 45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 4 [[suporte]] (os vivos)"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]] (o partido)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nSe a Target tiver menos de 0 SP, causar mais danos quanto mais o valor do SP será de 0 (+1% mais dano para cada SP ausente, max 45%)\nContra alvos sem SP: causar +1% mais danos a cada 2 [[suporte]] no alvo (no máximo 45%)\n[[Estilo de tag]] [[backet]] Heal 5 sp [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]] (os vivos) [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]] (o partido) [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo de tag]] [[backet]] infligir +3 [[backet]] contagem [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nSe a Target tiver menos de 0 SP, causar mais danos quanto mais o valor do SP será de 0 (+1% mais dano para cada SP ausente, max 45%)\nContra alvos sem SP: causar +1% mais danos a cada 2 [[suporte]] no alvo (no máximo 45%)\n[[Bracket]] Heal 5 SP [[estilo de tag]] [[estilo de tag-estilo]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] (os vivos) [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] (o partido) [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo de tag]] [[suporte]] Se o alvo tiver 50%- hp, infligir danos da escuridão igual a \"todos\" [[bracket]] valores no alvo\n- \"All\" = a soma dos vivos e dos partidos no alvo [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[[Bracket]] Em Max HP, Heal 10 SP na extremidade da curva e ganhe 1 [[suporte]] Próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo estiver em estados escalonados, baixos de moral ou pânico, infligir 1 [[suporte]] na próxima curva"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[[Estilo de tag]] Se o Target tiver menos de 0 SP, preça +1% mais dano para cada valor SP abaixo de 0 (máximo 45%) [[estilo de tag]]]\n[[Bracket]] Em Max HP, Heal 10 SP na extremidade da curva e ganhe 1 [[suporte]] Próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal (2 + maior ressonância.)% Do HP ausente no eu (no máximo 30% por habilidade)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 4 [[Bracket]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo estiver em estados escalonados, baixos de moral ou pânico, infligir 1 [[suporte]] na próxima curva [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "Se a Target tiver menos de 0 SP, acesse +1% mais dano para cada valor SP abaixo de 0 (máximo 45%)\n[[Bracket]] Em Max HP, Heal [[estilo de tag]] 15 [[estilo de tag]] SP na extremidade do turno e ganho 1 [[suporte]] no próximo turno [[estilo tag]] [[estilo tag]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal ([[estilo de tag]] 3 [[estilo de tag-estilo]] + ressonamento mais alto."
+                },
+                {
+                  "desc": "[[Bracket]] infligir 4 [[Bracket]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo estiver em estados escalonados, baixos de moral ou pânico, infligir 1 [[suporte]] [[estilo de tag]] e fragilidade [[bracket]] contra a afinidade da maior ressonância."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Suporte]] Cura 10 hp em si mesmo\n[[Bracket]] Em Max HP, Heal 10 SP na extremidade da curva e ganhe 1 [[suporte]] Próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo estiver em estados escalonados, baixos de moral ou pânico, infligir 1 [[suporte]] na próxima curva"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Estilo de tag]] Se o Target tiver menos de 0 SP, preça +1% mais dano para cada valor SP abaixo de 0 (máximo 45%) [[estilo de tag]]]\n[[Suporte]] Cura 10 hp em si mesmo\n[[Bracket]] Em Max HP, Heal [[estilo de tag]] 15 [[estilo de tag]] SP na extremidade e ganho 1 [[suporte]] no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal (2 + ressonância mais alta.)% Do HP ausente (no máximo 30% por habilidade)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 4 [[Bracket]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo estiver em estados escalonados, baixos de moral ou pânico, infligir 1 [[suporte]] na próxima curva [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nSe a Target tiver menos de 0 SP, acesse +1% mais dano para cada valor SP abaixo de 0 (máximo 45%)\n[[Suporte]] Cura 10 hp em si mesmo\n[[Bracket]] Em Max HP, Heal [[estilo de tag]] 20 [[estilo de tag]] SP na extremidade e ganho 1 [[suporte]] no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal ([[estilo de tag]] 3 [[estilo de tag-estilo]] + ressonamento mais alto."
+                },
+                {
+                  "desc": "[[Bracket]] infligir 4 [[Bracket]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo estiver em estados escalonados, baixos de moral ou pânico, infligir 1 [[suporte]] [[estilo de tag]] e 2 fragilidade [[bracket]] contra a afinidade da maior ressonância."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

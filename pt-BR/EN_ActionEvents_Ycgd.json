@@ -1,0 +1,150 @@
+{
+  "dataList": [
+    {
+      "id": 10506,
+      "name": "Black Ledger Choice",
+      "subDesc": "",
+      "desc": "\"Somos o território do clã Kurokumo daqui em diante.\"\n\n\"É tão difícil para você entender que você precisa pagar o preço de usar nossa estrada? Hein?\"\n\nAs pessoas vestidas com roupas de clã Kurokumo estão no caminho de civis desarmados, ameaçando -os.\n\n\"... suponho que a desculpa foi suficiente para eles também pisar em nosso território.\"\n\nAeng-du não esconde sua indignação. Ela está rangendo os dentes.\n\nO que devemos fazer sobre eles?",
+      "options": [
+        {
+          "message": "Salvar os civis.",
+          "messageDesc": "Ganhe um presente sem palavras, por exemplo, um presente, dependendo do resultado da seguinte escolha"
+        },
+        {
+          "message": "Vire um olho cego.",
+          "result": [
+            "\"Another day, another mugging in the City.\"\n\nOne of the Sinners mutters with a sigh.\n\n\"......\"\n\nAeng-du stands there with her eyes pleading us to do something, but does not step forward.\n\nWe should avoid unnecessary battles...\n\n... if we are to survive the coming challenges and face Distorted Bamboo-hatted Kim who awaits us at the end of this path.\n\nThis left a bad taste in our mouths as we ignored the commotion and walked away."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050602,
+      "name": "Black Ledger Choice #2",
+      "subDesc": "",
+      "desc": "\"Obrigado, muito obrigado ...\"\n\nOs civis, livres da ameaça do clã Kurokumo, cada um arco e nos agradecem.\n\n\"Mas ... você não está vestido como um local.\"\n\n\"Se você não se importa com nós ... quem você pode ser?\"",
+      "options": [
+        {
+          "message": "Diga que você está apenas passando.",
+          "result": [
+            "\"Huhh...?\"\n\nThe civilians appear puzzled.\n\n\"You're just... 'passing by' with this many people behind you?\"\n\nMaybe I should've given my answer more thought before replying...\n\n\"Why would you help us if you don't have anything to do with the Kurokumo Clan...?\"\n\nThey looked at each other, clearly perplexed.\n\n\"T-thank you anyways.\"\n\n\"Sa-safe travels to you!\"\n\nWith that, they hurriedly left the scene."
+          ]
+        },
+        {
+          "message": "Diga que você está com a linhagem da lâmina.",
+          "messageDesc": "Verificação de vantagem do orgulho. Passe para obter um presente sem palavras -chave, por exemplo."
+        }
+      ]
+    },
+    {
+      "id": 10507,
+      "name": "Rusted Hilt Choice",
+      "subDesc": "",
+      "desc": "\"Esta deve ser uma taberna ...\"\n\nEste bar ou uma pousada é movimentada, e seus clientes estão energicamente conversando. Todos eles parecem estar de bom humor.\n\nUm trio entre a multidão está discutindo e apontando os dedos um para o outro.\n\n\"Não, não! Não entendo por que isso é uma questão de disputa! Uma lâmina é uma arma feita para cortar, e a maneira 'certa' de usar uma lâmina é cortar com ela.\"\n\n\"Você não sabe do que está falando! Esfaqueie um único ponto com todas as suas forças, e seu inimigo certamente cairá!\"\n\n\"... vocês dois estão errados. Seus cortes e facadas sem coração não farão nada além de mijar. Eles estarão de pé imediatamente!\"\n\n\"Fiquei seus crânios com a ponta robusta - hilt ou a bainha, e derrubá -los para sempre! Faça -os muito atordoados para se levantar!\"\n\nO trio parecia estar falando sobre algo muito sério, então paramos para ouvir o debate deles ...\n\nDe repente, eles se viraram em nossa direção e nos chamaram.\n\n\"Você está lá! Sua banda pode lidar claramente com suas armas, estou errado?\"\n\n\"Responda -nos. Qual é a melhor maneira de empunhar sua espada?\"\n\n\"Claro, para cortar é a melhor maneira de usar uma lâmina, não é?\"\n\nO que devo dizer sobre isso?",
+      "options": [
+        {
+          "message": "Certo. Cortar é o caminho a percorrer ao empunhar uma lâmina.",
+          "messageDesc": "Verificação de vantagem de luxúria e orgulho. Passe para ganhar uma barra, por exemplo, presente."
+        },
+        {
+          "message": "Não é verdade. Slash, Pierce e Blunt todos têm seus usos.",
+          "result": [
+            "\"Hm.\"\n\nThe three of them suddenly grow very obviously uncomfortable.\n\n\"That's the right answer, isn't it?\"\n\n\"That's certainly the textbook answer.\"\n\n\"It's not like we don't know what the right answer is...\"\n\nThey all take frustrated swigs from their respective cups.\n\n\"What, you think we're sitting here talking about weapons like generals preparing for war?\"\n\n\"It's just a fun topic to argue about with liquor in our bellies. What a way to kill the mood with that uninspired answer...\"\n\n\"Bah, forget it. Be on your way, then!\"\n\nThey turned away from us and returned to drinking, clearly having lost interest."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10508,
+      "name": "Fractured & Broken Blade Choice",
+      "subDesc": "",
+      "desc": "\"Isso é estranho ... essa névoa é ...\"\n\nNão sei quando aconteceu, mas uma espessa camada de névoa desceu ao nosso redor.\n\n\"Eu ouvi uma história de um desses passeios noturnos. Nesse conto, um viajante sem noção vantajoso, sem atenção, entra em uma névoa brumosa e se vê antes de um ser outro mundo -\"\n\n\"Aaagh! Pare, pare!\"\n\nAssim que os pecadores começaram a brigar em voz alta, percebi que havia algo nebuloso em pé em nosso caminho.\n\n\"Isso é coisa ... dançando?\"\n\nUma coisa misteriosa, vestida de branco, dançou graciosamente diante de nós com uma grande lâmina na mão.\n\nQuando encontrou meu olhar ... ou, quando eu pensei que ...\n\n... Uma lâmina revestida havia se materializado na minha mão.\n\nO que isso quer que eu faça com isso?",
+      "options": [
+        {
+          "message": "Assuma uma posição como se eu estivesse prestes a desenhar a espada.",
+          "messageDesc": "Verificação de vantagem de luxúria e sombra. Passe para ganhar um sangramento, por exemplo, presente."
+        },
+        {
+          "message": "Estabelecendo a espada e segure -a do meu lado.",
+          "messageDesc": "Verificação de vantagens do Pride & Wrath. Passe para ganhar um posto, por exemplo, presente."
+        },
+        {
+          "message": "Deixe a espada, vamos sair.",
+          "result": [
+            "It's not an Abnormality we have to deal with, and the company never said that we had to engage them.\n\nI should always avoid battles against unknown entities.\n\nI tossed the sword on the ground before fleeing from the scene with the Sinners.\n\nA weeping laughter seemed to follow me the entire way back."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10509,
+      "name": "Red Tassel Choice",
+      "subDesc": "",
+      "desc": "Ouvimos um par de vozes enquanto caminhamos ao lado de uma cerca de pedra. Os dois viajantes estão carregando lâminas.\n\n\"Tenho pena das pessoas aqui ...\"\n\n\"Bem, a decisão de uma asa é absoluta por suas penas. Há muito pouco que eles podem fazer sobre isso\".\n\nUm deles se destaca - suas roupas os diferenciam dos habitantes locais. Talvez eles não sejam daqui.\n\n\"Ainda assim, para permitir que o clã Kurokumo entrasse aqui? Isso é demais.\"\n\n\"A asa se preocupa com nada além de agitar suas asas. Tudo o resto se torna insignificante.\"\n\nParece que eles estão falando sobre o atual S Corp.\n\n\"Mais pessoas de fora, eu vejo. Que conveniente.\"\n\nO par pára em suas trilhas e depois se vira para nos enfrentar.\n\n\"O clã Kurokumo ... não. Você não usa suas roupas. Você não parece ser camponeses que procuram ganhar algum dinheiro no caos das ruas de volta ...\"\n\n\"Bem, então. O que vocês estranhos acham do clima atual?\"\n\nComo devo responder isso?",
+      "options": [
+        {
+          "message": "É a cidade. É exatamente isso que acontece com pequenas batatas fritas se misturando em conflitos em larga escala.",
+          "messageDesc": "Verificação de vantagem sombria e orgulho. Passe para ganhar uma barra, por exemplo, presente."
+        },
+        {
+          "message": "Não tenho pensamentos sobre o assunto. Uma pena, no entanto.",
+          "result": [
+            "\"A pity, you say...\"\n\nThe sword-carrying man crosses his arms, then sighs.\n\n\"Sure, I suppose that's one way of looking at it. A thought must remain free, indeed.\"\n\n\"Yet, if you have no thoughts regarding the matter, do understand that to feel pity may be a sin of its own.\"\n\nThe pair walks away. They both wear a dark expression."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10510,
+      "name": "Bamboo Hat & Dopo Robe Choice",
+      "subDesc": "",
+      "desc": "As letras azuis cintilantes flutuam diante de você.\n\nA maneira como essas palavras semelhantes são ordenadas torna difícil entender o que está tentando dizer.\n\nDizer o que é certo é certo e o que está errado está errado não está certo,\n\nMas isso não quer dizer que dizer que o que está errado está certo e certo está errado está errado.\n\nDizer que o que está errado é certo e certo está errado não está errado,\n\nE dizer que o que é certo é certo e o que está errado está errado é, por sua vez, dizer que esse errado está certo.\n\n... Quer minha impressão dessas palavras?\n\nDo que está falando?",
+      "options": [
+        {
+          "message": "O que é 'certo' e o que está 'errado' ... é realmente tão importante dizer qual é qual? Diga que o que realmente importa é outra coisa.",
+          "messageDesc": "Verificação de vantagem de luxúria e orgulho. Passe para ganhar um posto, por exemplo, presente."
+        },
+        {
+          "message": "Ainda assim, deve -se dizer que o que é certo está certo.",
+          "messageDesc": "Verificação de vantagem sombria e orgulho. Passe para ganhar uma barra, por exemplo, presente."
+        }
+      ]
+    },
+    {
+      "id": 971049,
+      "name": "Worn Hilt Choice",
+      "subDesc": "",
+      "desc": "\"Isso é uma taberna?\"\n\nEntramos no que parece ser uma espécie de bar, seus convidados bebendo e conversando sobre grupos.\n\nEncontramos um assento para relaxar, mas outro grupo que estava parado nas proximidades se aproxima de nós.\n\n\"O que está acontecendo aqui? Eu não vi seus rostos por aqui antes ...\"\n\n\"Este é um bom dia, meninos - deixe este slide. Não desperte problemas desnecessários.\"\n\n\"Sim, Dame! Claro, Dame!\"\n\nÉ quando percebemos que todos estão carregando espadas com eles.\n\nEspadas gravadas com padrões elaborados de nuvens.\n\n\"Você ouviu falar do novo sindicato que surgiu hoje?\"\n\n\"Ah, o ... o grupo que usa principalmente lanças, certo ...?\"\n\n\"Os idiotas. As espadas são a forma mais superior de armas que existe, o ápice das armas. E elas usam spears [[tag-i]] [[tag-i]]?\n\n\"Vamos ser completamente honestos aqui, pessoal. Claro, somos uma subsidiária do polegar, mas há apenas algo durão em uma espada, não é mais legal do que punhos ou armas\".\n\n\"Ainda bem que temos essas pessoas boas aqui para nos dar uma avaliação muito justa sobre a superioridade das espadas.\n\nSentimos que o olhar deles se virando simultaneamente para nos olhar.",
+      "options": [
+        {
+          "message": "As espadas são realmente tudo isso, no entanto?",
+          "result": [
+            "\"Let's put 'em six feet under. Let's go.\"\n\n\"Tsk, it's not like we seriously think that swords are actually the best weapons in the world.\"\n\n\"Look around ya, see anyone without a sword? Learn to read the room.\"\n\n\"Looks like you pissed off my boys. Would it have hurt to pretend to go along with them?\"\n\n\"I think I'll head out now. Remember what I said earlier—don't start trouble and leave them alone.\"\n\n\"Yes, dame!\"\n\nAs soon as the person who appeared to be their leader left the room, things became a lot more tense all of a sudden...\n\nWe quietly and carefully excused ourselves and left the place."
+          ]
+        },
+        {
+          "message": "As espadas são de fato o rei de todas as armas. Saudação!",
+          "messageDesc": "Verificação de vantagem de luxúria e orgulho. Passe para obter um presente sem palavras -chave, por exemplo."
+        }
+      ]
+    },
+    {
+      "id": 971050,
+      "name": "Bamboo Hat & Dopo Robe Choice",
+      "subDesc": "",
+      "desc": "Caminhando ao longo da parede de tijolos de pedra, ouvimos um par de vozes conversando.\n\n\"Eu entendo que você está tendo algum problema ultimamente\".\n\n\"Não teríamos tido problemas com os tributos se esses bastardos de linhagem de lâmina não tivessem aparecido de repente em nosso território, senhor ...\"\n\nA roupa de um dos dois se destaca.\n\nEu posso ouvir alguns dos pecadores reconhecendo -o como o uniforme do polegar.\n\n\"Primeiro, exato o castigo apropriado para invadir seu território ...\"\n\n\"Claro, senhor.\"\n\n\"Mas não se esqueça de mostrar o respeito certo por aqueles que merecem. Eu entendi?\"\n\n\"Espere. Quem está lá? É a linhagem da lâmina ...? Hm, não parece.\"\n\nPercebendo nossa presença, o par se vira para nos enfrentar.\n\n\"Hm. Por que não pedimos a opinião deles também, agora que eles estão aqui?\"\n\n\"Você está lá. Quais são seus pensamentos sobre o status atual do clã Kurokumo?\"\n\n\"É melhor escolher suas palavras com cuidado.\"",
+      "options": [
+        {
+          "message": "Infelizmente, a guerra com a linhagem da lâmina parece ser a única opção.",
+          "messageDesc": "Verificação de vantagem de luxúria e orgulho. Passe para obter um presente sem palavras -chave, por exemplo."
+        },
+        {
+          "message": "Lugar errado na hora errada, cara.",
+          "result": [
+            "\"A regular occurrence in the City.\"\n\n\"Why don't we just let 'em go, sir? Doesn't seem like they have anything interesting to contribute.\"\n\n\"You heard him. Scram, before we change our minds.\""
+          ]
+        }
+      ]
+    }
+  ]
+}

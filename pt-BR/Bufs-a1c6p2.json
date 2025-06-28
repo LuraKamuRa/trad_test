@@ -1,0 +1,84 @@
+{
+    "dataList": [
+        {
+            "id": "Vengeance_LowMorale",
+            "name": "Revenge",
+            "desc": "- Moral baixo\n- Ganhe 3 níveis de defesa reduzidos e 3 de dano aumentados",
+            "summary": "Ganhe 3 níveis de defesa reduzidos e 3 de dano aumentados",
+            "undefined": "-"
+        },
+        {
+            "id": "Vengeance_Panic",
+            "name": "Revenge",
+            "desc": "- Pânico\n- Ganhe 6 níveis de defesa para baixo e 5 de dano para cima",
+            "summary": "Ganhe 6 níveis de defesa reduzidos e 5 de dano aumentados",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBe",
+            "name": "Marked Prey",
+            "desc": "- Com cada golpe que esta unidade recebe, recebe dano de Slash bônus igual a 10% do dano de HP recebido. Expira no próximo turno.\n- Se esta unidade não receber dano durante este turno, inflige 1 Complexo de Inferioridade após o ataque e expira\n- Valor Máximo: 1",
+            "summary": "Receba dano de Corte bônus igual a 10% do dano de HP recebido",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBf",
+            "name": "Inferiority Complex",
+            "desc": "- Toda vez que esta unidade for atingida, receba ((20% do dano de HP recebido) * {0}) de dano\n- Valor Máximo: 5",
+            "summary": "Recebe ((20% do dano de HP recebido) * {0}) de dano",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBa",
+            "name": "Explosive Gloom",
+            "desc": "- Resistência de Afinidade de Obscuridade +0,3\n- Resistência de Outra Afinidade -0,5\n- Quando atingido: inflija 3 de dano de SP no atacante, ganhe 1 Contagem de Afundamento e ganhe 1 Aumento de Nível de Ofensa no próximo turno (9 vezes por turno)",
+            "summary": "Resistência a Gloom (e somente Gloom) se torna Fatal.\nQuando atingido: Inflija 3 de dano SP no atacante, ganhe 1 Sinking Count e ganhe 1 Offense Level Up no próximo turno.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBb",
+            "name": "Explosive Envy",
+            "desc": "- Resistência de Afinidade de Inveja +0,3\n- Resistência de Outra Afinidade -0,5\n- Quando atingido: aplique 1 Aumento de Nível de Ofensa, inflija 2 Sangramento e 2 Contagem de Sangramento no atacante e ganhe 1 Redução de Nível de Defesa no próximo turno (9 vezes por turno)",
+            "summary": "Resistência à Inveja (e somente à Inveja) se torna Fatal\nQuando atingido: aplique 1 Aumento de Nível de Ofensa, 2 Sangramento e 2 Contagem de Sangramento no alvo e ganhe 1 Redução de Nível de Defesa no próximo turno",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBc",
+            "name": "Explosive Wrath",
+            "desc": "- Resistência de Afinidade à Ira +0,3\n- Resistência a Outras Afinidades -0,5\n- Quando atingido: Ganhe 1 Nível de Ataque Aumentado e 1 Nível de Defesa Diminuído no próximo turno (9 vezes por turno)",
+            "summary": "Resistência à Ira (e somente à Ira) se torna Fatal.\nQuando atingido, ganhe 1 Nível de Ataque Aumentado e 1 Nível de Defesa Diminuído.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBd",
+            "name": "Deep Bereavement",
+            "desc": "Início do turno: Perca 5 de Velocidade e ganhe 5 de Nível de Defesa Reduzido",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBg",
+            "name": "Misshapen Painting",
+            "desc": "- Moral baixo\n- Ganhe 1 aumento de poder de ataque e 1 frágil",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBh",
+            "name": "Misshapen Painting",
+            "desc": "- Pânico\n- Ganhe 1 Plus Coin Boost e 3 Fragile",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBi",
+            "name": "Hatred",
+            "desc": "- Moral baixo\n- Vitória no confronto: Ganhe 1 nível de ataque no próximo turno. (máx. 3 por turno)\nPerda no confronto: Ganhe 1 nível de defesa no próximo turno. (máx. 3 por turno)",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBj",
+            "iconID": "Vengeanse_LowMoral",
+            "name": "Hatred",
+            "desc": "- Pânico\n- Vitória no Clash: Ganhe 1 Nível de Ataque neste turno e no próximo turno. (máx. 3 por turno)\nPerda no Clash: Ganhe 1 Nível de Defesa. (máx. 3 por turno)\nFim do Turno: Ganhe 2 de Aceleração no próximo turno",
+            "undefined": "-"
+        }
+    ]
+}

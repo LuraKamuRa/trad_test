@@ -1,0 +1,227 @@
+{
+    "dataList": [
+        {
+            "id": 835001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Grovel Before Me",
+                    "desc": "[WhenUse]Se o alvo tiver 4+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 835002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pathetic One",
+                    "desc": "[WhenUse]Se o alvo tiver 4+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 835003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Go... Go Away...!",
+                    "desc": "[WhenUse]Se o alvo tiver 4+[Laceration], Clash Power +1[WhenUse]Acordo +5% mais danos para cada[Laceration]Conte com o alvo (no máximo 20%)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 835004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Parade's Prince",
+                    "desc": "[StartBattle]Ganho de peso ATK igual ao número de alvos com[Laceration](Máx 5)[WhenUse]Se o alvo tiver 4+[Laceration], Potência base +1[WhenUse]Se o alvo tiver 3+[Laceration], Power de moedas +1[DefeatDuel]Perder 1[KeptBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 835005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blood... Blood... Blood...!",
+                    "desc": "[WhenUse]Se o alvo tiver 8+[Laceration], Power de moedas +1[DefeatDuel]Perder 1[KeptBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], a próxima moeda causa +20% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[KeptBlood]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 835006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Leave Me Alone...!",
+                    "desc": "[WhenUseEvade]Potência base +1 para cada[Laceration]Conte com o alvo (máximo 4)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 835007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I Am... The Prince... of the Parade...!",
+                    "desc": "[CantDuel]\n[WhenUse]Dobrar a quantidade curada por hardblood[TabExplain]Espada[WhenUse]Redefinir SP para 0[EndSkill]Ganhe 10[KeptBlood]Não fica escalonado neste turno; As extremidades viram depois de usar essa habilidade.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 835008,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'm... Never... Going Back...!",
+                    "desc": "[WhenUse]Clash Power +1 para cada 5[Laceration]no alvo (máximo 3)[WhenUse]Se o alvo tiver 4+[Laceration], Power de moedas +1[WhenUse]Acordo +5% mais danos para cada[Laceration]no alvo (máximo 20%)[WhenUse]Dobrar a quantidade curada por hardblood[TabExplain]Espada[EndSkill]Ganhe 10[KeptBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,656 @@
+{
+    "dataList": [
+        {
+            "id": 2080511,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[EndSkill]Heal 15 SP para 4 aliados com o mínimo de SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +3 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Dê +1 de postura, contando para 1 aliado aleatório"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[EndSkill]Heal 20 SP para 4 aliados com o mínimo SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +4 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Dê +1 de postura, contando para 1 aliado aleatório"
+                                },
+                                {
+                                    "desc": "[EndSkillHead]Aplique 1[PenetrateResultUp]e 1[AttackDmgUp]a 4 aliados com o maior SP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[EndSkill]Heal 25 SP para 4 aliados com o mínimo de SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +6 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Dê +2 de ponto de equilíbrio para 1 aliado aleatório"
+                                },
+                                {
+                                    "desc": "[EndSkill]Aplique 2[PenetrateResultUp]e 2[AttackDmgUp]a 4 aliados com o maior SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080521,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1 Poise e +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 fragilidade do orgulho nesta virada e na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Curar 3% de Max HP em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1 Poise e +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 fragilidade do orgulho nesta virada e na próxima curva"
+                                },
+                                {
+                                    "desc": "[EndSkillTail]Aplique 2 danos na sua curva e na próxima curva para 4 aliados com o mínimo de SP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar 3% de Max HP em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1 Poise e +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 fragilidade do orgulho nesta virada e na próxima curva"
+                                },
+                                {
+                                    "desc": "[EndSkill]Aplique 2 danos na sua curva e na próxima curva para 4 aliados com o mínimo de SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wingbeat",
+                    "abName": "Fairy Festival",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura 15% de Max HP em si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Perder 1 ~ 2 sp"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Reutilizar esta moeda (5 vezes por habilidade)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se em 4 ~ 8% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[ShamrockTakeDamageUp]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ~ 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Wingbeat",
+                    "abName": "Fairy Festival",
+                    "desc": "Se a cura dessa habilidade exceder o máximo da unidade, redirecreva o excesso de cura para 1 aliado com a menor porcentagem de HP em vez",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar<style=\"highlight\">18%</style>de Max HP em si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Perder 1 ~ 2 sp"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Reutilizar esta moeda (5 vezes por habilidade)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se por<style=\"highlight\">6 ~ 10</style>% de dano causado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[ShamrockTakeDamageUp]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ~ 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Wingbeat",
+                    "abName": "Fairy Festival",
+                    "desc": "Se a cura dessa habilidade exceder o máximo da unidade, redirecreva o excesso de cura para 1 aliado com a menor porcentagem de HP em vez",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar<style=\"highlight\">20</style>% de Max HP em si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Perder 1 ~ 2 sp"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Reutilizar esta moeda (5 vezes por habilidade)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se por<style=\"highlight\">8 ~ 12</style>% de dano causado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[ShamrockTakeDamageUp]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ~<style=\"highlight\">4</style> [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080621,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wingbeat",
+                    "abName": "Fairy Festival",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o menor hp do núcleo[BeforeAttack]Causar 5% de dano hp a no máximo 5 outros aliados aleatórios\n- Cure HP em igual igual aos danos causados ​​a aliados.\n- Se esta unidade causou danos a um aliado, ganhe 2[Enhancement]Esta vez, e ganhe 2[Agility]Próximo turno.\n(Uma vez por turno. O 'dano causado' inclui danos causados ​​ao escudo HP. Esse efeito pode matar aliados.)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Curar -se em 10% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 1 ~ 4[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Wingbeat",
+                    "abName": "Fairy Festival",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o menor hp do núcleo<style=\"highlight\">[BeforeAttack]Ganho (# de maior ressonância. -2) Peso ATK (máximo 1)</style>\n[BeforeAttack]Causar 5% de dano hp a no máximo 5 outros aliados aleatórios\n- Cure HP em igual igual aos danos causados ​​a aliados.\n- Se esta unidade causou danos a um aliado, ganhe 2[Enhancement]Esta vez, e ganhe 2[Agility]Próximo turno.\n(Uma vez por turno. O 'dano causado' inclui danos causados ​​ao escudo HP. Esse efeito pode matar aliados.)<style=\"highlight\">[EndSkill]Se a cura desta habilidade exceder o máximo da unidade, ganho (excesso de cura/max hp) x 10[AttackUp]Próximo turno. (máximo 3 por turno)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Curar -se por<style=\"highlight\">15</style>% de dano causado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir<style=\"highlight\">2 ~ 5</style> [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Wingbeat",
+                    "abName": "Fairy Festival",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o menor hp do núcleo[BeforeAttack]Ganho (# de maior ressonância. -2) Peso ATK (Max<style=\"highlight\">2</style>)\n[BeforeAttack]Causar 5% de dano hp a no máximo 5 outros aliados aleatórios\n- Cure HP em igual igual aos danos causados ​​a aliados.\n- Se esta unidade causou danos a um aliado, ganhe 2[Enhancement]Esta vez, e ganhe 2[Agility]Próximo turno.\n(Uma vez por turno. O 'dano causado' inclui danos causados ​​ao escudo HP. Esse efeito pode matar aliados.)[EndSkill]Se a cura desta habilidade exceder o máximo da unidade, ganho (excesso de cura/max hp) x 10[AttackUp]Próximo turno. (máx<style=\"highlight\">6</style>por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Curar -se por<style=\"highlight\">20</style>% de dano causado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir<style=\"highlight\">3 ~ 6</style> [Laceration]"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganho 1[Enhancement]Próximo turno (máximo 3)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[BeforeAttack]Com mais de 4 ressonamento mais alto, ganho +1 peso ATK[EndSkill]Curar 2 aliados com as menores porcentagens de HP em (5 + (soma de[Sinking]Potência e contagem com o alvo principal)/3)% HP (máximo 15%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Curse]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[UninvitedGuestPersonality]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[BeforeAttack]Com mais de 4 ressonamento mais alto, ganho +1 peso ATK<style=\"highlight\">- Se o referido resson. foi uma ressonância sombria, ganho +1 peso ATK</style>\n[EndSkill]Heal 2 aliados com as menores porcentagens de HP por (<style=\"highlight\">10</style>+ (soma de[Sinking]Potência e contagem com o alvo principal)/3)% HP (máximo 15%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Curse]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Em mais de 4 resson., Infligir 1[AzureTakeDamageUp]</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[UninvitedGuestPersonality]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[BeforeAttack]Com mais de 4 ressonamento mais alto, ganho +1 peso ATK\n- Se o referido resson. foi uma ressonância sombria, ganho +1 peso ATK[EndSkill]Curar 2 aliados com as menores porcentagens de HP em (10 + (soma de[Sinking]Potência e contagem com o alvo principal)/3)% HP (max<style=\"highlight\">20</style>%)\n<style=\"highlight\">- Se a maior ressonância. foi uma ressonante de mais de 4 mais sombria., Cura 10% a mais do máximo HP</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">+3</style> [Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">2</style> [Curse]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 4 resson., Infligir 1[AzureTakeDamageUp]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[UninvitedGuestPersonality]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[CantIdentify]Prioriza os alvos com mais[Sinking]\n[BeforeAttack]Perca HP em 10% do máximo de HP (não é escalonado devido a esse efeito)[EndSkill]Curar 3 outros aliados com as menores porcentagens de HP em (5 + (soma de[Sinking]Potência e contagem com o alvo principal)/3)% HP (no máximo 10%)\n- Com mais de 4 ressonismo mais alto, curar 1 aliado adicional",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Curse]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 3 anos, infligir 1 ressonante, infligir 1[AzureTakeDamageUp]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[UninvitedGuestPersonality]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[CantIdentify]Prioriza os alvos com mais[Sinking]\n[BeforeAttack]Perca HP em 10% do máximo de HP (não é escalonado devido a esse efeito)[EndSkill]Curar 3 outros aliados com as menores porcentagens de HP por (<style=\"highlight\">10</style>+ (soma de[Sinking]Potência e contagem com o alvo principal)/3)% HP (max<style=\"highlight\">15</style>%)\n- Com mais de 4 ressonismo mais alto, curar 1 aliado adicional",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Curse]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 3 anos, infligir 1 ressonante, infligir 1[AzureTakeDamageUp]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[UninvitedGuestPersonality]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[EchoOfMansion]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Bygone Days",
+                    "abName": "Portrait of a Certain Day",
+                    "desc": "[CantIdentify]Prioriza os alvos com mais[Sinking]\n[BeforeAttack]Perca HP em 10% do máximo de HP (não é escalonado devido a esse efeito)[EndSkill]Curar 3 outros aliados com as menores porcentagens de HP em (10 + (soma de[Sinking]Potência e contagem com o alvo principal)/3)% HP (máximo 15%)\n- Com mais de 4 ressonismo mais alto, curar 1 aliado adicional<style=\"highlight\">- Se o referido resson. foi uma ressonância sombria., Cure mais 5% hp</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">+3</style> [Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Curse]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <style=\"highlight\">Para cada 3</style>Escuridão resson., Infligir 1[AzureTakeDamageUp] <style=\"highlight\">(Máx 2)</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[UninvitedGuestPersonality]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[EchoOfMansion]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080811,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Christmas Nightmare",
+                    "abName": "Cozy Bed",
+                    "desc": "[BeforeAttack]Ganho (ressonamento mais alto + 5)[Vibration]Contagem (máximo 10)[EndSkill]Se houver alvos em estados escalonados, moral baixo ou pânico, Heal 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Christmas Nightmare",
+                    "abName": "Cozy Bed",
+                    "desc": "<style=\"highlight\">Se o alvo tiver menos de 0 sp, causar +1% mais danos para cada valor SP abaixo de 0 (máximo 45%)</style>\n[BeforeAttack]Ganho (ressonamento mais alto + 5)[Vibration]Contagem (máximo 10)[EndSkill]Se houver alvos em estados escalonados, moral baixo ou pânico, Heal 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5[Vibration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não estiver em estados escalonados, com baixo moral ou pânico, infligir 5[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não estiver em estados escalonados, com baixo moral ou pânico, gatilho[VibrationExplosion]; Em seguida, reduza o alvo[Vibration]Contagem por 2"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Christmas Nightmare",
+                    "abName": "Cozy Bed",
+                    "desc": "Se o alvo tiver menos de 0 sp, causar +1% mais danos para cada valor SP abaixo de 0 (máximo 45%)[BeforeAttack]Ganho (ressonamento mais alto + 5)[Vibration]Contagem (máximo 10)[EndSkill]Se houver alvos em estados escalonados, moral baixo ou pânico, Heal 10 sp<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5[Vibration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não estiver em estados escalonados, com baixo moral ou pânico, infligir 5[Sinking]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não estiver em estados escalonados, com baixo moral ou pânico, gatilho[VibrationExplosion] <style=\"highlight\">duas vezes</style>; Em seguida, reduza o alvo[Vibration]Contagem por 2"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080821,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Christmas Nightmare",
+                    "abName": "Cozy Bed",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (ressonamento mais alto + 5)[Vibration]Contagem (máximo 10)[BeforeAttack]Cura 10 hp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Christmas Nightmare",
+                    "abName": "Cozy Bed",
+                    "desc": "[CantIdentify]Alvos aleatoriamente<style=\"highlight\">Se o alvo principal estiver em estados escalonados, de baixo moral ou pânico, poder de base +1</style>\n[BeforeAttack]Ganho (ressonamento mais alto + 5)[Vibration]Contagem (máximo 10)[BeforeAttack]Cura 10 hp<style=\"highlight\">[EndSkill]Cure 5 SP para todos os inimigos que estão em estados escalonados, de baixo moral ou pânico</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não estiver em estados escalonados, com baixo moral ou pânico, infligir 5[Sinking]e +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não estiver em estados escalonados, com baixo moral ou pânico, gatilho[VibrationExplosion]; Em seguida, reduza o alvo[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Christmas Nightmare",
+                    "abName": "Cozy Bed",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe o alvo principal estiver em estados escalonados, de baixo moral ou pânico, poder de base +<style=\"highlight\">2</style>\n[BeforeAttack]Ganho (ressonamento mais alto + 5)[Vibration]Contagem (máximo 10)[BeforeAttack]Cura 10 hp[EndSkill]Cure 5 SP para todos os inimigos que estão em estados escalonados, de baixo moral ou pânico<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não estiver em estados escalonados, com baixo moral ou pânico, infligir 5[Sinking]e +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não estiver em estados escalonados, com baixo moral ou pânico, gatilho[VibrationExplosion]; Em seguida, reduza o alvo[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não estiver em estados escalonados, com baixo moral ou pânico, gatilho[VibrationExplosion]; Em seguida, reduza o alvo[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

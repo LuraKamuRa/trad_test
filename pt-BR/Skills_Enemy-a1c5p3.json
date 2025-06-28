@@ -1,0 +1,302 @@
+{
+    "dataList": [
+        {
+            "id": 9009801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear Up Wound",
+                    "desc": "[WinDuel]Heal 5 sp.\nAcordo +5% de dano por[Laceration]no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Protect the Town!",
+                    "desc": "[WhenUse]Ganhe 5 postagem",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Javelin",
+                    "desc": "[WhenUse]Ganhe 5 pontos de equilíbrio e +2 de contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se ligar e 2 danos no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "Quando atacado enquanto esta unidade possui escudo, ganhe 1 ofensa no nível seguinte",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quick Jabs",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Carve Wound",
+                    "desc": "[WinDuel]Heal 5 sp.\nAcordo +5% de dano por[Laceration]no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Protect the Town!",
+                    "desc": "[WhenUse]Ganhe 5 postagem",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Javelin",
+                    "desc": "[WhenUse]Ganhe 5 pontos de equilíbrio e +2 de contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga e 2 frágeis no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Ganhe 1 Ofensão Nível no próximo turno (Máx 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "dataList": [
+        {
+            "id": 863201,
+            "name": "",
+            "subDesc": "",
+            "desc": "O grande crânio levanta a cabeça com um barulho alto; Uma cache misteriosa ecos.\n\nSob o ar acalmado vibra uma energia explosiva; O crânio está se preparando para lançar um ataque poderoso.\n\nNo entanto, deve ter se esforçado demais;\n\nO corpo racha e vacila, dando -nos uma abertura.\n\nPode ser melhor atacar a abertura em seu corpo, em vez de esperar que ele nos atacasse.\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Ataque o corpo.",
+                    "messageDesc": "Selecione isso para enfraquecer as resistências da anormalidade, mas aumente seu dano crítico",
+                    "result": [
+                        "The frontline Sinners quickly dashed into the opening and struck the Abnormality's body.\n\nThe crack on its torso grows even wider, opening into a crevice.\n\nThat moment, I felt a pair of eyes peering at me from the utter darkness past the bones."
+                    ]
+                },
+                {
+                    "message": "Espere e veja.",
+                    "messageDesc": "Selecione isso para aplicar proteção aos aliados",
+                    "result": [
+                        "Immediately before attacking, I noticed through the endless stream of exhalation the eyes of the figure in shadows.\n\nPerhaps the true threat isn't the protective skeleton, but the figure.\n\nA certain momentary intuition stays my hand. We shouldn't be rash about this; let's maintain our defenses and see how this plays out."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863301,
+            "name": "",
+            "subDesc": "",
+            "prevDesc": "Algo em",
+            "desc": "A rosa consome a inundação de sangue, brilhando em vermelho.\n\nMas mesmo essa inundação de sangue não foi suficiente.\n\nSeus olhos brilhantes brilham para o pecador entre as pétalas.",
+            "options": [
+                {
+                    "message": "Ignore -os.",
+                    "messageDesc": "Selecione isso para aumentar as ofensas da anormalidade enquanto reduz suas defesas",
+                    "result": [
+                        "We agreed to not feed it blood.\n\nDissatisfaction begets frustration, it seems.\n\nThe rose raises its sharp thorns and charges the Sinners."
+                    ]
+                },
+                {
+                    "message": "Todo pecador alimenta um pouco de sangue.",
+                    "messageDesc": "Selecione isso para consumir HP dos aliados para reduzir as ofensas da anormalidade enquanto levanta suas defesas",
+                    "result": [
+                        "The rose appears somewhat satisfied after having drunk the Sinners' blood.\n\nThe rose withdraws its glistening glares, and its petals shrink away."
+                    ]
+                },
+                {
+                    "message": "Todo pecador alimenta uma quantidade moderada de sangue.",
+                    "messageDesc": "Selecione isso para consumir HP dos aliados para reduzir as ofensas da anormalidade enquanto levanta suas defesas",
+                    "result": [
+                        "The rose appears somewhat satisfied after having drunk the Sinners' blood.\n\nThe rose withdraws its glistening glares, and its petals shrink away."
+                    ]
+                },
+                {
+                    "message": "Faça os pecadores limparem o sangue.",
+                    "messageDesc": "Selecione isso para eliminar parcialmente o Bloodfeast, elevar as ofensas da anormalidade e reduzir suas defesas",
+                    "result": [
+                        "The Sinners busily ran about, cleaning as much blood as they can from the premises.\n\nFacing an even greater dearth of blood...\n\n... its petals begin to shudder uncannily as the thorns rise threateningly."
+                    ]
+                }
+            ]
+        }
+    ]
+}

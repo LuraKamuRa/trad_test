@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "KeptBlood",
+      "name": "Stored Blood",
+      "desc": "- Valor máximo: 10\n- Perca 1 valor toda vez que esta unidade perde 5% de hp.\n- On Hit, Cure 1% do HP desta unidade",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "BloodyCrave",
+      "name": "Bloodtinged Craving",
+      "desc": "- Ganhe 1 Clash Power Up e 1 dano a cada turno\n- On Hit, ganha 1 sangue armazenado\n- Se esta unidade não ganhou sangue armazenado neste turno, ganhe 2 frágeis, 1 pressa e 4 de ataque no próximo turno, em vez do efeito acima",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "BloodPocket_LowMorale",
+      "name": "Bloodthirst",
+      "desc": "Vire o início: Ganhe 1 frágil e dano",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "BloodPocket_Panic",
+      "name": "Bloodthirst",
+      "desc": "Vire o início: Ganhe 2 frágeis e danos",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "HardenedBlood",
+      "name": "Coagulated Blood",
+      "desc": "Nível de ofensa de ganho e nível de defesa igual ao valor (máximo 5)",
+      "summary": "",
+      "undefined": null
+    }
+  ]
+}

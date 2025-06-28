@@ -1,0 +1,340 @@
+{
+  "dataList": [
+    {
+      "id": 9156,
+      "name": "Decamillennial Hearthflame",
+      "desc": "Turn End: Inimigos com 3+ [[Bracket]] A contagem ativa [[Bracket]] mais uma vez (Reduce [[Bracket]] contagem por 1)",
+      "simpleDesc": [
+        {
+          "abilityID": 9156,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9158,
+      "name": "Purloined Flame",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que se aplicam [[suporte]] ou 'queimaduras únicas'. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nOn Hit com uma habilidade (incluindo, por exemplo, habilidades): se o alvo tiver 3+ [[Bracket]] contagem, ativar [[bracket]] uma vez no alvo. (Target perde 1 [[suporte]] contagem; é ativa uma vez por habilidade)\n\nTurn End: Alvos com 3+ [[Bracket]] A contagem ativa [[Bracket]] mais uma vez (o Target perde 1 [[Bracket]] contagem)\n\nSe um alvo com [[suporte]] for derrotado (para anormalidades, quando o núcleo é derrotado), inflige sua potência restante [[bracket]] a um dos inimigos com o mínimo de potência [[suporte]] no próximo turno.\n\nTurn Start: Para este turno, infligir 4 [[suporte]] para inimigos com [[suporte]]\n\nSe um alvo com [[Bracket]] for derrotado, no próximo turno Start (derrotou os aliados do [[suporte]] / 15) com habilidades que infligem [[suporte]] ganham 2 [[suporte]]. (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9158,
+          "simpleDesc": "Ative [[Bracket]] uma vez"
+        },
+        {
+          "abilityID": 91581,
+          "simpleDesc": "Ativar [[suporte]] 1 mais tempo"
+        },
+        {
+          "abilityID": 91582,
+          "simpleDesc": "Infligir ([[suporte]] Potência no inimigo derrotado)/2 [[suporte]] POTINCE"
+        },
+        {
+          "abilityID": 91583,
+          "simpleDesc": "Infligir 4 [[suporte]]"
+        },
+        {
+          "abilityID": 91583,
+          "simpleDesc": "Ganhe 2 [[suporte]]"
+        }
+      ]
+    },
+    {
+      "id": 9160,
+      "name": "Ruptured Blood Sac",
+      "desc": "On Ally Clash Win: Ative o inimigo [[suporte]] uma vez (3 vezes por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9160,
+          "simpleDesc": "Ative o sangramento uma vez"
+        }
+      ]
+    },
+    {
+      "id": 9162,
+      "name": "Hemorrhagic Shock",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que se aplicam [[suporte]] ou efeitos de 'sangramento exclusivo'. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nOn Ally Clash Win: Ative o inimigo [[suporte]] uma vez. (uma vez por turno para cada aliado)\n\nOs inimigos se tornam impressionantes por danos; Se um inimigo ficar escalonado devido a um dano [[suporte]] no meio do classo, ativar [[suporte]] (# das moedas inimigas restantes) Times\n\nSe todos os inimigos têm [[suporte]], eles perdem 2 níveis de defesa. No final, infligir (# de [[bracket]] ativações x 2) [[suporte]] (máximo 20)\n\nAo infligir [[suporte]] potência ou 'sangramento único' com efeitos de habilidade, infligir 3 [[suporte]] potência e +1 [[backet]] contam com o alvo",
+      "simpleDesc": [
+        {
+          "abilityID": 9162,
+          "simpleDesc": "Na vitória do Clash, ative o sangramento no alvo uma vez"
+        },
+        {
+          "abilityID": 91621,
+          "simpleDesc": "Após o conflito, ative os tempos do inimigo [[suporte]] (nº das moedas restantes no mesmo)"
+        },
+        {
+          "abilityID": 91622,
+          "simpleDesc": "Infligir (# de [[bracket]] ativações x 2) [[backet]] (máximo 20)"
+        },
+        {
+          "abilityID": 91623,
+          "simpleDesc": "Infligir 3 potência de sangramento e +1 contagem de sangramento"
+        }
+      ]
+    },
+    {
+      "id": 9163,
+      "name": "Gemstone Oscillator",
+      "desc": "Ao ganhar um confronto com uma habilidade que consumiu a contagem [[Bracket]]: se o alvo não possui [[suporte]], infligir +2 [[backet]] contagem\n\nEm mais de 3 ressonamento de preguiça. incluindo essa habilidade, infligir +3 [[backet]] contagem em vez disso",
+      "simpleDesc": [
+        {
+          "abilityID": 9163,
+          "simpleDesc": "Ao ganhar um confronto com uma habilidade que consumiu a contagem [[Bracket]], infligir +2 [[suporte]] contagem"
+        },
+        {
+          "abilityID": 91631,
+          "simpleDesc": "Ao ganhar um confronto com uma habilidade que consumiu a contagem [[Bracket]] e faz parte de uma ressonância de 3+."
+        }
+      ]
+    },
+    {
+      "id": 9164,
+      "name": "Wobbling Keg",
+      "desc": "Turn Start: Aos 8+ [[Bracket]] Contagem, Power de Clash +1\n\nAo derrotar ou cambalear um inimigo com uma habilidade que consome [[bracket]] contando com o eu: ganha +([[[suporte]] contagem consumida / 4) [[bracket]] contagem (uma vez por habilidade)",
+      "simpleDesc": [
+        {
+          "abilityID": 9164,
+          "simpleDesc": "Com 8+ contagem de tremores, poder de conflito +1"
+        },
+        {
+          "abilityID": 91641,
+          "simpleDesc": "Ao ganhar um confronto com uma habilidade que consome [[suporte]] contagem: ganha [[backet]] contagem"
+        }
+      ]
+    },
+    {
+      "id": 9166,
+      "name": "Epicenter",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que se aplicam à potência ou contagem [[Bracket]]. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n(Se uma identidade tem apenas habilidades de ataque que ganham [[suporte]] contam com o eu, este presente não é ativado para eles)\n\nAo vencer um confronto com uma habilidade que consumiu [[suporte]] contagem em si: se o alvo não possui [[suporte]], infligir +3 [[bracket]] contagem\n\nTurn Start: Gain Clash Power +([[SPORTE]] Conte com Self / 5) (Máx 3)\n\nAo usar uma habilidade que consome [[backet]] contagem em si: se o alvo for derrotado ou escalonado, ganha +([[[suporte]] contagem consumida / 2) [[Bracket]] contagem (uma vez por habilidade)",
+      "simpleDesc": [
+        {
+          "abilityID": 9166,
+          "simpleDesc": "Ao vencer um confronto com uma habilidade que consumiu [[suporte]] contagem em si: se o alvo não possui [[suporte]], infligir +3 [[bracket]] contagem"
+        },
+        {
+          "abilityID": 91661,
+          "simpleDesc": "Turn Start: Gain ([[[suporte]] contagem com o poder de confronto Self / 5)"
+        },
+        {
+          "abilityID": 91662,
+          "simpleDesc": "Ao ganhar um confronto com uma habilidade que consome [[suporte]] contagem: ganha [[backet]] contagem"
+        }
+      ]
+    },
+    {
+      "id": 9167,
+      "name": "Omnivibro-octovecti-bell",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam potência, contagem ou 'tremor único'. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n(Se uma identidade tem apenas habilidades de ataque que ganham [[suporte]] contam com o eu, este presente não é ativado para eles)\n\nAo ganhar um confronto com uma habilidade que inflige a potência ou contagem de [[suporte]], ou consome [[suporte]] contagem de si mesmo: infligir (# de moedas restantes) [[suporte]] potência contra o alvo; Se o alvo não tiver [[suporte]], infligir +3 [[backet]] contagem\n\nTurn START: Ganho (1 + ([[suporte]] contagem com Self / 5)) [[Bracket]]. (Máx 3)\n\nAo usar uma habilidade que consome [[suporte]] contagem em si: ao derrotar ou cambalear um alvo, ganha ([[[suporte]] contagem consumida / 2) [[bracket]] contagem (uma vez por habilidade)\n\nHabilidades que consomem [[Bracket]] contam com a auto -Deal + ([[Bracket]] consumido no Self + [[Bracket]] Potência no inimigo + 5)% mais danos (exceto por exemplo, habilidades; max 50%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9167,
+          "simpleDesc": "Na vitória do Clash, infligir tremor igual ao número de moedas restantes. Se o alvo não tiver [[suporte]], infligir a contagem de tremores"
+        },
+        {
+          "abilityID": 91671,
+          "simpleDesc": "Início de Turm: Gain Clash Power Up com base na contagem de tremores"
+        },
+        {
+          "abilityID": 91672,
+          "simpleDesc": "Ao ganhar um confronto com uma habilidade que consome [[suporte]] contagem: ganha [[backet]] contagem"
+        },
+        {
+          "abilityID": 91673,
+          "simpleDesc": "Habilidades que consomem [[suporte]] contam mais danos causados ​​por mais danos"
+        }
+      ]
+    },
+    {
+      "id": 9168,
+      "name": "Shard of Apocalypse",
+      "desc": "Se o alvo tiver menos de 15 [[suporte]] potência, infligir 1 potência adicional ao infligir [[suporte]] potência",
+      "simpleDesc": [
+        {
+          "abilityID": 9168,
+          "simpleDesc": "Infligir 1 potência adicional [[suporte]]"
+        }
+      ]
+    },
+    {
+      "id": 9170,
+      "name": "Eerie Effigy",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que se aplicam à potência ou contagem [[Bracket]]. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n[[Bracket]] Efeitos causam +100% mais danos contra escudos inimigos\nSe o alvo tiver menos de 15 [[suporte]] potência, inflige mais 2 potência ao infligir [[suporte]] potência\n\nSe [[bracket]] não puder ser aplicado devido a efeitos de habilidade, ganhe poder de moeda +1 em vez disso",
+      "simpleDesc": [
+        {
+          "abilityID": 9170,
+          "simpleDesc": "Efeitos de ruptura causam +100% mais danos contra escudos"
+        },
+        {
+          "abilityID": 91701,
+          "simpleDesc": "Infligir 2 Potência adicional [[suporte]]"
+        },
+        {
+          "abilityID": 91702,
+          "simpleDesc": "Se [[bracket]] não puder ser aplicado devido a efeitos de habilidade, ganhe poder de moeda +1 em vez disso"
+        }
+      ]
+    },
+    {
+      "id": 9171,
+      "name": "Ruin",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que se aplicam à potência ou contagem [[Bracket]]. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\n[[Bracket]] Efeitos causam +150% mais danos contra o escudo inimigo\n\nTurn Start: Inimigos ou partes com [[suporte]] perdem (3 + ([[bracket]] potência / 2)) nível de ofensa e nível de defesa. (Máx 6)\n\nAo infligir a potência [[bracket]] com efeitos de habilidade, infligir 2 [[suporte]] potência e +1 [[bracket]] contam contra o alvo. Se o alvo tiver menos de 15 [[suporte]] potência, inflige 2 potência adicional [[suporte]].\n\nSe [[bracket]] não puder ser aplicado devido a efeitos de habilidade, ganhe poder de moeda +(4 / # de moedas) em vez disso",
+      "simpleDesc": [
+        {
+          "abilityID": 9171,
+          "simpleDesc": "[[Bracket]] Efeitos causam +150% mais danos contra escudos"
+        },
+        {
+          "abilityID": 91711,
+          "simpleDesc": "Inimigos com [[suporte]] perdem os níveis de ofensa e defesa"
+        },
+        {
+          "abilityID": 91712,
+          "simpleDesc": "Ao infligir [[suporte]] potência com efeitos de habilidade, infligir 2 [[suporte]] potência e +1 [[bracket]] contam com o alvo"
+        },
+        {
+          "abilityID": 91713,
+          "simpleDesc": "Se [[bracket]] não puder ser aplicado devido a efeitos de habilidade, ganhe poder de moeda +(4 / # de moedas) em vez disso"
+        }
+      ]
+    },
+    {
+      "id": 9172,
+      "name": "Cantabile",
+      "desc": "Ao usar as habilidades de ataque básico, se o alvo tiver mais de 5 anos de potência [[suporte]], cura ([[bracket]] Potência no Target / 10) SP em Self (Máx 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9172,
+          "simpleDesc": "Heal SP com base no afundamento no alvo"
+        }
+      ]
+    },
+    {
+      "id": 9173,
+      "name": "Faded Overcoat",
+      "desc": "Turn End: Se houver mais de 3 inimigos com -45 sp, todos os aliados ganham 2 [[suporte]] na próxima curva",
+      "simpleDesc": [
+        {
+          "abilityID": 9173,
+          "simpleDesc": "Todos os aliados ganham 2 [[suporte]]"
+        }
+      ]
+    },
+    {
+      "id": 9175,
+      "name": "Surging Globe",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam a potência, contagem ou 'afundamento único [[suporte]]. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nAo usar uma habilidade de ataque base, se o inimigo tiver 5+ [[suporte]] potência, cura ([[bracket]] potência no alvo / 10) SP no eu (máximo 5)\n\nTurn End: No próximo turno, todos os aliados ganham [[suporte]] igual ao número de inimigos com -45 sp (máximo 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9175,
+          "simpleDesc": "Heal SP com base no afundamento no alvo"
+        },
+        {
+          "abilityID": 91751,
+          "simpleDesc": "Todos os aliados ganham [[suporte]] igual ao número de inimigos com -45 sp (máximo 3)"
+        }
+      ]
+    },
+    {
+      "id": 9176,
+      "name": "Impending Wave",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam a potência, contagem ou 'afundamento único [[suporte]]. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nAo atingir e causar danos à HP a um inimigo com uma habilidade que inflige a potência, a contagem ou o 'afundamento único' [[bracket]] e +3 [[suporte]] contagem no turno (uma vez por turno para cada inimigo)\nInício de combate: Ao ativar a escuridão ou a luxúria a-reson., Infligir 3 [[suporte]] e +3 [[bracket]] em todos os inimigos (para anormalidades, uma parte aleatória)\n\nDepois de usar uma habilidade de ataque base, se o alvo tiver mais de 10 anos de potência [[suporte]], cura ([[[suporte]]] no alvo / 10) SP no eu (máximo 5) e inflige a mesma quantidade que [[suporte]] contra o alvo (máximo 5; uma vez por turno para cada inimigo)\n\nTurn End: Todos os aliados ganham [[suporte]] igual ao número de inimigos com -45 sp ou sem sp no próximo turno (máximo 6)\n\nAo ativar o efeito [[suporte]] (incluindo 'afundamento único') no alvo com um efeito de acerto de uma habilidade de ataque base que inflige ou ganha [[suporte]] potência, [[suporte]] contagem ou 'afundamento único', curar 5 sp na extremidade da curva (2 vezes por turno por identidade)\nSe a unidade estivesse em 45 SP no início da curva, o efeito muda para o seguinte: Ao atingir e ativar o efeito [[suporte]] (incluindo 'afundamento único') no alvo com uma habilidade de ataque base, infligir +3 [[suporte]] contagem contra o inimigo alvo (2 vezes por turno por identidade)",
+      "simpleDesc": [
+        {
+          "abilityID": 9176,
+          "simpleDesc": "Infligir potência e contagem de naufrágio"
+        },
+        {
+          "abilityID": 91761,
+          "simpleDesc": "Infligir o nível de defesa"
+        },
+        {
+          "abilityID": 91762,
+          "simpleDesc": "Ganhe o nível de ofensa"
+        },
+        {
+          "abilityID": 91763,
+          "simpleDesc": "Infligir a contagem de naufrágio"
+        }
+      ]
+    },
+    {
+      "id": 9178,
+      "name": "Angel's Cut",
+      "desc": "Turn End: Quando um aliado tem mais de 20 poes",
+      "simpleDesc": [
+        {
+          "abilityID": 9178,
+          "simpleDesc": "Consumir 1 Poise Potência para ganhar 1 contagem de pontos"
+        }
+      ]
+    },
+    {
+      "id": 9180,
+      "name": "Cask Spirits",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam ou ganham potência ou contagem [[Bracket]]. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nTurn End: Se um aliado tem mais de 20 [[suporte]] potência em si, o aliado consome 1 [[suporte]] potência para ganhar 1 [[bracket]] contagem\n\nTurn End: 1 aliado com a potência mais alta [[suporte]] e 1 aliado com o maior [[suporte]].\n\nAo ganhar [[suporte]] potência dos efeitos da habilidade, obtenha 2 [[suporte]] potência e +2 [[bracket]] contagem. Se a soma da potência [[suporte]] e a contagem é menor que 20, ganha 3 [[suporte]] potência e +3 [[bracket]] contam.\n\nEnd de combate: em mais de 40 [[suporte]] potência, consuma 15 [[suporte]] potência para [[bracket]] 1 Habilidade da classificação mais baixa em todos os slots de habilidade dessa unidade (uma vez por turno para cada caractere)",
+      "simpleDesc": [
+        {
+          "abilityID": 9180,
+          "simpleDesc": "Ganho Poise Count"
+        },
+        {
+          "abilityID": 91801,
+          "simpleDesc": "Aplique 2 pressa e 1 ofensa no nível"
+        },
+        {
+          "abilityID": 91802,
+          "simpleDesc": "Ao ganhar [[suporte]] potência com efeitos de habilidade, obtenha potência adicional e contagem"
+        },
+        {
+          "abilityID": 91803,
+          "simpleDesc": "Descarte uma habilidade da classificação mais baixa no slot de habilidade desta unidade"
+        }
+      ]
+    },
+    {
+      "id": 9181,
+      "name": "Miniature Telepole",
+      "desc": "Após o ataque com um ataque de habilidade que consumiu 7+ [[bracket]] contagem em si: se o alvo for derrotado, o ganho ([[[suporte]] contagem consumido pela habilidade / 4) [[suporte]] contagem",
+      "simpleDesc": [
+        {
+          "abilityID": 9181,
+          "simpleDesc": "Gain [[Bracket]] contagem com base na contagem [[Bracket]] consumida"
+        }
+      ]
+    },
+    {
+      "id": 9183,
+      "name": "Insulator",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que ganham [[suporte]] contam ou 'cobrança única'. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nApós o ataque com um ataque de habilidade que consome [[suporte]] contagem de si mesmo: se o alvo for derrotado, o ganho ([[backet]] contagem consumida pela habilidade / 3) [[Bracket]] contagem\n\nTurn Start: em menos de 3 [[suporte]] contagem, ganhe +3 [[backet]] contagem\nStart Turn: Aos 3+ [[Bracket]] Contagem, Ganho 1 [[Bracket]]",
+      "simpleDesc": [
+        {
+          "abilityID": 9183,
+          "simpleDesc": "Gain [[Bracket]] contagem com base na contagem [[Bracket]] consumida"
+        },
+        {
+          "abilityID": 91831,
+          "simpleDesc": "Ganho 1 [[Bracket]] ou [[Bracket]] contagem com base na contagem [[Bracket]]"
+        }
+      ]
+    },
+    {
+      "id": 9184,
+      "name": "T-5 Perpetual Motion Machine",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que ganham [[suporte]] contam ou 'cobrança única'. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nTurn Start: Com menos de 3 [[suporte]] contagem, ganhe +3 [[bracket]] contagem.\nTurn Start: Aos 5+ [[suporte]] contagem, ganho +2 min/max velocidade, 1 [[suporte]] e 2 [[suporte]].\n\nApós o ataque com uma habilidade que consumiu [[suporte]] contagem em si: se o alvo for derrotado, ganha +([[bracket]] contagem consumida pela contagem de habilidades / 3) [[bracket]]; Em seguida, Ganhe 1 [[suporte]]\n\nApós o ataque com uma habilidade 3 que consumiu [[Bracket]] contam com o eu: se o alvo for derrotado, ou se o aliado que usou a habilidade estiver em mais de 3 [[suporte]], eles adicionam 1 habilidade 3 à lista de habilidades para o próximo turno. (uma vez por turno para cada aliado; 'Charge exclusiva' não interage com esse efeito)",
+      "simpleDesc": [
+        {
+          "abilityID": 9184,
+          "simpleDesc": "Ganho 1 [[Bracket]] ou [[Bracket]] contagem com base na contagem [[Bracket]]"
+        },
+        {
+          "abilityID": 91841,
+          "simpleDesc": "Contagem de ganho [[suporte]] com base na contagem [[backet]] consumida. Em seguida, Gain [[Bracket]]"
+        },
+        {
+          "abilityID": 91842,
+          "simpleDesc": "Após o ataque com uma habilidade 3 que consumiu a contagem [[suporte]], adicione 1 habilidade 3 à lista de habilidades"
+        }
+      ]
+    }
+  ]
+}

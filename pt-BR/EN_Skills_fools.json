@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "id": 899901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gimme Candy.",
+          "desc": "Prioriza metas com [[suporte]]\n[[Bracket]] Se o alvo não possui [[suporte]], infligir [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[Bracket]], o alvo ficará escalonado no próximo turno."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No Candy.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... Kkomi's angry.",
+          "desc": "[[Bracket]] Ganhe Peso ATK igual ao número de inimigos com [[suporte]]\n[[Bracket]] Ganhe o poder de conflito igual ao número de inimigos com [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vroom-Vroom",
+          "desc": "[[Bracket]] Ganhe o poder de conflito igual ao número de identidades com [[suporte]]]\nOFERECIMENTO +10% MAIS DANOS DE CADA IDENTIDADE COM [[Bracket]] (máximo 100%)",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You hit Kkomi.",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]] e 2 [[Bracket]] Próxima turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

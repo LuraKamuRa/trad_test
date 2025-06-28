@@ -1,0 +1,496 @@
+{
+    "dataList": [
+        {
+            "id": "mirror_dungeon_get_ego_gift_with_enemy_buff_less_count",
+            "content": "Você tem opções de presentes E.G.O restantes.\n\nVocê prosseguirá sem selecionar um presente E.G.O?\n\n(※ Você ganhará Trials aleatórios iguais ao número de suas escolhas restantes)"
+        },
+        {
+            "id": "mirror_dungeon_easy_difficulty",
+            "content": "Normal"
+        },
+        {
+            "id": "mirror_dungeon_hard_difficulty",
+            "content": "Duro"
+        },
+        {
+            "id": "mirror_dungeon_start_bonus_formation_rest_point",
+            "content": "Bônus de descanso"
+        },
+        {
+            "id": "mirror_dungeon_start_bonus_formation_total",
+            "content": "Descanso\nBônus"
+        },
+        {
+            "id": "mirror_dungeon_start_buff_Panel_reset_selection",
+            "content": "Seleção de efeito claro"
+        },
+        {
+            "id": "mirror_dungeon_start_buff_Panel_applied_effect",
+            "content": "Efeitos Ativados"
+        },
+        {
+            "id": "mirror_dungeon_reward_popup_rest_bonus_guide",
+            "content": "Todas as identidades fora da equipe atual ganham 1 bônus de descanso"
+        },
+        {
+            "id": "mirror_user_start_buff",
+            "content": "Bônus de descanso"
+        },
+        {
+            "id": "mirror_enemy_buff",
+            "content": "Ensaios"
+        },
+        {
+            "id": "mirror_enemy_addenemylevel_desc",
+            "content": "Aumento de nível do inimigo +{0}"
+        },
+        {
+            "id": "mirror_card_pack",
+            "content": "Pacote temático"
+        },
+        {
+            "id": "mirror_acquired_random_enemy_buff_popup_title",
+            "content": "Julgamento Ganho"
+        },
+        {
+            "id": "mirror_acquired_enemy_buff_popup_desc",
+            "content": "Um teste foi adicionado."
+        },
+        {
+            "id": "mirror_start_buff_purchase_complete_modal_title",
+            "content": "A Graça das Estrelas Selecionada"
+        },
+        {
+            "id": "mirror_start_buff_purchase_complete_modal_desc",
+            "content": "Grace of Stars foi selecionado."
+        },
+        {
+            "id": "mirror_recovered_unit_status",
+            "content": "Todos os aliados foram totalmente curados e os aliados derrotados foram revividos"
+        },
+        {
+            "id": "mirror_start_buff_cannot_purchase_side_popup_title",
+            "content": "Não é possível progredir"
+        },
+        {
+            "id": "mirror_start_buff_cannot_purchase_side_popup_desc",
+            "content": "Bônus de descanso insuficiente"
+        },
+        {
+            "id": "user_enemy_buff_empty_list",
+            "content": "Nenhum efeito ativo"
+        },
+        {
+            "id": "mirror_start_set_buff_type",
+            "content": "Graça das Estrelas"
+        },
+        {
+            "id": "mirror_start_buff_type",
+            "content": "Graça dos Aglomerados Estelares"
+        },
+        {
+            "id": "mirror_start_buff_purchase_button",
+            "content": "Digitar"
+        },
+        {
+            "id": "user_enemy_buff_select_event_buff",
+            "content": "Efeitos de escolha"
+        },
+        {
+            "id": "dungeon_shop_heal_desc_one_revive",
+            "content": "Reviva o pecador selecionado"
+        },
+        {
+            "id": "dungeon_shop_heal_desc_all_revive",
+            "content": "Reviva todos os pecadores"
+        },
+        {
+            "id": "dungeon_encounter_guide_mirror_hard_ab_battle",
+            "content": "Encontro de Anormalidade"
+        },
+        {
+            "id": "dungeon_shop_heal_enter",
+            "content": "Podemos curar ou reviver um Sinner aqui.\nO que devemos fazer?"
+        },
+        {
+            "id": "dungeon_shop_heal_select_one",
+            "content": "HP e SP curados para {0}."
+        },
+        {
+            "id": "dungeon_shop_heal_all",
+            "content": "O HP e SP de todos os pecadores foram curados."
+        },
+        {
+            "id": "dungeon_shop_heal_revive_select_one",
+            "content": "{0}, revivido, retorna à batalha."
+        },
+        {
+            "id": "mirrordungeon_revive_log",
+            "content": "Graça das Estrelas Ativada\n[{0}] Revivido"
+        },
+        {
+            "id": "mirror_start_buff_unlock_condition_needs_held_buff_points",
+            "content": "Em {0}+ Bônus de descanso"
+        },
+        {
+            "id": "mirror_start_buff_purchase_modal_after_selected_bonus",
+            "content": "Bônus de descanso restante"
+        },
+        {
+            "id": "mirror_start_buff_purchase_modal_exchanged_cost",
+            "content": "Custo"
+        },
+        {
+            "id": "mirror_start_buff_purchase_modal_title",
+            "content": "Selecione Grace of Stars"
+        },
+        {
+            "id": "mirror_start_buff_purchase_modal_description",
+            "content": "Você selecionará esses efeitos?"
+        },
+        {
+            "id": "mirror_start_buff_purchase_modal_purchase_description",
+            "content": "O bônus restante será convertido em custo"
+        },
+        {
+            "id": "mirror_start_buff_applied_passive",
+            "content": "Graça das Estrelas Passiva"
+        },
+        {
+            "id": "mirror_dungeon_start_buff_Panel_title",
+            "content": "Graça da Estrela Sonhadora"
+        },
+        {
+            "id": "mirror_shop_purchase_complete",
+            "content": "Comprado"
+        },
+        {
+            "id": "mirror_start_buff_purchase_modal_not_selected_any_buff",
+            "content": "Não selecione nenhum"
+        },
+        {
+            "id": "dungeon_shop_heal_title_all_season5",
+            "content": "Cure moderadamente cada Pecador."
+        },
+        {
+            "id": "dungeon_shop_heal_title_one_season5",
+            "content": "Cure grandemente um único pecador."
+        },
+        {
+            "id": "dungeon_shop_revive_title_one_season5",
+            "content": "Reviva um único pecador."
+        },
+        {
+            "id": "dungeon_shop_revive_one_select_ask",
+            "content": "Selecione o Pecador para reviver."
+        },
+        {
+            "id": "mirror_dungeon_block_to_click_hard_theme_list",
+            "content": "Limpar Canto 6\npara Desbloquear"
+        },
+        {
+            "id": "mirrordungeon_theme_hard_blocked",
+            "content": "Limpar Canto 6\npara Desbloquear"
+        },
+        {
+            "id": "mirrordungeon_shop_heal_title",
+            "content": "Cure Pecadores"
+        },
+        {
+            "id": "mirrordungeon_shop_title",
+            "content": "Comprar"
+        },
+        {
+            "id": "mirror_dungeon_progress_text_5",
+            "content": "Espelho do Sonho - F{0}"
+        },
+        {
+            "id": "mirror_dungeon_progress_awaiting_reward_claim",
+            "content": "Recompensas não reclamadas"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_bonus_gift",
+            "content": "Grace of Stars Ativado\nPara Fusão e Venda Presentes obtidos"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_1",
+            "content": "NORMAL"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_0_2",
+            "content": "DURO"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_1",
+            "content": "Encontro Regular: 7,5%\nEncontro Focado: -\nEncontro Elite: -\nEncontro Abno.: -\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_1_2",
+            "content": "Encontro Regular: 7,5%\nEncontro Focado: -\nEncontro Elite: -\nEncontro Abno.: -\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_1",
+            "content": "Encontro Regular: 10%\nEncontro Focado: 20%\nEncontro Elite: 33%\nEncontro Abno.: -\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_2_2",
+            "content": "Encontro Regular: 10%\nEncontro Focado: 20%\nEncontro Elite: 33%\nEncontro Abno.: -\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_1",
+            "content": "Encontro Regular: 10%\nEncontro Focado: 20%\nEncontro Elite: 33%\nEncontro Abno.: 100%\nEncontro Boss: 100%"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_3_2",
+            "content": "Encontro Regular: 10%\nEncontro Focado: 20%\nEncontro Elite: 33%\nEncontro Abno.: 100%\nEncontro Boss: 100%"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_1",
+            "content": "Encontro Regular: 12,5%\nEncontro Focado: 25%\nEncontro Elite: 50%\nEncontro Abno.: 100%\nEncontro Boss: 100%"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_4_2",
+            "content": "Encontro Regular: 12,5%\nEncontro Focado: 25%\nEncontro Elite: 50%\nEncontro Abno.: 100%\nEncontro Boss: 100%"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_1",
+            "content": "Encontro Regular: 12,5%\nEncontro Focado: 25%\nEncontro Elite: 50%\nEncontro Abno.: 100%\nEncontro Boss: -"
+        },
+        {
+            "id": "mirror_5_battle_reward_card_guide_table_1_desc_5_2",
+            "content": "Encontro Regular: 12,5%\nEncontro Focado: 25%\nEncontro Elite: 50%\nEncontro Abno.: 100%\nEncontro Boss: -"
+        },
+        {
+            "id": "mirrordungeon_additional_cost_by_start_bonus",
+            "content": "Graça das Estrelas Ativada\nCusto ganho"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_desc",
+            "content": "Cada presente E.G.O tem diferentes 'Pontos' para Fusão dependendo do seu Nível."
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_header",
+            "content": "Níveis de presentes E.G.O"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_score_header",
+            "content": "Pontos"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_1",
+            "content": "Nível 1"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_1_score",
+            "content": "3"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_2",
+            "content": "Nível 2"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_2_score",
+            "content": "6"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_3",
+            "content": "Nível 3"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_3_score",
+            "content": "10"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_4",
+            "content": "Nível 4"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_4_score",
+            "content": "15"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_5",
+            "content": "Nível 5"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_score_tier_5_score",
+            "content": "30"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_label",
+            "content": "O nível de presente do Fusion E.G.O é determinado pela contagem de pontos de cada ingrediente."
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_total_header",
+            "content": "Contagem de pontos"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_tier_header",
+            "content": "Nível de presente Fusion E.G.O"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_total_1",
+            "content": "10- Pontos"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_tier_1",
+            "content": "Nível 1"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_total_2",
+            "content": "11~16 pontos"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_tier_2",
+            "content": "Nível 2"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_total_3",
+            "content": "17 ~ 24 pontos"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_tier_3",
+            "content": "Nível 3"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_total_4",
+            "content": "25+ Pontos"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_tier_4",
+            "content": "Nível 4"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_season_5_etc_1",
+            "content": "※ Quaisquer Presentes E.G.O atualmente em sua posse não podem ser obtidos como resultado de Fusão."
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_season_5_etc_2",
+            "content": "※ Presentes E.G.O consumidos como ingredientes para uma Fusão não podem ser obtidos dessa Fusão. No entanto, Presentes E.G.O que já foram consumidos como ingredientes em Fusões anteriores podem ser obtidos como um resultado de Fusão."
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_season_5_etc_3",
+            "content": "※ Se você tiver obtido todos os presentes E.G.O possíveis naquela combinação específica de Nível + Palavra-chave, você receberá um presente E.G.O de uma Palavra-chave diferente no mesmo Nível."
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_season_5_etc_4",
+            "content": "※ Se você tiver obtido todos os presentes E.G.O possíveis obtidos no nível resultante, você receberá um presente E.G.O somente de fusão e venda."
+        },
+        {
+            "id": "mirrordungeon_upgrade_shop_title",
+            "content": "<color=#990000>Super Loja</color>"
+        },
+        {
+            "id": "mirrordungeon_upgrade_shop_rate_in_next_floor",
+            "content": "Super Loja\nNo Próximo Andar?"
+        },
+        {
+            "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
+            "content": "Bônus de descanso insuficiente"
+        },
+        {
+            "id": "mirror_theme_pack_baton",
+            "content": "Batalha longa"
+        },
+        {
+            "id": "mirrordungeon_theme_hard_no_pool",
+            "content": "Agora você atende às condições para desbloquear a dificuldade Hard. Você pode alternar as dificuldades a partir do próximo menu Floor Theme Pack."
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_1_desc_3_0",
+            "content": "4+ Presentes"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_1_desc_3_1",
+            "content": "99%"
+        },
+        {
+            "id": "mirrordungeon_level_up_by_long_battle_theme",
+            "content": "Recompensa de Batalha Longa Obtida\nNíveis de Identidade +3"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_100",
+            "content": "Estrela do Começo"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_101",
+            "content": "Nuvem Estelar Acumulativa"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_102",
+            "content": "Viagem interestelar"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_103",
+            "content": "Chuva de estrelas"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_104",
+            "content": "Loja de estrelas binárias"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_105",
+            "content": "Loja de estrelas da lua"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_106",
+            "content": "Favor das Nebulosas"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_107",
+            "content": "Orientação Starlight"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_108",
+            "content": "Cometa de Chance"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_title_109",
+            "content": "Possibilidade Aperfeiçoada"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_over10",
+            "content": "Em [10]+ Bônus de descanso"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_over20",
+            "content": "Em [20]+ Bônus de descanso"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_over30",
+            "content": "Em [30]+ Bônus de descanso"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs_over40",
+            "content": "Em [40]+ Bônus de descanso"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs__over50",
+            "content": "Em [50]+ Bônus de descanso"
+        },
+        {
+            "id": "mirror_dungeon_5_buffs__over60",
+            "content": "Em [60]+ Bônus de descanso"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
+            "content": "A fusão em uma Super Loja adiciona um modificador especial à contagem necessária de Pontos de cada ingrediente."
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade",
+            "content": "9- Pontos"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_total_2_upgrade",
+            "content": "10 ~ 14 pontos"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_total_3_upgrade",
+            "content": "15 ~ 21 pontos"
+        },
+        {
+            "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
+            "content": "22+ Pontos"
+        }
+    ]
+}

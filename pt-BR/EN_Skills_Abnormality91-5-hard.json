@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "id": 107804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's Get Packing",
+          "desc": "Se esta unidade tiver [[suporte]], adicione 'Infligir 1 [[Bracket]] Next Turn' para efeitos de moedas\nTem como alvo a unidade com a velocidade mais baixa\n[[Bracket]] gaste tudo [[suporte]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]]."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Suporte]] dano bônus de acordo igual a [[suporte]] em si mesmo"
+                },
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]] e +3 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Selecione aleatoriamente 1 de 4 efeitos ([[bracket]], [[bracket]], [[bracket]], [[backet]]). Infligir ou aplicar 3 do efeito selecionado."
+                },
+                {
+                  "desc": "O alvo [[suporte]] perde o SP igual a [[suporte]] contam nesta unidade"
+                },
+                {
+                  "desc": "[[Bracket]] Todos os inimigos perdem 10 sp."
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]] Próximo turno."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

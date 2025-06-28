@@ -1,0 +1,558 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Unending Hill of Corpses",
+            "content": "Vejo montes intermináveis ​​de cadáveres."
+        },
+        {
+            "id": 1,
+            "content": "Os Inquisidores levantavam os braços em uníssono, como se estivessem adorando algo."
+        },
+        {
+            "id": 2,
+            "content": "E lá estava Kromer, no pico mais alto."
+        },
+        {
+            "id": 3,
+            "content": "Ela estendeu as mãos em um gesto de oração em direção ao Ramo Dourado no topo de um altar."
+        },
+        {
+            "id": 4,
+            "model": "파우스트",
+            "content": "As braças do ego já estão abertas. Vejo que alguém ressoou com o Ramo antes de nós."
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "content": "O que diabos eles estão fazendo? O que eles estão levantando as mãos?"
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "…Oração."
+        },
+        {
+            "id": -1,
+            "model": "파우스트",
+            "content": "Era uma vez... as pessoas acreditavam em deuses, ou pelo menos foi o que ouvi dizer."
+        },
+        {
+            "id": -1,
+            "model": "//효과음",
+            "content": "Ding dong ding dong (mas não de brincadeira na escola)"
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "…Que som é esse?"
+        },
+        {
+            "id": 8,
+            "model": "히스클리프",
+            "content": "Isso parece terrivelmente familiar... De alguma forma irritantemente formigante... e desagradável..."
+        },
+        {
+            "id": 9,
+            "model": "그레고르",
+            "content": "…É um sino de escola. Nosso garoto odiava tanto a escola, hein."
+        },
+        {
+            "id": 10,
+            "content": "A conversa divertida pareceu aliviar o humor dos Sinners."
+        },
+        {
+            "id": 11,
+            "content": "Guarde um."
+        },
+        {
+            "id": 12,
+            "content": "Aquele que deveria ser o dono das braças ainda demonstrava desconforto."
+        },
+        {
+            "id": 13,
+            "model": "싱클레어",
+            "content": "N-Não… Eu não quero mostrar minhas memórias, elas, elas são…"
+        },
+        {
+            "id": 14,
+            "content": "Infelizmente, seu apelo não teve poder sobre o reino."
+        },
+        {
+            "id": 15,
+            "model": "크로머",
+            "teller": "Kromer",
+            "title": "Nagel und Hammer",
+            "content": "Certo, pessoal! Ouçam!"
+        },
+        {
+            "id": 16,
+            "model": "N사심문관1",
+            "teller": "An Inquisitor",
+            "title": "Nagel und Hammer",
+            "content": "Aquele que Agarra assim declara."
+        },
+        {
+            "id": 17,
+            "model": "N사심문관2",
+            "teller": "Fellow Inquisitor",
+            "title": "Nagel und Hammer",
+            "content": "Aquele que Agarra assim declara."
+        },
+        {
+            "id": 18,
+            "model": "크로머",
+            "teller": "Kromer",
+            "title": "Nagel und Hammer",
+            "content": "Esses hereges não estão apenas perturbando nosso rito sagrado, eles agora estão atrás da oferta que é nossa por direito consagrar!"
+        },
+        {
+            "id": 19,
+            "model": "N사심문관1",
+            "teller": "An Inquisitor",
+            "title": "Nagel und Hammer",
+            "content": "Eles são vergonhosos e imundos."
+        },
+        {
+            "id": 20,
+            "model": "N사심문관2",
+            "teller": "Fellow Inquisitor",
+            "title": "Nagel und Hammer",
+            "content": "Eles são vergonhosos e imundos."
+        },
+        {
+            "id": 21,
+            "model": "크로머",
+            "teller": "Kromer",
+            "title": "Nagel und Hammer",
+            "content": "Vá em frente e morra! Não tema seu fim!"
+        },
+        {
+            "id": 22,
+            "model": "크로머",
+            "teller": "Kromer",
+            "title": "Nagel und Hammer",
+            "content": "Enquanto a oferenda de ouro estiver conosco, você será trazido de volta à vida repetidas vezes!"
+        },
+        {
+            "id": 23,
+            "model": "N사심문관1",
+            "teller": "An Inquisitor",
+            "title": "Nagel und Hammer",
+            "content": "Não temeremos, pois Aquele que nos segura está conosco."
+        },
+        {
+            "id": 24,
+            "model": "N사심문관2",
+            "teller": "Fellow Inquisitor",
+            "title": "Nagel und Hammer",
+            "content": "Não temeremos, pois Aquele que nos segura está conosco."
+        },
+        {
+            "id": 25,
+            "model": "크로머",
+            "teller": "Kromer",
+            "title": "Nagel und Hammer",
+            "content": "E… Sinclair."
+        },
+        {
+            "id": 26,
+            "model": "크로머",
+            "teller": "Kromer",
+            "title": "Nagel und Hammer",
+            "content": "Depressa. Você pertence às minhas mãos."
+        },
+        {
+            "id": 27,
+            "model": "N사심문관1",
+            "teller": "An Inquisitor",
+            "title": "Nagel und Hammer",
+            "content": "Não existe alegria maior do que ser empunhado por Aquele que Agarra."
+        },
+        {
+            "id": 28,
+            "model": "N사심문관2",
+            "teller": "Fellow Inquisitor",
+            "title": "Nagel und Hammer",
+            "content": "Não existe alegria maior do que ser empunhado por Aquele que Agarra."
+        },
+        {
+            "id": 29,
+            "model": "싱클레어",
+            "content": "Eu—eu…"
+        },
+        {
+            "id": 30,
+            "model": "크로머",
+            "teller": "Kromer",
+            "title": "Nagel und Hammer",
+            "content": "Sinclair."
+        },
+        {
+            "id": 31,
+            "model": "크로머",
+            "teller": "Kromer",
+            "title": "Nagel und Hammer",
+            "content": "Você trouxe a moeda?"
+        },
+        {
+            "id": 32,
+            "place": "Rowdy Classroom",
+            "model": "싱클레어",
+            "content": "…Os intervalos entre as aulas são sempre animados, pois todos se reúnem para conversar."
+        },
+        {
+            "id": 33,
+            "model": "싱클레어",
+            "content": "Os adultos muitas vezes nos observavam de longe e consideravam isso uma visão reconfortante."
+        },
+        {
+            "id": 34,
+            "model": "싱클레어",
+            "content": "Mas há algo que eles não percebem."
+        },
+        {
+            "id": 35,
+            "model": "싱클레어",
+            "content": "Quando você olha mais de perto, essas interações alegres estão cheias de inveja, vaidade, orgulho e astúcia."
+        },
+        {
+            "id": 36,
+            "model": "싱클레어",
+            "content": "Crianças são criaturas astutas."
+        },
+        {
+            "id": 37,
+            "teller": "Reminisced Classmate",
+            "title": "Student",
+            "content": "Ouvi dizer que Rahul da próxima série fará uma cirurgia nos dois braços com o pai. Vai ser com uma tecnologia nova que nunca foi mostrada antes. Quão legal é isso?"
+        },
+        {
+            "id": 38,
+            "teller": "Reminisced Schoolmate",
+            "title": "Student",
+            "content": "Você conhece esse ator em todas as capas de revista? Eu já mencionei que eles estão fazendo um transplante de olho na clínica da minha mãe? A lista de espera era tão longa que eles imploraram pessoalmente para serem promovidos."
+        },
+        {
+            "id": 39,
+            "model": "싱클레어",
+            "content": "Fico mais ansioso a cada história arrogante que meus colegas contam."
+        },
+        {
+            "id": 40,
+            "model": "싱클레어",
+            "content": "O que posso compartilhar? Seus olhos expectantes apontados para mim pareciam que poderiam se transformar em olhares zombeteiros a qualquer momento."
+        },
+        {
+            "id": 41,
+            "model": "싱클레어",
+            "content": "I-Isso é segredo, mas…"
+        },
+        {
+            "id": 42,
+            "model": "싱클레어",
+            "content": "Engoli em seco, nervosa."
+        },
+        {
+            "id": 43,
+            "model": "싱클레어",
+            "content": "Talvez eles não estivessem me pedindo uma história, afinal."
+        },
+        {
+            "id": 44,
+            "model": "싱클레어",
+            "content": "Mas eu tinha que manter os olhares curiosos deles em mim."
+        },
+        {
+            "id": 45,
+            "model": "싱클레어",
+            "content": "Eu tinha certeza de que me tornaria um pária no momento em que eles desviaram o olhar."
+        },
+        {
+            "id": 46,
+            "model": "싱클레어",
+            "content": "Meu pai… assinou um contrato com a P Corp. Eles viram a tecnologia em que ele estava trabalhando e concordaram em dar total suporte."
+        },
+        {
+            "id": 47,
+            "model": "싱클레어",
+            "content": "Meu Deus, o que eu estava pensando quando derramei isso?"
+        },
+        {
+            "id": 48,
+            "model": "싱클레어",
+            "content": "Com medo de ficar isolado dos meus colegas, descuidadamente causei minha própria ruína."
+        },
+        {
+            "id": 49,
+            "model": "싱클레어",
+            "content": "Talvez eu tenha sido compelido por algum impulso infantil ou por um desejo inerente de ser reconhecido pelos outros alunos."
+        },
+        {
+            "id": 50,
+            "model": "싱클레어",
+            "content": "“Agora, Emil, este é um acordo confidencial para nossos negócios. Você não deve contar a mais ninguém.”\nSeu lembrete insistente ecoou na minha cabeça — eu podia ver seu rosto."
+        },
+        {
+            "id": 51,
+            "teller": "Reminisced Classmate",
+            "title": "Student",
+            "content": "Uau… Isso é sério, Sinclair?"
+        },
+        {
+            "id": 52,
+            "teller": "Reminisced Schoolmate",
+            "title": "Student",
+            "content": "P Corp? Como essa Wing?! Uau… Estou com inveja."
+        },
+        {
+            "id": 53,
+            "model": "싱클레어",
+            "content": "Eu me tornei o centro da conversa em uma fração de segundo. Posso sentir os olhos estimulados das outras crianças na sala atraídos para mim."
+        },
+        {
+            "id": 54,
+            "model": "싱클레어",
+            "content": "A superioridade era muito boa."
+        },
+        {
+            "id": 55,
+            "model": "싱클레어",
+            "content": "Acho que fui movido por um desejo depravado por atenção."
+        },
+        {
+            "id": 56,
+            "teller": "Reminisced Classmate",
+            "title": "Student",
+            "content": "Ah, certo, Sinclair! Seu procedimento é logo, não é? Sabe, as próteses."
+        },
+        {
+            "id": 57,
+            "model": "싱클레어",
+            "content": "Y—Sim, claro. Eles me disseram que eu vou pegar o… modelo mais novo."
+        },
+        {
+            "id": 58,
+            "model": "싱클레어",
+            "content": "Se prestassem um pouco de atenção no meu rosto…"
+        },
+        {
+            "id": 59,
+            "model": "싱클레어",
+            "content": "Eles teriam notado a relutância na minha expressão."
+        },
+        {
+            "id": 60,
+            "model": "싱클레어",
+            "content": "Felizmente, ninguém nunca apontou isso."
+        },
+        {
+            "id": 61,
+            "model": "싱클레어",
+            "content": "Uma onda enorme de culpa tomou conta de mim depois que nosso intervalo acabou e finalmente fiquei sozinho."
+        },
+        {
+            "id": 62,
+            "model": "싱클레어",
+            "content": "Eu deveria manter isso em segredo… E se o pai descobrir?"
+        },
+        {
+            "id": 63,
+            "model": "싱클레어",
+            "content": "Ah…"
+        },
+        {
+            "id": 64,
+            "model": "싱클레어",
+            "content": "Estava vazando sangue da ponta do meu dedo."
+        },
+        {
+            "id": 65,
+            "model": "싱클레어",
+            "content": "O péssimo hábito de roer as unhas sempre que me sentia ansiosa acabou me prejudicando."
+        },
+        {
+            "id": 66,
+            "model": "싱클레어",
+            "content": "Tentei cortá-los o mais curto que pude para tentar quebrá-los..."
+        },
+        {
+            "id": 67,
+            "model": "싱클레어",
+            "content": "Mas nunca imaginei que poderia morder minha pele."
+        },
+        {
+            "id": 68,
+            "model": "싱클레어",
+            "content": "Observando gotas de sangue caindo sobre a mesa, pensei em algo."
+        },
+        {
+            "id": 69,
+            "model": "싱클레어",
+            "content": "Quando eu me formar, vou receber uma prótese de substituição…"
+        },
+        {
+            "id": 70,
+            "model": "싱클레어",
+            "content": "E então nunca mais me machucarei ou verei meu sangue."
+        },
+        {
+            "id": 71,
+            "model": "싱클레어",
+            "content": "Mas… Isso é realmente…"
+        },
+        {
+            "id": 72,
+            "model": "학생크로머",
+            "teller": "Kromer",
+            "title": "Student",
+            "content": "Você está… sangrando."
+        },
+        {
+            "id": 73,
+            "model": "싱클레어",
+            "content": "Alguém projeta uma sombra sobre minha mesa com um assobio caprichoso."
+        },
+        {
+            "id": 74,
+            "model": "싱클레어",
+            "content": "Ela era uma colega de classe com quem eu raramente falava, então mal conseguia lembrar o nome dela."
+        },
+        {
+            "id": 75,
+            "model": "싱클레어",
+            "content": "Confuso, gaguejei minha resposta desajeitadamente."
+        },
+        {
+            "id": 76,
+            "model": "싱클레어",
+            "content": "Wuh… O que… foi isso?"
+        },
+        {
+            "id": 77,
+            "model": "학생크로머",
+            "teller": "Kromer",
+            "title": "Student",
+            "content": "Escute, o que você disse antes… É legítimo?"
+        },
+        {
+            "id": 78,
+            "model": "싱클레어",
+            "content": "Hum, s-sim… É legítimo."
+        },
+        {
+            "id": 79,
+            "model": "학생크로머",
+            "teller": "Kromer",
+            "title": "Student",
+            "content": "Entendo. Seu pai deve ser um grande negócio, não é?"
+        },
+        {
+            "id": 80,
+            "model": "싱클레어",
+            "content": "Sim, uhm… eu acho."
+        },
+        {
+            "id": 81,
+            "model": "싱클레어",
+            "content": "Sua bajulação inesperada me deixou envergonhado."
+        },
+        {
+            "id": 82,
+            "model": "싱클레어",
+            "content": "Como se a grandeza do meu pai fosse de alguma forma minha."
+        },
+        {
+            "id": 83,
+            "model": "학생크로머",
+            "teller": "Kromer",
+            "title": "Student",
+            "content": "Embora… Por que você fez essa cara?"
+        },
+        {
+            "id": 84,
+            "model": "싱클레어",
+            "content": "H—Hein?"
+        },
+        {
+            "id": 85,
+            "model": "학생크로머",
+            "teller": "Kromer",
+            "title": "Student",
+            "content": "Sabe… Você estava pensando isso consigo mesmo."
+        },
+        {
+            "id": 86,
+            "model": "싱클레어",
+            "content": "Então ela abaixa a cabeça e sussurra somente para mim ouvir."
+        },
+        {
+            "id": 87,
+            "model": "학생크로머",
+            "teller": "Kromer",
+            "title": "Student",
+            "content": "Que é imundo."
+        },
+        {
+            "id": 88,
+            "model": "싱클레어",
+            "content": "Meus olhos se arregalam."
+        },
+        {
+            "id": 89,
+            "model": "싱클레어",
+            "content": "Não apenas porque fiquei surpreso por ela saber o que eu estava pensando..."
+        },
+        {
+            "id": 90,
+            "model": "싱클레어",
+            "content": "Mas o fato de que uma completa estranha como ela conseguiu descobrir exatamente o que eu estava escondendo."
+        },
+        {
+            "id": 91,
+            "model": "싱클레어",
+            "content": "C-Como você sabia?"
+        },
+        {
+            "id": 92,
+            "model": "싱클레어",
+            "content": "Eu poderia ter escapado se tivesse negado as acusações dela, mas, sem tato, perguntei isso a ela com um olhar perplexo no rosto."
+        },
+        {
+            "id": 93,
+            "model": "학생크로머",
+            "teller": "Kromer",
+            "title": "Student",
+            "content": "Pffh… Porque… eu concordo com você nisso."
+        },
+        {
+            "id": 94,
+            "model": "싱클레어",
+            "content": "Você… Você concorda?"
+        },
+        {
+            "id": 95,
+            "model": "학생크로머",
+            "teller": "Kromer",
+            "title": "Student",
+            "content": "Você pode ver muito daqueles que estão na mesma sintonia que você."
+        },
+        {
+            "id": 96,
+            "model": "학생크로머",
+            "teller": "Kromer",
+            "title": "Student",
+            "content": "Prazer em conhecê-lo. Eu sou Kromer."
+        },
+        {
+            "id": 97,
+            "model": "싱클레어",
+            "content": "Desde então…"
+        },
+        {
+            "id": 98,
+            "model": "싱클레어",
+            "content": "Kromer e eu nos tornamos amigos e conversávamos com frequência."
+        }
+    ]
+}

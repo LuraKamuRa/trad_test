@@ -1,0 +1,53 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePbBa",
+      "name": "Pallid Noise",
+      "desc": "Eficiência de perda de SP +2\nSe em menos ou igual a -45 sp e infligido com esse buff, ganhe pânico no ruído no próximo turno.\nTurn End: Reduza este efeito em 1",
+      "summary": "Eficiência de perda de SP +2",
+      "undefined": null
+    },
+    {
+      "id": "AaCePbBb",
+      "name": "Noise Panic",
+      "desc": "Cada moeda que esta unidade vira pousa nas caudas.\nExpira na próxima curva",
+      "summary": "Cada moeda pousa em caudas",
+      "undefined": null
+    },
+    {
+      "id": "AaCePbBc",
+      "name": "Impurity",
+      "desc": "- Baixo moral\n- Ganhe 1 frágil. Se esta unidade perder um confronto, o alvo perde 2 sp",
+      "summary": "O alvo perde 2 sp se esta unidade perder o confronto",
+      "undefined": null
+    },
+    {
+      "id": "AaCePbBd",
+      "name": "Impurity",
+      "desc": "- Pânico\n- Ganhe 2 frágeis. Se esta unidade perder um confronto, o alvo perde 5 sp",
+      "summary": "O alvo perde 5 SP se esta unidade perder o confronto",
+      "undefined": null
+    },
+    {
+      "id": "AaCePbBi",
+      "name": "Test of the Big Brother",
+      "desc": "Turn End: Reduza o valor em 1\nEnquanto isso estiver ativo, tome o dobro do dano das habilidades. O dobro da quantidade de limiar de escalonamento elevada de tremor estourar.\nEsse efeito expira quando esta unidade é escalonada.\nSe esta unidade não for escalonada quando esse efeito expirar, ganhe 5 danos no início do próximo turno",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePbBe",
+      "name": "Vengeance",
+      "desc": "- Baixo moral\n- Turn Start: Gain 1 Attack Power Up e 3 Nível de defesa Down. Ganhar danos causados ​​com base na quantidade de danos causados ​​na última volta (1 dano a cada 3% do máximo de hp perdido)",
+      "summary": "Ganhe danos com base no dano total recebido na última vez.",
+      "undefined": null
+    },
+    {
+      "id": "AaCePbBf",
+      "name": "Vengeance",
+      "desc": "- Pânico\n- Turn Start: Ganhe 2 Ataque Power Up e 6 Nível de defesa Down. Ganhe danos com base na quantidade de dano causado na última curva\n(1 dano subindo para cada 3% do max hp perdido)",
+      "summary": "Ganhe danos com base no dano total recebido na última vez.",
+      "undefined": null
+    }
+  ]
+}

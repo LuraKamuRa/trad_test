@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": "A1c971a",
+      "name": "Boiling Wrath",
+      "desc": "Todo turno Start: Ganhe Burn Igual to Turn Count",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "A1c971b",
+      "name": "Propagating Gloom",
+      "desc": "Turn End: Na 1 pilha, infligir danos iguais ao atual HP desta unidade contra o inimigo com o mínimo de HP, depois morre\nReduzido por 1 na extremidade do turno",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "A1c971c",
+      "name": "Perpetuating Gluttony",
+      "desc": "Turn Start: Ganho 1 HP Heal Boost a cada 2 voltas (máximo 5)\nTurn Start: Gain 1 Danh Up e 1 Clash Power Up para cada 10 hp curado (máximo 5)\n\nHP Healed: {0}",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "A1c971d",
+      "name": "Gasping Breath",
+      "desc": "Ao ganhar equilíbrio, ganhe 3 posta adicional ou +2 contagem adicional de postura",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "A1c971e",
+      "name": "Wounded Wound",
+      "desc": "On Hit, infligir 2 sangramento adicional ou +1 contagem de sangramento adicional",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "A1c971f",
+      "name": "Lazy Sloth",
+      "desc": "Reduzido por 1 na extremidade do turn.\nFalha na condição extra em 0",
+      "summary": "",
+      "undefined": null
+    }
+  ]
+}

@@ -1,0 +1,1535 @@
+{
+    "dataList": [
+        {
+            "id": 816101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Impaling",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Combustion]e +2[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hewing",
+                    "desc": "[WinDuel]Se o alvo tem[Combustion], Potência base +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[PenetrateTakeDamageUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Erupting Wrath",
+                    "desc": "[WhenUse]Power de moedas +1 para cada 5[Combustion]no alvo (máximo 3)[WinDuel]Se o alvo tiver 9+[Combustion], essa habilidade ganha peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Combustion]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[CrimsonTakeDamageUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Combustion], Power de moedas +2[WhenUse]Se o alvo tiver 6+[Combustion], reutilize essa habilidade (2 vezes máx)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 10[AttackDmgUp_Weak]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Brush Wounds",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Broken Heart",
+                    "desc": "[WinDuel]Ganhe 3[DefenseUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ruination, Wailing, and Lamentation",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 ataque Power Up no próximo turno"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 2 Ataque Power Up no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Undeserving of Speech",
+                    "desc": "[WhenUse]Se o alvo tiver 8+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Se o alvo tiver 4+[Laceration], a próxima moeda causa +20% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 3 efeitos negativos, reutilize esta moeda (1 tempo máx)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bodysack",
+                    "desc": "[WhenUse]Potência base +1 para cada 5[Laceration]no alvo (máximo 3)[WhenUse]Power de conflito +1 para cada efeito negativo no alvo (máximo 2)[DefeatDuel]Ganhe 20[DefenseDown]\n[DefeatDuel]Ganhe 1 afastado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Se o alvo tiver 8+[Laceration], a última moeda causa +30% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Se o alvo tiver 8+[Laceration], a última moeda causa +30% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Se o alvo tiver 8+[Laceration], a última moeda causa +30% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se essa habilidade virar todas as cabeças, infligir 2[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lunacy of the Frenzied Wolf",
+                    "desc": "[WhenUse]Potência base +1 para cada 5[Laceration]no alvo (máximo 4)[WhenUse]Power de conflito +1 para cada efeito negativo no alvo (máximo 2)[DefeatDuel]Se o alvo tiver[AaCfPcBg], Aumente o limiar do cambaleante desta unidade até 100 na próxima curva. Se esta unidade não tiver um limite de escalonamento, crie um novo limite de escalonamento em 0.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se todas as moedas dessa habilidade chegarem, reutilize esta moeda (1 tempo máx)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816607,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reflexive Revenge",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mark Interloper",
+                    "desc": "[WhenUse]Infligir 1[AaCfPcBb]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DefenseUp]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Receiving Arts 1: The Hunt",
+                    "desc": "[WhenUse]Se o alvo tiver[AaCfPcBb], Clash Power +1[WinDuel]Ganho 1[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AaCfPcBb]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reverse Receiving Arts 1: The Hunt",
+                    "desc": "[WhenUse]Se o alvo tiver[AaCfPcBb], Clash Power +1[WinDuel]Ganho 1[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DefenseUp]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AaCfPcBb]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Overwhelm Interloper",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, Clash Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 3 efeitos negativos, reutilize esta moeda (1 tempo máx)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Receiving Arts 2: Collapse",
+                    "desc": "[WhenUse]Se o alvo tiver[AaCfPcBb], Clash Power +10",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não tiver um limite de escalonamento, cause danos a 200 hp."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Levante o limite de cambaleou em 200"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817106,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Receiving Arts 7: Capture",
+                    "desc": "[StartBattle]Ganhe peso ATK igual ao número de inimigos com[AaCfPcBb]\n[WhenUse]Se a velocidade desta unidade for mais rápida que o alvo principal em 3 ou mais, infligir 2 barras resista em baixo[WhenUse]Se o alvo tiver[AaCfPcBb], Clash Power +8[EndBattle]Todos[AaCfPcBb]expira",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 4 efeitos negativos, causar 30% dos danos causados ​​como dano por corte de bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817107,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interloper Apprehension",
+                    "desc": "Prioriza os alvos com[AaCfPcBc]\n[DefeatDuel]Se o alvo tiver[AaCfPcBc] [AaCfPcBc]expira",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[DefenseDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, reutilize esta moeda (1 tempo máx)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817108,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Receiving Arts 3: Binding",
+                    "desc": "[WhenUse]Se o alvo tiver[AaCfPcBc], Potência base +5[WhenUse]Se o alvo tiver[AaCfPcBc], infligir 1[AaCfPcBc]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[DefenseDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 3 efeitos negativos, reutilize esta moeda (1 tempo máx)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817109,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Heal 5 sp[OnSucceedEvade]Ganhe mais 1 slot apenas para o próximo turno. (1 tempo máx)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817110,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Receiving Arts 9: Dissolution",
+                    "desc": "Prioriza os alvos com[AaCfPcBc]Se o alvo tiver[AaCfPcBc], Potência base +10\nSe o alvo não tiver[AaCfPcBc], essa habilidade causa 0 danos.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Target Stagger."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fused Blade of Ruined Mirror Worlds",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar. Infligir 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Smackdown",
+                    "desc": "[WinDuel]Ganho 1[Enhancement]e 1[AttackDmgUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar. Infligir 3[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Laceration]igual a[Sinking]no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Resolving Grudges",
+                    "desc": "Se o alvo tiver 5+[Sinking], Clash Power +1\nSe o alvo tiver 5+[Laceration], Clash Power +1[WinDuel]Infligir +3[Sinking]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Próxima moeda tem +1 poder"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Próxima moeda tem +2 poder"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Nightmarish Vengeance, Returned",
+                    "desc": "[CantChangeTarget]\n[WhenUse]Se o alvo não tiver[AaCfPbBa], Clash Power +10[DefeatDuel]Ganhe 3 na próxima curva frágil",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ride for Death, Dullahan",
+                    "desc": "[CantDuel]\n[WhenUse]Se o alvo tiver[AaCfPbBb], causar -100% menos dano",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wild Hunt of Desolation",
+                    "desc": "[CantDuel]\n[WhenUse]Se o alvo tiver[AaCfPbBc], causar -100% menos dano[WhenUse]Acordo +25% mais dano para cada aliado sobrevivente",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817207,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Withstand",
+                    "desc": "[WhenUse]Ganho 1[Enhancement]Próximo turno (uma vez por turno)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817208,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Glass Shard of Wailing Sorrow",
+                    "desc": "[WhenUse]Ganho 1[Enhancement]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Greatsword Rend",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contagem e 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Smackdown",
+                    "desc": "[WinDuel]Ganho 1[Enhancement]e 1[AttackDmgUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contagem e 3[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Laceration]igual a[Sinking]no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Heed My Call, Wuthering Heights",
+                    "desc": "[CantDuel]\n[WhenUse]Gerar 1 unidade de caça selvagem na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "You’ll Get Shoved In This Coffin Too",
+                    "desc": "[CantDuel]\n[StartBattle]+100% para a quantidade de limiar de escalonamento aumentado de[VibrationExplosion]e qualquer outro limiar de escalonamento de efeitos de elevação[WhenUse]Aplique 3[Enhancement]e 3[AttackDmgUp]Para todos os aliados, incluindo esta unidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Behead Heathcliffs",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817306,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hollow Coffin Mace",
+                    "desc": "Se o alvo tiver 5+[Sinking], Clash Power +1\nSe o alvo tiver 5+[Laceration], Clash Power +1[WinDuel]Infligir +3[Sinking]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Próxima moeda tem +2 poder"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817307,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ride for Death, Dullahan",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Infligir 5[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Infligir +5[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817308,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Withstand",
+                    "desc": "[WhenUse]Ganho 1[Enhancement]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817309,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sorrow and Lament In The Erlking's Wake.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]e 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contagem e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]e 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contagem e +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817310,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Every Heathcliff Must Die...",
+                    "desc": "[CantChangeTarget]\n[CantDuel]Não fica escalonado nesta curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Dano de acordo igual a 100% do max hp do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "It's All Pointless",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "For a World Without His Suffering",
+                    "desc": "[CantDuel]\n[StartBattle]Aplique 2[Vulnerable]e 2,[Enhancement]Para todos os outros aliados[StartBattle]Ganhe 5[Binding]e 5[AttackDmgUp]Próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Every Catherine Must Die",
+                    "desc": "[CantDuel]Se todas as mãos hp estiverem em 1, causar 0 de dano[StartBattle]Todos os outros aliados ganham 2[Vulnerable]e 2[Enhancement]\n[EndSkill]Ganho 1[AaCfPcBn]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[AaCfPcBn]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Breaking Heart",
+                    "desc": "[EndSkill]Ganho 1[AaCfPcBn]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Dano de acordo igual a 15% de Max HP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[AaCfPcBn]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 819201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tears of Sorrow",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 819202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Clutch of Tragedy",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 819203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Clutch of Despair",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AttackDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 819204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Meaningless Writhing",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 819205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Misery is All That Remains...",
+                    "desc": "[DefeatDuel]Ganho 1[AaCfPcBn]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Dano de acordo igual a 15% de Max HP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 819206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Soul Out of Reach",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Remo...",
+                    "desc": "Núcleo e pete cura em 10% dos danos causados ​​por essa habilidade de ataque",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "... Bastard",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a potência de conflito do alvo +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, reutilize esta moeda (uma vez)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This is My...",
+                    "desc": "Priorize metas com o mínimo de HP[WhenUse]Se o alvo tiver menos de 70% HP, o Clash Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 20[Laceration], causar +100% mais danos"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Reutilize essa habilidade (1 tempo máx)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Get...",
+                    "desc": "Prioriza Heathcliff[WhenUse]Se o alvo for o inimigo com a velocidade mais lenta, a potência base +3[WhenUse]Infligir[AaCfPbBe], 2[Vulnerable], 3[Paralysis]e 5[Binding]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Back...!!",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 2[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 2[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 2[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Laceration], cure 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "ttle...",
+                    "desc": "Prioriza os alvos com[AaCfPbBe]Se a velocidade desta unidade for mais rápida que o alvo em 3 ou mais, reutilize essa habilidade (1 tempo máx)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar núcleo e parte por 50% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar núcleo e parte por 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gua...",
+                    "desc": "Se esta unidade tiver escudo restante HP no final, ganhe 4[Protection]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817008,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "... de",
+                    "desc": "[OnSucceedEvade]Infligir 1[Binding]Próximo turno (2 vezes max)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817009,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This Is...!",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, a moeda Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], curar 70% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

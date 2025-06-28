@@ -1,0 +1,1950 @@
+{
+  "dataList": [
+    {
+      "id": 810001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "All Shall Scatter",
+          "desc": "Prioriza os inimigos com marcado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] causar danos à SP pelo número de velas acesas"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] causar danos à SP pelo número de velas acesas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Longing...",
+          "desc": "Prioriza os inimigos com marcado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 fragilidade da ira na próxima curva"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[backet]], infligir 4 queima"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 fragilidade da ira na próxima curva"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[backet]], infligir 4 queima"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "desc": "Sapta todas as velas no próximo turno.\nAo atingir alvos com [[suporte]], o Target perde 5% adicionais de seu HP máximo.\n[[Suporte]] infligir 10 queimadura. Infligir o alvo com a próxima curva marcada.\n[[Bracket]] Todas as velas curam para Max HP.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] O MAX HP do alvo diminui 10%."
+                },
+                {
+                  "desc": "[[Suporte]] infligir 5 queimaduras e +2 contagem de queimaduras"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] O MAX HP do alvo diminui 10%."
+                },
+                {
+                  "desc": "[[Suporte]] infligir 5 queimaduras e +2 contagem de queimaduras"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6:5",
+          "desc": "[[Bracket]] [[suporte]]\nTome dano no lugar do alvo. Fique escalonado no próximo turno.\nInfligir marcados em um inimigo aleatório sem [[suporte]].\n[[Bracket]] Todas as velas se curam para Max HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] O máximo de HP desta unidade diminui 10%."
+                },
+                {
+                  "desc": "[[Suporte]] infligir 10 queima em si mesmo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] O máximo de HP desta unidade diminui 10%."
+                },
+                {
+                  "desc": "[[Suporte]] infligir 10 queima em si mesmo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "All Shall be Revealed",
+          "desc": "[[SUPORTE]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 fragilidade da ira"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "All Shall Burn",
+          "desc": "[[SUPORTE]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], infligir 3 queima."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sparked Flame",
+          "desc": "Prioriza metas com [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 6 queimadura e +2 contagem de queimaduras"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "So That It Will Burn",
+          "desc": "[[Suporte]] Ganhe 20 escudo\nSquufá as luzes na próxima curva quando estão fora do escudo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 queima e +1 contagem de queimaduras"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Toxic Fluid",
+          "desc": "[[Suporte]] Consuma 1 lodo verde",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 veneno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 veneno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corrosive Fluid",
+          "desc": "[[Suporte]] Consuma 1 lodo verde",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir o nível de defesa abaixo por [[suporte]] no alvo"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 larva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir o nível de defesa abaixo por [[suporte]] no alvo"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 larva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paralytic Fluid",
+          "desc": "[[Suporte]] Consuma 1 lodo verde",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], infligir 1 paralis"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 larva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], infligir 1 paralis"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 larva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Devouring Fluid",
+          "desc": "[[Suporte]] Consuma 2 lodo verde\n[[Suporte]] infligir 3 larva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 veneno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 paralisação no próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 veneno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 paralisação no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Green Slime",
+          "desc": "[[Bracket]] Ganhe Peso ATK por [[Bracket]]\n[[Bracket]] Ganhe 10 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 10 veneno"
+                },
+                {
+                  "desc": "[[Bracket]] Perca 7 sp"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 larva"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 paralisação e 3 nível de defesa no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Predation",
+          "desc": "[[Bracket]] [[suporte]]\nTem como alvo o lodo verde principalmente\nDerrota o lodo verde ao atacar",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Overflowing Poison",
+          "desc": "[[Suporte]] infligir 5 veneno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Headbutt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pound",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Press",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem de naufrágio se o alvo tiver [[backet]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem de naufrágio se o alvo tiver [[backet]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blind Obsession",
+          "desc": "[[Bracket]] A parte de fluorescência desta unidade perde 34% de HP máx.\n[[Suporte]] Ganhe 1 obsessão cega",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de naufrágio"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de naufrágio"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 naufrágio"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Afundando Dilúvio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crashing Siltcurrent",
+          "desc": "[[Bracket]] [[suporte]] altera o ambiente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 naed e +2 contagem de naufrágio"
+                },
+                {
+                  "desc": "[[Bracket]] Ganho -2 SP eficiência de perda na próxima volta"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 naed e +2 contagem de naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wayward Blind Obsession",
+          "desc": "[[Bracket]] [[Bracket]] Alvos destruídos Flotsam\n[[Bracket]] A parte da fluorescência perde 34% de HP máx.\n[[Bracket]] Ganhe 1 obsessão cega.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] destrói o alvo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sweep",
+          "desc": "[[Bracket]] Crie Flotsam",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 naufrágio"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem de naufrágio se o alvo tiver [[backet]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 naufrágio"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem de naufrágio se o alvo tiver [[backet]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wriggle",
+          "desc": "[[Bracket]] Gasta toda a obsessão cega\n[[Bracket]] Destrua todo o flotsam e destruiu o flotsam",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tear Up Wound",
+          "desc": "[[Suporte]] Heal 5 sp.\nAcordo +5% de dano por [[suporte]] no alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Protect the Town!",
+          "desc": "[[Bracket]] Ganhe 5 equilíbrio",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                },
+                {
+                  "desc": "[[Suporte]] Heal 4 sp"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                },
+                {
+                  "desc": "[[Suporte]] Heal 4 sp"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                },
+                {
+                  "desc": "[[Suporte]] Heal 4 sp"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                },
+                {
+                  "desc": "[[Suporte]] Heal 4 sp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tangling Javelin",
+          "desc": "[[Bracket]] Ganhe 5 pontos de equilíbrio e +2 contagem de pontos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir emaranhado"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "Quando atacado enquanto esta unidade possui escudo, ganhe 1 ofensa no nível seguinte",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quick Jabs",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Carve Wound",
+          "desc": "[[Suporte]] Heal 5 sp.\nAcordo +5% de dano por [[suporte]] no alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Protect the Town!",
+          "desc": "[[Bracket]] Ganhe 5 equilíbrio",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                },
+                {
+                  "desc": "[[Suporte]] Heal 4 sp"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                },
+                {
+                  "desc": "[[Suporte]] Heal 4 sp"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                },
+                {
+                  "desc": "[[Suporte]] Heal 4 sp"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                },
+                {
+                  "desc": "[[Suporte]] Heal 4 sp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capturing Javelin",
+          "desc": "[[Bracket]] Ganhe 5 pontos de equilíbrio e +2 contagem de pontos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Captura infligida"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Bracket]] Ganhe 1 Ofensão Nível no próximo turno (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Starting Hunt",
+          "desc": "[[Bracket]] Invocar 4 Aliados Próxima turno\n[[Bracket]] Aplique a presa Marca na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Harpooning",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Piercing Harpoon",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 nível de ofensa para baixo"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deep Breath",
+          "desc": "[[Bracket]] Ganhe 10 pontos de equilíbrio e +10 Poise Count.\nOs acertos críticos não consomem contagem de pontos com essa habilidade.\nTurn End: Gain [[Bracket]] Em seguida, o número de outros aliados sobreviventes.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "Os acertos críticos não consomem contagem de pontos com essa habilidade.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stalk Prey",
+          "desc": "+30% de dano no acerto crítico",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] Aumente o primeiro limite de cambaleação do alvo em 50% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cut Throat",
+          "desc": "Essa habilidade não consome o equilíbrio contagem de acertos críticos.\nNegociar +5% mais danos para cada [suporte]] no alvo\n[[Bracket]] cambaleou no turno End se esta unidade não tiver equilíbrio para si mesmo.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% de dano no acerto crítico"
+                },
+                {
+                  "desc": "[[Bracket]] Target Stagger na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deep Breathing",
+          "desc": "[[Bracket]] Ganhe 3 pontos de equilíbrio e +5 contagem de pontos.\nPara este turno, obtenha o poder final igual à potência de equilíbrio em si mesmo.\nPara este turno, perca 1 contagem de pontos quando atacado.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Survive",
+          "desc": "+30% de dano no acerto crítico",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura o núcleo e a parte HP por 50% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura o núcleo e a parte HP por 50% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura o núcleo e a parte HP por 50% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810310,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Must... Protect",
+          "desc": "[[Bracket]] Ao usar essa habilidade, se esta unidade tiver mais de 0 barreira de assistência, ative a defesa de assistência.\n[[Bracket]] Ganhe 10% do máximo de HP como barreira de assistência.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Persistent Harpoon",
+          "desc": "Power final +1 ao atacar o mesmo alvo que a Starbuck",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura o núcleo e a parte HP por 50% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir emaranhado"
+                },
+                {
+                  "desc": "[[Bracket]] Cura o núcleo e a parte HP por 50% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810312,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Must Finish Hunt...",
+          "desc": "Os acertos críticos não consomem contagem de pontos com essa habilidade.\nAcordo +5% de dano por [[suporte]] no alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% de dano no acerto crítico"
+                },
+                {
+                  "desc": "[[Bracket]] Target Stagger na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Impale",
+          "desc": "[[Bracket]] Ganhe +3 contagem de pontos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Piercing Thrust",
+          "desc": "[[Bracket]] Ganhe 5 equilíbrio",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 curva frágil na próxima vez"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 nível de defesa no próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] reutilize esta moeda uma vez (máx. 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Follow Orders...",
+          "desc": "[[Bracket]] Se Queequeg tiver mais de 0 barreira de assistência, ativar o ataque de assistência",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ambush",
+          "desc": "Causar 50% mais dano com acerto crítico\nAcordo +5% mais danos por [[suporte]] no alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] Aumente o primeiro limite de cambaleação do alvo em 50% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fearful Sigh",
+          "desc": "[[Bracket]] Ganhe +6 contagem de pontos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Determined Harpoon",
+          "desc": "Power final +2 ao atacar o mesmo alvo que Queequeg",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Captura infligida"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 níveis de defesa no próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 curva frágil na próxima vez"
+                },
+                {
+                  "desc": "[[Bracket]] reutilize esta moeda uma vez (máx. 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Escape...",
+          "desc": "Causar 100% mais dano com acerto crítico\nAcordo +5% mais danos por [[suporte]] no alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] Aumente o primeiro limite de cambaleação do alvo em 50% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obey My Orders",
+          "desc": "[[Bracket]] Heal 10 SP para si mesmo e 1 outro aliado com o mínimo de SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Me!",
+          "desc": "[[Bracket]] Encomende Queequeg para ativar a defesa de assistência no próximo turno. O pedido é cancelado quando esta unidade estiver escalonada.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Track Them to the End!",
+          "desc": "[[Bracket]] Peça a Starbuck para ativar o ataque de assistência no próximo turno. O pedido é cancelado quando esta unidade estiver escalonada.\n[[Bracket]] Aplique 1 marca de presa no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Veteran's Harpoon",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burning Harpoon",
+          "desc": "Power final +1 para cada efeito negativo no alvo principal (máximo 5)\nAcordo +5% de dano por [[suporte]] no alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir queimadura por sangramento no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Foolishness!",
+          "desc": "[[Bracket]] Heal 5 sp\n[[Bracket]] Target perde 5 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exhale!",
+          "desc": "[[Suporte]] infligir 1 marca de presa na próxima curva\n[[Suporte]] Ganhe 4 equilíbrio",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aplique 4 postagem a 2 outros aliados.\nSe não houver outros aliados, ganhe 2 pontos de equilíbrio."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be Fearless!",
+          "desc": "[[Bracket]] Cure 10 sp em si mesmo. 1 outro aliado com o maior SP perde 10 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de queimaduras"
+                },
+                {
+                  "desc": "[[Bracket]] Aplique 1 paralisação a um outro aliado aleatório na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de queimaduras"
+                },
+                {
+                  "desc": "[[Bracket]] Aplique 1 paralisação a um outro aliado aleatório na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +1 contagem de queimaduras"
+                },
+                {
+                  "desc": "[[Bracket]] Aplique 1 paralisação a um outro aliado aleatório na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tempering of Death",
+          "desc": "[[Bracket]] Aplique o comando indefiável a 1 aliado com o menor SP\n[[Bracket]] Levante o limite de cambaleou por 20 para 1 aliado com o menor SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 frágeis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strike Me Down!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab to Kill",
+          "desc": "Tem como alvo a unidade com o menor máximo de HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 6 nível de ofensa para baixo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Undying Soul",
+          "desc": "Reutilizar fugir após a falha de fuga (até 2 vezes)\n[[Bracket]] Perca 2 ego do PIP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Murky Innocence",
+          "desc": "[[Bracket]] Ganhe 2 Power de defesa para baixo. Perder 10 sp em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 paralisação"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Weight of Guilt",
+          "desc": "Alvos de 3 unidades com o menor máximo de HP\n[[Bracket]] Ganhe potência base +2 e peso ATK +1 para cada 5 ego do PIP\n[[Bracket]] Perca 3 ego do PIP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                },
+                {
+                  "desc": "[[Bracket]] Aumente o limiar de cambaleante em 30"
+                },
+                {
+                  "desc": "[[Bracket]] Target perde 10 sp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "사용하지않는스킬(번역x)",
+          "desc": "",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swathed Fear",
+          "desc": "[[Suporte]] infligir 1 marca de presa na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento e +4 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810608,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punctured Weakness",
+          "desc": "[[Suporte]] infligir 1 marca de presa na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 nível de ofensa no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810609,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoing Cry",
+          "desc": "Acordo +5% de dano para cada 1 sangramento no alvo\nSe o alvo não tiver marca de presa, o poder da moeda +1\n[[Suporte]] Perca 5 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 danos sp a 3 inimigos aleatórios"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 danos sp a 3 inimigos aleatórios"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 danos sp a 3 inimigos aleatórios"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 danos sp a 3 inimigos aleatórios"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 danos sp a 3 inimigos aleatórios"
+                },
+                {
+                  "desc": "[[Bracket]] reutilize a moeda final uma vez para cada 10 ego da Starbuck"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810610,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clouded Path",
+          "desc": "[[Suporte]] infligir 1 marca de presa na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 danos baixos"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 5 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bleached Atonement",
+          "desc": "[[Bracket]] perde 5 ego de Queequeg\n[[Bracket]] Ganhe 6 nível de defesa\n[[Suporte]] Perca 5 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruído pálido"
+                },
+                {
+                  "desc": "[[Bracket]] Target Stagger"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810612,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Insidious Pallidification",
+          "desc": "[[Bracket]] Ganhe 10% do máximo de HP como escudo. Para cada ego de Queequeg, obtenha 0,5% adicional de HP máximo como escudo adicional.\nQuando atacado enquanto protegeu, o atacante perde 5 sp\nQuando atacado, use esta habilidade uma vez para cada 10 ego de Queequeg",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scorn Not the Prophecy",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]] e 2 [[bracket]] contam no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "dataList": [
+        {
+            "id": 814702,
+            "name": "Doubt",
+            "desc": "Quando esta unidade derrota um inimigo com uma habilidade de ataque, causar 10 danos causados ​​a todos os inimigos."
+        },
+        {
+            "id": 814801,
+            "name": "Life",
+            "desc": "Ao cambalear ou derrotar um inimigo com uma habilidade de ataque, esta unidade cura 50 hp (núcleo e parte)"
+        },
+        {
+            "id": 814901,
+            "name": "Pain",
+            "desc": "Se um aliado for derrotado em combate, ganha 1 ligação, 1 ataque de ataque e 3 danos no próximo turno."
+        },
+        {
+            "id": 814902,
+            "name": "Weakness",
+            "desc": "Se esta unidade morrer, aplique 5 danos no próximo turno a todos os inimigos. Este efeito não empilha."
+        },
+        {
+            "id": 815001,
+            "name": "Irresponsible",
+            "desc": "Se não houver outros aliados além do amanhecer do verde - dúvida - δ, o dobro dos efeitos de 'dúvida' e 'vida'."
+        },
+        {
+            "id": 815002,
+            "name": "Beginning",
+            "desc": "Se esta unidade estiver viva, nenhum inimigo será gerado no Turn End."
+        }
+    ]
+}

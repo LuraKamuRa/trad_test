@@ -1,0 +1,909 @@
+{
+    "dataList": [
+        {
+            "id": 9014501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Coagulated Arm",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Jag",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Collecting Blood",
+                    "desc": "Se o alvo tiver 10+[Laceration], causar +20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Absorver até 10[Laceration]Potência do alvo e cura ([Laceration]Potência absorvida x 2)% hp (esse efeito não diminui o alvo[Laceration]Potência sob 1)",
+                                    "summary": "[OnSucceedAttack]Absorver[Laceration]no alvo para curar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Laceration]Conte com eu (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Coagulated Arm",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Collecting Blood",
+                    "desc": "Se o alvo tiver 10+[Laceration], causar +20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Absorver até 10[Laceration]Potência do alvo e cura ([Laceration]Potência absorvida x 2)% hp (esse efeito não diminui o alvo[Laceration]Potência sob 1)",
+                                    "summary": "[OnSucceedAttack]Absorver[Laceration]no alvo para curar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Laceration]Conte com eu (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Coagulated Arm",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Strike",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Collecting Blood",
+                    "desc": "Se o alvo tiver 10+[Laceration], causar +20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Absorver até 10[Laceration]Potência do alvo e cura ([Laceration]Potência absorvida x 2)% hp (esse efeito não diminui o alvo[Laceration]Potência sob 1)",
+                                    "summary": "[OnSucceedAttack]Absorver[Laceration]no alvo para curar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Laceration]Conte com eu (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rip",
+                    "desc": "[WhenUse]Ganhe +2[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Charge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab Down",
+                    "desc": "[WhenUse]Ganhe +5[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Charge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Charge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Weapon",
+                    "desc": "[WhenUse]Consuma tudo[Charge]Conte consigo mesmo e consuma 2 (15 -[Charge]Contagem consumida)% hp para ganhar poder de moeda +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Absorver até 10[Laceration]Potência do alvo e cura ([Laceration]Potência absorvida x 2)% hp (esse efeito não diminui o alvo[Laceration]Potência sob 1)",
+                                    "summary": "[OnSucceedAttack]Absorver[Laceration]no alvo para curar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Laceration]Conte com eu (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thrust",
+                    "desc": "[WhenUse]Ganhe +2[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Charge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cleave",
+                    "desc": "[WhenUse]Ganhe +5[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Charge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Charge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Weapon",
+                    "desc": "[WhenUse]Consuma tudo[Charge]Conte consigo mesmo e consuma 2 (15 -[Charge]Contagem consumida)% hp para ganhar poder de moeda +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Absorver até 10[Laceration]Potência do alvo e cura ([Laceration]Potência absorvida x 2)% hp (esse efeito não diminui o alvo[Laceration]Potência sob 1)",
+                                    "summary": "[OnSucceedAttack]Absorver[Laceration]no alvo para curar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Laceration]Conte com eu (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Spear Swing",
+                    "desc": "[WhenUse]Ganhe +2[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Charge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear Up Wound",
+                    "desc": "[WhenUse]Ganhe +5[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Charge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Charge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Weapon",
+                    "desc": "[WhenUse]Consuma tudo[Charge]Conte consigo mesmo e consuma 2 (15 -[Charge]Contagem consumida)% hp para ganhar poder de moeda +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Absorver até 10[Laceration]Potência do alvo e cura ([Laceration]Potência absorvida x 2)% hp (esse efeito não diminui o alvo[Laceration]Potência sob 1)",
+                                    "summary": "[OnSucceedAttack]Absorver[Laceration]no alvo para curar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Laceration]Conte com eu (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Activate Prosthesis",
+                    "desc": "[WhenUse]Em mais de 10 anos[Charge]Conte, consuma 5[Charge]Contar para ganhar 3[AttackUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Harpoon Mark",
+                    "desc": "[StartBattle]Em 5-[Charge]Conte, ganhe 5[Charge]Contagem, 3[Laceration]Contagem e 1[Vulnerable]\n[WhenUse]Em mais de 10 anos[Charge]Conte, consuma 5[Charge]Contar para ganhar 3[AttackUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Harpoon",
+                    "desc": "[WhenUse]Consuma 10% de HP para obter +10[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Laceration]Conte com eu (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Activate Prosthesis",
+                    "desc": "[WhenUse]Em mais de 10 anos[Charge]Conte, consuma 3[Charge]Conte para ganhar poder de moeda +1[WhenUse]A mais de 15 anos[Charge]Conte, consuma 3 adicional[Charge]Contar para causar +20% mais danos[WhenUse]Em 5-[Charge]Conte, perca 10% HP e ganhe +5[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Reflux",
+                    "desc": "[WhenUse]Em mais de 10 anos[Charge]Conte, consuma 3[Charge]Conte para ganhar poder de moeda +1[WhenUse]A mais de 15 anos[Charge]Conte, consuma 3 adicional[Charge]Contar para causar +20% mais danos[WhenUse]Em 5-[Charge]Conte, perca 10% HP e ganhe +5[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bioenergy Conversion Charge",
+                    "desc": "[WhenUse]Consuma 10% de HP para obter +15[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Laceration]Conte com eu (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Transfusion",
+                    "desc": "[WhenUse]Em mais de 10 anos[Charge]Conte, consuma 3[Charge]Conte para ganhar poder de moeda +1[WhenUse]A mais de 15 anos[Charge]Conte, consuma 3 adicional[Charge]Contar para causar +20% mais danos[WhenUse]Em 5-[Charge]Conte, perca 10% HP e ganhe +5[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101806,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bioenergy Conversion Recharge",
+                    "desc": "[WhenUse]Consuma 10% de HP para obter +15[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

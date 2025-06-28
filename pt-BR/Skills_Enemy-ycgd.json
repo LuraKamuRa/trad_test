@@ -1,0 +1,556 @@
+{
+    "dataList": [
+        {
+            "id": 9011001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hack",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Focus Strike",
+                    "desc": "Se o alvo tiver 7+[Laceration], Power de moedas +1[WinDuel]Ganho 1[SlashDamageUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver[Laceration], causar +50% de dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lenticular Scatter",
+                    "desc": "Se o alvo tiver 5+[Laceration], Power de moedas +1[WinDuel]Ganho 1[SlashResultUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver[Laceration], causar +20% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver[Laceration], causar +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver[Laceration], causar +40% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Ganho 1[SlashDamageUp]Próximo turno (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swipe",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver[Laceration], causar +30% de dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Keen Slash",
+                    "desc": "[WinDuel]Ganho 1[SlashDamageUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver[Laceration], causar +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver[Laceration], causar +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver[Laceration], causar +20% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Ganho 1[SlashDamageUp]Próximo turno (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Downward Slash",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reverse Slash",
+                    "desc": "[WinDuel]Infligir 1[Paralysis]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Focus Strike",
+                    "desc": "[WinDuel]Infligir 1[Protection]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Defend",
+                    "desc": "[StartBattle]Ganho 1[Protection]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Penetrating Slash",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Keen Strike",
+                    "desc": "Se o alvo tiver 7+[Laceration], Power de moedas +1[WinDuel]Ganho 1[Protection]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Focus Strike",
+                    "desc": "Se o alvo tiver 5+[Laceration], Power de moedas +1[StartBattle]Ganho 1[Protection]\n[WinDuel]Ganho 1[Protection]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Defend",
+                    "desc": "[StartBattle]Ganho 2[Protection]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Shadow Cloud",
+                    "desc": "[WhenUse]Se o alvo tiver[Laceration], causar +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Clean Up",
+                    "desc": "Se o alvo tiver 5+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[SlashTakeDamageUp]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[SlashTakeDamageUp]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lenticular Slash",
+                    "desc": "Se o alvo tiver 5+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sharp Edge",
+                    "desc": "[StartBattle]Aplique 2[SlashDamageUp]a todos os aliados, incluindo esta unidade[StartBattle]Ganho 2[SlashResultUp]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sky-clearing Cut",
+                    "desc": "[StartBattle]Se o alvo principal tiver mais de 10[Laceration], Peso ATK +1[StartBattle]Se esta unidade usará mais de 5 habilidades de ataque neste turno, potência final +5[WinDuel]Todos os aliados curam 10 sp\nSe o alvo tiver 7+[Laceration], causar +30% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se o alvo tiver 7+[Laceration], causar +50% de dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +10[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101306,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rules of the Backstreets",
+                    "desc": "[WhenUse]Adicione mais 1 moeda por cada aliado sobrevivente (máximo)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Todos os aliados curam 20 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

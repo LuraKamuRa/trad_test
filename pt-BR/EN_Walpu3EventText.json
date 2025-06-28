@@ -1,0 +1,280 @@
+{
+  "dataList": [
+    {
+      "id": "Walpu3_reward_button",
+      "content": "Missões"
+    },
+    {
+      "id": "Walpu3_story_theater_button",
+      "content": "Para o teatro"
+    },
+    {
+      "id": "Walpu3_normal_stage",
+      "content": "Fácil"
+    },
+    {
+      "id": "Walpu3_hard_stage",
+      "content": "Duro"
+    },
+    {
+      "id": "Walpu3_normal_stage_name",
+      "content": "Os cuidados das fadas"
+    },
+    {
+      "id": "Walpu3_hard_stage_name",
+      "content": "Predação"
+    },
+    {
+      "id": "Walpu3_normal_stage_desc",
+      "content": "As fadas protegem nossos funcionários.\nTudo será pacífico enquanto você estiver sob os cuidados das fadas."
+    },
+    {
+      "id": "Walpu3_hard_stage_desc",
+      "content": "Seu estômago e rosto foram arrancados, e seus olhos e órgãos foram danificados como se fossem comidos por alguma coisa.\nEnquanto isso, as fadas tinham o sangue de alguém e a carne manchada por toda a boca."
+    },
+    {
+      "id": "Walpu3_hard_stage_unlock_condition",
+      "content": "Dificuldade clara e fácil de desbloquear"
+    },
+    {
+      "id": "EVENT_WALPU3_NORMAL",
+      "content": "Fácil"
+    },
+    {
+      "id": "EVENT_WALPU3_HARD",
+      "content": "Duro"
+    },
+    {
+      "id": "missionConditionTitle_10009",
+      "content": "Festival completo de supressão de fadas"
+    },
+    {
+      "id": "missionConditionTitle_10010",
+      "content": "Festival completo de supressão do fada em 10 turnos"
+    },
+    {
+      "id": "missionConditionTitle_10011",
+      "content": "Supressão completa sem mortes de aliado"
+    },
+    {
+      "id": "missionConditionTitle_10012",
+      "content": "Supressão completa sem nenhum dos SP dos Aliados caindo para -45 sp"
+    },
+    {
+      "id": "missionConditionTitle_10013",
+      "content": "Supressão completa com o bibliotecário da história sobrevivendo e tirando menos de 10 acertos dos inimigos"
+    },
+    {
+      "id": "missionConditionTitle_10014",
+      "content": "Supressão completa depois de quebrar os dois braços da rainha das fadas em um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_10015",
+      "content": "Supressão completa sem a rainha das fadas derrotando nenhuma das massas de fadas"
+    },
+    {
+      "id": "missionConditionTitle_10016",
+      "content": "Que Queen Fairy derrote uma missa de fadas em um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_10017",
+      "content": "Que Queen Fairy derrote uma missa de fadas no primeiro turno de um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_10018",
+      "content": "Infligir x+ potência de (queima, sangramento, ruptura ou afundamento) a uma única anormalidade"
+    },
+    {
+      "id": "missionConditionTitle_10019",
+      "content": "Derrote uma anormalidade com queima, sangramento, ruptura ou dano de naufrágio em um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_10020",
+      "content": "Derrote a rainha das fadas com queimadura, sangramento, ruptura ou dano de afundamento em um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_20009",
+      "content": "Festival completo de supressão de fadas"
+    },
+    {
+      "id": "missionConditionTitle_20010",
+      "content": "Festival completo de supressão do fada em 10 turnos"
+    },
+    {
+      "id": "missionConditionTitle_20011",
+      "content": "Supressão completa sem mortes de aliado"
+    },
+    {
+      "id": "missionConditionTitle_20012",
+      "content": "Supressão completa sem nenhum dos SP dos Aliados caindo para -45 sp"
+    },
+    {
+      "id": "missionConditionTitle_20013",
+      "content": "Supressão completa com a bibliotecária da história sobrevivendo e tirando menos de 5 acertos dos inimigos"
+    },
+    {
+      "id": "missionConditionTitle_20014",
+      "content": "Supressão completa depois de quebrar os dois braços da rainha das fadas em um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_20015",
+      "content": "Supressão completa sem a rainha das fadas derrotando nenhuma das massas de fadas"
+    },
+    {
+      "id": "missionConditionTitle_20016",
+      "content": "Que Queen Fairy derrote uma missa de fadas em um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_20017",
+      "content": "Deixe a rainha da fada derrotar x+ massa de fada dentro de uma única virada de um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_20018",
+      "content": "Infligir x+ potência de (queima, sangramento, ruptura ou afundamento) a uma única anormalidade"
+    },
+    {
+      "id": "missionConditionTitle_20019",
+      "content": "Derrote uma anormalidade com queima, sangramento, ruptura ou dano de naufrágio em um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_20020",
+      "content": "Derrote a rainha das fadas com queimadura, sangramento, ruptura ou dano de afundamento em um único encontro"
+    },
+    {
+      "id": "missionConditionTitle_20021",
+      "content": "Bibliotecário de história derrota x+ anormalidades com uma única habilidade de ataque"
+    },
+    {
+      "id": "missionConditionTitle_30002",
+      "content": "Complete todas as missões em dificuldades fáceis e difíceis"
+    },
+    {
+      "id": "walpu3_reward_event_desc",
+      "content": "Suprime o Festival de Fadas em dificuldades 'Easy' e 'Hard' e complete as missões.\n\nGanhe várias recompensas limpando essas missões."
+    },
+    {
+      "id": "walpu3_reward_normal_tab",
+      "content": "Fácil"
+    },
+    {
+      "id": "walpu3_reward_hard_tab",
+      "content": "Duro"
+    },
+    {
+      "id": "walpu3_modal_yes",
+      "content": "Sim"
+    },
+    {
+      "id": "walpu3_modal_no",
+      "content": "Não"
+    },
+    {
+      "id": "walpu_modal_enterStage_10555",
+      "content": "Você vai entrar no Livro do Festival de Fadas?"
+    },
+    {
+      "id": "walpu_modal_enterStage_10556",
+      "content": "Você vai entrar no Livro do Festival de Fadas?"
+    },
+    {
+      "id": "walpu_battle_turn",
+      "content": "Cena {0}"
+    },
+    {
+      "id": "walpu_battle_1_wave",
+      "content": "Piso da história - ato {0}"
+    },
+    {
+      "id": "walpu_battle_name_10555",
+      "content": "Festival de Fadas"
+    },
+    {
+      "id": "walpu_battle_name_10556",
+      "content": "Festival de Fadas"
+    },
+    {
+      "id": "walpu_battle_name_10557",
+      "content": "Festival de Fadas"
+    },
+    {
+      "id": "walpu_battle_result_win",
+      "content": "Supressão de {0} completa"
+    },
+    {
+      "id": "walpu_battle_result_lose",
+      "content": "A supressão de {0} falhou"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_01_title",
+      "content": "A terceira noite de Walpurgis - em um determinado livro de uma biblioteca"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_01_title_01",
+      "content": "A terceira noite de Walpurgis - em um determinado livro de uma biblioteca"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_01_desc_01",
+      "content": "[[Bracket]] desbloqueia, independentemente do seu progresso na história principal. Entre através do banner de eventos na janela ou nas guias à beira do motorista."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_02_title_01",
+      "content": "Período do evento"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_02_desc_01",
+      "content": "A duração da 3ª noite de Walpurgis - no evento de um determinado livro de uma biblioteca é mostrada aqui. Durante o evento, complete missões para encontros com dificuldades fáceis e difíceis e reivindicam suas recompensas."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_title_01",
+      "content": "Dificuldade de dificuldade fácil"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_desc_01",
+      "content": "Selecione a porta para iniciar o encontro de dificuldade fácil.\nO encontro consome um módulo de enkefalina após a entrada.\nEm dificuldade fácil, quaisquer identidades implantadas no nível 45 serão aumentadas para o nível 45.\nAlém disso, quaisquer identidades implantadas no nível de alta de nível 3 serão aumentadas para o nível de aumento de nível 3.\nNo entanto, sua corrente, por exemplo"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_title_02",
+      "content": "Dura dificuldade em encontrar"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_desc_02",
+      "content": "Limpar a dificuldade fácil de encontrar desbloqueia a dificuldade difícil.\nEm dificuldade, os níveis atuais de sua identidade, camadas de alta e por exemplo, os níveis de espuma de threads serão refletidos."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_04_title_01",
+      "content": "Bibliotecário de Efeito da História"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_04_desc_01",
+      "content": "O pecador número 1 a ser implantado no menu equipes será imbuído do efeito 'Bibliotecário da História'. Os efeitos do 'bibliotecário da história' difere entre dificuldades fáceis/difíceis. O pecador imbuído com esse efeito ganhará mais slots e vários outros efeitos benéficos."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_05_title_01",
+      "content": "Missões"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_05_desc_01",
+      "content": "Você pode inserir a página [[Bracket]], onde pode visualizar a lista de missões a ser concluída durante o encontro e suas recompensas."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_06_desc_01",
+      "content": "Você pode visualizar o período de troca de recompensa na página [[Bracket]]."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_06_desc_02",
+      "content": "Dificuldade fácil e dificuldade difícil, cada um tem diferentes conjuntos de missões para concluir."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_06_desc_03",
+      "content": "Complete essas missões e reivindique várias recompensas na página [[Bracket]]."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_07_desc_01",
+      "content": "Mesmo após o término do evento, você poderá experimentar a 3ª noite de Walpurgis - no livro de um determinado livro da biblioteca \"e ver sua história a qualquer momento no motorista e no teatro - [[Bracket]]."
+    },
+    {
+      "id": "walpu3_not_progress_event_date",
+      "content": "Evento fechado"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "dataList": [
+    {
+      "id": 9427,
+      "name": "Town-protecting Harpoon",
+      "desc": "[[SUPORTE]]\n\nTurn End: a menos de 30% HP, ganha 1 [[suporte]] Próximo turno",
+      "simpleDesc": [
+        {
+          "abilityID": 9427,
+          "simpleDesc": "Ganhe 1 ataque Power Up no próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 19427,
+      "name": "Town-protecting Harpoon+",
+      "desc": "[[SUPORTE]]\nTurn End: a menos de 40% HP, ganha 1 [[suporte]] Próximo turno\n\nTurn End: Se houver um aliado escalonado, ganhe +6 [[suporte]] próximo e ganhe 4 [[suporte]] Próxima turno",
+      "simpleDesc": [
+        {
+          "abilityID": 19427,
+          "simpleDesc": "Ganhe 1 ataque Power Up no próximo turno"
+        },
+        {
+          "abilityID": 194271,
+          "simpleDesc": "Ganhe +6 aggro e 4 de defesa no próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 29427,
+      "name": "Town-protecting Harpoon++",
+      "desc": "[[SUPORTE]]\nTurn End: a menos de 50% hp, ganha 1 [[suporte]] Próximo turno\n\nTurn End: Se houver um aliado escalonado, ganhe +6 [[suporte]] próximo e ganhe 4 [[suporte]] Próxima turno",
+      "simpleDesc": [
+        {
+          "abilityID": 29427,
+          "simpleDesc": "Ganhe 1 ataque Power Up no próximo turno"
+        },
+        {
+          "abilityID": 294271,
+          "simpleDesc": "Ganhe +6 aggro e 4 de defesa no próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 9428,
+      "name": "Cetacean Heart",
+      "desc": "Em golpes contra inimigos com [[suporte]] com uma habilidade de ataque, ganhe 1 [[suporte]]. (3 vezes por turno para cada personagem)\nNo Crit, 50% de chance de não consumir [[suporte]] contagem (uma vez por turno para cada personagem; incluindo, por exemplo, habilidades e habilidades)\nNas cabeças críticas, atingem uma habilidade básica: infligir +1 mais do efeito negativo com essa moeda. (uma vez por turno para cada caractere; incluindo, por exemplo, habilidades e habilidades de contrariar)",
+      "simpleDesc": [
+        {
+          "abilityID": 9428,
+          "simpleDesc": "Ganhe 1 equilíbrio"
+        },
+        {
+          "abilityID": 94281,
+          "simpleDesc": "Chance de não perder a contagem de equilíbrio"
+        },
+        {
+          "abilityID": 94282,
+          "simpleDesc": "Infligir 1 mais do efeito negativo"
+        }
+      ]
+    },
+    {
+      "id": 9431,
+      "name": "Broken Violin",
+      "desc": "[[SUPORTE]]\n\nA 45%- HP, ganho 1 [[suporte]] e 1 [[suporte]] na vitória do Clash (2 vezes por turno para cada caractere)\n\nEm 20%- hp, ganho 1 [[suporte]] e 1 [[suporte]] sobre o uso de habilidades (2 vezes por turno para cada caractere)",
+      "simpleDesc": [
+        {
+          "abilityID": 9431,
+          "simpleDesc": "Ganhe 1 ofensa de nível acima e 1 HP Cura Boost"
+        },
+        {
+          "abilityID": 94311,
+          "simpleDesc": "Ganhe 1 ofensa de nível acima e 1 HP Cura Boost"
+        }
+      ]
+    },
+    {
+      "id": 19431,
+      "name": "Broken Violin+",
+      "desc": "[[SUPORTE]]\n\nA 65%- hp, ganho 1 [[suporte]] e 1 [[suporte]] na vitória do confronto (2 vezes por turno para cada caractere)\n\nEm 40%- hp, ganho 1 [[suporte]] e 1 [[suporte]] sobre o uso de habilidades (2 vezes por turno para cada caractere)\n\nAo vencer um confronto após mais de 5 confrontos, a habilidade que ganhou as ofertas do Clash + (# de confrontos x 2)% mais dano (máximo de 20%)",
+      "simpleDesc": [
+        {
+          "abilityID": 19431,
+          "simpleDesc": "Ganhe 1 ofensa de nível acima e 1 HP Cura Boost"
+        },
+        {
+          "abilityID": 194311,
+          "simpleDesc": "Ganhe 1 ofensa de nível acima e 1 HP Cura Boost"
+        },
+        {
+          "abilityID": 194312,
+          "simpleDesc": "Causar mais danos com base no número de confrontos"
+        }
+      ]
+    },
+    {
+      "id": 29431,
+      "name": "Broken Violin++",
+      "desc": "[[SUPORTE]]\n\nA 65%- hp, ganho 1 [[suporte]] e 1 [[suporte]] na vitória do confronto (2 vezes por turno para cada caractere)\n\nEm 40%- hp, ganho 1 [[suporte]] e 1 [[suporte]] sobre o uso de habilidades (2 vezes por turno para cada caractere)\n\nAo vencer um confronto após mais de 5 confrontos, a habilidade que ganhou as ofertas do Clash + (# de confrontos x 3)% mais danos (no máximo 30%)",
+      "simpleDesc": [
+        {
+          "abilityID": 29431,
+          "simpleDesc": "Ganhe 1 ofensa de nível acima e 1 HP Cura Boost"
+        },
+        {
+          "abilityID": 294311,
+          "simpleDesc": "Ganhe 1 ofensa de nível acima e 1 HP Cura Boost"
+        },
+        {
+          "abilityID": 294312,
+          "simpleDesc": "Causar mais danos com base no número de confrontos"
+        }
+      ]
+    },
+    {
+      "id": 9432,
+      "name": "Manor-shaped Music Box",
+      "desc": "[[SUPORTE]]\n\nTurn End: Quando escalonado, recupere -se de escalonamento; Então, no próximo turno, infligir 4 [[suporte]] potência e 4 [[suporte]] contam a todos os inimigos (uma vez por encontro; em encontros focados, em todas as partes)\n\nAo derrotar um inimigo com [[suporte]], 1 inimigo com o mínimo [[bracket]] Count Gains +2 [[bracket]] contagem (em encontros focados, a parte)",
+      "simpleDesc": [
+        {
+          "abilityID": 9432,
+          "simpleDesc": "Infligir 4 potência de naufrágio e contar contra todos os inimigos"
+        },
+        {
+          "abilityID": 94321,
+          "simpleDesc": "O inimigo com o menor que afundou a contagem de ganhos +2 contagem de afundamento"
+        }
+      ]
+    },
+    {
+      "id": 9435,
+      "name": "Butler Style Binding Arts",
+      "desc": "Turn Start: Infligir 1 [[suporte]] Contra o inimigo que se recuperou do escalonado no último turno\n\nEm um aliado com a maior porcentagem de HP: se o alvo estiver escalonado, causará +7,5% mais danos por cada nível de escalonamento.",
+      "simpleDesc": [
+        {
+          "abilityID": 9435,
+          "simpleDesc": "Infligir 1 se liga ao inimigo que se recuperou de escalonamento"
+        },
+        {
+          "abilityID": 94351,
+          "simpleDesc": "Causar mais danos com base no Stagger LV do alvo"
+        }
+      ]
+    },
+    {
+      "id": 19435,
+      "name": "Butler Style Binding Arts+",
+      "desc": "Turn Start: Infligir 2 [[suporte]] contra o inimigo que se recuperou do escalonado no último turno\n\nEm um aliado com a maior porcentagem de HP: se o alvo for escalonado, caça +10% a mais danos por cada nível de escalonamento.",
+      "simpleDesc": [
+        {
+          "abilityID": 19435,
+          "simpleDesc": "Infligir 2 se liga ao inimigo que se recuperou de escalonamento"
+        },
+        {
+          "abilityID": 194351,
+          "simpleDesc": "Causar mais danos com base no Stagger LV do alvo"
+        }
+      ]
+    },
+    {
+      "id": 29435,
+      "name": "Butler Style Binding Arts++",
+      "desc": "Turn Start: Infligir 3 [[suporte]] contra o inimigo que se recuperou do escalonado na última curva\n\nEm um aliado com a maior porcentagem de HP: se o alvo for escalonado, causar +12,5% mais danos a cada nível de escalonamento.",
+      "simpleDesc": [
+        {
+          "abilityID": 29435,
+          "simpleDesc": "Infligir 3 se liga ao inimigo que se recuperou de escalonamento"
+        },
+        {
+          "abilityID": 294351,
+          "simpleDesc": "Causar mais danos com base no Stagger LV do alvo"
+        }
+      ]
+    },
+    {
+      "id": 9436,
+      "name": "Refraction Glass Pod",
+      "desc": "Encontros regulares) em acertos contra inimigos com mais de 10 (soma de [[suporte]] contagem e potência):\nSe o alvo estiver em -45 sp, negócio ([[bracket]] potência no alvo) / 5) Dano de tristeza (3 vezes por habilidade)\n\nEncontros focados) em acertar contra inimigos com mais de 10 (soma de [[backet]] contagem e potência):\nDeal ([[suporte]] potência no alvo) / 10) Danos da escuridão (2 vezes por habilidade)",
+      "simpleDesc": [
+        {
+          "abilityID": 9436,
+          "simpleDesc": "Causar dano sombrio com base no afundamento no alvo"
+        },
+        {
+          "abilityID": 94361,
+          "simpleDesc": "Causar dano sombrio com base no afundamento no alvo"
+        }
+      ]
+    },
+    {
+      "id": 9437,
+      "name": "La Manchaland All-day Pass",
+      "desc": "Acorrendo contra alvos com mais de 10 (soma de [[suporte]], 'sangramento único' e [[suporte]]): ganho 1 [[bracket]] potência e contagem (2 vezes por habilidade)",
+      "simpleDesc": [
+        {
+          "abilityID": 9437,
+          "simpleDesc": "Ganhe 1 potência de equilíbrio e contagem"
+        }
+      ]
+    },
+    {
+      "id": 9438,
+      "name": "Token of Victory",
+      "desc": "On Kill, 1 aliado com o menor SP cura 3 sp.\n\nApós o ataque: se um inimigo com mais de 10 (soma de [[suporte]]], 'sangramento único' e [[suporte]]) é derrotado, 1 aliado ganha 2 [[suporte]] no próximo turno (prioriza o aliado que matou aquele inimigo)",
+      "simpleDesc": [
+        {
+          "abilityID": 9438,
+          "simpleDesc": "Heal 3 sp"
+        },
+        {
+          "abilityID": 9438,
+          "simpleDesc": "Um aliado aleatório ganha 2 ofensas no nível da próxima curva"
+        }
+      ]
+    },
+    {
+      "id": 9439,
+      "name": "Devouring Cube",
+      "desc": "Quando um aliado morrer, ganhe 1, por exemplo, recurso para cada uma das habilidades desse aliado 1 e 2.\n\nApós o ataque: se o inimigo for morto, ganhe 1 Random, por exemplo, Recurso (uma vez por habilidade)",
+      "simpleDesc": [
+        {
+          "abilityID": 9439,
+          "simpleDesc": "Ganho 1 Random, por exemplo, recurso"
+        }
+      ]
+    },
+    {
+      "id": 9440,
+      "name": "Mask of the Parade",
+      "desc": "Nos encontros onde os inimigos de backup aparecem: quando novos inimigos entram na batalha, infligir 3 [[suporte]] e +2 [[bracket]] contam contra eles.\n\nSe houver um [[Bloodfiend]] entre aliados: quando novos inimigos entram na batalha, ative [[suporte]] em todos os inimigos e reduza sua contagem [[backet]] por 1",
+      "simpleDesc": [
+        {
+          "abilityID": 9440,
+          "simpleDesc": "Infligir 3 sangramento e +2 de sangramento contra inimigos de backup que entram na batalha"
+        },
+        {
+          "abilityID": 94401,
+          "simpleDesc": "Ative o sangramento uma vez em todos os inimigos (reduza sua contagem de sangramento em 1)"
+        }
+      ]
+    },
+    {
+      "id": 19440,
+      "name": "Mask of the Parade+",
+      "desc": "Nos encontros onde os inimigos de backup aparecem: quando novos inimigos entram na batalha, infligir 5 [[suporte]] e +3 [[bracket]] contam contra eles.\n\nSe houver um [[Bloodfiend]] entre aliados: quando novos inimigos entram na batalha, ative [[suporte]] em todos os inimigos e reduza sua contagem [[backet]] por 1",
+      "simpleDesc": [
+        {
+          "abilityID": 194405,
+          "simpleDesc": "Infligir 5 sangramento e +3 de sangria contagem contra inimigos de backup que entram na batalha"
+        },
+        {
+          "abilityID": 1944051,
+          "simpleDesc": "Ative o sangramento uma vez em todos os inimigos (reduza sua contagem de sangramento em 1)"
+        }
+      ]
+    }
+  ]
+}

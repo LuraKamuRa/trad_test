@@ -1,0 +1,835 @@
+{
+  "dataList": [
+    {
+      "id": 9751,
+      "name": "Snake Slough",
+      "desc": "Turn Start: Todos os aliados ganham 2 [[suporte]].\nCada aliado ganha ([[bracket]] no nível de ofensa Self / 4). (máximo 10)",
+      "simpleDesc": [
+        {
+          "abilityID": 9751,
+          "simpleDesc": "Todos os aliados ganham [[suporte]] e nível de ofensa"
+        }
+      ]
+    },
+    {
+      "id": 19751,
+      "name": "Snake Slough+",
+      "desc": "Turn START: Todos os aliados ganham [[estilo de tag]] 4 [[estilo de tag]] [[suporte]].\nCada aliado ganha ([[bracket]] no nível de ofensa Self / [[-Tag-Style]] 3 [[estilo de tag-estilo]]). (máximo 10)",
+      "simpleDesc": [
+        {
+          "abilityID": 19751,
+          "simpleDesc": "Todos os aliados ganham [[suporte]] e nível de ofensa"
+        }
+      ]
+    },
+    {
+      "id": 29751,
+      "name": "Snake Slough++",
+      "desc": "Turn Start: Todos os aliados ganham 4 [[suporte]].\nCada aliado ganha ([[bracket]] no nível de ofensa Self / [[etiqueta]] 2 [[estilo tag-estilo]]). (máximo 10)",
+      "simpleDesc": [
+        {
+          "abilityID": 29751,
+          "simpleDesc": "Todos os aliados ganham [[suporte]] e nível de ofensa"
+        }
+      ]
+    },
+    {
+      "id": 9752,
+      "name": "False Halo",
+      "desc": "On Hit, ganha 1 [[suporte]]. (2 vezes por habilidade)\nSe esta unidade foi atingida por uma habilidade inimiga neste turno, ganhe +1 a mais [[suporte]] a cada vez.",
+      "simpleDesc": [
+        {
+          "abilityID": 9752,
+          "simpleDesc": "On Hit, Gain 1 [[Bracket]]"
+        }
+      ]
+    },
+    {
+      "id": 19752,
+      "name": "False Halo+",
+      "desc": "On Hit, ganha 1 [[suporte]]. ([[Estilo de tag]] 3 [[estilo de tag]] vezes por habilidade)\nSe esta unidade foi atingida por uma habilidade inimiga neste turno, ganhe +1 a mais [[suporte]] a cada vez.",
+      "simpleDesc": [
+        {
+          "abilityID": 19752,
+          "simpleDesc": "On Hit, Gain 1 [[Bracket]]"
+        }
+      ]
+    },
+    {
+      "id": 29752,
+      "name": "False Halo++",
+      "desc": "On Hit, Gain [[estilo de tag]] 2 [[estilo de tag]] [[suporte]]. (3 vezes por habilidade)\nSe esta unidade foi atingida por uma habilidade inimiga neste turno, ganhe +1 a mais [[suporte]] a cada vez.",
+      "simpleDesc": [
+        {
+          "abilityID": 29752,
+          "simpleDesc": "On Hit, Ganhe 2 [[Bracket]]"
+        }
+      ]
+    },
+    {
+      "id": 9753,
+      "name": "Metronome",
+      "desc": "Em curvas ímpares, todos os aliados ganham 1 [[suporte]]. Em voltas pares, todos os aliados ganham 1 [[suporte]].",
+      "simpleDesc": [
+        {
+          "abilityID": 9753,
+          "simpleDesc": "Aumente o ataque ou defesa dos aliados com base no número de curva"
+        }
+      ]
+    },
+    {
+      "id": 19753,
+      "name": "Metronome+",
+      "desc": "Em curvas ímpares, todos os aliados ganham 1 [[suporte]]. Em voltas pares, todos os aliados ganham 1 [[suporte]] [[estilo de tag]] e 1 [[backet]] [[estilo de tag-estilo]].",
+      "simpleDesc": [
+        {
+          "abilityID": 19753,
+          "simpleDesc": "Aumente o ataque ou defesa dos aliados com base no número de curva"
+        }
+      ]
+    },
+    {
+      "id": 29753,
+      "name": "Metronome++",
+      "desc": "Em voltas ímpares, todos os aliados ganham 1 [[suporte]] [[estilo de tag]] e 1 [[backet]] [[estilo de tag-estilo]]. Em voltas pares, todos os aliados ganham 1 [[suporte]] e 1 [[suporte]].",
+      "simpleDesc": [
+        {
+          "abilityID": 29753,
+          "simpleDesc": "Aumente o ataque ou defesa dos aliados com base no número de curva"
+        }
+      ]
+    },
+    {
+      "id": 9754,
+      "name": "Bridle",
+      "desc": "Início do encontro: todos os aliados ganho (piso atual x 2)% HP máximo (máximo 20%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9754,
+          "simpleDesc": "Todos os aliados ganham max hp com base no piso atual"
+        }
+      ]
+    },
+    {
+      "id": 19754,
+      "name": "Bridle+",
+      "desc": "Início do encontro: todos os aliados Ganho (piso atual X [[estilo de etiqueta]] 3 [[estilo de tag]])% max hp (max [[estilo tag-estilo]] 30 [[estilo tag]]%)",
+      "simpleDesc": [
+        {
+          "abilityID": 19754,
+          "simpleDesc": "Todos os aliados ganham max hp com base no piso atual"
+        }
+      ]
+    },
+    {
+      "id": 29754,
+      "name": "Bridle++",
+      "desc": "Início do encontro: todos os aliados Ganho (piso atual X [[estilo de etiqueta]] 5 [[estilo de tag]])% max hp (max [[estilo tag-estilo]] 50 [[estilo tag]]%)",
+      "simpleDesc": [
+        {
+          "abilityID": 29754,
+          "simpleDesc": "Todos os aliados ganham max hp com base no piso atual"
+        }
+      ]
+    },
+    {
+      "id": 9755,
+      "name": "Contempt of the Gaze of Contempt",
+      "desc": "[[SUPORTE]]\n\nInício de combate: acordo +10% mais danos para cada habilidade de ataque inimigo direcionada a esta unidade (máximo 20%)\n\nInício do combate: Quando direcionado por mais de 2 habilidades de ataque, o acordo (nº de habilidades direcionadas a esta unidade) corrigiu danos na HP & SP contra todos os inimigos direcionados a esta unidade. (Max 3; esse efeito não prejudica os aliados)",
+      "simpleDesc": [
+        {
+          "abilityID": 9755,
+          "simpleDesc": "Causar mais danos com base no número de habilidades inimigas visando esta unidade; causar danos fixos"
+        }
+      ]
+    },
+    {
+      "id": 19755,
+      "name": "Contempt of the Gaze of Contempt+",
+      "desc": "[[SUPORTE]]\n\nInício de combate: acordo +10% mais danos para cada habilidade de ataque inimigo direcionada a esta unidade (máximo 20%)\n\nInício de combate: Quando direcionado por mais de 2 habilidades de ataque, negócio [[estilo de tag]] (# de habilidades direcionadas a esta unidade x 2) [[estilo de tag]] corrigiu danos à HP e SP contra todos os inimigos direcionados a esta unidade. (Max [[estilo de tag]] 5 [[estilo de tag]]; esse efeito não prejudica os aliados)",
+      "simpleDesc": [
+        {
+          "abilityID": 19755,
+          "simpleDesc": "Causar mais danos com base no número de habilidades inimigas visando esta unidade; causar danos fixos"
+        }
+      ]
+    },
+    {
+      "id": 29755,
+      "name": "Contempt of the Gaze of Contempt++",
+      "desc": "[[SUPORTE]]\n\nInício de combate: OFERECE +10% MAIS DANOS PARA CADA Habilidade de Ataque Inimigo direcionada a esta unidade (Max [[estilo de tag]] 30 [[estilo de tag]]%)\n\nInício de combate: Quando direcionado por mais de 2 habilidades de ataque, o negócio (# de habilidades direcionadas a esta unidade x 2) fixou danos à HP e SP contra todos os inimigos que visam esta unidade. (Max [[estilo de tag]] 10 [[estilo de tag]]; esse efeito não prejudica os aliados)",
+      "simpleDesc": [
+        {
+          "abilityID": 29755,
+          "simpleDesc": "Causar mais danos com base no número de habilidades inimigas visando esta unidade; causar danos fixos"
+        }
+      ]
+    },
+    {
+      "id": 9756,
+      "name": "Unhatched Embers",
+      "desc": "Ao tomar danos mortais, conserte a HP a 1 para o ataque; Após o ataque, curar 20% de HP máx. (uma vez por encontro)",
+      "simpleDesc": [
+        {
+          "abilityID": 9756,
+          "simpleDesc": "Ao sofrer danos mortais, desafie a morte e cure HP"
+        }
+      ]
+    },
+    {
+      "id": 19756,
+      "name": "Unhatched Embers+",
+      "desc": "Ao tomar danos mortais, conserte a HP a 1 para o ataque; Após o ataque, curar 20% de HP máx. (uma vez por encontro)\n\n[[Estilo de tag]] Se a unidade afetada tiver [[suporte]]: corrija HP ​​a 1 para o ataque; Após o ataque, curar 30% do máximo HP. (uma vez por encontro para este e o efeito acima) [[estilo de tag]]",
+      "simpleDesc": [
+        {
+          "abilityID": 19756,
+          "simpleDesc": "Ao sofrer danos mortais, desafie a morte e cure HP"
+        }
+      ]
+    },
+    {
+      "id": 29756,
+      "name": "Unhatched Embers++",
+      "desc": "Ao tomar danos mortais, conserte a HP a 1 para o ataque; Após o ataque, curar 20% de HP máx. (uma vez por encontro)\n\nSe a unidade afetada tiver [[suporte]]: corrija HP ​​a 1 para o ataque; Após o ataque, Heal [[estilo de tag]] 40 [[estilo de tag]]% do máximo HP. (uma vez por encontro para este e o efeito acima)",
+      "simpleDesc": [
+        {
+          "abilityID": 29756,
+          "simpleDesc": "Ao sofrer danos mortais, desafie a morte e cure HP"
+        }
+      ]
+    },
+    {
+      "id": 9757,
+      "name": "Anti-Ovine Grounding Plug",
+      "desc": "Quando atingido durante a fase de combate, infligir 1 [[suporte]] contra o atacante no próximo turno. (Uma vez por turno para cada personagem)",
+      "simpleDesc": [
+        {
+          "abilityID": 9757,
+          "simpleDesc": "Quando atingido, infligir 1 [[suporte]] na próxima curva"
+        }
+      ]
+    },
+    {
+      "id": 19757,
+      "name": "Anti-Ovine Grounding Plug+",
+      "desc": "Quando atingido durante a fase de combate, infligir 1 [[suporte]] contra o atacante no próximo turno. (Uma vez por turno para cada personagem)\n\n[[Estilo de tag]] em 5+ inveja a-reson., No início do combate: infligir 1 [[suporte]] contra todos os inimigos. [[Estilo de etiqueta]]]",
+      "simpleDesc": [
+        {
+          "abilityID": 19757,
+          "simpleDesc": "Início de combate: Quando atingido, infligir 1 [[suporte]] próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 9758,
+      "name": "Vestiges of the King",
+      "desc": "Batalhas em cadeia) a partir do #7 implantado pecador, no início do mesmo turno, ele substitui, Heal 10 sp, ganha 2 [[suporte]] e ganha 1, por exemplo, recurso para cada uma de suas habilidades 1, 2 e 3",
+      "simpleDesc": [
+        {
+          "abilityID": 9758,
+          "simpleDesc": "Heal SP, Gain Clash Power Up e, por exemplo, recursos ao substituir"
+        }
+      ]
+    },
+    {
+      "id": 9759,
+      "name": "Snuffed Lantern",
+      "desc": "[[SUPORTE]]\n\nGanhe +1 mais [[suporte]] contagem de efeitos de habilidade ou moeda\n\n- Se o alvo estiver em estados escalonados, baixos de moral ou pânico, ganhe +2 mais em vez disso",
+      "simpleDesc": [
+        {
+          "abilityID": 9759,
+          "simpleDesc": "Ganhe mais [[Bracket]] Conta com Habilidade ou Efeitos de Música"
+        }
+      ]
+    },
+    {
+      "id": 9760,
+      "name": "Snuffed Candlestick",
+      "desc": "[[SUPORTE]]\n\nSe houver inimigos em estados escalonados, moral baixo ou pânico no início, infligir 1 [[suporte]] ou 1 [[suporte]] contra todos os inimigos. (3 vezes por turno)\n\nEm acertos contra inimigos em estados escalonados, moral baixa ou pânico: infligir 1 [[suporte]] ou 1 [[suporte]] (3 vezes por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9760,
+          "simpleDesc": "Infligir 1 [[suporte]] ou 1 [[suporte]]]"
+        },
+        {
+          "abilityID": 97601,
+          "simpleDesc": "Infligir 1 [[suporte]] ou 1 [[suporte]]]"
+        }
+      ]
+    },
+    {
+      "id": 9761,
+      "name": "Shadow Monster",
+      "desc": "[[SUPORTE]]\n\nGanhe +1 mais [[Bracket]] Contagem de efeitos de habilidade e moeda\n  - Se o alvo estiver em estados escalonados, baixos de moral ou pânico, ganhe +2 mais em vez disso\n\nSe houver inimigos em estados escalonados, moral baixo ou pânico no início, infligir 2 [[suporte]] ou 2 [[suporte]] contra todos os inimigos. (3 vezes por turno)\n\nAcorrendo contra os inimigos em estados escalonados, baixos de moral ou pânico: infligir 1 [[suporte]] ou 1 [[suporte]] (3 vezes por turno entre todas as identidades)",
+      "simpleDesc": [
+        {
+          "abilityID": 9761,
+          "simpleDesc": "Ganhe mais [[Bracket]] Conta com Habilidade ou Efeitos de Música"
+        },
+        {
+          "abilityID": 97611,
+          "simpleDesc": "Infligir 1 [[suporte]] ou 1 [[suporte]]]"
+        },
+        {
+          "abilityID": 97612,
+          "simpleDesc": "Infligir 1 [[suporte]] ou 1 [[suporte]]]"
+        }
+      ]
+    },
+    {
+      "id": 9762,
+      "name": "Packaging Box",
+      "desc": "Sobre as habilidades de aliado) selecione aleatoriamente um dos seguintes efeitos: [[Bracket]], [[Bracket]], [[Bracket]], [[Bracket]] e\n\nEm matar de aliados) selecione aleatoriamente um dos seguintes efeitos: [[bracket]] contagem, [[bracket]] contagem, [[suporte]], [[backet]] e [[backet]], depois inflige 1 do efeito selecionado a um aliado aleatório (3 vezes por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9762,
+          "simpleDesc": "Infligir um debuff aleatório"
+        },
+        {
+          "abilityID": 97621,
+          "simpleDesc": "Ganhe um fã aleatório"
+        }
+      ]
+    },
+    {
+      "id": 9763,
+      "name": "Packaging Ribbon",
+      "desc": "Vire o início: Selecione aleatoriamente 1 de 'Wrath ~ Envy Dmg Up' Efeitos e aplique 1 pilha a todos os aliados\n\nTurn Start: Selecione aleatoriamente 1 de 'ira ~ Envia Fragilidade' Efeitos e infligir 1 pilha a todos os inimigos",
+      "simpleDesc": [
+        {
+          "abilityID": 9763,
+          "simpleDesc": "Ganhe um efeito de afinidade aleatória"
+        },
+        {
+          "abilityID": 97631,
+          "simpleDesc": "Infligir 'fragilidade' contra uma afinidade aleatória"
+        }
+      ]
+    },
+    {
+      "id": 9764,
+      "name": "Gift",
+      "desc": "Quando um aliado atinge com uma habilidade, selecione aleatoriamente 2 dos seguintes efeitos: [[bracket]], [[backet]], [[bracket]], [[backet]] e [[suporte]], depois infligir 1 potência do efeito selecionado (3 vezes por turno)\n\nQuando um aliado acertar com uma habilidade, selecione aleatoriamente um dos seguintes efeitos: [[bracket]] contagem, [[backet]] contagem, [[backet]], [[bracket]] e\n\nVire Início: Selecione aleatoriamente 2 de 'Wrath ~ Envy Dmg Up' Efeitos e aplique 1 pilha a todos os aliados\n\nTurn START: Selecione aleatoriamente 2 de 'ira ~ Fragilidade da inveja' Efeitos e infligir 1 pilha a todos os inimigos",
+      "simpleDesc": [
+        {
+          "abilityID": 9764,
+          "simpleDesc": "Infligir um debuff aleatório"
+        },
+        {
+          "abilityID": 97641,
+          "simpleDesc": "Ganhe um fã aleatório"
+        },
+        {
+          "abilityID": 97642,
+          "simpleDesc": "Ganhe um efeito de afinidade aleatória"
+        }
+      ]
+    },
+    {
+      "id": 9765,
+      "name": "Jolly Plushie",
+      "desc": "Ganhe 2 [[Bracket]] POLGANÇA NEMP\n- Em encontros focados, ganhe 4 [[suporte]] potência.\n\nTurn START: Aplique 2 [[Bracket]], +2 [[SPORTE]] contagem e 2 [[suporte]] no aliado com o menor HP.\n\nAcordo +(valor absoluto de SP)% mais danos. (min 0%)\n\nQuando um aliado com habilidades de moeda se recupera de escalonamento, cura totalmente sp. (não é ativado quando corroído)\n\nPara um aliado com todas as habilidades de moeda menos: Ganhe 5 [[suporte]] no início da curva.",
+      "simpleDesc": [
+        {
+          "abilityID": 9765,
+          "simpleDesc": "Ganho de equilíbrio potência"
+        },
+        {
+          "abilityID": 97651,
+          "simpleDesc": "Aplique um fã aleatório"
+        },
+        {
+          "abilityID": 97652,
+          "simpleDesc": "Aplique [[Bracket]] e [[suporte]]]"
+        },
+        {
+          "abilityID": 97653,
+          "simpleDesc": "Causar mais danos"
+        },
+        {
+          "abilityID": 97654,
+          "simpleDesc": "Cura totalmente sp"
+        },
+        {
+          "abilityID": 97655,
+          "simpleDesc": "Ganho [[suporte]]"
+        }
+      ]
+    },
+    {
+      "id": 9766,
+      "name": "Implicit Contract Renewal",
+      "desc": "Se não houver sobrevivência [[suporte]], infligir o efeito [[suporte]] contra o primeiro inimigo a ser atacado por um aliado. (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9766,
+          "simpleDesc": "Infligir [[suporte]]"
+        }
+      ]
+    },
+    {
+      "id": 9767,
+      "name": "Darkflame Smoking Pipe",
+      "desc": "[[SUPORTE]]\n\nGanhe 2 [[suporte]] e 1 [[suporte]] a cada turno\n\nSe o alvo principal atualmente tiver um nível de defesa reduzido, ganhe 5 [[suporte]] antes do ataque\n\nOrgulho Pierce Skills Deal +(50 / # de moedas)% mais danos (incluindo por exemplo)",
+      "simpleDesc": [
+        {
+          "abilityID": 9767,
+          "simpleDesc": "Ganha [[suporte]] e [[suporte]]]"
+        },
+        {
+          "abilityID": 97671,
+          "simpleDesc": "Ganho [[suporte]]"
+        },
+        {
+          "abilityID": 97672,
+          "simpleDesc": "Habilidades Pierce causam mais danos"
+        }
+      ]
+    },
+    {
+      "id": 9768,
+      "name": "Equalizer",
+      "desc": "Se o alvo tiver 1,5 ou menor resistência à Pierce, resistência a Pierce +0,3",
+      "simpleDesc": [
+        {
+          "abilityID": 9768,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9769,
+      "name": "Swift Command",
+      "desc": "Turn End: Se algum aliado retirou esse turno, 1 aliado com os ganhos de velocidade mais rápidos 2 [[suporte]] e 1 [[suporte]] no próximo turno Start\n\nInício de combate: Se algum aliado foi substituído neste turno, aliados que foram substituídos no ganho 2 [[suporte]] e 2 [[suporte]]]",
+      "simpleDesc": [
+        {
+          "abilityID": 9769,
+          "simpleDesc": "Ganha [[suporte]] e [[suporte]]]"
+        },
+        {
+          "abilityID": 97691,
+          "simpleDesc": "Ganha [[suporte]] e [[suporte]]]"
+        }
+      ]
+    },
+    {
+      "id": 9770,
+      "name": "Gear Shrapnel",
+      "desc": "Turn Start: Se esta unidade tiver [[suporte]], ganhe 2 [[suporte]] e 1 [[suporte]]]\n\nSe esta unidade tiver [[suporte]], a primeira moeda a atingir acordos +10% a mais danos\n\nSe a dita moeda atingir criticamente, +20% de dano no acerto crítico",
+      "simpleDesc": [
+        {
+          "abilityID": 9770,
+          "simpleDesc": "Ganha [[suporte]] e [[suporte]]]"
+        },
+        {
+          "abilityID": 97701,
+          "simpleDesc": "Causar mais danos com a primeira moeda que atinge"
+        }
+      ]
+    },
+    {
+      "id": 9771,
+      "name": "CQC Manual",
+      "desc": "Se uma habilidade que pode gastar [[suporte]] não gasta [[suporte]], ganha 1 [[suporte]] nesta curva e na próxima curva (uma vez por turno)\n\nAo ganhar [[suporte]], a habilidade 3 causa +50% mais danos nesta curva e na próxima curva quando usado\n\nAo usar uma habilidade que gasta [[suporte]], ganhe 3 [[backet]] e +1 [[backet]] contagem",
+      "simpleDesc": [
+        {
+          "abilityID": 9771,
+          "simpleDesc": "Ganho [[suporte]]"
+        },
+        {
+          "abilityID": 97711,
+          "simpleDesc": "Habilidade 3 causa mais danos"
+        },
+        {
+          "abilityID": 97712,
+          "simpleDesc": "Ganho [[suporte]] potência e contagem"
+        }
+      ]
+    },
+    {
+      "id": 9772,
+      "name": "Combustion Gloves",
+      "desc": "Na vitória do Clash com uma habilidade de ataque básico que inflige a potência [[suporte]] ou 'queimadura única', infligir 2 [[suporte]] potência (2 vezes por turno por identidade)\n\nNa vitória do Clash com uma habilidade de ataque base que inflige [[suporte]] contagem, infligir +2 [[suporte]] contagem (3 vezes por turno por inimigo)\n\nHabilidades de ataque básico que infligem [[suporte]] potência, contagem ou 'queimaduras únicas': cada habilidade ganha nível de ofensa igual ao número de cópias de cada habilidade (máximo 3).\n- Se uma habilidade tiver mais de 3 cópias, obtenha 2 nível de ofensa adicional.",
+      "simpleDesc": [
+        {
+          "abilityID": 9772,
+          "simpleDesc": "Infligir [[suporte]]"
+        },
+        {
+          "abilityID": 97721,
+          "simpleDesc": "Infligir [[suporte]] contagem"
+        },
+        {
+          "abilityID": 97722,
+          "simpleDesc": "Ganho de nível de ofensa"
+        }
+      ]
+    },
+    {
+      "id": 9773,
+      "name": "Spiked Combat Boots",
+      "desc": "Na vitória do Clash com uma habilidade de ataque base que inflige [[suporte]] potência ou contagem contra um inimigo, infligir +3 [[suporte]] contagem (2 vezes por turno por inimigo)\n\nOn Hit: Se o inimigo não possui [[suporte]], os efeitos da moeda que infligem [[suporte]] a potência infligem [[bracket]] contam (máximo 4; 2 vezes por turno por inimigo; para anormalidades, para cada parte)\n\nHabilidades de ataque básico que infligem [[suporte]] potência ou contagem: cada habilidade ganha nível de ofensa igual ao número de cópias de cada habilidade (máximo 3).\n- Se uma habilidade tiver mais de 3 cópias, obtenha 2 nível de ofensa adicional.",
+      "simpleDesc": [
+        {
+          "abilityID": 9773,
+          "simpleDesc": "Infligir [[suporte]] contagem"
+        },
+        {
+          "abilityID": 97731,
+          "simpleDesc": "Infligir [[suporte]] contagem"
+        },
+        {
+          "abilityID": 97732,
+          "simpleDesc": "Ganho de nível de ofensa"
+        }
+      ]
+    },
+    {
+      "id": 9774,
+      "name": "Re-ignition Plug",
+      "desc": "Habilidades de ataque básico que infligem [[suporte]] contagem: causar +20% mais danos e infligir +1 mais [[suporte]] contagem. Em termos atingidos com essas habilidades contra inimigos com [[suporte]] ou 'queimaduras únicas': infligir 1 [[suporte]] (2 vezes por turno por identidade)\n\nIdentidades cujas habilidades de ataque de base infligem [[suporte]] potência, contagem ou 'queimaduras únicas': no ​​início da curva, ganho [[suporte]] igual ao número de voltas sobreviventes (exceto pela curva que se juntam ao encontro; máximo 5)",
+      "simpleDesc": [
+        {
+          "abilityID": 9774,
+          "simpleDesc": "Infligir [[suporte]]"
+        },
+        {
+          "abilityID": 97741,
+          "simpleDesc": "Ganho [[suporte]]"
+        },
+        {
+          "abilityID": 97742,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9775,
+      "name": "Enhancer Mk.4",
+      "desc": "Acorrendo com a moeda final contra inimigos com potência de 15- [[suporte]] ao usar uma habilidade de ataque base que inflige [[suporte]] potência ou contagem: infligir +3 [[suporte]] contagem (uma vez por turno por identidade)\n\nHabilidades de ataque básico que infligem [[suporte]] contagem: poder de conflito +1, causar +20% mais danos",
+      "simpleDesc": [
+        {
+          "abilityID": 9775,
+          "simpleDesc": "Infligir [[suporte]] contagem"
+        },
+        {
+          "abilityID": 97751,
+          "simpleDesc": "Ganhar poder de conflito e causar mais danos"
+        },
+        {
+          "abilityID": 97752,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9776,
+      "name": "Embers",
+      "desc": "Turn Start: Todos os inimigos (para anormalidades, todas as partes) com 2 ~ 7 [[suporte]] contagem de ganho 1 ~ 2 [[suporte]] contagem.\n\nQuando os inimigos recebem 5 hits de habilidades de ataque de aliado (incluindo, por exemplo, habilidades) que infligem potência, contagem ou 'queimaduras únicas': gatilho [[bracket]] uma vez e depois reduza [[suporte]] contagem em 1 (2 vezes por turno por inimigo; para anormalidades, para cada parte)",
+      "simpleDesc": [
+        {
+          "abilityID": 9776,
+          "simpleDesc": "Infligir [[suporte]] contagem"
+        },
+        {
+          "abilityID": 97761,
+          "simpleDesc": "Ativar [[suporte]]"
+        },
+        {
+          "abilityID": 97762,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9777,
+      "name": "Twigs",
+      "desc": "Toda vez que [[backet]]] ativa 3 vezes em inimigos com [[suporte]] devido a ser atingido pelas habilidades de ataque dos aliados (incluindo por exemplo, habilidades) que infligem [[suporte]] potência ou contagem, infligir 2 [[suporte]] no referido inimigo em seguida (3 vezes por turno por inimigo; para anormalidades, para cada parto)\n\nNa matança com uma habilidade de ataque base que inflige [[suporte]] contagem: infligir o restante [[suporte]] contagem do inimigo derrotado em um inimigo aleatório no próximo turno (2 vezes por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9777,
+          "simpleDesc": "Infligir [[suporte]]"
+        },
+        {
+          "abilityID": 97771,
+          "simpleDesc": "Infligir [[suporte]] contagem"
+        },
+        {
+          "abilityID": 97772,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9778,
+      "name": "Regular Operational Gear",
+      "desc": "Identidades da empresa Limbus: Habilidade 2 ganha o nível de ofensa +1 e causa +15% mais danos; Habilidade 3 ganha o nível de ofensa +2 e causa +30% mais danos\n\nSe houver mais de 4 identidades da empresa de limbus entre as unidades de backup, 2 aliados aleatórios ganham 2 [[suporte]] no Start Turn",
+      "simpleDesc": [
+        {
+          "abilityID": 9778,
+          "simpleDesc": "Ganhar nível de ofensa e causar mais danos"
+        },
+        {
+          "abilityID": 97781,
+          "simpleDesc": "Ganhe o nível de ofensa"
+        }
+      ]
+    },
+    {
+      "id": 9779,
+      "name": "Operation Authorization Card",
+      "desc": "Durante o encontro, quando um aliado retiro ou é derrotado, aplique aleatoriamente 3 [[suporte]] entre todas as identidades no próximo turno. (2 vezes por turno)\n- Quando 3+ aliados recuam ou forem derrotados, aplique aleatoriamente 6 [[suporte]] entre todas as identidades no próximo turno. (2 vezes por turno)\n\nTurn Start: 3 aliados com a menor cura SP 15, 10 e 5 SP cada (não empilhe; os números se aplicam na ordem ascendente; não ativam se as unidades afetadas estiverem em pânico ou corroído)",
+      "simpleDesc": [
+        {
+          "abilityID": 9779,
+          "simpleDesc": "Ganhe o nível de ofensa"
+        },
+        {
+          "abilityID": 97791,
+          "simpleDesc": "Heal sp"
+        }
+      ]
+    },
+    {
+      "id": 9780,
+      "name": "High-risk Operational Gear",
+      "desc": "Identidades da empresa Limbus: Habilidade 2 ganha o nível de ofensa +2 e causa +20% mais danos; Habilidade 3 ganha o nível de ofensa +3 e causa +40% mais danos\n\nTurn Start: Um aliado aleatório ganha 2 [[suporte]] para todos os backups ou identidades da empresa de Limbus derrotadas.\n\nDurante o encontro, quando um aliado retiro ou é derrotado, aplique aleatoriamente 3 [[suporte]] entre todas as identidades no próximo turno. (distribuído igualmente, 2 vezes por turno)\n- Quando 3+ aliados recuam ou forem derrotados, aplique aleatoriamente 6 [[suporte]] entre todas as identidades no próximo turno. (2 vezes por turno)\n- Quando 3+ Limbus Company Identities retiram ou forem derrotados, aplique aleatoriamente 8 [[Bracket]] entre todas as identidades.",
+      "simpleDesc": [
+        {
+          "abilityID": 9780,
+          "simpleDesc": "Ganhar nível de ofensa e causar mais danos"
+        },
+        {
+          "abilityID": 97801,
+          "simpleDesc": "Aplique aleatoriamente o nível de ofensa entre aliados"
+        },
+        {
+          "abilityID": 97802,
+          "simpleDesc": "Aplique aleatoriamente o nível de ofensa entre aliados"
+        }
+      ]
+    },
+    {
+      "id": 9781,
+      "name": "Hardwood Liquor Cup",
+      "desc": "Em Clash Lose, Ganhe 1 [[Bracket]] e Heal 3 ~ 6 SP (uma vez por turno por identidade)\n\nAo atacar um inimigo com o efeito do [[suporte]] da habilidade (exceto por exemplo, habilidades) que perderam o confronto: \n- Além disso, as habilidades de moeda recebem mais poder de moeda +(3 / # de moedas) e causar +20% mais danos (min. Mais ganho de potência da moeda 1)\n- Menos habilidades de habilidades de moedas +40% mais danos",
+      "simpleDesc": [
+        {
+          "abilityID": 9781,
+          "simpleDesc": "Ganhe proteção e cura sp"
+        },
+        {
+          "abilityID": 97811,
+          "simpleDesc": "Ganhar poder moeda e causar mais danos"
+        }
+      ]
+    },
+    {
+      "id": 9782,
+      "name": "Worn Hilt",
+      "desc": "Turn Start: Todos os aliados ganham 1 [[suporte]].\n\nA linhagem da lâmina ou as identidades do clã Kurokumo ganham 2 [[suporte]] e 1 [[suporte]].",
+      "simpleDesc": [
+        {
+          "abilityID": 9782,
+          "simpleDesc": "Ganhe a luxúria"
+        },
+        {
+          "abilityID": 97821,
+          "simpleDesc": "Ganhe a luxúria Power Up e Slash Power Up"
+        }
+      ]
+    },
+    {
+      "id": 9783,
+      "name": "Resplendence",
+      "desc": "Turn Start: Ativa quando houver 3 ou mais identidades de clã Kurokumo.\n\nTodos os aliados ganham 2 [[suporte]] e 1 [[suporte]] no início da curva.\n\nHabilidades de ataque base das identidades do clã Kurokumo: Ganhe poder de moeda +(4 / # de moedas; min. 1), infligir um 1 [[suporte]], +1 [[bracket]] contagem e acordo +(80 / # de moedas)% mais danos\n\nNulificar o primeiro limiar de Stagger das identidades do clã Kurokumo; Em menos de 50% HP, ganha 2 [[suporte]] no início da curva. Identidades que sofreram danos causados ​​por inimigos neste turno ganha 2 [[suporte]] no próximo turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 9783,
+          "simpleDesc": "Ganhe a luxúria Power Up e Slash Power Up"
+        },
+        {
+          "abilityID": 97831,
+          "simpleDesc": "Ganhe o poder da moeda, infligir mais sangramento e sangrar e causar mais danos"
+        },
+        {
+          "abilityID": 97832,
+          "simpleDesc": "Anular o primeiro limiar de craque; Ganhe proteção sob certa HP; Ganhe pressa após causar dano"
+        }
+      ]
+    },
+    {
+      "id": 9784,
+      "name": "Cultivation",
+      "desc": "Vire o início: ativa quando houver 3 ou mais identidades de linhagem de lâmina.\n\nTurn Start: Todos os aliados ganham 2 [[suporte]] e causam +35% mais danos.\n\nTurn Start: Quando uma identidade de linhagem de lâmina atinge criticamente, causar danos adicionais ao orgulho igual a ([[suporte]] potência / 2) em si.\n\nSe uma identidade de linhagem de lâmina tiver mais de 30 anos de potência [[suporte]] na extremidade do turno, consuma 10 [[suporte]] potência e ganho 2 [[bracket]] no próximo turno",
+      "simpleDesc": [
+        {
+          "abilityID": 9784,
+          "simpleDesc": "Ganhe barra liga -se e cause mais danos"
+        },
+        {
+          "abilityID": 97841,
+          "simpleDesc": "Deixe um dano adicional ([[suporte]] da potência/2)."
+        },
+        {
+          "abilityID": 97842,
+          "simpleDesc": "Ganhe slash dmg up"
+        }
+      ]
+    },
+    {
+      "id": 9785,
+      "name": "Swarmcloud",
+      "desc": "Turn Start: Ativa quando houver 3 ou mais identidades de clã Kurokumo.\n\nOn Hit with Base Attack Skill (exceto por exemplo, Skills) de [[Bracket]]: Deal +(40/# de moedas)% mais danos\nIdentidades do clã Kurokumo: Deal +(80/# de moedas)% mais danos em vez disso\n\nIdentidades do clã Kurokumo com as habilidades de ataque base de barra: Ganhe 2 [[Bracket]] no Start Turn. As identidades do clã Kurokumo ganham 1 [[suporte]] e 1 [[suporte]] no próximo turno para cada 10% que faltava na HP em si mesmo na extremidade do turno. (máximo 5 cada)\n\nQuando uma identidade de clã Kurokumo morre, todas as identidades do clã Kurokumo ganham 2 [[suporte]] no próximo turno (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9785,
+          "simpleDesc": "Causar mais danos"
+        },
+        {
+          "abilityID": 97851,
+          "simpleDesc": "Ganhe Slash DMG Up, Ofense Nível Up e Defense Level Up"
+        },
+        {
+          "abilityID": 97852,
+          "simpleDesc": "Ganhe danos"
+        }
+      ]
+    },
+    {
+      "id": 9786,
+      "name": "Enh. Tattoos - The Middle",
+      "desc": "Habilidades bruscas: poder de conflito +1\n- As identidades do meio: ganho de poder de conflito +1 e poder de moeda +1 em vez disso\n- As identidades intermediárias: se o alvo principal tiver [[backet]], ganho de poder de conflito +1, poder de moeda +1 e causar +10% mais danos em vez disso",
+      "simpleDesc": [
+        {
+          "abilityID": 9786,
+          "simpleDesc": "Ganhe poder de conflito. As identidades do meio ganham poder de moeda e causam mais danos também"
+        }
+      ]
+    },
+    {
+      "id": 9787,
+      "name": "Strange Glyph Talisman",
+      "desc": "Ao derrotar um alvo com [[suporte]] (para encontros focados, uma parte) com uma habilidade de ataque, inflige a potência [[suporte]] no alvo entre todos os inimigos (para encontros focados, todas as partes) (máximo 2 por inimigo, arredondado)\n\nAo derrotar um alvo com [[suporte]] (para encontros focados, uma parte) com uma habilidade de ataque, infligir a potência [[suporte]] e contar com o alvo entre todos os inimigos (para encontros focados, todas as partes) (máximo 2 por inimigo, arredondado)",
+      "simpleDesc": [
+        {
+          "abilityID": 9787,
+          "simpleDesc": "Infligir ruptura"
+        },
+        {
+          "abilityID": 97871,
+          "simpleDesc": "Infligir potência e contagem de ruptura"
+        }
+      ]
+    },
+    {
+      "id": 9788,
+      "name": "Harestride",
+      "desc": "Se a velocidade de um aliado for mais rápida que a do alvo, o aliado inflige (diferença de velocidade / 3) adicional [[suporte]] ou [[bracket]] contam ao infligir com habilidades (máximo 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9788,
+          "simpleDesc": "Infligir ruptura ou contagem de ruptura"
+        }
+      ]
+    },
+    {
+      "id": 9789,
+      "name": "Chains of Loyalty",
+      "desc": "Quando atingido, todos os aliados no mesmo negócio de facção +5% mais danos contundentes (15% por turno)\n\nPara as identidades do meio, ganhe 1 [[suporte]] e o negócio +10% mais danos contundentes (3 por turno, 30% por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9789,
+          "simpleDesc": "Causar mais danos robustos. As identidades intermediárias ganham o nível de ofensa também"
+        }
+      ]
+    },
+    {
+      "id": 9790,
+      "name": "Strange Glyph Inscriptions",
+      "desc": "Ao confrontar contra metas com [[suporte]], ganho ([[bracket]] no poder do alvo / 20) Clash Power (máximo 2)\n- Ao conflitar contra metas com [[suporte]], ganho ([[bracket]] no poder do alvo / 15) em vez disso (máximo 3)\n\nAo causar danos com o efeito [[suporte]], causar danos fixos por ([[suporte]] dano / 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9790,
+          "simpleDesc": "Clash Power Up"
+        },
+        {
+          "abilityID": 97901,
+          "simpleDesc": "Causar danos adicionais ao causar danos com Heishou - Mao Talisman"
+        }
+      ]
+    },
+    {
+      "id": 9791,
+      "name": "Shadow Bamboo Hat",
+      "desc": "Turn End: Heishou Pack - Mao Branch Identities Gain 2 [[Bracket]] Próximo turno\n\nSe a velocidade de um aliado for mais rápida que a do alvo, ou ao ativar ataques sem oposição, causará +10% mais danos por barra para cada (diferença de velocidade / 3) (máximo 30%)\n\nSe a velocidade de um aliado for mais rápida que a do alvo, leve -10% menos dano para cada (velocidade de velocidade / 3) (no máximo 30%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9791,
+          "simpleDesc": "Ganhar pressa"
+        },
+        {
+          "abilityID": 97911,
+          "simpleDesc": "Causar mais dano de barra"
+        },
+        {
+          "abilityID": 97912,
+          "simpleDesc": "Tome menos dano"
+        }
+      ]
+    },
+    {
+      "id": 9792,
+      "name": "Everlasting Chains of Bond",
+      "desc": "Encontro Início: Ativa quando há 2 ou mais as identidades do meio (contam apenas identidades no campo no início do encontro)\n\nQuando atingido, todos os aliados no mesmo negócio de facção +5% mais danos contundentes (15% por turno)\nAs identidades do meio ganham 1 [[suporte]] e causam +10% mais danos robustos (3 por turno, 30% por turno)\n\nHabilidades bruscas ganham poder base +1\n- As identidades do meio ganham potência base +1 e poder\n- Se o alvo tiver [[suporte]], as identidades do meio ganham potência básica +1, potência da moeda +1 e causam +30% mais danos em vez disso\n\nAs identidades do meio ganham velocidade min +1 e velocidade máxima +1 para o encontro",
+      "simpleDesc": [
+        {
+          "abilityID": 9792,
+          "simpleDesc": "Causar mais danos robustos. As identidades intermediárias ganham o nível de ofensa também"
+        },
+        {
+          "abilityID": 97921,
+          "simpleDesc": "Skill Power Up"
+        },
+        {
+          "abilityID": 97922,
+          "simpleDesc": "Ganha min e velocidade máxima"
+        }
+      ]
+    },
+    {
+      "id": 9793,
+      "name": "Glyph of Glass Shards",
+      "desc": "Encontro Início: Ativa quando há 5 ou mais identidades que infligem [[Bracket]] Potência ou [[Bracket]] contagem (exceto por exemplo, habilidades)\n\nAo derrotar um alvo com [[suporte]] (para encontros focados, uma parte) com uma habilidade de ataque, infligir a potência [[suporte]] no alvo entre todos os inimigos (para encontros focados, todas as partes) (máximo 3 por inimigo)\n\nAo derrotar um alvo com [[suporte]] (para encontros focados, uma parte) com uma habilidade de ataque, infligir a potência [[suporte]] e contar com o alvo entre todos os inimigos (para encontros focados, todas as partes) (máximo 6 por inimigo)\n\nAo confrontar contra metas com [[suporte]], ganho ([[bracket]] no poder do alvo / 20) Clash Power (máximo 2)\n- Ao conflitar contra metas com [[suporte]], ganho ([[bracket]] no poder do alvo / 10) em vez disso (máximo 2)\n\nAo causar danos com o efeito [[suporte]], causar danos fixos por ([[suporte]] dano / 2)",
+      "simpleDesc": [
+        {
+          "abilityID": 9793,
+          "simpleDesc": "Infligir ruptura"
+        },
+        {
+          "abilityID": 97931,
+          "simpleDesc": "Infligir ruptura"
+        },
+        {
+          "abilityID": 97932,
+          "simpleDesc": "Clash Power Up"
+        },
+        {
+          "abilityID": 97933,
+          "simpleDesc": "Causar danos adicionais ao causar danos com Heishou - Mao Talisman"
+        }
+      ]
+    },
+    {
+      "id": 9794,
+      "name": "Swishing Fuel Tank",
+      "desc": "[[SUPORTE]]\n\nAo tomar danos letais, 60% de chance de não sofrer esse dano e curar 30 hp. (uma vez por encontro)\nO efeito acima não é ativado nas seguintes condições:\n- Quando o dano de habilidade obtido excede o máximo da unidade HP\n- Quando a unidade tem o efeito de cura HP",
+      "simpleDesc": [
+        {
+          "abilityID": 9794,
+          "simpleDesc": "Curar hp"
+        }
+      ]
+    }
+  ]
+}

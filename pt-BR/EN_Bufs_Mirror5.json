@@ -1,0 +1,359 @@
+{
+  "dataList": [
+    {
+      "id": "MD511",
+      "name": "Offense Level Up I",
+      "desc": "Nível de ofensa +1"
+    },
+    {
+      "id": "MD512",
+      "name": "Defense Level Up",
+      "desc": "Nível de defesa +2"
+    },
+    {
+      "id": "MD513",
+      "name": "Resilient I",
+      "desc": "Nível de defesa +1, máximo HP +2,5%"
+    },
+    {
+      "id": "MD514",
+      "name": "Growth I",
+      "desc": "Máximo hp +5%"
+    },
+    {
+      "id": "MD515",
+      "name": "Defense Skill Up",
+      "desc": "Habilidade de defesa Power final +1"
+    },
+    {
+      "id": "MD516",
+      "name": "Take Less Damage",
+      "desc": "Danos causados ​​-5%"
+    },
+    {
+      "id": "MD521",
+      "name": "Offense Level Up II",
+      "desc": "Nível de ofensa +2"
+    },
+    {
+      "id": "MD522",
+      "name": "Body Up I",
+      "desc": "Nível de ofensa +1, nível de defesa +1, máximo HP +2,5%"
+    },
+    {
+      "id": "MD523",
+      "name": "Keen I",
+      "desc": "Nível de ofensa +1, máximo hp +5%"
+    },
+    {
+      "id": "MD524",
+      "name": "Resilient II",
+      "desc": "Nível de defesa +1, máximo HP +7,5%"
+    },
+    {
+      "id": "MD525",
+      "name": "Resilient III",
+      "desc": "Nível de defesa +2, máximo hp +5%"
+    },
+    {
+      "id": "MD526",
+      "name": "Growth II",
+      "desc": "Max HP +10%"
+    },
+    {
+      "id": "MD527",
+      "name": "Headstrong I",
+      "desc": "Danos causados ​​-7,5%, danos causados ​​+7,5%"
+    },
+    {
+      "id": "MD531",
+      "name": "Keen II",
+      "desc": "Nível de ofensa +2, máximo hp +7,5%"
+    },
+    {
+      "id": "MD532",
+      "name": "Keen III",
+      "desc": "Nível de ofensa +3, máximo hp +5%"
+    },
+    {
+      "id": "MD533",
+      "name": "Resilient IV",
+      "desc": "Nível de defesa +3, máximo HP +7,5%"
+    },
+    {
+      "id": "MD534",
+      "name": "Resilient V",
+      "desc": "Nível de defesa +4, máximo hp +5%"
+    },
+    {
+      "id": "MD535",
+      "name": "Growth III",
+      "desc": "Max HP +15%"
+    },
+    {
+      "id": "MD536",
+      "name": "Clash Power Boost",
+      "desc": "Power de conflito +1, máximo hp +7,5%"
+    },
+    {
+      "id": "MD537",
+      "name": "Final Power Boost",
+      "desc": "Power final +1, máximo hp +5%"
+    },
+    {
+      "id": "MD538",
+      "name": "Base Power Boost",
+      "desc": "Potência base +1, máximo hp +2.5"
+    },
+    {
+      "id": "MD541",
+      "name": "Keen IV",
+      "desc": "Nível de ofensa +3, máximo hp +15%"
+    },
+    {
+      "id": "MD542",
+      "name": "Body Up II",
+      "desc": "Nível de ofensa +2, nível de defesa +3, máximo hp +10%"
+    },
+    {
+      "id": "MD543",
+      "name": "Body Up III",
+      "desc": "Nível de ofensa +3, nível de defesa +2, máximo hp +10%"
+    },
+    {
+      "id": "MD544",
+      "name": "Growth IV",
+      "desc": "Max HP +30%"
+    },
+    {
+      "id": "MD545",
+      "name": "Clash Power Spurt",
+      "desc": "Power de conflito +1, máximo hp +15%"
+    },
+    {
+      "id": "MD546",
+      "name": "Final Power Spurt",
+      "desc": "Power final +1, máximo hp +12,5%"
+    },
+    {
+      "id": "MD547",
+      "name": "Base Power Spurt",
+      "desc": "Potência base +1, máximo hp +10%"
+    },
+    {
+      "id": "MD548",
+      "name": "Brutality",
+      "desc": "Mais potência da moeda +1, menos poder da moeda -1"
+    },
+    {
+      "id": "MD549",
+      "name": "Headstrong II",
+      "desc": "Danos causados ​​-25%, danos causados ​​+25%"
+    },
+    {
+      "id": "MD5Base",
+      "name": "Mounting Trials",
+      "desc": ""
+    },
+    {
+      "id": "MD551",
+      "name": "Keen V",
+      "desc": "Nível de ofensa +4, máximo hp +10%, dano causado +5%"
+    },
+    {
+      "id": "MD552",
+      "name": "Body Up IV",
+      "desc": "Nível de ofensa +3, nível de defesa +3, máximo hp +7,5%, dano causado +5%"
+    },
+    {
+      "id": "MD553",
+      "name": "Body Up V",
+      "desc": "Nível de ofensa +4, nível de defesa +2, máximo hp +5%, dano causado +5%"
+    },
+    {
+      "id": "MD554",
+      "name": "Growth V",
+      "desc": "Nível de ofensa +1, máximo hp +25%, dano causado +5%"
+    },
+    {
+      "id": "MD555",
+      "name": "Clash Power Up II",
+      "desc": "Poder de conflito +1, nível de ofensa +1, máximo hp +10%, dano causado +5%"
+    },
+    {
+      "id": "MD556",
+      "name": "Final Power Up II",
+      "desc": "Power final +1, nível de ofensa +1, máximo hp +7,5%, dano causado +5%"
+    },
+    {
+      "id": "MD557",
+      "name": "Base Power Up II",
+      "desc": "Potência base +1, nível de ofensa +1, máximo hp +5%, dano causado +5%"
+    },
+    {
+      "id": "MD558",
+      "name": "Brutality II",
+      "desc": "Além da moeda Power +1, menos potência da moeda -1, danos causados ​​+5%"
+    },
+    {
+      "id": "MD561",
+      "name": "Keen VI",
+      "desc": "Nível de ofensa +5, máximo hp +10%, dano causado +5%"
+    },
+    {
+      "id": "MD562",
+      "name": "Resilient VI",
+      "desc": "Nível de ofensa +2, nível de defesa +6, máximo hp +10%, dano causado +5%"
+    },
+    {
+      "id": "MD563",
+      "name": "Body Up VI",
+      "desc": "Nível de ofensa +5, nível de defesa +2, máximo hp +5%, dano causado +5%"
+    },
+    {
+      "id": "MD564",
+      "name": "Growth VI",
+      "desc": "Nível de ofensa +2, máximo hp +25%, dano causado +5%"
+    },
+    {
+      "id": "MD565",
+      "name": "Clash Power Up III",
+      "desc": "Poder de conflito +1, nível de ofensa +2, máximo hp +10%, dano causado +5%"
+    },
+    {
+      "id": "MD566",
+      "name": "Final Power Up III",
+      "desc": "Power final +1, nível de ofensa +2, máximo hp +7,5%, dano causado +5%"
+    },
+    {
+      "id": "MD567",
+      "name": "Base Power Up III",
+      "desc": "Potência base +1, nível de ofensa +2, máximo hp +5%, dano causado +5%"
+    },
+    {
+      "id": "MD568",
+      "name": "Brutality III",
+      "desc": "Além da moeda Power +1, menos potência da moeda -1, danos causados ​​+5%"
+    },
+    {
+      "id": "MD571",
+      "name": "Keen VII",
+      "desc": "Nível de ofensa +5, máximo hp +20%, dano causado +7,5%"
+    },
+    {
+      "id": "MD572",
+      "name": "Resilient VII",
+      "desc": "Nível de ofensa +2, nível de defesa +6, máximo hp +20%, dano causado +7,5%"
+    },
+    {
+      "id": "MD573",
+      "name": "Body Up VII",
+      "desc": "Nível de ofensa +5, nível de defesa +2, máximo hp +15%, dano causado +7,5%"
+    },
+    {
+      "id": "MD574",
+      "name": "Growth VII",
+      "desc": "Nível de ofensa +2, máximo hp +35%, dano causado +7,5%"
+    },
+    {
+      "id": "MD575",
+      "name": "Clash Power Up IV",
+      "desc": "Poder de conflito +1, nível de ofensa +2, máximo hp +20%, dano causado +7,5%"
+    },
+    {
+      "id": "MD576",
+      "name": "Final Power Up IV",
+      "desc": "Power final +1, nível de ofensa +2, máximo hp +17,5%, dano causado +7,5%"
+    },
+    {
+      "id": "MD577",
+      "name": "Base Power Up IV",
+      "desc": "Potência base +1, nível de ofensa +2, máximo hp +15%, dano causado +7,5%"
+    },
+    {
+      "id": "MD578",
+      "name": "Brutality IV",
+      "desc": "Além de poder de moeda +1, menos potência da moeda -1, danos causados ​​+7,5%"
+    },
+    {
+      "id": "MD581",
+      "name": "Keen VIII",
+      "desc": "Nível de ofensa +6, máximo hp +30%, dano causado +7,5%"
+    },
+    {
+      "id": "MD582",
+      "name": "Resilient VIII",
+      "desc": "Nível de ofensa +3, nível de defesa +6, máximo hp +30%, dano causado +7,5%"
+    },
+    {
+      "id": "MD583",
+      "name": "Body Up VIII",
+      "desc": "Nível de ofensa +5, nível de defesa +4, máximo hp +22,5%, dano causado +7,5%"
+    },
+    {
+      "id": "MD584",
+      "name": "Growth VIII",
+      "desc": "Nível de ofensa +3, máximo hp +45%, dano causado +7,5%"
+    },
+    {
+      "id": "MD585",
+      "name": "Clash Power Up V",
+      "desc": "Poder de conflito +2, nível de ofensa +1, máximo hp +25%, dano causado +7,5%"
+    },
+    {
+      "id": "MD586",
+      "name": "Final Power Up V",
+      "desc": "Power final +2, nível de ofensa +1, máximo hp +20%, dano causado +7,5%"
+    },
+    {
+      "id": "MD587",
+      "name": "Base Power Up V",
+      "desc": "Potência base +2, nível de ofensa +1, máximo hp +15%, dano causado +7,5%"
+    },
+    {
+      "id": "MD588",
+      "name": "Brutality V",
+      "desc": "Além de poder de moeda +2, menos potência da moeda -2, danos causados ​​+7,5%"
+    },
+    {
+      "id": "MD591",
+      "name": "Keen IX",
+      "desc": "Nível de ofensa +8, máximo hp +40%, dano causado +10%"
+    },
+    {
+      "id": "MD592",
+      "name": "Resilient IX",
+      "desc": "Nível de ofensa +3, nível de defesa +9, máximo hp +40%, dano causado +10%"
+    },
+    {
+      "id": "MD593",
+      "name": "Body Up IX",
+      "desc": "Nível de ofensa +6, nível de defesa +5, máximo hp +32,5%, dano causado +10%"
+    },
+    {
+      "id": "MD594",
+      "name": "Growth IX",
+      "desc": "Nível de ofensa +3, máximo hp +72,5%, danos causados ​​+10%"
+    },
+    {
+      "id": "MD595",
+      "name": "Clash Power Up VI",
+      "desc": "Poder de conflito +2, nível de ofensa +2, máximo hp +40%, dano causado +10%"
+    },
+    {
+      "id": "MD596",
+      "name": "Final Power Up VI",
+      "desc": "Power final +2, nível de ofensa +2, máximo hp +35%, dano causado +10%"
+    },
+    {
+      "id": "MD597",
+      "name": "Base Power Up VI",
+      "desc": "Potência base +2, nível de ofensa +2, máximo hp +30%, dano causado +10%"
+    },
+    {
+      "id": "MD598",
+      "name": "Brutality VI",
+      "desc": "Mais potência da moeda +2, menos potência da moeda -2, danos causados ​​+10%"
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+    "dataList": [
+        {
+            "id": 9008301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vomit Froth",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Claw",
+                    "desc": "Se o alvo tiver 5+<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</link></u></color>, causar +20% de dano.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 30% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 30% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Water Jet",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mucous Skin",
+                    "desc": "Se atacado enquanto protegido, infligir 1 naufragando no atacante",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hook Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Consecutive Hook Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Battle Cry",
+                    "desc": "[WhenUse]Ganhe 2 postagem na próxima curva.\nTurn End: Heal HP igual ao escudo HP.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear the Gap",
+                    "desc": "Os efeitos das moedas são ativados quando esta unidade tiver<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Equilíbrio</link></u></color>.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Acordo +30% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Acordo +30% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hook Snag",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hook Punch",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Battle Cry",
+                    "desc": "[WhenUse]Ganhe 2 postagem na próxima curva.\nTurn End: Heal HP igual ao escudo HP.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear the Gap",
+                    "desc": "Os efeitos das moedas são ativados quando esta unidade tiver<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Equilíbrio</link></u></color>.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Acordo +30% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Acordo +30% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear the Flesh",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Going In",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento e +3 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Faster",
+                    "desc": "[EndSkill]Ganhe 1 dano no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4 equilíbrio na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 curta frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Battle Cry",
+                    "desc": "[WhenUse]Ganhe 2 postagem na próxima curva.\nTurn End: Heal HP igual ao escudo HP.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Looting",
+                    "desc": "[WinDuel]Copia o poder e a contagem de moedas de 1 a 3 de habilidade do alvo e os usa como seu próprio",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hit Me Harder",
+                    "desc": "[WhenUse]Se o alvo tem<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>, ganhe 1 proteção",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hit Me Right here",
+                    "desc": "[WhenUse]Se o alvo tem<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>, ganhe 1 proteção",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 paralisar a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 danos na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Even Harder",
+                    "desc": "[EndSkill]Ganhe 1 dano no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 proteção"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 proteção na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4 equilíbrio na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Defend",
+                    "desc": "[WhenUse]Ganhe 2 postagem na próxima curva.\nTurn End: Heal HP igual ao escudo HP.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Looting",
+                    "desc": "[WinDuel]Copia o poder e a contagem de moedas de 1 a 3 de habilidade do alvo e os usa como seu próprio",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Water Jet",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Damp Strike",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 fragilidade afundando"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Clutch of the Waves",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Shrieking Waves",
+                    "desc": "Dano +20% por 5 potência de naufrágio no alvo\nSe o SP da Target estiver abaixo de 0, causar +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Dilúvio afundando"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mucous Skin",
+                    "desc": "Se atacado enquanto protegido, infligir 1 naufragando no atacante",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "There, There They Are",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "We've Got Company, Boys",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Battle Command",
+                    "desc": "[WhenUse]Ganhe 5 posições nesta curva",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 2 proteção, 1 ataque de todos os outros aliados na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Weakness Spotted! Fire!",
+                    "desc": "Se o alvo tiver 5+<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>, Clash Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 contagem de sangramento\nDano de bônus de acordo igual a<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>no alvo"
+                                },
+                                {
+                                    "desc": "Gaste 1 munição"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Ganhe 5 postagem na próxima curva.[OnSucceedEvade]Aplique 2 postagem a todos os aliados no próximo turno.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Looting",
+                    "desc": "[WinDuel]Copia a habilidade de 3 moedas da habilidade do alvo e a contagem de moedas e as usa como sua própria",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

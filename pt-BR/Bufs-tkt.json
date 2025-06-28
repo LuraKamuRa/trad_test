@@ -1,0 +1,122 @@
+{
+    "dataList": [
+        {
+            "id": "FusionVibration",
+            "name": "Amplitude Entanglement",
+            "desc": "- Funde os efeitos do tipo Tremor adicionado por Amplitude Entanglement e o tipo Tremor atualmente no alvo juntos sob Tremor - Superposition.\n- Os valores de Potency e Count não mudam durante Entanglement.\n- Ao acionar Amplitude Conversion em Tremor - Superposition, ele ativa como Amplitude Entanglement.\n- Turn End: convertido em base Tremor.",
+            "summary": ""
+        },
+        {
+            "id": "VibrationNesting",
+            "name": "Tremor - Superposition",
+            "desc": "- Obtido por meio do Emaranhamento de Amplitude\n- Ao acionar a Conversão de Amplitude, adicione os efeitos do tipo de Tremor resultante à lista de efeitos de Tremor ativos em Tremor - Superposição.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "VibrationDistribution",
+            "name": "Tremor - Distribution",
+            "desc": "- Fim do turno: Ganhe ((soma da Contagem de Tremor de todos os aliados) / (# de aliados sobreviventes)) Nível de Ofensa no próximo turno (máx. 5)\n- Por {1} turnos, quando atingido por Habilidades que ativam Explosão de Tremor, aumente o Limiar de Cambaleio em {0}\n- Fim do turno: reduza a Contagem em 1\n- (Interage da mesma forma que o Tremor normal faz com efeitos que aumentam ou reduzem a Potência/Contagem de Tremor)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TcorpSpecialInvestigator",
+            "name": "T Corp. Special Investigator Badge",
+            "desc": "-Quando esta unidade sofre dano letal, seu HP não cai abaixo de 1, cura instantaneamente 80% de seu HP máximo e se recupera de Stagger. (Uma vez por encontro)\n- Quando este efeito de bônus é ativado, a partir do próximo turno, esta unidade ganha 2 Attack Power Up em cada Turn Start por 5 turnos.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "VibrationChain",
+            "name": "Tremor - Chain",
+            "desc": "- Perca 1 Clash Power para cada 10 Tremor Potency em si mesmo (máx. 3)\n- Por {1} Turnos: Quando Atingido por Skills que ativam Tremor Burst, aumente o Stagger Threshold em {0}.\n- Fim do Turno: reduza a Contagem em 1\n- (Interage da mesma forma que o Tremor normal faz com efeitos que aumentam ou reduzem Tremor Potency/Count)",
+            "summary": "Perca 1 Clash Power para cada 10 Tremor Potency em si mesmo\nAumente o Stagger Threshold em {0}",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeRentalTwo",
+            "name": "T Corp. Borrowed Time",
+            "desc": "Fim do Turno:\n- Ganhe {1} de Aceleração, Aumento de Poder de Choque e Frágil no próximo turno.\n- Com 1 Contagem, ganhe {0} de Vinculação no próximo turno.\n- Ganhe 1 Pilha e perca 1 Contagem\n- Se esta unidade tiver mais Vinculação do que Aceleração, o efeito Tempo Emprestado expira e esta unidade fica Estupefata.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeAccumulation",
+            "name": "Time Delay",
+            "desc": "Enquanto este efeito estiver ativo, o dano causado contra esta unidade é armazenado e não recebido.\nFim do turno: reduz o valor em 1\nFim do turno: se houver apenas 1 valor restante deste efeito, o efeito expira após causar (2 x dano armazenado) dano de Preguiça a esta unidade\nQuando este efeito estiver ativo, seu valor não pode ser ganho ou atualizado.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ParryingResultDown",
+            "name": "Clash Power Down",
+            "desc": "Em um Clash, perca Clash Power igual ao valor",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ParryingResultUp",
+            "name": "Clash Power Up",
+            "desc": "Em um Clash, ganhe Clash Power igual ao valor",
+            "summary": "Em um Clash, ganhe Clash Power igual ao valor",
+            "undefined": "-"
+        },
+        {
+            "id": "LimitedTime",
+            "name": "Stolen Time",
+            "desc": "- Início do turno: Em valor 200+, ganhe ({0}- 200)/50 de aumento de nível de ataque e aumento de nível de defesa.\n- Início do turno: Em valor menor que 200, ganhe (200 - {0})/50 de redução de nível de ataque e redução de nível de defesa.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "OwnTime",
+            "name": "Shared Time",
+            "desc": "- Início do turno: Em valor 40+, ganhe ({0}- 40)/10 de aumento de nível de ataque e aumento de nível de defesa.\n- Início do turno: Em valor menor que 40, ganhe (40 - {0})/10 de redução de nível de ataque e redução de nível de defesa.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "EquitableDistribution",
+            "name": "Joint Time Expenditure",
+            "desc": "Ao gastar o Tempo Compartilhado, os Cérebros gastam uma quantidade igual de tempo em todos os aspectos.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnfairDistribution",
+            "name": "Infighting",
+            "desc": "Ao gastar Shared Time, os Brains não gastam mais uma quantidade igual de tempo em todo o tabuleiro.\nInício do Turno: todas as partes perdem Proteção igual ao número de Partes com diferentes valores de Tempo restantes.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeAcceleration",
+            "name": "Time Acceleration",
+            "desc": "- Ganhe 5 de Velocidade\n- Melhora as Habilidades desta unidade.\n- Ganhe 1 Frágil; quando o efeito Tremor Burst, Skill ou Coin aumenta o Threshold Stagger desta unidade, ele o aumenta em +50% a mais.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Yurodivy_LowMorale",
+            "name": "Broken Unity",
+            "desc": "- Moral baixo\nGanhe 1 Frágil. Ganhe 1 Contagem de Tremor quando atingido. (3 vezes no máximo)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Yurodivy_Panic",
+            "name": "Broken Unity",
+            "desc": "- Pânico\nGanhe 2 Frágil. Ganhe 2 Contagem de Tremor quando atingido. (3 vezes no máximo)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeKillerWatch",
+            "name": "Time Relief Entitlement",
+            "desc": "Alvo do Estripador do Tempo enquanto a Aceleração do Tempo estiver ativa.",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

@@ -1,0 +1,718 @@
+{
+    "dataList": [
+        {
+            "id": -1,
+            "content": "Episódio S0_1"
+        },
+        {
+            "id": 0,
+            "place": "Aboard Mephistopheles",
+            "model": "카론",
+            "content": "Requerido"
+        },
+        {
+            "id": 1,
+            "model": "카론",
+            "content": "Bloqueio à frente. Permissão para vrum-vrum?"
+        },
+        {
+            "id": 2,
+            "content": "Foi a conversa que finalmente me fez abrir os olhos."
+        },
+        {
+            "id": 3,
+            "content": "Afinal, não há nada melhor do que bloquear sua visão quando você quer manter o tédio longe."
+        },
+        {
+            "id": 4,
+            "content": "Não que houvesse muito mais o que fazer em um ônibus cujo destino eu desconhecia…"
+        },
+        {
+            "id": 5,
+            "content": "Minha falta de cabeça e memória certamente também não ajudam."
+        },
+        {
+            "id": 6,
+            "model": "베르길리우스",
+            "content": "…"
+        },
+        {
+            "id": 7,
+            "model": "베르길리우스",
+            "content": "Tudo bem, vamos prosseguir."
+        },
+        {
+            "id": 8,
+            "model": "카론",
+            "content": "Ok. Aí vem o bumpity-bumps."
+        },
+        {
+            "id": 9,
+            "model": "카론",
+            "content": "Fluido de lavagem caro. Verg disse que pagou uma fortuna."
+        },
+        {
+            "id": 10,
+            "content": "Os aglomerados presos na janela se dissolvem suavemente, deixando a luz passar."
+        },
+        {
+            "id": 11,
+            "content": "Muitos pares de olhos diferentes no ônibus estão letargicamente voltados para a frente."
+        },
+        {
+            "id": 12,
+            "content": "Parecia uma cena bem horrível, mas com base nas reações dos outros, talvez esse tipo de violência seja comum na cidade."
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Ei…>"
+        },
+        {
+            "id": 14,
+            "content": "Foi um pouco estranho fechar os olhos novamente agora que eu estava bem acordado. Foi quando o homem notavelmente barbudo chamou minha atenção."
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<Bu― Quer dizer, Óculos. Sabe para onde estamos indo agora?>"
+        },
+        {
+            "id": 16,
+            "content": "…Uma característica muito mais chamativa do que sua barba me fez escorregar."
+        },
+        {
+            "id": 17,
+            "model": "그레고르",
+            "content": "…Você quase me chamou de “cara dos insetos”, não é?"
+        },
+        {
+            "id": 18,
+            "model": "그레고르",
+            "content": "Mais uma vez, meu nome é Gregor."
+        },
+        {
+            "id": 19,
+            "model": "그레고르",
+            "content": "Da mesma forma que você é chamado de Dante e não de mostrador de relógio."
+        },
+        {
+            "id": 20,
+            "content": "…Não consegui encontrar desculpas, então apenas acenei levemente."
+        },
+        {
+            "id": 21,
+            "model": "그레고르",
+            "content": "Diga, Bus Girlie. Para onde estamos indo?"
+        },
+        {
+            "id": 22,
+            "model": "카론",
+            "content": "Mais uma vez, meu nome é Caronte."
+        },
+        {
+            "id": 23,
+            "model": "카론",
+            "content": "Da mesma forma que você é chamado de Gregor e não de cara de inseto."
+        },
+        {
+            "id": 24,
+            "model": "그레고르",
+            "content": "…"
+        },
+        {
+            "id": 25,
+            "model": "단테",
+            "content": "<Ela te pegou, Gregor.>"
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "Haha, ela realmente fez."
+        },
+        {
+            "id": 27,
+            "model": "카론",
+            "content": "…Verg disse:"
+        },
+        {
+            "id": 28,
+            "model": "카론",
+            "content": "“Os Sinners irão para o Distrito 4.”"
+        },
+        {
+            "id": 29,
+            "model": "돈키호테",
+            "content": "O queeeee?! O Distrito 4 caiu nos meus ouvidos?!"
+        },
+        {
+            "id": 30,
+            "model": "돈키호테",
+            "content": "Esse lugar é conhecido por ser o lar da Grass Maiden! É a origem da jornada da heroína. E foi o…"
+        },
+        {
+            "id": 31,
+            "model": "히스클리프",
+            "content": "Puta merda, você está tagarelando sem parar…"
+        },
+        {
+            "id": 32,
+            "model": "히스클리프",
+            "content": "Você não pode simplesmente ficar quieto e deixar a viagem acontecer em paz?"
+        },
+        {
+            "id": 33,
+            "model": "돈키호테",
+            "content": "Ora, eu fiquei em silêncio até alguns momentos atrás!"
+        },
+        {
+            "id": 34,
+            "model": "히스클리프",
+            "content": "Eu disse para você ficar quieto!"
+        },
+        {
+            "id": 35,
+            "model": "이스마엘",
+            "content": "…Desculpe, você percebeu que está falando mais alto aqui?"
+        },
+        {
+            "id": 36,
+            "model": "히스클리프",
+            "content": "…Mesmo que você não possa morrer, você com certeza pode sofrer, não? Então diga isso de novo."
+        },
+        {
+            "id": 37,
+            "model": "이스마엘",
+            "content": "Eu digo a coisa certa e sua primeira resposta é violência? Mostra o quão refinado você é."
+        },
+        {
+            "id": 38,
+            "model": "히스클리프",
+            "content": "…Há."
+        },
+        {
+            "id": 39,
+            "content": "Pensei por um segundo."
+        },
+        {
+            "id": 40,
+            "content": "Devo intervir? É esta a parte em que exerço minha autoridade como gerente com dignidade e graça? Uma vaga lembrança me incita a fazer algo."
+        },
+        {
+            "id": 41,
+            "model": "단테",
+            "content": "<Agora, rapazes, não é aconselhável perder o c―>"
+        },
+        {
+            "id": 42,
+            "model": "히스클리프",
+            "content": "Gr…"
+        },
+        {
+            "id": 43,
+            "model": "이스마엘",
+            "content": "Kuhㅡ"
+        },
+        {
+            "id": 44,
+            "model": "료슈",
+            "content": "PARCELADAS."
+        },
+        {
+            "id": 45,
+            "model": "료슈",
+            "content": "Para se defender de porcos barulhentos e chorões é preciso lutar."
+        },
+        {
+            "id": 46,
+            "model": "료슈",
+            "content": "…"
+        },
+        {
+            "id": 47,
+            "model": "돈키호테",
+            "content": "A violência sem sentido não será perdoada! Eu farei justiça!"
+        },
+        {
+            "id": 48,
+            "model": "로쟈",
+            "content": "Aw~ Eu sabia que isso aconteceria—deixou uma mancha nas minhas roupas. Olha, vocês realmente têm que lutar do meu lado?"
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<Devo estar louco…>"
+        },
+        {
+            "id": 50,
+            "content": "Nem chegamos ao nosso destino e eles já mataram três. Dos nossos, claro."
+        },
+        {
+            "id": 51,
+            "model": "베르길리우스",
+            "content": "Não posso fazer uma pequena pausa sem antecipar problemas, posso?"
+        },
+        {
+            "id": 52,
+            "model": "베르길리우스",
+            "content": "Vocês quatro. Serviço de limpeza para o próximo mês."
+        },
+        {
+            "id": 53,
+            "model": "돈키호테",
+            "content": "Que injustiça! Eu apenas busquei a mão da justiça!"
+        },
+        {
+            "id": 54,
+            "model": "로쟈",
+            "content": "Ah, também! Diga a eles para lavarem minha roupa também. Sangue não sai tão facilmente quanto manchas de vinho. Nossa, lavar a seco é caro..."
+        },
+        {
+            "id": 55,
+            "content": "Ninguém se importa com os futuros zeladores sem vida espalhados pelo chão."
+        },
+        {
+            "id": 56,
+            "content": "Talvez eles já estejam tomando seus reavivamentos indefinidos como garantidos."
+        },
+        {
+            "id": 57,
+            "content": "Mas eu nem sei exatamente como vou trazê-los de volta..."
+        },
+        {
+            "id": 58,
+            "model": "베르길리우스",
+            "content": "Dante, gostaria que você voltasse no tempo."
+        },
+        {
+            "id": 59,
+            "model": "단테",
+            "content": "<Virar… o relógio?>"
+        },
+        {
+            "id": 60,
+            "model": "베르길리우스",
+            "content": "…Suspirar."
+        },
+        {
+            "id": 61,
+            "model": "베르길리우스",
+            "content": "Isso deve significar que há um olhar perplexo onde seu rosto deveria estar. Vou manter isso em mente."
+        },
+        {
+            "id": 62,
+            "model": "베르길리우스",
+            "content": "Sra. Fausto."
+        },
+        {
+            "id": 63,
+            "model": "파우스트",
+            "content": "…"
+        },
+        {
+            "id": 64,
+            "content": "Vergilius dá um aceno cansado para Fausto e gesticula para mim."
+        },
+        {
+            "id": 65,
+            "content": "Ela soltou um pequeno suspiro, mas mesmo assim veio até meu assento, provavelmente por obrigação."
+        },
+        {
+            "id": 66,
+            "model": "파우스트",
+            "content": "É a mesma coisa que você fez no dia em que nos conhecemos, Dante. Embora, eu suponha que tenha sido mais uma reação instintiva."
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "Agora, vamos tentar de novo. Feche os olhos."
+        },
+        {
+            "id": 68,
+            "content": "Embora eu não tenha olhos para fechar, bloquear minha visão é algo que eu já fiz."
+        },
+        {
+            "id": 69,
+            "content": "Não tinha razão para não seguir as instruções de Fausto aqui."
+        },
+        {
+            "id": 70,
+            "model": "파우스트",
+            "content": "Na verdade, a porta está em todo lugar."
+        },
+        {
+            "id": 71,
+            "model": "파우스트",
+            "content": "No entanto, somente você pode vê-lo. Pois as estrelas nunca se põem no seu céu."
+        },
+        {
+            "id": 72,
+            "content": "Com isso, senti um fio de luz surgir em minha visão."
+        },
+        {
+            "id": 73,
+            "content": "Como se fosse abrir meus olhos, abracei aquela luz."
+        },
+        {
+            "id": 74,
+            "place": "???",
+            "content": "Então eu vi um espaço."
+        },
+        {
+            "id": 75,
+            "content": "Eu estava sozinho lá."
+        },
+        {
+            "id": 76,
+            "content": "E uma porta enorme estava diante de mim."
+        },
+        {
+            "id": 77,
+            "content": "Não era uma visão agradável."
+        },
+        {
+            "id": 78,
+            "content": "Calor sufocante e gritos agonizantes escapam pela abertura."
+        },
+        {
+            "id": 79,
+            "content": "Ouvir os lamentos e lamentações intermináveis, mesmo que por uma fração de segundo, me faz sentir fraco."
+        },
+        {
+            "id": 80,
+            "content": "No entanto, estou me aproximando da porta, segurando suas maçanetas como se fosse algo que eu tivesse nascido para fazer."
+        },
+        {
+            "id": 81,
+            "content": "Apesar de parecer pesado, abri-lo foi surpreendentemente fácil."
+        },
+        {
+            "id": 82,
+            "content": "Eu tateio na porta. Milhares e milhares de últimos lamentos jaziam lá dentro."
+        },
+        {
+            "id": 83,
+            "content": "E, alcançando o interior, pego algumas mãos desconhecidas."
+        },
+        {
+            "id": 84,
+            "content": "Posso sentir as histórias de diferentes pecados carregando suas marcas subindo pela minha mão até meu braço."
+        },
+        {
+            "id": 85,
+            "content": "Você está preparado para compartilhar a dor?"
+        },
+        {
+            "id": 86,
+            "content": "Poderia ter sido uma pergunta? Ou melhor, pressão para obedecer?"
+        },
+        {
+            "id": 87,
+            "content": "Puxei os Pecadores segurando minha mão com todas as minhas forças."
+        },
+        {
+            "id": 88,
+            "model": "단테",
+            "content": "<…RAHHHHGH!>"
+        },
+        {
+            "id": 89,
+            "content": "Uma dor terrível se espalha pelo meu pescoço e cabeça."
+        },
+        {
+            "id": 90,
+            "content": "É tão esmagadoramente severo que me faz desejar estar morto."
+        },
+        {
+            "id": 91,
+            "content": "A sensação indescritível de ossos e músculos se torcendo, se entrelaçando, continua pelo que parece uma eternidade."
+        },
+        {
+            "id": 92,
+            "content": "Minhas pernas não estavam preparadas para suportar toda essa agonia; caí de joelhos sobre a poça de sangue, desamparado."
+        },
+        {
+            "id": 93,
+            "content": "Então eu vejo."
+        },
+        {
+            "id": 94,
+            "content": "Treme nas poças de sangue, gradualmente se transformando em ondas e bolhas subindo do chão."
+        },
+        {
+            "id": 95,
+            "content": "Logo, o sangue que encharcava o chão se fundiu em três massas."
+        },
+        {
+            "id": 96,
+            "content": "Então a agonia que parecia durar para sempre desapareceu de repente."
+        },
+        {
+            "id": 97,
+            "place": "Aboard Mephistopheles",
+            "model": "히스클리프",
+            "content": "Hmmm…"
+        },
+        {
+            "id": 98,
+            "model": "이스마엘",
+            "content": "…Eca."
+        },
+        {
+            "id": 99,
+            "content": "Enquanto os pedaços de sangue subiam no ar e voavam para longe, minha visão ficou livre da vermelhidão terrível, retornando ao ônibus barulhento."
+        },
+        {
+            "id": 100,
+            "model": "료슈",
+            "content": "Keh… Como é ter sua cabeça de volta depois de ter sido cortada? Foi emocionante?"
+        },
+        {
+            "id": 101,
+            "content": "Assim que Heathcliff recupera a consciência, ele esfrega o pescoço, murmura palavras vulgares e se aproxima de Ryōshū."
+        },
+        {
+            "id": 102,
+            "model": "단테",
+            "content": "<Espera aí, acabei de te trazer de volta e você vai direto para outra briga?>"
+        },
+        {
+            "id": 103,
+            "content": "Heathcliff se vira para me encarar. Seus olhos são os de um homem devorado por uma fúria cega."
+        },
+        {
+            "id": 104,
+            "model": "히스클리프",
+            "content": "Não é seu trabalho nos trazer de volta?"
+        },
+        {
+            "id": 105,
+            "model": "히스클리프",
+            "content": "Se seu trabalho estiver concluído, então saia da frente antes que eu derrube seu relógio idiota."
+        },
+        {
+            "id": 106,
+            "model": "싱클레어",
+            "content": "P—Por favor, espere! Dante parece estar com muita dor, então nós realmente deveríamos sh―"
+        },
+        {
+            "id": 107,
+            "content": "Antes que ele pudesse terminar, o taco de aço de Heathcliff afundou na lateral da cabeça de Sinclair."
+        },
+        {
+            "id": 108,
+            "model": "싱클레어",
+            "content": "Curiosidade…"
+        },
+        {
+            "id": 109,
+            "content": "Os gorgolejos incoerentes de uma pessoa moribunda violavam meus ouvidos."
+        },
+        {
+            "id": 110,
+            "model": "히스클리프",
+            "content": "Da próxima vez, Clockface, você está arrasado. Estamos claros?"
+        },
+        {
+            "id": 111,
+            "model": "이스마엘",
+            "content": "Você realmente é tão grosseiro quanto parece."
+        },
+        {
+            "id": 112,
+            "model": "히스클리프",
+            "content": "…Morrer uma vez não foi o suficiente para você?"
+        },
+        {
+            "id": 113,
+            "content": "Heathcliff aperta o bastão com mais força, e Ishmael está pronta para brandir sua arma também."
+        },
+        {
+            "id": 114,
+            "content": "…Eu realmente me tornei o gerente de pessoas que não podem ser paradas nem pela morte?"
+        },
+        {
+            "id": 115,
+            "content": "Enquanto eu estava perdido em pensamentos, toda a tensão no ônibus de repente caiu e congelou."
+        },
+        {
+            "id": 116,
+            "model": "베르길리우스",
+            "content": "Ahem, parece que esse time precisa seriamente de disciplina."
+        },
+        {
+            "id": 117,
+            "model": "히스클리프",
+            "content": "…!"
+        },
+        {
+            "id": 118,
+            "model": "이스마엘",
+            "content": "…"
+        },
+        {
+            "id": 119,
+            "content": "Os Sinners, em rota de colisão, pararam imediatamente."
+        },
+        {
+            "id": 120,
+            "content": "Um par de olhos vermelhos e frios lançou seu olhar entre os dois."
+        },
+        {
+            "id": 121,
+            "model": "베르길리우스",
+            "content": "Regra número um."
+        },
+        {
+            "id": 122,
+            "model": "베르길리우스",
+            "content": "Não deixe que eu ouça o barulho de armas se chocando dentro do ônibus."
+        },
+        {
+            "id": 123,
+            "model": "베르길리우스",
+            "content": "Se algum de vocês quebrar essa regra a partir de agora…"
+        },
+        {
+            "id": 124,
+            "model": "베르길리우스",
+            "content": "Você vai implorar para que eu deixe você morrer."
+        },
+        {
+            "id": 125,
+            "model": "베르길리우스",
+            "content": "Tenho certeza de que você sabe que sou capaz disso e muito mais, certo?"
+        },
+        {
+            "id": 126,
+            "content": "O único som que quebrava o silêncio era o de Sinclair se contorcendo no chão."
+        },
+        {
+            "id": 127,
+            "content": "Heathcliff olhou feio, mas não conseguiu argumentar."
+        },
+        {
+            "id": 128,
+            "model": "베르길리우스",
+            "content": "Dante, me desculpe por isso. Preciso que você rebobine mais uma vez."
+        },
+        {
+            "id": 129,
+            "model": "단테",
+            "content": "<Tenho que fazer isso de novo…?>"
+        },
+        {
+            "id": 130,
+            "content": "Eu preferiria morrer do que ter que suportar aquela dor angustiante mais uma vez. Eu balancei minha cabeça em desânimo."
+        },
+        {
+            "id": 131,
+            "content": "O leve indício de um sorriso no rosto de Vergilius desaparece enquanto sua expressão muda."
+        },
+        {
+            "id": 132,
+            "model": "베르길리우스",
+            "content": "…É melhor você se abrir enquanto ainda estou me sentindo generoso o suficiente para pedir e pedir desculpas, Gerente Dante."
+        },
+        {
+            "id": 133,
+            "model": "베르길리우스",
+            "content": "Ah, caso você esteja se recusando simplesmente porque não quer mais dor, eu posso te ajudar com isso com prazer."
+        },
+        {
+            "id": 134,
+            "model": "베르길리우스",
+            "content": "Esse grau de dor não vai parecer nada quando eu terminar. Certamente você será uma pessoa mais forte depois, certo?"
+        },
+        {
+            "id": 135,
+            "model": "오티스",
+            "content": "Ouvi corretamente? Tenho quase certeza de que nosso gerente claramente recusou seu pedido."
+        },
+        {
+            "id": 136,
+            "model": "베르길리우스",
+            "content": "Você… Este não é o momento de intervir."
+        },
+        {
+            "id": 137,
+            "model": "오티스",
+            "content": "Quando entrei na empresa, fui informado que o Gerente Executivo seria meu superior, não você."
+        },
+        {
+            "id": 138,
+            "model": "오티스",
+            "content": "Eu diria que o gerente deixou isso claro com um balançar de cabeça."
+        },
+        {
+            "id": 139,
+            "model": "베르길리우스",
+            "content": "Entendo, então o assessor deles decidiu intervir, é isso?"
+        },
+        {
+            "id": 140,
+            "model": "베르길리우스",
+            "content": "Então é a minha vez de deixar claro o que quero dizer."
+        },
+        {
+            "id": 141,
+            "content": "O tom vermelho dos seus olhos ficou mais profundo, para meu pavor."
+        },
+        {
+            "id": 142,
+            "content": "…Eu realmente não sei o que devo fazer como gerente, ou se eu mereço assumir esse papel."
+        },
+        {
+            "id": 143,
+            "content": "Mas senti que deveria pelo menos parar por aqui para não nos metermos numa confusão ainda maior."
+        },
+        {
+            "id": 144,
+            "content": "Reviver um deve doer menos do que reviver doze de uma vez…"
+        },
+        {
+            "id": 145,
+            "model": "단테",
+            "content": "<Outis… Vou voltar o relógio. Está tudo bem.>"
+        },
+        {
+            "id": 146,
+            "content": "Vergilius percebeu que eu estava fazendo sinal para que ela se abaixasse e desviou o brilho vermelho do seu olhar, como se estivesse em entendimento mútuo."
+        },
+        {
+            "id": 147,
+            "model": "베르길리우스",
+            "content": "Boa ideia."
+        },
+        {
+            "id": 148,
+            "model": "오티스",
+            "content": "…Como desejar, Gerente."
+        },
+        {
+            "id": 149,
+            "content": "Outis pareceu querer dar sua opinião, mas ela prontamente recuou e se endireitou."
+        },
+        {
+            "id": 150,
+            "content": "A porta vermelha me cumprimentou novamente, junto com a sensação de torção."
+        },
+        {
+            "id": 151,
+            "content": "Desisti de tentar descrever as dores pelas quais passo."
+        },
+        {
+            "id": 152,
+            "content": "De qualquer forma, as palavras não podem expressar isso completamente."
+        },
+        {
+            "id": 153,
+            "model": "싱클레어",
+            "content": "…Th, muito obrigado…"
+        },
+        {
+            "id": 154,
+            "content": "Sinclair se levantou com um gemido de dor e fez uma reverência para mim antes de voltar cambaleando para seu assento."
+        }
+    ]
+}

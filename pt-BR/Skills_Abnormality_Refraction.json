@@ -1,0 +1,827 @@
+{
+    "dataList": [
+        {
+            "id": 851001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crying Slap",
+                    "desc": "[WhenUse]Target perde 15 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5 naed e +5 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gloomy Slap",
+                    "desc": "[StartDuel]Target cura 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[AlwaysUse]Causar danos sp sp por metade dos danos exibidos"
+                                },
+                                {
+                                    "desc": "[AlwaysUse]Nenhum dano da HP é causado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Melty Eyeball",
+                    "desc": "[WhenUse]Target perde 5 sp\nSe o SP da Target estiver abaixo de 0, +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Dano de bônus de acordo com o afundamento do alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]De dano SP bônus de acordo com o afundamento do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gushing Gloom",
+                    "desc": "[WhenUse]Target perde 5 sp\nTem como alvo o inimigo com mais afundamento",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Dano de bônus de acordo com o afundamento do alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]De dano SP bônus de acordo com o afundamento do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Eyeball Weight",
+                    "desc": "[DefeatDuel]Cancelar todas as habilidades[DefeatDuel]Ganhe 3 frágeis\nSe o alvo estiver abaixo de 0 sp, +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Duplo alvo de afundamento e sua contagem"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Melted Eyeball",
+                    "desc": "[WhenUse]Target perde 5 sp\nSe o SP da Target estiver abaixo de 0, +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]De dano SP bônus de acordo com o afundamento do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Melted Eyeball",
+                    "desc": "[WhenUse]Target perde 5 sp\nSe o SP da Target estiver abaixo de 0, +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Dano de bônus de acordo com o afundamento do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851008,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Croohoo",
+                    "desc": "[StartBattle]Ganhe 2 proteção",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 851901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Booting Town Tour",
+                    "desc": "[WhenUse]Ganhe +4 contagem de cobrança",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Welcome to the Tour",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 Plus Coin Drop no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Please Cooperate!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Processing Transfer Reg",
+                    "desc": "[WhenUse]Gastar toda a contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Coloque o alvo em cativeiro"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pleased to Meet You, Dear Neighbor",
+                    "desc": "[CantDuel]Ataques alvo em cativeiro",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 queimadura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "System Error Detected",
+                    "desc": "Fique escalonado no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Gastar 2 cobrança para infligir 5 queimaduras"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Gastar 2 cobrança para infligir 5 queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851907,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Processing Computation",
+                    "desc": "[WhenUse]Ganhe 5 proteção",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 851908,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rebooting…",
+                    "desc": "",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 851909,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Processing Transfer Reg",
+                    "desc": "[CantDuel]\n[CantChangeTarget]Unidade de alvos com a maioria dos HP[WhenUse]Gastar toda a cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Coloque o alvo em cativeiro"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Do Not Enter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Subdue",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Forbid Entry",
+                    "desc": "[DefeatDuel]Cura 10 hp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Causar dano HP igual à potência de ruptura\nRemova toda a ruptura do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suspicious Individuals",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Restrain",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No Trespassing",
+                    "desc": "Tem como alvo a unidade com mais HP",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se a moeda 1 atingir as cabeças, +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se a moeda 2 aterrissar as cabeças, +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se as moedas 2 e 3 cabeças terrestres, +30% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dāna",
+                    "desc": "[WhenUse]Aplique 2 proteção a um outro aliado aleatório",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 danos na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Expound Sutras",
+                    "desc": "[WhenUse]Aplique 2 ataque de ataque a um outro aliado aleatório",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Aplicar 2 ataques de ataque até um outro aliado aleatório na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mahāsrī",
+                    "desc": "[WhenUse]Dê 3 proteção na próxima curva",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 852704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Svāhā",
+                    "desc": "[WhenUse]Dê 3 danos no próximo turno",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 852705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Prajñāpāramitā",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais karma\nCausar mais danos baseados no karma da Target (+2% por contagem)\nSe o alvo não tiver karma, -50% dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver karma, infligir 50 karma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dhyāna",
+                    "desc": "[WinDuel]Pela metade os efeitos de status negativo nesta unidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852707,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Compulsory Offering",
+                    "desc": "[DefeatDuel]Aplique 20 karma a um outro aliado aleatório na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 20 karma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852708,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sluggard Waker",
+                    "desc": "[DefeatDuel]Aplique 20 karma a um outro aliado aleatório na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 karma"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 karma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852709,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mantra",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Remova 3, por exemplo, recursos de uma afinidade aleatória"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Remova 3, por exemplo, recursos de uma afinidade aleatória"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852710,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sluggard Waker",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 samsara"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 paralisar a próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Infligir 3 curva frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bodhi Svāhā",
+                    "desc": "[WhenUse]Ganhe 10 danos elevados\nAlvos inimigos escalonados primeiro",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 852801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Drive",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 dano no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "…Be Cleansed",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Inquisitional Retribution",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rápidamente~",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 Plus Coin Drop no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pañata Party~!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 mais moedas queda na próxima curva"
+                                }
+                            ]
+                        },
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 curva frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 853001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flesh Surge",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 853002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dominate Mind",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 dano no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,758 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Dante's Room",
+            "model": "단테2",
+            "content": "<... Certo, acho que podemos concluir nossa sessão de consulta aqui.>"
+        },
+        {
+            "id": 1,
+            "content": "Tenho mantido consultas regulares com os Sinners há algum tempo."
+        },
+        {
+            "id": 2,
+            "content": "Minha sessão com Heathcliff terminou mais cedo do que eu esperava."
+        },
+        {
+            "id": 3,
+            "model": "단테2",
+            "content": "<Então... o que você está escrevendo nesse caderno?>"
+        },
+        {
+            "id": 4,
+            "model": "히스클리프2",
+            "content": "Ah, isso?"
+        },
+        {
+            "id": 6,
+            "model": "히스클리프2",
+            "content": "Achei que escrevê-los poderia ser útil mais tarde. Caso eu tenha que lembrar de algo."
+        },
+        {
+            "id": 7,
+            "content": "Heathcliff está segurando aquele caderno nas mãos desde que esta sessão começou..."
+        },
+        {
+            "id": 8,
+            "content": "Não parecia que ele estava fazendo um registro completo de toda a nossa conversa; era mais como se ele estivesse anotando coisas que pareciam dignas de serem lembradas."
+        },
+        {
+            "id": 9,
+            "model": "단테2",
+            "content": "<Você está escrevendo sobre... Catherine?>"
+        },
+        {
+            "id": 10,
+            "model": "히스클리프2",
+            "content": "Não vou negar que isso faz parte."
+        },
+        {
+            "id": 11,
+            "content": "A expressão dele se torna inescrutávelmente complexa ao ouvir o nome dela; ele respira fundo e solta um suspiro profundo."
+        },
+        {
+            "id": 12,
+            "content": "Ele sorri sem jeito antes de deslizar seu caderno sobre a mesa em minha direção."
+        },
+        {
+            "id": 13,
+            "content": "Dou uma olhada rápida nas páginas. O conteúdo é tão desorganizado e caótico quanto sua caligrafia..."
+        },
+        {
+            "id": 14,
+            "content": "Mas..."
+        },
+        {
+            "id": 15,
+            "content": "Também notei que várias dessas notas desorganizadas são registros de suas memórias com Catherine, rabiscadas ao lado de notas de momentos significativos em nossa jornada. Registros de memórias que ele não quer perder."
+        },
+        {
+            "id": 16,
+            "model": "히스클리프2",
+            "content": "... Bem, não é nada importante."
+        },
+        {
+            "id": 17,
+            "model": "히스클리프2",
+            "content": "Certo, se terminamos aqui, estou indo."
+        },
+        {
+            "id": 18,
+            "content": "Heathcliff pega o caderno e sai da sala. Eu pego um vislumbre de sua expressão amarga enquanto ele passa pela porta."
+        },
+        {
+            "id": 19,
+            "content": "... Não demora muito para que Rodya praticamente irrompa pela porta."
+        },
+        {
+            "id": 20,
+            "model": "로쟈",
+            "content": "Ei, vi o Heathcliff saindo da sala agora mesmo e pensei que era minha vez. Foi uma reunião bem rápida, hein?"
+        },
+        {
+            "id": 21,
+            "model": "단테2",
+            "content": "<Sim, nós realmente não conversamos sobre muita coisa.>"
+        },
+        {
+            "id": 22,
+            "model": "로쟈",
+            "content": "Não sei o que deu nele ultimamente. Ele tem estado tão... manso?"
+        },
+        {
+            "id": 23,
+            "model": "단테2",
+            "content": "<Bem, não estou reclamando... Por que você não se senta, Rodya?>"
+        },
+        {
+            "id": 24,
+            "content": "Rodya cantarolou alegremente enquanto se sentava. Ela realmente não parecia muito diferente de seu eu habitual."
+        },
+        {
+            "id": 25,
+            "content": "Nossas \"consultas\" geralmente consistiam em alguma conversa fiada e observá-la mastigando alguns salgadinhos, mas..."
+        },
+        {
+            "id": 26,
+            "model": "단테2",
+            "content": "<Ei, então... acho que há algo sobre o qual precisamos conversar hoje.>"
+        },
+        {
+            "id": 27,
+            "model": "로쟈",
+            "content": "S-sim? Ooh, você está tão sério hoje. O que foi~?"
+        },
+        {
+            "id": 28,
+            "model": "단테2",
+            "content": "<Você se lembra do que me perguntou quando estávamos lidando com o Caso do Tempo Matando o Tempo, Rodya?>"
+        },
+        {
+            "id": 29,
+            "model": "로쟈",
+            "content": "... Não sei, o que eu disse?"
+        },
+        {
+            "id": 30,
+            "content": "Bastante*."
+        },
+        {
+            "id": 31,
+            "content": "Rodya cuidadosamente desvia o olhar, seus dedos brincando com os lanches preparados para essas consultas. Estou começando a ficar incerto se este é um bom momento para trazer isso à tona quando ela ainda é tão obviamente evasiva sobre isso."
+        },
+        {
+            "id": 32,
+            "content": "Eu realmente não quero que o clima fique tão frio quanto ficou durante a investigação..."
+        },
+        {
+            "id": 33,
+            "content": "... mas essa atitude excessivamente alegre e tagarela é apenas um curativo colocado de qualquer jeito sobre uma cicatriz que ainda dói, não é?"
+        },
+        {
+            "id": 34,
+            "content": "Sento-me ali, olhando para Rodya e seu sorriso fabricado. Tenho que perguntar."
+        },
+        {
+            "id": 35,
+            "content": "Sim. É exatamente para isso que servem essas consultas. Qual melhor hora para fazer isso do que agora?"
+        },
+        {
+            "id": 36,
+            "model": "단테2",
+            "content": "<Estou falando sobre a vez em que você me perguntou sobre Sonya. Sobre o que teria acontecido se você—>"
+        },
+        {
+            "id": 37,
+            "content": "... O alarme teve que escolher esse momento preciso, quando finalmente criei coragem suficiente para mencionar isso... para disparar."
+        },
+        {
+            "id": 38,
+            "model": "단테2",
+            "content": "<…!>"
+        },
+        {
+            "id": 39,
+            "model": "단테2",
+            "content": "<Espere, isso foi...!>"
+        },
+        {
+            "id": 40,
+            "content": "Eu me levanto reflexivamente ao ouvir o alarme estridente."
+        },
+        {
+            "id": 41,
+            "content": "Alguns segundos depois, ouço alguém digitando no sistema de som do ônibus."
+        },
+        {
+            "id": 42,
+            "content": "E não muito tempo depois, um breve *bzzt* toca no alto-falante instalado no meu quarto."
+        },
+        {
+            "id": 43,
+            "model": "오티스",
+            "content": "Aa-ah. Aa-ah. Testando. Anunciando do assento do motorista: todas as unidades que vão para R&R no ônibus devem se reunir no corredor o mais rápido possível."
+        },
+        {
+            "id": 44,
+            "model": "오티스",
+            "content": "Repito. Todas as unidades que levam R&R no ônibus—"
+        },
+        {
+            "id": 45,
+            "model": "카론",
+            "content": "... Banco do motorista, banco de Caronte."
+        },
+        {
+            "id": 46,
+            "model": "오티스",
+            "content": "Augh, pare de me puxar! Estou no processo de retransmitir um anúncio muito importante!"
+        },
+        {
+            "id": 47,
+            "model": "카론",
+            "content": "Pare de atrapalhar entre Caronte e Mefi."
+        },
+        {
+            "id": 48,
+            "model": "베르길리우스",
+            "content": "Hahahaha..."
+        },
+        {
+            "id": 49,
+            "content": "O suspiro profundo de Vergilius foi a última coisa que ouvimos do sistema de som do ônibus antes que a breve discussão entre Charon e Outis chegasse a um fim abrupto."
+        },
+        {
+            "id": 50,
+            "model": "로쟈",
+            "content": "Nossa, uma coisa nova de Backdoors? É isso que o alarme geralmente significa, certo?"
+        },
+        {
+            "id": 51,
+            "model": "단테2",
+            "content": "<Vamos ver... Vou adivinhar que esta é para uma Ferrovia de Refração...?>"
+        },
+        {
+            "id": 52,
+            "model": "로쟈",
+            "content": "Bleh, não sou fã dessas ferrovias. Elas são tão exaustivas..."
+        },
+        {
+            "id": 53,
+            "content": "Rodya resmunga por um momento antes de se levantar do assento."
+        },
+        {
+            "id": 54,
+            "content": "Parece que ela está tentando se esquivar de responder minha pergunta..."
+        },
+        {
+            "id": 55,
+            "model": "로쟈",
+            "content": "O que você está esperando, Dante? Vamos lá, você não vai ver o que está acontecendo?"
+        },
+        {
+            "id": 56,
+            "model": "단테2",
+            "content": "<Hum... Sim, estou indo.>"
+        },
+        {
+            "id": 57,
+            "content": "Deixo minhas anotações vazias da consulta para trás e sigo Rodya até o corredor."
+        },
+        {
+            "id": 58,
+            "place": "Bus’s Backdoor",
+            "content": "Para um corredor muito lotado."
+        },
+        {
+            "id": 59,
+            "content": "O murmúrio aumenta cada vez mais; os pecadores estavam compartilhando suas ideias sobre o que seria esse alarme."
+        },
+        {
+            "id": 60,
+            "model": "싱클레어",
+            "content": "Tem que ser a Ferrovia de Refração dessa vez, certo?"
+        },
+        {
+            "id": 61,
+            "model": "그레고르",
+            "content": "Sim. Linha 4, provavelmente... huh. Isso vai ser uma droga, não é?"
+        },
+        {
+            "id": 62,
+            "model": "오티스",
+            "content": "Atenção! O gerente executivo chegou!"
+        },
+        {
+            "id": 63,
+            "model": "오티스",
+            "content": "Ahem. Eu já reuni suas forças em tempo hábil."
+        },
+        {
+            "id": 64,
+            "model": "단테2",
+            "content": "<O-obrigado.>"
+        },
+        {
+            "id": 65,
+            "model": "파우스트",
+            "content": "Bem-vindo, Dante."
+        },
+        {
+            "id": 66,
+            "model": "단테2",
+            "content": "<Ouvi o rádio... É uma Ferrovia de Refração desta vez?>"
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "Sim. A quarta linha da Ferrovia da Refração, para ser exato."
+        },
+        {
+            "id": 68,
+            "model": "로쟈",
+            "content": "Ei, acho que eles estão se acostumando com isso."
+        },
+        {
+            "id": 69,
+            "model": "료슈",
+            "content": "... O QUE É QUE FAZEMOS?"
+        },
+        {
+            "id": 70,
+            "model": "돈키호테",
+            "content": "\"Ai! É um acontecimento a—\""
+        },
+        {
+            "id": 71,
+            "model": "그레고르",
+            "content": "\"Quando... Diabos...\""
+        },
+        {
+            "id": 72,
+            "model": "이상",
+            "content": "Parece que ela está solicitando informações pertinentes à nossa programação em relação à nossa entrada na Ferrovia."
+        },
+        {
+            "id": 73,
+            "model": "싱클레어",
+            "content": "Para ser exato, acho que ela está perguntando... \"Quando diabos vamos entrar?\""
+        },
+        {
+            "id": 74,
+            "content": "Ryōshū, que estava ouvindo com a testa franzida enquanto cada Pecador arriscava seus palpites, parecia ter finalmente encontrado paz."
+        },
+        {
+            "id": 75,
+            "content": "Sinclair estava certo."
+        },
+        {
+            "id": 76,
+            "content": "Ei, pelo menos Gregor e Yi Sang acertaram metade disso também..."
+        },
+        {
+            "id": 77,
+            "content": "Os alarmes de ônibus não eram as únicas coisas que estavam se tornando cada vez mais familiares para nós. Os Sinners estavam realmente se conhecendo também."
+        },
+        {
+            "id": 78,
+            "model": "단테2",
+            "content": "<Bem, vamos dar uma olhada agora mesmo.>"
+        },
+        {
+            "id": 79,
+            "model": "돈키호테",
+            "content": "Então eu abrirei os portões!"
+        },
+        {
+            "id": 80,
+            "place": "Refraction Railway Platform",
+            "content": "A porta se abre com um rangido, e uma luz azul brilhante preenche minha visão."
+        },
+        {
+            "id": 81,
+            "content": "O ambiente azul quase parece diminuir a temperatura do ambiente inteiro."
+        },
+        {
+            "id": 82,
+            "content": "Outra Linha Ferroviária, completamente diferente da Linha 3 e seu tom alaranjado."
+        },
+        {
+            "id": 83,
+            "model": "돈키호테",
+            "content": "Gerente Esquire, veja! Essas cortinas, essas máscaras... Eu digo, visões de festa estão diante de nós, com certeza!"
+        },
+        {
+            "id": 84,
+            "model": "단테2",
+            "content": "<Máscaras?>"
+        },
+        {
+            "id": 85,
+            "content": "Sigo Don Quixote, que havia fugido sozinho novamente, com meus olhos. Era como ela disse; as paredes estavam forradas com várias máscaras, cada uma usando expressões diferentes."
+        },
+        {
+            "id": 86,
+            "content": "Eu me pergunto se isso tem algo a ver com o tema dos inimigos que estamos prestes a encontrar aqui..."
+        },
+        {
+            "id": 87,
+            "model": "돈키호테",
+            "content": "Ooooh?! Oi, vocês aqui, todos! Aqui está uma mulher, sua aparência é uma imagem cuspida de Lady Outis!"
+        },
+        {
+            "id": 88,
+            "model": "오티스",
+            "content": "... O que?"
+        },
+        {
+            "id": 89,
+            "content": "Havia urgência em sua voz. Corri rapidamente para onde Dom Quixote estava com os outros pecadores a reboque."
+        },
+        {
+            "id": 90,
+            "content": "E lá estava ela, uma cópia exata de Outis, parada diante de nós."
+        },
+        {
+            "id": 91,
+            "content": "... Espero que não seja nada sério..."
+        },
+        {
+            "id": 92,
+            "model": "그레고르",
+            "content": "Uau... ela não estava brincando."
+        },
+        {
+            "id": 93,
+            "model": "싱클레어",
+            "content": "E-eu espero que isso não seja uma isca deixada por uma Anormalidade ou algo assim..."
+        },
+        {
+            "id": 94,
+            "model": "히스클리프2",
+            "content": "Ei, que tal não tentarmos o destino, garoto?"
+        },
+        {
+            "id": 95,
+            "model": "홍루",
+            "content": "Hm. Mas ela é quieta, diferente de Outis. E envolta em uma sombra estranha."
+        },
+        {
+            "id": 96,
+            "model": "홍루",
+            "content": "Uau~ Olha, aqui está uma que se parece muito comigo~!"
+        },
+        {
+            "id": 97,
+            "content": "Hong Lu estava ao lado de uma forma humanoide que imitava cada movimento que ele fazia."
+        },
+        {
+            "id": 98,
+            "content": "Quando ele levantou as mãos, a forma levantou as mãos. Quando ele fechou os olhos, a forma fechou os olhos."
+        },
+        {
+            "id": 99,
+            "content": "Certo, quase como uma sombra com a escuridão e sua imitação..."
+        },
+        {
+            "id": 100,
+            "model": "단테2",
+            "content": "<Espere, isso... isso parece uma das identidades de Hong Lu.>"
+        },
+        {
+            "id": 101,
+            "content": "Percebo mais duas ou três sombras humanoides paradas por perto."
+        },
+        {
+            "id": 102,
+            "content": "O que está acontecendo?"
+        },
+        {
+            "id": 103,
+            "model": "오티스",
+            "content": "Estaríamos muito melhor se eles fossem algum subproduto de uma Anormalidade. No entanto, se eles são clones..."
+        },
+        {
+            "id": 104,
+            "model": "오티스",
+            "content": "Precisamos agir rapidamente para exterminá-los, Gerente Executivo."
+        },
+        {
+            "id": 105,
+            "model": "오티스",
+            "content": "Peço que você imediatamente nos ordene a nos preparar para a batalha."
+        },
+        {
+            "id": 106,
+            "model": "단테2",
+            "content": "<Me dê um segundo, vou perguntar ao Fausto primeiro se—>"
+        },
+        {
+            "id": 107,
+            "model": "오티스",
+            "content": "Não! Você deve fazer um julgamento neste instante! Se eles são de fato clones, então a Cabeça irá—!"
+        },
+        {
+            "id": 108,
+            "content": "Esta não é a primeira vez que ela é solicitada a tomar uma decisão como essa, mas..."
+        },
+        {
+            "id": 109,
+            "content": "... ela nunca foi tão séria ou tão inflexível sobre isso antes."
+        },
+        {
+            "id": 110,
+            "content": "Yi Sang percebeu a tensão e rapidamente se colocou entre nós dois."
+        },
+        {
+            "id": 111,
+            "model": "이상",
+            "content": "Senhorita Faust... você poderia gentilmente compartilhar o que sabe sobre esse fenômeno?"
+        },
+        {
+            "id": 112,
+            "model": "파우스트",
+            "content": "Sim. Esta entidade não é um clone."
+        },
+        {
+            "id": 113,
+            "model": "파우스트",
+            "content": "Portanto, mesmo que passe uma semana, o Chefe não se mobilizará."
+        },
+        {
+            "id": 114,
+            "content": "Faust assentiu sabiamente, como se tivesse acabado de aprender algo novo, antes de olhar na minha direção."
+        },
+        {
+            "id": 115,
+            "content": "Certo, ela provavelmente quer que eu explique o que é isso. Eu rapidamente soltei a primeira coisa que veio à minha mente."
+        },
+        {
+            "id": 116,
+            "model": "단테2",
+            "content": "<... Esse parece um Peccatulum.>"
+        },
+        {
+            "id": 117,
+            "content": "... Eu não tinha certeza absoluta, mas essa é a sensação que eu estava acostumado a sentir sempre que encontrávamos a Peccatula."
+        },
+        {
+            "id": 118,
+            "model": "오티스",
+            "content": "Do pecado..."
+        },
+        {
+            "id": 119,
+            "model": "이스마엘",
+            "content": "Ele está imitando cegamente o que quer que Hong Lu esteja fazendo. Não tenho certeza se tem muito, ou algo, em termos de consciência ou ego. Também não parece uma cópia um-para-um dele."
+        },
+        {
+            "id": 120,
+            "model": "이상",
+            "content": "Por favor, acalme-se, senhorita Outis. Parece que alguma coisa a deixou nervosa."
+        },
+        {
+            "id": 121,
+            "content": "Outis faz uma reverência, o constrangimento é aparente, mas sua mente clareia com o alívio."
+        },
+        {
+            "id": 122,
+            "model": "오티스",
+            "content": "Minhas mais profundas desculpas, Gerente Executivo. Eu não deveria ter agido de forma tão desagradável diante de você."
+        },
+        {
+            "id": 123,
+            "content": "Claramente, ainda tenho muito a aprender sobre os Sinners. Cada instância desses momentos parece revelar algo novo."
+        },
+        {
+            "id": 124,
+            "content": "Eu estava tentando entender melhor a expressão de Outis quando Heathcliff de repente fez uma pergunta em voz alta."
+        },
+        {
+            "id": 125,
+            "model": "히스클리프2",
+            "content": "Hum... Eu pensei que essas 'Peccatulas' deveriam parecer monstros, não é?"
+        },
+        {
+            "id": 126,
+            "model": "파우스트",
+            "content": "Distorções e a Peccatula não devem ser julgadas com base em uma referência baseada no \"senso comum\", como sua aparência física."
+        },
+        {
+            "id": 127,
+            "model": "싱클레어",
+            "content": "M-mas você acha que podemos lidar com eles?"
+        },
+        {
+            "id": 128,
+            "model": "이스마엘",
+            "content": "Ah, sim. Se eles vão nos atacar como fizeram na mansão, ou se eles conseguirem de alguma forma copiar Vergilius... isso vai ser um problema."
+        },
+        {
+            "id": 129,
+            "model": "이상",
+            "content": "Lembre-se das Ferrovias de Refração que sofremos antes da chegada desta. Ela não deve apresentar diante de nós um inimigo que não podemos derrotar. No entanto, o processo será tão extenuante quanto sempre foi, eu suspeito."
+        },
+        {
+            "id": 130,
+            "model": "파우스트",
+            "content": "Fausto está ciente de que esta entidade é um Peccatulum of Envy... Peccatulum Invidiae. Considerando as forças da Peccatula que enfrentamos até agora, é improvável que encontremos inimigos muito além de nossa capacidade de derrotar."
+        },
+        {
+            "id": 131,
+            "model": "뫼르소",
+            "content": "Mm. A falta de um sistema preciso de rotulagem em camadas significa que é difícil fazer um julgamento subjetivo."
+        },
+        {
+            "id": 132,
+            "model": "이스마엘",
+            "content": "Falando nisso, qual é a previsão para os novos níveis de risco e classificações para Peccatula e as distorções?"
+        },
+        {
+            "id": 133,
+            "model": "파우스트",
+            "content": "O LCD nos informou que eles fizeram progresso significativo em relação a esse projeto. É provável que mais detalhes sejam compartilhados quando se tornarem mais concretos."
+        },
+        {
+            "id": 134,
+            "model": "홍루",
+            "content": "Ah, é bom saber~"
+        },
+        {
+            "id": 135,
+            "model": "홍루",
+            "content": "Oops! Parece que a Peccatula está fugindo de repente."
+        },
+        {
+            "id": 136,
+            "content": "Enquanto estávamos ali conversando, um Peccatulum que lembrava Hong Lu de repente o empurrou para o lado e começou a correr para outro lugar."
+        },
+        {
+            "id": 137,
+            "model": "히스클리프2",
+            "content": "Que diabos, cara?! Não fique aí sentado olhando boquiaberto para eles quando estão todos dando uma de safado!"
+        },
+        {
+            "id": 138,
+            "content": "Heathcliff também correu atrás da figura, mas logo parou de repente antes de começar a recuar lentamente."
+        },
+        {
+            "id": 139,
+            "model": "히스클리프2",
+            "content": "Nossa..."
+        },
+        {
+            "id": 140,
+            "content": "Um trem do metrô entra na plataforma com uma buzina alta."
+        },
+        {
+            "id": 141,
+            "content": "Atrás das janelas eu vejo... um vagão de metrô cheio até a borda de sombras roxas."
+        },
+        {
+            "id": 142,
+            "content": "... Sombras em forma dos Pecadores."
+        },
+        {
+            "id": 143,
+            "model": "그레고르",
+            "content": "Hum... São... são muitos."
+        },
+        {
+            "id": 144,
+            "model": "싱클레어",
+            "content": "Ugh... Acho que reconheci umas três sombras que se parecem comigo..."
+        },
+        {
+            "id": 145,
+            "content": "Aquela visão ridícula foi o suficiente para nos fazer parar, permitindo que o Peccatulum embarcasse no vagão do metrô..."
+        },
+        {
+            "id": 146,
+            "content": "E a porta se fechou atrás dele."
+        },
+        {
+            "id": 147,
+            "model": "이상",
+            "content": "Eu sinto... algo de inquietação vindo desta Ferrovia de Refração."
+        },
+        {
+            "id": 148,
+            "model": "그레고르",
+            "content": "Pessoal, tem mais um vindo por aí!"
+        },
+        {
+            "id": 149,
+            "content": "Assim que o trem do metrô que transporta a Peccatula sai da estação, um novo começa a chegar."
+        },
+        {
+            "id": 150,
+            "content": "Para meu alívio, este não parece estar lotado de pessoas das sombras."
+        },
+        {
+            "id": 151,
+            "model": "단테2",
+            "content": "<Mas... o que é isso?>"
+        },
+        {
+            "id": 152,
+            "model": "단테2",
+            "content": "<Existem cortinas e... máscaras? Não me lembro de ter visto nada parecido nas últimas ferrovias que desafiamos.>"
+        },
+        {
+            "id": 153,
+            "model": "료슈",
+            "content": "Que falta de inspiração."
+        },
+        {
+            "id": 154,
+            "model": "로쟈",
+            "content": "Ei, eu não tinha percebido antes por causa de toda aquela confusão com clones e tudo mais, mas ... esse trem não parece muito mais elaborado do que os que vimos antes?"
+        },
+        {
+            "id": 155,
+            "model": "홍루",
+            "content": "Certo~ É adornado com todos os tipos de decorações."
+        },
+        {
+            "id": 156,
+            "content": "No momento em que os pecadores estavam boquiabertos com a ostentação do trem, algo irrompeu da porta do vagão."
+        },
+        {
+            "id": 157,
+            "model": "싱클레어",
+            "content": "Aah-woagh! H-huh, essa coisa acabou de desenrolar um tapete para nós...?"
+        },
+        {
+            "id": 158,
+            "model": "단테2",
+            "content": "<É como se algo nos convidasse a entrar ali...>"
+        },
+        {
+            "id": 159,
+            "model": "이상",
+            "content": "Não gosto desse tipo de convite..."
+        },
+        {
+            "id": 160,
+            "content": "Concordei com Yi Sang. Este não é um convite que eu ficaria feliz em aceitar, mas..."
+        },
+        {
+            "id": 161,
+            "content": "... Tenho certeza de que enfrentaremos coisas ainda piores em nossa jornada. Aproveitarei cada chance que tivermos para fortalecer os Sinners."
+        },
+        {
+            "id": 162,
+            "model": "단테2",
+            "content": "<...Vamos lá.>"
+        },
+        {
+            "id": 163,
+            "content": "Dei meus primeiros passos no carpete..."
+        },
+        {
+            "id": 164,
+            "content": "... e embarcou no metrô."
+        }
+    ]
+}

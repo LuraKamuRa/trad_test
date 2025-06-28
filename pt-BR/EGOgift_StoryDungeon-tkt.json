@@ -1,0 +1,189 @@
+{
+    "dataList": [
+        {
+            "id": 2036,
+            "name": "Silver Watch Case",
+            "desc": "Ao causar dano a um inimigo com Skills de Ataque (Sem contar Skills E.G.O) que infligem Potência de [Vibração], Contagem ou Tremor Único, cause +10% a mais de dano.\n\nSe a Skill ativou [VibraçãoExplosão] no inimigo pela primeira vez neste turno, inflija +2 [Vibração] Contagem no próximo turno (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2036,
+                    "simpleDesc": "Deal +10% more damage"
+                },
+                {
+                    "abilityID": 20361,
+                    "simpleDesc": "Inflict +2 [Vibration] Count next turn"
+                }
+            ]
+        },
+        {
+            "id": 2037,
+            "name": "Faded Watch Case",
+            "desc": "Ao colidir com um inimigo mais rápido, Clash Power +1.\n\nAo causar dano a um inimigo mais rápido, inflija 3 [Vibration] Potency e +2 [Vibration] Count no próximo turno. (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2037,
+                    "simpleDesc": "Clash Power +1"
+                },
+                {
+                    "abilityID": 20371,
+                    "simpleDesc": "Inflict 3 [Vibration] Potency and +2 [Vibration] Count next turn"
+                }
+            ]
+        },
+        {
+            "id": 2038,
+            "name": "Warning Notice",
+            "desc": "Fim do turno: Inflija 1 [Binding] ao inimigo mais rápido no próximo turno. (para Anormalidades, uma Parte)\n\nSe o alvo tiver [Vibração] ou 'Tremor Único', inflija 2 [Binding] em vez disso.\n\nQuando um aliado ataca alvos com [Binding], causa +(5 + (2,5 x valor de [Binding])) mais dano. (máx. 15%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2038,
+                    "simpleDesc": "Apply 1 [Binding] next turn"
+                },
+                {
+                    "abilityID": 20381,
+                    "simpleDesc": "Deal +(5 + (2.5 x [Binding] value)) more damage"
+                }
+            ]
+        },
+        {
+            "id": 2039,
+            "name": "Etched Clock Hands",
+            "desc": "Primeiro Turno Início de uma onda: inflige (9 - Velocidade atual) Potência de [Vibração] a 3 inimigos com a Velocidade mais lenta. (min. 3)\n\nCausa +10% a mais de dano contra alvos com 12+ [Vibração] ou 'Tremor Único' no Início do Turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2039,
+                    "simpleDesc": "Inflict (9 - current Speed) [Vibration] Potency"
+                },
+                {
+                    "abilityID": 20391,
+                    "simpleDesc": "Deal +10% more damage"
+                }
+            ]
+        },
+        {
+            "id": 2040,
+            "name": "Rusted Clock Hands",
+            "desc": "Primeiro Turno Início de uma onda: infligir (9 - Velocidade atual) [Vibração] Potência (min. 3) e (9 - Velocidade atual)/2 [Vibração] Contagem para 1 inimigo com a Velocidade mais rápida. (arredondado para cima; para Anormalidades, uma Parte)\n\nReceba -10% menos dano de alvos com 12+ [Vibração] ou 'Tremor Único' no Início do Turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2040,
+                    "simpleDesc": "Inflict (9 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count"
+                },
+                {
+                    "abilityID": 20401,
+                    "simpleDesc": "Damage Taken -10%."
+                }
+            ]
+        },
+        {
+            "id": 2041,
+            "name": "Chalice of Trickle-down",
+            "desc": "Quando um aliado com Habilidades de Ataque (Não Habilidades E.G.O) que infligem Potência de [Vibração], Contagem ou 'Tremor Único' vence um Clash, inflige 2 Potência de [Vibração] e +2 Contagem de [Vibração]. (2 vezes por turno)\n\nIdentidades Yurodivy: inflige 3 Potência de [Vibração] e +3 Contagem de [Vibração] em vez disso (3 vezes por turno)\n\nSe a Identidade afetada entrar em Clash contra alvos com Níveis de Ofensa mais altos, Poder de Clash +2; causa +20% a mais de dano ao atacar após vencer o Clash.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2041,
+                    "simpleDesc": "Inflict 2 [Vibration] Potency and +2 [Vibration] Count"
+                },
+                {
+                    "abilityID": 20411,
+                    "simpleDesc": "Inflict 3 [Vibration] Potency and +3 [Vibration] Count"
+                },
+                {
+                    "abilityID": 20412,
+                    "simpleDesc": "Clash Power +2, deal +20% more damage"
+                }
+            ]
+        },
+        {
+            "id": 2042,
+            "name": "Prepaid Time Receipt",
+            "desc": "Causa +(5 + (2,5 x diferença de Velocidade))% a mais de dano contra inimigos mais rápidos com 2+ de diferença de Velocidade. (máx. 15%)\n\nFim do Turno: Se um aliado causou dano com uma Habilidade de Ataque (Sem contar Habilidades E.G.O) neste turno contra inimigos mais rápidos com 2+ de diferença de Velocidade, inflija 2 [Binding] e 1 [ResultReduction] ao inimigo no próximo turno. (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2042,
+                    "simpleDesc": "Deal +(5 + (2.5 x Speed difference))% more damage against"
+                },
+                {
+                    "abilityID": 20421,
+                    "simpleDesc": "Inflict 2 [Binding] and 1 [ResultReduction] to the enemy next turn"
+                }
+            ]
+        },
+        {
+            "id": 2043,
+            "name": "Pocket Watch : Type L",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam efeitos de Potência de [Vibração], Contagem ou 'Tremor Único'. (Sem contar Habilidades E.G.O)\n\nPara Habilidades 3 de aliados que infligem Potência de [Vibração], Contagem ou 'Tremor Único': Moeda de Poder +2 e causa +25% a mais de dano.\n\nQuando um aliado que inflige Potência de [Vibração], Contagem ou 'Tremor Único' aciona [Troca_de_Vibração] em um inimigo com Habilidades de Ataque (incluindo Habilidades E.G.O): multiplique a Potência de [Vibração] e Contagem por 1,5 (somente quando realmente Convertê-los em diferentes tipos de 'Tremor') e inflija 5 [DefesaQueda] no próximo turno. (uma vez por turno)\n\nPrimeiro turno Início de uma onda: infligir (12 - Velocidade atual) [Vibração] Potência (min. 6) a 3 inimigos com a Velocidade mais lenta.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2043,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+                },
+                {
+                    "abilityID": 20431,
+                    "simpleDesc": "Multiply [Vibration] Potency and Count by 1.5 when triggering Amplitude Conversion"
+                },
+                {
+                    "abilityID": 20432,
+                    "simpleDesc": "Inflict (12 - current Speed) [Vibration] Potency"
+                }
+            ]
+        },
+        {
+            "id": 2044,
+            "name": "Pocket Watch : Type E",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam efeitos de [Vibração] Potência, Contagem ou 'Tremor Único'. (Sem contar Habilidades E.G.O)\n\nPara Habilidades 3 de aliados que infligem [Vibração] Potência, Contagem ou 'Tremor Único': Moeda de Poder +2 e causa +25% a mais de dano.\n\nQuando um aliado que inflige [Vibração] Potência, Contagem ou 'Tremor Único' causa dano a um inimigo mais lento com 2+ de diferença de Velocidade entre eles: causa +([Vibração] Potência no alvo, máx. 25)% a mais de dano e inflige 2 [DefesaQueda] toda vez que o aliado causa dano (máx. 6)\n\nPrimeiro Turno Início de uma onda: inflige (12 - Velocidade atual) [Vibração] Potência (mín. 6) e (12 - Velocidade atual)/2 [Vibração] Contagem para 1 inimigo com a Velocidade mais rápida. (arredondado para cima; para Anormalidades, uma Parte)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2044,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+                },
+                {
+                    "abilityID": 20441,
+                    "simpleDesc": "Deal +([Vibration] Potency on target)% more damage; inflict 2 [DefenseDown] every time the ally deals damage"
+                },
+                {
+                    "abilityID": 20442,
+                    "simpleDesc": "Inflict (12 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count"
+                }
+            ]
+        },
+        {
+            "id": 2045,
+            "name": "Pocket Watch : Type Y",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam efeitos de Potência de [Vibração], Contagem ou 'Tremor Único'. (Sem contar Habilidades E.G.O)\n\nPara Habilidades 3 de aliados que infligem Potência de [Vibração], Contagem ou 'Tremor Único': Poder de Moeda +2 e causa +25% a mais de dano.\n\nIdentidades Yurodivy: Habilidade 3 ganha Poder de Moeda +2 e causa +(25 + (soma de Potência de [Vibração] e Contagem no alvo))% a mais de dano. (máx. 100%)\n\nIdentidades Yurodivy: ganham +3 Contagem de [Vibração] no Início do Turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2045,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+                },
+                {
+                    "abilityID": 20451,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deal +(25 + (sum of [Vibration] Potency and Count on target))% more damage."
+                },
+                {
+                    "abilityID": 20452,
+                    "simpleDesc": "Gain +3 [Vibration] Count"
+                }
+            ]
+        },
+        {
+            "id": 2046,
+            "name": "Pocket Watch : Type P",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam efeitos de Potência de [Vibração], Contagem ou 'Tremor Único'. (Sem contar Habilidades E.G.O)\n\nPara Habilidades 3 de aliados que infligem Potência de [Vibração], Contagem ou 'Tremor Único': Moeda de Poder +2 e causa +25% a mais de dano.\n\nQuando um aliado que inflige Potência de [Vibração], Contagem ou 'Tremor Único' entra em choque com um inimigo mais rápido com 2+ de diferença de Velocidade: Poder de Choque +2 e causa +(Potência de [Vibração] no alvo)% a mais de dano. (máx. 50%)\n\nInício do Turno: do mais lento para o mais rápido, os 3 aliados mais lentos ganham 5 [Ataque para Cima], 3 [Ataque para Cima] e 2 [Ataque para Cima] respectivamente.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2046,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+                },
+                {
+                    "abilityID": 20461,
+                    "simpleDesc": "Clash Power +2 and deal +([Vibration] Potency on target)% more damage"
+                },
+                {
+                    "abilityID": 20462,
+                    "simpleDesc": "Gain [AttackUp]"
+                }
+            ]
+        }
+    ]
+}

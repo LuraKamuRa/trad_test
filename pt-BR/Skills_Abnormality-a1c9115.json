@@ -1,0 +1,223 @@
+{
+    "dataList": [
+        {
+            "id": 112204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Overthrow",
+                    "desc": "[WhenUse]Ganhe +3[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 10 energia final"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]e +1[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 10 energia final"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[SlashDamageUp]Próximo turno"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 2[SlashResistDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 10 energia final"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 5[Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "To Claim Their Bones",
+                    "desc": "[StartBattle]Ganhe 100 escudo[WhenUse]Se o escudo não estiver totalmente esgotado, Clash Power +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 20 energia final"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 3[SlashResistDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 20 energia final"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]+100% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 10[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 20 energia final"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Se o escudo não estiver totalmente esgotado, divida[Grudge]valor pelo peso ATK e infligi -o como dano fixo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "To Claim Their Bones",
+                    "desc": "[StartBattle]Ganhe 250 escudo[WhenUse]Ganhe +3[Breath]Contar[WhenUse]Se o escudo não estiver totalmente esgotado, Clash Power +10",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 23 poder final"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[SlashResistDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 23 poder final"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]+100% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 5[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 10[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 23 poder final"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Se o escudo não estiver totalmente esgotado, divida[Grudge]valor pelo peso ATK e infligi -o como dano fixo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112309,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "To Claim Their Bones",
+                    "desc": "[CantChangeTarget]Prioriza a unidade com o mínimo de HP[EnemyKill]Dupla o[Grudge]valor.[EnemyKill]Curar o HP igual a[Grudge]valor",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 25 poder final"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 25 poder final"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se esta moeda estiver rachada, perca 25 poder final"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Causar danos fixos iguais a[Grudge]valor."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

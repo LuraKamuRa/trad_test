@@ -1,0 +1,1848 @@
+{
+  "dataList": [
+    {
+      "id": 1030601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Checking the Book",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Checking the Book",
+          "desc": "[[Bracket]] Cura 5 SP em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Checking the Book",
+          "desc": "[[Bracket]] Cura 5 SP em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Proof of Loyalty",
+          "desc": "[[Bracket]] Essa habilidade ganha 1 nível de ofensa por (mais alto a-reson./3) (máximo 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 dano"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Proof of Loyalty",
+          "desc": "[[Bracket]] Essa habilidade ganha 1 nível de ofensa por (mais alto a-reson./3) (máximo 4)\nSe o mais alto a-reson for inveja a-reson, ganhe 50% de nível de ofensa adicional ao nível de ofensa obtido pelo efeito acima (arredondado)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 dano"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Proof of Loyalty",
+          "desc": "[[Bracket]] Essa habilidade ganha 1 nível de ofensa por (mais alto a-reson./2) (máximo 6)\nSe o mais alto a-reson for inveja a-reson., Aumente o nível de ofensa obtido pelo efeito acima em 50% (arredondado)\nGanhe o dobro do nível de ofensa dos efeitos acima nos encontros focados com 7 ou menos limites dos participantes.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 dano"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "A Just Vengeance",
+          "desc": "[[Bracket]] Essa habilidade ganha 1 nível de ofensa por (mais alto a-reson./3) (máximo 4)\nSe o mais alto a-reson for inveja a-reson, ganhe 50% de 'nível de ofensa' adicional ao 'nível de ofensa' obtido pelo efeito acima (arredondado)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo for derrotado, 1 aliado com o menor SP cura 6 sp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "A Just Vengeance",
+          "desc": "[[Bracket]] Essa habilidade ganha 1 nível de ofensa por (mais alto a-reson./2) (máximo 6)\nSe o mais alto a-reson for inveja a-reson., Aumente o nível de ofensa obtido pelo efeito acima em 50% (arredondado)\nGanhe o dobro do nível de ofensa dos efeitos acima nos encontros focados com 7 ou menos limites dos participantes.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo for derrotado, 1 aliado com o menor SP cura 6 sp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Multifold Retribution",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Multifold Retribution",
+          "desc": "[[Bracket]] Com mais de 6 anos de soma da inveja a-reson., Use 'uma vingança justa' como contador.\nAo ativar o efeito acima, a afinidade da habilidade é alterada para inveja.\n('Retribuição multifold' mais à esquerda é ativada primeiro. Ativa 2 vezes por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por 5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "A Just Vengeance",
+          "desc": "[[Bracket]] Essa habilidade ganha 1 nível de ofensa por (mais alto a-reson./3) (máximo 4)\nSe o mais alto a-reson for inveja a-reson, ganhe 50% de nível de ofensa adicional ao nível de ofensa obtido pelo efeito acima (arredondado)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo for derrotado, 1 aliado com o menor SP cura 6 sp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "A Just Vengeance",
+          "desc": "[[Bracket]] Essa habilidade ganha 1 nível de ofensa por (mais alto a-reson./2) (máximo 6)\nSe o mais alto a-reson for inveja a-reson, ganhe 50% de nível de ofensa adicional ao nível de ofensa obtido pelo efeito acima (arredondado)\nGanhe o dobro do nível de ofensa dos efeitos acima em encontros com 6 ou menos limites dos participantes.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo for derrotado, 1 aliado com o menor SP cura 6 sp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Shall Nibble Thee!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "I Shall Nibble Thee!",
+          "desc": "[[Bracket]] Ganhe +1 [[Bracket]] para este slot de habilidade no próximo turno de volta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "I Shall Nibble Thee!",
+          "desc": "[[Bracket]] Ganhe +3 [[Bracket]] para este slot de habilidade no próximo turno da volta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flashing Lure",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Flashing Lure",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] para este slot de habilidade no próximo turno da volta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 2 ou menos [[Bracket]] contagem, infligir +2 [[suporte]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Flashing Lure",
+          "desc": "[[Bracket]] Ganhe +4 [[Bracket]] para este slot de habilidade no próximo turno na próxima curva\n[[Bracket]] Se o Target tiver 6+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 2 or less [Burst] Count, inflict +3 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Whirlwind Om-Nom-Nom!",
+          "desc": "[[Bracket]] Ganhe +3 [[Bracket]] para este slot de habilidade no próximo turno da volta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura 10 hp."
+                },
+                {
+                  "desc": "[[Bracket]] Cura HP adicional baseado em [[suporte]] no alvo (1 hp cicatrizado por 1 [[suporte]]. Max 20)"
+                },
+                {
+                  "desc": "A 50%- hp, reutilize a moeda uma vez"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Whirlwind Om-Nom-Nom!",
+          "desc": "[[Bracket]] Ganhe +5 [[Bracket]] para este slot de habilidade no próximo turno de volta\n[[Bracket]] Se o Target tiver 6+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura 15 hp. Cure em +50% mais HP ao reutilizar a moeda."
+                },
+                {
+                  "desc": "[[Bracket]] Cura HP adicional baseado em [[suporte]] no alvo (2 hp cicatrizado por 1 [[suporte]]. Máx 40)"
+                },
+                {
+                  "desc": "A 50%- hp, reutilize a moeda uma vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chattering Teeth",
+          "desc": "[[Bracket]] Heal HP igual ao restante da escudo HP (uma vez por turno. MAX HEAL Quantidade: 10% do máximo HP)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chattering Teeth",
+          "desc": "[[Bracket]] Se o Target tiver 6+ [[Bracket]], Power final +3\n[[Bracket]] Heal HP igual ao restante da escudo HP (uma vez por turno. MAX HEAL Quantidade: 10% do máximo HP)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Draw of the Sword",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Draw of the Sword",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Draw of the Sword",
+          "desc": "[[Estilo de tag]] em 5+ [[backet]] em si mesmo, poder de moeda +1\n[[Estilo de tag]] [[Bracket]] Ganhe +2 [[Bracket]] Count Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blade Arc",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] a 1 aliado sem [[suporte]] ou com o mínimo [[suporte]] potência, aplique 2 [[bracket]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Blade Arc",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] a 1 aliado sem [[suporte]] ou com o mínimo [[suporte]] potência, aplique 2 [[bracket]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Blade Arc",
+          "desc": "[[Estilo de tag]] em 7+ [[backet]] em si mesmo, poder de moeda +1\n[[Estilo de tag]] [[Bracket]] Ganhe +2 [[Bracket]] Count Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] a 1 aliado sem [[suporte]] ou com o mínimo [[suporte]] potência, aplique 2 [[bracket]]\n[[Estilo de tag]] Se o aliado afetado for da linhagem da lâmina, aplique 2 adicionais [[backet]] [[estilo tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Fare Thee Well!",
+          "desc": "[[Bracket]] Ganhe 5 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] A moeda final causa +10% de dano"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] A moeda final causa +10% de dano"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {},
+                {
+                  "desc": "[[Bracket]] a 2 aliados, sem [[suporte]] ou com o mínimo [[suporte]], aplique +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo for derrotado, ganhe 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fare Thee Well!",
+          "desc": "[[Estilo de tag]] em 10+ [[backet]] em si mesmo, poder de moeda +1\n[[Estilo de tag]] [[Bracket]] Ganhe 5 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] A moeda final causa +10% de dano"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] A moeda final causa +10% de dano"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {},
+                {
+                  "desc": "+30% de dano no acerto crítico"
+                },
+                {
+                  "desc": "[[Bracket]] a 2 aliados, sem [[suporte]] ou com o mínimo [[suporte]], aplique +2 [[bracket]] contagem.\n[[Estilo de tag]] Se o aliado afetado for da linhagem da lâmina, aplique 2 contagem adicional [[backet]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo for derrotado, [[estilo de tag]] Aplique 1 [[Bracket]] para si mesmo e 1 Random Other Ally Next Turn [[estilo tag-estilo]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Evade",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let Us Prepare To Collect",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Let Us Prepare To Collect",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count\n[[Estilo de tag]] [[backet]] se o alvo tiver 6+ [[suporte]], poder de conflito +1\n[[Bracket]] Ganhe +3 [[Bracket]] para este slot de habilidade no próximo turno [[estilo de tag]]]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 2 [[estilo de tag-estilo]] [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Let Us Prepare To Collect",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count\n[[Estilo tag-estilo]] [[backet]] Ganhe potência de conflito +1 para cada 6 [[suporte]] no alvo (máximo 2) [[estilo de tag-estilo]]\n[[Bracket]] Ganhe +3 [[Bracket]] para este slot de habilidade no próximo turno da volta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo de tag]] [[backet]] Ganhe +4 [[Bracket]] para este slot de habilidade no próximo turno [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 2 [[estilo de tag-estilo]] [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T Corp. Accelerated Amputator",
+          "desc": "[[Bracket]] Ganhe +3 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] consome até 3 [[suporte]] no alvo e ganhe a mesma quantidade de [[suporte]] contagem em si mesmo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "T Corp. Accelerated Amputator",
+          "desc": "[[Bracket]] Ganhe +3 [[Bracket]] Count\n[[Estilo de tag]] [[Bracket]] Se o Target tiver 6+ [[Bracket]], Power Clash +1 [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] consome até 3 [[suporte]] no alvo e ganhe a mesma quantidade de [[suporte]] contagem em si mesmo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] se os efeitos da moeda dessa habilidade consumidos [[backet]] no alvo, gatilho [[backet]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1 [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "T Corp. Accelerated Amputator",
+          "desc": "[[Bracket]] Ganhe +3 [[Bracket]] Count\n[[Bracket]] [[estilo de tag]] Clash Power +1 para cada 6 [[suporte]] no alvo (máximo 2) [[estilo de tag-estilo]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] consome até 3 [[suporte]] no alvo e ganhe [[estilo de tag]] o dobro da quantidade consumida [[estilo de tag-estilo]] como [[suporte]] contagem em self\n[[Estilo de tag]] infligir ([[bracket]] consumido-1) [[backet]] Next Turn [[estilo tag]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se os efeitos da moeda dessa habilidade consumiram [[bracket]] no alvo, gatilho [[suporte]]; Em seguida, reduza a contagem [[Bracket]] do Target em 1 [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "I Command Thee, Halt!",
+          "desc": "[[Bracket]] Se o Target tiver 6+ [[suporte]], Power Clash +1\n[[Bracket]] Consuma 10 [[Bracket]] Conte com o Self para ganhar o poder da moeda +2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 10+ [[Bracket]], consuma 10 [[Bracket]] no alvo e infligir 2 [[bracket]]]\n- Se esta unidade estiver em um estado [[suporte]], esse efeito não consome o [[suporte]] do alvo]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se a velocidade do alvo for mais lenta que a estação, o gatilho [[suporte]] em [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "I Command Thee, Halt!",
+          "desc": "[[Bracket]] [[estilo de tag]] Clash Power +1 para cada 6 [[suporte]] no alvo (máximo 2) [[estilo de tag-estilo]]\n[[Estilo tag-estilo]] [[backet]] Se o alvo tiver [[backet]], ganho de poder de conflito +1 [[estilo de tag]]]\n[[Bracket]] Consuma 10 [[Bracket]] Conte com o Self para ganhar o poder da moeda +2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] infligir 3 [[backet]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 10+ [[Bracket]], consuma 10 [[Bracket]] no alvo e infligir 2 [[bracket]]]\n-Se esta unidade estiver em um estado [[Bracket]], esse efeito não consome o [[suporte]] [[estilo de tag-estilo]] [[estilo tag-estilo]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1 [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se a velocidade do alvo for mais lenta que a estação desta unidade [[backet]] em [[backet]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Shall Summon the Time",
+          "desc": "[[Bracket]] Se esta unidade não estiver em um estado [[Bracket]], ganhe 4 [[suporte]] na extremidade do turno (uma vez por turno)\n[[Bracket]] Para este turno: Quando atingido por um inimigo, infligir 2 [[suporte]] no alvo próximo (2 vezes por turno)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "I Shall Summon the Time",
+          "desc": "[[Bracket]] Se esta unidade não estiver em um estado [[Bracket]], ganhe 4 [[suporte]] na extremidade do turno (uma vez por turno)\n[[Bracket]] Para este turno: quando atingido por um inimigo, infligir [[estilo de tag]] 3 [[estilo de tag]] [[backet]] no alvo próximo turno ([[estilo tag]] 6 vezes [[estilo de etiqueta]] por turno)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enough is Enough",
+          "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 5 [[suporte]] Esta unidade consumida\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 5 [[Bracket]]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Enough is Enough",
+          "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 5 [[suporte]] Esta unidade consumida\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 5 [[Bracket]]\n[[Estilo de tag]] [[backet]] se o alvo tiver 6+ [[backet]], poder de moeda +1 [[estilo de tag]]]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Enough is Enough",
+          "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 5 [[suporte]] Esta unidade consumida\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 5 [[Bracket]]\n[[Bracket]] [[estilo de tag]] Poder de moeda +1 para cada 6 [[suporte]] no alvo (máximo 2) [[estilo tag-estilo]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let All Blossom Free",
+          "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 10 [[suporte]] Esta unidade consumida\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 5 [[Bracket]]\n[[Bracket]] em 10+ [[Bracket]], Peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "OFERECE +2,5% mais danos para cada [[suporte]] no alvo (no máximo 25%)"
+                },
+                {
+                  "desc": "Acordo +5% mais danos para cada 100 [[suporte]] por si mesmo (máximo 25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Let All Blossom Free",
+          "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 10 [[suporte]] Esta unidade consumida\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 5 [[Bracket]]\n[[Estilo de tag]] [[backet]] se o alvo tiver 6+ [[backet]], poder de moeda +1 [[estilo de tag]]]\n[[Bracket]] [[estilo de tag]] Peso ATK +1 para cada 10 [[suporte]] no Self (máximo 2) [[estilo de tag-estilo]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "OFERECE +2,5% mais danos para cada [[suporte]] no alvo (no máximo 25%)"
+                },
+                {
+                  "desc": "Deal +[[estilo de etiqueta]] 10 [[estilo de tag]]% mais dano para cada 100 [[suporte]] por self (max [[estilo tag-estilo]] 50 [[estilo tag]]%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Let All Blossom Free",
+          "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 10 [[suporte]] Esta unidade consumida\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 5 [[Bracket]]\n[[Bracket]] Power +1 para cada 6 [[suporte]] no alvo (máximo 2) [[estilo de tag]]]\n[[Bracket]] Peso ATK +1 para cada 10 [[suporte]] em Self (Máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "OFERECE +2,5% mais danos para cada [[suporte]] no alvo (no máximo 25%)"
+                },
+                {
+                  "desc": "Deal +[[estilo de etiqueta]] 15 [[estilo de tag]]% mais danos para cada 100 [[suporte]] por Self (max [[estilo de tag-estilo]] 75 [[estilo tag]]%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "I Shall Impale",
+          "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 10)\n[[Bracket]] Clash Power +1 para cada 10 [[suporte]] (Máx 2)\n[[Bracket]] Se o Target tiver 10+ [[suporte]], Power de moedas +1\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 10 [[suporte]] consumido\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 10 [[Bracket]]\n[[Bracket]] Negância +5% mais danos para cada [[suporte]] no alvo (máximo 50%)\n[[Bracket]] Deal +10% mais danos para cada 100 [[suporte]] por Self (máximo 50%)\n[[Bracket]] Se o alvo for derrotado, aumente [[suporte]] em 30; Ganhe 10 [[suporte]] (uma vez por turno)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "I Shall Impale",
+          "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 10)\n[[Bracket]] Clash Power +1 para cada 10 [[suporte]] (Máx 2)\n[[Bracket]] [[estilo de tag]] Poder de moeda +1 para cada 5 [[suporte]] no alvo (máximo 2) [[estilo tag-estilo]]\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 10 [[suporte]] consumido\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 10 [[Bracket]]\n[[Bracket]] Negância +5% mais danos para cada [[suporte]] no alvo (máximo 50%)\n[[Bracket]] Deal +[[estilo de tag]] 20 [[estilo de tag]]% mais danos para cada 100 [[suporte]] por Self (max [[estilo tag-estilo]] 100 [[estilo de tag]]%)\n[[Bracket]] Se o alvo for derrotado, aumente [[suporte]] por [[estilo de tag-estilo]] 60 [[estilo de tag]]; Ganhe 10 [[suporte]] (uma vez por turno)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Laughters Shall Subside",
+          "desc": "[[SUPORTE]]\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 10 [[suporte]]]\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 10 [[Bracket]]\n[[Suporte]] a 1 aliado com o menor HP: aplique 1 [[suporte]] para cada 50 [[suporte]] (máximo 10, uma vez por turno)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Laughters Shall Subside",
+          "desc": "[[SUPORTE]]\n[[Bracket]] consome até 50 [[suporte]] e ganhe 1 [[suporte]] para cada 10 [[suporte]]]\n- Se esta unidade falhou em consumir [[Bracket]], ganhe 10 [[Bracket]]\n[[Bracket]] a 1 aliado com o menor HP: aplique 1 [[suporte]] para cada 50 [[suporte]] (max [[estilo de tag-estilo]] 15 [[estilo tag]], uma vez por turno)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Variant Sancho Hardblood Arts 6 - Whip",
+          "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)\n[[Bracket]] Ganhe 20 [[Bracket]]\n[[Bracket]] infligir +1 mais [[Bracket]] no acerto a cada 10 [[suporte]]. (Máx 2) Após o ataque, consuma 10 [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Variant Sancho Hardblood Arts 6 - Whip",
+          "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)\n[[Estilo de tag]] [[backet]] se o alvo tiver 6+ [[backet]], poder de moeda +1 [[estilo de tag]]]\n[[Bracket]] Ganhe 20 [[Bracket]]\n[[Bracket]] infligir +1 mais [[Bracket]] no acerto a cada 10 [[suporte]]. (Máx 2) Após o ataque, consuma 10 [[suporte]]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Variant Sancho Hardblood Arts 6 - Whip",
+          "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)\n[[Bracket]] [[estilo de tag]] Poder de moeda +1 para cada 6 [[suporte]] no alvo (máximo 2) [[estilo tag-estilo]]\n[[Bracket]] Ganhe 20 [[Bracket]]\n[[Bracket]] infligir +1 mais [[Bracket]] no acerto a cada 10 [[suporte]]. (Máx 2) Após o ataque, consuma 10 [[suporte]]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] ativar [[backet]] no alvo uma vez (o alvo perde 1 [[backet]] contagem) [[estilo tag-estilo]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
+          "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)\n[[Bracket]] Se o Target tiver 6+ [[suporte]], Power de moedas +1\n[[Bracket]] em 10+ [[Bracket]], Peso ATK +1\n[[Bracket]] Se essa habilidade tivesse um peso ATK aumentado, consuma 10 [[Bracket]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "OFERECE +2,5% mais danos para cada [[suporte]] no alvo (no máximo 25%)"
+                },
+                {
+                  "desc": "Acordo +5% mais danos para cada 100 [[suporte]] (no máximo 25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
+          "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)\n[[Bracket]] [[estilo de tag]] Poder de moeda +1 para cada 6 [[suporte]] no alvo (máximo 2) [[estilo tag-estilo]]\n[[Bracket]] [[estilo de tag]] Ganhe peso ATK +1 para cada 10 [[suporte]] (máximo 2) [[estilo de tag]]]\n[[Bracket]] Consuma 10 [[Bracket]] para cada peso ATK ganho",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "OFERECE +2,5% mais danos para cada [[suporte]] no alvo (no máximo 25%)"
+                },
+                {
+                  "desc": "Deal +[[estilo de tag]] 10 [[estilo de tag]]% mais dano para cada 100 [[suporte]] (max [[estilo de tag]] 50 [[estilo tag]]%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
+          "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)\n[[Bracket]] Power +1 para cada 6 [[suporte]] no alvo (máximo 2)\n[[Bracket]] Ganhe Peso ATK +1 para cada 10 [[suporte]] (Máx 2)\n[[Bracket]] Consuma 10 [[Bracket]] para cada peso ATK ganho [[estilo de tag]] [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "OFERECE +2,5% mais danos para cada [[suporte]] no alvo (no máximo 25%)"
+                },
+                {
+                  "desc": "Deal +[[estilo de tag]] 15 [[estilo de tag]]% mais dano para cada 100 [[suporte]] (max [[estilo de tag]] 75 [[estilo tag]]%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031007,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ascendant Sancho Hardblood Arts - La Sangre",
+          "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)\n[[Bracket]] Power Base +1 para cada 10 [[suporte]] em Self (Máx 2)\n[[Bracket]] Se o Target tiver 10+ [[suporte]], Power de moedas +1\n[[Bracket]] Negância +5% mais danos para cada [[suporte]] no alvo (máximo 50%)\n[[Bracket]] Negância +20% mais danos para cada 100 [[suporte]] (máximo 100%)\n[[Bracket]] Consuma 10 [[Bracket]] para cada 10 [[suporte]]]\n[[Bracket]] Se o alvo for derrotado, aumente [[Bracket]] em 50. Recupe a metade de [[suporte]] consumida por essa habilidade (uma vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]] e +4 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo for derrotado, infligir 5 [[suporte]] e +1 [[suporte]] contagem contra todos os inimigos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ascendant Sancho Hardblood Arts - La Sangre",
+          "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)\n[[Bracket]] Power Base +1 para cada 10 [[suporte]] em self (max [[estilo de tag]] 3 [[estilo de tag]]))\n[[Bracket]] [[estilo de tag]] Poder de moeda +1 para cada 5 [[suporte]] no alvo (máximo 2) [[estilo tag-estilo]]\n[[Bracket]] Negância +5% mais danos para cada [[suporte]] no alvo (máximo 50%)\n[[Bracket]] Negância +20% mais danos para cada 100 [[suporte]] (máximo 100%)\n[[Bracket]] Consuma 10 [[Bracket]] para cada 10 [[suporte]]]\n[[Bracket]] Se o alvo for derrotado, aumente [[suporte]] por [[estilo de tag]] 100 [[estilo de tag]]. Recuperar metade de [[suporte]] consumido por essa habilidade (uma vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 8 [[estilo de tag-estilo]] [[backet]] e +4 [[backet]] contagem contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo for derrotado, infligir 5 [[suporte]] e +1 [[suporte]] contagem contra todos os inimigos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Variant Sancho Hardblood Arts 15 - Buildup to Finale",
+          "desc": "[[SUPORTE]]\n[[Bracket]] para (3 + (maior ressonância / 2)) aliados com o menor HP: aplique (1 + ([[suporte]] / 15)) [[bracket]] para cada 40 [[suporte]], então consuma metade de [[suporte]] no eu. (uma vez por aliado; arredondado)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Variant Sancho Hardblood Arts 15 - Buildup to Finale",
+          "desc": "[[SUPORTE]]\n[[Suporte]] para (3 + (mais alto ressonância / 2)) aliados com o menor HP: aplique (1 + ([[suporte]] / [[estilo de tag-estilo]] 10 [[estilo tag]])) [[suporte]] para cada 40 [[suporte]], depois o consumo de metade de [[bracket]] no auto. (uma vez por aliado; arredondado)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fa Jin",
+          "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Power de moeda +1\n[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Fa Jin",
+          "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por [[estilo de tag]] 2 [[estilo de tag]] ou mais, poder de moeda +1\n[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] [[estilo de tag]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] [[estilo de tag]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fa Jin",
+          "desc": "[[Estilo de tag]] Se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder de moeda com base na diferença de velocidade (potência da moeda +1 para cada diferença de velocidade 2; max 2) [[estilo de tag]]]\n[[Bracket]] Gain +[[estilo de tag]] 3 [[estilo de tag-estilo]] [[Bracket]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] infligir +1 [[bracket]] contagem [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Virescent Flame Palm",
+          "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Power de moeda +1\n[[Bracket]] Ganhe 3 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 [[suporte]] para cada 6 [[suporte]] no alvo (máximo 2, uma vez por turno)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Virescent Flame Palm",
+          "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por [[estilo de tag]] 2 [[estilo de tag]] ou mais, poder de moeda +1\n[[Bracket]] Ganhe 3 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] [[estilo de tag]] Ganhe +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] [[estilo de tag]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] para cada 6 [[suporte]] no alvo (max [[estilo tag]] 3 [[estilo de tag-estilo]], uma vez por turno)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Virescent Flame Palm",
+          "desc": "[[Estilo de tag]] Se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder de moeda com base na diferença de velocidade (potência da moeda +1 para cada diferença de velocidade 2; max 2) [[estilo de tag]]]\n[[Bracket]] Ganhe 3 [[Bracket]]\n[[Estilo tag-estilo]]-Ganhe adicional [[backet]] contagem igual a [[bracket]] no alvo [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count [[estilo de tag-estilo]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 2 [[estilo de tag-estilo]] [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] para cada 6 [[suporte]] no alvo (max [[estilo tag]] 5 [[estilo de tag-estilo]], uma vez por turno)\n[[Estilo de tag]]-infligir adicionais [[backet]] igual a [[backet]] no alvo [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Prithee, let this be an enlightening bout",
+          "desc": "OFERECIMENTO +10% MAIS DANOS PARA CADA 1 [[suporte]] no alvo (no máximo 30%)\nSe a velocidade desta unidade for mais rápida que a do alvo por 2 ou mais, Power de moedas +1\n[[Bracket]] Ganhe 5 [[Bracket]]\n- Se o Target tiver [[Bracket]], ganhe 3 adicionais [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal + ([[Bracket]] em Self + [[Bracket]] no alvo)% mais danos no acerto crítico (no máximo 30%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Prithee, let this be an enlightening bout",
+          "desc": "Deal [[estilo de tag]]+15%[[estilo de tag]] Mais danos para cada 1 [[suporte]] no alvo (max [[estilo de tag-estilo]] 45%[[estilo tag]])))\n[[Estilo de tag]] Se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder de moeda com base na diferença de velocidade (potência da moeda +1 para cada diferença de velocidade 2; max 2) [[estilo de tag]]]\n[[Bracket]] Ganhe 5 [[Bracket]]\n- Se o Target tiver [[Bracket]], ganhe 3 adicionais [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal + ([[Bracket]] em Self + [[ShupLet]] no alvo)% Mais danos no acerto crítico (max [[estilo de tag]] 50% [[estilo de tag]]))"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] se o alvo tiver [[backet]], infligir 3 [[backet]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thou'rt in dire need of a lesson in table manners!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thou'rt in dire need of a lesson in table manners!",
+          "desc": "[[Estilo de tag]] Se a velocidade desta unidade for mais rápida que a do alvo, ganhe +1 de energia para cada diferença de velocidade de 2 (max 2) [[estilo de tag-estilo]]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

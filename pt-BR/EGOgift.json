@@ -1,0 +1,380 @@
+{
+    "dataList": [
+        {
+            "id": 1001,
+            "name": "신도의 가면",
+            "desc": "Ao lutar na Zona de Isolamento, reduza o dano recebido em 3 a todos os inimigos por 3 turnos."
+        },
+        {
+            "id": 1002,
+            "name": "허름한 붕대",
+            "desc": "Saúde máxima de todos os aliados +10%"
+        },
+        {
+            "id": 1003,
+            "name": "짓물린 파편",
+            "desc": "Saúde máxima de todos os aliados +20%"
+        },
+        {
+            "id": 1004,
+            "name": "피 묻은 신도의 가면",
+            "desc": "Inflige Fraqueza e Vulnerabilidade 2 a todos os inimigos por 3 turnos durante a batalha no Critério de Isolamento."
+        },
+        {
+            "id": 1005,
+            "name": "흑단 브로치",
+            "desc": "Concede 1 Bind a todos os inimigos no primeiro turno de cada batalha."
+        },
+        {
+            "id": 1006,
+            "name": "종말의 부조",
+            "desc": "Ao atacar, se todas as moedas derem cara, inflige 1 queimadura no alvo."
+        },
+        {
+            "id": 1011,
+            "name": "장난감 주먹",
+            "desc": "+10% de dano a todos os aliados"
+        },
+        {
+            "id": 1012,
+            "name": "장난감 발",
+            "desc": "+1 de velocidade para todos os aliados"
+        },
+        {
+            "id": 1013,
+            "name": "장난감 나사",
+            "desc": "+10% para a saúde máxima de todos os aliados",
+            "abnormalityName": "강화 인간"
+        },
+        {
+            "id": 1014,
+            "name": "무지개 태엽",
+            "desc": "Quando derrotado em um duelo, o dano sofrido ao ser atingido é reduzido em 2."
+        },
+        {
+            "id": 1015,
+            "name": "녹슨 태엽",
+            "desc": "Ao ser derrotado em um duelo, há 50% de chance de reduzir o dano recebido em 2 ao ser atingido."
+        },
+        {
+            "id": 1016,
+            "name": "행복한 얼굴",
+            "desc": "Concede tratamento de emergência a aliados com 25% ou menos de saúde no início do turno. (uma vez por batalha)"
+        },
+        {
+            "id": 1017,
+            "name": "희망찬 눈동자",
+            "desc": "No início de um turno, o personagem com menos HP ganha 1 de Vinculação e recupera 6 HP e Sanidade."
+        },
+        {
+            "id": 1018,
+            "name": "분홍 리본",
+            "desc": "Quando um ataque acerta, há 50% de chance de conceder 1 Fita de Embrulho no início do próximo turno. (uma vez por habilidade)"
+        },
+        {
+            "id": 1031,
+            "name": "용기의 조각",
+            "desc": "Pode ser obtido em eventos específicos dentro da masmorra. Se você tiver 3 ou mais desses DOMES DO EGO na batalha final, Sinclair ganhará um efeito especial."
+        },
+        {
+            "id": 1032,
+            "name": "횃불 더미",
+            "desc": "Comece as próximas 3 batalhas com Aceleração 3. Desaparece após 3 batalhas"
+        },
+        {
+            "id": 1033,
+            "name": "옛 창고의 열쇠",
+            "desc": "Usado para progredir pelas opções no antigo armazém. Ele desaparecerá quando você usar essa opção."
+        },
+        {
+            "id": 1034,
+            "name": "핏빛 갈기",
+            "desc": "Se você não sofreu dano no turno anterior, ganhe Aceleração 3."
+        },
+        {
+            "id": 1035,
+            "name": "경화된 살점",
+            "desc": "Se você não sofreu dano no turno anterior, ganhe Proteção 2. Se você sofreu dano no turno anterior, ganhe Vulnerabilidade 2."
+        },
+        {
+            "id": 1036,
+            "name": "경계하는 눈동자",
+            "desc": "Se você sofreu 10 ou mais de dano no turno anterior, ganhe Vincular 2 e Fortalecer 2 no início do turno."
+        },
+        {
+            "id": 1037,
+            "name": "N사의 인장",
+            "desc": "Ao deixar um inimigo confuso, restaure 5 de saúde e poder mental."
+        },
+        {
+            "id": 1038,
+            "name": "순수함의 증표",
+            "desc": "Poder final da habilidade de atributo de fúria da personalidade que realizou o ritual +2"
+        },
+        {
+            "id": 1039,
+            "name": "눈물의 증표",
+            "desc": "Poder final da habilidade de atributo Depressão da personalidade que realizou o ritual +2"
+        },
+        {
+            "id": 1040,
+            "name": "빛나는 두개골",
+            "desc": "Se você sofreu 10 ou mais de dano no turno anterior, recupere de 5 a 15 de saúde no início do seu turno."
+        },
+        {
+            "id": 1041,
+            "name": "피 흘리는 손",
+            "desc": "Ganhe Força 1 quando sua saúde estiver abaixo de 50%"
+        },
+        {
+            "id": 1042,
+            "name": "조롱하는 혓바닥",
+            "desc": "Poder final da habilidade +1 quando a velocidade do alvo é menor que a sua"
+        },
+        {
+            "id": 1043,
+            "name": "속죄의 증표",
+            "desc": "Poder final da habilidade de atributo luxúria da personalidade que realizou o ritual +2"
+        },
+        {
+            "id": 1044,
+            "name": "의식의 자격",
+            "desc": "Todos os aliados recebem 20% menos dano dos atributos de luxúria"
+        },
+        {
+            "id": 1045,
+            "name": "파고드는 비늘",
+            "desc": "Se você sofreu 10 ou mais de dano no turno anterior, ganhe +2 de dano recebido e +2 de dano causado no início do turno."
+        },
+        {
+            "id": 1046,
+            "name": "초록빛 허물",
+            "desc": "Quando o HP de um aliado chega a 1, ele não morre e recupera 50% do seu HP máximo no próximo turno."
+        },
+        {
+            "id": 1047,
+            "name": "잘린 뱀 머리",
+            "desc": "Quando o HP de um aliado chega a 1, ele não morre e, pelos próximos 2 turnos, ganha Força 3 e Velocidade 3. Quando o estado Imortal termina, o aliado morre."
+        },
+        {
+            "id": 1048,
+            "name": "투구",
+            "desc": "Defesa de todos os aliados +10%"
+        },
+        {
+            "id": 1049,
+            "name": "망치",
+            "desc": "Dano da habilidade de ataque de todos os aliados +10%"
+        },
+        {
+            "id": 1050,
+            "name": "못",
+            "desc": "+10% para o dano da habilidade de penetração de todos os aliados"
+        },
+        {
+            "id": 1051,
+            "name": "못과 망치의 책",
+            "desc": "+20% de dano nas habilidades de atributo de arrogância da personalidade que fez a seleção"
+        },
+        {
+            "id": 9001,
+            "name": "지옥나비의 꿈",
+            "desc": "Efeito de sonho da borboleta do inferno"
+        },
+        {
+            "id": 9002,
+            "name": "도착증",
+            "desc": "Efeito de chegada"
+        },
+        {
+            "id": 9003,
+            "name": "재에서 재로",
+            "desc": "Efeito Cinzas às Cinzas"
+        },
+        {
+            "id": 9004,
+            "name": "혈액 포집팩",
+            "desc": "Efeito do pacote de coleta de sangue"
+        },
+        {
+            "id": 9005,
+            "name": "상처붙이",
+            "desc": "Efeito de aderência à ferida"
+        },
+        {
+            "id": 9006,
+            "name": "커피와 종이학",
+            "desc": "Efeito Café e Grou de Papel"
+        },
+        {
+            "id": 9007,
+            "name": "주홍 나방떼",
+            "desc": "efeito mariposa escarlate"
+        },
+        {
+            "id": 9008,
+            "name": "늘어붙은 쇠말뚝",
+            "desc": "O efeito de uma estaca de ferro grudada"
+        },
+        {
+            "id": 9009,
+            "name": "작열우모",
+            "desc": "Efeito de cabelo queimado"
+        },
+        {
+            "id": 9010,
+            "name": "블러디 가젯",
+            "desc": "Efeito de gadget sangrento"
+        },
+        {
+            "id": 9011,
+            "name": "여우비",
+            "desc": "efeito chuva de raposa"
+        },
+        {
+            "id": 9012,
+            "name": "오늘의 표정",
+            "desc": "Efeito da expressão facial de hoje"
+        },
+        {
+            "id": 9013,
+            "name": "부적 묶음",
+            "desc": "Efeito do pacote de talismã"
+        },
+        {
+            "id": 9014,
+            "name": "녹슨 기념 주화",
+            "desc": "Efeito moeda comemorativa enferrujada"
+        },
+        {
+            "id": 9015,
+            "name": "고혈",
+            "desc": "Efeito da hipertensão"
+        },
+        {
+            "id": 9016,
+            "name": "초록빛 결실",
+            "desc": "Efeito de fruta verde"
+        },
+        {
+            "id": 9017,
+            "name": "문자 석판",
+            "desc": "Efeito de ardósia de letras"
+        },
+        {
+            "id": 9018,
+            "name": "장미 면류관",
+            "desc": "Efeito Coroa de Rosas"
+        },
+        {
+            "id": 9019,
+            "name": "끈적거리는 진액",
+            "desc": "Efeito de seiva pegajosa"
+        },
+        {
+            "id": 9020,
+            "name": "흰 국화",
+            "desc": "Efeito Crisântemo Branco"
+        },
+        {
+            "id": 9021,
+            "name": "쪽빛 지포라이터",
+            "desc": "Efeito Isqueiro Zippo Roxo"
+        },
+        {
+            "id": 9022,
+            "name": "환상통",
+            "desc": "Efeito da dor fantasma"
+        },
+        {
+            "id": 9023,
+            "name": "벼락가지",
+            "desc": "efeito relâmpago"
+        },
+        {
+            "id": 9024,
+            "name": "녹아내린 눈알",
+            "desc": "efeito olho derretido"
+        },
+        {
+            "id": 9025,
+            "name": "잿빛 코트",
+            "desc": "Efeito de casaco cinza"
+        },
+        {
+            "id": 9026,
+            "name": "대기만성형 타투",
+            "desc": "Efeito de tatuagem de longa duração"
+        },
+        {
+            "id": 9027,
+            "name": "가장 낮은 별",
+            "desc": "efeito estrela mais baixa"
+        },
+        {
+            "id": 9028,
+            "name": "편견",
+            "desc": "Efeito preconceito"
+        },
+        {
+            "id": 9029,
+            "name": "작고 나쁠 인형",
+            "desc": "efeito boneca pequena e ruim"
+        },
+        {
+            "id": 9030,
+            "name": "수집하는 해골",
+            "desc": "Efeito de coleta de caveira"
+        },
+        {
+            "id": 9031,
+            "name": "닉시 다이버전스",
+            "desc": "Efeito Divergência Nixie"
+        },
+        {
+            "id": 9032,
+            "name": "꿈을 꾸는 전기양",
+            "desc": "Efeito Ovelha Elétrica em Sonhar"
+        },
+        {
+            "id": 9033,
+            "name": "근무용 통상 배터리",
+            "desc": "Efeito normal da bateria para trabalho"
+        },
+        {
+            "id": 9034,
+            "name": "일점타격논리회로",
+            "desc": "Efeito de circuito lógico de ataque de um ponto"
+        },
+        {
+            "id": 9035,
+            "name": "저주 인형",
+            "desc": "Efeito boneca amaldiçoada"
+        },
+        {
+            "id": 9036,
+            "name": "카르밀라",
+            "desc": "Efeito Carmilla"
+        },
+        {
+            "id": 9037,
+            "name": "플라스크 속의 아이",
+            "desc": "O efeito da criança no frasco"
+        },
+        {
+            "id": 9038,
+            "name": "환상 사냥",
+            "desc": "Efeito de caça de fantasia"
+        },
+        {
+            "id": 9039,
+            "name": "귀로",
+            "desc": "Efeito de orelha"
+        },
+        {
+            "id": 9040,
+            "name": "내일의 운세",
+            "desc": "O efeito da sorte de amanhã"
+        }
+    ]
+}

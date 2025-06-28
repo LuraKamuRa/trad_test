@@ -1,0 +1,79 @@
+{
+    "dataList": [
+        {
+            "id": 10501,
+            "name": "Checking the Boat",
+            "subDesc": "",
+            "desc": "Logo depois de zarpar...\n\n\"Uau!\"\n\n... Começamos a ouvir algo tremendo embaixo do navio.\n\n\"O que é isso...?\"\n\n\"Certamente, pode haver um inimigo embaixo do nosso navio, arranhando!\n\n\"... Sim, isso é sinistro. Devemos dar uma olhada.\"\n\nO que fazemos?",
+            "options": [
+                {
+                    "message": "Verifique embaixo do navio.",
+                    "messageDesc": "Ishmael ganha 10 SP. Prossiga para o próximo prompt de escolha.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Não sabemos o que vai acontecer se fizermos isso. Vamos ficar parados.",
+                    "messageDesc": "Ishmael perde 10 SP. 50% de chance de um Combat Encounter. Ganhe um E.G.O Gift após a vitória",
+                    "result": [
+                        "\"You're going to ignore that? What the hell is...\"\n\nThe annoyed Sinner was about to say something... but stopped herself. Maybe she thought it was a waste of effort.\n\n\"... The scratching noises are intensifying.\"\n\nTo be fair, this is no normal ship... so maybe this ship just makes scratching noises from time to time.\n\n\"... It has ceased.\"\n\n\"Sometimes, inaction can be a solution indeed.\"\n\nFew minutes later, the scratching noises stopped.\n\n... I guess it wasn't the boat that made the noise. We got lucky.",
+                        "\"You're going to ignore that? What the hell is...\"\n\nThe annoyed Sinner was about to say something... before stopping herself. Maybe she thought it was a waste of effort.\n\n\"... The scratching noises are intensifying.\"\n\nTo be fair, this is no normal ship... so maybe this ship just makes scratching noises from time to time.\n\nIf it doesn't...\n\n\"Wait, that reminds me. The pirate ships...\"\n\n\"I guess this is what those spikes were for.\"\n\nThe scratching noises continue to intensify, until it moves to the side of the ship. Soon, the source of scratching noises reveals itself.\n\n... Mermaids.\n\n\"Damnit, we should've checked.\"\n\nI had nothing to say to that.\n\nWe had to fight."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10504,
+            "name": "The Artery",
+            "subDesc": "",
+            "desc": "Essa tem que ser a artéria da qual Ahab estava falando. Assim que cortarmos essa coisa aberta... nosso caminho para o centro do coração se abrirá.",
+            "options": [
+                {
+                    "message": "Corte a artéria.",
+                    "messageDesc": "Prossiga para a próxima opção de prompt",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10505,
+            "name": "Supply Crates",
+            "subDesc": "",
+            "desc": "\"Isso é... uma caixa de madeira?\"\n\nOs Sinners encontraram uma pilha de caixas jogadas ao acaso.\n\n\"Pode-se inferir pela aparência delas que elas seriam usadas como caixas de suprimentos.\"\n\nAlgumas caixas têm o logotipo dos Piratas Twinhook desenhado nelas. Algumas delas têm o logotipo do Before Team.\n\nA Baleia deve ter engolido essas caixas também.\n\n\"É sensato obter algumas delas como nossas provisões!\"\n\nCerto. Não sabemos o que vai acontecer quando chegarmos ao coração.\n\nDevemos levar algumas delas, só por precaução?",
+            "options": [
+                {
+                    "message": "Vasculhe as caixas de suprimentos.",
+                    "messageDesc": "Prossiga para a próxima opção.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Deixar.",
+                    "messageDesc": "Não aconteceu nada.",
+                    "result": [
+                        "Nothing good ever comes from messing with suspicious items like these.\n\nWe left the room as it is."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810601,
+            "name": "Ahab",
+            "subDesc": "",
+            "desc": "\"Eu falhei.\"\n\n\"<...!>\"\n\nIsso é uma ilusão? Ou... isso também é Ishmael?\n\nAtrás do Capitão aparece uma silhueta de Ishmael, envolto naquela membrana pálida.\n\n\"Eu não consegui resolver nada. Eu falhei em tudo.\"\n\n\"Tudo o que consegui fazer foi sobreviver. Pateticamente, como um miserável. Pendurado no caixão do meu querido amigo.\"\n\nO Capitão ri loucamente. \"De fato, Ishmael! Você não conseguiu salvar ninguém! Nem sua tripulação! Nem seu amigo! Ninguém!\"\n\n\"E você vai desistir de novo. Porque você está com medo! Você vai desistir antes mesmo de começar!\"\n\nOs Pecadores começam a ficar agitados.\n\n\"Aquele bastardo sangrento...!\"\n\n\"Não dê ouvidos a ela, Ishmael! E-ela não sabe do que está falando!\n\n\"<......>\"\n\nO Gerente mantém o silêncio.\n\nEntão profere.",
+            "options": [
+                {
+                    "message": "Esse não é Ismael.",
+                    "messageDesc": "Prossiga para a próxima opção.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

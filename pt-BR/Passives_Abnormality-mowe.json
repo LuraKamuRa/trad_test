@@ -1,0 +1,84 @@
+{
+    "dataList": [
+        {
+            "id": 835001,
+            "name": "Stored Blood",
+            "desc": "No final da curva, dependendo do[KeptBlood]valor em si:\n- a um valor menor ou igual a 5[KeptBlood], ganha 1[Binding], 1[Vulnerable]e 1[AttackDown]Próximo turno para cada[KeptBlood]perdido\n- a um valor maior que 5[KeptBlood], ganha 2[AttackUp]e 2[DefenseUp]Para cada valor excessivo"
+        },
+        {
+            "id": 835002,
+            "name": "Must Retain Blood",
+            "desc": "Ganha um novo padrão quando[KeptBlood]chega 0 pela primeira vez\nCorrija a velocidade desta unidade para 10 ao usar a habilidade 'Eu sou ... o príncipe ... do desfile ...!'"
+        },
+        {
+            "id": 835003,
+            "name": "The Prince's Frenzy",
+            "desc": "Quando esta unidade atingir 30% hp, ganho[BloodyCrave]"
+        },
+        {
+            "id": 835004,
+            "name": "Hardblood Glaive",
+            "desc": "Prioriza os alvos com a maior soma de[Laceration]Potência e contagem\nEm sucesso, se o alvo tiver[Laceration], curar 2% hp"
+        },
+        {
+            "id": 835005,
+            "name": "Sanguivore - Coagulation",
+            "desc": "Quando esta unidade tiver[Laceration]:\n- Ganhe 1 ofensa ao nível e 1 nível de defesa a cada 5[Laceration](máximo 10)\n- Ganhe 1 Clash Power Up a cada 10[Laceration](Máx 5)\n- Tome 50% menos dano de[Laceration](arredondado para baixo)"
+        },
+        {
+            "id": 9014501,
+            "name": "Blood Coagulation",
+            "desc": "Ganhe +1[Laceration]Conte toda vez que esta unidade é atingida\nTurn End: Consuma 3[Laceration]Conte consigo mesmo para ganhar 1[HardenedBlood]"
+        },
+        {
+            "id": 9014502,
+            "name": "Thirst for Blood",
+            "desc": "Prioriza os alvos com[Laceration]Turn End: Se esta unidade falhou em causar nenhum dano neste turno, ganhe 2[Vulnerable]e 2[AttackUp]Próximo turno"
+        },
+        {
+            "id": 9014503,
+            "name": "Bloodsucking",
+            "desc": "Tome 10% menos dano de[Laceration](arredondado para baixo)\nEm sucesso, se o alvo tiver[Laceration], curar 10% dos danos causados"
+        },
+        {
+            "id": 9014801,
+            "name": "Rough Bloodsucking",
+            "desc": "Tome 20% menos dano de[Laceration](arredondado para baixo)\nEm sucesso, se o alvo tiver[Laceration], curar 15% dos danos causados"
+        },
+        {
+            "id": 9014802,
+            "name": "Power Leakage",
+            "desc": "Quando atingido, se o atacante usou uma habilidade que ganha[Charge], o atacante rouba 1[Charge]Conte desta unidade.\n(Uma vez por habilidade. Não é ativado se esta unidade não tiver[Charge])"
+        },
+        {
+            "id": 9015101,
+            "name": "Blood to Brain",
+            "desc": "Tome 30% menos dano de[Laceration](arredondado para baixo)\nEm sucesso, se o alvo tiver[Laceration], curar 15% dos danos causados"
+        },
+        {
+            "id": 9015102,
+            "name": "Prosthesis Model - L37",
+            "desc": "Vire início: em menos de 5[Charge]Conte, ganho 1[Reduction]Vire início: às 5+[Charge]Conte, ganha 2[ParryingResultUp]"
+        },
+        {
+            "id": 9015201,
+            "name": "A Young Kindred",
+            "desc": "Tome 30% menos dano de[Laceration](arredondado para baixo)\nEm sucesso, se o alvo tiver[Laceration], curar 25% dos danos causados"
+        },
+        {
+            "id": 9014803,
+            "name": "Tenacious",
+            "desc": "Danos autoinfligidos devido às habilidades desta unidade não reduzem a HP desta unidade abaixo de 1"
+        },
+        {
+            "id": 834801,
+            "name": "Burst Bloodbag",
+            "desc": "Início de combate: inicia o encontro apenas com metade do Max HP"
+        },
+        {
+            "id": 834802,
+            "name": "The Seventh Kindred",
+            "desc": "Ganhe +1 slot para cada aliado a 1 hp (2 vezes máximo)"
+        }
+    ]
+}

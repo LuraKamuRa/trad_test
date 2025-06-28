@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "id": "CandyForCharon",
+      "name": "Candy?",
+      "desc": "- Valor máximo: 1\n- Onde está o doce?",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "TickTockTickTock",
+      "name": "Tick-Tock?!",
+      "desc": "- Heal 10 sp no turno final",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "CandyForCharon_LowMoral",
+      "name": "Candy",
+      "desc": "- Baixo moral\n- Ao conflitar contra identidades com, Clash Power +3; Ao colidir contra outras identidades, o poder de conflito -1",
+      "summary": "Aumento da potência do conflito condicional",
+      "undefined": null
+    },
+    {
+      "id": "CandyForCharon_Panic",
+      "name": "Candy",
+      "desc": "- Pânico\n- Ao conflitar contra identidades com, Clash Power +5; Ao entrar em conflito contra outras identidades, o poder de conflito -2",
+      "summary": "Aumento da potência do conflito condicional",
+      "undefined": null
+    }
+  ]
+}

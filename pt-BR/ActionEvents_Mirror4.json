@@ -1,0 +1,262 @@
+{
+    "dataList": [
+        {
+            "id": 971001,
+            "name": "The Chicken Strife",
+            "desc": "Algumas pessoas estão bloqueando o caminho.\nEles estão sentados em um deck, gritando um com o outro.\n“Olhe para este pedaço suculento! O suco rico escorrendo pelas fibras da carne deliciosa... É disso que se trata o frango!”\n“Errado. Este pedaço tem um sabor limpo, sem um pingo de gordura contaminando a língua. Este é o verdadeiro negócio.”\nOs dois se viram ao mesmo tempo para encará-lo.\n“Você aí! Diga-nos qual é melhor!”",
+            "options": [
+                {
+                    "message": "Frango é frango, duh.",
+                    "messageDesc": "Selecione para ganhar um presente Burn E.G.O e um presente Rupture E.G.O",
+                    "result": [
+                        "“That’s… true.”\n“An irrefutable point.”\nThey lowered their hands and settled down.\n“What a strange thing we were fighting over.”\n“They’re right… The one truth is that the chicken is always right.”\nAfter a passionate handshake, the two gave you their bucket of chicken.\n“A wise gourmet such as yourself deserves both pieces. Please, take this, we insist.”"
+                    ]
+                },
+                {
+                    "message": "Devem ser as coxas, todas ricas e suculentas.",
+                    "messageDesc": "Selecione para ganhar um presente Burn E.G.O",
+                    "result": [
+                        "“You see! The drumsticks are better!”\n“You don’t know what good taste is.”\nThe person holding a chicken breast let out a baffled sigh.\n“Ey! Here’s your reward. You deserve a drumstick of your own.”\nSatisfied, the one with a drumstick handed you another from the bucket.\n“I’m counting on you to keep that leg up!”\nUnsure of what you’re being trusted with, you left the table with the drumstick."
+                    ]
+                },
+                {
+                    "message": "O peito, é claro, imaculado e sem manchas.",
+                    "messageDesc": "Selecione para ganhar um presente Rupture E.G.O",
+                    "result": [
+                        "“There ain’t no way! You’d give up this banquet of juiciness…?”\n“It’s fat, not just juice. The breast is healthy, light, comes in hefty servings, and is easy to eat—it’s obviously the reasonable choice.”\nThe person holding a piece of chicken breast pleasantly remarked.\n“Here, a reward for you. Take this breast.”\nA sizable piece was brought out of the bucket.\n“Best of luck with your gains. I hope you stay healthy.”\nUnsure of what you’re supposed to gain, you left the table with the chicken breast."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971003,
+            "name": "Tango of Poultry Passion",
+            "desc": "Um holofote brilhante brilha em uma parte da área barulhenta.\nParece que as galinhas estão participando de um... baile.\n“É o tango.”\nObservando seus movimentos, que podem ser uma dança ou uma briga, você percebe molho vazando de uma delas.\nEla não parece estar ciente disso...",
+            "options": [
+                {
+                    "message": "Alerte-o com sinceridade.",
+                    "messageDesc": "Ganhe um presente Bleed E.G.O dependendo do resultado da seguinte escolha",
+                    "result": [
+                        "“Heed me!!!!! Sauce is leaking from thy body!!!!!!”\n“Don’t shout it that loud, you dummy…”\nNotified of its leakage, the chicken quickly ran its wings over its back—or what appeared to be its back, rather.\nSadly, the knot had loosened on its stitching.\n“Kieegh, kiiierg…”\nDoes it mean it can’t do it on its own? Approaching with a trail of sauce dripping behind, it held some thread and a needle in its hands, er, wings.\nDoes it want you to stitch its back?"
+                    ]
+                },
+                {
+                    "message": "Você não viu nada.",
+                    "messageDesc": "Selecione para ganhar um presente E.G.O sem palavras-chave",
+                    "result": [
+                        "“Should we not inform them?”\n“Yeah, but~ They look pretty happy right now, don’t they? Couldn’t hurt to sit and watch just a bit longer, right?”\n“What will become of it when it loses all its sauce?”\n“Maybe it’ll just become an underseasoned chicken.”\nIn time, the leakage ceased.\n“Kiehg!”\nPerhaps it noticed that it’s become lighter? It suddenly performed a highly technical move.\n“Astonishing.”\nThe chickens around it stopped their dances and watched its performance, mesmerized. Soon enough, they approached the performer, letting out screams that sounded like cheers.\nThey walked out of the light, tossing the special one up and down as a celebration.\nAll that remained… was the spilled sauce."
+                    ]
+                },
+                {
+                    "message": "Dê algumas dicas sutis.",
+                    "messageDesc": "Selecione para ter 50% de chance de ganhar um presente E.G.O sem palavra-chave.",
+                    "result": [
+                        "“Mm-mmm~ Boy, I smell something tasty! I sure wonder where this smell’s coooming frooom~?!”\n“…I suppose it would be foolish of me to expect more believable acting.”\nThe Sinner’s voice caused the chickens to stop their passionate dance at once.\nExamining each other’s backs, they soon found the source of the leakage.\n“Kieh, kierg.”\n“Giiegh.”\nWithout panicking, they brought some thread and a needle to sew up its back—or what appears to be its back.\nThey were unsullied in their expertise.\nOnce the stitching was done, they scuttled into the dark.\nAll that remained was the thread and needle they used."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971012,
+            "name": "Black Ledger Choice",
+            "subDesc": "",
+            "desc": "\"É o território do Clã Kurokumo daqui em diante.\"\n\n\"É tão difícil para você entender que precisa pagar pedágio para usar nossa estrada? Hein?\"\n\nPessoas vestidas com trajes do Clã Kurokumo ficam no caminho de civis desarmados, ameaçando-os.\n\n\"... Suponho que essa desculpa foi o suficiente para eles pisarem em nosso território também.\"\n\nAeng-du não esconde sua indignação. Ela está rangendo os dentes.\n\nO que devemos fazer com eles?",
+            "options": [
+                {
+                    "message": "Salve os civis.",
+                    "messageDesc": "Ganhe um presente E.G.O sem palavras-chave dependendo do resultado da seguinte escolha"
+                },
+                {
+                    "message": "Faça vista grossa.",
+                    "result": [
+                        "\"Another day, another mugging in the City.\"\n\nOne of the Sinners mutters with a sigh.\n\n\"......\"\n\nAeng-du stands there with her eyes pleading us to do something, but does not step forward.\n\nWe should avoid unnecessary battles...\n\n... if we are to survive the coming challenges and face Distorted Bamboo-hatted Kim who awaits us at the end of this path.\n\nThis left a bad taste in our mouths as we ignored the commotion and walked away."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97101202,
+            "name": "Black Ledger Choice #2",
+            "subDesc": "",
+            "desc": "\"Obrigado, muito obrigado...\"\n\nOs civis, livres da ameaça do Clã Kurokumo, cada um se curva e nos agradece.\n\n\"Mas... Você não está vestido como um local.\"\n\n\"Se não se importa que a gente bisbilhote... quem é você?\"",
+            "options": [
+                {
+                    "message": "Diga que você está apenas passando.",
+                    "result": [
+                        "\"Huhh...?\"\n\nThe civilians appear puzzled.\n\n\"You're just... 'passing by' with this many people behind you?\"\n\nMaybe I should've given my answer more thought before replying...\n\n\"Why would you help us if you don't have anything to do with the Kurokumo Clan...?\"\n\nThey looked at each other, clearly perplexed.\n\n\"T-thank you anyways.\"\n\n\"Sa-safe travels to you!\"\n\nWith that, they hurriedly left the scene."
+                    ]
+                },
+                {
+                    "message": "Digamos que você faz parte da Linhagem Blade.",
+                    "messageDesc": "Verificação de Vantagem do Orgulho. Passe para ganhar um Presente E.G.O. Sem Palavras-chave."
+                }
+            ]
+        },
+        {
+            "id": 971013,
+            "name": "Rusted Hilt Choice",
+            "subDesc": "",
+            "desc": "\"Isto deve ser uma taverna...\"\n\nEste bar ou uma pousada está movimentado, e seus clientes estão conversando energicamente. Todos parecem estar de bom humor.\n\nUm trio na multidão está discutindo bastante ruidosamente e apontando dedos um para o outro.\n\n\"Não, NÃO! Eu não entendo por que isso é uma questão de disputa! Uma lâmina é uma arma feita para cortar, e a maneira 'certa' de usar uma lâmina é cortando com ela.\"\n\n\"Você não sabe do que está falando! Esfaqueie um único ponto com toda a sua força, e seu inimigo certamente cairá!\"\n\n\"... Vocês dois estão errados. Seus cortes e facadas sem entusiasmo não farão nada além de irritá-los. Eles vão se levantar imediatamente!\"\n\n\"Bata em seus crânios com a ponta cega — punho ou bainha, e derrube-os para sempre! Deixe-os atordoados demais para se levantar!\"\n\nO trio parecia estar falando sobre algo bem sério, então paramos para ouvir o debate deles...\n\nEles de repente se viraram em nossa direção e nos chamaram.\n\n\"Vocês aí! Sua banda claramente sabe manusear suas armas, estou errado?\"\n\n\"Responda-nos. Qual é a melhor maneira de empunhar sua espada?\"\n\n\"Claro, cortar é a melhor maneira de usar uma lâmina, não é?\"\n\nO que devo dizer sobre isso?",
+            "options": [
+                {
+                    "message": "Certo. Cortar é a melhor maneira de usar uma lâmina.",
+                    "messageDesc": "Teste de Vantagem de Luxúria e Orgulho. Passe para ganhar um Presente Slash E.G.O."
+                },
+                {
+                    "message": "Não é verdade. Slash, Pierce e Blunt têm suas utilidades.",
+                    "result": [
+                        "\"Hm.\"\n\nThe three of them suddenly grow very obviously uncomfortable.\n\n\"That's the right answer, isn't it?\"\n\n\"That's certainly the textbook answer.\"\n\n\"It's not like we don't know what the right answer is...\"\n\nThey all take frustrated swigs from their respective cups.\n\n\"What, you think we're sitting here talking about weapons like generals preparing for war?\"\n\n\"It's just a fun topic to argue about with liquor in our bellies. What a way to kill the mood with that uninspired answer...\"\n\n\"Bah, forget it. Be on your way, then!\"\n\nThey turned away from us and returned to drinking, clearly having lost interest."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971014,
+            "name": "Fractured & Broken Blade Choice",
+            "subDesc": "",
+            "desc": "\"Isso é estranho... essa névoa é...\"\n\nNão sei quando aconteceu, mas uma espessa camada de névoa havia descido ao nosso redor.\n\n\"Ouvi uma história sobre um desses passeios noturnos. Nessa história, um viajante desavisado vagueia descuidadamente por uma névoa brumosa e se vê diante de um ser sobrenatural—\"\n\n\"AAAGH! Pare, pare!\"\n\nAssim que os Pecadores começaram a discutir alto uns com os outros, percebi que havia algo nebuloso em nosso caminho.\n\n\"Essa coisa está... dançando?\"\n\nUma coisa misteriosa, vestida de branco, dançava graciosamente diante de nós com uma grande lâmina na mão.\n\nQuando encontrou meu olhar... ou, quando pensei que encontrou...\n\n... uma lâmina embainhada se materializou em minha mão.\n\nO que ela quer que eu faça com ela?",
+            "options": [
+                {
+                    "message": "Assuma uma postura como se estivesse prestes a desembainhar a espada.",
+                    "messageDesc": "Lust & Gloom Advantage check. Passe para ganhar um Bleed E.G.O Gift."
+                },
+                {
+                    "message": "Desembainhe a espada e segure-a ao meu lado.",
+                    "messageDesc": "Verificação de Vantagem de Orgulho e Ira. Passe para ganhar um Dom Poise E.G.O."
+                },
+                {
+                    "message": "Deixe a espada, vamos embora.",
+                    "result": [
+                        "It's not an Abnormality we have to deal with, and the company never said that we had to engage them.\n\nI should always avoid battles against unknown entities.\n\nI tossed the sword on the ground before fleeing from the scene with the Sinners.\n\nA weeping laughter seemed to follow me the entire way back."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971016,
+            "name": "Red Tassel Choice",
+            "subDesc": "",
+            "desc": "Ouvimos um par de vozes enquanto caminhamos ao longo de uma cerca de pedra. Os dois viajantes estão carregando lâminas.\n\n\"Tenho pena das pessoas aqui...\"\n\n\"Bem, a decisão de uma Asa é absoluta para suas penas. Há muito pouco que eles podem fazer sobre isso.\"\n\nUm deles se destaca — suas roupas os diferenciam dos moradores locais. Talvez eles não sejam daqui.\n\n\"Ainda assim, permitir que o Clã Kurokumo entre aqui? Isso é demais.\"\n\n\"A Asa não se importa com mais nada além de bater suas asas. Todo o resto se torna insignificante.\"\n\nParece que eles estão falando sobre a atual S Corp.\n\n\"Mais forasteiros, eu vejo. Que conveniente.\"\n\nA dupla para no meio do caminho, então se vira para nos encarar.\n\n\"O Clã Kurokumo... não. Vocês não usam as vestes deles. Vocês também não parecem ser camponeses buscando ganhar algum dinheiro no caos das Backstreets...\"\n\n\"Bem, então. O que vocês, forasteiros, acham do clima atual?\"\n\nComo devo responder a isso?",
+            "options": [
+                {
+                    "message": "É a cidade. É exatamente isso que acontece com pequenas frituras se envolvendo em conflitos de larga escala.",
+                    "messageDesc": "Verificação de Vantagem Gloom & Pride. Passe para ganhar um Presente Slash E.G.O."
+                },
+                {
+                    "message": "Não tenho pensamentos sobre o assunto. Uma pena, no entanto.",
+                    "result": [
+                        "\"A pity, you say...\"\n\nThe sword-carrying man crosses his arms, then sighs.\n\n\"Sure, I suppose that's one way of looking at it. A thought must remain free, indeed.\"\n\n\"Yet, if you have no thoughts regarding the matter, do understand that to feel pity may be a sin of its own.\"\n\nThe pair walks away. They both wear a dark expression."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971017,
+            "name": "Bamboo Hat & Dopo Robe Choice",
+            "subDesc": "",
+            "desc": "Letras azuis brilhantes flutuam diante de você.\n\nA maneira como essas palavras semelhantes são ordenadas dificulta entender o que ele está tentando dizer.\n\nDizer que o que é certo é certo e o que é errado é errado não é certo,\n\nmas isso não quer dizer que dizer que o que é errado é certo e o que é certo é errado é errado.\n\nDizer que o que é errado é certo e o que é certo é errado não é errado,\n\ne dizer que o que é certo é certo e o que é errado é errado é, por sua vez, dizer que esse errado é certo.\n\n... Ele quer minha impressão dessas palavras?\n\nDo que ele está falando?",
+            "options": [
+                {
+                    "message": "O que é \"certo\" e o que é \"errado\"... é realmente tão importante dizer qual é qual? ​​Diga que o que realmente importa é outra coisa.",
+                    "messageDesc": "Teste de Vantagem de Luxúria e Orgulho. Passe para ganhar um Dom Poise E.G.O."
+                },
+                {
+                    "message": "Ainda assim, é preciso dizer que o que é certo, é certo.",
+                    "messageDesc": "Verificação de Vantagem Gloom & Pride. Passe para ganhar um Presente Slash E.G.O."
+                }
+            ]
+        },
+        {
+            "id": 971021,
+            "name": "Factory Laborer",
+            "subDesc": "",
+            "desc": "Apenas mais uma fábrica de relógios muito, muito ocupada.\n\n\"!@#$!#$#!$@#$!$#@$.\"\n\nUm homem com sapatos sociais brilhantes e um terno limpo, claramente o dono da fábrica, está gritando com seus funcionários em roupas de trabalho sujas e manchadas de óleo.\n\nAlgo parece chamar sua atenção, fazendo-o olhar para um dos funcionários e gritar de raiva.\n\nO funcionário, que já está ocupado com seu trabalho, fica nervoso e tenta dizer algo. Mas demora uma eternidade para abrir a boca.\n\nO dono pega um gravador em uma tentativa frustrada de se comunicar, mas não ajuda.\n\n\"Acabei de verificar a câmera de segurança. Você está cochilando há duas horas inteiras! Explique-se.\"\n\n\"P… … … a… … …\"\n\n\"… … c… … … t…\"\n\n\"Você não pode falar mais rápido, cara?!\"\n\nTalvez haja algo por aqui para resolver essa situação?",
+            "options": [
+                {
+                    "message": "Dê uma olhada ao redor da fábrica.",
+                    "messageDesc": "Verificação de Vantagem de Gula e Orgulho. Passe para ganhar um Presente de Tremor E.G.O."
+                },
+                {
+                    "message": "Observe bem o dono da fábrica e o funcionário.",
+                    "messageDesc": "Verificação de Vantagem de Gloom & Sloth. Passe para ganhar um Presente Tremor E.G.O."
+                }
+            ]
+        },
+        {
+            "id": 971022,
+            "name": "T Corp. Tax Collection",
+            "subDesc": "",
+            "desc": "Uma rua aleatória da T Corp. Um funcionário de coleta está coletando impostos de alguém.\n\n\"Você fará seus pagamentos em dia ou em dinheiro?\"\n\n\"Como eu disse, já pagamos nossos impostos de tempo integralmente! Além disso, trezentos milhões de Ahn? Isso é um absurdo...!\"\n\n\"Os registros afirmam que você acumulou responsabilidades adicionais de imposto de tempo devido ao imposto sobre doações.\"\n\n\"De jeito nenhum. Isso é porque eu dei meu tempo para aquelas crianças nas Backstreets?\"\n\n\"Eu só dei a eles trezentas horas, então como diabos isso se transforma em trezentos milhões de Ahn em impostos?! Isso não faz sentido!\"\n\n\"Os cálculos de impostos na T Corp. são sempre excepcionalmente precisos.\"\n\nO coletor de tempo avança em direção ao cidadão para neutralizá-lo.",
+            "options": [
+                {
+                    "message": "Fale com eles.",
+                    "messageDesc": "Verificação de Vantagem de Gloom & Sloth. Passe para ganhar um Presente E.G.O. sem Palavras-chave."
+                },
+                {
+                    "message": "Vá embora.",
+                    "result": [
+                        "Looks like he'll have to defend himself somehow at the Collections Office.\n\nIt's not like you can change anything by stepping in.\n\n... You suddenly come to a realization that this is the kind of thought that transformed T Corp. to a place like this. You whip around and try to intervene...\n\n... But the Time Collector had already extracted time from the citizen, slowing him to a crawl."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971023,
+            "name": "Streets of T Corp.",
+            "subDesc": "",
+            "desc": "Pessoas de todas as esferas da vida, todas com diferentes horas para passar em um determinado dia, falam e se movem em velocidades variadas.\n\nO som vindo dessa estranha desigualdade enche a rua de incongruência.\n\nDuas pessoas chamam sua atenção naquele caos.\n\nUm jovem de aparência rica, apesar de sua aparente afluência de tempo, está caminhando em um ritmo rápido em direção às ruas...\n\n... e um velho de aparência pobre, apesar de sua aparente pobreza de tempo, está caminhando lentamente para um beco com um olhar tranquilo em seu rosto.\n\nQuem seguir?",
+            "options": [
+                {
+                    "message": "Siga os jovens.",
+                    "messageDesc": "Verificação de Vantagem de Orgulho e Gula. Passe para ganhar um Presente Tremor E.G.O."
+                },
+                {
+                    "message": "Siga o velho.",
+                    "messageDesc": "Preguiça e Luxúria. Passe para ganhar um Presente Tremor E.G.O."
+                },
+                {
+                    "message": "Não siga ninguém.",
+                    "result": [
+                        "They're just two people minding their own business, spending their own time as they see fit.\n\nWhy go after them? Let's just spend our time as we see fit.\n\nYou continue down the street, your head brimming with thoughts of time inequality."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971024,
+            "name": "Yurodiviye Hideout",
+            "subDesc": "",
+            "desc": "Um esconderijo secreto dos Yurodiviye. Um Yurodivy está fervorosamente recitando os textos dados a eles pelo Santo.\n\n\"Nós nos tornamos nada além de engrenagens em uma máquina que existe somente para os industriais, a burguesia e os Wings.\"\n\n\"O que mais, que outra relação humana permanece entre os Cidadãos além do interesse próprio estreito e dos laços sem coração criados pelo capital?\n\n\"Assim, deixaremos de lado o metal frio e insensível que chamamos de moeda; em vez disso, trocaremos nosso calor uns com os outros com base em nossas necessidades!\"\n\n\"Para os que têm, as leis dos Ninhos são escudos que protegem seus privilégios; no entanto, para os que não têm, são correntes que nos acorrentam!\"\n\n\"Então desafiaremos as leis do Ninho! Mostraremos a eles a ira dos que não têm!\"\n\n\"Tudo o que os Yurodiviye têm a perder são nossas correntes; tudo o que temos a ganhar é um mundo sem fome!\"\n\nO Yurodivy de repente aponta em nossa direção.\n\nParece que vamos ter que dizer alguma coisa.",
+            "options": [
+                {
+                    "message": "T-os Yurodiviye da Cidade, uni-vos!",
+                    "messageDesc": "Wrath & Envy & Gluttony Advantage check. Passe para ganhar um Tremor E.G.O Gift."
+                },
+                {
+                    "message": "Gosto da ideia, mas não tem como dar certo.",
+                    "result": [
+                        "As soon as the Sinner finishes speaking, the room immediately falls cold and silent.\n\nThe Yurodivy who appears to be their leader points at the door and motions you to leave.\n\nYou leave the place before something happens."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971025,
+            "name": "The Timekilling Scene",
+            "subDesc": "",
+            "desc": "Você vê uma vítima do Time Ripper.\n\nVocê não pode nem tocá-los graças ao fenômeno de superposição de deslocamento espaço-temporal.\n\nHá algo que você possa fazer aqui para ajudar?",
+            "options": [
+                {
+                    "message": "Tente ajudar.",
+                    "messageDesc": "Preguiça & Gula & Teste de Vantagem de Orgulho. Passe para ganhar um Presente E.G.O. Sem Palavra-chave."
+                },
+                {
+                    "message": "Ignore-os e siga em frente.",
+                    "result": [
+                        "You have to go after the Time Ripper.\n\nNo time to waste."
+                    ]
+                }
+            ]
+        }
+    ]
+}

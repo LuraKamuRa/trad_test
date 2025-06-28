@@ -1,0 +1,42 @@
+{
+  "dataList": [
+    {
+      "id": "AaCfPbBe",
+      "name": "Marked Prey",
+      "desc": "- A cada acerto que esta unidade leva, receba danos de barra de bônus iguais a 10% dos danos à HP recebidos. Expira na próxima curva.\n- Se esta unidade não sofrer danos durante este turno, infligir 1 complexo de inferioridade após o ataque e expirar\n- Valor máximo: 1",
+      "summary": "Tome dano de barra de bônus igual a 10% dos danos da HP tomados",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBf",
+      "name": "Inferiority Complex",
+      "desc": "- Toda vez que esta unidade é atingida, pegue ((20% dos danos hp recebidos) * valor) danos) danos\n- Valor máximo: 5",
+      "summary": "Tome ((20% dos danos causados ​​pela HP) * valor) dano",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBa",
+      "name": "Explosive Gloom",
+      "desc": "- Resistência à afinidade da tristeza +0,3\n- Outra resistência à afinidade -0,5\n- Quando acertado: infligir 3 danos no sp no atacante, ganha 1 contagem de naufrágio e ganha 1 ataque de ataque no próximo turno (9 vezes por turno)",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBb",
+      "name": "Explosive Envy",
+      "desc": "- Resistência à afinidade da inveja +0,3\n- Outra resistência à afinidade -0,5\n- Quando atingido: aplique 1 ofensa de nível acima, infligir 2 sangramento e 2 hemorrague com o atacante e ganhe 1 nível de defesa no próximo turno (9 vezes por turno)",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBc",
+      "name": "Explosive Wrath",
+      "desc": "- Resistência à afinidade da ira +0.3\n- Outra resistência à afinidade -0,5\n- Quando atingido: Ganhe 1 ofensa ao nível e 1 nível de defesa no próximo turno (9 vezes por turno)",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBd",
+      "name": "Deep Bereavement",
+      "desc": "Turn Start: Perca 5 velocidade e ganhe 5 nível de defesa",
+      "undefined": null
+    }
+  ]
+}

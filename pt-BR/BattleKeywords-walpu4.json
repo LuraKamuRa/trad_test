@@ -1,0 +1,94 @@
+{
+    "dataList": [
+        {
+            "id": "RedEyeFirst",
+            "name": "Red Eyes",
+            "desc": "- Os efeitos da Moeda de Habilidade Base infligem +1 a mais de Sangramento\n- Valor Máximo: 20\n- Carga Única (Potência fixa)\n- Recurso usado por certas Habilidades para efeitos adicionais\n- Melhora o bônus com base no Valor\n· Estágio 1 (1~7): Olhos Vermelhos\n· Estágio 2 (8~15): Olhos Vermelhos - Alerta\n· Estágio 3 (16~20): Olhos Vermelhos - Devorador\n- A quantidade de sangramento adicional infligida pela primeira linha deste bônus é igual ao Estágio de aprimoramento do bônus (máx. 3)",
+            "summary": ""
+        },
+        {
+            "id": "RedEyeSecond",
+            "name": "Red Eyes - Alert",
+            "desc": "- Os efeitos da Moeda de Habilidade Base infligem +2 a mais de Sangramento\n- Valor Máximo: 20\n- Carga Única (Potência fixa)\n- Recurso usado por certas Habilidades para efeitos adicionais\n- Melhora o bônus com base no Valor\n· Estágio 1 (1~7): Olhos Vermelhos\n· Estágio 2 (8~15): Olhos Vermelhos - Alerta\n· Estágio 3 (16~20): Olhos Vermelhos - Devorador\n- A quantidade de sangramento adicional infligida pela primeira linha deste bônus é igual ao Estágio de aprimoramento do bônus (máx. 3)",
+            "summary": ""
+        },
+        {
+            "id": "RedEyeThird",
+            "name": "Red Eyes - Devouring",
+            "desc": "- Os efeitos da Moeda de Habilidade Base infligem +3 a mais de Sangramento\n- Valor Máximo: 20\n- Carga Única (Potência fixa)\n- Recurso usado por certas Habilidades para efeitos adicionais\n- Melhora o bônus com base no Valor\n· Estágio 1 (1~7): Olhos Vermelhos\n· Estágio 2 (8~15): Olhos Vermelhos - Alerta\n· Estágio 3 (16~20): Olhos Vermelhos - Devorador\n- A quantidade de sangramento adicional infligida pela primeira linha deste bônus é igual ao Estágio de aprimoramento do bônus (máx. 3)",
+            "summary": ""
+        },
+        {
+            "id": "PenanceFirst",
+            "name": "Penitence",
+            "desc": "- Cura 2 SP ao acertar com moedas de habilidade base que ganham penitência\n- Valor máximo: 20\n- Carga única (potência fixa)\n- Início do turno: ganha (penitência)% do HP máximo como escudo\n- Recurso usado por certas habilidades para efeitos adicionais\n- Melhora o estágio do bônus com base no valor\n· Estágio 1 (1~7): penitência\n· Estágio 2 (8~15): penitência - periferia\n· Estágio 3 (16~20): penitência - confissão\n- A quantidade de SP curada pela primeira linha deste bônus é baseada no estágio de aprimoramento (estágio de aprimoramento x 2)",
+            "summary": ""
+        },
+        {
+            "id": "PenanceSecond",
+            "name": "Penitence - Periphery",
+            "desc": "- Cura 4 SP ao acertar com moedas de habilidade base que ganham penitência\n- Valor máximo: 20\n- Carga única (potência fixa)\n- Início do turno: ganha (penitência)% do HP máximo como escudo\n- Recurso usado por certas habilidades para efeitos adicionais\n- Melhora o estágio do bônus com base no valor\n· Estágio 1 (1~7): penitência\n· Estágio 2 (8~15): penitência - periferia\n· Estágio 3 (16~20): penitência - confissão\n- A quantidade de SP curada pela primeira linha deste bônus é baseada no estágio de aprimoramento (estágio de aprimoramento x 2)",
+            "summary": ""
+        },
+        {
+            "id": "PenanceThird",
+            "name": "Penitence - Confession",
+            "desc": "- Cura 6 SP ao acertar com moedas de habilidade base que ganham penitência\n- Valor máximo: 20\n- Carga única (potência fixa)\n- Início do turno: ganha (penitência)% do HP máximo como escudo\n- Recurso usado por certas habilidades para efeitos adicionais\n- Melhora o estágio do bônus com base no valor\n· Estágio 1 (1~7): penitência\n· Estágio 2 (8~15): penitência - periferia\n· Estágio 3 (16~20): penitência - confissão\n- A quantidade de SP curada pela primeira linha deste bônus é baseada no estágio de aprimoramento (estágio de aprimoramento x 2)",
+            "summary": ""
+        },
+        {
+            "id": "Emptiness",
+            "name": "Only Ashes Remain",
+            "desc": "- Não é possível manter Olhos Vermelhos e Penitência\n- Ao ganhar Olhos Vermelhos com efeitos de Habilidade Básica, cure a si mesmo e 1 aliado com a menor porcentagem de HP em (Olhos Vermelhos ganhos)% do HP máximo desta unidade (2 vezes por turno)\n- Ao ganhar Penitência com efeitos de Habilidade Básica, cure a si mesmo e 1 aliado com o menor SP em ((Penitência ganha)/2) SP (2 vezes por turno)\n- Fim do Turno: este efeito expira",
+            "summary": ""
+        },
+        {
+            "id": "SinkingWhite",
+            "name": "Butterfly",
+            "desc": "- Afundamento Único\n- Valor Base: 0, Valor Máx.: 15\n- A Potência e a Contagem deste efeito são chamadas de \"Os Vivos\" e \"Os Mortos\", respectivamente.\n- Quando atingido, o atacante cura (Os Vivos/4) SP. (mín. 1; arredondado para baixo)\n- Quando atingido, e se o SP desta unidade for menor que 0, recebe (Potência de Afundamento/5) de dano de Obscuridade para cada valor de Os Mortos. (dano máximo de Obscuridade 30; arredondado para baixo; causa metade do dano a alvos sem SP.)\n- Fim do Turno: Redefina Os Mortos deste efeito para 0; então, ganhe Afundamento igual a Os Vivos e converta Os Vivos em Os Mortos.\n- Nenhum efeito externo pode aumentar a quantidade de Borboleta infligida. Efeitos de \"Infligir Afundamento adicional\" infligem Afundamento adicional em vez de Borboleta adicional.\n- Este efeito expira quando Os Vivos e Os Mortos chegam a 0.",
+            "summary": ""
+        },
+        {
+            "id": "SinkingBlack",
+            "name": "!!!OUDATED EFFECT!!!",
+            "desc": "",
+            "summary": ""
+        },
+        {
+            "id": "BulletLament",
+            "name": "The Living & The Departed",
+            "desc": "- Munição Única\n- A soma de Potência e Contagem atinge o máximo de 20.\n- Consumido para certas Habilidades.\n- Se The Living(Potency) ou The Departed(Count) serão consumidos para cada tiro é determinado aleatoriamente\n- Alguns ataques são cancelados se esta unidade ficar sem munição.",
+            "summary": ""
+        },
+        {
+            "id": "TrainTeamCaptain",
+            "name": "Training Team Captain",
+            "desc": "Slot de Habilidade +1\nModificar conjunto de Habilidades: Ganhe 1 uso da Habilidade 3, mas perca 1 uso da Habilidade 1\nInício do turno: cure 15 SP\nAumenta a quantidade de Queimadura, Sangramento, Ruptura, Afundamento ou Tremor infligido em +1 (incluindo 'Efeitos de Status Únicos')\nAumenta a quantidade de Poise ou Charge (incluindo 'Unique Charge') ganha em +1\nAo Matar, Ganhe +2 de recurso E.G.O para a Afinidade da Habilidade que derrotou o inimigo; ganhe +1 de recurso E.G.O para o resto das Afinidades",
+            "summary": ""
+        },
+        {
+            "id": "VioletUnderstand",
+            "name": "Understanding",
+            "desc": "- Causa +5% a mais de dano por Stack\n- Recebe +5% a mais de dano por Stack\n(valor máximo: 5)",
+            "summary": ""
+        },
+        {
+            "id": "MentalCrack",
+            "name": "Mental Fracture",
+            "desc": "Eficiência de Perda de SP +1 por Pilha (máx. 5)\nExpira quando atinge 5 Pilhas e recebe 10 de dano de SP\nPerde 1 Pilha por turno",
+            "summary": ""
+        },
+        {
+            "id": "ImpendingCollapse",
+            "name": "Imminent Decay",
+            "desc": "Fim do turno: Perca 1 pilha\nInício do turno: Com 1 pilha, use uma habilidade especial",
+            "summary": ""
+        },
+        {
+            "id": "ReloadLament",
+            "name": "Reload",
+            "desc": "- Efeito aplicado em The Living & The Departed (munição única)\n- Consome (30 - (The Living + The Departed))/2 SP. (arredondado para baixo)\n- Redefine os valores de The Living e The Departed em si mesmo para 0 e ganha o valor máximo de sua soma com base nas probabilidades listadas na Passiva 'ISeeTheDyingButterfly'.\n- Ao recarregar, você ganha pelo menos 1 de The Living e The Departed.",
+            "summary": ""
+        }
+    ]
+}

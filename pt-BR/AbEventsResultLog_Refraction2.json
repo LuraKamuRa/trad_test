@@ -1,0 +1,128 @@
+{
+    "dataList": [
+        {
+            "id": "853901_success_1_1",
+            "content": "<color=#ebcaa2>Todos os Old Umbrella a serem invocados em seguida</color> são invocados com <color=#00ff9c>30% de seu HP máximo reduzido</color>"
+        },
+        {
+            "id": "853901_success_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>perde {1} SP</color>"
+        },
+        {
+            "id": "853901_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>perde {1} SP</color>"
+        },
+        {
+            "id": "854101_success_1_1",
+            "content": "<color=#ebcaa2>[{0}] perde %{2} [{1}]/%</color>"
+        },
+        {
+            "id": "854101_success_1_2",
+            "content": "<color=#ebcaa2>Todas as partes de [{0}]</color> <color=#ebcaa2>ganham</color> % {2} [{1}]/%"
+        },
+        {
+            "id": "854101_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}] ganhos %{2} [{1}]/%</color>"
+        },
+        {
+            "id": "854101_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}]/%"
+        },
+        {
+            "id": "854201_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>cura {1} HP</color>"
+        },
+        {
+            "id": "854201_success_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}], {4} [{3}] e {6} [{5}]/%"
+        },
+        {
+            "id": "854201_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>cura {1} HP</color>"
+        },
+        {
+            "id": "854201_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}], {4} [{3}] e {6} [{5}]/%"
+        },
+        {
+            "id": "854401_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>aplicado com</color> {2} {1}"
+        },
+        {
+            "id": "854401_success_1_2",
+            "content": "[{0}] ganha <color=#00ff9c>{2} {1}</color> próximo turno"
+        },
+        {
+            "id": "854401_failure_1_1",
+            "content": "<color=#ebcaa2>Todos os {1} removidos</color> de <color=#ebcaa2>[{0}]</color>"
+        },
+        {
+            "id": "854501_success_1_1",
+            "content": "<color=#ebcaa2>{0} é escalonado</color>"
+        },
+        {
+            "id": "854501_success_1_2",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "854501_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "854901_success_1_1",
+            "content": "<color=#ebcaa2>A fada está cambaleante!</color>"
+        },
+        {
+            "id": "854901_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> <color=#e30000>{2} [{1}]</color>"
+        },
+        {
+            "id": "854901_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> <color=#e30000>{2} [{1}]</color>"
+        },
+        {
+            "id": "855001_success_1_1",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> <color=#e30000>{2} [{1}]</color>"
+        },
+        {
+            "id": "855001_success_1_2",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> <color=#e30000>{2} [{1}]</color>"
+        },
+        {
+            "id": "855001_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}] perde</color> <color=#e30000>20% do HP Máx. (Perde {1} HP)</color>"
+        },
+        {
+            "id": "855501_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>perde</color> <color=#e30000>{2} {1}</color>"
+        },
+        {
+            "id": "855501_success_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> <color=#e30000>{2} {1}</color>"
+        },
+        {
+            "id": "855501_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> <color=#e30000>{2} {1}</color>"
+        },
+        {
+            "id": "855501_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}] Pecador</color> <color=#ebcaa2>ganha</color> <color=#e30000>{2} {1}</color>"
+        },
+        {
+            "id": "855601_1_1",
+            "content": "Todos os personagens causam {0}% de dano"
+        },
+        {
+            "id": "855601_1_2",
+            "content": "Todos os personagens recebem {0}% de dano"
+        },
+        {
+            "id": "85560101_success_1_1",
+            "content": "Todos os personagens <color=#00ff9c>causam {1}% de dano</color> com [{0}] Habilidade de Afinidade"
+        },
+        {
+            "id": "85560101_success_1_2",
+            "content": "Todos os personagens <color=#e30000>recebem {1}% de dano</color> com [{0}] Habilidade de Afinidade"
+        }
+    ]
+}

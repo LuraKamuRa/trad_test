@@ -1,0 +1,680 @@
+{
+    "dataList": [
+        {
+            "id": 863001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rear Line Fire",
+                    "desc": "Esta habilidade causa +10% de dano no acerto crítico[WhenUse]Em mais de 10 anos[Breath], Potência base +1[WhenUse]Ganho 2[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Front Line Fire",
+                    "desc": "Esta habilidade causa +10% de dano no acerto crítico[WhenUse]Em mais de 10 anos[Breath], Potência base +1[WhenUse]Ganhe +3[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Punch Through",
+                    "desc": "[WhenUse]Ganho 2[Breath]\n[WhenUse]Em mais de 10 anos[Breath], Potência base +1[WhenUse]Power de moedas +1 para cada 5[Breath]Conte com eu (máximo 2)[WinDuel]Esta habilidade de ataque causa +50% mais danos no acerto crítico",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                },
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra o alvo principal."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado ou se o alvo não foi escalonado, 1 sub-alvo aleatório sofre dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reload, Fire",
+                    "desc": "Esta habilidade causa +50% de dano no acerto crítico[WhenUse]Power de moedas +1 para cada 5[Breath]Conte com eu (máximo 3)[WhenUse]Ganhe 3[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Reutilizar moedas uma vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "See Through Defenses",
+                    "desc": "[DefeatDuel]Metade[Breath]em si mesmo\n- Qualquer[Breath]Ganhado durante esse turno também está reduzido pela metade\n- Ganhe 4[Paralysis]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Designated Target Fire",
+                    "desc": "Ataca o alvo com[FellBulletMark]Power de moedas +1 para cada 5[Breath]em si mesmo (máximo 2)\nPotência base +1 para cada 3[Breath]Conte com eu (máximo 3)[WhenUse]Se o alvo principal não tiver[FellBulletMark], ganha 1[Paralysis]e 3[Vulnerable]\n[EndSkill]Se o alvo for derrotado, ganhe 10[Breath]e diminuir o SP de todos os inimigos em 15",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra o alvo principal."
+                                },
+                                {
+                                    "desc": "Se o alvo tiver[FellBulletMark], causar +100% mais danos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[FellBulletMark], ganhe 10[Breath]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda não matou o alvo, 2 sub-alvos aleatórios sofrem de dano"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 5[Sinking]e 5[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Target Readjustment Fire",
+                    "desc": "[CantIdentify]\n[CantChangeTarget]Prioriza o alvo com[FellBulletMark]Se esta unidade falhar em atacar o alvo estigmatizado, cancele essa habilidade.\nPower de moedas +1 para cada 5[Breath]em si mesmo (máximo 2)\nPotência base +1 para cada 3[Breath]Conte com eu (máximo 3)[EndSkill]Se o alvo for derrotado, ganhe 10[Breath]e diminuir o SP de todos os inimigos em 15",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra o alvo principal"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Se o alvo tiver[FellBulletMark], mate o alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 10[Breath]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhar em matar o alvo, 1 sub-alvo aleatório sofre dano"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 5[Sinking]e 5[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Maul",
+                    "desc": "[WhenUse]Power final +1 para cada 4[Breath]Potência em si mesmo (máximo 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]Potência"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganhe +3[Breath]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Devastate",
+                    "desc": "[WhenUse]Power final +1 para cada 4[Breath]Potência em si mesmo (máximo 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]Potência"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]Potência"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Labored Breathing",
+                    "desc": "[WhenUse]Power final +1 para cada 8[Breath]Potência em si mesmo (máximo 5)[WhenUse]Power de moedas +1 para cada 8[Breath]Conte consigo mesmo (máximo 5)[DefeatDuel]Metade[Breath]Potência em si mesmo[EndSkill]Metade[Breath]Potência e conte em si mesmo",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Negócio ([Breath]Potência)% mais danos no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Prone",
+                    "desc": "[WhenUse]Power final +1 para cada 4[Breath]Potência em si mesmo (máximo 5)[WhenUse]Ganhe 4[Breath]Potência\n- a 50%- HP, também ganha +4[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863212,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "That's... MINE!",
+                    "desc": "[CantChangeTarget]\n[WhenUse]Clash Power +1 para cada 4[Breath]Potência em si (máximo 3)[WhenUse]Clash Power +1 para cada 4[Breath]Conte com eu (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Sifões[Breath]Potência e[Breath]Conta do alvo (máximo 6 cada)"
+                                },
+                                {
+                                    "desc": "[DefeatDuelAttack]Sifões 1/3 do[Breath]Potência e[Breath]Conte com o alvo (máximo 2 cada)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863213,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Share the Pain",
+                    "desc": "[WhenUse]Power final +1 para cada 8[Breath]Potência em si mesmo (máximo 5)[WhenUse]Power de moedas +1 para cada 8[Breath]Conte consigo mesmo (máximo 5)[DefeatDuel]Deseba -75% menos danos e danos causados ​​por essa habilidade não podem escalonar o alvo[EndSkill]Metade[Breath]Potência e conte em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir 2[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Negócio +([Breath]Potência +[Breath]Contagem)% mais danos no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Freed from the Life of Suffering",
+                    "desc": "[StartBattle]Ganho 2[Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tenacious Wound",
+                    "desc": "Se o alvo tiver 6+[Laceration]Potência, +1 para[Laceration]Potência e contagem infligida por essa habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wound",
+                    "desc": "Se o alvo tiver 6+[Laceration]Potência, +1 para[Laceration]Potência e contagem infligida por essa habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Brambles that Constrict",
+                    "desc": "Se o alvo tiver 6+[Laceration]Potência, +1 para[Laceration]Potência infligida por essa habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Polydipsic Petals",
+                    "desc": "Ataca o alvo com a maior soma de[Laceration]Potência + contagem[WhenUse]Se o alvo tiver 6+[Laceration]Potência, potência final +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[ScarletTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ativar[Laceration]no alvo uma vez (reduza[Laceration]Contagem por 1)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863312,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bursting Petals",
+                    "desc": "Ataca o alvo com a maior soma de[Laceration]Potência + contagem[WhenUse]Se o alvo tiver 6+[Laceration]Potência, potência final +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[ScarletTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ative tudo[Laceration]no alvo (reduza completamente[Laceration]Contar)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863313,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Storm of Spikes",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Laceration]Potência, potência final +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ativar[Laceration]no alvo uma vez (reduza[Laceration]Contagem por 1)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863314,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Polydipsic Thorn",
+                    "desc": "[StartBattle]Ganhe 3[AttackDmgUp]e 2[Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863315,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Endless Spring of Blood",
+                    "desc": "[DuelCounter]\n[WhenUse]Alvos que se chocam contra essa habilidade não perdem[Laceration]Conte enquanto conflita",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ativar[Laceration]no alvo uma vez e consome imediatamente[BloodDinner]gerado pelo[Laceration]dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ativar[Laceration]no alvo uma vez e consome imediatamente[BloodDinner]gerado pelo[Laceration]dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ativar[Laceration]no alvo uma vez e consome imediatamente[BloodDinner]gerado pelo[Laceration]dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863316,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nutrient Craving",
+                    "desc": "Ativa a 100+[BloodDinner]\n[EndBattle]Consumir até 100[BloodDinner]Para ativar os seguintes efeitos:\n- Cure o núcleo e o corpo peças do HP por[BloodDinner]consumido\n- Ganhe 1[AttackUp]Próxima turno para cada 20[BloodDinner]consumido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 863317,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Brambles that Yearn",
+                    "desc": "[WhenUse]Consumir até 100[BloodDinner]Para ativar os seguintes efeitos:\n- Cure o núcleo e o corpo peças do HP por[BloodDinner]consumido\n- Esta habilidade ganha poder final +1 para cada 20[BloodDinner]consumido[DefeatDuel]Poder final -5[EndSkill]Se essa habilidade consumiu menos de 30[BloodDinner], ganha 2[Vulnerable]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

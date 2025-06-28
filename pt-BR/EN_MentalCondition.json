@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Aumenta depois de ganhar um confronto com base na contagem de confrontos\n[[Tag-size]] (o valor base é {0}, elevado por {1}% por contagem de choque após 1) [[size de tag]]",
+      "min": "Diminui depois de ganhar um confronto com base na contagem de confrontos\n[[Tag-size]] (o valor base é {0}, elevado por {1}% por contagem de choque após 1) [[size de tag]]"
+    },
+    {
+      "id": "OnKillEnemyAsLevelRatioMultiply",
+      "add": "Aumentar em {0} após esta unidade derrota um inimigo cujo nível foi maior ou igual ao de esta unidade",
+      "min": "Diminuir em {0} após esta unidade derrota um inimigo cujo nível foi maior ou igual à desta unidade"
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
+      "add": "Aumentar em {0} após um aliado derrota um inimigo cujo nível foi maior ou igual ao da unidade",
+      "min": "Diminuir em {0} após um aliado derrota um inimigo cujo nível foi maior ou igual ao da unidade"
+    },
+    {
+      "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Aumenta depois de perder um confronto com base na contagem de confrontos\n[[Tag-size]] (o valor base é {0}, elevado por {1}% por contagem de choque após 1) [[size de tag]]",
+      "min": "Diminui depois de perder um confronto com base na contagem de confrontos\n[[Tag-size]] (o valor base é {0}, elevado por {1}% por contagem de choque após 1) [[size de tag]]"
+    },
+    {
+      "id": "OnDieAllyAsLevelRatio",
+      "add": "Se o nível do aliado derrotado fosse maior ou igual ao da unidade,\naumentar com base na diferença de nível\n[[Tag-size]] (o valor base é {0}, elevado por {0} por nível) [[size de tag]]",
+      "min": "Se o nível do aliado derrotado fosse maior ou igual ao da unidade,\ndiminuir com base na diferença de nível\n[[Tag-size]] (o valor base é {0}, elevado por {0} por nível) [[size de tag]]"
+    },
+    {
+      "id": "OnRoundStartAfterEvent",
+      "add": "Aumentado em {0} no início da curva",
+      "min": "Diminuiu por {0} no início da curva"
+    },
+    {
+      "id": "OnKillEnemyMp",
+      "add": "Aumentar em {0} após esta unidade derrota um inimigo, independentemente do seu nível",
+      "min": "Diminuir em {0} após esta unidade derrota um inimigo, independentemente do seu nível"
+    },
+    {
+      "id": "OnDieAllyMp",
+      "add": "Se um aliado for derrotado, aumente por {0} independentemente do nível do aliado",
+      "min": "Se um aliado for derrotado, diminua por {0} independentemente do nível do aliado"
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyExceptSupportiveAction",
+      "add": "Aumentar em {0} após um aliado derrota um inimigo cujo nível foi maior ou igual à desta unidade",
+      "min": "Diminuir em {0} depois que um aliado derrota um inimigo cujo nível foi maior ou igual ao de esta unidade. Não diminui quando o inimigo foi derrotado por um ataque de assistência."
+    },
+    {
+      "id": "OnDieBladeLineageAlly",
+      "add": "Se um aliado de linhagem de lâmina for derrotado, ganha {0} independentemente do nível do aliado",
+      "min": "Se um aliado de linhagem de lâmina for derrotado, perca {0} independentemente do nível do aliado"
+    },
+    {
+      "id": "OnWinDuelLessMpTarget",
+      "add": "Aumenta em {0} depois de vencer um confronto contra um inimigo com SP inferior a desta unidade",
+      "min": "Diminui em {0} depois de vencer um confronto contra um inimigo com SP inferior a desta unidade"
+    },
+    {
+      "id": "OnLoseDuelLessMpTarget",
+      "add": "Aumenta em {0} depois de perder um confronto contra um inimigo com SP inferior a desta unidade",
+      "min": "Diminui em {0} depois de perder um confronto contra um inimigo com SP inferior a desta unidade"
+    },
+    {
+      "id": "OnKillEnemyByOtherAlly",
+      "add": "Aumentar em {0} depois que um aliado derrota um inimigo, independentemente de seu nível",
+      "min": "Diminuir por {0} após um aliado derrota um inimigo, independentemente de seu nível"
+    },
+    {
+      "id": "OnWinDuelAnyTarget",
+      "add": "Aumentado por {0} na vitória do Clash",
+      "min": "Diminuído por {0} no confronto perdido"
+    }
+  ]
+}

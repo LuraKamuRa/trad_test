@@ -1,0 +1,544 @@
+{
+  "dataList": [
+    {
+      "id": 2050511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[[Suporte]] Remova 1 efeito negativo removível aleatório aplicado a si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem de tremores; Infligir (Wrath a-reson. /3) Contagem adicional de tremores"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[[Suporte]] Remova 1 efeito negativo removível aleatório aplicado a si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem de tremores; Infligir (Wrath a-reson. /3) Contagem adicional de tremores"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst\nSe o alvo não tiver um limiar de escalonamento após a explosão do tremor,\nCausar danos causados ​​pela ira de (6 + 2x (ira a-reson.))% Do limite final do escalonamento aumentado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[[Suporte]] Remova 2 efeitos negativos removíveis aleatórios aplicados a si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de tremores; Infligir (Wrath a-reson. /3) Contagem adicional de tremores"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst\nSe o alvo não tiver um limiar de escalonamento após a explosão do tremor,\nDe dano da ira de acordo com (12 + 3x (ira a-reson.))% Do limite final do escalonamento aumentado."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Se esta unidade tiver um efeito de status negativo, Peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst.\nA quantidade de limiar de escalonamento aumentada por tremor aumenta em 30% do tremor no alvo.\nReduza a contagem de tremores em 1"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 3 Bind e 1 Power Up Rutent na próxima curva."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Se esta unidade tiver um efeito de status negativo, Peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst\nA quantidade de limiar de escalonamento aumentada por tremor aumenta em 40% do tremor no alvo.\nSe o alvo não tiver um limiar de escalonamento após a explosão do tremor,\nCausar danos causados ​​pela ira de (6 + 2x (ira a-reson.))% Do limite final do escalonamento aumentado\nReduza a contagem de tremores em 1"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 3 Bind e 1 Power Up Rutent na próxima curva."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Se esta unidade tiver um efeito de status negativo, Peso ATK +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst\nA quantidade de limiar de escalonamento aumentada pelo tremor aumenta em 50% do tremor no alvo.\nSe o alvo não tiver um limiar de escalonamento após a explosão do tremor,\nCausar danos causados ​​pela ira de (12 + 3x (ira a-reson.))% Do limite final do escalonamento aumentado\nReduza a contagem de tremores em 1"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 3 Bind e 1 Power Up Rutent na próxima curva."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[[Bracket]] Ganhe +8 [[Bracket]] Count\n[[Bracket]] Aplicar +8 [[Bracket]] Contar para 1 outro aliado com o mínimo [[Bracket]] contagem\n- Número de aliados afetados cresce (mais alta inveja resson. - 2) (máx. 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[[Bracket]] Ganhe +8 [[Bracket]] Count\n[[Bracket]] Aplicar +8 [[Bracket]] Contar para 1 outro aliado com o mínimo [[Bracket]] contagem\n- Número de aliados afetados cresce (mais alta inveja resson. - 2) (máx. 4)\n- A 4+ (ressonância de inveja mais alta.), Aplique 1 [[suporte]] para si mesmo e todos os aliados afetados",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[[Bracket]] Ganhe +12 [[Bracket]] Count\n[[Bracket]] Aplicar +8 [[Bracket]] Contar para 1 outro aliado com o mínimo [[Bracket]] contagem\n- Número de aliados afetados cresce (mais alta inveja de inveja.- 2) (max [[estilo de tag]] 5 [[estilo de tag]]))\n- A 4+ (ressonância de inveja mais alta.), Aplique 1 [[suporte]] para si mesmo e todos os aliados afetados\n[[Estilo de tag]]-Aos 6+ (mais alto ressonamento de inveja), aplique 1 [[backet]] para si mesmo e todos os aliados afetados [[estilo de etiqueta]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Ganhe o peso do ATK igual a (mais alta inveja resson. - 2) (máximo 2)\n[[Bracket]] Se esta unidade tiver 10+ [[Bracket]] contagem, gaste até 20 [[suporte]] contagem; acordo +2% mais danos para cada contagem [[suporte]] consumida (máximo 40%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Ganhe o peso do ATK igual a (mais alto ressonamento de inveja-2) (max [[estilo de tag]] 3 [[estilo de tag]]))\n[[Bracket]] Se esta unidade tiver 10+ [[Bracket]] contagem, gaste até 20 [[suporte]] contagem; Deal +[[estilo de tag]] 2.5 [[estilo de tag]]% mais danos para cada contagem [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] Ganhe o peso do ATK igual a (mais alto inveja resson. - 2) (máximo 3)\n[[Estilo tag-estilo]] [[backet]] em 10+ [[backet]] contagem, aplique os efeitos aplicados de 'no hit' duas vezes [[estilo tag-estilo]]\n[[Bracket]] Se esta unidade tiver 10+ [[Bracket]] contagem, gaste até 20 [[suporte]] contagem; Deal +[[estilo de tag]] 3 [[estilo de tag]]% mais danos para cada contagem [[suporte]] consumida (max [[estilo de tag-estilo]] 60 [[estilo tag]]%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[[Suporte]] Por 3 voltas, perdem 10 sp no turno final",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ativar [[Bracket]] no alvo uma vez (o alvo perde 1 [[suporte]] contagem)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[[Estilo de tag]] Se o Target tiver 6+ [[Bracket]], Power de moedas +1 [[estilo de tag]]]\n[[Suporte]] Por 3 voltas, perdem 10 sp no turno final",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] Com mais de 4 ressonismo mais alto, ativar [[bracket]] no alvo uma vez (o alvo perde 1 [[backet]] contagem) [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] Com mais de 4 ressonismo mais alto, ativar [[bracket]] no alvo uma vez (o alvo perde 1 [[backet]] contagem) [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] ativar o [[suporte]] [[estilo de tag-estilo]] (1 + (ressonância mais alta) tempos. (3 vezes máximo; o alvo perde [[suporte]] contagem igual ao número de vezes em que foi ativado)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[[Estilo tag-estilo]] Poder de moeda +1 para cada 6 [[suporte]] no alvo (máximo 2) [[estilo de tag]]]\n[[Suporte]] Por 3 voltas, perdem 10 sp no turno final",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Em mais de 4 mais de ressonância, ativar [[bracket]] no alvo uma vez (o alvo perde 1 [[backet]] contagem) [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Em mais de 4 mais de ressonância, ativar [[bracket]] no alvo uma vez (o alvo perde 1 [[backet]] contagem) [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +[[estilo de tag]] 2 [[estilo de tag-estilo]] [[Bracket]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ativa os tempos do [[suporte]] (1 + (ressonamento mais alto). (3 vezes o máximo; o alvo perde [[suporte]] contagem igual ao número de vezes que foi ativado) [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[suporte]] Ao causar dano excessivo do HP restante do inimigo, causar o excesso de dano como dano fixo entre todos os inimigos. (min 1) [[estilo de tag]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] consome até 10% dos danos máximos da HP e Deal (HP consumidos / 2) desta unidade a todos os inimigos e aliados\n- Em menos de 50% do máximo HP desta unidade, infligir e ativar 5 [[suporte]] em todos os aliados uma vez (perca 1 [[suporte]] contagem). Cura HP igual à quantidade de danos [[suporte]] causados ​​a aliados",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] em si e no alvo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] em si e no alvo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                },
+                {
+                  "desc": "- Se o Target não tivesse [[suporte]], infligir 4 potência adicional [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ativar [[Bracket]] no alvo uma vez (o alvo perde 1 [[suporte]] contagem)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Estilo de tag]] em 6+ (soma de [[suporte]] em si mesmo e no alvo), poder de moeda +1 [[estilo de tag]]]\n[[Bracket]] consome até 10% dos danos máximos da HP e Deal (HP consumidos / 2) desta unidade a todos os inimigos e aliados\n- Em menos de 50% do máximo HP desta unidade, infligir e ativar 5 [[suporte]] em todos os aliados uma vez (perca 1 [[suporte]] contagem). Cura HP igual à quantidade de danos [[suporte]] causados ​​a aliados",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo de tag-estilo]] [[suporte]] em si mesmo e no alvo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo de tag-estilo]] [[suporte]] em si mesmo e no alvo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "-Se o Target não tivesse [[suporte]], infligir 4 adicionais [[backet]] potência [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] ativar o [[suporte]] [[estilo de tag-estilo]] (1 + (ressonância mais alta) tempos. (3 vezes o máximo; o alvo perde [[suporte]] contagem igual ao número de vezes que foi ativado) [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nPoder de moeda +1 para cada 6 (soma de [[backet]] em self e o alvo) [[estilo de tag]] (max 3) [[estilo tag-estilo]]]\n[[Bracket]] consome até 10% dos danos máximos da HP e Deal (HP consumidos / 2) desta unidade a todos os inimigos e aliados\n- Em menos de 50% do HP máximo desta unidade, infligir e ativar 5 [[suporte]] em todos os aliados (perca 1 [[suporte]] contagem). Cura HP igual à quantidade de danos [[suporte]] causados ​​a aliados",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[Bracket]] em Self and the Alvo [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[Bracket]] Ativa [[Bracket]] em Self and the Alvo uma vez (ambos perdem 1 [[bracket]] contagem) [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[Bracket]] em Self and the Alvo [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[Bracket]] Ativa [[Bracket]] em Self and the Alvo uma vez (ambos perdem 1 [[bracket]] contagem) [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +[[estilo de tag]] 2 [[estilo de tag-estilo]] [[Bracket]] contagem"
+                },
+                {
+                  "desc": "-Se o Target não tivesse [[suporte]], infligir 4 adicionais [[backet]] potência [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ativa os tempos do [[suporte]] (1 + (ressonamento mais alto). (3 vezes o máximo; o alvo perde [[suporte]] contagem igual ao número de vezes que foi ativado) [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[suporte]] Ao causar dano excessivo do HP restante do inimigo, causar o excesso de dano como dano fixo entre todos os inimigos. (min 1) [[estilo de tag]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

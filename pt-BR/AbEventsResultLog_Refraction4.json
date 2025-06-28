@@ -1,0 +1,96 @@
+{
+    "dataList": [
+        {
+            "id": "860801_log_1_1",
+            "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganhos</color> %{2} {1}/%"
+        },
+        {
+            "id": "860801_log_1_2",
+            "content": "<color=#ebcaa2>{0}</color> <color=#e30000>recebe {2}</color> {1} de dano"
+        },
+        {
+            "id": "860501_success_1",
+            "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganhos</color> %{2} {1}/%"
+        },
+        {
+            "id": "860501_success_2",
+            "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>perde {1} SP</color>"
+        },
+        {
+            "id": "860501_failure_1",
+            "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>perde {1} SP</color>"
+        },
+        {
+            "id": "862901_1_1",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#80c9ff>curam {0} SP.</color>"
+        },
+        {
+            "id": "862901_1_2",
+            "content": "Identidades de moedas negativas <color=#fe4b48>perdem {0} SP</color> em vez disso"
+        },
+        {
+            "id": "862901_1_3",
+            "content": "A partir do próximo turno, todos os aliados ganham +{0} de Velocidade Máxima para este Encontro"
+        },
+        {
+            "id": "862901_1_4",
+            "content": "Todos os aliados ganham {0} pelo resto do Encontro."
+        },
+        {
+            "id": "862901_2_1",
+            "content": "Todos os aliados <color=#80c9ff>curam {0} SP</color>"
+        },
+        {
+            "id": "862901_2_2",
+            "content": "Identidades de moedas negativas <color=#fe4b48>perdem {0} SP</color> em vez disso"
+        },
+        {
+            "id": "862901_2_3",
+            "content": "Todos os aliados ganham %{1} {0}/% neste Encontro"
+        },
+        {
+            "id": "862901_2_4",
+            "content": "Todos os aliados ganham {0} pelo resto do Encontro"
+        },
+        {
+            "id": "862901_3_1",
+            "content": "Todos os aliados <color=#80c9ff>curam {0} SP</color>"
+        },
+        {
+            "id": "862901_3_2",
+            "content": "Identidades de moedas negativas <color=#fe4b48>perdem {0} SP</color> em vez disso"
+        },
+        {
+            "id": "862901_3_3",
+            "content": "Todos os aliados ganham %{1} {0}/% neste Encontro"
+        },
+        {
+            "id": "862901_3_4",
+            "content": "Todos os aliados ganham {0} pelo resto do Encontro"
+        },
+        {
+            "id": "862902_1_1",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#80c9ff>curam {0} SP.</color>"
+        },
+        {
+            "id": "862902_1_2",
+            "content": "Identidades de Moedas Menos <color=#80c9ff>curam {0} SP</color> em vez disso"
+        },
+        {
+            "id": "862902_2_1",
+            "content": "Ganhe {0} recursos E.G.O para todas as afinidades"
+        },
+        {
+            "id": "862902_3_1",
+            "content": "Todos os aliados ganham %{1} {0}/% neste Encontro"
+        },
+        {
+            "id": "862903_success_1",
+            "content": "Reduza pela metade a potência e a contagem de todos os aliados {0}"
+        },
+        {
+            "id": "862903_failure_1",
+            "content": "Não aconteceu nada."
+        }
+    ]
+}

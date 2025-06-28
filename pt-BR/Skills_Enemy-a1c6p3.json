@@ -1,0 +1,417 @@
+{
+    "dataList": [
+        {
+            "id": 9013601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...nocking",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Sinking], infligir 1[AttackDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...to Clean",
+                    "desc": "[WhenUse]Se o alvo estiver em 10 ou menos SP, infligir 2[AttackDown]\n[WinDuel]Infligir 1[Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[PlusCoinValueDown]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...mmands...!",
+                    "desc": "[WhenUse]Potência base +1 para cada 3[Sinking]no alvo (máximo 3)[WinDuel]Todos os aliados curam 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...of Dust",
+                    "desc": "[WhenUse]Potência base +1 para cada 6[Sinking]no alvo (máximo 3)[WhenUse]Negociar +10% mais danos para cada 6[Sinking]Conte com o alvo (máximo 30%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir dano de bônus de afinidade da escuridão igual a[Sinking]no alvo. Reduzir[Sinking]Conte no alvo por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir dano de bônus de afinidade da escuridão igual a[Sinking]no alvo. Reduzir[Sinking]Conte no alvo por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir dano de bônus de afinidade da escuridão igual a[Sinking]no alvo."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 3+[Sinking]Conte, reutilize esta moeda (duas vezes)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slipp...",
+                    "desc": "Se esta unidade tiver a HP de escudo restante na extremidade do turno, o limiar mais baixo do Stagger por 50",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Damn Pl...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Remo...",
+                    "desc": "[WinDuel]Potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[AttackDown], causar 20% dos danos causados ​​como dano bônus"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[AttackDown], causar 20% dos danos causados ​​como dano bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Make Things...",
+                    "desc": "[WinDuel]Se o alvo tiver 2+[AttackDown], Potência base +1[WhenUse]Se o alvo tiver[DefenseDown], causar 30% dos danos causados ​​como dano por bônus",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp em si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp em si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 4 sp em si mesmo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "... ove You",
+                    "desc": "Prioriza os alvos com os efeitos mais negativos[WinDuel]Poder de moeda +1 para cada 3[DefenseDown]no alvo (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +30% mais danos para cada 2[AttackDown]no alvo (máximo 120%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Se o alvo tiver mais de 3 efeitos negativos, reutilize esta moeda (uma vez)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[StartBattle]Ganhe 20 HP de escudo adicional para cada aliado sobrevivente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Marc...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...te",
+                    "desc": "[WhenUse]Se o alvo tiver mais de 2 efeitos negativos, potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fl...he",
+                    "desc": "[WhenUse]Se o alvo tiver mais de 4 efeitos negativos, a moeda Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[PenetrateTakeDamageUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cou...oit",
+                    "desc": "[WhenUse]Se o alvo tiver mais de 5 efeitos negativos, potência base +2[WhenUse]Se o alvo tiver mais de 5 efeitos negativos, causar + 30% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vulnerable]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 5 efeitos negativos, reutilize esta moeda (2 vezes max)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Remova 1 efeito negativo removível aleatório aplicado no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9013805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...",
+                    "desc": "[OnSucceedEvade]Heal 5 SP (2 vezes máximo)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

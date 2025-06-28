@@ -1,0 +1,417 @@
+{
+  "dataList": [
+    {
+      "id": 9013601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...nocking",
+          "desc": "[[Bracket]] Se o Target tiver 5+ [[suporte]], infligir 1 [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...to Clean",
+          "desc": "[[Bracket]] Se o alvo estiver em 10 ou menos SP, infligir 2 [[suporte]]]\n[[Bracket]] infligir 1 [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...mmands...!",
+          "desc": "[[Bracket]] Power Base +1 para cada 3 [[suporte]] no alvo (máximo 3)\n[[Suporte]] Todos os aliados curam 5 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...of Dust",
+          "desc": "[[Bracket]] Power Base +1 para cada 6 [[suporte]] no alvo (máximo 3)\n[[Bracket]] Negamento +10% mais danos para cada 6 [[suporte]] contam com o alvo (máximo 30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligiram o bônus de afinidade da escuridão igual a [[suporte]] no alvo. Reduza [[suporte]] contagem no alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligiram o bônus de afinidade da escuridão igual a [[suporte]] no alvo. Reduza [[suporte]] contagem no alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligiram o bônus de afinidade da escuridão igual a [[suporte]] no alvo."
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 3+ [[backet]] contagem, reutilize esta moeda (duas vezes)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slipp...",
+          "desc": "Se esta unidade tiver a HP de escudo restante na extremidade do turno, o limiar mais baixo do Stagger por 50",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Damn Pl...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Remo...",
+          "desc": "[[Suporte]] Poder de base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], causar 20% dos danos causados ​​como dano por bônus"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], causar 20% dos danos causados ​​como dano por bônus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Make Things...",
+          "desc": "[[Bracket]] Se o alvo tiver 2+ [[suporte]], potência base +1\n[[Bracket]] Se o alvo tiver [[suporte]], causar 30% dos danos causados ​​como dano por bônus",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 4 SP em si mesmo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 4 SP em si mesmo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 4 SP em si mesmo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... ove You",
+          "desc": "Prioriza os alvos com os efeitos mais negativos\n[[Bracket]] Power +1 para cada 3 [[suporte]] no alvo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal +30% mais danos a cada 2 [[suporte]] no alvo (máximo 120%)"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 3 efeitos negativos, reutilize esta moeda (uma vez)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[[Bracket]] Ganhe 20 HP adicional de escudo para cada aliado sobrevivente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Marc...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...te",
+          "desc": "[[Bracket]] Se o alvo tiver 2+ efeitos negativos, potência base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fl...he",
+          "desc": "[[Bracket]] Se o alvo tiver mais de 4 efeitos negativos, potência da moeda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cou...oit",
+          "desc": "[[Bracket]] Se o alvo tiver mais de 5 efeitos negativos, potência base +2\n[[Bracket]] Se o alvo tiver mais de 5 efeitos negativos, causar + 30% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 5 efeitos negativos, reutilize esta moeda (2 vezes max)"
+                },
+                {
+                  "desc": "[[Bracket]] Remova 1 efeito negativo removível aleatório aplicado no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...",
+          "desc": "[[Bracket]] Heal 5 SP (2 vezes max)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

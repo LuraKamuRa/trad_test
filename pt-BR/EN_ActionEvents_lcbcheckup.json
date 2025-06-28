@@ -1,0 +1,158 @@
+{
+  "dataList": [
+    {
+      "id": 971042,
+      "name": "",
+      "desc": "Estamos no ponto de partida da masmorra das braças.\n\nNos encontramos em uma sala que parece ser uma oficina de engrenagens, por exemplo,.\n\n\"Se você obteve uma pontuação abaixo da taxa de sincronização de 100% no teste de aptidão, faça apenas um único, por exemplo, a partir daqui.\"\n\nUm sinal de aviso ameaçador cumprimenta todos nós, e as mesmas palavras se repetem incessantemente do orador.\n\nTodos os pecadores vão dar uma olhada, atraídos pela placa nos dizendo que podemos pegar, por exemplo, engrenagens aqui ... mas o que achamos que existem, por exemplo, presentes.\n\n\"O que? Estes não são, por exemplo, engrenagens. Estes são ... presentes ou algo assim, certo?\"\n\n\"Parece que, por exemplo, se manifestam aqui na forma de presentes, por exemplo,\".\n\n\"Hm. Não podemos simplesmente levar todos eles?\"\n\n\"Esta é uma masmorra das braças. Como difere das masmorras de espelho usuais, é altamente recomendável que suas regras sejam seguidas.\n\nO que devemos fazer?",
+      "options": [
+        {
+          "message": "Pegue a luva flamejante.",
+          "messageDesc": "Selecione para ganhar uma queima, por exemplo",
+          "result": [
+            "This one seems best suited for the situation we're in.\n\nWe take the 'Combustion Gloves' E.G.O Gift."
+          ]
+        },
+        {
+          "message": "Pegue as botas de combate com pedaços pontiagudos.",
+          "messageDesc": "Selecione para obter uma ruptura, por exemplo, presente",
+          "result": [
+            "This one seems best suited for the situation we're in.\n\nWe take the 'Spiked Combat Boots' E.G.O Gift."
+          ]
+        },
+        {
+          "message": "Pegue o spray da solução de limpeza.",
+          "messageDesc": "Selecione para ganhar um presente sem palavras, por exemplo",
+          "result": [
+            "This one seems best suited for the situation we're in.\n\nWe take the 'Illusory Hunt' E.G.O Gift."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971043,
+      "name": "",
+      "desc": "Encontramos um grupo de pesquisadores apaixonadamente por vários documentos.\n\nEles estão tendo um debate sobre dois assuntos: emoções e chamas.\n\n\"Chamas regulares parecem não prejudicar muito as anormalidades. Então, por que isso funciona, eu me pergunto ...?\"\n\n\"Talvez um maior grau de emoções iradas abre a sala para que o calor do incêndio toque em anormalidades e distorções, ambas as entidades do desconhecido\".\n\nEles devem ter nos notado ouvindo a conversa atentamente - um deles se aproxima de nós com um brilho nos olhos deles.\n\n\"Você é a 'amostra' que concordou com este experimento?\"\n\n\"Se sim, tente isso.\"\n\nNas mãos do pesquisador, estava o que parecia um plugue de ignição ... ou uma espécie de máquina de teste.",
+      "options": [
+        {
+          "message": "Você tem a pessoa errada.",
+          "messageDesc": "",
+          "result": [
+            "\"Wha? You're not the sample?\"\n\n\"Then what the hell are you doing in here? Get out, now!\"\n\nWe were kicked out."
+          ]
+        },
+        {
+          "message": "Somos as 'amostras'.",
+          "messageDesc": "Execute uma verificação de vantagem de ira e luxúria para obter uma queimadura, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971044,
+      "name": "",
+      "desc": "Vários pesquisadores estão se movendo ocupados em um laboratório de aparência agitada.\n\nAlgo escapou, ou algo assim?\n\nEnquanto ficamos ali olhando para a bagunça, alguém caminhou até os pecadores.\n\n\"Saia do meu jeito!\"\n\n\"Atualmente, você sabe o quê? Tempo perfeito.\"\n\n\"Coma isso. Vamos, não temos muito tempo até o prazo de relatório de ensaio clínico!\"",
+      "options": [
+        {
+          "message": "Coma.",
+          "messageDesc": "Execute uma verificação de vantagem de gula e sombra para obter uma ruptura, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Não estamos comendo isso. Nós nem sabemos o que é isso.",
+          "messageDesc": "",
+          "result": [
+            "\"Well, then get the hell outta my way!\"\n\nThe researcher pushed us aside."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971045,
+      "name": "",
+      "desc": "Vemos a mariposa de flores Ardor dentro da unidade de contenção.\n\nPartículas pequenas e carmesim de chamas o cercam como uma aura.\n\nAs asas flamejantes morrem um momento, apenas para rugir vigorosamente no próximo.\n\nUma tentativa incessante de incendiar tudo ao seu redor.\n\n\"Que espécime lindo, esta mariposa ardor Blossom. Você terminou suas observações?\"\n\n\"Aprendemos muito sobre a anormalidade recentemente\".\n\n\"Ainda há muitas incógnitas, mas ainda assim\".\n\n\"Falando nisso, aqui está um questionário pop. Que, por exemplo, presente você pode obter da mariposa de flor de ardor?\"",
+      "options": [
+        {
+          "message": "Blossom subaquática",
+          "messageDesc": "Selecione a resposta certa para obter uma queima, por exemplo",
+          "result": [
+            "\"…….\"\n\n\"Pay more attention next time.\"\n\nThe researcher brushed past us."
+          ]
+        },
+        {
+          "message": "O sonho de Hellterfly",
+          "messageDesc": "Selecione a resposta certa para obter uma queima, por exemplo",
+          "result": [
+            "\"Right on the money. You know your Ardor Blossom Moth.\"\n\n\"But that's not all. Recently, it's been giving out these things, too.\"\n\n\"Take this with you. I'm just glad to have run into a kindred soul.\"\n\nYou receive a burning, flickering flame. It seems to have come directly from the Ardor Blossom Moth itself."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971046,
+      "name": "",
+      "desc": "Vemos o FaelAntern dentro da unidade de contenção.\n\nUma fada em tons de ciano se agita em direção aos galhos magros e antigos da árvore e pousa suavemente em um deles.\n\nA filial está sentando os balanços de fada, como se nos atrair a nos aproximarmos deles ...\n\nOs incontáveis ​​olhos amarelos brilhantes brilham das sombras sob suas raízes.\n\n\"Que espécime lindo, este Faelanten. Você terminou suas observações?\"\n\n\"Aprendemos muito sobre a anormalidade recentemente\".\n\n\"Ainda há muitas incógnitas, mas ainda assim\".\n\n\"Falando nisso, aqui está um questionário pop. Que, por exemplo, presente você pode obter do Faelanten?\"",
+      "options": [
+        {
+          "message": "Nightmare no meio do inverno",
+          "messageDesc": "Selecione a resposta certa para obter uma ruptura, por exemplo",
+          "result": [
+            "\"Right on the money. You know your Faelantern.\"\n\n\"But that's not all. Recently, it's been giving out these things, too.\"\n\n\"Take this with you. I'm just glad to have run into a kindred soul.\"\n\nYou receive a bony twig. It seems to have come directly from the Faelantern itself."
+          ]
+        },
+        {
+          "message": "Concavidade",
+          "messageDesc": "Selecione a resposta certa para obter uma ruptura, por exemplo",
+          "result": [
+            "\"…….\"\n\n\"Pay more attention next time.\"\n\nThe researcher brushed past us."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971047,
+      "name": "",
+      "desc": "No final deste corredor, um grupo de pesquisadores está discutindo em frente a um lugar não natural.\n\nPercebendo nossa presença, seus rostos alegram quando se aproximam de nós.\n\n\"Por favor, você investigará esta área pela frente para nós?\"\n\n\"Vamos ajudar com o melhor de nossas habilidades, caso você aceite.\"",
+      "options": [
+        {
+          "message": "Aceitar e investigar.",
+          "messageDesc": "Curar todos os aliados\nExecute uma verificação de vantagem do Pride & Invy para obter um presente sem palavras, por exemplo, um presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Recusar.",
+          "messageDesc": "",
+          "result": [
+            "\"Fine, walk away.\"\n\n\"We're not the ones losing out on a good deal.\"\n\nThe researchers all turned around without a moment's hesitation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971048,
+      "name": "",
+      "desc": "Várias letras bagunçadas e frenéticas são esculpidas na parede com facas.\n\nEu praticamente sinto o horror e o desespero de seus escritores das letras selvagens.\n\nApós uma inspeção estreita, as marcas profundas contam uma história escrita em terror.\n\n'Eles estão enxameando nos monstros, eu os ouço a respiração que eles vão matar todos nós'\n\n'Salve -me, por favor, alguém me salve, eu não quero morrer por favor'\n\n'O medo é o que leva os homens à loucura. Os monstros estão próximos, eu posso sentir o estrondo de seus pés. Eles estão vindo ... '\n\nExistem frases inacabadas escritas na parede.\n\nA morte esculpiu marcas profundas entre eles.",
+      "options": [
+        {
+          "message": "Ignore -os e siga em frente.",
+          "messageDesc": "",
+          "result": [
+            "Nothing good can possibly come out of poking around in here. This won't be good for the Sinners.\n\nWe decided to quickly walk away from that place."
+          ]
+        },
+        {
+          "message": "Olhe em volta um pouco mais.",
+          "messageDesc": "Execute uma verificação de vantagem da ira e sombra para obter um presente sem palavras, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

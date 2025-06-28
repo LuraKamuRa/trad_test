@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "Vengeance_LowMorale",
+      "name": "Revenge",
+      "desc": "- Baixo moral\n- Ganhe 3 nível de defesa e 3 danos elevados",
+      "summary": "Ganhe 3 nível de defesa e 3 danos elevados",
+      "undefined": null
+    },
+    {
+      "id": "Vengeance_Panic",
+      "name": "Revenge",
+      "desc": "- Pânico\n- Ganhe 6 nível de defesa e 5 danos elevados",
+      "summary": "Ganhe 6 nível de defesa abaixo e 5 danos elevados",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBe",
+      "name": "Marked Prey",
+      "desc": "- A cada acerto que esta unidade leva, receba danos de barra de bônus iguais a 10% dos danos à HP recebidos. Expira na próxima curva.\n- Se esta unidade não sofrer danos durante este turno, infligir 1 complexo de inferioridade após o ataque e expirar\n- Valor máximo: 1",
+      "summary": "Tome dano de barra de bônus igual a 10% dos danos da HP tomados",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBf",
+      "name": "Inferiority Complex",
+      "desc": "- Toda vez que esta unidade é atingida, leve ((20% dos danos causados ​​pela HP) * {0}) dano\n- Valor máximo: 5",
+      "summary": "Tome ((20% dos danos causados ​​pela HP) * {0}) dano",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBa",
+      "name": "Explosive Gloom",
+      "desc": "- Resistência à afinidade da tristeza +0,3\n- Outra resistência à afinidade -0,5\n- Quando acertado: infligir 3 danos no sp no atacante, ganha 1 contagem de naufrágio e ganha 1 ataque de ataque no próximo turno (9 vezes por turno)",
+      "summary": "A resistência à melancolia (e apenas sombria) se torna fatal.\nQuando acertado: infligir 3 danos no SP no atacante, ganha 1 contagem de naufrágio e ganhe 1 nível de ataque no próximo turno.",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBb",
+      "name": "Explosive Envy",
+      "desc": "- Resistência à afinidade da inveja +0,3\n- Outra resistência à afinidade -0,5\n- Quando atingido: aplique 1 ofensa de nível acima, infligir 2 sangramento e 2 hemorrague com o atacante e ganhe 1 nível de defesa no próximo turno (9 vezes por turno)",
+      "summary": "A resistência à inveja (e a única inveja) se torna fatal\nQuando acertado: aplique 1 ofensa de nível, 2 sangramento e 2 hemorragias no alvo e ganhe 1 nível de defesa no próximo turno",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBc",
+      "name": "Explosive Wrath",
+      "desc": "- Resistência à afinidade da ira +0.3\n- Outra resistência à afinidade -0,5\n- Quando atingido: Ganhe 1 ofensa ao nível e 1 nível de defesa no próximo turno (9 vezes por turno)",
+      "summary": "A resistência à ira (e apenas ira) se torna fatal.\nQuando atingido, ganhe 1 ataque de ataque e 1 nível de defesa.",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBd",
+      "name": "Deep Bereavement",
+      "desc": "Turn Start: Perca 5 velocidade e ganhe 5 nível de defesa",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBg",
+      "name": "Misshapen Painting",
+      "desc": "- Baixo moral\n- Ganhe 1 ataque Power Up e 1 frágeis",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBh",
+      "name": "Misshapen Painting",
+      "desc": "- Pânico\n- Ganhe 1 Plus Coin Boost e 3 frágeis",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBi",
+      "name": "Hatred",
+      "desc": "- Baixo moral\n- Clash Win: Ganhe 1 Ofensão Nível no próximo turno. (máximo 3 por turno)\nClash Lose: Ganhe 1 Defense Level Up. (máximo 3 por turno)",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPbBj",
+      "iconID": "Vengeanse_LowMoral",
+      "name": "Hatred",
+      "desc": "- Pânico\n- Clash Win: Ganhe 1 Ofensão Nível no nível desta curva e na próxima curva. (máximo 3 por turno)\nClash Lose: Ganhe 1 Defense Level Up. (máximo 3 por turno)\nTurn End: Ganhe 2 Assure o próximo turno",
+      "undefined": null
+    }
+  ]
+}

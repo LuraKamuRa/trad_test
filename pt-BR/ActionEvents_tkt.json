@@ -1,0 +1,110 @@
+{
+    "dataList": [
+        {
+            "id": 10511,
+            "name": "Factory Laborer",
+            "subDesc": "",
+            "desc": "Apenas mais uma fábrica de relógios muito, muito ocupada.\n\n\"!@#$!#$#!$@#$!$#@$.\"\n\nUm homem com sapatos sociais brilhantes e um terno limpo, claramente o dono da fábrica, está gritando com seus funcionários em roupas de trabalho sujas e manchadas de óleo.\n\nAlgo parece chamar sua atenção, fazendo-o olhar para um dos funcionários e gritar de raiva.\n\nO funcionário, que já está ocupado com seu trabalho, fica nervoso e tenta dizer algo. Mas demora uma eternidade para abrir a boca.\n\nO dono pega um gravador em uma tentativa frustrada de se comunicar, mas não ajuda.\n\n\"Acabei de verificar a câmera de segurança. Você está cochilando há duas horas inteiras! Explique-se.\"\n\n\"P… … … a… … …\"\n\n\"… … c… … … t…\"\n\n\"Você não pode falar mais rápido, cara?!\"\n\nTalvez haja algo por aqui para resolver essa situação?",
+            "options": [
+                {
+                    "message": "Dê uma olhada geral e abrangente ao redor da fábrica.",
+                    "messageDesc": "Verificação de Vantagem de Gula e Orgulho. Passe para ganhar um Presente de Tremor E.G.O."
+                },
+                {
+                    "message": "Observe mais de perto o dono da fábrica e o funcionário.",
+                    "messageDesc": "Verificação de Vantagem de Gloom & Sloth. Passe para ganhar um Presente Tremor E.G.O."
+                }
+            ]
+        },
+        {
+            "id": 10512,
+            "name": "T Corp. Tax Collection",
+            "subDesc": "",
+            "desc": "Você se encontra em uma rua aleatória da T Corp. Um funcionário de coleta está coletando impostos de um cidadão.\n\n\"Você fará seus pagamentos em dia ou em dinheiro?\"\n\n\"Como eu disse, já pagamos nossos impostos de tempo integralmente! Além disso, trezentos milhões de Ahn? Isso é um absurdo...!\"\n\n\"Os registros afirmam que você acumulou responsabilidades adicionais de imposto de tempo devido ao imposto sobre doações.\"\n\n\"De jeito nenhum. Isso é porque eu dei meu tempo para aquelas crianças nas Backstreets?\"\n\n\"Eu só dei a eles trezentas horas, então como diabos isso de repente vira uma bola de neve de trezentos milhões de Ahn em impostos?! Isso não faz sentido!\"\n\n\"Os cálculos de impostos na T Corp. são sempre excepcionalmente precisos.\"\n\nO coletor de tempo avança em direção ao cidadão para neutralizá-lo.",
+            "options": [
+                {
+                    "message": "Fale com eles.",
+                    "messageDesc": "Verificação de Vantagem de Gloom & Sloth. Passe para ganhar um Presente E.G.O. sem Palavras-chave."
+                },
+                {
+                    "message": "Vá embora.",
+                    "result": [
+                        "Looks like he'll have to defend himself somehow at the Collections Office.\n\nIt's not like you can change anything by stepping in.\n\n... You suddenly come to a realization that this is the kind of thought that transformed T Corp. to a place like this. You whip around and try to intervene...\n\n... But the Time Collector had already extracted time from the citizen, slowing him to a crawl."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10513,
+            "name": "Streets of T Corp.",
+            "subDesc": "",
+            "desc": "Pessoas de todas as esferas da vida, todas com diferentes horas para passar em um determinado dia, falam e se movem em velocidades variadas.\n\nO som vindo dessa estranha desigualdade enche a rua de incongruência.\n\nDuas pessoas chamam sua atenção naquele caos.\n\nUm jovem de aparência rica, apesar de sua aparente afluência de tempo, está caminhando em um ritmo rápido em direção às ruas...\n\n... e um velho de aparência pobre, apesar de sua aparente pobreza de tempo, está caminhando lentamente para um beco com um olhar tranquilo em seu rosto.\n\nQuem seguir?",
+            "options": [
+                {
+                    "message": "Siga os jovens.",
+                    "messageDesc": "Verificação de Vantagem de Orgulho e Gula. Passe para ganhar um Presente Tremor E.G.O."
+                },
+                {
+                    "message": "Siga o velho.",
+                    "messageDesc": "Preguiça e Luxúria. Passe para ganhar um Presente Tremor E.G.O."
+                },
+                {
+                    "message": "Não siga ninguém.",
+                    "result": [
+                        "They're just two people minding their own business, spending their own time as they see fit.\n\nWhy go after them? Let's just spend our time as we see fit.\n\nYou continue down the street, your head brimming with thoughts of time inequality."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10514,
+            "name": "Yurodiviye Hideout",
+            "subDesc": "",
+            "desc": "Um esconderijo secreto dos Yurodiviye. Um Yurodivy está fervorosamente recitando os textos dados a eles pelo Santo.\n\n\"Nós nos tornamos nada além de engrenagens em uma máquina que existe somente para os industriais, a burguesia e os Wings.\"\n\n\"O que mais, que outra relação humana permanece entre os Cidadãos além do interesse próprio estreito e dos laços sem coração criados pelo capital?\n\n\"Assim, deixaremos de lado o metal frio e insensível que chamamos de moeda; em vez disso, trocaremos nosso calor uns com os outros com base em nossas necessidades!\"\n\n\"Para os que têm, as leis dos Ninhos são escudos que protegem seus privilégios; no entanto, para os que não têm, são correntes que nos acorrentam!\"\n\n\"Então desafiaremos as leis do Ninho! Mostraremos a eles a ira dos que não têm!\"\n\n\"Tudo o que os Yurodiviye têm a perder são nossas correntes; tudo o que temos a ganhar é um mundo sem fome!\"\n\nO Yurodivy de repente aponta em nossa direção.\n\nParece que vamos ter que dizer alguma coisa.",
+            "options": [
+                {
+                    "message": "T-os Yurodiviye da Cidade, uni-vos!",
+                    "messageDesc": "Wrath & Envy & Gluttony Advantage check. Passe para ganhar um Tremor E.G.O Gift."
+                },
+                {
+                    "message": "Gosto da ideia, mas não tem como dar certo.",
+                    "result": [
+                        "As soon as the Sinner finishes speaking, the room immediately falls cold and silent.\n\nThe Yurodivy who appears to be their leader points at the door and motions you to leave.\n\nYou leave the place before something happens."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10515,
+            "name": "The Timekilling Scene",
+            "subDesc": "",
+            "desc": "Você vê uma vítima do Time Ripper.\n\nVocê não pode nem tocá-los graças ao fenômeno de superposição de deslocamento espaço-temporal.\n\nHá algo que você possa fazer aqui para ajudar?",
+            "options": [
+                {
+                    "message": "Tente ajudar.",
+                    "messageDesc": "Preguiça & Gula & Teste de Vantagem de Orgulho. Passe para ganhar um Presente E.G.O. Sem Palavra-chave."
+                },
+                {
+                    "message": "Ignore-os e siga em frente.",
+                    "result": [
+                        "You have to go after the Time Ripper.\n\nNo time to waste."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10516,
+            "name": "Before Entry",
+            "subDesc": "",
+            "desc": "Você entra no Dungeon of the Fathoms. Ele se assemelha a uma rua da T Corp.\n\nApós a multidão de transeuntes ocupados, você percebe a máquina de venda automática brilhante por perto.\n\nCom as ruas completamente desprovidas de cor...\n\n... a luz da máquina de venda automática parece ressoar muito mais vibrantemente com seu coração.",
+            "options": [
+                {
+                    "message": "Siga a luz.",
+                    "result": [
+                        "We're *this* close to unveiling the truth of the Timekilling Time.\n\nWe don't exactly know how this case will end...\n\n... but we decided to forge on, the brilliance our guiding light."
+                    ]
+                }
+            ]
+        }
+    ]
+}

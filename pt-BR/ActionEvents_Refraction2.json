@@ -1,0 +1,24 @@
+{
+    "dataList": [
+        {
+            "id": 855601,
+            "name": "Sign of Roses",
+            "subDesc": "TEXTO NÃO UTILIZADO",
+            "desc": "\"O que você deseja?\"\n\nO Signo pergunta aos pecadores.\n\n\"Uma rosa só pode florescer quando você claramente deseja algo.\"\n\n\"Quanto mais pesados ​​forem seus pecados, mais profunda será a cor das pétalas.\n\n\"Viu? Deseje, deseje. Sabendo que é um pecado. Só então você pode florescer rosas tão coloridas.\"\n\n\"Você tem que florescer as rosas. Você quer escapar deste jardim, não é?\"\n\n\"Deixe-nos... deixe-me ajudá-lo.\"\n\n\"Nosso único desejo é que nosso jardim floresça cheio de flores.\"\n\n\"Agora, o que você fará?\"",
+            "options": [
+                {
+                    "message": "Recusar.",
+                    "result": [
+                        "\"Foolish.\"\n\n\"Everyone has wishes. To deny them is to deny yourself.\"\n\n\"I can see how… vivid your seeds are. To not allow them to bloom isn't fair.\"\n\n\"Well… That's too bad.\"\n\n\"If you have no wishes, then remain here forevermore.\"\n\n\"Until you realize that there is no moving on without acceptance.\"\n\n\"Be with us. With me.\""
+                    ]
+                },
+                {
+                    "message": "Aceitar.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

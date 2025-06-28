@@ -1,0 +1,1813 @@
+{
+    "dataList": [
+        {
+            "id": 1040501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "E.C.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "E.C.",
+                    "desc": "Com mais de 10 contagem de cobrança, causar + 10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "E.C.",
+                    "desc": "Com mais de 10 contagem de cobrança, causar + 10% de dano\nCom mais de 15 anos de contagem de cobrança, causar + 10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Leap",
+                    "desc": "[WhenUse]Ganhe +5 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Com mais de 10 anos de contagem de carga, infligir 1 fragilidade de barra"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o HP do alvo estiver abaixo de 30%, causará +15% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Leap",
+                    "desc": "[WhenUse]Ganhe +6 contagem de cobrança\nCom mais de 10 anos de contagem de carga, ganhe +1 poder de moeda",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Com mais de 10 anos de contagem de carga, infligir 1 fragilidade de barra"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o HP do alvo estiver abaixo de 30%, causará +20% de dano"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 1 pressa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Leap",
+                    "desc": "[WhenUse]Ganhar +7 contagem de cobrança\nCom mais de 10 anos de contagem de carga, ganhe +1 poder de moeda\nCom mais de 15 anos de contagem de cobrança, ganhe +1 de poder de moeda adicional",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Com mais de 10 anos de contagem de carga, infligir 2 fragilidade de barra"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o HP da meta estiver abaixo de 30%, causará +30% de dano"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 3 pressa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040503,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "D.D.E.D.R.",
+                    "desc": "[WhenUse]A 7 ~ 14 contagem de cobrança\nConsumir toda a contagem de cobrança,\nE consumir 3 x (15 - contagem de cobrança consumida)% HP para obter +3 de energia da moeda[WhenUse]Consuma 15 contagem de cobrança para obter +3 de poder de moeda",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +5% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +5% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +5% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Se a habilidade consumida 15 contagem de cobrança no uso, aplique 5<sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barreira de carga</color></link></u>para si mesmo e 1 outro aliado"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "D.D.E.D.R.",
+                    "desc": "[WhenUse]A 7 ~ 14 contagem de cobrança\nConsumir toda a contagem de cobrança,\nE consumir 3 x (15 - contagem de cobrança consumida)% HP para obter +5 de energia da moeda[WhenUse]Consuma 15 contagem de cobrança para ganhar +5 de poder de moeda",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Se a habilidade consumida 15 contagem de cobrança no uso, aplique 7<sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barreira de carga</color></link></u>para si mesmo e 1 outro aliado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Charged Evade",
+                    "desc": "Potência base +1 por 5 contagem de carga (máximo 2)",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Charged Evade",
+                    "desc": "Potência base +1 por 5 contagem de carga (máx. 3)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Shove",
+                    "desc": "[WhenUse]Ganhe +2 contagem de posições",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Target perde 4 sp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Shove",
+                    "desc": "[WhenUse]Ganhe +2 contagem de posições",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Target perde 6 sp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Shove",
+                    "desc": "[WhenUse]Ganhe 2 Poise Count<style=\"highlight\">Às 7+<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Equilíbrio</color></color></link></u>, Power de moedas +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Target perde 8 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "T.N.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 equilíbrio"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 equilíbrio"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "T.N.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 equilíbrio"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 equilíbrio"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "T.N.",
+                    "desc": "Às 7+<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Equilíbrio</color></link></u>, Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 equilíbrio"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2 nível de ofensa para baixo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 equilíbrio"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 1 nível de ofensa abaixo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040603,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "O.O.F.",
+                    "desc": "[WhenUse]Ganhe 4 equilíbrio\nEm mais de 10 anos<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Equilíbrio</color></link></u>, Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Gaste 1 munição"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Dupla a aplicação da potência do tremor e ruptura e contagem"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 tremor e +1 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura e +1 de contagem de ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "O.O.F.",
+                    "desc": "[WhenUse]Ganhe 4 equilíbrio\nGanhe +1 poder de moeda para cada 7 Poise On Self (Máx 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganho +1 contagem de posições"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganho +1 contagem de posições"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Gaste 1 munição"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Dupla a aplicação da potência do tremor e ruptura e contagem"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 tremor e +2 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 ruptura e +2 de contagem de ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "All-out War",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "All-out War",
+                    "desc": "Se o alvo tiver 6+[Combustion], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "All-out War",
+                    "desc": "Se o alvo tiver 6+[Combustion], Clash Power +1<style=\"highlight\">Se o alvo tiver 10+[Combustion], Power de moedas +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fiery Knifehand",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Combustion], causar +20% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Fiery Knifehand",
+                    "desc": "Se o alvo tiver 6+[Combustion], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Combustion], causar +30% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fiery Knifehand",
+                    "desc": "Se o alvo tiver 6+[Combustion], Clash Power +1<style=\"highlight\">Se o alvo tiver 6+[Combustion], Power de moedas +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Combustion], causar +50% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040703,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Flame Cleave",
+                    "desc": "Se o alvo tiver 6+[Combustion], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Combustion], causar +20% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Flame Cleave",
+                    "desc": "Se o alvo tiver 6+[Combustion], Clash Power +1<style=\"highlight\">Se o alvo tiver 6+[Combustion], Power de moedas +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Combustion], causar +40% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Receiving Arts 1: The Hunt",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MarkOfButler]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Receiving Arts 1: The Hunt",
+                    "desc": "<style=\"highlight\">Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Clash Power +1</style>\n[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MarkOfButler]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Receiving Arts 1: The Hunt",
+                    "desc": "<style=\"highlight\">Se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder de conflito +1 para cada diferença de velocidade de 2 (máximo 3)</style>\n[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MarkOfButler]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Receiving Arts 7: Capture",
+                    "desc": "[StartBattle]Consuma 6[Breath]Conte consigo mesmo para ganhar +2 de peso ATK para esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MarkOfButler]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Receiving Arts 7: Capture",
+                    "desc": "[StartBattle]Consuma 6[Breath]Conte consigo mesmo para ganhar +2 de peso ATK para esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MarkOfButler]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Receiving Arts 7: Capture",
+                    "desc": "<style=\"highlight\">Se a velocidade desta unidade for mais rápida que o alvo principal, ganhe poder de conflito +1 para cada diferença de velocidade de 2 (máximo 3)</style>\n[StartBattle]Consuma 6[Breath]Conte consigo mesmo para ganhar +2 de peso ATK para esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 1[MarkOfButler]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MarkOfButler]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040803,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Receiving Arts 2: S.Y.N.C.",
+                    "desc": "Se o alvo tiver[MarkOfButler], Clash Power +1[WhenUse]Ganhe +7[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 5[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aumentar o limite de cambaleou em 20% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo estiver escalonado, causar +20% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MarkOfButler]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Receiving Arts 2: S.Y.N.C.",
+                    "desc": "Se o alvo tiver[MarkOfButler], Clash Power +1<style=\"highlight\">Se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder de moeda +1 para cada diferença de velocidade de 2 (máximo 2)</style>\n[WhenUse]Ganhe +7[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 5[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aumentar o limite de cambaleou em 30% dos danos causados"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 1[MarkOfButler]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo estiver escalonado, causar +40% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MarkOfButler]"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Habilidade de reutilização uma vez em um alvo aleatório com[MarkOfButler](Não é ativado na reutilização. Não é ativado quando não há alvos restantes com[MarkOfButler])"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mediocre",
+                    "desc": "[OnSucceedEvade]Heal 3 sp (3 vezes por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Mediocre",
+                    "desc": "[OnSucceedEvade]Heal 3 sp (<style=\"highlight\">5</style>vezes por turno)<style=\"highlight\">[OnSucceedEvade]Ganhe +1[Breath]Contagem (5 vezes por turno)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Got a Screw Loose?",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho[Vibration]Contagem igual a (([Vibration]Contagem no alvo)/2) (máx. 2)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Got a Screw Loose?",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar<style=\"highlight\">[WhenUse]A 5+[Vibration]Contagem, poder de conflito +2</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho[Vibration]Contagem igual a (([Vibration]Contar no alvo)/2) (máximo<style=\"highlight\">3</style>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Got a Screw Loose?",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar[WhenUse]No<style=\"highlight\">4</style>+ [Vibration]Contagem, poder de conflito +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho[Vibration]Contagem igual a ([Vibration]Contar no alvo) (Max<style=\"highlight\">4</style>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Compression Wind-up Spanner",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consumir[Vibration]Contar consigo mesmo e infligir a mesma quantidade de[Vibration]Conte no Target (máximo 5)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Compression Wind-up Spanner",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar<style=\"highlight\">A 5+[Vibration]Conte, Power de moedas +1</style>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +1[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consumir[Vibration]Contar consigo mesmo e infligir a mesma quantidade de[Vibration]Conte no Target (máximo 5)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Compression Wind-up Spanner",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar<style=\"highlight\">[WhenUse]Em mais de 4[Vibration]Contagem, poder de conflito +1</style>No<style=\"highlight\">4</style>+ [Vibration]Conte, Power de moedas +1",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consumir[Vibration]Contar consigo mesmo e infligir a mesma quantidade de[Vibration]Conte no Target (máximo 5)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040903,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Percussive Maintenance",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar\nConsuma 10[Vibration]Conte consigo mesmo para ganhar o poder da moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Percussive Maintenance",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar\nConsumir<style=\"highlight\">8</style> [Vibration]Conte consigo mesmo para ganhar o poder da moeda +1<style=\"highlight\">Se o alvo tiver 6+[Vibration], Power de moedas +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contar por<style=\"highlight\">1</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1040904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Ganhe 2 x ([Vibration]Contar com eu) como Shield HP (máximo 5)",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Ganhe 2 x ([Vibration]Contar comigo) como Shield HP (Max<style=\"highlight\">10</style>)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1041001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Both of You, Shut Up",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[PenanceFirst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[RedEyeFirst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Both of You, Shut Up",
+                    "desc": "<style=\"highlight\">Às 7+[RedEyeFirst], Power de moedas +1\nÀs 7+[PenanceFirst], Clash Power +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[PenanceFirst]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[RedEyeFirst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir 1[Laceration]</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Both of You, Shut Up",
+                    "desc": "Às 7+[RedEyeFirst], Power de moedas +1\nÀs 7+[PenanceFirst], Poder de conflito<style=\"highlight\">+2</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[PenanceFirst]\n<style=\"highlight\">[OnSucceedAttackHead]Ganho 1[PenanceFirst]</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[RedEyeFirst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1041002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "S.H. / S.F.",
+                    "desc": "Se a soma de[RedEyeFirst]e[PenanceFirst]é 20 ou superior, poder de moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4[PenanceFirst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[RedEyeFirst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "S.H. / S.F.",
+                    "desc": "Se a soma de[RedEyeFirst]e[PenanceFirst]é 20 ou superior, poder de moeda +1<style=\"highlight\">Se o alvo tiver 6+[Laceration], Power de moedas +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4[PenanceFirst]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[RedEyeFirst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Ganho[RedEyeFirst]igual a ([Laceration]no alvo/3) (máximo 2)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "S.H. / S.F.",
+                    "desc": "Se a soma de[RedEyeFirst]e[PenanceFirst]é<style=\"highlight\">15</style>ou mais, poder de moeda +1\nSe o alvo tiver 6+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4[PenanceFirst]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[RedEyeFirst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho[RedEyeFirst]igual a ([Laceration]no alvo/<style=\"highlight\">2</style>) (máx<style=\"highlight\">3</style>)"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttackHead]Às 7+[RedEyeFirst], ganha 1[Agility]Próximo turno (2 vezes por turno)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1041003,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Skullbuster",
+                    "desc": "[BeforeUse]Se[RedEyeFirst]e[PenanceFirst]estão ambos com mais de 15 anos, ativam 'skullbuster grave' em vez\nSe a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Power de moeda +1[WhenUse]Em Max SP, Moeda Power +1\n-[EndSkill]Se esse efeito ativou, perca 15 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 7[RedEyeFirst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 7[PenanceFirst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se e 1 aliar com a menor porcentagem de HP por ([PenanceFirst]/3)% do máximo de HP de cada unidade"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cure -eu e 1 aliado com o mínimo sp por ([PenanceFirst]- 10) SP (min 0)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Skullbuster",
+                    "desc": "[BeforeUse]Se[RedEyeFirst]e[PenanceFirst]estão ambos com mais de 15 anos, ativam 'skullbuster grave' em vez\nSe a velocidade desta unidade<style=\"highlight\">é mais rápido que o alvo</style>, Power de moedas +1[WhenUse]Em Max SP,<style=\"highlight\">Power de conflito +2</style>e poder de moeda +1\n-[EndSkill]Se esse efeito ativou, perca 15 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 7[RedEyeFirst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 7[PenanceFirst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">3</style> [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttackHead]Ganho 2[PenanceFirst]</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se e 1 aliar com a menor porcentagem de HP por ([PenanceFirst]/<style=\"highlight\">2</style>)% do HP máximo de cada unidade"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cure -eu e 1 aliado com o mínimo sp por ([PenanceFirst]- 10) SP (min 0)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1041004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mealtime, Bedtime",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[RedEyeFirst](uma vez por turno)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[PenanceFirst](uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Mealtime, Bedtime",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[RedEyeFirst](uma vez por turno)<style=\"highlight\">- em menos de 7[RedEyeFirst], ganha +1 adicional[RedEyeFirst]</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[PenanceFirst](uma vez por turno)<style=\"highlight\">- em menos de 7[PenanceFirst], ganha +1 adicional[PenanceFirst]</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1041005,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Serious Skullbuster",
+                    "desc": "[WhenUse]Consuma tudo[RedEyeFirst]e[PenanceFirst]em si mesmo\n- Poder de moeda +1 para cada 5[RedEyeFirst]consumido (máximo 4)\n- Poder base +1 para cada 5[PenanceFirst]consumido (máximo 4)[EndSkill]Perder 15 sp e ganhar[Emptiness]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Laceration]igual a ([RedEyeFirst]consumido - 15) no alvo (máximo 5)"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negociar +2,5% mais danos para cada[RedEyeFirst]e[PenanceFirst]consumido (máximo 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se e 1 aliar com a menor porcentagem de HP por ([PenanceFirst]consumido / 2)% do max hp de cada unidade\n- Cure 1 Ally adicional para cada 2 réson mais alto. (MAX 2 mais aliados)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cure -eu e 1 aliado com o mínimo sp por ([PenanceFirst]consumido - 10) sp\n- Cure 1 Ally adicional para cada 2 réson mais alto. (MAX 2 mais aliados)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Binding]e 2[Reduction]Próximo turno (uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Serious Skullbuster",
+                    "desc": "[WhenUse]Consuma tudo[RedEyeFirst]e[PenanceFirst]em si mesmo\n- Poder de moeda +1 para cada 5[RedEyeFirst]consumido (máximo 4)\n- Poder base +1 para cada 5[PenanceFirst]consumido (máximo 4)[EndSkill]Perder 15 sp e ganhar[Emptiness]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Laceration]igual a ([RedEyeFirst]consumido - 15) no alvo (máximo 5)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negócio<style=\"highlight\">+4%</style>mais danos para cada[RedEyeFirst]e[PenanceFirst]consumido (máx<style=\"highlight\">160%</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se e 1 aliar com a menor porcentagem de HP por<style=\"highlight\">([PenanceFirst]consumido)%</style>do max hp de cada unidade\n- Cure 1 Ally adicional para cada 2 réson mais alto. (MAX 2 mais aliados)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cure -eu e 1 aliado com o mínimo sp por ([PenanceFirst]consumido -<style=\"highlight\">5</style>) Sp\n- Cure 1 Ally adicional para cada 2 réson mais alto. (MAX 2 mais aliados)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Binding]e 2[Reduction]Próximo turno (uma vez por turno)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1041101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blinkstep",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Burst], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Blinkstep",
+                    "desc": "[WhenUse]Se o alvo tiver<style=\"highlight\">4</style>+ [Burst], Power de moedas +1<style=\"highlight\">[WinDuel]Infligir +1[Burst]Contar</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]A mais de 10 velocidade, reutilize moeda uma vez (uma vez por habilidade)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Blinkstep",
+                    "desc": "<style=\"highlight\">Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Power de moeda +1</style>\n[WhenUse]Se o alvo tiver 4+[Burst], Power de moedas +1[WinDuel]Infligir +1[Burst]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 10 velocidade, reutilize moeda uma vez (uma vez por habilidade)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1041102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "As Written",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, negócio (diferença de velocidade x[Burst]Potência no alvo)% mais dano (máximo 50%)[WhenUse]Se o alvo tiver 6+[Burst], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "A mais de 10 velocidades, causar + 10% mais danos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "As Written",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, negócio (diferença de velocidade x[Burst]Potência no alvo)% mais dano (máximo 50%)[WhenUse]Se o alvo tiver<style=\"highlight\">4</style>+ [Burst], Power de moedas +1<style=\"highlight\">[WhenUse]Ganho 2[Agility]Próximo turno (uma vez por turno)[WinDuel]Infligir +1[Burst]Contar</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]A mais de 10 velocidade, infligir +1[Burst]Contar</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "A mais de 10 velocidade, negócio +<style=\"highlight\">20</style>% mais danos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "As Written",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, negócio (diferença de velocidade x[Burst]Potência no alvo)% mais dano (máximo 50%)<style=\"highlight\">Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Power de moeda +1</style>\n[WhenUse]Se o alvo tiver 4+[Burst], Power de moedas +1[WhenUse]Ganho 2[Agility]Próximo turno (uma vez por turno)[WinDuel]Infligir +1[Burst]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 10 velocidade, infligir +1[Burst]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "A mais de 10 velocidade, negócio +<style=\"highlight\">30</style>% mais danos"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir 1[Burst]</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1041103,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "I'll gut you with a curse-engraved blade",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, negócio (diferença de velocidade x[Burst]Potência no alvo)% mais dano (máximo 50%)\nSe a velocidade desta unidade for mais rápida que a do alvo por 2 ou mais, Power de moedas +1[WhenUse]Ganhe 3[LegStrength]\n[WinDuel]Infligir +2[Burst]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[BurstAgility]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "A mais de 10 velocidades, causar + 30% mais danos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 10 velocidade, reutilize moeda uma vez (uma vez por habilidade)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "I'll gut you with a curse-engraved blade",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, negócio (diferença de velocidade x[Burst]Potência no alvo)% mais dano (máximo 50%)\nSe a velocidade desta unidade for mais rápida<style=\"highlight\">do que o alvo, ganho poder de moeda com base na diferença de velocidade (potência da moeda +1 para cada diferença de velocidade 2; máx.[WhenUse]Se o alvo tiver 15+[Burst], Power de moedas +1</style>\n[WhenUse]Ganhe 3[LegStrength]\n[WinDuel]Infligir +2[Burst]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[BurstAgility]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "A mais de 10 velocidades, causar + 30% mais danos<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 10 velocidade, reutilize moeda uma vez (uma vez por habilidade)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[ReUseOnSucceedAttack]Infligir[BurstAgility]</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1041104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Strider. Unleashed. Heh",
+                    "desc": "[DuelCounter]\n[WhenUse]Ganhe 3[LegStrength]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Strider. Unleashed. Heh",
+                    "desc": "[DuelCounter]\n[WhenUse]Ganhe 3[LegStrength]\n<style=\"highlight\">[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder base com base na diferença de velocidade (potência base +1 para cada diferença de velocidade 2; max 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

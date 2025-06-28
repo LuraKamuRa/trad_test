@@ -1,0 +1,827 @@
+{
+  "dataList": [
+    {
+      "id": 851001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crying Slap",
+          "desc": "[[Suporte]] Alvo perde 15 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 na naufrágio e +5 contagem de naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gloomy Slap",
+          "desc": "[[Suporte]] Target cura 5 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] causar danos sp por metade dos danos exibidos"
+                },
+                {
+                  "desc": "[[Suporte]] Nenhum dano da HP é causado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Melty Eyeball",
+          "desc": "[[Bracket]] Target perde 5 sp\nSe o SP da Target estiver abaixo de 0, +10% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] danos bônus de acordo com o afundamento do alvo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Bônus de acordo com os danos causados ​​pelo SP pelo afundamento do alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gushing Gloom",
+          "desc": "[[Bracket]] Target perde 5 sp\nTem como alvo o inimigo com mais afundamento",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] danos bônus de acordo com o afundamento do alvo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Bônus de acordo com os danos causados ​​pelo SP pelo afundamento do alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eyeball Weight",
+          "desc": "[[Bracket]] Cancelar todas as habilidades\n[[Suporte]] Ganhe 3 frágeis\nSe o alvo estiver abaixo de 0 sp, +10% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] naufrágio do alvo duplo e sua contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Melted Eyeball",
+          "desc": "[[Bracket]] Target perde 5 sp\nSe o SP da Target estiver abaixo de 0, +10% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Bônus de acordo com os danos causados ​​pelo SP pelo afundamento do alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Melted Eyeball",
+          "desc": "[[Bracket]] Target perde 5 sp\nSe o SP da Target estiver abaixo de 0, +10% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] danos bônus de acordo com o afundamento do alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Croohoo",
+          "desc": "[[Suporte]] Ganhe 2 proteção",
+          "coinlist": []
+        }
+      ]
+    },
+    {
+      "id": 851901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Booting Town Tour",
+          "desc": "[[Suporte]] Ganhe +4 contagem de cobrança",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Welcome to the Tour",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 mais queda de moeda na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Please Cooperate!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Processing Transfer Reg",
+          "desc": "[[Bracket]] Gase toda a contagem de cobranças",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Coloque o alvo em cativeiro"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pleased to Meet You, Dear Neighbor",
+          "desc": "[[SUPORTE]]\nAtaques alvo em cativeiro",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 10 queimaduras"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "System Error Detected",
+          "desc": "Fique escalonado no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Gasta 2 acusações para infligir 5 queimaduras"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Gasta 2 acusações para infligir 5 queimaduras"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 851907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Processing Computation",
+          "desc": "[[Suporte]] Ganhe 5 proteção",
+          "coinlist": []
+        }
+      ]
+    },
+    {
+      "id": 851908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rebooting…",
+          "desc": "",
+          "coinlist": []
+        }
+      ]
+    },
+    {
+      "id": 851909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Processing Transfer Reg",
+          "desc": "[[SUPORTE]]\n[[SUPORTE]]\nUnidade de alvos com a maioria dos HP\n[[Bracket]] gasta toda a cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Coloque o alvo em cativeiro"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do Not Enter",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Subdue",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Forbid Entry",
+          "desc": "[[Suporte]] Cura 10 hp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de ruptura"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] causar danos à HP igual à potência de ruptura\nRemova toda a ruptura do alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suspicious Individuals",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Restrain",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No Trespassing",
+          "desc": "Tem como alvo a unidade com mais HP",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Se a moeda 1 atingir as cabeças, +10% de dano"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Se a moeda 2 aterrissar as cabeças, +10% de dano"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Se as moedas 2 e 3 cabeças terrestres, +30% de dano"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dāna",
+          "desc": "[[Bracket]] Aplique 2 proteção a um outro aliado aleatório",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 danos na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expound Sutras",
+          "desc": "[[Bracket]] Aplique 2 ataques de ataque até um outro aliado aleatório",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aplique 2 ataques de ataque até um outro aliado aleatório na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mahāsrī",
+          "desc": "[[Suporte]] Dê 3 proteção na próxima curva",
+          "coinlist": []
+        }
+      ]
+    },
+    {
+      "id": 852704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Svāhā",
+          "desc": "[[Suporte]] causar 3 danos no próximo turno",
+          "coinlist": []
+        }
+      ]
+    },
+    {
+      "id": 852705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prajñāpāramitā",
+          "desc": "[[Bracket]] tem como alvo a unidade com mais karma\nCausar mais danos baseados no karma da Target (+2% por contagem)\nSe o alvo não tiver karma, -50% dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Se o alvo tiver karma, infligir 50 karma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dhyāna",
+          "desc": "[[Bracket]] pela metade os efeitos de status negativo nesta unidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 Ataque na próxima curva na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Compulsory Offering",
+          "desc": "[[Bracket]] Aplique 20 karma a um outro aliado aleatório na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 20 karma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sluggard Waker",
+          "desc": "[[Bracket]] Aplique 20 karma a um outro aliado aleatório na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 10 karma"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 10 karma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852709,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mantra",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Remova 3, por exemplo, recursos de uma afinidade aleatória"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Remova 3, por exemplo, recursos de uma afinidade aleatória"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852710,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sluggard Waker",
+          "desc": "[[SUPORTE]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 samsara"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Infligir 3 curva frágil na próxima vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bodhi Svāhā",
+          "desc": "[[Suporte]] Ganhe 10 danos\nAlvos inimigos escalonados primeiro",
+          "coinlist": []
+        }
+      ]
+    },
+    {
+      "id": 852801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drive",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 dano no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "…Be Cleansed",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Inquisitional Retribution",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rápidamente~",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 mais queda de moeda na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pañata Party~!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 mais queda de moeda na próxima curva"
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 curva frágil na próxima vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flesh Surge",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 paralisar a próxima curva na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dominate Mind",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 dano no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

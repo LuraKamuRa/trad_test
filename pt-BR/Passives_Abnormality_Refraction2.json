@@ -1,0 +1,494 @@
+{
+    "dataList": [
+        {
+            "id": 853901,
+            "name": "Broken Umbrella",
+            "desc": "Quando o corpo é quebrado, o corpo é infligido com 1 dano a cada turno."
+        },
+        {
+            "id": 853902,
+            "name": "Ragged Umbrella",
+            "desc": "Quando a cabeça estiver quebrada, ganhe 1 dano a cada turno"
+        },
+        {
+            "id": 853903,
+            "name": "Last Struggle",
+            "desc": "A 15% hp, esta unidade ganha 10 ligações e 1 ataque de ataque a cada volta\nOs velhos guarda -chuvas recém -gerados têm 30% mais HP. Usa 'gritos que procuram algo' a cada turno."
+        },
+        {
+            "id": 853904,
+            "name": "Vain Heart",
+            "desc": "Ganho 2<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Guarda de proteção</color></link></u>No início do primeiro turno. (Máx 6)\nGanhar mais<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Guarda de proteção</color></link></u>igual ao número de \"contagens de ciclo\".\nGanho<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Proteção</color></link></u>igual à contagem de<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Guarda de proteção</color></link></u>em si mesmo.\nSe a habilidade de espera for feita, convoce o velho guarda -chuva igual ao número de<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Guarda de proteção</color></link></u>"
+        },
+        {
+            "id": 853905,
+            "name": "Refracted Rupture and Sinking",
+            "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>e<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</color></link></u>A potência maxia em 30.<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>e<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</color></link></u>Conte máximo em 5."
+        },
+        {
+            "id": 853906,
+            "name": "Apply Refracted Bleed",
+            "desc": "Ao ganhar<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>, ganhe 1 potência adicional e contagem"
+        },
+        {
+            "id": 854001,
+            "name": "Old and Abandoned",
+            "desc": "Quando esta unidade é derrotada, a unidade que a derrotou ganha 2 pressa no próximo turno.\nTodas as partes da raposa à deriva são infligidas com 2 ligações.\nAplique 1 lascas de guarda -chuva na raposa à deriva."
+        },
+        {
+            "id": 854101,
+            "name": "Deteriorated Persistence",
+            "desc": "Se a Shield HP estiver totalmente esgotada após o uso de uma habilidade defensiva, obtenha o nível de ataque 3 e 3 frágeis no próximo turno."
+        },
+        {
+            "id": 854102,
+            "name": "Solid Exoskeleton",
+            "desc": "Se a cabeça não estiver quebrada,\nO corpo ganha 3 proteção a cada turno."
+        },
+        {
+            "id": 854104,
+            "name": "Refracted Charge",
+            "desc": "Se a Target tiver cobrança, reduza a contagem de cobrança do alvo em 1 no acerto e ganha 1 carga própria. (3 vezes por turno)"
+        },
+        {
+            "id": 854103,
+            "name": "Refracted Bleed and Tremor",
+            "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>e<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>A potência maxia em 30.<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>e<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>Conte máximo em 5."
+        },
+        {
+            "id": 854105,
+            "name": "Self-charge",
+            "desc": "Ganhe 3 auto-carregamento no início do primeiro turno.\nGanhe 1 auto-carregamento adicional para cada contagem de ciclo. (Máx 8)"
+        },
+        {
+            "id": 854201,
+            "name": "Mitosis",
+            "desc": "Quando o braço é quebrado, todas as partes ganham 1 ataque de ataque a cada turno."
+        },
+        {
+            "id": 854202,
+            "name": "Enticing Fairy Wine",
+            "desc": "Quando o vinho de fada está em campo, todas as peças ganham 5<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Vincular</color></link></u>."
+        },
+        {
+            "id": 854203,
+            "name": "Refracted Bleed and Tremor",
+            "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>e<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>A potência maxia em 30.<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>e<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>Conte máximo em 5."
+        },
+        {
+            "id": 854204,
+            "name": "Apply Refracted Rupture",
+            "desc": "Ao ganhar<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, ganhe 1 potência adicional e contagem"
+        },
+        {
+            "id": 854301,
+            "name": "Fairy Wine",
+            "desc": "Quando derrotado por uma identidade, todas as identidades ganham 5 turnos embriagados no próximo.\nSe não for derrotado, o cavalheiro de fada cura 10% de hp e ganha 2 ataque de ataque, 2 pressa e 2 proteção.\nExpira no final da curva"
+        },
+        {
+            "id": 854401,
+            "name": "Broken Means",
+            "desc": "Quando o braço é quebrado, o braço ganha 1 ataque de ataque a cada turno."
+        },
+        {
+            "id": 854402,
+            "name": "Apply Refracted Sinking",
+            "desc": "Ao ganhar<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</color></link></u>, ganhe 1 potência adicional e contagem"
+        },
+        {
+            "id": 854501,
+            "name": "Lost Means",
+            "desc": "Quando o braço é quebrado, a unidade ganha 1 ataque de ataque a cada turno."
+        },
+        {
+            "id": 854502,
+            "name": "Damaged Shade",
+            "desc": "Quando a cabeça é quebrada, a unidade ganha 2 nível de defesa a cada turno."
+        },
+        {
+            "id": 854503,
+            "name": "Refracted Bleed and Tremor",
+            "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>e<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>A potência maxia em 30.<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>e<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>Conte máximo em 5."
+        },
+        {
+            "id": 854504,
+            "name": "Apply Refracted Rupture",
+            "desc": "Ao ganhar<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, ganhe 1 potência adicional e contagem"
+        },
+        {
+            "id": 854601,
+            "name": "Contaminating Leaf",
+            "desc": "No início de cada turno, as pernas de fadas e o cavalheiro de fadas ganham 3 HP Cura Boost e 1 Ataque Power Up.\nSe o trevo sobreviver por mais de 4 voltas, ganhe 1 ataque adicional e 2 danos."
+        },
+        {
+            "id": 854701,
+            "name": "Mitosis",
+            "desc": "Quando o braço é quebrado, a unidade ganha 1 ataque de ataque a cada turno."
+        },
+        {
+            "id": 854702,
+            "name": "Enticing Fairy Wine",
+            "desc": "Quando o vinho de fada está em campo, todas as peças ganham 5<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Vincular</color></link></u>."
+        },
+        {
+            "id": 854703,
+            "name": "Refracted Bleed and Tremor",
+            "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>e<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>A potência maxia em 30.<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>e<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>Conte máximo em 5."
+        },
+        {
+            "id": 854704,
+            "name": "Apply Refracted Rupture",
+            "desc": "Ao ganhar<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, ganhe 1 potência adicional e contagem"
+        },
+        {
+            "id": 854801,
+            "name": "Fairy Wine",
+            "desc": "Quando derrotado por uma identidade, todas as identidades ganham 5 turnos embriagados no próximo.\nSe não for derrotado, o cavalheiro de fada cura 10% de hp e ganha 2 ataque de ataque, 2 pressa e 2 proteção.\nExpira no final da curva"
+        },
+        {
+            "id": 854901,
+            "name": "Charmed",
+            "desc": "Infligir encantado ao inimigo com a velocidade mais baixa.\nO número de alvos aumenta a cada contagem de ciclos.\nO número de alvos aumenta quando a fada é restaurada."
+        },
+        {
+            "id": 854902,
+            "name": "Uncovered Abyss",
+            "desc": "Revelar o corpo quando a fada é quebrada.\nTodos os buffs e debuffs expira quando o corpo se esconde novamente."
+        },
+        {
+            "id": 854903,
+            "name": "Leading Lure",
+            "desc": "Não pode danificar o núcleo danificando a fada.\nTem como alvo mais slots com base no número de<sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">Encantado</color></link></u>unidades."
+        },
+        {
+            "id": 854904,
+            "name": "Broken Stump",
+            "desc": "Quando o corpo estiver quebrado, a fada terá 60% de seu HP máximo na restauração.\nQuando o corpo é quebrado, o núcleo cura +20 mais hp com efeitos de habilidade"
+        },
+        {
+            "id": 854905,
+            "name": "Evolving Lure",
+            "desc": "Os ganhos de fada 20% aumentaram no máximo HP quando restaurados."
+        },
+        {
+            "id": 854906,
+            "name": "Refracted Rupture and Sinking",
+            "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>e<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</color></link></u>A potência maxia em 30.<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>e<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</color></link></u>Conte máximo em 5."
+        },
+        {
+            "id": 854907,
+            "name": "Fairy Dust",
+            "desc": "Quando a fada é morta, todas as identidades ganham 5 posta"
+        },
+        {
+            "id": 855001,
+            "name": "Dimensional Escape",
+            "desc": "A partir da curva 2, escape para uma brecha dimensional a cada poucas voltas.\nQuando todas as peças estiverem escalonadas, escape para uma brecha dimensional na próxima curva.\nNão pode ser escalonado enquanto dentro de uma brecha dimensional.\nQuando o núcleo está em 30% ou menos HP, não escapa para uma brecha dimensional."
+        },
+        {
+            "id": 855002,
+            "name": "Trapped Dimensional Escape",
+            "desc": "Quando todas as brecha dimensional são quebradas no mesmo turno, elas são criadas, emergem voluntariamente a partir de uma brecha dimensional.\nPosteriormente, perca 5 contagem de taxas e aumente o limite de cambaleou em 30 em todas as peças."
+        },
+        {
+            "id": 855003,
+            "name": "Regenerate Dimensional Refraction Blade",
+            "desc": "Quando a parte da lâmina estiver quebrada, perca 5 contagem de cobrança,\nE no final do próximo turno, recupere a parte da lâmina gastando 2 contagem de carga.\nQuando a parte da lâmina estiver quebrada, ganhe 2 ofensas no início no início de cada turno."
+        },
+        {
+            "id": 855004,
+            "name": "Refracted Burn and Rupture",
+            "desc": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Queimar</color></link></u>e<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>A potência maxia em 30.<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Queimar</color></link></u>e<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>Conte máximo em 5."
+        },
+        {
+            "id": 855005,
+            "name": "Apply Refracted Tremor",
+            "desc": "Ao ganhar<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>, ganhe 1 potência adicional e contagem"
+        },
+        {
+            "id": 856001,
+            "name": "Hemorrhaging Dimension",
+            "desc": "Acordo +10% de dano após passar pela dimensão de hemorragia"
+        },
+        {
+            "id": 856101,
+            "name": "Poisonous Dimension",
+            "desc": "Core Gains +20% HP máximo depois de passar pela dimensão venenosa"
+        },
+        {
+            "id": 856201,
+            "name": "Tremoring Dimension",
+            "desc": "Ganhe 1 velocidade depois de passar pela dimensão tremendo"
+        },
+        {
+            "id": 856301,
+            "name": "Electrifying Dimension",
+            "desc": "Ganhe +1 poder de moeda depois de passar pela dimensão eletrizante"
+        },
+        {
+            "id": 855101,
+            "name": "Golden Time",
+            "desc": "No final do turno, se o HP estiver entre 6% e 24%, as partes do núcleo curam instantaneamente até 80% do HP máximo e se recuperam de escalonamento. (Somente única)"
+        },
+        {
+            "id": 855102,
+            "name": "Time Reversion Retroaction",
+            "desc": "Depois de ativar o tempo de ouro, ganhe 2 frágeis no início do turno."
+        },
+        {
+            "id": 855103,
+            "name": "Overcharge",
+            "desc": "Se a contagem de mais de 5 anos no final do turno, ganhe 3 danos no próximo turno"
+        },
+        {
+            "id": 855104,
+            "name": "Refracted Rupture and Sinking",
+            "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>e<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</color></link></u>A potência maxia em 30.<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>e<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</color></link></u>Conte máximo em 5."
+        },
+        {
+            "id": 855105,
+            "name": "Apply Refracted Burn",
+            "desc": "Ao ganhar<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Queimar</color></link></u>, ganhe 1 potência e contagem adicionais."
+        },
+        {
+            "id": 855501,
+            "name": "Returning Past",
+            "desc": "Se em mais de 50 anos<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Passado acumulado</color></link></u>, e se a HP do Core for menor ou igual a 80%, o núcleo ganha 200 hp gastando 50<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Passado acumulado</color></link></u>."
+        },
+        {
+            "id": 855502,
+            "name": "Misplaced Past",
+            "desc": "Quando o corpo estiver quebrado, gaste tudo<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Passado acumulado</color></link></u>.\nQuando o corpo é quebrado, todos os tipos de ataque e afinidades se tornam ineficazes (0,5) contra o corpo, começando no próximo turno até o final deste encontro."
+        },
+        {
+            "id": 855503,
+            "name": "Broken Exhaust Port",
+            "desc": "Quando o blaster de vapor estiver quebrado, gaste completamente todas as partes de equilíbrio.\nDepois que o blaster de vapor está quebrado, ganhe<sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Frágil</color></link></u>igual ao número de<sprite name=\"Breath\"><color=#e30000><u><link=\"Breath\">Equilíbrio</color></link></u>Cada vez que esta unidade ganha<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Equilíbrio</color></link></u>.\nDepois que o blaster de vapor é quebrado, perca 1 equilíbrio toda vez que esta unidade usa uma habilidade de ataque."
+        },
+        {
+            "id": 855504,
+            "name": "Refracted Burn and Bleed",
+            "desc": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Queimar</color></link></u>e<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>A potência maxia em 30.<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Queimar</color></link></u>e<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrar</color></link></u>Conte máximo em 5."
+        },
+        {
+            "id": 855505,
+            "name": "Apply Refracted Sinking",
+            "desc": "Ao ganhar<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</color></link></u>, ganhe 1 potência adicional e contagem"
+        },
+        {
+            "id": 855506,
+            "name": "Leaking Steam",
+            "desc": "Quando o blaster de vapor for atingido, perca 1<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Equilíbrio</color></link></u>e 1 contagem de ponto"
+        },
+        {
+            "id": 855507,
+            "name": "Overlapping Past",
+            "desc": "Ganhe 1 Ataque Power Up para cada 80 acumulado passado a cada turno.\nEm mais de 80 anos<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Passado acumulado</color></link></u>, ganhe +1 slot."
+        },
+        {
+            "id": 855508,
+            "name": "Metronome",
+            "desc": "Se o<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Passado acumulado</color></link></u>é um número ímpar, ganha 3[Vulnerable]e[AttackDmgUp]Se for um número par, ganhe 3[Protection]e[AttackDmgDown]"
+        },
+        {
+            "id": 855601,
+            "name": "Eternal Yoke",
+            "desc": "O HP máximo aumenta em (contagem de ciclo x 5)%.\nAcordo (contagem de ciclo x 5)% menos dano"
+        },
+        {
+            "id": 855602,
+            "name": "Broken Sign",
+            "desc": "Quando a placa é quebrada, Rose perde Max HP"
+        },
+        {
+            "id": 855603,
+            "name": "Scattered Flesh",
+            "desc": "Quando a carne é quebrada, o núcleo perde o máximo de HP"
+        },
+        {
+            "id": 855604,
+            "name": "Singular Vine",
+            "desc": "Quando uma rosa é derrotada, o núcleo e a carne perde 30 hp.\nPerder 0,1 resistência à afinidade do pecado correspondente durante este encontro (empilhável)"
+        },
+        {
+            "id": 856401,
+            "name": "Hatred",
+            "desc": "Quando atingido, ganhe 1 ataque de ataque e 1 nível de defesa"
+        },
+        {
+            "id": 856402,
+            "name": "Embers",
+            "desc": "Quando derrotado por um golpe direto, devolva os danos ao atacante e infligir 5 queimaduras"
+        },
+        {
+            "id": 856403,
+            "name": "Blossoming Sins",
+            "desc": "Se em 4 Blooming Sin, entre no estado de energia para este encontro"
+        },
+        {
+            "id": 856404,
+            "name": "Boiling Wrath",
+            "desc": "Durante o estado de energia, infligir +1 mais queimadura com efeitos de habilidade\nSe morto durante o estado de energia, infligir 4 contagem de queimaduras para todos os aliados"
+        },
+        {
+            "id": 856405,
+            "name": "Rose on a Vine",
+            "desc": "Morre quando o núcleo do sinal de rosas é morto"
+        },
+        {
+            "id": 856501,
+            "name": "One-sided Desire",
+            "desc": "Em um confronto, poder final -2; Em um ataque sem oposição, o poder final +2"
+        },
+        {
+            "id": 856502,
+            "name": "Blossoming Sins",
+            "desc": "Se em 4 Blooming Sin, entre no estado de energia para este encontro"
+        },
+        {
+            "id": 856503,
+            "name": "Shimmering Lust",
+            "desc": "Durante o estado de energia, infligir +1 mais sangramento com efeitos de habilidade\nSe morto durante o estado de power-up, infligir 4 hemorragar para todos os aliados"
+        },
+        {
+            "id": 856504,
+            "name": "Rose on a Vine",
+            "desc": "Morre quando o núcleo do sinal de rosas é morto"
+        },
+        {
+            "id": 856601,
+            "name": "Powerless",
+            "desc": "Quando atingido, ganhe 5 proteção no próximo turno, a menos que seja escalonado"
+        },
+        {
+            "id": 856602,
+            "name": "Yellow Rose 2",
+            "desc": "Se em 4 Blooming Sin, entre no estado de energia para este encontro"
+        },
+        {
+            "id": 856603,
+            "name": "Crushing Sloth",
+            "desc": "Durante o estado de energia, infligir +1 mais tremor com efeitos de habilidade\nSe morto durante o estado de power-up, infligir 4 tremores contagem a todos os aliados"
+        },
+        {
+            "id": 856604,
+            "name": "Yellow Rose 4",
+            "desc": "Morre quando o núcleo do sinal de rosas é morto"
+        },
+        {
+            "id": 856701,
+            "name": "Hunger",
+            "desc": "Se esta unidade não causar danos em um turno, ganhe 2 fragilidade de ruptura"
+        },
+        {
+            "id": 856702,
+            "name": "Green Rose 2",
+            "desc": "Se em 4 Blooming Sin, entre no estado de energia para este encontro"
+        },
+        {
+            "id": 856703,
+            "name": "Growing Gluttony",
+            "desc": "Durante o estado de energia, infligir +1 mais ruptura com efeitos de habilidade\nSe morto durante o estado de power-up, infligir 4 ruptura contam para todos os aliados"
+        },
+        {
+            "id": 856704,
+            "name": "Green Rose 4",
+            "desc": "Morre quando o núcleo do sinal de rosas é morto"
+        },
+        {
+            "id": 856801,
+            "name": "Anxiety",
+            "desc": "Em um confronto, potência final +2; Em um ataque sem oposição, poder final -2"
+        },
+        {
+            "id": 856802,
+            "name": "Self Destruction",
+            "desc": "Quando atingido, a tristeza resiste em uma escuridão fraca (1,5) e ganha 5 proteção"
+        },
+        {
+            "id": 856803,
+            "name": "Blue Rose 3",
+            "desc": "Se em 4 Blooming Sin, entre no estado de energia para este encontro"
+        },
+        {
+            "id": 856804,
+            "name": "Shimmering Gloom",
+            "desc": "Durante o estado de energia, infligir +1 mais afundando com efeitos de habilidade\nSe morto durante o estado de power-up, inflam"
+        },
+        {
+            "id": 856805,
+            "name": "Blue Rose 5",
+            "desc": "Morre quando o núcleo do sinal de rosas é morto"
+        },
+        {
+            "id": 856901,
+            "name": "Outlash",
+            "desc": "No início de cada turno, aplique 1 equilíbrio e 1 postura contagem de aliados"
+        },
+        {
+            "id": 856902,
+            "name": "Superiority",
+            "desc": "Se esta unidade estiver viva, todo aliado ganha +5% de dano crítico por postura em si mesmo"
+        },
+        {
+            "id": 856903,
+            "name": "Azure Rose 3",
+            "desc": "Se em 4 Blooming Sin, entre no estado de energia para este encontro"
+        },
+        {
+            "id": 856904,
+            "name": "Overinflated Pride",
+            "desc": "Se estiver iniciando uma virada em um estado de power-up, ganhe +1 mais equilíbrio com efeitos de habilidade\nSe morto durante o estado de power-up, aplique 4 pontos de equilíbrio a todos os inimigos"
+        },
+        {
+            "id": 856905,
+            "name": "Azure Rose 5",
+            "desc": "Morre quando o núcleo do sinal de rosas é morto"
+        },
+        {
+            "id": 857001,
+            "name": "Jealousness",
+            "desc": "No início do turno, aplique 1 contagem de cobrança a 2 aliados aleatórios"
+        },
+        {
+            "id": 857002,
+            "name": "Inferiority Complex",
+            "desc": "Se esta unidade estiver viva, cada aliado ganha +5% de dano crítico por cobrança contagem em si mesmo"
+        },
+        {
+            "id": 857003,
+            "name": "Purple Rose 3",
+            "desc": "Se em 4 Blooming Sin, entre no estado de energia para este encontro"
+        },
+        {
+            "id": 857004,
+            "name": "Glaring Envy",
+            "desc": "Se estiver iniciando uma virada em um estado de energia, infligir +1 mais contagem de cobrança com efeitos de habilidade\nSe morto durante o estado de power-up, aplique 4 contagem de cobrança a todos os inimigos"
+        },
+        {
+            "id": 857005,
+            "name": "Purple Rose 5",
+            "desc": "Morre quando o núcleo do sinal de rosas é morto"
+        },
+        {
+            "id": 855605,
+            "name": "Blossoming Sins",
+            "desc": "Se em 4 Blooming Sin, entre no estado de energia para este encontro"
+        },
+        {
+            "id": 855606,
+            "name": "Rose on a Vine",
+            "desc": "Morre quando o sinal de rosas é derrotado"
+        },
+        {
+            "id": 854403,
+            "name": "Spreading Ember",
+            "desc": "No final do turno, se esta unidade tiver<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Queimar</color></link></u>, infligir a mesma quantidade de<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Queimar</color></link></u>Para todas as unidades com<sprite name=\"WrappedCurseTagRe\"><color=#a16a3b><u><link=\"WrappedCurseTagRe\">Malismã de maldição emaranhada</color></link></u>Próximo turno"
+        },
+        {
+            "id": 855607,
+            "name": "Sin-drenched Brambles",
+            "desc": "A cada turno, todas as peças ganham proteção igual ao número de pecadores com o efeito Crown of Thorns"
+        }
+    ]
+}

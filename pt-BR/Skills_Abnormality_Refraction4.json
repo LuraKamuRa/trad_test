@@ -1,0 +1,604 @@
+{
+    "dataList": [
+        {
+            "id": 860501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Leave This Place",
+                    "desc": "[WhenUse]Se o alvo tiver 4+[Sinking], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don't Make That Face",
+                    "desc": "[WhenUse]Se o alvo tiver 3+[Sinking]Contagem, poder de conflito +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Who Might You Be?",
+                    "desc": "Prioriza[UninvitedGuest]Se o alvo tiver[UninvitedGuest], infligir +1 mais[Sinking]Potência e conte com esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[UninvitedGuest], Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interloper, Are You?",
+                    "desc": "Prioriza[UninvitedGuest]Se o alvo tiver[UninvitedGuest], infligir +1 mais[Sinking]Potência e conte com esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[UninvitedGuest], Infligir 2[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Leave, Interloper",
+                    "desc": "Prioriza[UninvitedGuest]Ganhar peso ATK igual ao número de inimigos com[UninvitedGuest]\n[WhenUse]Ganhar poder de conflito igual ao número de inimigos com[UninvitedGuest]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Causa[SinkingSurge]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860506,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "My Master",
+                    "desc": "[DefeatDuel]Revela o retrato anexado a este slot de habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860507,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "My Tragic Master",
+                    "desc": "[DefeatDuel]Revela o retrato anexado a este slot de habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Master...?",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Horned Charge",
+                    "desc": "[WhenUse]Ganhe +1[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ram Charge",
+                    "desc": "[WhenUse]Ganhe +1[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AttackDown]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lamb's Cry",
+                    "desc": "[WhenUse]Ganhe +2[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lightning Manipulation",
+                    "desc": "[WhenUse]Ganhe +2[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electric Screaming",
+                    "desc": "[WhenUse]Peso ATK +1 para cada 4[Charge]Conte consigo mesmo (máximo 5)[WhenUse]Clash Power +3 para cada 5[Charge]Conte com eu (máximo 4)[WhenUse]Ganho 1[VioletDamageUp]Para cada 6[Charge]Conte com eu (máximo 3)[EndBattle]Todos[Charge]Conte com auto -expira. Perde[ConnectedPlug]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[AttackDown]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860806,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electric Screaming",
+                    "desc": "[CantDuel]\n[WhenUse]Ganhe 10[Protection]\n[WhenUse]Peso ATK +1 para cada 4[Charge]Conte consigo mesmo (máximo 5)[WhenUse]Clash Power +3 para cada 5[Charge]Conte com eu (máximo 4)[WhenUse]Ganho 1[VioletDamageUp]Para cada 6[Charge]Conte com eu (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860807,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Grounding Refusal",
+                    "desc": "Prioriza os alvos com[AntiSheepGround]Clash Power +1 para cada[ConnectedPlug]\n[StartBattle]Ganho 2 (3 -[ConnectedPlug]) [Protection]\n[WhenUse]Ganhe +1[Charge]Contar[DefeatDuel]Se o alvo tiver[AntiSheepGround], ganha 1[ConnectedPlug]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Overcharge Release",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enveloping Resignation",
+                    "desc": "Se o alvo tiver 6+[Sinking], Power de moedas +1[WinDuel]Infligir +3[Sinking]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Strangling Despair",
+                    "desc": "Poder de moeda +1 para cada 6[Sinking]no alvo (máximo 2)[WinDuel]Infligir +3[Sinking]Contar[DefeatDuel]Reduzir[Sinking]Contagem por 1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Chainbreaker",
+                    "desc": "Se o alvo tiver[Binding], Clash Power +1[WinDuel]Infligir +4[Sinking]Contar[DefeatDuel]Reduzir[Sinking]Potência por 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Chains of Binding",
+                    "desc": "Moeda Power + para cada 6[Sinking]no alvo (máximo 2)[DefeatDuel]Reduzir[Sinking]Contagem por 2[DefeatDuel]Aplicar[BandageOfTheBoundKing]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Binding]Próximo turno[OnSucceedAttack]Infligir[Vibration]igual a[Sinking]no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thou Wilt Sink",
+                    "desc": "Se o alvo tiver[Binding], Clash Power +1[WinDuel]Infligir +2[Sinking]Contar[DefeatDuel]Reduzir[Sinking]Potência por 4",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Causa[SinkingSurge]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Present Thyself Before the King",
+                    "desc": "[CantDuel]\n[StartBattle]Ganhe 5[Binding], 1[ComeForwardToTheKing]e 2[Enhancement]Próximo turno.[WhenUse]Aplique 300 escudo aos alvos com[BandageOfTheBoundKing]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade causou danos ao alvo, infligir[Vibration]igual a[Sinking]no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Master's Portrait",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

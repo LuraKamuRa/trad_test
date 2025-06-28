@@ -1,0 +1,224 @@
+{
+  "dataList": [
+    {
+      "id": "tutorial_main_low_0",
+      "content": "Tutorial do menu principal #1"
+    },
+    {
+      "id": "tutorial_main_low_1",
+      "content": "Tutorial do menu principal #2"
+    },
+    {
+      "id": "tutorial_main_low_2",
+      "content": "Tutorial do menu principal #3"
+    },
+    {
+      "id": "tutorial_main_low_3",
+      "content": "Tutorial do menu principal #4"
+    },
+    {
+      "id": "tutorial_main_low_4",
+      "content": "Tutorial do menu principal #5"
+    },
+    {
+      "id": "tutorial_dungeon_formation_1",
+      "content": "Durante o trecho final de cada capítulo, você estará explorando um [[Dungeon]], uma instalação de filial da antiga L Corp."
+    },
+    {
+      "id": "tutorial_dungeon_formation_2",
+      "content": "Designe as identidades que entrarão na masmorra com você. Você não pode ajustar sua equipe uma vez lá dentro, então escolha sabiamente."
+    },
+    {
+      "id": "tutorial_dungeon_formation_start_button",
+      "content": "Quando estiver totalmente preparado, pressione o botão [[suporte]]."
+    },
+    {
+      "id": "tutorial_dungeon_entry_0_title",
+      "content": "Estrutura da masmorra"
+    },
+    {
+      "id": "tutorial_dungeon_entry_0",
+      "content": "Seu objetivo é chegar à última seção do piso inferior e recuperar o ramo de ouro.\nA masmorra consiste em vários andares, cada um repleto de eventos e encontros.\nLimpe o setor no final do piso para prosseguir para o próximo."
+    },
+    {
+      "id": "tutorial_dungeon_entry_1_title",
+      "content": "Navegação de masmorras"
+    },
+    {
+      "id": "tutorial_dungeon_entry_1",
+      "content": "Cada setor está conectado a um ou mais caminhos.\nVocê pode viajar para setores adjacentes selecionando -os.\nÉ possível refazer suas etapas; portanto, fique à vontade para explorar onde deseja primeiro."
+    },
+    {
+      "id": "tutorial_dungeon_entry_2_title",
+      "content": "Danos sustentados"
+    },
+    {
+      "id": "tutorial_dungeon_entry_2",
+      "content": "Os pecadores não se curam após a batalha enquanto estão em masmorras.\nOs pecadores com 0 HP não conseguem participar, portanto, acompanhe seu status.\nAtingir um ponto de verificação permitirá que você restaure completamente seus pecadores."
+    },
+    {
+      "id": "tutorial_dungeon_entry_3_title",
+      "content": "Derrotas e tentativas"
+    },
+    {
+      "id": "tutorial_dungeon_entry_3",
+      "content": "Depois de perder uma batalha, você pode reattá -la desde o início, com o que os pecadores vivos permanecerem em toda a sua equipe."
+    },
+    {
+      "id": "tutorial_dungeon_saveroom",
+      "content": "Você pode encontrar pontos de verificação enquanto explora a masmorra.\nSeus pecadores curarão completamente o HP e redefinirão o SP ao alcançar um.\nQuando todos os seus pecadores morrerem, você será trazido de volta ao seu último posto de controle.\nObserve que o progresso feito além do referido ponto de verificação também será redefinido."
+    },
+    {
+      "id": "tutorial_dungeon_ab_part_title",
+      "content": "Peças de anormalidade"
+    },
+    {
+      "id": "tutorial_dungeon_ab_part_1",
+      "content": "Anormalidades consistem em pelo menos uma parte do corpo.\nCada parte tem seus próprios slots, bem como habilidades individuais."
+    },
+    {
+      "id": "tutorial_dungeon_ab_speed_title",
+      "content": "Velocidade de anormalidade"
+    },
+    {
+      "id": "tutorial_dungeon_ab_speed_1",
+      "content": "Cada parte de anormalidade possui slots com as habilidades que pretende usar.\nAs partes também têm valores de velocidade que determinam sua ordem de ação.\nSe você tem como alvo um slot de habilidade com um pecador cuja velocidade é maior, eles podem redirecionar esse ataque e colidir com ele."
+    },
+    {
+      "id": "tutorial_dungeon_ab_destroypart_title",
+      "content": "Quebrando peças"
+    },
+    {
+      "id": "tutorial_dungeon_ab_destroypart_1",
+      "content": "Quando o HP de uma parte do corpo é reduzido para 0, é [[tag quebrado]].\nUma parte quebrada se torna vulnerável a todos os tipos de ataque físico.\nAlgumas partes podem perder certas habilidades ou passivos após quebrar.\nObserve que algumas anormalidades têm peças regenerativas, bem como que quebrar certos podem enfurecer uma anormalidade."
+    },
+    {
+      "id": "tutorial_dungeon_ab_guide_title",
+      "content": "A enciclopédia de anormalidade"
+    },
+    {
+      "id": "tutorial_dungeon_ab_guide_1",
+      "content": "A enciclopédia registra informações sobre anormalidades e suas partes.\nPor natureza, a enciclopédia começa incompleta.\nQuanto mais você luta contra uma anormalidade, mais sua entrada será escrita.\nDepois de encontros suficientes, seu nível de observação aumentará.\nNíveis mais altos de observação podem aumentar os danos que você causa."
+    },
+    {
+      "id": "tutorial_dungeon_ab_selection_title",
+      "content": "Cheques"
+    },
+    {
+      "id": "tutorial_dungeon_ab_selection_1",
+      "content": "As verificações apresentadas por anormalidades têm uma afinidade do pecado necessária e um limiar para passar.\nEscolha um pecador com a afinidade certa para uma maior probabilidade de sucesso.\nA anormalidade reagirá de maneira diferente, dependendo de sua escolha e de seus resultados.\nA passagem do cheque geralmente oferece benefícios e, falhando, o enfaram com desvantagens."
+    },
+    {
+      "id": "tutorial_dungeon_saveroom_title",
+      "content": "Pontos de verificação"
+    },
+    {
+      "id": "tutorial_dungeon_saveroom_1",
+      "content": "Você pode encontrar pontos de verificação enquanto explora a masmorra.\nSeus pecadores curarão completamente o HP e redefinirão o SP ao alcançar um.\nQuando todos os seus pecadores morrerem, você será trazido de volta ao seu último posto de controle.\nObserve que o progresso feito além do referido ponto de verificação também será redefinido."
+    },
+    {
+      "id": "tutorial_skill_command_title",
+      "content": "Pedindo ataques"
+    },
+    {
+      "id": "tutorial_skill_command_1",
+      "content": "Para começar a fase de combate, todo pecador deve receber uma ordem.\nEm encontros regulares, você seleciona as habilidades encadeando -as no painel, da engrenagem esquerda para a direita."
+    },
+    {
+      "id": "tutorial_skill_coin_title",
+      "content": "Moedas de habilidade"
+    },
+    {
+      "id": "tutorial_skill_coin_1",
+      "content": "Cada habilidade consiste em pelo menos 1 moeda, o que representa o número de ataques que pode executar.\nA moeda é lançada quando o ataque é iniciado e seu resultado pode aumentar ou reduzir o poder da habilidade.\nEste modificador é transferido para a próxima moeda, se houver uma.\nOs dois tipos de moedas são mais (+) e menos (-)."
+    },
+    {
+      "id": "tutorial_adding_slot_title",
+      "content": "Slots adicionados"
+    },
+    {
+      "id": "tutorial_adding_slot_1",
+      "content": "No painel, uma nova coluna é adicionada para um pecador de cada vez a cada volta na ordem em que foi implantada, até um total de 12.\nOs pecadores que ganharam um não receberão outro até que todos os seus aliados ganhem um deles.\nUma vez que todo pecador tem uma coluna adicional, todos são mais uma vez elegíveis.\nOs inimigos também ganham slots adicionais à medida que a batalha continua."
+    },
+    {
+      "id": "tutorial_passive_title",
+      "content": "Passivos"
+    },
+    {
+      "id": "tutorial_passive_1",
+      "content": "As habilidades passivas são ativadas quando as habilidades de certas afinidades são encadeadas."
+    },
+    {
+      "id": "tutorial_ab_assign_skill_title",
+      "content": "Atacando anormalidades"
+    },
+    {
+      "id": "tutorial_ab_assign_skill_1",
+      "content": "Selecione a habilidade de um pecador e arraste -o para um dos slots da anormalidade para designar o alvo.\nObserve que cada slot de habilidade representa uma parte do corpo diferente."
+    },
+    {
+      "id": "ui_tutorial_2_1",
+      "content": "Você pode enviar todos os pecadores para a batalha de uma só vez, sim. Mas comandando tantos pessoal ao mesmo tempo não será uma tarefa fácil."
+    },
+    {
+      "id": "ui_tutorial_2_2",
+      "content": "Portanto, informarei o número apropriado de participantes, dependendo das particularidades de cada batalha.\nPara esta ocasião, 5 pecadores farão uma força apropriada."
+    },
+    {
+      "id": "ui_tutorial_2_3",
+      "content": "Selecione 5 pecadores que você gostaria de implantar para esta batalha.\nVocê pode selecionar a metade inferior dos cartões de cada pecador para implantá -los."
+    },
+    {
+      "id": "ui_tutorial_2_4",
+      "content": "Primeiro, selecione Faust."
+    },
+    {
+      "id": "ui_tutorial_2_5",
+      "content": "Trabalho preciso.\nSelecione o restante dos pecadores que você gostaria de implantar para este encontro."
+    },
+    {
+      "id": "ui_tutorial_2_6",
+      "content": "A seleção de 'para a batalha' começará a batalha com os pecadores que você implantou."
+    },
+    {
+      "id": "ui_tutorial_3_1",
+      "content": "Os pecadores que você implantou no último encontro serão automaticamente selecionados para o próximo, economizando o problema de selecioná -los novamente. Sinta -se à vontade para alterá -los antes de entrar na batalha, no entanto."
+    },
+    {
+      "id": "ui_tutorial_3_2",
+      "content": "Selecione o botão 'To Battle'."
+    },
+    {
+      "id": "ui_tutorial_4_1",
+      "content": "Uma das várias funções de Mefistófeles é a 'extração'.\nVocê pode coletar várias identidades e, por exemplo, a partir daqui."
+    },
+    {
+      "id": "ui_tutorial_4_2",
+      "content": "Selecione o botão Extrair."
+    },
+    {
+      "id": "ui_tutorial_4_3",
+      "content": "Você adquiriu uma nova identidade.\nA coleta de novas identidades e, por exemplo, contribuirá para melhorar nosso desempenho de combate."
+    },
+    {
+      "id": "ui_tutorial_4_4",
+      "content": "Agora, vamos voltar à batalha.\nAs batalhas podem ser acessadas através da janela 'Drive'."
+    },
+    {
+      "id": "ui_tutorial_4_5",
+      "content": "Selecione a parte superior dos pecadores para trocá -los por uma identidade diferente."
+    },
+    {
+      "id": "ui_tutorial_4_6",
+      "content": "Selecione Sinner Ishmael, se quiser."
+    },
+    {
+      "id": "ui_tutorial_4_7",
+      "content": "Nesse menu, você pode selecionar uma das identidades que extraiu para implantá -las na batalha.\nSelecione a identidade recém -adquirida para Ishmael."
+    },
+    {
+      "id": "ui_tutorial_4_8",
+      "content": "Bom trabalho. Selecionar identidades apropriadas para as particularidades de cada batalha é o caminho para a vitória.\nAgora, selecione o botão 'To Battle'."
+    }
+  ]
+}

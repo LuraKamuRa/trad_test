@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10408_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "S.P.D. Você se chama de Butler? Eu vou demonstrar, então fique quieto e assista. É tudo sobre Velocidade, Precisão e Determinação..."
+        },
+        {
+            "id": "lobby_morning_10408_1",
+            "desc": "Saudação matinal",
+            "dlg": "Os mordomos devem sempre começar suas manhãs duas horas antes do Mestre. Tire todos eles da cama, mesmo que você tenha que espancá-los."
+        },
+        {
+            "id": "lobby_noon_10408_1",
+            "desc": "Saudação da tarde",
+            "dlg": "O que diabos a equipe da cozinha está fazendo? O almoço dos nossos empregadores foi adiado por 5 minutos. Isso é completamente inaceitável. Mais um atraso e eu vou S.S.Y.N.C. É isso que você quer?"
+        },
+        {
+            "id": "lobby_night_10408_1",
+            "desc": "Saudação noturna",
+            "dlg": "Certifique-se de que seus garfos e facas estejam bem amolados. Tudo o que é realmente agradável sobre ser um Butler acontece durante as missões de 'vigília noturna'... heh."
+        },
+        {
+            "id": "smalltalk_10408_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Eu pessoalmente detesto ter que falar mais do que preciso, mas... esse trabalho desleixado merece uma bronca apropriada.\nHaah... Chefe Mordomo é um trabalho bem exaustivo."
+        },
+        {
+            "id": "smalltalk_10408_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "Olhe para essa bagunça dentro da sua mala. Como você vai encontrar seus utensílios em caso de emergência? Inacreditável...\nVou lhe dar outra demonstração de como organizar sua mala. O processo inteiro. Pela sétima vez..."
+        },
+        {
+            "id": "smalltalk_10408_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "A caçada está próxima. Desta vez, nosso alvo é... bem, não gosto que ele seja um velho conhecido meu...\nTsk. Mas isso é algo que eu tenho que fazer eu mesmo. Você aí. Conseguiu entrar em contato com Gregor?"
+        },
+        {
+            "id": "smalltalk_10408_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "Puxe para trás! Ele... Tsk, isso é difícil de explicar. Volte para a mansão e termine suas tarefas de limpeza. Seus ataques menos que ineficazes dificilmente ajudam de qualquer maneira.\n... Eu mesmo lidarei com ele."
+        },
+        {
+            "id": "smalltalk_10408_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "Então é assim que nos encontramos novamente... Que sensação bizarra é essa. Como o mordomo-chefe, devo dizer que esse não é o tipo de reunião que eu esperava que você trouxesse.\nEu vou dar uma baita festa de boas-vindas para você, no entanto. Heh."
+        },
+        {
+            "id": "neglect_10408_1",
+            "desc": "Parado",
+            "dlg": "Pare de se distrair e afie suas facas. Haah... quantas vezes devo me repetir?"
+        },
+        {
+            "id": "gacksung_10408_1",
+            "desc": "Uptying",
+            "dlg": "Muito bem. Já passou da hora de acabarmos com isso, Heathcliff. Porque você é... minha 'tarefa de limpeza' para cuidar."
+        },
+        {
+            "id": "formation_10408_1",
+            "desc": "Implantação",
+            "dlg": "Pronto, conforme as ordens daquele tolo Mestre."
+        },
+        {
+            "id": "battleentry_10408_1",
+            "desc": "Entrada no palco",
+            "dlg": "Talheres de caça prontos."
+        },
+        {
+            "id": "battle_select_10408_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Pare com essa sua bravata idiota e se proteja atrás de mim, seu Mestre idiota."
+        },
+        {
+            "id": "battle_endcommand_10408_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Partiu para uma recepção de combate."
+        },
+        {
+            "id": "battle_enemy_break_10408_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Prepare-se para fechar os olhos..."
+        },
+        {
+            "id": "battle_break_10408_1",
+            "desc": "escalonado",
+            "dlg": "Tch…"
+        },
+        {
+            "id": "battle_kill_10408_1",
+            "desc": "Inimigo morto",
+            "dlg": "Vá aproveitar seu sonho. Agora."
+        },
+        {
+            "id": "battle_dead_10408_1",
+            "desc": "Morte",
+            "dlg": "Tosse... Eu tenho que... proteger meu idiota de Mestre..."
+        },
+        {
+            "id": "choice_success_p_10408_2",
+            "desc": "Verificação aprovada",
+            "dlg": "Hmph, limpeza completa."
+        },
+        {
+            "id": "choice_fail_n_10408_1",
+            "desc": "Verificação falhou",
+            "dlg": "Bem, isso estava além das minhas obrigações de qualquer forma. Sofra as consequências da sua decisão."
+        },
+        {
+            "id": "battle_clear_10408_1",
+            "desc": "Grito de vitória",
+            "dlg": "Se a 'limpeza' estiver completa... vamos retornar em breve. Não fiquem acordados até muito tarde. Eu vou S.Y.N.C se eu vir que nossas tarefas matinais foram malfeitas."
+        },
+        {
+            "id": "battle_clear_ex_10408_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "Essa foi uma recepção de combate bem-sucedida. Seus movimentos não foram nada ruins... Agora, vamos retornar a outros trabalhos de \"limpeza da casa\"."
+        },
+        {
+            "id": "battle_defeat_10408_1",
+            "desc": "Derrote Wail",
+            "dlg": "Essa caçada foi um fracasso... Há tanta coisa que precisa ser abordada. Não apenas os Butlers, mas também... aquele idiota do Mestre. Eles precisarão de alguma reeducação."
+        }
+    ]
+}

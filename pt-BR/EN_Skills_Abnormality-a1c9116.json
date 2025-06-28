@@ -1,0 +1,249 @@
+{
+  "dataList": [
+    {
+      "id": 112701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No More Tests",
+          "desc": "[[Bracket]] Ganhe 3 [[Bracket]] Próximo turno\n[[Bracket]] Se o alvo principal tiver 3+ [[suporte]], converta todas as moedas nessa habilidade em [[suporte]] s",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Promised Suffering",
+          "desc": "Prioriza as metas com a pilha mais alta [[suporte]]\n[[Bracket]] Se o alvo tiver 3+ [[suporte]], converta todas as moedas nessa habilidade em [[suporte]] s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Esta curva e a próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Esta curva e a próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir ([[suporte]] no alvo x 3) dano bônus contundente"
+                },
+                {
+                  "desc": "[[Bracket]] Remova todos [[suporte]] no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enough games",
+          "desc": "[[Bracket]] Cura SP de todos os aliados por 10\n[[Bracket]] Se houver aliados em pânico, recupere -os do pânico no próximo turno e redefina seu SP para 0\n[[Bracket]] Aplique 1 [[suporte]] a todos os aliados, incluindo esta unidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "COMPLETE AND TOTAL EXTERMINATION!!!",
+          "desc": "Pode se chocá -lo com essa habilidade, independentemente da velocidade\nSe o alvo principal tiver 5+ [[suporte]], potência final +5\n[[Bracket]] Remova [[suporte]] de todos os alvos que foram atingidos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir ([[suporte]] no alvo x 10) dano bônus contundente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Startling Strike",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], Power Clash +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Perforating Kill",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], Power Clash +1\n[[Bracket]] Ganhe 3 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], ganhe 1 [[suporte]] próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Etching Strike",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cursewrit Butcherblade - Blinkstep",
+          "desc": "Prioriza metas com [[suporte]]\nOFERECIMENTO +15% MAIS DANOS PARA A cada diferença de velocidade de 2 entre esta unidade e o alvo (máximo 60%)\n[[Bracket]] Power +1 para cada 5 [[suporte]] no alvo (máximo 2)\n[[Bracket]] Power Base +1 para cada 2 [[suporte]] Contagem do alvo (máximo 3)\n[[Bracket]] Com mais de 10 velocidade e, se o alvo for derrotado, reutilize essa habilidade contra um inimigo aleatório (uma vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Se o alvo tiver [[suporte]], causar +50% mais danos"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cursewrit",
+          "desc": "[[SUPORTE]]\n[[Bracket]] Se o alvo tiver [[Bracket]], infligir +1 mais [[Bracket]] contagem com essa habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

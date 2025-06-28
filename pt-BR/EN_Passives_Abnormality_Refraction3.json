@@ -1,0 +1,119 @@
+{
+  "dataList": [
+    {
+      "id": 858801,
+      "name": "Injected Hatred and Animosity",
+      "desc": "Turn End: a 50%- Core HP, Ganho 1 [[Bracket]] No próximo turno. (uma vez por encontro)"
+    },
+    {
+      "id": 857801,
+      "name": "White Gossypium",
+      "desc": "Turn End: inimigos não escalonados e infligir (Stagger lv x 8) [[bracket]] e 2 [[suporte]] neles na próxima curva."
+    },
+    {
+      "id": 857802,
+      "name": "Binding Roots",
+      "desc": "Turn End: Aplique 1 [[suporte]] a todos os inimigos com Gossypium"
+    },
+    {
+      "id": 857803,
+      "name": "Red-stained Gossypium",
+      "desc": "A 20%- Core HP, torne-se [[suporte]] na extremidade do turno. Este [[suporte]] não expira."
+    },
+    {
+      "id": 857804,
+      "name": "To be Drenched in Blood",
+      "desc": "Ao atingir um alvo com uma habilidade de ataque, cure HP igual a [[suporte]] no alvo."
+    },
+    {
+      "id": 857805,
+      "name": "Gossypium Planting",
+      "desc": "Se esta unidade perder um confronto usando o Gossypium espalhador, use o Gossypium invasor no próximo turno."
+    },
+    {
+      "id": 857806,
+      "name": "Flowering Gossypium",
+      "desc": "Quando a parte do corpo estiver quebrada, pela metade o valor de Gossypium em todos os inimigos."
+    },
+    {
+      "id": 857701,
+      "name": "Flaming Ember",
+      "desc": "Converta uma série de habilidades de afinidade que não são de graus iguais ao valor de Ember em afinidade da ira."
+    },
+    {
+      "id": 857702,
+      "name": "Interlocking Ardor Blossom",
+      "desc": "Em sucesso, infligir [[suporte]] igual a (# das habilidades de afinidade da ira de que a mariposa flor de ardor usará essa curva).\nEm sucesso, Heal HP igual a (# da Wrath Affinity Habilidades que a Marith da Ardor Blossom usará este turno x2)."
+    },
+    {
+      "id": 857703,
+      "name": "The Last Ember",
+      "desc": "A 30%- HP, ganhe +1 mais [[suporte]]"
+    },
+    {
+      "id": 857704,
+      "name": "Stoke the Flames",
+      "desc": "Ao usar a estrela do Ardor Blossom, se a anormalidade tiver 0 [[suporte]], use Stoke as chamas."
+    },
+    {
+      "id": 858501,
+      "name": "Contempt and Gaze",
+      "desc": "Infligir 1 [[suporte]] contra o alvo toda vez que a parte dos 'mãos' é atingida. (3 vezes por turno)\nUnidades com [[suporte]] não podem ganhar [[suporte]].\nQuando a unidade 'Grasp' com [[suporte]] é quebrada, todas as peças de anormalidade ganham 3 [[suporte]] na próxima curva."
+    },
+    {
+      "id": 858502,
+      "name": "All-beholding Gaze",
+      "desc": "Quando o núcleo HP cair abaixo de 30% do máximo de HP, remova [[suporte]] e [[suporte]] de todas as identidades; Então, infligir [[suporte]] contra todas as identidades."
+    },
+    {
+      "id": 858503,
+      "name": "Crushing Grasp",
+      "desc": "Em certas voltas, se nenhum dos inimigos tiver [[suporte]], use o Crush."
+    },
+    {
+      "id": 858504,
+      "name": "Compounded Contempt",
+      "desc": "Turn End: Gain 1 [CrimsonTakeDamageUp], [ScarletTakeDamageUp], [AmberTakeDamageUp], [ShamrockTakeDamageUp], or [AzureTakeDamageUp] (Max 3) for every 10 Potency of [Combustion], [Laceration], [Vibration], [Burst], or [Sinking] on self, respectively."
+    },
+    {
+      "id": 858505,
+      "name": "Penetrated Gaze",
+      "desc": "Quando atingido com um acerto crítico, ganhe 1 [[suporte]] uma vez por habilidade (máximo 3)\nQuando atingido com uma habilidade que consumiu 8+ [[suporte]] contando, ganhe 1 [[suporte]] uma vez por habilidade. (Máx 3)"
+    },
+    {
+      "id": 860401,
+      "name": "Grasp",
+      "desc": "Turn End: no valor 2- [[suporte]], danos causados ​​por causa da metade do HP máximo do alvo. Em seguida, todas as partes da espiral de desprezo cura a mesma quantidade de HP que os danos causados ​​por esse efeito."
+    },
+    {
+      "id": 860402,
+      "name": "Rescue",
+      "desc": "Turn End: Se esta unidade teve desprezo ao ser agarrada, remova o desprezo de todas as identidades quando o alcance for quebrado por uma identidade."
+    },
+    {
+      "id": 857301,
+      "name": "Exposed Pearl",
+      "desc": "Turn Start: Se em 0 lodo verde, fique escalonado. Quando a parte da pérola é escalonada, a parte da pérola perde todas as resistências de afinidade em 0,5.\nGanhe 10 lodo verde ao se recuperar de escalonamento."
+    },
+    {
+      "id": 857302,
+      "name": "Gathering Slime",
+      "desc": "Corrija a velocidade desta parte para 3 para um turno ao usar o fluido devorador."
+    },
+    {
+      "id": 857401,
+      "name": "Contaminating Slime",
+      "desc": "Turn End: aplique (4 + Sobrevivendo o lodo verde) veneno a todos os inimigos."
+    },
+    {
+      "id": 857501,
+      "name": "Underwater Breathing",
+      "desc": "A partir da curva 2, ganhe 10 posições nesta curva se a parte da fluorescência não estiver quebrada. Ganhe +3 contagem de pontos.\nA partir da curva 2, ganha 1 paralisia e 1 dano nessa curva se a parte da fluorescência estiver quebrada."
+    },
+    {
+      "id": 858601,
+      "name": "Connected Hurt",
+      "desc": "Após a morte, causar 10 danos às sereias conectadas. Em seguida, aplique 2 danos no próximo turno."
+    }
+  ]
+}

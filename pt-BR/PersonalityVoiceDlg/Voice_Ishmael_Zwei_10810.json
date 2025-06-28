@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10810_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "Feche a porta e entre na fila. Eu preferiria que não tivéssemos que aguentar uma bronca na assembleia matinal."
+        },
+        {
+            "id": "lobby_morning_10810_1",
+            "desc": "Saudação matinal",
+            "dlg": "... Por que as corridas matinais não são opcionais?\nNão me importo com a corrida, mas... Não gosto de correr em grupo. Especialmente pelas ruas..."
+        },
+        {
+            "id": "lobby_noon_10810_1",
+            "desc": "Saudação da tarde",
+            "dlg": "Talvez possamos usar essas grandes espadas como mesas ou cadeiras durante o intervalo do almoço. Que tal uma ideia?"
+        },
+        {
+            "id": "lobby_night_10810_1",
+            "desc": "Saudação noturna",
+            "dlg": "Claro, estamos sempre mantendo nossas patrulhas em cada uma de nossas zonas designadas, mesmo durante a noite... mas você ainda deve ter cuidado.\nAté a sombra do escudo escurece sob o luar."
+        },
+        {
+            "id": "smalltalk_10810_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Uau... Você acha mesmo que essa espada larga e uma armadura completa são pesadas, difíceis de manejar e desajeitadas? Você sabe que esse equívoco foi desmascarado há muito tempo, certo?\nEssas coisas são mais leves do que parecem. Elas são feitas em oficina, então deveria ser óbvio."
+        },
+        {
+            "id": "smalltalk_10810_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "Cavalheirismo, sério...? Leve isso para um desses encrenqueiros cavaleiros andantes.\nSomos apenas escudos trabalhando para a Associação Zwei, não nobres cavaleiros dos seus contos de fadas."
+        },
+        {
+            "id": "smalltalk_10810_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "Isso é mais gratificante do que aquela insanidade que era a caça às baleias, e mais emocionante do que trabalhar para uma ala, mas... acho que não vou ficar aqui para sempre.\nNão suporto a ironia de ganhar a vida protegendo pessoas... quando vivo para me vingar daquele bastardo."
+        },
+        {
+            "id": "smalltalk_10810_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "Trabalho de proteção discreto, fingindo que nem estão lá... agora é assim que a filial sul faz. Nosso trabalho é ficar imponentemente ao lado de nossos clientes com essas espadas enormes e intimidar qualquer agressor antes mesmo que eles ousem atacar."
+        },
+        {
+            "id": "smalltalk_10810_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "Não coloque muita fé nessas 'Ordens de Cavaleiros' do oeste, a menos que elas façam parte de uma Ala como a Ordem da Visão Lunar da M Corp. Caso contrário, elas não são diferentes dos seus Fixer Offices usuais, então não crie muitas esperanças.\nSe você quer um trabalho de proteção adequado, sempre contrate especialistas como os Zwei e fique longe desses amadores."
+        },
+        {
+            "id": "gacksung_10810_1",
+            "desc": "Uptying",
+            "dlg": "Não se preocupe. Nem uma única flecha passará enquanto eu estiver entre você e seus inimigos."
+        },
+        {
+            "id": "neglect_10810_1",
+            "desc": "Parado",
+            "dlg": "Ei, para onde você está indo? Não está pensando em pular a assembleia matinal, está?"
+        },
+        {
+            "id": "formation_10810_1",
+            "desc": "Implantação",
+            "dlg": "Confirmada interrupção na zona de proteção do território."
+        },
+        {
+            "id": "battleentry_10810_1",
+            "desc": "Entrada no palco",
+            "dlg": "Avançando para o local alvo."
+        },
+        {
+            "id": "battle_select_10810_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Estamos no meio da batalha. Seja breve."
+        },
+        {
+            "id": "battle_endcommand_10810_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Indivíduo potencialmente perigoso identificado. Movendo-se para suprimir."
+        },
+        {
+            "id": "battle_enemy_break_10810_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Deveria ter contratado o Zwei..."
+        },
+        {
+            "id": "battle_break_10810_1",
+            "desc": "escalonado",
+            "dlg": "O quê...?"
+        },
+        {
+            "id": "battle_kill_10810_1",
+            "desc": "Inimigo morto",
+            "dlg": "... ou sua cabeça não teria sido esmagada pela minha espada larga."
+        },
+        {
+            "id": "battle_dead_10810_1",
+            "desc": "Morte",
+            "dlg": "Droga, eles nos pegaram ... precisamos pedir reforços ..."
+        },
+        {
+            "id": "choice_success_p_10810_2",
+            "desc": "Verificação aprovada",
+            "dlg": "Ahem, ahem. Eu diria que nossa performance pode justificar um bônus por ir além."
+        },
+        {
+            "id": "choice_fail_n_10810_1",
+            "desc": "Verificação falhou",
+            "dlg": "Pelo menos não é meu cliente."
+        },
+        {
+            "id": "battle_clear_10810_1",
+            "desc": "Grito de vitória",
+            "dlg": "Tivemos alguns danos colaterais... Acho que serão deduzidos da avaliação de desempenho. Ei, pelo menos conseguimos proteger nosso cliente."
+        },
+        {
+            "id": "battle_clear_ex_10810_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "Nenhuma vítima, danos colaterais mínimos... isso foi perfeito. Ei, se essa história vazar, quem sabe? Talvez algumas pessoas importantes da Cidade possam estar nos contratando para esses trabalhos de proteção de domínio."
+        },
+        {
+            "id": "battle_defeat_10810_1",
+            "desc": "Derrote Wail",
+            "dlg": "A proteção do território falhou... Haah... parece que vou deixar uma marca na honra dos Zwei."
+        }
+    ]
+}

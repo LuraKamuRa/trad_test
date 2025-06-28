@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_11110_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "Começando a missão de limpeza do trem. Vamos trazer os passageiros de volta aos seus assentos."
+        },
+        {
+            "id": "lobby_morning_11110_1",
+            "desc": "Saudação matinal",
+            "dlg": "Prefiro ficar com o estômago vazio pela manhã. Posso me acostumar com a visão dos nossos passageiros, mas o cheiro... O cheiro é bem difícil de se aclimatar."
+        },
+        {
+            "id": "lobby_noon_11110_1",
+            "desc": "Saudação da tarde",
+            "dlg": "No almoço, costumo comer o almoço em caixa premium vendido em cada plataforma da estação de trem WARP.\nPelo que ouvi, o almoço em caixa vendido na estação localizada na sede é o melhor de todos. Sugiro que você o procure se tiver a chance."
+        },
+        {
+            "id": "lobby_night_11110_1",
+            "desc": "Saudação noturna",
+            "dlg": "Não se importe comigo, Gerente Executivo. Você pode retornar aos seus aposentos.\nMais uma vez, meu turno se estende até o último trem do dia... Quer dizer, o primeiro trem de amanhã. Ficarei aqui por um tempo..."
+        },
+        {
+            "id": "smalltalk_11110_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Suponho que os cortes nos preços dos ingressos e a expansão das passagens de carros econômicos causados ​​por certos... eventos infelizes são os culpados por multiplicar nossa carga de trabalho em várias magnitudes."
+        },
+        {
+            "id": "smalltalk_11110_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "Agora observe. Se os passageiros se barricaram dentro do vagão, então... rasgue o espaço para abrir a porta antes de entrar. Uma palavra de advertência, no entanto: faça isso somente depois que o trem tiver parado completamente."
+        },
+        {
+            "id": "smalltalk_11110_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "Nossa missão é reconhecer e combinar adequadamente os genomas corretos, juntar as partes novamente e trazer os passageiros de volta aos seus assentos.\nA neutralização dos passageiros não é nosso objetivo principal; é apenas uma parte do processo."
+        },
+        {
+            "id": "smalltalk_11110_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "Alguns Agentes de Limpeza acreditam que não são aptos para essa linha de trabalho, mas... um líder deve saber como fazer uso de subordinados desmotivados também.\nPode chegar um momento em que eles mostram sua utilidade, pois geralmente não têm certas ideações desnecessárias."
+        },
+        {
+            "id": "smalltalk_11110_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "Por favor, não deixe que as vistas do trem o perturbem. Tenho certeza de que isso é normal para a maioria dos Wings.\nSe você achar difícil engolir a visão, então sugiro que volte mais tarde. Porque você verá esses pedaços de carne durante todo o processo de limpeza."
+        },
+        {
+            "id": "neglect_11110_1",
+            "desc": "Parado",
+            "dlg": "... Não consigo retornar. Não importa quantos trens eu embarque dia após dia."
+        },
+        {
+            "id": "gacksung_11110_1",
+            "desc": "Uptying",
+            "dlg": "A viagem de volta para casa é...! Agh... ainda é tumultuada."
+        },
+        {
+            "id": "formation_11110_1",
+            "desc": "Implantação",
+            "dlg": "Todo o pessoal da limpeza para suas posições. Seu turno está prestes a começar."
+        },
+        {
+            "id": "battleentry_11110_1",
+            "desc": "Entrada no palco",
+            "dlg": "Manoplas Ondulantes Dimensionais carregadas e prontas."
+        },
+        {
+            "id": "battle_select_11110_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Por favor, espere até que este trem seja limpo. Então eu responderei suas perguntas."
+        },
+        {
+            "id": "battle_endcommand_11110_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Testando cargas de equipamento. Vamos limpá-las de uma só vez."
+        },
+        {
+            "id": "battle_enemy_break_11110_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Neutralização de passageiros confirmada."
+        },
+        {
+            "id": "battle_break_11110_1",
+            "desc": "escalonado",
+            "dlg": "Opa..."
+        },
+        {
+            "id": "battle_kill_11110_1",
+            "desc": "Inimigo morto",
+            "dlg": "Neutralização completa. Procedimento de reconstrução de passageiros, pronto para começar."
+        },
+        {
+            "id": "battle_dead_11110_1",
+            "desc": "Morte",
+            "dlg": "Então é assim que eu... neste caminho errante sem fim à vista..."
+        },
+        {
+            "id": "choice_success_p_11110_2",
+            "desc": "Verificação aprovada",
+            "dlg": "Eu me certifiquei de que todos na equipe lessem o manual à risca. Este é apenas um resultado esperado."
+        },
+        {
+            "id": "choice_fail_n_11110_1",
+            "desc": "Verificação falhou",
+            "dlg": "... O manual precisa de uma atualização."
+        },
+        {
+            "id": "battle_clear_11110_1",
+            "desc": "Grito de vitória",
+            "dlg": "Limpeza completa. Agora, já que estamos com os passageiros, finja que o que você viu não aconteceu. Nem uma palavra do que você viu ou ouviu."
+        },
+        {
+            "id": "battle_clear_ex_11110_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "Nós encerramos isso muito antes do esperado. Descansem enquanto esperamos o próximo trem. Eu cuido do relatório enquanto isso."
+        },
+        {
+            "id": "battle_defeat_11110_1",
+            "desc": "Derrote Wail",
+            "dlg": "... A limpeza falhou. Carga de equipamento em... zero. Não posso... voltar..."
+        }
+    ]
+}

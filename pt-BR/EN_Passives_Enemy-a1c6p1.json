@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": 9011601,
+      "name": "It's... you...",
+      "desc": "Negociar +10% mais danos aos alvos com o mínimo de HP",
+      "summary": "Dano +10%"
+    },
+    {
+      "id": 9011801,
+      "name": "...",
+      "desc": "O alvo leva 3 danos à SP se esta unidade perder o confronto",
+      "summary": "Target leva 3 danos sp"
+    },
+    {
+      "id": 9012001,
+      "name": "Cleaning",
+      "desc": "Ao usar uma habilidade, se a HP do alvo estiver abaixo de 50%, a Skill Power +1",
+      "summary": "Poder de habilidade +1"
+    },
+    {
+      "id": 9012201,
+      "name": "Organizing",
+      "desc": "Ao usar uma habilidade, se a HP do Target estiver abaixo de 50%, causar +30% mais danos",
+      "summary": "Dano +30%"
+    },
+    {
+      "id": 9012301,
+      "name": "Dead End",
+      "desc": "Ao usar uma habilidade, se a velocidade desta unidade for mais rápida que a do alvo, Clash Power +1",
+      "summary": "Power de conflito +1"
+    },
+    {
+      "id": 9012501,
+      "name": "Rat Hunt",
+      "desc": "Ao usar uma habilidade, se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder de conflito +1 e causar +20% mais danos",
+      "summary": "Poder de conflito +1, causar +20% mais danos"
+    },
+    {
+      "id": 9012601,
+      "name": "I Will... Do My Best",
+      "desc": "Turn End: se escalonado, Heal 12 sp. Ganhe 2 nível de defesa no próximo turno. (uma vez Max)",
+      "summary": ""
+    },
+    {
+      "id": 9012602,
+      "name": "Apologies... Mistress!",
+      "desc": "Turn End: Se esta unidade se recuperar do pânico, ganhe 1 ataque de ataque na próxima curva",
+      "summary": "Ganhe 1 ataque Power Up no próximo turno"
+    },
+    {
+      "id": 9101401,
+      "name": "I'll Clean You Up...",
+      "desc": "Turn End: Se escalonado, recupere -se do estado escalonado e cura 20 sp. Ganhe 1 ataque de ataque no próximo turno. (1 max)",
+      "summary": ""
+    },
+    {
+      "id": 9101402,
+      "name": "Insolent Fool!",
+      "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, Clash Power +2",
+      "summary": "Power de conflito +2"
+    },
+    {
+      "id": 9101403,
+      "name": "The Mistress's Voice...!",
+      "desc": "Heal 10 sp quando toda moeda de uma habilidade de ataque vira cabeças",
+      "summary": "Heal 10 sp"
+    },
+    {
+      "id": 9101404,
+      "name": "Will You Witness Me, Mistress?!",
+      "desc": "Se o alvo tiver naufrágio e se o alvo tiver -15 ou menos SP, obtenha 3 ataques de ataque no próximo turno. (uma vez por alvo)",
+      "summary": ""
+    },
+    {
+      "id": 9999999,
+      "name": "Panic Recovery",
+      "desc": "Turn End: Se em pânico, redefine o SP para 0.",
+      "summary": ""
+    },
+    {
+      "id": 9999998,
+      "name": "Fixed Panic",
+      "desc": "O tipo de pânico desta unidade não muda quando infligido com um efeito que altera os tipos de pânico. Em vez disso, esta unidade é infligida com um efeito infligido contra alvos sem sp.",
+      "summary": ""
+    }
+  ]
+}

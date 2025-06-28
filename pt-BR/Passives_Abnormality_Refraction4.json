@@ -1,0 +1,149 @@
+{
+    "dataList": [
+        {
+            "id": 860501,
+            "name": "Portrait Afterimage Sighting",
+            "desc": "Se um slot de habilidade é anexado ao retrato do mestre, uma onda de choque na mesma cor que a aura ao redor do retrato do mestre ocorre quando o retrato é revelado"
+        },
+        {
+            "id": 860502,
+            "name": "Throwing Out the Interloper",
+            "desc": "Quando os retratos estão presentes:\n- Turn End: Uma vez que 3 voltas passaram desde que os retratos apareceram ...\n     - infligir[UninvitedGuest]até o inimigo mais antigo sem[UninvitedGuest]- Incinere todos os retratos. Infligir o dobro da quantidade de retratos falsos queimados como[Sinking]Potência e contagem contra todos os inimigos. Ganho[AttackUp]e[Protection]Próximo turno"
+        },
+        {
+            "id": 860503,
+            "name": "Interloper Hunt",
+            "desc": "Se o alvo tiver[UninvitedGuest], Clash Power +1 e causar +20% mais danos"
+        },
+        {
+            "id": 860507,
+            "name": "Ooh, Dear Master...",
+            "desc": "Quando os retratos estiverem presentes, reduza as resistências do tipo de afinidade e ataque em 0,5 e ganhe 8[Protection].\nSe os inimigos derrotaram o retrato do mestre, infligir[UninvitedGuest]para a unidade que a derrotou; Em seguida, ganhe 0,5 Phys. Resistências e 5 frágeis para o próximo turno."
+        },
+        {
+            "id": 860505,
+            "name": "You Must Be the Interloper's Family?",
+            "desc": "Quando um inimigo tem[UninvitedGuest], infligir[UninvitedGuest]contra um inimigo sem[UninvitedGuest]Toda vez que esta unidade perde 10% de seu HP (Max 4 inimigos)"
+        },
+        {
+            "id": 860601,
+            "name": "Peering Gaze",
+            "desc": "Enquanto esta unidade existir, infligir 1[Sinking]Potência e conte a cada turno"
+        },
+        {
+            "id": 860602,
+            "name": "Interloper",
+            "desc": "Quando esta unidade é derrotada, infligir[UninvitedGuest]contra o inimigo que atacou esta unidade por último\n- Se 4+ inimigos têm[UninvitedGuest], esse efeito não ativa"
+        },
+        {
+            "id": 860701,
+            "name": "Peering Gaze",
+            "desc": "Enquanto esta unidade existir, infligir 1[Sinking]Potência e conte a cada turno"
+        },
+        {
+            "id": 860702,
+            "name": "Interloper",
+            "desc": "Quando esta unidade é derrotada, infligir[UninvitedGuest]contra o inimigo que atacou esta unidade por último\n- Se 4+ inimigos têm[UninvitedGuest], esse efeito não ativa"
+        },
+        {
+            "id": 860801,
+            "name": "A Familiar Connector",
+            "desc": "Para todo[ConnectedPlug], ganhe 1 min. Valor de velocidade, 1[Vulnerable]e 1[AttackDmgUp]Quando esta unidade é escalonada no próximo turno devido a ter 3[ConnectedPlug], ganhe 4[Vulnerable]"
+        },
+        {
+            "id": 860802,
+            "name": "Overcurrent",
+            "desc": "Turn End: Para cada 10[Charge]Conte consigo mesmo, ganhe 1[VioletDamageUp]Próximo turno (máximo 2)"
+        },
+        {
+            "id": 860803,
+            "name": "Want to be Free",
+            "desc": "A 25% HP, começando este turno, ganhe 1 dos seguintes turnos. Os valores são cumulativos e não expiram.\n- Ganhe 1[ParryingResultUp]- Ganhe 1[AttackDmgUp]- Ganhe 1[Vulnerable]"
+        },
+        {
+            "id": 860804,
+            "name": "Generator",
+            "desc": "Turn End: Se esta unidade não tiver[ConnectedPlug]e[ThundercloudFormation], Invocar um gerador uma vez na próxima curva."
+        },
+        {
+            "id": 862801,
+            "name": "Gathering Lightning Cloud",
+            "desc": "Turn End: Aplique 4[ThundercloudFormation]para as ovelhas elétricas sonhadoras no próximo turno.\nNão aplica mais esse efeito se já tiver esse efeito."
+        },
+        {
+            "id": 862802,
+            "name": "Detached Anti-Ovine Grounding Plug",
+            "desc": "Quando atingido, infligir 1[AntiSheepGround]para o atacante (uma vez por turno)"
+        },
+        {
+            "id": 862803,
+            "name": "Safety Plug",
+            "desc": "Reduz todos os danos causados ​​para 0"
+        },
+        {
+            "id": 862901,
+            "name": "Prelude of the Banquet",
+            "desc": "Turno 2 Início: Invocar o séquito do rei em Binds.\nO rei tem doze retentores. Após a morte de um retentor, outro preencherá seu lugar até que não haja."
+        },
+        {
+            "id": 862902,
+            "name": "Closing of the Banquet",
+            "desc": "Quando todos os retentores são derrotados, o rei se junta à luta."
+        },
+        {
+            "id": 862903,
+            "name": "NOTHING TO SEE HERE",
+            "desc": "Nada para ver aqui"
+        },
+        {
+            "id": 862904,
+            "name": "Snapping Bandages",
+            "desc": "Quando a parte do corpo for destruída, aplique[BandageOfTheBoundKing]em todos os inimigos."
+        },
+        {
+            "id": 828001,
+            "name": "Retainer of the King in Binds",
+            "desc": "- Ganho[BandageOfTheBoundKing]e[BigWelcome]Para este encontro.\n- A cada passo, o rei está abençoa esta unidade com graça.\n- A graça do rei em Binds muda a cada turno, na seguinte ordem:[Enhancement], SP Heal e HP Heal. Se houver menos de 6 retentores sobreviventes (Peccatulum Invidiae), aumente a força da graça."
+        },
+        {
+            "id": 828002,
+            "name": "NOTHING TO SEE HERE",
+            "desc": "Nada para ver aqui"
+        },
+        {
+            "id": 828003,
+            "name": "LOOK AWAY!",
+            "desc": "Desviar o olhar!"
+        },
+        {
+            "id": 860506,
+            "name": "Refracted Struggle",
+            "desc": "Com mais de 10 confrontos contra o mesmo inimigo, ganham aleatoriamente ou perdem o poder de conflito por (contagem de choque / 10) em um confronto. (arredondado para baixo)"
+        },
+        {
+            "id": 828004,
+            "name": "Peccatulum Invidiae Class 2",
+            "desc": "Negociar +15% de dano e receber -15% de dano"
+        },
+        {
+            "id": 828005,
+            "name": "Refracted Mind",
+            "desc": "Entrada sp +30"
+        },
+        {
+            "id": 828006,
+            "name": "Refracted Mind",
+            "desc": "Entrada sp -20"
+        },
+        {
+            "id": 828007,
+            "name": "Refracted Mind",
+            "desc": "Entrada sp +45"
+        },
+        {
+            "id": 828008,
+            "name": "Refracted Mind",
+            "desc": "Entrada sp +20"
+        }
+    ]
+}

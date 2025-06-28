@@ -1,0 +1,464 @@
+{
+  "dataList": [
+    {
+      "id": 2010111,
+      "name": "Silence",
+      "desc": "Quando atingido por um ataque, ganhe 3 vínculo no próximo turno e causar +20% de dano ao atacar com um tipo ou afinidade que o alvo é fraco ou fatal.\n(Uma vez por turno.)"
+    },
+    {
+      "id": 2010211,
+      "name": "Ember",
+      "desc": "Na vitória do Clash, infligir queimar por (Wrath A-Reson. / 2).\n(Uma vez por habilidade.)"
+    },
+    {
+      "id": 2010311,
+      "name": "Dol Hareubang",
+      "desc": "No início do turno, ganhe 3 proteção contra a preguiça."
+    },
+    {
+      "id": 2020111,
+      "name": "Ennui",
+      "desc": "Se um inimigo é escalonado durante o ataque desta unidade, 1 aliado com o menor SP tem +2 de eficiência de cura SP na próxima curva. (No máximo 3 vezes por turno)"
+    },
+    {
+      "id": 2020211,
+      "name": "Liquid Veil",
+      "desc": "No início do turno, aplique 2 proteção ao aliado com o menor HP. (Incluindo eu.)"
+    },
+    {
+      "id": 2020311,
+      "name": "It Hurts!",
+      "desc": "OFERECIMENTO +10% de dano para cada efeito de status negativo nesta unidade. (Até 50%)"
+    },
+    {
+      "id": 2030111,
+      "name": "Immoderate Passion",
+      "desc": "Em sucesso, se o alvo tiver [[suporte]], curar 3 hp"
+    },
+    {
+      "id": 2030211,
+      "name": "Wave of Depression",
+      "desc": "O alvo da habilidade mais à direita no painel perde SP por (2x, escuridão a-reson.) Após o ataque.\n(Os alvos sem valores de SP sofrem danos da escuridão.)"
+    },
+    {
+      "id": 2040111,
+      "name": "Art",
+      "desc": "Deixe e sofre +5% de dano para cada inimigo Esta unidade derrotou a última curva."
+    },
+    {
+      "id": 2040211,
+      "name": "4th Match Flame",
+      "desc": "Cada 4ª habilidade usou ganha +4 de potência final e inflige 4 queima a cada um de seus ataques."
+    },
+    {
+      "id": 2050111,
+      "name": "Refusal to Judge",
+      "desc": "No início da fase de combate, ganhe 3 proteção se a unidade for direcionada por 3 ou mais habilidades."
+    },
+    {
+      "id": 2050211,
+      "name": "Final Augment",
+      "desc": "Se a habilidade, por exemplo, [[tag-screwloose]] for usada a menos de 25% hp, ganha 3 ataque de ataque, power up de defesa e pressa a cada turno, mas depois morra em 3 voltas."
+    },
+    {
+      "id": 2050311,
+      "name": "Revelation from Above",
+      "desc": "Depois de ganhar um confronto com a habilidade mais à esquerda no painel, aplique 1 ataque de ataque ou energia de defesa até um aliado aleatório na próxima curva."
+    },
+    {
+      "id": 2060111,
+      "name": "Ripple",
+      "desc": "No início da fase de combate, Heal SP para o aliado com o menor SP pela contagem do seu mais alto a-reson. valor, excluindo os em pânico."
+    },
+    {
+      "id": 2060211,
+      "name": "Binding Ribbons",
+      "desc": "O alvo da habilidade mais à esquerda no painel é infligido com a fragilidade da luxúria (Lust A-Reson. / 4)."
+    },
+    {
+      "id": 2070111,
+      "name": "Vying Spirit",
+      "desc": "Quando outro aliado derrota um inimigo, ganha 1 ataque de ataque e 1 pressa no início do próximo turno. (Máx 3)"
+    },
+    {
+      "id": 2070211,
+      "name": "Roar",
+      "desc": "Depois de derrotar um inimigo, ganhe a contagem de acusações pela metade da inveja da réson.\n(Inveja a-reson. / 2)"
+    },
+    {
+      "id": 2080111,
+      "name": "Compulsion",
+      "desc": "Clash Power +2 em confrontos cuja taxa de vitória está a favor da unidade.\nClash Power -2 em confrontos cuja taxa de vitória é contra o favor da unidade."
+    },
+    {
+      "id": 2080211,
+      "name": "Pink Ribbons",
+      "desc": "Na vitória do Clash, infligir 1 fitas rosa"
+    },
+    {
+      "id": 2080311,
+      "name": "Shower of Fire",
+      "desc": "No golpe, se o alvo tivesse [[suporte]], infligir 1 queima em 3 inimigos aleatórios."
+    },
+    {
+      "id": 2090111,
+      "name": "Severance",
+      "desc": "+1 SP Heal Eficiência, -1 SP eficiência de perda"
+    },
+    {
+      "id": 2090211,
+      "name": "Spark of Flame",
+      "desc": "Depois de derrotar um inimigo que tem [[suporte]], cure HP por (Wrath a-reson.)% De Max HP."
+    },
+    {
+      "id": 2090311,
+      "name": "Coldness",
+      "desc": "No acerto, se o alvo tiver mais de 5, infligir 1 se ligar e atacar o poder.\n(3 vezes por unidade.)"
+    },
+    {
+      "id": 2100111,
+      "name": "Unstable",
+      "desc": "Se a moeda de uma habilidade chegar com um lado diferente da moeda anterior na mesma habilidade, perca 5 SP e ganhe 1 dano por este turno. (3 vezes por turno)"
+    },
+    {
+      "id": 2100211,
+      "name": "Live Offering",
+      "desc": "Depois de derrotar um inimigo com um ataque ou contador, obtenha 5, por exemplo, recursos da afinidade dessa habilidade."
+    },
+    {
+      "id": 2110111,
+      "name": "Tactical Perfection",
+      "desc": "Se a unidade não for atingida durante um turno, ganhe 1 dano no próximo turno. (Max 3 Stacks)"
+    },
+    {
+      "id": 2110211,
+      "name": "Stem of Distrust",
+      "desc": "No início do turno, ganhe 1 Pierce DMG Up.\nNo golpe com uma moeda da cabeça, infligir 1 se liga e +1 contagem de ruptura no próximo turno."
+    },
+    {
+      "id": 2110311,
+      "name": "Emptying",
+      "desc": "No início do turno, ganhe 1 luxúria dmg para cima.\nGanhe mais 1 quando abaixo de 0 sp."
+    },
+    {
+      "id": 2120111,
+      "name": "Uncontrolled Morph",
+      "desc": "No início do turno, se abaixo de 25% hp, cicatrize 15 hp e obtenha proteção de 2.\nQuando esse efeito é ativado, infligir 1 outro aliado aleatório e 1 inimigo aleatório com +2 de eficiência de perda de SP."
+    },
+    {
+      "id": 2120211,
+      "name": "Maggots",
+      "desc": "Em golpes, infligir 5 larvas em um (gula-reson. X8)% chance."
+    },
+    {
+      "id": 2120311,
+      "name": "Nutrient Absorption",
+      "desc": "Depois de derrotar um inimigo que se rompe, cure HP por (gula-reson.)% De Max HP."
+    },
+    {
+      "id": 2030311,
+      "name": "Haphazard Discharge",
+      "desc": "No início da fase de combate, um aliado aleatório com a contagem de carga [[Bracket]] (Envy a-reson. / 2)."
+    },
+    {
+      "id": 2020411,
+      "name": "Adaptive Release",
+      "desc": "Enquanto esta unidade possui [[suporte]], negociar +2% de dano por contagem de cobrança.\nPassos de habilidades -2 Contagem de cobranças."
+    },
+    {
+      "id": 2030411,
+      "name": "Cauldron of Gorging",
+      "desc": "No início da curva, converta 2 recursos aleatórios não-lust, por exemplo"
+    },
+    {
+      "id": 2100311,
+      "name": "Stew Spewage",
+      "desc": "Tails Moedas infligir 1 queima se atingir um inimigo."
+    },
+    {
+      "id": 2010411,
+      "name": "Rambling Man",
+      "desc": "No início do turno, se esta unidade não sofreu danos na última curva, obtenha +4 de contagem de carga.\nDepois de atingir com sucesso um inimigo com menor velocidade, infligir +1 de ruptura. (3 vezes por turno)"
+    },
+    {
+      "id": 2060311,
+      "name": "Entangled Phenomena Restoration",
+      "desc": "Ao atingir um inimigo com efeitos de status negativo, esta unidade ganha +1 de contagem de carga. \n(Máximo +4 por turno.)\nQuando a HP cai para 0 pela primeira vez durante a batalha, gaste toda a contagem de acusações e cura em proporção à quantidade gasta. (Não é possível curar mais de 25% no máximo hp.)"
+    },
+    {
+      "id": 2050411,
+      "name": "Untempered Agitation",
+      "desc": "No início da fase de combate, se direcionada por 2 ou mais habilidades, as habilidades desta unidade têm +1 de poder base; Quando atingido, infligir 1 queima no atacante. (5 vezes por turno.)"
+    },
+    {
+      "id": 2080411,
+      "name": "Slaying Amid Cheers",
+      "desc": "Ao atacar um alvo com menos de 30% de HP, as habilidades da ira causam +20% de dano."
+    },
+    {
+      "id": 2110411,
+      "name": "Breath of the Hunt",
+      "desc": "Depois de um confronto, ganhe 2 posições\nQuando escalonado, ganhe 2 proteção; Ao se recuperar de escalonamento, ganhe 5 pontos"
+    },
+    {
+      "id": 2070311,
+      "name": "Temperamental Discharge",
+      "desc": "Quando atingido, gaste 1 contagem de cobrança para curar 2,5% de Max HP\nEm menos de 40% hp, ganho 1 contagem de carga antes de ativar o efeito de cicatrização. (Pode ganhar até 10 contagem de cobrança por turno)"
+    },
+    {
+      "id": 2120411,
+      "name": "Alternating Discharge",
+      "desc": "Em sucesso com uma moeda de cabeças, gaste 2 contagem de cobrança para dar +1 de contagem de cobrança ao aliado de posse de carga com a menor contagem de carga"
+    },
+    {
+      "id": 2010511,
+      "name": "Ray of Sun After Rain",
+      "desc": "No início do turno, todos os aliados curam 3 sp"
+    },
+    {
+      "id": 2040311,
+      "name": "Spider's Webs",
+      "desc": "Na vitória do Clash, infligir 1 vincular na próxima curva. (3 vezes por turno)"
+    },
+    {
+      "id": 2040411,
+      "name": "Predator",
+      "desc": "Se esta unidade curou mais de 10% de seu máximo de HP, obtenha o ataque 1 Ataque em seguida."
+    },
+    {
+      "id": 2040511,
+      "name": "Opened Can",
+      "desc": "No sucesso, se o alvo tiver mais de 5 anos [[suporte]], infligir 1 energia de defesa. (5 vezes por turno)"
+    },
+    {
+      "id": 2060411,
+      "name": "Seagull Squawking Of The Distant Seas",
+      "desc": "Quando um inimigo é derrotado, o aliado com o menor SP cura 1 sp.\nSempre que um inimigo é derrotado, a quantidade de SP curada aumenta em 2. (Máx 9)\nA quantidade é redefinida no início de uma nova onda."
+    },
+    {
+      "id": 2100411,
+      "name": "Fairy Lure",
+      "desc": "Depois de derrotar um inimigo que tem como alvo principalmente esta unidade no início da fase de combate, curar 3% de Max HP + (gula-reson.)% De Max HP"
+    },
+    {
+      "id": 2070411,
+      "name": "Dhyāna",
+      "desc": "Aumente o máximo de HP em 15% da base básica dessa identidade HP ao se recuperar do estado escalonado.\nEm seguida, cure 15% do atual HP. Se em menos de 30% do HP máximo atual, cure 25% em vez disso.\n(3 vezes por encontro. Na extremidade do encontro, reverta para a base máxima hp. O valor atual da HP será ajustado para refletir a porcentagem de HP no momento do fim do encontro.)"
+    },
+    {
+      "id": 2050511,
+      "name": "Bound Wrath",
+      "desc": "A habilidade mais à esquerda desta unidade no painel perde 1 potência base e ganha 2 poder de moeda\nNo início do turno, se em 4 velocidades, ganhe 1 desvantagem"
+    },
+    {
+      "id": 2020511,
+      "name": "Flamebrand",
+      "desc": "Nas cabeças atingidas com uma habilidade de afinidade de luxúria, infligir 1 queima no alvo (6 vezes por turno)"
+    },
+    {
+      "id": 2060511,
+      "name": "Green Slime",
+      "desc": "Se atingido a menos de 50% hp, infligir 1 ruptura ao atacante. (Ativa (a mais alta gula a-reson) vezes por turno)"
+    },
+    {
+      "id": 2040611,
+      "name": "Dream Devouring",
+      "desc": "Em crítica com uma habilidade de afinidade do orgulho, ganha 1 contagem de pontos (3 vezes por turno)"
+    },
+    {
+      "id": 2080511,
+      "name": "Temeritous Voyage",
+      "desc": "No final do turno, inflige 5 na afundamento a 1 outro aliado com o HP mais baixo; Aplique 1 pressa e 3 ofensas no nível do próximo turno"
+    },
+    {
+      "id": 2090411,
+      "name": "Sticky Filth",
+      "desc": "Nas cabeças atingidas com uma habilidade Pierce, infligir 1 Bind (2 vezes por turno)"
+    },
+    {
+      "id": 2100511,
+      "name": "Prophecy of Ruin",
+      "desc": "Nas cabeças, atingem uma habilidade de afinidade, abaixe esta unidade e o SP do alvo em 4.\n(Não funciona contra alvos sem sanidade)\nGanhe 5 Lust, por exemplo"
+    },
+    {
+      "id": 2090511,
+      "name": "Sentencing from Above",
+      "desc": "Sempre que um inimigo é escalonado, o aliado com a menor porcentagem de HP cura 4% de seu HP máximo. (Uma vez por turno)"
+    },
+    {
+      "id": 2070511,
+      "name": "Infinite Hatred",
+      "desc": "Quando esta unidade tem um efeito de status ou um efeito negativo, e se o alvo principal ou o invasor tiver um efeito positivo:\n- infligir +1 mais queimadura, sangramento, tremor, ruptura e potência afundando para si mesmo e inimigos com efeitos de habilidade ou efeitos de moedas\n- Ganhe +1 mais postura e contagem de carga com efeitos de habilidade ou efeitos de moedas"
+    },
+    {
+      "id": 2110511,
+      "name": "Fair Presents",
+      "desc": "Ao aplicar efeitos positivos a outros aliados com efeitos de habilidade ou efeitos de moedas, selecione aleatoriamente um dos seguintes efeitos: queima, sangramento, tremor, ruptura ou afundamento.\nEm seguida, inflige 1 potência do efeito selecionado a 1 inimigo aleatório. (Ativa 5 vezes por turno. Pode ser aplicado até 5 vezes por inimigo. Para anormalidades, aplicado a uma parte aleatória.)"
+    },
+    {
+      "id": 2030511,
+      "name": "Fallen Stone Pagoda",
+      "desc": "Ganhe 2 Poise e +2 Poise Count ao derrotar um inimigo com [[suporte]] (3 vezes por turno)"
+    },
+    {
+      "id": 2120511,
+      "name": "Crown of Roses",
+      "desc": "Turn Start: Infligir 2 Ruptura Potência em um inimigo aleatório (em encontros focados, todas as partes)\nAo ativar a ressonância absoluta, infligir 2 ruptura de ruptura em todos os inimigos no início do combate"
+    },
+    {
+      "id": 2120611,
+      "name": "If I Could Go Back...",
+      "desc": "Após o ataque: se o alvo for derrotado após o ataque desta unidade, obtenha 1, por exemplo, recurso para o recurso de propriedade menos de propriedade.\nGanho 1 Recurso adicional, por exemplo\n(Se houver 2 ou mais \"Recurso de propriedade menos de propriedade\", selecione 1 dessas afinidades aleatoriamente para obter um recurso, por exemplo,)"
+    },
+    {
+      "id": 2010611,
+      "name": "Fractured Yesterday",
+      "desc": "Se o alvo tiver 6+ [[backet]] potência, poder de conflito +1\nSe o alvo tiver 4+ [[Bracket]] contagem, Clash Power +1"
+    },
+    {
+      "id": 2030611,
+      "name": "Tempestuous Screaming",
+      "desc": "Se o alvo for derrotado na barra desta unidade ou a habilidade de afinidade, ganhe 1 [[suporte]] próximo (uma vez por turno)"
+    },
+    {
+      "id": 2050611,
+      "name": "Overloading Cables",
+      "desc": "Início de combate: em 4+ resson., Ganha 2 [[suporte]] e 2 [[suporte]].\nSe a resson. foi uma ressonância de inveja, aplique os efeitos acima às 2 unidades adjacentes a esta unidade no painel também"
+    },
+    {
+      "id": 2070611,
+      "name": "Chains of Binding",
+      "desc": "- Combate Início: Com 4+ RENO mais alto. Isso inclui as habilidades desta unidade, aplique 3 [[suporte]] e 3 [[suporte]] a si mesmo e a todos os aliados que fizeram parte dessa resson.\n- Se o referido resson. foi um a-reson., Aplique 2 [[suporte]] e [[suporte]] adicional [[suporte]]"
+    },
+    {
+      "id": 2110611,
+      "name": "Grand Welcome",
+      "desc": "Após o ataque desta unidade: se o alvo for escalonado ou derrotado, obtenha +1 orgulho, por exemplo, recurso e +1, por exemplo, recurso para 1 outra afinidade aleatória (3 vezes por turno)"
+    },
+    {
+      "id": 2080611,
+      "name": "Gluttony",
+      "desc": "Se o alvo principal tomou danos à HP nesta curva e não estiver no máximo HP em uso de habilidades:\nEm sucesso,\n- Quando esta unidade está no máximo HP, negociar +5 ~ +10% mais danos.\n- Quando esta unidade não estiver no máximo HP, cura 2 ~ 5 hp. \n(7 vezes por turno)",
+      "summary": "Se o alvo não estiver no Max HP, cause mais danos ao acerto ou curar HP no hit"
+    },
+    {
+      "id": 2090611,
+      "name": "Obsession",
+      "desc": "A habilidade mais à esquerda desta unidade no painel inflige o dobro da potência [[suporte]] (uma vez por turno)",
+      "summary": "Essa habilidade inflige x2 [[suporte]] potência"
+    },
+    {
+      "id": 2060611,
+      "name": "Gloominess",
+      "desc": "Quando esta unidade usa uma habilidade para desencadear [[suporte]] em um inimigo, infligir 1 [[suporte]] e 2 [[suporte]] no inimigo na próxima curva. (3 vezes por turno, incluindo, por exemplo, habilidades)",
+      "summary": "Ao desencadear [[Bracket]], infligir 1 [[suporte]] e 2 [[suporte]] na próxima volta"
+    },
+    {
+      "id": 2100611,
+      "name": "Tear Film",
+      "desc": "Turn Start: Se esta unidade tiver escudo, ganhe 1 [[suporte]]\nSe esta unidade estiver sob o efeito de [[Bracket]], ganhe 1 [[Bracket]] adicional [[Bracket]]",
+      "summary": "Se esta unidade tiver escudo, ganhe 1 [[suporte]]\nSe [[bracket]] estiver ativo, ganha 1 [[suporte]]"
+    },
+    {
+      "id": 2020611,
+      "name": "Running Time",
+      "desc": "Quando esta unidade usa uma habilidade para desencadear [[suporte]] em um inimigo, ganhe 1 [[suporte]] no próximo turno. (4 vezes por turno, incluindo, por exemplo, habilidades)",
+      "summary": "Ao usar uma habilidade para acionar [[suporte]] em um inimigo, ganhe 1 [[suporte]] no próximo turno. (4 vezes por turno, incluindo, por exemplo, habilidades)"
+    },
+    {
+      "id": 2040711,
+      "name": "Mark of the Gaze",
+      "desc": "Sempre que esta unidade usa uma habilidade de ataque base contra um inimigo, obtenha 1 recurso adicional, por exemplo"
+    },
+    {
+      "id": 2070711,
+      "name": "Crushed Pendant",
+      "desc": "Início de combate: em mais de 3 ressonações mais altas, ganho 3 [[suporte]]."
+    },
+    {
+      "id": 2110711,
+      "name": "Rambling Man",
+      "desc": "Max [[bracket]] contagem +5\nHabilidades que consomem [[bracket]] Count Deal +2% mais danos para cada ([[suporte]] - 1) (no máximo 10%)",
+      "summary": "Habilidades que consomem [[suporte]] contam mais danos causados ​​por mais danos"
+    },
+    {
+      "id": 2120711,
+      "name": "Lament",
+      "desc": "Turn End: Se esta unidade tiver um efeito negativo, ganhe 1 [[suporte]] Próximo turno\nAo atacar alvos que estão em pânico ou em, por exemplo, corrosão: causar +15% mais danos",
+      "summary": ""
+    },
+    {
+      "id": 2080711,
+      "name": "Interloper Reception",
+      "desc": "Se o alvo tiver [[suporte]] ou qualquer um dos efeitos de mudança do tipo de pânico, o Clash Power +1.\nEm atropelamento contra o referido alvo, curar 1 aliado com o menor SP por 5 sp. (uma vez por turno)"
+    },
+    {
+      "id": 2020711,
+      "name": "Sprawling Lasso",
+      "desc": "Após o ataque, se o alvo for escalonado ou derrotado, infligir +1 [[bracket]] contagem contra 2 inimigos aleatórios (uma vez por turno; não pode empilhar; em encontros focados, contra 2 partes aleatórias)",
+      "summary": "Após o ataque, se o alvo for escalonado ou derrotado, infligir +1 [[bracket]] contagem contra 2 inimigos aleatórios"
+    },
+    {
+      "id": 2060711,
+      "name": "Time to Hunt",
+      "desc": "Se um inimigo ou um aliado for morto devido a dano [[suporte]] ou [[suporte]], infligir 2 [[suporte]] contra um inimigo aleatório e ganhe 1 [[suporte]] no próximo turno (uma vez por turno)"
+    },
+    {
+      "id": 2030711,
+      "name": "Spiring Crimson Blossom",
+      "desc": "Toda vez que 10+ [[suporte]] ocorrem danos, Heal 1 SP em Self (10 por turno)"
+    },
+    {
+      "id": 2090711,
+      "name": "Iron Stake against the Heart",
+      "desc": "Ao infligir [[suporte]] ou 'sangramento único' contra um inimigo com habilidades de ataque básico, infligir 1 [[suporte]] (uma vez por turno)\n- Se o alvo tiver [[suporte]] ou 'sangramento único', infligir 2 [[suporte]] (uma vez por turno)\n\nSe um aliado, incluindo esta unidade, recebe danos diretos à HP do inimigo, infligir 1 [[suporte]] contra o inimigo alvo (2 vezes por turno)",
+      "summary": ""
+    },
+    {
+      "id": 2100711,
+      "name": "Grimy Hide",
+      "desc": "Início de combate: se esta unidade tiver um efeito negativo, ganha 1 [[suporte]] e 1 [[suporte]]]\n- Ganho 1 [[suporte]] para cada 3 efeito negativo em si (máximo 2)"
+    },
+    {
+      "id": 2050711,
+      "name": "Bloodthirsty Banquet",
+      "desc": "Quando esta unidade causa ou sofrer danos [[suporte]], cura HP igual ao dano [[suporte]] (máximo de 10 por turno)\n- Ao ativar um efeito de habilidade/moeda que inflige [[suporte]], se o alvo tiver [[suporte]], infligir 1 [[suporte]] contra o alvo. (2 vezes por turno)"
+    },
+    {
+      "id": 2010711,
+      "name": "Next",
+      "desc": "Após o ataque: se o alvo for morto, ganhe +2 [[suporte]] contagem (2 vezes por turno)"
+    },
+    {
+      "id": 2070811,
+      "name": "Broken Bell",
+      "desc": "Infligir [[suporte]] Esta virar os inimigos que foram atingidos por [[suporte]] de habilidades, moedas ou efeitos passivos.\n- Não se compara a presentes, por exemplo, que infligem [[suporte]] ao desencadear o tremor. (Se o referido, por exemplo, presentes forem aprimorados, subtraia o valor desse efeito do valor final antes de infligi -lo.)",
+      "summary": "Infligir 1 [[suporte]] ao desencadear [[suporte]]"
+    },
+    {
+      "id": 2080811,
+      "name": "A Gaze in the Shadows",
+      "desc": "Os aliados ganham +1 mais [[suporte]] contagem de efeitos de habilidade ou moeda (2 vezes por turno)\n- Se o alvo do aliado estiver em estados escalonados, de baixo moral ou pânico, ganhe +2 mais em vez disso\n- O efeito não se compara a, por exemplo, presentes de um efeito idêntico."
+    },
+    {
+      "id": 2120811,
+      "name": "Insomniac Night",
+      "desc": "Início de combate: Contra todos os inimigos, infligir 1 [[suporte]] ou 1 [[suporte]] a todos os inimigos (# de inimigos em tempos escalonados, com baixo moral ou pânico). (2 vezes por turno)\n- O efeito não se compara com presentes, por exemplo, com o mesmo efeito."
+    },
+    {
+      "id": 2110811,
+      "name": "Seven Bullets",
+      "desc": "- Acorrendo com habilidades de ataque base: infligir ([[suporte]] / 3) [[suporte]] (3 vezes por turno)\n- Para lobotomia, por exemplo, O :: Magic Bullet [[Bracket]] outis identidade, infligir ([[bracket]]) [[Bracket]] em vez disso (3 vezes por turno)\n- Se o alvo tiver mais de 30 [[suporte]], infligir 1 [[suporte]] em vez do efeito acima (2 vezes por turno)"
+    },
+    {
+      "id": 2040811,
+      "name": "Breath",
+      "desc": "Em seguida, inicie depois de usar esta habilidade, por exemplo: ganho 1 [[suporte]] (uma vez por turno)\n- Se essa habilidade derrotou inimigos, ganhe mais [[backet]] igual ao número de alvos derrotados\n- Se essa habilidade derrotou aliados, ganho (metas derrotadas x 2) adicionais [[suporte]]]\n- Este valor empilha sobre a duração deste encontro"
+    },
+    {
+      "id": 2020811,
+      "name": "Breath",
+      "desc": "Em seguida, inicie depois de usar esta habilidade, por exemplo: ganho 1 [[suporte]] (uma vez por turno)\n- Este valor empilha ao longo do encontro\n\nInício de combate: Gain 1 [[Bracket]] Toda vez que esta unidade aplica 10 [[Bracket]] Conta a Aliados com [[Bracket]] Efeitos\n\nTurn End: Começando de aliados com as menores porcentagens de HP, Heal ([[bracket]] pilha)% HP para (maior ressonância) aliados (máximo 6)\n- Se a unidade que recebe cura tiver mais de 20 [[suporte]], ativar a cura mais 1 tempo"
+    }
+  ]
+}

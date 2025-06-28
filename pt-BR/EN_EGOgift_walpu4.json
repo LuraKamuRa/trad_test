@@ -1,0 +1,85 @@
+{
+  "dataList": [
+    {
+      "id": 9744,
+      "name": "Filial Love",
+      "desc": "Ao infligir [[suporte]] potência ou 'sangramento único' com efeitos de habilidade de ataque básico contra inimigos, infligir +2 [[suporte]] contagem (3 vezes por turno para toda a equipe)\n\nOFERECIMENTO +1% MAIS DANOS PARA CADA [[suporte]] contam com o alvo (no máximo 20%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9744,
+          "simpleDesc": "Infligir [[suporte]] conte e causar mais danos"
+        }
+      ]
+    },
+    {
+      "id": 9745,
+      "name": "Misaligned Transistor",
+      "desc": "Habilidades de ataque básico que consomem [[suporte]] contagem ou \"cobrança exclusiva\" consomem 1,5x mais\nAcordo +2% a mais danos para cada contagem [[suporte]] ou \"cobrança exclusiva\" consumida por habilidades de ataque básico (no máximo 20%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9745,
+          "simpleDesc": "Consuma adicional [[suporte]] contagem ou \"cobrança única\" para causar mais danos"
+        }
+      ]
+    },
+    {
+      "id": 9746,
+      "name": "Mental Corruption Boosting Gas",
+      "desc": "Ao se envolver em um confronto usando uma habilidade de ataque que inflige a potência, a contagem ou o 'afundamento' [[suporte]] e, em seguida, causando danos com a referida habilidade de ataque: no golpe, infligir [[suporte]] potência igual ao número de confrontos (máx. 3; 3 vezes por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9746,
+          "simpleDesc": "Infligir [[suporte]] potência igual ao número de confrontos"
+        }
+      ]
+    },
+    {
+      "id": 9747,
+      "name": "Leaked Enkephalin",
+      "desc": "Quando o inimigo está prestes a perder ou consumir [[suporte]] contagem: ([[[suporte]] Potência no alvo)% Chance de infligir +1 [[bracket]] contagem imediatamente antes que o alvo esteja prestes a perder ou consumir [[suporte]] contagem (3 vezes por turno; no máximo 100%)\n- Aumente a chance básica por (maior ressonância x2)% (máximo 12%)\n- se a referida ressonância mais alta. foi uma escuridão ou uma inveja de resson.: infligir +1 mais [[backet]] contagem",
+      "simpleDesc": [
+        {
+          "abilityID": 9747,
+          "simpleDesc": "([[Bracket]] potência)% Chance de infligir [[backet]] contagem imediatamente antes de perder ou consumir [[bracket]] contagem"
+        }
+      ]
+    },
+    {
+      "id": 9748,
+      "name": "Hardship",
+      "desc": "Clash Win: Heal SP igual ao número de confrontos (máximo 3)\nSe a unidade afetada já estiver em mais de 45 sp, ganho (# de confrontos/2) [[backet]] Next Turn (máximo 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9748,
+          "simpleDesc": "Na vitória do Clash, Heal SP igual ao número de confrontos"
+        }
+      ]
+    },
+    {
+      "id": 9749,
+      "name": "Crown of Thorns",
+      "desc": "Turn Start: 1 aliado com o menor SP Heals 8 SP (a menos que estejam em pânico ou em por exemplo, corrosão)\nSe o referido aliado já estava em Max SP, Clash Power +1 para este turno\nPara este turno: [[Bracket]] +1, [[suporte]] -1",
+      "simpleDesc": [
+        {
+          "abilityID": 9749,
+          "simpleDesc": "Turn Start: Heal 8 SP a 1 aliado com o mínimo SP"
+        }
+      ]
+    },
+    {
+      "id": 9750,
+      "name": "Rest",
+      "desc": "Perder 1 a menos SP quando um aliado perde o SP devido ao seu próprio efeito de habilidade de ataque básico\nSe o alvo tiver [[suporte]], causar +2% a mais danos para cada cabeças que essa habilidade de ataque virou ao atacar (no máximo 16%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9750,
+          "simpleDesc": "Perder 1 a menos SP quando um aliado perde o SP devido ao seu próprio efeito de habilidade de ataque básico"
+        },
+        {
+          "abilityID": 97501,
+          "simpleDesc": "Causar mais danos se o alvo tiver naufrágio"
+        }
+      ]
+    }
+  ]
+}

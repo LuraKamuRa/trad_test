@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_11104_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "Hm, é o Outis. O que te traz aqui?"
+        },
+        {
+            "id": "lobby_morning_11104_1",
+            "desc": "Saudação matinal",
+            "dlg": "O trabalho está em andamento neste horário do dia, então pouco posso fazer por você, mesmo que me visite agora... Bem, acho que posso ouvir o que você tem a dizer."
+        },
+        {
+            "id": "lobby_noon_11104_1",
+            "desc": "Saudação da tarde",
+            "dlg": "Almoço? Ah, pode deixar aí. Estou bem ocupado com este documento... Ah, você estava pedindo para comer fora? Desculpe, não posso arranjar tempo para isso."
+        },
+        {
+            "id": "lobby_night_11104_1",
+            "desc": "Saudação noturna",
+            "dlg": "Você pode sair do escritório antes de mim — eu vou ficar bem. É justo que superiores assumam assuntos difíceis."
+        },
+        {
+            "id": "smalltalk_11104_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Você poderia me trazer um chá preto? Aqui está o dinheiro que você precisa. Pegue algo para você também."
+        },
+        {
+            "id": "smalltalk_11104_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "Embora eu não possa perder muito tempo… Não posso deixar alguém esperando para sempre. Qual é o seu negócio?"
+        },
+        {
+            "id": "smalltalk_11104_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "Embora o trabalho de campo não seja tão ruim assim... Ele simplesmente não se compara ao conforto de sentar em uma mesa."
+        },
+        {
+            "id": "smalltalk_11104_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "A Seção 6 pode estar no degrau mais baixo, mas tem sua parcela de indivíduos valiosos. Tenho notado mais deles ultimamente...\nO gosto deles em bebidas também combina com o meu."
+        },
+        {
+            "id": "smalltalk_11104_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "…com tudo isso dito, eu estava querendo ouvir os pensamentos de alguém que eu sei que posso confiar.\n…você está cochilando? Hm, o trabalho deve ter te desgastado. Eu vou te dar meio dia de folga, então vá descansar o que você precisa. Podemos conversar depois que você se recuperar."
+        },
+        {
+            "id": "neglect_11104_1",
+            "desc": "Parado",
+            "dlg": "Aqui é Outis, Diretor da Seção 6 da Filial Sul. Estou ausente agora, então se você tiver algum assunto importante para compartilhar, deixe uma mensagem após o sinal sonoro."
+        },
+        {
+            "id": "gacksung_11104_1",
+            "desc": "Uptying",
+            "dlg": "Isso significa mais trabalho de campo para mim, não é mesmo... Bem, tudo bem. Não vou recusar experiência adicional."
+        },
+        {
+            "id": "formation_11104_1",
+            "desc": "Implantação",
+            "dlg": "Precisa de um comandante de campo?"
+        },
+        {
+            "id": "battleentry_11104_1",
+            "desc": "Entrada no palco",
+            "dlg": "…Vamos."
+        },
+        {
+            "id": "battle_select_11104_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Você tem alguma opinião que queira expressar?"
+        },
+        {
+            "id": "battle_endcommand_11104_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Eu vou assumir o comando."
+        },
+        {
+            "id": "battle_enemy_break_11104_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Você está cheio de lacunas."
+        },
+        {
+            "id": "battle_break_11104_1",
+            "desc": "escalonado",
+            "dlg": "Kg…"
+        },
+        {
+            "id": "battle_kill_11104_1",
+            "desc": "Inimigo morto",
+            "dlg": "Lá vai um."
+        },
+        {
+            "id": "battle_dead_11104_1",
+            "desc": "Morte",
+            "dlg": "Como eu temia… Não estou apto para o campo…"
+        },
+        {
+            "id": "choice_success_p_11104_2",
+            "desc": "Verificação aprovada",
+            "dlg": "Exatamente como previsto."
+        },
+        {
+            "id": "choice_fail_n_11104_1",
+            "desc": "Verificação falhou",
+            "dlg": "Isso não foi bem o que eu previ."
+        },
+        {
+            "id": "battle_clear_11104_1",
+            "desc": "Grito de vitória",
+            "dlg": "Essa foi uma ótima constitucional. Vamos voltar ao escritório."
+        },
+        {
+            "id": "battle_clear_ex_11104_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "Correu um pouco mais rápido do que eu pensava... Seria um desperdício limitar essas capacidades a uma mesa."
+        },
+        {
+            "id": "battle_defeat_11104_1",
+            "desc": "Derrote Wail",
+            "dlg": "Tch… Eu enferrujei cedo demais, não é?"
+        }
+    ]
+}

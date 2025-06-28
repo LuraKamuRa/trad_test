@@ -1,0 +1,747 @@
+{
+    "dataList": [
+        {
+            "id": 815901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Grasp",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Vibration]e +2[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Piling Rocks",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Vibration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slothful Press",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for mais rápida que a do alvo, o Clash Power +1 para cada diferença de velocidade (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Ganhe 3[Protection]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Maul",
+                    "desc": "Quando essa habilidade de ataque chegar, ganha[TakeHpHealIncrease]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Devouring",
+                    "desc": "[WhenUse]Se o alvo tiver[Burst], Potência base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Núcleo e parte ambos ganham 3 hp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Núcleo e parte ambos ganham 3 hp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Núcleo e parte ambos ganham 3 hp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Núcleo e parte ambos ganham 3 hp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ravenous Devouring",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Burst], infligir 2[DefenseDown]Ganhe +1 poder base para cada[TakeHpHealIncrease]valor em si (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Núcleo e parte ambos ganham 5 hp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Núcleo e parte ambos ganham 5 hp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Núcleo e parte ambos ganham 5 hp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Núcleo e parte ambos ganham 5 hp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "Em menos de 50% de HP, núcleo e cura de peça no golpe de moeda",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]e +2[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]e +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bat Bash",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Smackdown",
+                    "desc": "[WinDuel]Ganho 1[Enhancement]e 1[AttackDmgUp]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Laceration]igual a[Burst]no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Upheaval",
+                    "desc": "Se o alvo tiver 5+[Burst], Clash Power +1\nSe o alvo tiver 5+[Laceration], Clash Power +1[WinDuel]Infligir +3[Burst]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Próxima moeda tem +1 poder"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Próxima moeda tem +2 poder"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Time to Repent",
+                    "desc": "[CantChangeTarget]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]Contagem e 3[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e 3[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e 3[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Enhancement]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "You Must Suffer More!",
+                    "desc": "[CantChangeTarget]\n[WinDuel]Infligir 3[Burst]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Próxima moeda tem +1 poder"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Próxima moeda tem +2 poder"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816406,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Ganho 1[Enhancement]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816407,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Ganho 1[Enhancement]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Remove You",
+                    "desc": "Núcleo e pete cura em 10% dos danos causados ​​por essa habilidade de ataque",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bloody Bastard!",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a potência de conflito do alvo +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, reutilize esta moeda (uma vez)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This Is My Home!",
+                    "desc": "Priorize metas com o mínimo de HP[WhenUse]Se o alvo tiver menos de 70% HP, o Clash Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 20[Laceration], causar +100% mais danos"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Reutilize essa habilidade (1 tempo máx)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Get You...!",
+                    "desc": "Prioriza Heathcliff[WhenUse]Se o alvo for o inimigo com a velocidade mais lenta, a potência base +3[WhenUse]Infligir[AaCfPbBe], 2[Vulnerable], 3[Paralysis]e 5[Binding]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Give It Back...!!",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 2[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 2[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 2[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Laceration], cure 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816506,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "You Little...",
+                    "desc": "Prioriza os alvos com[AaCfPbBe]Se a velocidade desta unidade for mais rápida que o alvo em 3 ou mais, reutilize essa habilidade (1 tempo máx)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar núcleo e parte por 50% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar núcleo e parte por 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816507,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "Se esta unidade tiver escudo restante HP no final, ganhe 4[Protection]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816508,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Infligir 1[Binding]Próximo turno (2 vezes max)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 816509,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This is My Place!",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, a moeda Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +30% mais danos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], curar 70% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

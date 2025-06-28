@@ -1,0 +1,164 @@
+{
+  "dataList": [
+    {
+      "id": 857701,
+      "title": "Ardor Blossom Moth",
+      "prevDesc": "Uma sombra escura permanece em meio às línguas lambidas da chama Crimson.",
+      "eventDesc": "Uma sombra escura permanece no centro da mariposa flamejante.\n\nSua forma era vaga e mercurial, mas ... de alguma forma, você pode dizer que a sombra é o núcleo da mariposa.\n\nSe essa sombra puder ser separada das chamas, talvez seu calor possa diminuir momentaneamente.",
+      "behaveDesc": "Quem irá procurar a sombra?",
+      "successDesc": [
+        "[{0}] reaches out toward the flames, enduring through the burning fire.\n\nTheir fingertips begin to blister and bubble, but perhaps [{0}]'s passion burned hotter tham the flames itself.\n\nBefore the moth could do anything, [{0}] wrest the dark thing from the flames and hurled it away from the fire.\n\nThe fire and the embers on both the moth and the Sinners immediately subsided.\n\nAs though the flames had never burned."
+      ],
+      "failureDesc": [
+        "[{0}] reaches out toward the flames, enduring through the burning fire.\n\nBut the pain of their very skin blistering and bubbling from the heat was far too much for them to bear. [{0}] pulled away from the flames before they reached the shadow.\n\nThe price of letting this opportunity fall through their fingers was devastating.\n\nThe moth begins to beat its wings faster and with unforeseen vigor; and the flames began rising higher and higher in return.\n\nIt need not be said that a world of fire soon descended upon the Sinners."
+      ]
+    },
+    {
+      "id": 857801,
+      "title": "Gossypium encharcado",
+      "prevDesc": "As videiras que caem no sangue perfuram os pecadores. O que você vai fazer?",
+      "eventDesc": "À medida que a luta prolongava, mais e mais videiras do gosspium começam a perfurar os pecadores.\n\nAs videiras continuam a drenar o sangue deles, e o remendo vermelho na parte de algodão branco do gosspium cresce.\n\nComo essas videiras podem ser destacadas dos pecadores?",
+      "behaveDesc": "Quem vai sair?",
+      "successDesc": [
+        "These vines cannot be torn or cut.\n\nThough it may be painful, the only possible solution would be for someone else to pull the vines out of the Sinners.\n\nWhile the Gossypium busies itself fighting the other Sinners, [{0}] rushes forward to deftly pluck out the vines.\n\nOf course, this left their flesh and muscles torn and bleeding...\n\n... but at least that blood won't be going to the Gossypium."
+      ],
+      "failureDesc": [
+        "These vines cannot be torn or cut.\n\nThough it may be painful, the only possible solution would be for someone else to pull the vines out of the Sinners.\n\nWhile the Gossypium busies itself fighting the other Sinners, [{0}] rushes forward to pluck out the vines.\n\n... it was as though the Gossypium knew exactly what they were about to do. The vines latched onto [{0}]'s arm and immediatelly dug under their skin.\n\nIt may have been better to do nothing at all."
+      ]
+    },
+    {
+      "id": 858501,
+      "prevDesc": "Um olhar penetrante nos tamanham. Parece que o olhar está vendo através de nós."
+    },
+    {
+      "id": 85850101,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar que cliva todos pode clicar até a espiral de desprezo.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850102,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar que perfura todos pode perfurar até a espiral de desprezo.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850103,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar que esmaga todos pode esmagar até a espiral de desprezo.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850201,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar que queima todos pode queimar até a espiral de desprezo.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850202,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar que feriu todos pode ferir até a espiral de desprezo.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850203,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar que veja todos pode fazer até a espiral de desprezo eis.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850204,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar que devora todos pode devorar até a espiral de desprezo.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850205,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar que começa a todos pode começar até a espiral de desprezo.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850206,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar cheio de desprezo por todas as coisas pode desprezar até a espiral de desprezo.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850207,
+      "title": "Espiral de desprezo",
+      "prevDesc": "",
+      "eventDesc": "O olhar cheio de inveja de todas as coisas pode invejar até a espiral de desprezo.",
+      "behaveDesc": "Quem transmitirá esse olhar para a espiral de desprezo?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    }
+  ]
+}

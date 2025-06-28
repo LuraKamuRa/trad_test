@@ -1,0 +1,95 @@
+{
+    "dataList": [
+        {
+            "id": "BurstAgility",
+            "name": "Deathrite【Haste】",
+            "desc": "Pilha base: 3\nAo se ruptura desencadeada ao ser atingida por uma habilidade de ataque de um alvo com mais de 10 velocidade, perca 1 pilha e ganhe +1 contagem de ruptura\nNa pilha 0, tome dano de gula igual à ruptura da potência de ruptura em si; Então, esse efeito expira\n※ Não pode obter pilhas adicionais desse efeito enquanto ele já está ativo",
+            "summary": "Se as condições forem atendidas: infligir danos à gluttonia",
+            "undefined": "-"
+        },
+        {
+            "id": "LegStrength",
+            "name": "Strider【Mao】",
+            "desc": "Max Stack: 3\nTurn End: Ganhe 5 pressa no próximo turno\nReduzido por 1 na extremidade do turno",
+            "summary": "Se as condições forem atendidas: infligir danos à gluttonia",
+            "undefined": "-"
+        },
+        {
+            "id": "DarkBeast_LowMorale",
+            "name": "Deception",
+            "desc": "- Baixo moral\n- Se a velocidade desta unidade for mais rápida que o alvo ou ao usar um ataque sem oposição, causar +10% mais danos contra o alvo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DarkBeast_Panic",
+            "name": "Deception",
+            "desc": "- Pânico\n- Se a velocidade desta unidade for mais rápida que o alvo ou ao usar um ataque sem oposição, caça +20% mais danos contra o alvo; Se a velocidade desta unidade for mais rápida que a do alvo, tome -20% menos dano",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RepressedMurderousIntend",
+            "name": "Repressed Bloodthirst",
+            "desc": "Nível de ofensa -10, nível de defesa -10",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WeighedMurderousIntend",
+            "name": "Crushed Bloodthirst",
+            "desc": "Nível de ofensa -25, nível de defesa -25",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MiddleFingerBook",
+            "name": "Vendetta Mark",
+            "desc": "Max Stack: 10\nQuando atacado no meio, tome +3% mais dano por pilha (máximo 30%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Persistent",
+            "name": "Persistence",
+            "desc": "Max Stack: 4\nAo sofrer danos letais, 80% de chance de não sofrer esse dano, curar 60 hp, recuperar de escalonamento e perder esse efeito\n\nOs efeitos acima não são ativados nas seguintes condições:\n- Quando os danos causados ​​pela moeda excedem o máximo da unidade HP\n- Quando esta unidade tem o efeito de cura HP\nReduzido por 1 na extremidade do turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BackstreetsNight_LowMorale",
+            "name": "Night in the Backstreets",
+            "desc": "- Baixo moral\n- Turn Start: Gain 1 Attack Power Up Up, 1 HP Healing Boost e 1 frágeis",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BackstreetsNight_Panic",
+            "name": "Night in the Backstreets",
+            "desc": "- Pânico\n- Turn Start: Gain 2 Attack Power Up, 2 hp Cura Boost e 1 frágeis",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SweeperA",
+            "name": "The First Wave",
+            "desc": "A primeira onda termina após {0} turnos (s)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SweeperB",
+            "name": "The Second Wave",
+            "desc": "A segunda onda termina após {0} turnos (s)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SweeperC",
+            "name": "The Third Wave",
+            "desc": "A terceira onda termina após {0} turnos (s)",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

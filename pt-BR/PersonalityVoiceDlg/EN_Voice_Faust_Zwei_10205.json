@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10205_1",
+      "desc": "Aquisição de identidade",
+      "dlg": "Solicitação recebida. Isso é Faust. Avançando para a localização do alvo de proteção."
+    },
+    {
+      "id": "lobby_morning_10205_1",
+      "desc": "Saudação matinal",
+      "dlg": "Uma manhã segura. Como sempre, estamos comprometidos em garantir a segurança das instalações locais. Tenha um bom dia."
+    },
+    {
+      "id": "lobby_noon_10205_1",
+      "desc": "Saudação da tarde",
+      "dlg": "Reportando -se para informar que nenhum problema foi detectado durante a Patrulha do meio -dia. Ah ... não há necessidade de se preocupar se fizemos nossa refeição. Enquanto Faust jante, seu parceiro lida com o patrulhamento.\nOh, também não há necessidade de se preocupar com o referido parceiro; Faust trabalha com um indivíduo excepcional da Seção 4. O FAUST ainda é superior, no entanto."
+    },
+    {
+      "id": "lobby_night_10205_1",
+      "desc": "Saudação noturna",
+      "dlg": "Durante a noite ... por favor, permaneça próximo ao Faust. O campo de visão reduzido pode atrasar as manobras de proteção."
+    },
+    {
+      "id": "smalltalk_10205_1",
+      "desc": "Conversas #1",
+      "dlg": "A proteção do território requer mão de obra significativa e capacidade individual, pois o pessoal deve ser implantado em toda a área do contrato. Enquanto o serviço é caro ... a segurança adicional vale bem o preço."
+    },
+    {
+      "id": "smalltalk_10205_2",
+      "desc": "Conversas #2",
+      "dlg": "Tentamos nos vestir com roupas civis para contratos de proteção do território. É melhor esconder à vista de reconhecer aqueles que procuram prejudicar nossos clientes."
+    },
+    {
+      "id": "smalltalk_10205_3",
+      "desc": "Conversas #3",
+      "dlg": "Nem todos os agentes da ZWEI aceitam contratos de proteção de território. Obviamente, os contratos de proteção do território também não são a única dedicação da Seção 4."
+    },
+    {
+      "id": "smalltalk_10205_4",
+      "desc": "Chat pós-uptie 1",
+      "dlg": "Normalmente, esses contratos são assinados quando o cliente solicita várias metas de proteção. \nPortanto ... muitas vezes acabamos defendendo nossos clientes contra várias ameaças. E o mesmo acontece com Faust."
+    },
+    {
+      "id": "smalltalk_10205_5",
+      "desc": "Chat pós-uptie 2",
+      "dlg": "Meu trabalho é extenuante, você pergunta? Tais detalhes não fazem parte da minha consideração. Faust considera apenas a segurança de suas metas de proteção."
+    },
+    {
+      "id": "neglect_10205_1",
+      "desc": "Parado",
+      "dlg": "Se não houver mais nada, gostaria de sair para minha próxima patrulha programada."
+    },
+    {
+      "id": "gacksung_10205_1",
+      "desc": "Uptying",
+      "dlg": "Sim, de fato. É natural que maiores responsabilidades sejam atribuídas a agentes mais refinados. Estou ansioso para trabalhar com você."
+    },
+    {
+      "id": "formation_10205_1",
+      "desc": "Implantação",
+      "dlg": "Em espera."
+    },
+    {
+      "id": "battleentry_10205_1",
+      "desc": "Entrada no palco",
+      "dlg": "Solicitação de proteção recebida."
+    },
+    {
+      "id": "battle_select_10205_1",
+      "desc": "Visto em batalha",
+      "dlg": "Outros territórios exigem minha atenção?"
+    },
+    {
+      "id": "battle_endcommand_10205_1",
+      "desc": "Ataques iniciando",
+      "dlg": "Movendo -se para proteger."
+    },
+    {
+      "id": "battle_enemy_break_10205_1",
+      "desc": "Inimigo cambaleia",
+      "dlg": "Você foi imobilizado."
+    },
+    {
+      "id": "battle_break_10205_1",
+      "desc": "Escalonado",
+      "dlg": "Ngh ..."
+    },
+    {
+      "id": "battle_kill_10205_1",
+      "desc": "Inimigo morto",
+      "dlg": "Hostis eliminados."
+    },
+    {
+      "id": "battle_dead_10205_1",
+      "desc": "Morte",
+      "dlg": "Se preocupe ... não. Meus colegas vão ... proteger ..."
+    },
+    {
+      "id": "choice_success_p_10205_2",
+      "desc": "Verifique se passou",
+      "dlg": "Um problema elementar."
+    },
+    {
+      "id": "choice_fail_n_10205_1",
+      "desc": "Verifique a falha",
+      "dlg": "Isso não se alinhou aos pontos fortes de Faust."
+    },
+    {
+      "id": "battle_clear_10205_1",
+      "desc": "Victory Cry",
+      "dlg": "Solicitação de proteção cumprida. Retornando à patrulha."
+    },
+    {
+      "id": "battle_clear_ex_10205_1",
+      "desc": "Condições extras cumpridas",
+      "dlg": "Cuidamos de todos os problemas em potencial neste território. Vamos terminar nossa patrulha para o dia aqui."
+    },
+    {
+      "id": "battle_defeat_10205_1",
+      "desc": "Derrota lamento",
+      "dlg": "Tudo bem. Existem outros escudos em Zwei. Por favor, reconsidere sua decisão de rescindir nosso contrato ..."
+    }
+  ]
+}

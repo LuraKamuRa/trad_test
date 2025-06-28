@@ -1,0 +1,79 @@
+{
+  "dataList": [
+    {
+      "id": 10501,
+      "name": "Checking the Boat",
+      "subDesc": "",
+      "desc": "Logo depois de iniciar a vela ...\n\n\"Woah!\"\n\n... começamos a ouvir algo tremendo embaixo do navio.\n\n\"O que é isso ...?\"\n\n\"Forsooth, pode haver um inimigo embaixo do nosso navio, arranhando!\n\n\"... sim, isso é ameaçador. Devemos dar uma olhada.\"\n\nO que fazemos?",
+      "options": [
+        {
+          "message": "Verifique embaixo do navio.",
+          "messageDesc": "Ishmael ganha 10 sp. Prossiga para o próximo prompt de escolha.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Não sabemos o que vai acontecer se o fizermos. Vamos ficar parados.",
+          "messageDesc": "Ishmael perde 10 sp. 50% de chance para um encontro de combate. Ganhe um presente, por exemplo, após a vitória",
+          "result": [
+            "\"You're going to ignore that? What the hell is...\"\n\nThe annoyed Sinner was about to say something... but stopped herself. Maybe she thought it was a waste of effort.\n\n\"... The scratching noises are intensifying.\"\n\nTo be fair, this is no normal ship... so maybe this ship just makes scratching noises from time to time.\n\n\"... It has ceased.\"\n\n\"Sometimes, inaction can be a solution indeed.\"\n\nFew minutes later, the scratching noises stopped.\n\n... I guess it wasn't the boat that made the noise. We got lucky.",
+            "\"You're going to ignore that? What the hell is...\"\n\nThe annoyed Sinner was about to say something... before stopping herself. Maybe she thought it was a waste of effort.\n\n\"... The scratching noises are intensifying.\"\n\nTo be fair, this is no normal ship... so maybe this ship just makes scratching noises from time to time.\n\nIf it doesn't...\n\n\"Wait, that reminds me. The pirate ships...\"\n\n\"I guess this is what those spikes were for.\"\n\nThe scratching noises continue to intensify, until it moves to the side of the ship. Soon, the source of scratching noises reveals itself.\n\n... Mermaids.\n\n\"Damnit, we should've checked.\"\n\nI had nothing to say to that.\n\nWe had to fight."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10504,
+      "name": "The Artery",
+      "subDesc": "",
+      "desc": "Isso tem que ser o que Ahab estava falando. Uma vez que abrimos essa coisa ... nosso caminho para o centro do coração abrirá.",
+      "options": [
+        {
+          "message": "Corte a artéria.",
+          "messageDesc": "Prossiga para o próximo prompt de escolha",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10505,
+      "name": "Supply Crates",
+      "subDesc": "",
+      "desc": "\"Isso é ... uma caixa de madeira?\"\n\nOs pecadores encontraram uma pilha de caixas articuladas ao acaso.\n\n\"Pode ser extrapolado de suas aparências de que eles deveriam ser usados ​​como caixas de suprimento\".\n\nAlgumas caixas têm o logotipo dos Piratas Twinhook desenhados sobre eles. Alguns deles têm o logotipo da equipe antes.\n\nA baleia deve ter engolido essas caixas também.\n\n\"É sábio adquirir alguns deles como nossas disposições!\"\n\nCerto. Não sabemos o que vai acontecer assim que chegarmos ao coração.\n\nDevemos levar alguns deles, apenas por precaução?",
+      "options": [
+        {
+          "message": "Vasculhar através das caixas de suprimento.",
+          "messageDesc": "Prossiga para o próximo prompt de escolha.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Deixar.",
+          "messageDesc": "Nada aconteceu.",
+          "result": [
+            "Nothing good ever comes from messing with suspicious items like these.\n\nWe left the room as it is."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810601,
+      "name": "Ahab",
+      "subDesc": "",
+      "desc": "\"Eu falhei.\"\n\n\"<[[Diálogo -...!]]>\"\n\nIsso é uma ilusão? Ou ... isso também é Ishmael?\n\nAtrás do capitão aparece uma silhueta de Ismael, envolta naquela membrana pálida.\n\n\"Não consegui resolver nada. Falei tudo.\"\n\n\"Tudo o que consegui fazer foi sobreviver. Pateticamente, como um miserável. Seguindo -se no caixão do meu querido amigo.\"\n\nO capitão gargina loucamente. \"De fato, Ishmael! Você não poderia salvar ninguém! Não é sua equipe! Não é seu amigo! Ninguém!\"\n\n\"E você desistirá de novo. Porque você tem medo! Você desistirá mesmo de começar!\"\n\nOs pecadores começam a ficar agitados.\n\n\"Aquele bastardo sangrento ...!\"\n\n\"Não ouça-a, Ishmael! S-Ela não sabe do que está falando!\n\n\"<[[Diálogo-...]]>\"\n\nO gerente mantém seu silêncio.\n\nEntão pronuncia.",
+      "options": [
+        {
+          "message": "Isso não é Ismael.",
+          "messageDesc": "Prossiga para o próximo prompt de escolha.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

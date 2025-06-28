@@ -1,0 +1,550 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "WARP Train Economy Class Cabin",
+            "model": "단테",
+            "content": "<Este quarto...>"
+        },
+        {
+            "id": 1,
+            "model": "카세티",
+            "teller": "???",
+            "title": "???",
+            "content": "O que... é esse olhar em seus rostos?"
+        },
+        {
+            "id": 2,
+            "model": "카세티",
+            "teller": "???",
+            "title": "???",
+            "content": "Tu estás na audiência do príncipe. Cadê teus sorrisos obsequiosos?"
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "Ele... deve ser o Bloodfiend que causou esse surto. Ele é nosso alvo."
+        },
+        {
+            "id": 4,
+            "model": "카세티",
+            "teller": "???",
+            "title": "???",
+            "content": "Caia de joelhos e prostre-se diante da realeza!"
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "content": "... Quem diabos é você para fazer essas exigências?"
+        },
+        {
+            "id": 6,
+            "model": "카세티",
+            "teller": "???",
+            "title": "???",
+            "content": "Vou lhe contar isso apenas uma vez, então ouça com atenção."
+        },
+        {
+            "id": 7,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Você pode se dirigir a mim como Príncipe Cassetti, o Sexto Membro, ou um Membro da sexta geração, o legítimo príncipe refugiado de sua Família!"
+        },
+        {
+            "id": 8,
+            "model": "돈키호테",
+            "content": "Você é o vilão... que trouxe tanta destruição e massacre a esta embarcação?"
+        },
+        {
+            "id": 9,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Você é um tagarela, tão rude diante de seu príncipe. No entanto, estou me sentindo generoso, pois estou bastante saciado no momento."
+        },
+        {
+            "id": 10,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Como você deve ter visto em sua jornada até aqui... este lugar é um salão de banquete para um banquete majestoso."
+        },
+        {
+            "id": 11,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Não importa quantos Bloodbags eu crie, não importa o quanto eu os devore... os humanos não param de vir! Eu só aproveito o que foi lançado na minha boca!"
+        },
+        {
+            "id": 12,
+            "model": "이상",
+            "content": "... Ele veste uma máscara com o propósito de se divertir."
+        },
+        {
+            "id": 13,
+            "model": "오티스",
+            "content": "Se realmente vamos trocar gentilezas, por que você não tira essa máscara? Ou você não está familiarizado com a etiqueta básica?"
+        },
+        {
+            "id": 14,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Ah, essa... essa máscara!"
+        },
+        {
+            "id": 15,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Não sai. Não consigo tirar. Não deveria tirar! Não há príncipe sem máscara!"
+        },
+        {
+            "id": 16,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Somos tão, tão feios por trás da máscara; então todos nós decidimos esconder o quão repulsivos nos tornamos. Mas uma vez que eu tenha bebido seu sangue inteiro, então tudo voltará a ser como costumava ser. Só então poderei me desmascarar..."
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "Quem costurou essa máscara na pele do seu rosto? Não é um trabalho tão ruim."
+        },
+        {
+            "id": 18,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Claro que é excelente! Ha ha! Porque esta máscara foi criada por ninguém menos que o grande e eminente Barbeiro, cujo nome eu nem ouso dizer! Mas... mas dói tanto...!"
+        },
+        {
+            "id": 19,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Não, não! Estou sorrindo! Olha, olha como estou sorrindo e rindo muito! HAHAHA! HA! HAAA... SIM, EU SOU O PRÍNCIPE, É ISSO QUE EU SOU!"
+        },
+        {
+            "id": 20,
+            "model": "히스클리프",
+            "content": "Ele é um maluco, não é?"
+        },
+        {
+            "id": 21,
+            "model": "히스클리프",
+            "content": "Tudo bem, acabou com as risadas, então? Prepare-se para a surra da sua vida."
+        },
+        {
+            "id": 22,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Eu... eu gosto de coisas como você e seus amigos."
+        },
+        {
+            "id": 23,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Não chorem, berrem, se curvem e choraminguem no chão por suas vidas!..."
+        },
+        {
+            "id": 24,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Em vez disso, investe contra mim, hm?! A agressão, o sangue fervente, oh, como eu amo o fogo!"
+        },
+        {
+            "id": 25,
+            "model": "히스클리프",
+            "content": "O que você é, idiota? Olhe ao redor. Somos treze e você é só um."
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "Não baixe a guarda, Heathcliff. Esta entidade conseguiu transformar inúmeros passageiros deste trem em seus Bloodbags."
+        },
+        {
+            "id": 27,
+            "model": "히스클리프",
+            "content": "Não vou baixar a guarda. Mas... nós explodimos tantos Bloodbags que nem conseguimos contar, não é mesmo?"
+        },
+        {
+            "id": 28,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Não consegui nem contar...? Ah, não, não... mas a contagem é tão importante! Tenho que contar os nossos visitantes! Ah, sim, claro! Eu lembro de contar os nossos visitantes mais queridos! Sim, senhor, eu lembro!"
+        },
+        {
+            "id": 29,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Você não tem ideia do quão poderoso eu sou. E eu não vou abrir mão do meu trono para você deste reino em desenvolvimento!"
+        },
+        {
+            "id": 30,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Tudo o que eu tenho que fazer é sentar aqui e não fazer nada, e os Bloodbags se apresentam diante de mim! Não há paraíso como este lá fora... você não tem ideia do que eu fiz para criar este lugar!"
+        },
+        {
+            "id": 31,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Ohh, quão exultantes meus antepassados ​​​​Kindreds ficariam, se estivessem aqui para testemunhar o que eu criei! Essa cornucópia de abundância... esse prazer... o, essa liberdade...!"
+        },
+        {
+            "id": 32,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Mas esse reino é meu! Eu o fiz! Não vou entregá-lo, não!"
+        },
+        {
+            "id": 33,
+            "model": "파우스트",
+            "content": "Isso é bastante curioso."
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "Parece que esse Bloodfiend sai desse carro apenas em raras ocasiões..."
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "... No entanto, vimos sinais de sua influência insidiosa em todos os carros que visitamos até agora."
+        },
+        {
+            "id": 36,
+            "model": "홍루",
+            "content": "Então o que ele quis dizer com \"como os Bloodbags se apresentam\" diante dele tem que ser..."
+        },
+        {
+            "id": 37,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "MultiCrack Office",
+            "content": "ESPERE UM MINUTO!"
+        },
+        {
+            "id": 38,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "PESSOAS!!!"
+        },
+        {
+            "id": 39,
+            "content": "Uma figura entrou repentina e freneticamente no carro."
+        },
+        {
+            "id": 40,
+            "content": "Era Sasha, o Fixer que encontramos em um dos primeiros carros."
+        },
+        {
+            "id": 41,
+            "content": "Cassetti se encolhe em seu trono diante da explosão repentina, com terror aparente em seu rosto."
+        },
+        {
+            "id": 42,
+            "model": "돈키호테",
+            "content": "Ah, és tu! Por— realmente viajaste até aqui para nos ajudar em nossa busca?!"
+        },
+        {
+            "id": 43,
+            "model": "돈키호테",
+            "content": "Lo! Esse vilão é o Bloodfiend responsável pelas tragédias que aconteceram a bordo desse trem!"
+        },
+        {
+            "id": 44,
+            "model": "돈키호테",
+            "content": "Ajude-nos a matar esse vira-lata e, eventualmente, tirar deste trem os passageiros que você protegeu até agora!"
+        },
+        {
+            "id": 45,
+            "model": "파우스트",
+            "content": "Demônios de Sangue..."
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "... E se houvesse mais de um Bloodfiend a bordo, alguém ainda capaz de pensamento racional ..."
+        },
+        {
+            "id": 47,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "MultiCrack Office",
+            "content": "Droga, você realmente conseguiu voltar até aqui? Acho que os Wings não dão contratos para qualquer um."
+        },
+        {
+            "id": 48,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "MultiCrack Office",
+            "content": "Eu... eu também costumava lutar o máximo que podia. Até ser o último a ficar de pé..."
+        },
+        {
+            "id": 49,
+            "model": "로쟈",
+            "content": "Do que ela está falando?"
+        },
+        {
+            "id": 50,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "MultiCrack Office",
+            "content": "Mas onde isso me deixou? No final, fiquei sozinho, com nada além de um desses quatro braços sobrando."
+        },
+        {
+            "id": 51,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "MultiCrack Office",
+            "content": "É meio engraçado como a perspectiva da vida pode mudar completamente quando você está realmente, realmente na merda. Acho que meus últimos pensamentos foram..."
+        },
+        {
+            "id": 52,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "MultiCrack Office",
+            "content": "\"Cara... eu... não quero morrer...\""
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 54,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "MultiCrack Office",
+            "content": "Então eu caí de joelhos e implorei. Eu disse a ele que..."
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "Dom Quixote, cuidado!"
+        },
+        {
+            "id": 56,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "MultiCrack Office",
+            "content": "... Eu faria qualquer coisa para viver."
+        },
+        {
+            "id": 57,
+            "content": "O sangue rapidamente se cristalizou ao redor de Sasha como uma armadura enquanto ela brandia sua espada larga contra os Pecadores, atingindo-os antes mesmo de Fausto terminar sua frase."
+        },
+        {
+            "id": 58,
+            "model": "히스클리프",
+            "content": "...Ah!"
+        },
+        {
+            "id": 59,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "O quê..."
+        },
+        {
+            "id": 60,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "... O que eu disse?! Eu ordenei que você me desse um aviso antes de pular assim!"
+        },
+        {
+            "id": 61,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Você não sabe o quão alto seus braços idiotas são? Eu pensei que a Família tinha vindo atrás de mim!"
+        },
+        {
+            "id": 62,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Bloodfiend",
+            "content": "Sinto muito, Lorde Cassetti."
+        },
+        {
+            "id": 63,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Ah... permita-me apresentar meus Membros a ti, para ser o primeiro de muitos desde minha fuga, para o reino que pretendo construir."
+        },
+        {
+            "id": 64,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Meus parentes, meu leal escudeiro... que estará ao meu lado enquanto eu construo minha própria dinastia, minha família..."
+        },
+        {
+            "id": 65,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Bloodfiend",
+            "content": "Lorde Cassetti, eu tinha a intenção de selecionar os mais poderosos do grupo para enviar para este carro, como você me ordenou, mas... os humanos no meu carro eram todos fracos. Então eu apresento diante de vocês este grupo do carro de primeira classe."
+        },
+        {
+            "id": 66,
+            "model": "파우스트",
+            "content": "Parentes..."
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "Você tem conhecimento da natureza exata de um \"Kindred\"?"
+        },
+        {
+            "id": 68,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Bloodfiend",
+            "content": "Não, mas posso te dizer uma coisa."
+        },
+        {
+            "id": 69,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Bloodfiend",
+            "content": "Quando aceitei o sangue do meu senhor em minhas veias... foi como se eu tivesse renascido."
+        },
+        {
+            "id": 70,
+            "model": "파우스트",
+            "content": "Entendo. Um Kindred de Bloodfiend é como uma subentidade do Bloodfiend, similar em conceito a subentidades criadas por Distorções ou Anormalidades."
+        },
+        {
+            "id": 71,
+            "model": "파우스트",
+            "content": "Deve ter sido o desespero que o levou a aceitar essa proposta sem hesitação, apesar da falta de informações relevantes."
+        },
+        {
+            "id": 72,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Bloodfiend",
+            "content": "Talvez. Isso é... provavelmente o que estava passando pela minha cabeça antes de me tornar um Kindred."
+        },
+        {
+            "id": 73,
+            "model": "돈키호테",
+            "content": "Você esteve em coortes com esse vilão... todo esse tempo? Como seu lacaio?"
+        },
+        {
+            "id": 74,
+            "model": "돈키호테",
+            "content": "Mesmo antes, quando colocamos nossos olhos em ti pela primeira vez...?"
+        },
+        {
+            "id": 75,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Bloodfiend",
+            "content": "Moça, você não tem ideia do quanto eu surtei quando uma de vocês me perguntou algo sobre \"olhos vermelhos\". Não que isso importaria se você suspeitasse de mim, já que meu olho vermelho é apenas uma prótese."
+        },
+        {
+            "id": 76,
+            "model": "돈키호테",
+            "content": "E-então... os passageiros que estavam sob sua proteção..."
+        },
+        {
+            "id": 77,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Eu não te disse... que a contagem importa?"
+        },
+        {
+            "id": 78,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Bloodfiend",
+            "content": "Quanto maior a fila... melhor."
+        },
+        {
+            "id": 79,
+            "teller": "Bloodbags",
+            "title": "Bloodbag",
+            "content": "Shhh..."
+        },
+        {
+            "id": 80,
+            "content": "Dezenas de Bloodbags começaram a cambalear para dentro da sala por trás de Sasha.\n... Um menor entre eles se destacou para mim."
+        },
+        {
+            "id": 81,
+            "content": "... Minha mente imediatamente se voltou para a criança que agarrou as abas do casaco de Dom Quixote."
+        },
+        {
+            "id": 82,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 83,
+            "content": "Eu sabia que os passageiros estavam mortos no momento em que percebemos que Sasha era uma Bloodfiend. Mas isso... Eu realmente, realmente esperava não ter que encarar essa realidade. Não assim."
+        },
+        {
+            "id": 84,
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 85,
+            "model": "돈키호테",
+            "content": "Havia... uma criança..."
+        },
+        {
+            "id": 86,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Bloodfiend",
+            "content": "Sim. A pequena queria ser uma Fixer se crescesse."
+        },
+        {
+            "id": 87,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Bloodfiend",
+            "content": "Ainda bem que ela não vai, no entanto. Posso dizer com autoridade que \"viver\" como um Bloodbag é muito melhor do que a labuta que é a vida de um Fixer. Acredite em mim, eu saberia."
+        },
+        {
+            "id": 88,
+            "model": "돈키호테",
+            "content": "... Segure sua língua vil."
+        },
+        {
+            "id": 89,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Bloodfiend",
+            "content": "Sonhando em se tornar um famoso e respeitado Fixer? Um encenador da justiça? É tudo apenas um sonho idiota que sempre termina em decepção esmagadora. Ou uma sepultura muito, muito precoce."
+        },
+        {
+            "id": 90,
+            "model": "돈키호테",
+            "content": "Silêncio... SILÊNCIO!"
+        },
+        {
+            "id": 91,
+            "content": "Dom Quixote não deu tempo para Sasha terminar a frase; ela já estava avançando a toda velocidade em sua direção, com sua lança em punho."
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "dataList": [
+        {
+            "id": 9018101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "■■ew",
+                    "desc": "[WhenUse]Se o alvo não tiver[Burst], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Deal 2 dano SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Le■'■ ■■t",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Burst], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Deal 3 dano SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura HP igual a danos causados ​​(máximo 20)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]OFERECE 5 SP DANHO"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I■'s Y■■r ■■rn N■■!!",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Burst]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura HP igual a danos causados ​​(máximo 20)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Em menos de 50% hp, reutilize moeda uma vez"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 10 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura HP igual a danos causados ​​(máximo 20)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gua■■",
+                    "desc": "[WhenUse]Ganhe Shield HP para cada 5[Burst]no alvo[EndBattle]Curar hp igual ao escudo restante HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wa■■■■ha",
+                    "desc": "[WhenUse]Se o alvo não tiver[Burst], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Deal 2 dano SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "C■■an",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Burst], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Deal 3 dano SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura HP igual a danos causados ​​(máximo 20)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]OFERECE 5 SP DANHO"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ti■■ to E■■!",
+                    "desc": "[WhenUse]Poder de moeda +1 para cada 3[Burst]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura HP igual a danos causados ​​(máximo 20)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Em menos de 50% hp, reutilize moeda uma vez"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 10 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura HP igual a danos causados ​​(máximo 20)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "■■■rd",
+                    "desc": "[WhenUse]Ganhe Shield HP para cada 5[Burst]no alvo[EndBattle]Curar hp igual ao escudo restante HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

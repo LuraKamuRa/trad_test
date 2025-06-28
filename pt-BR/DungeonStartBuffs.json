@@ -1,0 +1,96 @@
+{
+    "dataList": [
+        {
+            "id": "ADDITIONAL_COST_RATE_ON_CLEAR_FLOOR",
+            "description": "Ao passar para o próximo andar, aumente o <color=#ff6000>Saldo de custo</color> atual em {0}% (máx. 100)"
+        },
+        {
+            "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE",
+            "description": "Increase <color=#ff6000>E.G.O Gift sale price</color> by {0}% (once per Shop)"
+        },
+        {
+            "id": "ADDITIONAL_FLOOR_THEME_SLOT",
+            "description": "<color=#ff6000>Theme Pack Selection</color> +{0}"
+        },
+        {
+            "id": "ADDITIONAL_FLOOR_THEME_REFRESH",
+            "description": "<color=#ff6000>Theme Pack Refresh Chance</color> +{0}"
+        },
+        {
+            "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_SELECT_NEW_FLOOR_THEME",
+            "description": "Ao escolher um novo Pacote Temático pela primeira vez, todas as Identidades ganham +{0} <color=#ff6000>Nível(is)</color> (máx. 9)"
+        },
+        {
+            "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
+            "description": "<color=#ff6000>Shop E.G.O Gift Selection</color> +{0}"
+        },
+        {
+            "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_1ST_FLOOR",
+            "description": "Ao entrar, todas as Identidades ganham {0} <color=#ff6000>Nível(is)</color>"
+        },
+        {
+            "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR",
+            "description": "Ao limpar o Andar, todas as Identidades ganham {0} <color=#ff6000>Nível(is)</color>"
+        },
+        {
+            "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP",
+            "description": "Ao entrar em uma Loja, ganhe {0} Nível 3 aleatório ou menos <color=#ff6000>Para Fuse ou Venda somente Presente(s) E.G.O</color>"
+        },
+        {
+            "id": "ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3RD_FLOOR",
+            "description": "Upon entering Floor 3, gain {0} random <color=#ff6000>Tier 3 E.G.O Gift(s)</color>"
+        },
+        {
+            "id": "ACQUIRE_LOWER_TIER_RANDOM_EGO_GIFT_ON_COMBINE",
+            "description": "Ao fundir, ganhe um <color=#ff6000>presente E.G.O adicional aleatório</color> 2 níveis abaixo do resultado da fusão (deve ser nível 3 ou superior) (uma vez por loja)"
+        },
+        {
+            "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
+            "description": "<color=#ff6000>Starting E.G.O Gift</color> Choice +{0}"
+        },
+        {
+            "id": "ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR",
+            "description": "Ao entrar, ganhe {0} <color=#ff6000>Presente(s) E.G.O Nível 3 de sua escolha</color> para sua categoria de palavra-chave selecionada"
+        },
+        {
+            "id": "REVIVE_ONCE_PER_FLOOR",
+            "description": "Ao Fim do Encontro: Reviva {0} aliado(s) (uma vez por Andar)"
+        },
+        {
+            "id": "FREE_SHOP_REFRESH_EGO_GIFT_ONCE",
+            "description": "One Free <color=#ff6000>normal Refresh</color> for Shops"
+        },
+        {
+            "id": "ADDITIONAL_START_COST",
+            "description": "<color=#ff6000>Starting Cost</color> +{0}"
+        },
+        {
+            "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
+            "description": "<color=#ff6000>Encounter Reward Cost</color> +{0}%"
+        },
+        {
+            "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
+            "description": "Maior chance de <color=#ff6000>Presentes E.G.O de alto nível</color> aparecerem nas lojas"
+        },
+        {
+            "id": "FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE",
+            "description": "One Free <color=#ff6000>Keyword Refresh</color> for Shops"
+        },
+        {
+            "id": "ACQUIRE_2_TIER_RANDOM_EGO_GIFT_ON_ENTER_2ND_FLOOR",
+            "description": "Upon entering Floor 2, gain {0} random <color=#ff6000>Tier 2 E.G.O Gift(s)</color>"
+        },
+        {
+            "id": "ACQUIRE_1_TIER_RANDOM_EGO_GIFT_ON_ENTER_1ST_FLOOR",
+            "description": "Upon entering Floor 1, gain {0} random <color=#ff6000>Tier 1 E.G.O Gift(s)</color>"
+        },
+        {
+            "id": "MaxSpeedUpAdder",
+            "description": "<color=#ff6000>Max Speed</color> +{0}"
+        },
+        {
+            "id": "GiveBuffOnRoundStart",
+            "description": "Gain {2} <color=#ff6000>{1}</color>"
+        }
+    ]
+}

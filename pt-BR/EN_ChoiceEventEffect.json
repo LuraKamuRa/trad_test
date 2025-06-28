@@ -1,0 +1,448 @@
+{
+  "dataList": [
+    {
+      "id": "Empty",
+      "content": ""
+    },
+    {
+      "id": "Nothing",
+      "content": "[[Coloria]] Nada aconteceu. [[Tag-Color]]"
+    },
+    {
+      "id": "LevelupPersonality",
+      "content": "[[Tag-Color]] Evento: Sinner Power-Up! [[Tag-Color]]"
+    },
+    {
+      "id": "GetEgogift",
+      "content": "[[Tag-Color]] Evento: Random, por exemplo, presente! [[Tag-Color]]]"
+    },
+    {
+      "id": "GetCharacter",
+      "content": "[[Tag-Color]] Evento: Sinner Recruitment! [[Tag-Color]]"
+    },
+    {
+      "id": "LevelupPersonalityOnWinBattle",
+      "content": "[[Tag-Color]] Ganhe a próxima batalha para recrutar um pecador! [[Tag-Color]]"
+    },
+    {
+      "id": "GetConfirmedEgogiftOnWinBattle",
+      "content": "[[Tag-Color]] Ganhe a próxima batalha para ganhar {recompensa}! [[Tag-Color]]"
+    },
+    {
+      "id": "StartBattle",
+      "content": "[[Coloria tag]] Encontro de combate! [[Tag-Color]]"
+    },
+    {
+      "id": "StartBattle_Normal",
+      "content": "[[Coloria tag]] Encontro regular! [[Tag-Color]]"
+    },
+    {
+      "id": "StartBattle_Danger",
+      "content": "[[Cor-color]] Encontro de risco! [[Tag-Color]]"
+    },
+    {
+      "id": "StartBattle_Abnormality",
+      "content": "[[Coloria tag]] Encontro focado! [[Tag-Color]]"
+    },
+    {
+      "id": "StartBattle_FloorBoss",
+      "content": "[[Cor-color]] Encontro do chefe do assoalho! [[Tag-Color]]"
+    },
+    {
+      "id": "RecoverHpOnly",
+      "content": "[[Tag-color]] {Targets} {condições} [[tag-color]] [[tag-color]] curado para [[tag-color]] [[tag-color]] {vale} hp. [[Tag-color]]"
+    },
+    {
+      "id": "RecoverMpOnly",
+      "content": "[[Tag-Color]] {Targets} {Condições} [[Tag-Color]] [[Tag-Color]] curado para [[Tag-Color]] [[Tag-Color]] {valor} sp. [[Tag-Color]]"
+    },
+    {
+      "id": "RecoverHpOnlyUntilMax",
+      "content": "[[Tag-Color]] {Targets} {Condições} [[Tag-Color]] [[Tag-Color]] curado de volta para [[Tag-Color]] [[Tag-Color]] Full HP. [[Tag-Color]]"
+    },
+    {
+      "id": "RecoverMpOnlyUntilMax",
+      "content": "[[Tag-Color]] {Targets} {Conditamentos} [[Tag-Color]] [[Tag-Color]] curado de volta para [[Tag-Color]] [[Tag-Color]] Full Sp. [[Tag-Color]]"
+    },
+    {
+      "id": "LoseHpOnly",
+      "content": "[[Tag-color]] {Targets} {condições} [[tag-color]] [[tag-color]] tomou [[tag-color]] [[tag-color]] {alpace} dano hp! [[Coloria tag]]]"
+    },
+    {
+      "id": "LoseMpOnly",
+      "content": "[[Tag-Color]] {Targets} {condições} [[tag-color]] [[tag-color]] perdido [[tag-color]] [[tag-color]] {vale} sp! [[Tag-color]]]"
+    },
+    {
+      "id": "RecoverHpMpSameAmount",
+      "content": "[[Tag-Color]] {Targets} {Conditamentos} [[Tag-Color]] [[Tag-Color]] curado para [[Tag-Color]] [[Tag-Color]] {valor} HP [[Tag-Color]] e [[Tag-Color]] sp. [[Tag-Color]]"
+    },
+    {
+      "id": "RecoverHpMpDifferentAmount",
+      "content": "[[Tag-Color]] {Targets} {condições} [[Tag-Color]] [[Tag-Color]] curado para [[tag-color]] [[tag-color]] {alpice} hp [[tag-color]] e [[tag-color]] {vale} sp. [[Tag-color]]"
+    },
+    {
+      "id": "LoseHpMpSameAmount",
+      "content": "[[Tag-Color]] {Targets} {condições} [[tag-color]] [[tag-color]] tomou [[tag-color]] [[tag-color]] {alpice} hp [[tag-color]] e [[tag-color]] sp dano! [[Tag-color]]]"
+    },
+    {
+      "id": "LoseHpMpDifferentAmount",
+      "content": "[[Tag-color]] {Targets} {condições} [[tag-color]] [[tag-color]] tomou [[tag-color]] [[tag-color]] {alpice} hp [[tag-color]] e [[tag-color]] {alpice} sp dano!"
+    },
+    {
+      "id": "GetConfirmedEgogift",
+      "content": "[[Tag-Color]] {Recompensa} ganhos! [[Tag-Color]]]"
+    },
+    {
+      "id": "GetBuff_OnStageStart",
+      "content": "[[Tag-Color]] {Target} {condicional} entrará no próximo encontro de combate com {pilha} {buffname}. [[Tag-color]]"
+    },
+    {
+      "id": "UnlockHiddenRoute",
+      "content": "[[Tag-Color]] Há um novo caminho no mapa! [[Tag-Color]]]"
+    },
+    {
+      "id": "ReduceEnemyWave",
+      "content": "[[Cor-color]] ondas inimigas reduzidas por {wavenum} para a próxima batalha. [[Colorido de tag]]"
+    },
+    {
+      "id": "DestroyEgogift",
+      "content": "[[Tag-color]] {recompensa} [[tag-color]] [[tag-color]] expirado! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90103301",
+      "content": "[[-TAG-COLOR]] Speed ​​+1 [[Tag-Color]] [[Tag-Color]] para esta batalha. [[Tag-Color]]]"
+    },
+    {
+      "id": "Choice_901001",
+      "content": "[[Coloria de tag]] No início da fase de combate, [[[coloria tag]] aliados sem [[colorido de tag]] Habilidade de ataque de afinidade da ira [[coloria de tag]] [[colorido de tag]] Take [[tag-color]] [[cor-color]] 5 danos causados ​​pelo Wrath."
+    },
+    {
+      "id": "Choice_901007",
+      "content": "[[-TAG-COLOR]] No início da curva, [[colorido tag]] [[tag-color]] Heal [[Tag-Color]] [[Tag-Color]] 10 hp [[Tag-Color]] e [[Tag-Color]] 10 sp."
+    },
+    {
+      "id": "Choice_901009",
+      "content": "[[-TAG-COLOR]] Habilidade Final Power -1 [[Tag-Color]] [[Tag-Color]] No início da fase de combate. [[Tag-Color]]"
+    },
+    {
+      "id": "Choice_901010",
+      "content": "[[-TAG-COLOR]] No início da próxima batalha, [[colorido de tag]] [[colorido de tag]] unidades de aliado sem [[colorido de tag]] [[coloria]] habilidade de ataque de afinidade [[coloria de tag]] [[cor-tag]] são escalonados."
+    },
+    {
+      "id": "Choice_901019",
+      "content": "[[-TAG-COLOR]] Speed ​​-2 ​​[[Tag-Color]] [[Tag-Color]] No início da fase de combate. [[Tag-Color]]"
+    },
+    {
+      "id": "Choice_90103402",
+      "content": "[[-TAG-COLOR]] Speed ​​+2 [[Tag-Color]] [[Tag-Color]] para esta batalha. [[Coloria tag]]]"
+    },
+    {
+      "id": "Choice_1030301",
+      "content": "[[Coloria de tag]] No início da próxima batalha, todas as unidades de aliado [[colorido de tag]] [[colorido de tag]] Gain [[Tag-Color]] [[[coloria de tag]] 3 Ataque Power Up. [[Coloria]]]"
+    },
+    {
+      "id": "Choice_1030501",
+      "content": "[[Coloria tag]] Encontro de combate! [[Tag-Color]]\n[[Coloria de tag]] Todos os inimigos [[colorido de tag]] [[colorido de tag]] são infligidos com [[colorido de tag]] [[coloria de tag]] 5 Ataque Power Down! [[Tag-Color]]"
+    },
+    {
+      "id": "Choice_1031001",
+      "content": "[[Tag-Color]] O pecador escolhido [[Tag-Color]] [[Tag-Color]] ganha [[colorido de tag]] [[tag-color]] 3 danificar [[colorido de tag]] [[colorido de tag]] para as próximas 2 batalhas. [[Tag-Color]]"
+    },
+    {
+      "id": "Choice_90100201",
+      "content": "[[Tag-Color]] O pecador que falhou o cheque leva [[Tag-Color]] [[Tag-Color]] 12 hp [[tag-color]] [[tag-color]] dano e [[tag-color]] [[tag-color]] 8 sp [[cor-color]] [[tag-color]] dano! [[Tag-color]]]"
+    },
+    {
+      "id": "Choice_90100502",
+      "content": "[[-TAG-COLOR]] O pecador que falhou que o cheque leva [[colorido tag]] [[colorido de tag]] 15 hp [[tag-color]] [[tag-color]] dano e [[tag-color]] [[tag-color]] 12 sp [[coloria tag]] [[tag-color]] dano! [[Tag-color]]]"
+    },
+    {
+      "id": "Choice_90101001",
+      "content": "[[-TAG-COLOR]] Identidades sem [[Tag-Color]] [[Tag-Color]] Habilidade de ataque de afinidade de luxúria [[[colorido de tag]] [[coloria de tag]] Take [[tag-color]] [[tag-color]] 10 sp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90101101",
+      "content": "[[-TAG-COLOR]] O pecador que falhou que o cheque leva [[colorido de tag]] [[colorido de tag]] 15 sp [[colorido de tag]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90101701",
+      "content": "[[Tag-Color]] O pecador que passou o cheque leva [[Tag-Color]] [[Tag-Color]] 5 SP [[Tag-Color]] [[Tag-Color]] Danos! [[Tag-Color]]]"
+    },
+    {
+      "id": "Choice_90101702",
+      "content": "[[Tag-Color]] O pecador que falhou que o cheque leva [[colorido de tag]] [[colorido de tag]] 25 sp [[colorido tag]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90101801",
+      "content": "[[-TAG-COLOR]] O pecador que falhou que o cheque leva [[colorido de tag]] [[colorido de tag]] 12 sp [[colorido tag]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90101901",
+      "content": "[[Tag-Color]] O pecador que falhou que o cheque leva [[colorido de tag]] [[colorido tag]] 10 sp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90102001",
+      "content": "[[-TAG-COLOR]] Identidades sem [[colorido de tag]] [[tag-color]] Habilidade de ataque de afinidade da gula [[colorido de tag]] [[tag-color]] Take [[tag-color]] [[tag-color]] 5 hp [[tag-color]] [[tag-color]] dano! [[Tag-color]]]"
+    },
+    {
+      "id": "Choice_90102002",
+      "content": "[[-TAG-COLOR]] Identidades sem [[Tag-Color]] [[Tag-Color]] Habilidade de ataque de afinidade de gula [[Tag-Color]] [[Tag-Color]] Take [[Tag-Color]] [[Tag-Color]] 10 hp [[Tag-Color]] [[Tag-Color]] Dano! [[Tag-Color]]]"
+    },
+    {
+      "id": "Choice_90102201",
+      "content": "[[-TAG-COLOR]] Identidades sem [[Tag-Color]] [[Tag-Color]] Habilidade de ataque de afinidade da escuridão [[colorido de tag]] [[coloria de tag]] Take [[colorido de tag]] [[colorido de tag]] 13 hp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90103302",
+      "content": "<color>Identities without<color> <color>Envy Affinity Attack Skill<color> <color>take<color> <color>15 HP<color> <color>damage and<color> <color>15 SP<color> <color>damage!<color>"
+    },
+    {
+      "id": "Choice_90100101",
+      "content": "[[-TAG-COLOR]] Identidades sem [[Tag-Color]] [[tag-color]] Habilidade de ataque de afinidade da ira [[Tag-color]] [[Tag-Color]] Take [[Tag-Color]] [[Tag-Color]] 16 hp [[Tag-Color]] [[Tag-Color]] Daram! [[Tag-Color]]"
+    },
+    {
+      "id": "Choice_901004",
+      "content": "[[-TAG-COLOR]] identidades com [[tag-color]] [[tag-color]] Habilidade de ataque de afinidade da ira [[coloria de tag]] [[tag-color]] cura [[coloria tag]] [[tag-color]] 15 hp. [[Corta-tag]]"
+    },
+    {
+      "id": "Choice_90100701",
+      "content": "[[-TAG-COLOR]] identidades com [[colorido tag]] [[tag-color]] Habilidade de ataque de afinidade de luxúria [[colorido de tag]] [[coloria tag]] cura [[coloria de tag]] [[tag-color]] sp. [[Cor-tag]]]"
+    },
+    {
+      "id": "Choice_901008",
+      "content": "[[Cor-color]] identidades com [[colorido tag]] [[tag-color]] habilidade de ataque de afinidade [[coloria tag]] [[tag-color]] cura [[coloria tag]] [[tag-color]] 10 hp. [[Coloria]]"
+    },
+    {
+      "id": "Choice_90100901",
+      "content": "[[Coloria tag]] Identidades sem [[colorido de tag]] [[tag-color]] Habilidade de ataque de afinidade de luxúria [[colorido de tag]] [[coloria de tag]] Take [[tag-color]] [[-tag-color]] 20 sp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_901014",
+      "content": "[[-TAG-COLOR]] Identidades sem [[Tag-Color]] [[tag-color]] Habilidade de ataque de afinidade preguiçoso [[coloria de tag]] [[coloria tag]] Take [[tag-color]] [[tag-color]] 20 hp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90101401",
+      "content": "<color>Identities without<color> <color>Sloth Affinity Attack Skill<color> <color>take<color> <color>12 HP<color> <color>damage and<color> <color>12 SP<color> <color>damage!<color>"
+    },
+    {
+      "id": "Choice_90101601",
+      "content": "[[-TAG-COLOR]] identidades com [[colorido de tag]] [[tag-color]] Habilidade de ataque de afinidade de gula [[coloria tag]] [[tag-color]] Heal [[Tag-Color]] [[Tag-Color]] sp. [[Tag-Color]]"
+    },
+    {
+      "id": "Choice_901018",
+      "content": "[[-TAG-COLOR]] Uma identidade aleatória sem [[colorido de tag]] [[tag-color]] Habilidade de ataque de afinidade da ira [[[colorido de tag]] [[tag-color]] toma [[colorido de tag]] [[tag-color]] 10 hp [[tag-color]] [[tag-color]] dano! [[Tag-color]]]"
+    },
+    {
+      "id": "Choice_901021",
+      "content": "[[-TAG-COLOR]] Identidades sem [[Tag-Color]] [[Tag-Color]] Habilidade de ataque de afinidade da escuridão [[colorido de tag]] [[coloria de tag]] Take [[Tag-Color]] [[Tag-Color]] 10 hp [[Tag-Color]] [[Tag-Color]] Daram! [[Tag-Color]]"
+    },
+    {
+      "id": "Choice_901023",
+      "content": "[[-TAG-COLOR]] Identidades sem [[Tag-Color]] [[Tag-Color]] Habilidade de ataque de afinidade da escuridão [[coloria de tag]] [[coloria tag]] Take [[[colorido de tag]] [[coloria de tag]] 9 sp [[tag-cor]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90102301",
+      "content": "[[-TAG-COLOR]] Uma identidade aleatória sem [[Tag-Color]] [[Tag-Color]] Habilidade de ataque de afinidade sombria [[Tag-Color]] [[Tag-Color]] toma [[Tag-Color]] [[Tag-Color]] 10 SP [[Tag-Color]] [[Tag-Color]] Dano! [[Tag-Color]]]"
+    },
+    {
+      "id": "Choice_901024",
+      "content": "[[-TAG-COLOR]] A identidade com a menor sanidade que possui [[coloria de tag]] [[coloria]] Habilidade de ataque de afinidade sombria [[coloria de tag]] [[coloria de tag]] cura totalmente sua [[cor-color]] [[tag-color]] HP. [[Tag-color]]"
+    },
+    {
+      "id": "Choice_901025",
+      "content": "[[Tag-color]] identidades sem [[colorido de tag]] [[tag-color]] habilidade de ataque de afinidade da escuridão [[colorido de tag]] [[colorido de tag]] Take [[tag-color]] [[tag-color]] 20 hp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90102501",
+      "content": "[[-TAG-COLOR]] identidades com [[colorido de tag]] [[tag-color]] habilidade de ataque de afinidade sombria [[colorido de tag]] [[tag-color]] cura [[coloria de tag]] [[colorido de tag]] 20 hp. [[Corta-tag]]"
+    },
+    {
+      "id": "Choice_901026",
+      "content": "[[-TAG-COLOR]] Identidades sem [[colorido tag]] [[tag-color]] Habilidade de ataque de afinidade do orgulho [[colorido de tag]] [[coloria tag]] Take [[tag-color]] [[tag-color]] 10 hp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90102601",
+      "content": "[[-TAG-COLOR]] identidades com [[colorido de tag]] [[coloria]] Habilidade de ataque de afinidade do orgulho [[[colorido tag]] [[tag-color]] cura [[coloria de tag]] [[colorido de tag]] 10 hp. [[Coloria]]"
+    },
+    {
+      "id": "Choice_901027",
+      "content": "[[-TAG-COLOR]] Identidades sem [[colorido de tag]] [[coloria tag]] Habilidade de ataque de afinidade do orgulho [[colorido de tag]] [[colorido de tag]] Take [[tag-color]] [[tag-color]] 25 hp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90102701",
+      "content": "[[-TAG-COLOR]] Identidades sem [[colorido de tag]] [[coloria tag]] Habilidade de ataque de afinidade do orgulho [[colorido de tag]] [[colorido de tag]] Take [[tag-color]] [[tag-color]] 25 hp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_901028",
+      "content": "[[-TAG-COLOR]] Identidades sem [[colorido tag]] [[tag-color]] Habilidade de ataque de afinidade do orgulho [[[colorido de tag]] [[coloria de tag]] Take [[tag-color]] [[tag-color]] 5 hp [[tag-color]] [[tag-color]] dano! [[Tag-color]]"
+    },
+    {
+      "id": "Choice_90102801",
+      "content": "[[-TAG-COLOR]] identidades com [[colorido de tag]] [[coloria]] Habilidade de ataque de afinidade do orgulho [[[colorido tag]] [[tag-color]] cura [[coloria de tag]] [[colorido de tag]] 10 hp. [[Coloria]]"
+    },
+    {
+      "id": "Choice_901032",
+      "content": "[[-TAG-COLOR]] Identidades sem [[Tag-Color]] [[Tag-Color]] Envia Affinity Attack Skill [[Tag-Color]] [[Tag-Color]] Take [[Tag-Color]] [[Tag-Color]] 20 SP [[Tag-Color]] [[Tag-Color]] Dano! [[Tag-Color]]"
+    },
+    {
+      "id": "Choice_901034",
+      "content": "<color>Identities without<color> <color>Envy Affinity Attack Skill<color> <color>take<color> <color>15 HP<color> <color>damage and<color> <color>15 SP<color> <color>damage!<color>"
+    },
+    {
+      "id": "Choice_901035",
+      "content": "[[-TAG-COLOR]] Identidades sem [[Tag-Color]] [[Tag-Color]] Envia Affinity Attack Skill [[Tag-Color]] [[Tag-Color]] Take [[Tag-Color]] [[Tag-Color]] 12 hp [[Tag-Color]] [[Tag-Color]] Daram! [[Tag-Color]]"
+    },
+    {
+      "id": "Choice_90103501",
+      "content": "[[-TAG-COLOR]] identidades com [[tag-color]] [[tag-color]] Envia Affinity Attack Skill [[tag-color]] [[tag-color]] cura [[coloria tag]] [[tag-color]] 10 hp. [[Coloria]]"
+    },
+    {
+      "id": "Choice_1040301",
+      "content": "[[Tag-Color]] O pecador escolhido [[tag-color]] [[tag-color]] possui [[tag-color]] [[tag-color]] 10 ruptura [[tag-color]] [[tag-color]] para 1 virar na próxima batalha. [[Tag-Color]]"
+    },
+    {
+      "id": "MirrorDungeonAcquireCost",
+      "content": "[[Tag-Color]] Custo {quantidade} Ganhado [[Tag-Color]]"
+    },
+    {
+      "id": "MirrorDungeonLossCost",
+      "content": "[[Tag-Color]] Custo {valor} perdido [[colorido tag]]"
+    },
+    {
+      "id": "Choice_90104001",
+      "content": "[[Tag-Color]] Comece a próxima batalha com [[Tag-Color]] [[Tag-Color]]+2, por exemplo"
+    },
+    {
+      "id": "Choice_9010400101",
+      "content": "[[Tag-Color]] Todos os aliados têm [[tag-color]] [[tag-color]]+2 Habilidade Final Power [[Tag-Color]] [[Tag-Color]] para a próxima batalha [[coloria tag]]"
+    },
+    {
+      "id": "Choice_90104002",
+      "content": "[[Tag-Color]] Todos os aliados têm [[colorido de tag]] [[colorido de tag]]+1 poder de habilidade [[colorido de tag]] [[tag-color]] para a próxima batalha [[coloria]]"
+    },
+    {
+      "id": "ChangeEventIllust",
+      "content": ""
+    },
+    {
+      "id": "Choice_90105801",
+      "content": "Todas as identidades implantadas ganham 2 níveis"
+    },
+    {
+      "id": "Choice_90106802",
+      "content": "Todas as identidades implantadas ganham 3 níveis"
+    },
+    {
+      "id": "Choice_90107402",
+      "content": "Todas as identidades implantadas ganham 2 níveis"
+    },
+    {
+      "id": "Choice_90109101",
+      "content": "Todas as identidades implantadas ganham 2 níveis"
+    },
+    {
+      "id": "Choice_90200502",
+      "content": "[[-TAG-COLOR]] O pecador que falhou que o cheque leva [[colorido tag]] [[colorido de tag]] 15 hp [[tag-color]] [[tag-color]] dano e [[tag-color]] [[tag-color]] 12 sp [[coloria tag]] [[tag-color]] dano! [[Tag-color]]]"
+    },
+    {
+      "id": "Choice_LoseBattle",
+      "content": "[[Tag-Color]] Não há recompensas após a derrota [[coloria tag]]"
+    },
+    {
+      "id": "Choice_EGO901001",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Sonho de Hellterfly\" e \"Flor Ardente\""
+    },
+    {
+      "id": "Choice_EGO901002",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Perversão\" e \"Awe\""
+    },
+    {
+      "id": "Choice_EGO901009",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Dawn Fiery\" e \"parafina derretida\""
+    },
+    {
+      "id": "Choice_EGO901010",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Bloody Gadget\" e \"Grandeur\""
+    },
+    {
+      "id": "Choice_EGO901011",
+      "content": "Ganhe a batalha para ganhar, por exemplo"
+    },
+    {
+      "id": "Choice_EGO901013",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Talisman Bundle\" e \"Old Wooden Doll\""
+    },
+    {
+      "id": "Choice_EGO901014",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Moeda comemorativa Rusty\" e \"Pain de raiva sufocada\""
+    },
+    {
+      "id": "Choice_EGO901016",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Espírito Verde\" e \"Aroma de licor azedo\""
+    },
+    {
+      "id": "Choice_EGO901018",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Crown of Roses\" e \"Respite\""
+    },
+    {
+      "id": "Choice_EGO901019",
+      "content": "Ganhe a batalha para ganhar, por exemplo"
+    },
+    {
+      "id": "Choice_EGO901020",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"White Gossypium\" e \"pacote emaranhado\""
+    },
+    {
+      "id": "Choice_EGO901021",
+      "content": "Ganhe a batalha para ganhar, por exemplo"
+    },
+    {
+      "id": "Choice_EGO901024",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"global ocular derretido\" e \"pele venenosa\""
+    },
+    {
+      "id": "Choice_EGO901031",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Nixie Divergence\" e \"Clockwork Spring\""
+    },
+    {
+      "id": "Choice_EGO901033",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Bateria padrão de serviço\" e \"desfibrilador sem limites\""
+    },
+    {
+      "id": "Choice_EGO901034",
+      "content": "Ganhe a batalha para ganhar, por exemplo"
+    },
+    {
+      "id": "Choice_EGO901056",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes de \"trevo de quatro folhas\" e \"Emerald Elytra\""
+    },
+    {
+      "id": "Choice_EGO901059",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Midwinter Nightmare\" e \"Eldtree Snare\""
+    },
+    {
+      "id": "Choice_EGO901073",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Kit de Endorfina\" e \"Lâmpada fluorescente\""
+    },
+    {
+      "id": "Choice_EGO971029",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Dimensional do tipo E\" Dimensional \"e\" Bateria de barreira portátil \""
+    },
+    {
+      "id": "GetImmediateConfirmedEgogifts",
+      "content": "[[Tag-Color]] {Recompensa} obtido! [[Tag-Color]]]"
+    },
+    {
+      "id": "Choice_EGO901101",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presentes \"Telepole em miniatura\""
+    },
+    {
+      "id": "Choice_EGO901104",
+      "content": "Ganhe a batalha para ganhar o presente, por exemplo, \"saco de sangue rompido\""
+    },
+    {
+      "id": "Choice_EGO971054",
+      "content": "Ganhe a batalha para ganhar, por exemplo, presente de presente \"Swishish Fuel Tank\""
+    }
+  ]
+}

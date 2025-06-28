@@ -1,0 +1,254 @@
+{
+    "dataList": [
+        {
+            "id": 810001,
+            "name": "The All-Illuminating Light",
+            "desc": "Se toda vela for eliminada e em plena HP, ganhe resistência até que todas as velas estejam acesas novamente.\nQuando todas as velas estiverem iluminadas, perca a resistência."
+        },
+        {
+            "id": 810002,
+            "name": "Darkness Deterred",
+            "desc": "Acenda todas as velas a cada 4 voltas depois que uma vela é apagada. O HP de todas as velas é reduzido para 1."
+        },
+        {
+            "id": 810701,
+            "name": "Burning Embers",
+            "desc": "HP não cai abaixo de 1.\nA 1 hp, acenda as velas e usa uma habilidade de ataque."
+        },
+        {
+            "id": 810702,
+            "name": "Sinking Darkness",
+            "desc": "Quando todas as velas estiverem acesas, use uma habilidade defensiva.\nEsquata as velas no próximo turno quando sair do escudo."
+        },
+        {
+            "id": 810101,
+            "name": "Exposed Pearl",
+            "desc": "Turn Start: Se em 0 lodo verde, fique escalonado. Pearl perde todas as resistências de afinidade em 0,5.\nGanhe 10 lodo verde ao se recuperar de escalonamento."
+        },
+        {
+            "id": 810102,
+            "name": "Cracked Shell",
+            "desc": "Com 10% de núcleo HP, ganha um novo padrão."
+        },
+        {
+            "id": 810103,
+            "name": "Solid Shell",
+            "desc": "A parte da concha mantém suas resistências mesmo durante o estado escalonado."
+        },
+        {
+            "id": 810104,
+            "name": "Gathering Slime",
+            "desc": "Corrija a velocidade desta parte para 1 para um turno ao usar o fluido devorador."
+        },
+        {
+            "id": 810901,
+            "name": "Green Slime",
+            "desc": "Aplique 3 lodo verde na pérola Ambling quando derrotado por pérolas Ambling."
+        },
+        {
+            "id": 810902,
+            "name": "Contaminating Slime",
+            "desc": "Turn End: Aplique (2 + Sobrevivendo o lodo verde) veneno a todos os inimigos."
+        },
+        {
+            "id": 810201,
+            "name": "Expanding Oxygen",
+            "desc": "Quando a parte da fluorescência é quebrada, infligir[AaCePcBb]em todos os inimigos.\nA peça de fluorescência se regenera após 2 voltas."
+        },
+        {
+            "id": 810202,
+            "name": "Underwater Breathing",
+            "desc": "A partir da curva 2, ganhe 8 posições nesta curva se a parte da fluorescência não estiver quebrada.\nGanhe +3 contagem de pontos. A partir da curva 2, ganha 2 paralisos e 2 danos nessa curva se a parte da fluorescência estiver quebrada."
+        },
+        {
+            "id": 810203,
+            "name": "Siltcurrent",
+            "desc": "A partir da curva 2, todas as identidades sem[AaCePcBb]são infligidos com 1 ligação e 1 paralisos; Identidades sem[AaCePcBb]perder 3 sp."
+        },
+        {
+            "id": 810801,
+            "name": "Harden",
+            "desc": "Pode ser danificado apenas com danos iguais ou superiores a 12.\nTodos os danos abaixo de 12 são anulados."
+        },
+        {
+            "id": 810802,
+            "name": "Rolling Flotsam",
+            "desc": "Após a Siltcurrent que devora o sonho, usa obsessão cega e, se esta unidade não for destruída no final da curva, causa 20 de dano a uma identidade aleatória."
+        },
+        {
+            "id": 810803,
+            "name": "Destroyed Flotsam",
+            "desc": "O HP não cai abaixo de 1 após a derrota.\nSe transforma em um flotsam destruído."
+        },
+        {
+            "id": 810301,
+            "name": "Captain's Orders",
+            "desc": "Vire o início: se não estiver em -45 sp, cura (# de sobreviver a outros aliados x 5) sp.\nTurn START: Se em -45 SP, recupere do pânico na extremidade do turno e redefina o SP para 0."
+        },
+        {
+            "id": 810302,
+            "name": "Mutilated Tattoos",
+            "desc": "Toda vez que um aliado da facção da cidade de Pequod é derrotado, perca 1 contagem de pontos e 10 sp."
+        },
+        {
+            "id": 810303,
+            "name": "The Indomitable Harpooneer",
+            "desc": "Quanto mais baixo o HP desta unidade fica, mais danos o causar de habilidades desta unidade."
+        },
+        {
+            "id": 810304,
+            "name": "Injected Hatred and Animosity",
+            "desc": "Turn End: Se 50%- de HP máximo, passe para a Fase 2.\nO HP desta unidade não cai abaixo de 1 antes do início da fase 2.\nFase 2 Início: Core HP a 50% dos Aliados Max HP e convocam 4. Infligir[AaCePcBj]Contra 1 inimigo com a menor porcentagem de HP no início de cada turno."
+        },
+        {
+            "id": 810305,
+            "name": "Engraved Hatred and Animosity",
+            "desc": "A 1 hp, curar até 50% do máximo de HP e ganhar 2 ataques de ataque no próximo turno. (Uma vez por encontro)"
+        },
+        {
+            "id": 810306,
+            "name": "Clouded Mind",
+            "desc": "Quando escalonado e quando em menos de 0 sp na extremidade do turno, redefina o SP para 0."
+        },
+        {
+            "id": 810401,
+            "name": "Engraved Hatred and Animosity",
+            "desc": "Turn End: a 50- hp, ganha 2 pressa e 2 ataque de ataque no próximo turno. (uma vez por encontro)"
+        },
+        {
+            "id": 810402,
+            "name": "Puncturing Harpoon",
+            "desc": "No acerto crítico, infligir 1 efeito negativo adicional com efeitos de habilidade."
+        },
+        {
+            "id": 810501,
+            "name": "Captain of the Pequod",
+            "desc": "Turn Start: Se não estiver em -45 sp, Heal 15 sp.\nTurn End: Se em pânico, recupere do pânico. Redefinir SP para 0."
+        },
+        {
+            "id": 810503,
+            "name": "Muddled Orders",
+            "desc": "Quando esta unidade é escalonada e quando todos os outros aliados estiverem em menos de 0 SP na extremidade, redefina o SP para 0."
+        },
+        {
+            "id": 810504,
+            "name": "Coldhearted Decision",
+            "desc": "Fase 2 Início: Cura totalmente HP; Queequeg e Starbuck não ativam mais as ordens do capitão passivas. Além disso, Queequeg não fica mais escalonado, mesmo quando o valor do escudo de defesa de assistência atinge 0."
+        },
+        {
+            "id": 810601,
+            "name": "Ahab",
+            "desc": "Turn Start: Se não estiver em -45 sp, Heal 15 sp.\nTurn End: Se em pânico, recupere do pânico. Redefinir SP para 0 e obter 2 Ataque Power Up e 2 Defense Power Up."
+        },
+        {
+            "id": 810602,
+            "name": "Pip's Sin and Innocence",
+            "desc": "Início da fase: Ganhe 20 ego do PIP.\nTurn End: Heal 3 SP para cada ego do PIP.\nTurn End: Se[AaCePcBo]está em 0, fique escalonado no próximo turno."
+        },
+        {
+            "id": 810603,
+            "name": "Starbuck's Fears",
+            "desc": "Início da fase: Ganhe 20 ego da Starbuck.\nPerder 1[AaCePcBp]para cada moeda destruída em conflito contra alvos com[AaCePcBj].\nTurn Start: Ganhe 1 Proteção para cada 5 ego da Starbuck.\nTurn End: Se[AaCePcBp]está em 0, fique escalonado no próximo turno."
+        },
+        {
+            "id": 810604,
+            "name": "Puncturing Harpoon",
+            "desc": "Durante esta fase, no acerto crítico, inflige 1 efeito negativo adicional com efeitos de habilidade."
+        },
+        {
+            "id": 810605,
+            "name": "Queequeg's Atonement",
+            "desc": "Início da fase: Ganhe 30 ego do Queequeg.\nTurn End: Se esta unidade ainda tiver escudo restante, recupere 5 ego de Queequeg. Se esta unidade não tiver escudo restante, perca 10[AaCePcBq].\nTurn End: Se[AaCePcBq]está em 0, fique escalonado no próximo turno."
+        },
+        {
+            "id": 810606,
+            "name": "The Indomitable Harpooneer",
+            "desc": "Quanto mais baixo o HP desta unidade fica, mais danos esta unidade lida com suas habilidades.\nNegociar 1% mais hp para cada 0,75% faltando HP em si mesmo\n(No máximo 100%."
+        },
+        {
+            "id": 810607,
+            "name": "Price of Nobility",
+            "desc": "Ganhe 'nível de ofensa' e 'nível de defesa' toda vez que esta unidade ganha outros personagens 'ego\nPerder o SP ao perder certos conflitos de habilidade"
+        },
+        {
+            "id": 814101,
+            "name": "The All-Illuminating Light",
+            "desc": "Se toda vela for eliminada e em plena HP, ganhe resistência até que todas as velas estejam acesas novamente.\nQuando todas as velas estiverem iluminadas, perca a resistência."
+        },
+        {
+            "id": 814102,
+            "name": "Darkness Deterred",
+            "desc": "Acenda todas as velas a cada 4 voltas depois que uma vela é apagada. O HP de todas as velas é reduzido para 1."
+        },
+        {
+            "id": 813601,
+            "name": "Burning Embers",
+            "desc": "HP não cai abaixo de 1.\nA 1 hp, acenda as velas e usa uma habilidade de ataque."
+        },
+        {
+            "id": 813602,
+            "name": "Sinking Darkness",
+            "desc": "Quando todas as velas estiverem acesas, use uma habilidade defensiva.\nEsquata as velas no próximo turno quando sair do escudo."
+        },
+        {
+            "id": 813701,
+            "name": "Exposed Pearl",
+            "desc": "Turn Start: Se em 0 lodo verde, fique escalonado. Pearl perde todas as resistências de afinidade em 0,5.\nGanhe 10 lodo verde ao se recuperar de escalonamento."
+        },
+        {
+            "id": 813702,
+            "name": "Cracked Shell",
+            "desc": "Com 10% de núcleo HP, ganha um novo padrão."
+        },
+        {
+            "id": 813703,
+            "name": "Solid Shell",
+            "desc": "A parte da concha mantém suas resistências mesmo durante o estado escalonado."
+        },
+        {
+            "id": 813704,
+            "name": "Gathering Slime",
+            "desc": "Corrija a velocidade desta parte para 1 para um turno ao usar o fluido devorador."
+        },
+        {
+            "id": 813801,
+            "name": "Green Slime",
+            "desc": "Aplique 3 lodo verde na pérola Ambling quando derrotado por pérolas Ambling."
+        },
+        {
+            "id": 813802,
+            "name": "Contaminating Slime",
+            "desc": "Turn End: Aplique (2 + Sobrevivendo o lodo verde) veneno a todos os inimigos."
+        },
+        {
+            "id": 813901,
+            "name": "Expanding Oxygen",
+            "desc": "Quando a parte da fluorescência é quebrada, infligir[AaCePcBb]em todos os inimigos.\nA peça de fluorescência se regenera após 2 voltas."
+        },
+        {
+            "id": 813902,
+            "name": "Underwater Breathing",
+            "desc": "A partir da curva 2, ganhe 8 posições nesta curva se a parte da fluorescência não estiver quebrada.\nGanhe +3 contagem de pontos. A partir da curva 2, ganha 2 paralisos e 2 danos nessa curva se a parte da fluorescência estiver quebrada."
+        },
+        {
+            "id": 813903,
+            "name": "Siltcurrent",
+            "desc": "A partir da curva 2, todas as identidades sem[AaCePcBb]são infligidos com 1 ligação e 1 paralisos; Identidades sem[AaCePcBb]perder 3 sp."
+        },
+        {
+            "id": 814001,
+            "name": "Harden",
+            "desc": "Pode ser danificado apenas com danos iguais ou superiores a 12.\nTodos os danos abaixo de 12 são anulados."
+        },
+        {
+            "id": 814002,
+            "name": "Rolling Flotsam",
+            "desc": "Após a Siltcurrent que devora o sonho, usa obsessão cega e, se esta unidade não for destruída no final da curva, causa 20 de dano a uma identidade aleatória."
+        },
+        {
+            "id": 814003,
+            "name": "Destroyed Flotsam",
+            "desc": "O HP não cai abaixo de 1 após a derrota.\nSe transforma em um flotsam destruído."
+        }
+    ]
+}

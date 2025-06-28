@@ -1,0 +1,1186 @@
+{
+    "dataList": [
+        {
+            "id": 9015801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Slam",
+                    "desc": "[WhenUse]Se esta unidade tiver[HardenedBlood], e se o efeito da moeda dessa habilidade infligir[Burst], infligir +1[Laceration]Conte também",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aimless Wrath",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Laceration], Power de moedas +1[WhenUse]Se esta unidade tiver 3+[HardenedBlood], e se o efeito da moeda dessa habilidade infligir[Burst], infligir 2[Laceration]também",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[Laceration], ganha 1[HardenedBlood]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Unbridled Smite",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +20% mais danos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Se o alvo tiver[Laceration], ganha 1[HardenedBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Slam",
+                    "desc": "[WhenUse]Se esta unidade tiver[HardenedBlood], e se o efeito da moeda dessa habilidade infligir[Burst], infligir +1[Laceration]Conte também",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aimless Wrath",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Laceration], Power de moedas +1[WhenUse]Se esta unidade tiver 3+[HardenedBlood], e se o efeito da moeda dessa habilidade infligir[Burst], infligir +1[Laceration]Conte também",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[Laceration], ganha 1[HardenedBlood]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Unbridled Smite",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Laceration], causar +20% mais danos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Se o alvo tiver[Laceration], ganha 1[HardenedBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Thrash",
+                    "desc": "[DefeatDuel]Ganhe 10[Laceration]e +1[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 10[Laceration]e 1[BloodyHand]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Lash",
+                    "desc": "[WhenUse]Se o alvo tiver 8+[Laceration], causar +20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Laceration], ganha 1[HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 20[Laceration]e 2[BloodyHand]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Strike",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Laceration], Potência base +1[WhenUse]Quando infligir[Laceration]Com esta habilidade, infligir[Burst]igual a[HardenedBlood]em si também[EndSkill]Consuma tudo[HardenedBlood]e[BloodyHand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar ([Laceration]no alvo)% hp (máximo 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Potência base +1 para cada[HardenedBlood]em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Thrash",
+                    "desc": "[DefeatDuel]Ganhe 10[Laceration]e +1[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 10[Laceration]e 1[BloodyHand]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Lash",
+                    "desc": "[WhenUse]Se o alvo tiver 4+[Laceration], causar +10% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Laceration], ganha 1[HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 20[Laceration]e 2[BloodyHand]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Strike",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Laceration], Potência base +1[WhenUse]Quando infligir[Laceration]Com esta habilidade, infligir[Burst]igual a[HardenedBlood]em si também[EndSkill]Consuma tudo[HardenedBlood]e[BloodyHand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar ([Laceration]no alvo)% hp (máximo 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Potência base +1 para cada[HardenedBlood]em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Please answer the survey.",
+                    "desc": "[WhenUse]Ganhe 5[Laceration]e +1[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don't! Don't Cut Me Off!",
+                    "desc": "[WhenUse]Ganhe 5[Laceration]e +1[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Laceration], ganha 1[BloodyHand]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Faded Patience",
+                    "desc": "[WhenUse]Consumir até 50[BloodDinner]; Ganho 1[BloodyHand]para cada 10[BloodDinner]consumido[WhenUse]Se o alvo tiver 5+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Se esta unidade falhou em consumir[BloodDinner]Com esta habilidade, ganhe 10[Laceration]e 1[BloodyHand]."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Endless Atonement",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Laceration], Power de moedas +1[WhenUse]Clash Power +1 para cada[HardenedBlood]em si mesmo[DefeatDuel]Perder 2[BloodyHand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma tudo[BloodyHand]para infligir +3[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma tudo[HardenedBlood]em si mesmo para aumentar[BloodDinner]por (consumido[HardenedBlood]x 3) e ganha 5[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar ([Laceration]no alvo)% HP (máximo 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Em 1+[BloodyHand], Potência base +1[WhenUse]Em mais de 3 anos[HardenedBlood], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Please answer the survey.",
+                    "desc": "[WhenUse]Ganhe 5[Laceration]e +1[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don't! Don't Cut Me Off!",
+                    "desc": "[WhenUse]Ganhe 5[Laceration]e +1[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 5+[Laceration], ganha 1[BloodyHand]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Faded Patience",
+                    "desc": "[WhenUse]Consumir até 50[BloodDinner]; Ganho 1[BloodyHand]para cada 10[BloodDinner]consumido[WhenUse]Se o alvo tiver 5+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Se esta unidade falhou em consumir[BloodDinner]Com esta habilidade, ganhe 10[Laceration]e 1[BloodyHand]."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Endless Atonement",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Laceration], Power de moedas +1[WhenUse]Clash Power +1 para cada[HardenedBlood]em si mesmo[DefeatDuel]Perder 2[BloodyHand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma tudo[BloodyHand]para infligir +3[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma tudo[HardenedBlood]em si mesmo para aumentar[BloodDinner]por (consumido[HardenedBlood]x 3) e ganha 5[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar ([Laceration]no alvo)% HP (máximo 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse]Em 1+[BloodyHand], Potência base +1[WhenUse]Em mais de 3 anos[HardenedBlood], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Downward Cut",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power final +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]e +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Carve",
+                    "desc": "[WhenUse]Power final +1 para cada 5[FestivalFever]em si ou a cada 6[Laceration]no alvo (máximo 2)[WhenUse]Ganhe 15[Laceration], imediatamente o desencadeia e reduza[Laceration]Contagem por 1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Laceration], ganha 1[HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Power Unfurling",
+                    "desc": "[WhenUse]Ganhe 15[Laceration]e +2[Laceration]Conte, acioná -lo imediatamente duas vezes e depois reduzir[Laceration]Contagem por 2[EndBattle]Consuma tudo[HardenedBlood]e[FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Laceration]e[Burst]igual a[HardenedBlood]em si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar ([FestivalFever]x 2,5)% HP (máximo 20%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[FestivalFever]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power final +1[StartBattle]Ganho 2[FestivalFever]\n[OnDefeatEvade]Perder 2[FestivalFever]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Lash",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power final +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Wild Jag",
+                    "desc": "[WhenUse]Power final +1 para cada 5[FestivalFever]em si ou a cada 6[Laceration]no alvo (máximo 2)[WhenUse]Ganhe 15[Laceration], imediatamente o desencadeia e reduza[Laceration]Contagem por 1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Laceration], ganha 1[HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Power Unfurling",
+                    "desc": "[WhenUse]Ganhe 15[Laceration]e +2[Laceration]Conte, acioná -lo imediatamente duas vezes e depois reduzir[Laceration]Contagem por 2[EndBattle]Consuma tudo[HardenedBlood]e[FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Laceration]e[Burst]igual a[HardenedBlood]em si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar ([FestivalFever]x 2,5)% HP (máximo 20%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[FestivalFever]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power final +1[StartBattle]Ganho 2[FestivalFever]\n[OnDefeatEvade]Perder 2[FestivalFever]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Welcome to the Festival of Wonders!",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power final +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Join the Joyful Parade!",
+                    "desc": "[WhenUse]Power final +1 para cada 5[FestivalFever]em si ou a cada 6[Laceration]no alvo (máximo 3)[WhenUse]Em menos de 20[BloodDinner], ganhe 20[Laceration]e imediatamente o desencadeia, depois reduza[Laceration]Contagem por 1[EndSkill]Consuma 20[BloodDinner]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[HardenedBlood]Para cada 6[Laceration]no alvo (máximo 2)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir 4[Laceration]e +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 ~ 3[BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blossom your Smiles of Joy!",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power de moedas +1[WhenUse]Se o alvo tiver 6+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack]Ganho 2[FestivalFever]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Eternal Kingdom of Happiness, La Manchaland!",
+                    "desc": "[WhenUse]Em menos de 40[BloodDinner], ganhe 20[Laceration]e +2[Laceration]Conte, acioná -lo imediatamente duas vezes e depois reduzir[Laceration]Contagem por 2[EndSkill]Consumir 40[BloodDinner]\n[EndBattle]Consuma tudo[HardenedBlood]e[FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Laceration]e[Burst]igual a[HardenedBlood]em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar ([FestivalFever]x 4)% HP (máximo 40%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 5[BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power final +2[StartBattle]Ganhe 3[FestivalFever]\n[OnDefeatEvade]Perder 3[FestivalFever]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Welcome to the Festival of Wonders!",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power final +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]e +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let's All Match Our Steps, Dance!",
+                    "desc": "[WhenUse]Power final +1 para cada 5[FestivalFever]em si ou a cada 6[Laceration]no alvo (máximo 3)[WhenUse]Em menos de 20[BloodDinner], ganhe 20[Laceration]e imediatamente o desencadeia, depois reduza[Laceration]Contagem por 1[EndSkill]Consuma 20[BloodDinner]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[HardenedBlood]Para cada 6[Laceration]no alvo (máximo 2)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir 4[Laceration]e +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 ~ 3[BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lose Yourself in the Singing!",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power de moedas +1[WhenUse]Se o alvo tiver 6+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack]Ganho 2[FestivalFever]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Eternal Kingdom of Happiness, La Manchaland!",
+                    "desc": "[WhenUse]Em menos de 40[BloodDinner], ganhe 20[Laceration]e +2[Laceration]Conte, acioná -lo imediatamente duas vezes e depois reduzir[Laceration]Contagem por 2[EndSkill]Consumir 40[BloodDinner]\n[EndBattle]Consuma tudo[HardenedBlood]e[FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Laceration]e[Burst]igual a[HardenedBlood]em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar ([FestivalFever]x 4)% HP (máximo 40%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 5[BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[WhenUse]A 5+[FestivalFever], Power final +2[StartBattle]Ganhe 3[FestivalFever]\n[OnDefeatEvade]Perder 3[FestivalFever]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

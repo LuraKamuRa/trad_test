@@ -1,0 +1,74 @@
+{
+    "dataList": [
+        {
+            "id": 9018301,
+            "name": "Measured Clashes",
+            "desc": "Na vitória do Clash, ganhe 2[Agility]Próximo turno (uma vez por turno)"
+        },
+        {
+            "id": 9019301,
+            "name": "Suppressed Movements",
+            "desc": "Na vitória do Clash, infligir 2[Binding]no alvo próximo turno (uma vez por turno)"
+        },
+        {
+            "id": 9018501,
+            "name": "Bestowed Mission",
+            "desc": "Encontro Início: Ganho[RepressedMurderousIntend]"
+        },
+        {
+            "id": 9018502,
+            "name": "Strider [Mao]",
+            "desc": "Atingido contra o inimigo com[BurstAgility]: infligir +1[Burst]Conte com o alvo (3 vezes por turno)"
+        },
+        {
+            "id": 9018503,
+            "name": "Vigor [Mao]",
+            "desc": "Ao atacar alvos com velocidade mais lenta que a estação, infligir +1 mais[Burst]ou[Burst]Contar"
+        },
+        {
+            "id": 9018504,
+            "name": "Dominator [Mao]",
+            "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Power de moeda +1"
+        },
+        {
+            "id": 9102001,
+            "name": "The Book of Vengeance",
+            "desc": "Quando atingido, infligir 1[MiddleFingerBook]contra o atacante (1 alvo por turno; máx. 1)\nNo uso de habilidades, se o alvo tiver[MiddleFingerBook], ganho ([MiddleFingerBook]/ 4) Poder de choque (máximo 2)\n- Se o alvo tiver 8+[MiddleFingerBook], ganho ([MiddleFingerBook]/ 3) Poder de base (máx. 3)"
+        },
+        {
+            "id": 9102002,
+            "name": "Vengeance Tattoo",
+            "desc": "Toda vez que um aliado do meio é morto neste encontro, ganhe 1[AttackUp](Máx 5)"
+        },
+        {
+            "id": 9102003,
+            "name": "Chains of Loyalty",
+            "desc": "Quando um aliado do meio é morto, ganhe 1[PlusCoinValueUp]Próximo turno. (Máx 2)"
+        },
+        {
+            "id": 9018701,
+            "name": "Liquified Body",
+            "desc": "Danos causados ​​-10%"
+        },
+        {
+            "id": 9018702,
+            "name": "Corpse Cleanup",
+            "desc": "Turn End: Se alguém morreu nesta vez, cure 5% de HP\nEm matar, Heal 2 ~ 5% HP"
+        },
+        {
+            "id": 9018703,
+            "name": "For the Family",
+            "desc": "Turn End: Heal SP igual ao número de varredores sobreviventes"
+        },
+        {
+            "id": 9018704,
+            "name": "Night in the Backstreets",
+            "desc": "Ao ingressar após a onda 2, entre com 30 sp."
+        },
+        {
+            "id": 9102004,
+            "name": "Seize ya Chance",
+            "desc": "Não pode ser escalonado enquanto uma habilidade de contador utilizável está no slot de habilidade desta unidade."
+        }
+    ]
+}

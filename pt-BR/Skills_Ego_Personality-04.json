@@ -1,0 +1,473 @@
+{
+    "dataList": [
+        {
+            "id": 2040511,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 naufrágio"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 3, por exemplo, recursos de uma afinidade aleatória atualmente de propriedade"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 naufrágio"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 3, por exemplo, recursos de uma afinidade aleatória atualmente de propriedade; Todos os aliados curam 3 sp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 naufrágio"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 3, por exemplo, recursos de uma afinidade aleatória atualmente de propriedade; Todos os aliados curam 3 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040521,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 naufrágio"
+                                },
+                                {
+                                    "desc": "[EndSkill]Todos os aliados ganham +1<sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Por exemplo, AMP de recurso</color></link></u>."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 naufrágio"
+                                },
+                                {
+                                    "desc": "[EndSkill]Todos os aliados ganham +1<sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Por exemplo, AMP de recurso</color></link></u>."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Soda",
+                    "abName": "Wellcheers",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 naufrágio"
+                                },
+                                {
+                                    "desc": "[EndSkill]Todos os aliados ganham +1<sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Por exemplo, AMP de recurso</color></link></u>., aplique 1 pressa na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[BeforeAttack]Ganhe 4 equilíbrio",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[BeforeAttack]Ganhe 4 equilíbrio[EndSkill]Ganhe 2 posta para cada unidade derrotada por esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[BeforeAttack]Ganhe 4 equilíbrio[EndSkill]Ganhe 2 posta para cada unidade derrotada por esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040621,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe 4 equilíbrio. Consuma 2 contagem de cobrança para ganhar 1 equilíbrio (máximo 10)[EndSkill]Ganhe +4 contagem de cobrança para cada unidade derrotada por esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe 4 equilíbrio. Consuma 2 contagem de cobrança para ganhar 1 equilíbrio (máximo 10)[EndSkill]Ganhe +4 contagem de cobrança para cada unidade derrotada por esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Blind Obsession",
+                    "abName": "Dream-Devouring Siltcurrent",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe 4 equilíbrio. Consuma 2 contagem de cobrança para ganhar 1 equilíbrio (máximo 10)[EndSkill]Ganhe +4 contagem de cobrança para cada unidade derrotada por esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho +1 contagem de posições"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Em mais de 10 anos[Breath], ganha +30% de dano crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contempt, Awe",
+                    "abName": "Spiral of Contempt",
+                    "desc": "[BeforeAttack]Ganho (maior ressonância.) Peso ATK (máximo 2)[BeforeAttack]Ganho (ressonamento mais alto + 1)[GazePersonality](Máx 7)[EndSkill]Por 2 voltas, perca 10 sp no final",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Infligir uniformemente 10[Laceration]entre todos os alvos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Contempt, Awe",
+                    "abName": "Spiral of Contempt",
+                    "desc": "[BeforeAttack]Ganho (maior ressonância.) Peso ATK (máximo<style=\"highlight\">4</style>)\n[BeforeAttack]Ganho (ressonamento mais alto + 1)[GazePersonality](Máx 7)[EndSkill]Por 2 voltas, perca 10 sp no final",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Infligir uniformemente<style=\"highlight\">15</style> [Laceration]entre todos os alvos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Contempt, Awe",
+                    "abName": "Spiral of Contempt",
+                    "desc": "[BeforeAttack]Ganho (maior ressonância.) Peso ATK (máximo<style=\"highlight\">6</style>)\n[BeforeAttack]Ganho (ressonamento mais alto + 1)[GazePersonality] <style=\"highlight\">Esta curva e a próxima curva</style>(Máx 7)<style=\"highlight\">[EndSkill]Se essa habilidade fazia parte de uma ressonância de luxúria, ganhe 1, por exemplo, recurso em afinidades correspondentes a cada uma das habilidades de ataque desta unidade</style>\n[EndSkill]Por 2 voltas, perca 10 sp no final",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Infligir uniformemente 15[Laceration]entre todos os alvos<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contempt, Awe",
+                    "abName": "Spiral of Contempt",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe 7[GazePersonality]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[Laceration], acordo +(a soma de[Laceration]Potência e contagem no alvo)% mais danos (no máximo 20%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir (1 + (ressonância mais alta. X 1,5)))[Laceration](máximo 10, arredondado)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Contempt, Awe",
+                    "abName": "Spiral of Contempt",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe 7[GazePersonality]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[Laceration], acordo +(a soma de[Laceration]Potência e contagem no alvo)% mais danos (máximo<style=\"highlight\">40%</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">(3 + (ressonância mais alta. X 2))</style> [Laceration](máx<style=\"highlight\">15</style>, arredondado)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">3</style> [Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Contempt, Awe",
+                    "abName": "Spiral of Contempt",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe 7[GazePersonality]\n<style=\"highlight\">[EndSkill]Se essa habilidade fazia parte de uma ressonância de luxúria, ganhe 1, por exemplo, recurso em afinidades correspondentes a cada uma das habilidades de ataque desta unidade</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver[Laceration], acordo +(a soma de[Laceration]Potência e contagem no alvo)% mais danos (máximo<style=\"highlight\">60%</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">(10 + (ressonância mais alta. X 2,5)))</style> [Laceration](máx<style=\"highlight\">25</style>, arredondado)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">5</style> [Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040811,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thoracalgia",
+                    "abName": "Sleeping Bag of a Bygone Day",
+                    "desc": "[BeforeAttack]Ganho (ressonância mais alta.)[Breath](Máx 4)\n- em mais de 15 anos[Breath], Ganhe Power Final +(ressonância mais alta.[BeforeAttack]Ganho (ressonância mais alta / 2)[Breath]Contagem (max 2)\n- em 5+[Breath]Conte, ganho de moeda Power +(resson. / 2) em vez disso (max 2)[TargetKill]Ganho 1[HoldingBreath]Próximo turno (2 vezes por turno)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[HoldingBreath](uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Thoracalgia",
+                    "abName": "Sleeping Bag of a Bygone Day",
+                    "desc": "[BeforeAttack]Ganho (ressonância mais alta.)[Breath](máx<style=\"highlight\">6</style>)\n- em mais de 15 anos[Breath], Ganhe Power Final +(ressonamento mais alto.<style=\"highlight\">6</style>)\n[BeforeAttack]Ganho (ressonância mais alta / 2)[Breath]Contagem (max 2)\n- em 5+[Breath]Conte, ganho de moeda Power +(resson. / 2) em vez disso (max 2)[TargetKill]Ganho<style=\"highlight\">2</style> [HoldingBreath]Próximo turno (<style=\"highlight\">4</style>vezes por turno)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">Negócio +([Breath]Potência + contagem)% mais danos no acerto crítico (no máximo 20%)</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[HoldingBreath](uma vez por turno)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Thoracalgia",
+                    "abName": "Sleeping Bag of a Bygone Day",
+                    "desc": "[BeforeAttack]Ganho (ressonância mais alta.)[Breath](Máx 6)\n- em mais de 15 anos[Breath], Ganhe Power Final +(ressonância mais alta.[BeforeAttack]Ganho (ressonância mais alta / 2)[Breath]Contagem (máx<style=\"highlight\">3</style>)\n- em 5+[Breath]Conte, ganho Power Power +(ressonância mais alta) em vez disso (máximo (máximo<style=\"highlight\">3</style>)\n[TargetKill]Ganho 2[HoldingBreath]Próximo turno (<style=\"highlight\">6</style>vezes por turno)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negócio +([Breath]Potência + contagem)% mais danos no acerto crítico (máximo<style=\"highlight\">40%</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">4</style> [HoldingBreath](uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040821,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thoracalgia",
+                    "abName": "Sleeping Bag of a Bygone Day",
+                    "desc": "[CantIdentify]Prioriza as metas com o menor HP (prioriza os aliados)\nSe um aliado é uma das metas dessa habilidade, causar +30% mais danos[BeforeAttack]Em menos de 15[Breath], consuma 10% HP para ganhar 5[Breath]e +5[Breath]Contar\n- não pode ser escalonado ou derrotado devido a esse efeito[EndSkill]Se o alvo for derrotado, ganhe 2[HoldingBreath]Próximo turno. (uma vez por turno) Se o mencionado alvo era um aliado, ative o seguinte também:\n- Aliados que são feitos para participar ou são substituídos neste encontro devido aos aliados derrotados ganham 2[Breath]e +2[Breath]Contar",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4[HoldingBreath](uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Thoracalgia",
+                    "abName": "Sleeping Bag of a Bygone Day",
+                    "desc": "[CantIdentify]Prioriza as metas com o menor HP (prioriza os aliados)\nSe um aliado é uma das metas dessa habilidade, causar +30% mais danos[BeforeAttack]Em menos de 15[Breath], consuma 10% HP para ganhar 5[Breath]e +5[Breath]Contar\n- não pode ser escalonado ou derrotado devido a esse efeito<style=\"highlight\">- Ganhe 1[Breath]Para cada aliado direcionado por essa habilidade (máx. 2)</style>\n\n[EndSkill]Se o alvo for derrotado, ganhe 2[HoldingBreath]Próximo turno. (uma vez por turno) Se o mencionado alvo era um aliado, ative o seguinte também:\n- Aliados que são feitos para participar ou são substituídos neste encontro devido ao ganho dos aliados derrotados<style=\"highlight\">4</style> [Breath]e +2[Breath]Contar<style=\"highlight\">- recupere metade do SP usado por esta habilidade</style>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">Negócio +([Breath]Potência + contagem)% mais danos no acerto crítico (no máximo 20%)</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4[HoldingBreath](uma vez por turno)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Thoracalgia",
+                    "abName": "Sleeping Bag of a Bygone Day",
+                    "desc": "[CantIdentify]Prioriza as metas com o menor HP (prioriza os aliados)\nSe um aliado é uma das metas dessa habilidade, causar +30% mais danos[BeforeAttack]Em menos de 15[Breath], consuma 10% HP para ganhar 5[Breath]e +5[Breath]Contar\n- não pode ser escalonado ou derrotado devido a esse efeito\n- Ganho<style=\"highlight\">2</style> [Breath]para cada aliado direcionado por essa habilidade (máximo<style=\"highlight\">4</style>)\n\n[EndSkill]Se o alvo for derrotado, ganhe 3[HoldingBreath]Próximo turno. (uma vez por turno) Se o mencionado alvo era um aliado, ative o seguinte também:\n- Aliados que são feitos para participar ou são substituídos neste encontro devido aos aliados derrotados ganham 4[Breath]e +<style=\"highlight\">4</style> [Breath]Contar<style=\"highlight\">- Recuperar SP usado por essa habilidade e recuperar 1 de cada, por exemplo, recursos consumidos</style>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negócio +([Breath]Potência + contagem)% mais danos no acerto crítico (máximo<style=\"highlight\">40%</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">7</style> [HoldingBreath](uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

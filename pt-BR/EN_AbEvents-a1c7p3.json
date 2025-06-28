@@ -1,0 +1,57 @@
+{
+  "dataList": [
+    {
+      "id": 837901,
+      "prevDesc": "Um macio de urso olha para nós com uma expressão triste. Várias unhas afiadas estão empalando seu corpo."
+    },
+    {
+      "id": 837902,
+      "title": "",
+      "eventDesc": "",
+      "behaveDesc": "O que você vai fazer?",
+      "successDesc": [
+        "{0} gave the bear plush a hug.\n\nEven as its nails dig into {0}'s skin...\n\n... the happily bouncing bear plush seemed to have soothed the Sinner's feelings."
+      ],
+      "failureDesc": [
+        "{0} gave the bear plush a hug.\n\nA particularly blunt nail digs into {0}'s skin...\n\n... the happily bouncing bear plush seemed to have soothed the Sinner's feelings."
+      ]
+    },
+    {
+      "id": 837601,
+      "title": "Rose Hunter",
+      "prevDesc": "O caçador de rosas balança habilmente o laço farpado sobre sua cabeça.",
+      "eventDesc": "O laço está mirando direto para nós ...\n\nO laço, ligado pelos movimentos do caçador, voa para nós.",
+      "behaveDesc": "Quem vai sair?",
+      "successDesc": [
+        "With lightning-fast reflexes, {0} deflects the barbed lasso to the side.\n\nThe lasso, deflected, flies in the other direction.\n\nThe Rose Hunter hesitates, surprised by the turn of events."
+      ],
+      "failureDesc": [
+        "The barbed lasso struck {0} hard.\n\nWatching the Sinner writhing in pain seems to have invigorated the Rose Hunter."
+      ]
+    },
+    {
+      "id": 1070102,
+      "title": "",
+      "eventDesc": "Talvez possamos visitar o confessionário novamente; Não fizemos muito lá antes.\n\nDecidimos ir ao confessionário, conforme aconselhado por alguns dos pecadores.\n\n[[TAG-I]] Venha aqui, se você deseja confessar seus pecados e participar de uma consulta. [[Tag-i]]\n\nUma voz ecoa de dentro do confessionário.\n\nTalvez, se confessarmos nossos pecados, o caminho será aberto diante de nós.\n\nQual pecador pode descobrir seu coração honesto?",
+      "behaveDesc": "",
+      "successDesc": [
+        "The entity past the divider of the Confessional expresses sorrow at {0}'s confession.\n\n<i>Your sin requires heavy introspection.</i>\n\n<i>Discipline your sin with this whip; it will help.</i>\n\nA thorny whip slides under the Confessional divider.\n\nAs we pick up the whip, the space around us warps as a new path opens."
+      ],
+      "failureDesc": [
+        "{0} stepped up to confess, but their expression becomes increasingly uncomfortable.\n\nIt must be unpleasant, to have to tell an honest story about themselves to a complete stranger.\n\nWhen the Sinner's tale ends, the figure past the divider shares words of consolation and advice.\n\n<i>Perhaps disciplining your sins with this whip may help.</i>\n\nA thorny whip slides gently under the Confessional divider.\n\nPerhaps the confession was the key; the space around us warps, and a new path opens before us."
+      ]
+    },
+    {
+      "id": 1070401,
+      "title": "",
+      "eventDesc": "\"Que lamentável; não havia mais aventuras esperando por elas.\"\n\n\"Estava na hora de o cavaleiro e o escudeiro voltarem para casa\".\n\n\"Para casa, onde sua família tem sofrido e aguardando seu retorno\".\n\n\"Se você gostaria de saber o que aconteceu depois, passe pelos Brambles\".",
+      "behaveDesc": "Quem fará um caminho através dos Brambles?",
+      "successDesc": [
+        "{0} walked into the brambles, cutting open a path for us to cross.\n\nThanks to {0}, the other Sinners were able to make their way through the brambles with only a few scratches."
+      ],
+      "failureDesc": [
+        "{0} walked into the brambles, trying to cut open a path for the rest of us.\n\nTry as they might, however, the brambles were simply too thick to cross without bloodshed.\n\nEvery Sinner was riddled with thorns by the time we made it through the brambles."
+      ]
+    }
+  ]
+}

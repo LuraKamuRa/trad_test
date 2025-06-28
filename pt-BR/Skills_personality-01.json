@@ -1,0 +1,1930 @@
+{
+    "dataList": [
+        {
+            "id": 1010501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stay Calm",
+                    "desc": "Ganhe +3 contagem de tremores se essa habilidade for descartada",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Stay Calm",
+                    "desc": "Se essa habilidade for descartada, ganhe +4 contagem de tremores[WhenUse]Ganhar +2 contagem de tremores",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Stay Calm",
+                    "desc": "Se essa habilidade for descartada, ganhe +4 contagem de tremores[WhenUse]Ganhar +2 contagem de tremores\nCom 5+ Tremor Count, Ganhe Power +1",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gamble",
+                    "desc": "Se essa habilidade for descartada, ganhe +3 contagem de tremores[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]À contagem de 5 anos, acionador de tremor. Reduza a contagem de tremores do alvo em 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Gamble",
+                    "desc": "Se essa habilidade for descartada, ganhe +4 contagem de tremores[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]À contagem de 5 anos, acionador de tremor. Reduza a contagem de tremores do alvo em 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Gamble",
+                    "desc": "Se essa habilidade for descartada, ganhe +4 contagem de tremores[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]À contagem de 5 anos, acionador de tremor. Reduza a contagem de tremores do alvo em 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010503,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Grinding the Molars",
+                    "desc": "[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade[WhenUse]Gaste 10 Tremor Count para obter poder de moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a habilidade gasta a contagem de tremores, desencadeie o tremor"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 nível de defesa"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a habilidade gasta a contagem de tremores, desencadeie o tremor"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Grinding the Molars",
+                    "desc": "[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade[WhenUse]Gaste 10 trêmulos para ganhar o poder da moeda +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a habilidade gasta a contagem de tremores, desencadeie o tremor"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 nível de defesa"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a habilidade gasta a contagem de tremores, desencadeie o tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Guard",
+                    "desc": "[WhenUse]Descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dimensional Slit",
+                    "desc": "[WhenUse]Ganhe +2 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Dimensional Slit",
+                    "desc": "[WhenUse]Ganhe +2 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Dimensional Slit",
+                    "desc": "[WhenUse]Ganhe +2 contagem de cobrança\nCom mais de 10 contagem de cobrança, Power de moedas +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Energy Cycle",
+                    "desc": "[WhenUse]Ganhe +5 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Energy Cycle",
+                    "desc": "[WhenUse]Ganhe +6 contagem de cobrança\nCom mais de 10 contagem de carga, Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Com mais de 10 contagem de cobrança, infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Energy Cycle",
+                    "desc": "[WhenUse]Ganhar +7 contagem de cobrança\nCom mais de 10 contagem de carga, Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Com mais de 10 contagem de cobrança, infligir 3 ruptura e +2 de contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010603,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Dimensional Rift",
+                    "desc": "[WhenUse]Com menos de 15 contagem de cobrança, consuma 10 contagem de carga para obter +1 poder de moeda[WhenUse]Consuma 15 contagem de cobrança para obter +2 de poder de moeda",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruptura para cada 5 contagem de cobrança consumida pela habilidade (máximo 6)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a habilidade consumiu 15 contagem de cobrança após uso, infligir fenda bidimensional"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 3 barreira de carga"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Dimensional Rift",
+                    "desc": "[WhenUse]Com menos de 15 contagem de cobrança, consuma 10 contagem de carga para obter +1 poder de moeda[WhenUse]Consuma 15 contagem de cobrança para obter +2 de poder de moeda[BeforeAttack]Se 15 contagem de cobrança tiver sido consumida, infligir +3 contagem de ruptura",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura para cada 5 contagem de cobrança consumida pela habilidade (máx. 9)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a habilidade consumiu 15 contagem de cobrança após uso, infligir fenda bidimensional"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 5 barreira de carga"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hollow Dimension",
+                    "desc": "Potência base +1 por 5 contagem de carga (máximo 2)",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Hollow Dimension",
+                    "desc": "Potência base +1 por 5 contagem de carga (máximo 2)[OnSucceedEvade]+1 potência ao aplicar a ruptura pela primeira vez com um efeito de habilidade no próximo turno (máximo +3 por turno)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Impale",
+                    "desc": "[WhenUse]Ganhe +2 contagem de posições",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Impale",
+                    "desc": "[WhenUse]Ganhe +2 contagem de posições",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Impale",
+                    "desc": "[WhenUse]Ganhe +2 contagem de posições",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 vincular a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Relentless Stabbing",
+                    "desc": "[WhenUse]Ganhe +2 contagem de posições\nA mais de 5 posições, poder de conflito +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 2 equilíbrio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Relentless Stabbing",
+                    "desc": "[WhenUse]Ganhe +2 contagem de posições\nA mais de 5 posições, poder de conflito +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 2 equilíbrio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Reutilize esta moeda (1 tempo máx)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Relentless Stabbing",
+                    "desc": "[WhenUse]Ganhe +2 contagem de posições\nA mais de 5 posições, poder de conflito +3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 equilíbrio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Reutilize esta moeda (3 vezes max)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010703,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Ambush",
+                    "desc": "[WhenUse]Ganhe 5 postagem",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +2 contagem de posições"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir +4 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ambush",
+                    "desc": "[WhenUse]Ganhe 5 postagem\nA mais de 7 posições, poder de moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 contagem de posições"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir +6 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Evade",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Expend Knowledge",
+                    "desc": "Ganho ([KnowledgeExplored]x 2% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Limite de escalonamento do usuário inferior por[KnowledgeExplored]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Limite de escalonamento do usuário inferior por[KnowledgeExplored]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Expend Knowledge",
+                    "desc": "Ganho ([KnowledgeExplored]x 3% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por[KnowledgeExplored]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por[KnowledgeExplored]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Expend Knowledge",
+                    "desc": "Ganho ([KnowledgeExplored]x 3% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade[WhenUse]Se o alvo tiver 5+[Sinking], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por[KnowledgeExplored]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por[KnowledgeExplored]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Seal Shut",
+                    "desc": "Ganho ([KnowledgeExplored]x 4% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir[Sinking]igual a[KnowledgeExplored]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir[Sinking]igual a[KnowledgeExplored]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Seal Shut",
+                    "desc": "Ganho ([KnowledgeExplored]x 5% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade[WhenUse]Ganhe +3 Aggro a este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir[Sinking]igual a[KnowledgeExplored]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir[Sinking]igual a[KnowledgeExplored]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Seal Shut",
+                    "desc": "Ganho ([KnowledgeExplored]x 6% de Max HP) se essa habilidade for descartada[WhenUse]Descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade[WhenUse]Se o alvo tiver 5+[Sinking], Power de moedas +1[WhenUse]Ganhe +3 Aggro a este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Sinking]igual a[KnowledgeExplored]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Sinking]igual a[KnowledgeExplored]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010803,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Grace of Knowledge",
+                    "desc": "Ganho ([KnowledgeExplored]x 9% de Max HP) se essa habilidade for descartada[WhenUse]Ganhe +8 Aggro a este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {},
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Grace of Knowledge",
+                    "desc": "Ganho ([KnowledgeExplored]x 12% de Max HP) se essa habilidade for descartada[WhenUse]Ganhe +10 Aggro a este slot de habilidade na próxima curva[WhenUse]A 50%- hp, poder de moeda +1",
+                    "coinlist": [
+                        {},
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fixated Study",
+                    "desc": "[WhenUse]Descarte aleatoriamente 2 das habilidades desta unidade em ordem crescente de fileiras de todos os seus slots de habilidade[WhenUse]Ganhe +3 Aggro a este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fixated Study",
+                    "desc": "[WhenUse]Descarte aleatoriamente 2 das habilidades desta unidade em ordem crescente de fileiras de todos os seus slots de habilidade[WhenUse]Ganhe +5 agro a este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Paint Over",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Paint Over",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Paint Over",
+                    "desc": "Se o alvo tiver 6+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sanguine Pointillism",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]20% de chance de reutilizar a moeda uma vez. +20% mais chance de reutilizar a moeda para todos os tipos de efeito negativo no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Sanguine Pointillism",
+                    "desc": "Se o alvo tiver 6+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]20% de chance de reutilizar a moeda uma vez. +20% mais chance de reutilizar a moeda para todos os tipos de efeito negativo no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Sanguine Pointillism",
+                    "desc": "Clash Power +1 para cada 3[Laceration]no alvo (máximo 2)\nPoder de moeda +1 para cada 3[Laceration]Conte com o alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]40% de chance de reutilizar a moeda. +20% mais chance de reutilizar a moeda para todos os tipos de efeito negativo no alvo (2 vezes máximo por habilidade)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010903,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Hematic Coloring",
+                    "desc": "Se o alvo tiver 6+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar. Se o alvo tiver mais de 4 tipos de efeitos negativos, infligir +2 adicional[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]. Se o alvo tiver mais de 4 tipos de efeitos negativos, infligir 2 adicionais[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 potência para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Acordo +15% mais danos para todos os tipos de efeito negativo no alvo (máximo 75%)"
+                                },
+                                {
+                                    "desc": "[EndSkill]Se o alvo for escalonado ou derrotado, infliga 2 potência para 1 dos seguintes efeitos sobre 1 inimigo com os menores tipos de efeitos negativos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], Assim,[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Hematic Coloring",
+                    "desc": "Clash Power +1 para cada 3[Laceration]no alvo (máximo 2)\nPoder de moeda +1 para cada 3[Laceration]Conte com o alvo (máximo 2)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar. Se o alvo tiver mais de 3 tipos de efeitos negativos, infligir +2 adicional[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]. Se o alvo tiver mais de 3 tipos de efeitos negativos, infligir 2 adicionais[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 potência para 1 dos seguintes efeitos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Acordo +25% mais danos para todos os tipos de efeito negativo no alvo (máximo 125%)"
+                                },
+                                {
+                                    "desc": "[EndSkill]Se o alvo for escalonado ou derrotado, inflige 2 potência para 1 dos seguintes efeitos em 2 inimigos com os menores tipos de efeitos negativos:[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], Assim,[Sinking]. Efeito selecionado aleatoriamente."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1010904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Beat the Brush",
+                    "desc": "Se o alvo tiver 6+[Laceration], Potência base +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Beat the Brush",
+                    "desc": "Potência base +1 para cada 1[Laceration]no alvo (máximo 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Celebration for the Departed",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Celebration for the Departed",
+                    "desc": "Se a soma do alvo[Sinking]e ambos[SinkingWhite]é 6 ou superior, poder de moeda +1[WinDuel]Infligir +2[Sinking]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Celebration for the Departed",
+                    "desc": "<style=\"highlight\">Em mais de 10 anos[BulletLament], Clash Power +1</style>Se a soma do alvo[Sinking]e ambos[SinkingWhite]é 6 ou superior, poder de moeda +1[WinDuel]Infligir +2[Sinking]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Solemn Lament for the Living",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 5 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Solemn Lament for the Living",
+                    "desc": "Se a soma do alvo[Sinking]e ambos[SinkingWhite]é 6 ou superior, poder de moeda +1[WinDuel]Infligir +1[Sinking]Contar[EndSkill]Ganho (maior ressonância) de[BulletLament](Máx 6)\n- Se o referido resson. foi um a-reson., ganho (maior ressonância x 2) de[BulletLament](máximo 12)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 5 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Solemn Lament for the Living",
+                    "desc": "Em mais de 10 anos[BulletLament], Clash Power +1<style=\"highlight\">Potência de moedas +1 para cada 6 valor</style>da soma do alvo[Sinking]e ambos[SinkingWhite] <style=\"highlight\">(Máx 2)</style>\n[WinDuel]Infligir +1[Sinking]Contar[EndSkill]Ganho (maior ressonância) de[BulletLament](Máx 6)\n- Se o referido resson. foi um a-reson., ganho (maior ressonância x 2) de[BulletLament](máximo 12)\n- Se o referido resson. estava em mais de 4 a-reson.,[ReloadLament]em vez de",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 5 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011003,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Goodbye Now, A Sorrow In You",
+                    "desc": "Potência base +1 para cada 10 valor de[BulletLament](Máx 2)[WinDuel]Infligir +3[Sinking]Contar[EndSkill] [ReloadLament]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 6 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir tudo[BulletLament]em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +2% mais danos para cada valor de[BulletLament]consumido por esta habilidade"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir dano escuridão igual a \"todos\"[SinkingWhite]no alvo\n- \"All\" = a soma dos vivos e dos partidos no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Goodbye Now, A Sorrow In You",
+                    "desc": "Potência base +1 para cada<style=\"highlight\">5</style>valor de[BulletLament] <style=\"highlight\">(Máx 4)</style>Poder de moeda +1 para cada 6 valor da soma do alvo[Sinking]e ambos[SinkingWhite](Máx 2)[WinDuel]Infligir +3[Sinking]Contar[EndSkill] [ReloadLament]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 1 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir 6 de[BulletLament]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Consumir tudo[BulletLament]em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[SinkingWhite]igual a[BulletLament]consumido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +4% mais danos para cada valor de[BulletLament]consumido por esta habilidade"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir dano escuridão igual a \"todos\"[SinkingWhite]no alvo\n- \"All\" = a soma dos vivos e dos partidos no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "FromTheCoffinAButterflyTakesFlight",
+                    "desc": "[StartBattle] [ReloadLament](uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "FromTheCoffinAButterflyTakesFlight",
+                    "desc": "[StartBattle] [ReloadLament](uma vez por turno)[StartBattle]Ganho escudo igual a (a soma de ambos[SinkingWhite]no alvo selecionado)% HP. (no máximo 20% por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
+                    "desc": "[WhenUse]Ganhe +2[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: Esta habilidade não inflige[Burst]com seus efeitos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
+                    "desc": "[StartBattle]Em Clash Lose, obtenha o poder final igual ao número de habilidades direcionadas a esta unidade (máx. 2)[WhenUse]Ganhe +3[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: Esta habilidade não inflige[Burst]com seus efeitos[DefeatDuel] [Burst]Potência infligida por esta habilidade +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
+                    "desc": "[StartBattle]Em Clash Lose, obtenha o poder final igual ao número de habilidades direcionadas a esta unidade (Máx 3)[WhenUse]Ganhe +3[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: Esta habilidade não inflige[Burst]com seus efeitos[DefeatDuel] [Burst]Potência infligida por esta habilidade +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
+                    "desc": "[WhenUse]Ganhe +2[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: Esta habilidade não inflige[Burst]Conte com seus efeitos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
+                    "desc": "[StartBattle]Em Clash Lose, obtenha o poder final igual ao número de habilidades direcionadas a esta unidade (Máx 3)[WhenUse]Ganhe +3[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: Esta habilidade não inflige[Burst]Conte com seus efeitos[DefeatDuel] [Burst]Contagem infligida por esta habilidade +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
+                    "desc": "[StartBattle] <style=\"highlight\">Em Clash Lose, Gain (# de habilidades direcionadas a esta unidade x 2) Power final (máximo 6)</style>\n[WhenUse]Ganhe +4[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: Esta habilidade não inflige[Burst]Conte com seus efeitos[DefeatDuel] [Burst]Contagem infligida por esta habilidade +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011103,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "the idiosyncrasies of the source may be utilized with greater flexibility",
+                    "desc": "Negociar +0,5% mais danos para cada 1% faltando HP em si mesmo[StartBattle]Power base +1 para todas as habilidades que têm como alvo esta unidade (máx. 2)[WhenUse]Ganho 2[GlowingLantern](uma vez por turno)[WhenUse]Ganhe +6[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]Potência ou contagem com seus efeitos; Em vez disso, ganhe poder base +1[EndSkill]Heal 30 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "the idiosyncrasies of the source may be utilized with greater flexibility",
+                    "desc": "Negociar +0,8% mais danos para cada 1% faltando HP em si mesmo[StartBattle]Potência base +1 para todas as habilidades que têm como alvo esta unidade (máx. 3)[WhenUse]Ganhe 3[GlowingLantern](uma vez por turno)[WhenUse]Ganhe +8[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]Potência ou contagem com seus efeitos; Em vez disso, ganhe poder base +1[EndSkill]Heal 30 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Yet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured",
+                    "desc": "[StartBattle]Ganho 2[GlowingLantern](uma vez por turno)[WhenUse]Ganhe +6[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]Conte com seus efeitos; Em vez disso, ganhe poder base +3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Yet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured",
+                    "desc": "[StartBattle]Ganhe 3[GlowingLantern](uma vez por turno)[WhenUse]Ganhe +8[Aggro]Próximo turno[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]Conte com seus efeitos; Em vez disso, ganhe poder base +3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flame Hew",
+                    "desc": "Se o alvo tiver 6+[Combustion], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Flame Hew",
+                    "desc": "Se o alvo tiver<style=\"highlight\">3</style>+ [Combustion], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Flame Hew",
+                    "desc": "<style=\"highlight\">Poder de moeda +1 para cada 3[Combustion]no alvo (máximo 2)</style>\n<style=\"highlight\">Acordo +10% mais danos para cada 10[Combustion]no alvo (no máximo 30%)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Frontal Assault",
+                    "desc": "Se o alvo tiver 6+[Combustion], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Combustion], infligir +2[Combustion]Conte no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Frontal Assault",
+                    "desc": "Poder de moeda +1 para cada 6[Combustion]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negociar +2,5% mais danos para cada[Combustion]no alvo (no máximo 30%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Combustion], infligir +2[Combustion]Conte com o alvo<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Frontal Assault",
+                    "desc": "Poder de moeda +1 para cada 6[Combustion]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negócio +<style=\"highlight\">5</style>% mais dano para cada[Combustion]no alvo (máx<style=\"highlight\">60</style>%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 6+[Combustion], infligir +2[Combustion]Conte com o alvo<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011203,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Flow of the Sword",
+                    "desc": "Se o alvo tiver 6+[Combustion], Power de moedas +1\nNegociar +10% mais danos para cada 6[Combustion]no alvo (no máximo 30%)[EndSkill]Heal 10 sp para 1 outro aliado com o mínimo SP\n- Se esse ataque matou o alvo, ou se o alvo tivesse mais de 10[Combustion], curar 1 mais aliado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Acordo +2% mais danos para cada[Combustion]no alvo (máximo 60%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir danos de afinidade da ira igual a[Combustion]Potência no alvo. (no máximo 30) reduz o alvo[Combustion]Contagem por 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Flow of the Sword",
+                    "desc": "<style=\"highlight\">Poder de moeda +1 para cada 6[Combustion]no alvo (máximo 2)</style>Negociar +10% mais danos para cada 6[Combustion]no alvo (no máximo 30%)[EndSkill]Curar<style=\"highlight\">15</style>SP para outro aliado com o mínimo de SP\n- Se esse ataque matou o alvo, ou se o alvo tivesse mais de 10[Combustion], curar 1 mais aliado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Acordo +2% mais danos para cada[Combustion]no alvo (máximo 60%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir danos de afinidade da ira igual a[Combustion]Potência no alvo. (no máximo 30) reduz o alvo[Combustion]Contagem por 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1011204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flame Counter",
+                    "desc": "[BeforeHit]Ganhar escudo igual a[Combustion]no alvo (máximo 10, uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]- Se esta unidade tiver escudo, infligir 1 adicional[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]- Se esta unidade tiver escudo, infligir 1 adicional[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Flame Counter",
+                    "desc": "[BeforeHit]Ganhar escudo igual a[Combustion]no alvo (máximo 15, uma vez por turno)[WhenUse]Se o alvo tiver 10+[Combustion], causar +10% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]- Se esta unidade tiver escudo, infligir 1 adicional[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]- Se esta unidade tiver escudo, infligir 1 adicional[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

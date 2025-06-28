@@ -1,0 +1,381 @@
+{
+  "dataList": [
+    {
+      "id": 2010611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[Bracket]] infligir aleatoriamente (6 + escuridão.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 6+ [[suporte]], infligir 1 [[suporte]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[Bracket]] infligir aleatoriamente (6 + escuridão.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 6+ [[suporte]], infligir 2 [[suporte]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[Bracket]] infligir aleatoriamente (6 + ([[estilo tag-estilo]] Glom Reson. X1.5 [[estilo de tag]])) [[Bracket]] entre alvos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 6+ [[suporte]], infligir 2 [[suporte]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]. Infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 6+ [[suporte]], infligir 1 [[suporte]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] em 3+ (escuridão resson.), Peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]. Infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 6+ [[suporte]], infligir 1 [[suporte]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Bracket]] em 3+ (escuridão resson.), Peso ATK +1\n[[Bracket]] em 5+ (escuridão resson.), Peso ATK adicional +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]. Infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 6+ [[suporte]], infligir 2 [[suporte]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "Prioriza as metas com o menor HP (prioriza os aliados)\n[[Bracket]] Ganho (maior ressonância. + 1) [[Bracket]] (Máx 7)\n[[Bracket]] Ganho 1 [[Bracket]] para cada [[suporte]] (máximo 7)\n[[Bracket]] Perca todos os [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra o alvo principal."
+                },
+                {
+                  "desc": "Se o alvo principal for um aliado, causar +8% mais danos para cada [[suporte]] (no máximo 56%)"
+                },
+                {
+                  "desc": "[[Bracket]] Aplique 2 [[suporte]] a si mesmo e 2 aliados aleatórios"
+                },
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano"
+                },
+                {
+                  "desc": "+2% de dano no acerto crítico para cada [[suporte]] (no máximo 14%)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "Prioriza as metas com o menor HP (prioriza os aliados)\n[[Bracket]] Ganho (maior ressonância. + 1) [[Bracket]] (Máx 7)\n[[Bracket]] Ganho 1 [[Bracket]] para cada [[suporte]] (máximo 7)\n[[Bracket]] perdem todos os [[suporte]] [[estilo de tag]] [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra o alvo principal. [[Estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "Se o alvo principal for um aliado, negócio [[estilo de etiqueta]]+10%[[estilo de tag]] Mais danos para cada [[suporte]] (max [[estilo tag]] 70%[[estilo de tag]]))"
+                },
+                {
+                  "desc": "[[Bracket]] Aplique 3 [[Bracket]] a Self e 2 aliados aleatórios [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[Bracket]] +1, por exemplo, recurso para a habilidade 1 da habilidade do Ally Mated Ally [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] ganho [[estilo de tag]] 3 [[estilo de tag]] [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra os sub-alvos\n-Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo de etiqueta]]+5%[[estilo de tag]] dano no acerto crítico para cada [[suporte]] (max [[estilo de tag]] 35%[[estilo tag]]))"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "Prioriza as metas com o menor HP (prioriza os aliados)\n[[Bracket]] Ganho (maior ressonância. + 1) [[Bracket]] (Máx 7)\n[[Estilo de tag]]- Se o referido resson. foi uma ressonância orgulhosa, ganho (maior ressonância x 2) [[backet]] em vez disso (máximo 7) [[estilo de tag]]]\n[[Bracket]] Ganho 1 [[Bracket]] para cada [[suporte]] (máximo 7)\n[[Bracket]] Perca todos os [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra o alvo principal. [[Estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "Se o alvo principal for um aliado, Deal [[estilo de tag]]+15%[[estilo de tag]] Mais danos para cada [[suporte]] (max [[estilo de tag]] 105%[[estilo de tag]]))"
+                },
+                {
+                  "desc": "[[Bracket]] Aplique 3 [[Bracket]] a Self e 2 aliados aleatórios [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[Bracket]] +1, por exemplo, recurso para a habilidade 1 e 2 do Ally Killed Ally [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] ganho [[estilo de tag]] 3 [[estilo de tag]] [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra os sub-alvos\n-Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo de etiqueta]]+9%[[estilo de tag]] Danos no acerto crítico para cada [[suporte]] (max [[estilo de tag]] 63%[[estilo tag]]))"
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 3 [[estilo tag-estilo]] [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[[SUPORTE]]\nPrioriza as metas com o menor HP (prioriza os aliados)\n[[Bracket]] Ganho (maior ressonância. + 1) [[Bracket]] (Máx 7)\n[[Bracket]] Negância +2% mais danos para cada [[suporte]] (no máximo 14%)\n[[Bracket]] Ganho 1 [[Bracket]] para cada [[suporte]] (máximo 7)\n[[Bracket]] Perca todos os [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra o alvo principal."
+                },
+                {
+                  "desc": "Se o alvo principal for um aliado, causa +10% mais danos para cada [[suporte]] (no máximo 70%)"
+                },
+                {
+                  "desc": "Se o alvo principal for um aliado, causar +2% mais danos para cada [[suporte]] em si (no máximo 50%)"
+                },
+                {
+                  "desc": "[[Bracket]] Aplique 2 [[suporte]] a si mesmo e 3 aliados aleatórios"
+                },
+                {
+                  "desc": "[[Bracket]] A próxima moeda causa +2% mais danos para cada [[suporte]] (no máximo 14%)"
+                },
+                {
+                  "desc": "[[Bracket]] +1, por exemplo"
+                },
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano"
+                },
+                {
+                  "desc": "+2% de dano no acerto crítico para cada [[suporte]] (no máximo 14%)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[[SUPORTE]]\nPrioriza as metas com o menor HP (prioriza os aliados)\n[[Bracket]] Ganho (maior ressonância. + 1) [[Bracket]] (Máx 7)\n[[Bracket]] Deal [[estilo de tag]]+3%[[estilo de tag]] Mais danos para cada [[suporte]] (max [[estilo de tag-estilo]] 21%[[estilo de tag]]))\n[[Bracket]] Ganho 1 [[Bracket]] para cada [[suporte]] (máximo 7)\n[[Bracket]] Perca todos os [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra o alvo principal. [[Estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "Se o alvo principal for um aliado, Deal [[estilo de tag]]+12%[[estilo de tag]] Mais danos para cada [[suporte]] (max [[estilo de tag]] 84%[[estilo de tag]]))"
+                },
+                {
+                  "desc": "Se o alvo principal for um aliado, causar +2% mais danos para cada [[suporte]] em si (máximo 50%) [[estilo de tag]] [[estilo de tag-estilo]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Aplique 3 [[Bracket]] a si mesmo e [[estilo tag-estilo]] 3 [[estilo de tag]] Aliados aleatórios"
+                },
+                {
+                  "desc": "[[Bracket]] As próximas ofertas de moedas [[estilo de tag]]+5%[[estilo de tag]] Mais danos para cada [[suporte]] (max [[estilo tag]] 35%[[estilo tag]]))"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[Bracket]] +1, por exemplo, recurso para a habilidade 1, 2 e 3 de Ally Killed Ally [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] ganho [[estilo de tag]] 2 [[estilo de tag]] [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra os sub-alvos\n-Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]]+3%[[estilo de tag]] dano no acerto crítico para cada [[suporte]] (max [[estilo tag]] 21%[[estilo tag]])"
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 4 [[estilo tag-estilo]] [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[[SUPORTE]]\nPrioriza as metas com o menor HP (prioriza os aliados)\n[[Bracket]] Ganho (maior ressonância. + 1) [[Bracket]] (Máx 7)\n[[Estilo de tag]]- Se o referido resson. foi uma ressonância orgulhosa, ganho (maior ressonância x 2) [[backet]] em vez disso (máximo 7) [[estilo de tag]]]\n[[Bracket]] Deal [[estilo de tag]]+4%[[estilo de tag]] Mais danos para cada [[suporte]] (máximo 28%)\n[[Bracket]] Ganho 1 [[Bracket]] para cada [[suporte]] (máximo 7)\n[[Bracket]] Perca todos os [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra o alvo principal. [[Estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "Se o alvo principal for um aliado, causar +15% mais danos para cada [[suporte]] (máximo de 105%) [[estilo de tag]] [[estilo tag-estilo]]"
+                },
+                {
+                  "desc": "Se o alvo principal for um aliado, causar +2% mais danos para cada [[suporte]] em si (máximo 50%) [[estilo de tag]] [[estilo de tag-estilo]]]"
+                },
+                {
+                  "desc": "[[Estilo de tag]]+30% de dano no acerto crítico [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Aplique 3 [[Bracket]] a si mesmo e [[estilo de tag-estilo]] 4 [[estilo de tag]] Aliados aleatórios"
+                },
+                {
+                  "desc": "[[Bracket]] As próximas ofertas de moedas [[estilo de tag]]+7%[[estilo de tag]] Mais danos para cada [[suporte]] (max [[estilo de tag]] 49%[[estilo tag]]))"
+                },
+                {
+                  "desc": "[[Bracket]] +1, por exemplo, recurso para as habilidades 1, 2 e 3 do Ally do Ally Killed [[estilo de tag-estilo]] [[estilo de tag-estilo]]"
+                },
+                {
+                  "desc": "[[Bracket]] ganho [[estilo de tag]] 3 [[estilo de tag]] [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta moeda causa danos apenas contra os sub-alvos\n-Se a primeira moeda falhou em matar o aliado, 1 sub-alvo aleatório sofre dano [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo de tag]]+4% de dano no acerto crítico para cada [[suporte]] (máximo 28%) [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 5 [[estilo tag-estilo]] [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

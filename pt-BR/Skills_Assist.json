@@ -1,0 +1,129 @@
+{
+    "dataList": [
+        {
+            "id": 40000101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crimson Strike",
+                    "desc": "[WhenUse]Se o alvo tiver mais de 5 efeitos negativos, o Clash Power +1[WhenUse]Potência base +1 para cada 3[Burst]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[AttackUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crimson Phoenix",
+                    "desc": "[WhenUse]Se o alvo tiver mais de 5 efeitos negativos, a moeda Power +1[WhenUse]Poder de moeda +1 para cada 6[Burst]no alvo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[AttackUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho[Breath]igual a[Burst]no alvo (máximo 5)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho[Breath]Contagem igual a[Burst]Conte com o alvo (máximo 2)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acordo +50% mais dano"
+                                },
+                                {
+                                    "desc": "[CriticalEnemyTargetKillFail]Infligir +2[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[CriticalEnemyTargetKill]Ganhe 3[AttackUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crimson Spring",
+                    "desc": "[StartBattle]Ganhe +1 Peso ATK para cada 4 efeito negativo no alvo (máximo 2)[WhenUse]Se o alvo tiver mais de 5 efeitos negativos, potência base +5[WhenUse]Se a soma do alvo[Burst]e[Burst]A contagem está em mais de 15 anos, poder de moeda +5[WinDuel]Infligir +2[Burst]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 7 sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acordo +200% mais dano"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir +3 contagem de sangramento"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganho 2[Breath]e +1[Breath]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Adept Evasion",
+                    "desc": "[OnSucceedEvade]Ganho 1[Breath]Próximo turno. (3 vezes por turno)"
+                }
+            ]
+        }
+    ]
+}

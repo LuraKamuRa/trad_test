@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "MRcAfBa",
+      "name": "Gossypium",
+      "desc": "Quando o Gossypium encharcado está em um estado de Gossypium manchado de vermelho, ganho (valor do Gossypium/2) Bleed and Blered Conta na Turn End",
+      "summary": "Turn End: Ganho (valor do Gossypium/2) Bleed e Bleed Count"
+    },
+    {
+      "id": "MRcAfBb",
+      "name": "Red-stained Gossypium",
+      "desc": "Vire Início: Dobre o dobro da contagem de sangramento e sangramento aplicado pelas habilidades de ataque.\nSe o alvo tiver Gossypium, ganhe poder de conflito +(valor de Gossypium/2)",
+      "summary": "Gain Clash Power +(Gossypium Value/2)"
+    },
+    {
+      "id": "MRcAiBa",
+      "name": "Ember",
+      "desc": "Máx. 5\nAo ganhar Ember, converta uma série de habilidades de afinidade que não sejam de gravação iguais ao valor da brasa em habilidades de afinidade da ira.\nQuando a parte das asas é quebrada, infligir brasa cintilante igual ao valor da brasa no último atacante; Então, toda a brasa em si expira.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAiBb",
+      "name": "Shimmering Ember",
+      "desc": "Máx. 5\nGanhe faísca quando atingido por uma certa habilidade. Todas as brasas cintilantes expira.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAiBc",
+      "name": "Spark",
+      "desc": "Início de combate: infligir queima igual a queimar no eu contra 2 unidades adjacentes (com base na velocidade).\nNão pode ganhar brasa quando esta unidade tiver faísca.\nTurn End: Reduza o valor em 1",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBa",
+      "name": "Contempt",
+      "desc": "Turn End: Perca 3, por exemplo, Recurso da afinidade correspondente à afinidade da habilidade selecionada.\nTurn End: Ganhe 3 danos na próxima curva.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBb",
+      "name": "Grasp",
+      "desc": "Máx 3\nNão pode agir\nTurn End: a 2- valor, danos causados ​​por causa da metade do HP máximo do alvo. Em seguida, todas as partes da espiral de desprezo cura a mesma quantidade de HP que os danos causados ​​por esse efeito.\nTurn End: Reduza o valor em 1.\nSe esse efeito derrubar o HP do alvo para 0, o alvo não poderá mais ser curado.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBc",
+      "name": "Gaze",
+      "desc": "Negociar +10% mais danos para cada valor de olhar\nTurn End: Aos 7 Gaze, ganhe 15 sangramento e substitua esse efeito por desprezo.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBd",
+      "name": "All-beholding Gaze",
+      "desc": "Ganhe 1 a cada turno.\nTurn End: Todas as unidades com tom de olhar (valor de 4 x) danos fixo HP e (valor de 4 x) danos fixos de SP.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBbDisplay",
+      "name": "Grasp",
+      "desc": "Máx 3\nNão pode agir\nTurn End: a 2- valor, danos causados ​​por causa da metade do HP máximo do alvo. Em seguida, todas as partes da espiral de desprezo cura a mesma quantidade de HP que os danos causados ​​por esse efeito.\nTurn End: Reduza o valor em 1.\nSe esse efeito derrubar o HP do alvo para 0, o alvo não poderá mais ser curado.",
+      "summary": ""
+    }
+  ]
+}

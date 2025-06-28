@@ -1,0 +1,2912 @@
+{
+    "dataList": [
+        {
+            "id": "tutorial_mainui_01_selection",
+            "content": "Criando sua equipe"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_01_desc_01",
+            "content": "Você pode configurar uma equipe com seus 12 pecadores e suas identidades."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_02_title_01",
+            "content": "Equipe (Janela dos Pecadores)"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_02_desc_01",
+            "content": "Na janela 'Pecadores', selecionar um retrato de Identidade de Pecador mostrará uma lista de suas Identidades. A partir daí, você pode escolher uma Identidade para implantar."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_03_title_01",
+            "content": "Equipe (Antes das Batalhas)"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_03_desc_01",
+            "content": "Selecionar a parte superior do retrato de Identidade de um Pecador mostrará uma lista de suas Identidades. A partir daí, você pode selecionar uma Identidade para implantar."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_04_desc_01",
+            "content": "Selecionar a parte inferior do retrato da Identidade de um Pecador implantará essa Identidade nesta batalha."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_04_desc_02",
+            "content": "Isso mostra o número total de Identidades implantáveis ​​para esta batalha."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_05_desc_01",
+            "content": "Você não poderá editar sua Equipe em certos encontros de batalha. Nesses casos, selecionar um retrato de Identidade de Pecador implantará essa Identidade na batalha."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_06_title_01",
+            "content": "Equipe - Detalhes de Identidade"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_06_desc_01",
+            "content": "Em todos os menus de equipe, você pode pressionar e segurar um retrato de identidade para ver informações detalhadas sobre a identidade e o E.G.O. atualmente equipados do pecador."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_07_title_01",
+            "content": "Selecione o locutor da batalha"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_07_desc_01",
+            "content": "Selecione este botão para visualizar sua lista de locutores de batalha."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_07_desc_02",
+            "content": "Você pode escolher quais Narradores de Batalha irão acompanhá-lo na batalha."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_08_title_01",
+            "content": "EQUIPES"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_08_desc_01",
+            "content": "Selecione na lista de palavras-chave para escolher um nome para sua equipe."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_08_desc_02",
+            "content": "Pré-configure até 20 equipes aqui."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_09_title_01",
+            "content": "Detalhes da equipe"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_09_desc_01",
+            "content": "Você pode ver as seguintes informações aqui: Tipos de Ataque de Habilidade de Todas as Identidades, Afinidades de Pecado e E.G.O. equipado."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_10_title_01",
+            "content": "Recursos E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_10_desc_01",
+            "content": "Aqui, você pode ver os tipos e quantidades de Custos E.G.O que sua equipe pode ganhar na batalha."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_10_desc_02",
+            "content": "Selecione-o e você poderá visualizar as Identidades que ganham os Custos E.G.O e os E.G.O que os utilizam."
+        },
+        {
+            "id": "tutorial_mainui_02_identityandegolist",
+            "content": "Listas de Identidade e E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist",
+            "content": "Lista de Identidade"
+        },
+        {
+            "id": "tutorial_mainui_02_egolist",
+            "content": "Lista E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_01_desc_01",
+            "content": "As identidades dos seus Sinners são mostradas aqui. Você pode verificar seus Graus, Tiers Uptie, Níveis e Facções."
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_02_title_01",
+            "content": "Configuração da equipe"
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_02_desc_01",
+            "content": "Você pode ver tanto as Identidades quanto o E.G.O definido para o time aqui. Um E.G.O pode ser registrado para cada grau."
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_03_title_01",
+            "content": "Configuração da equipe"
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_03_desc_01",
+            "content": "Tocar neste botão leva você à lista de E.G.O que podem ser equipados no slot."
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_04_desc_01",
+            "content": "Você pode ver o grau do E.G.O, o nível do Threadspin, o atributo principal e o nome."
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_05_title_01",
+            "content": "Lista de suporte"
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_05_title_02",
+            "content": "Botão de suporte"
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_05_desc_01",
+            "content": "Após a seleção, uma lista das Identidades de suporte dos seus amigos é exibida."
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_05_desc_02",
+            "content": "Identidades de suporte e E.G.O registrados por amigos são mostrados aqui."
+        },
+        {
+            "id": "tutorial_mainui_02_identitylist_page_06_desc_01",
+            "content": "Você pode pegar emprestado a Identidade e o E.G.O de um amigo para ajudar você. Note que você pode ter apenas uma Identidade de suporte em sua equipe por vez."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo",
+            "content": "Informações de identidade"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_01_title_01",
+            "content": "Nível"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_01_desc_01",
+            "content": "Aumentar o nível de uma Identidade aumenta suas estatísticas."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_01_title_02",
+            "content": "Nível Uptie"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_01_desc_02",
+            "content": "Níveis mais altos de Uptie melhorarão as habilidades existentes ou desbloquearão novas habilidades."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_02_title_01",
+            "content": "Status"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_02_desc_01",
+            "content": "O HP máximo, o alcance de velocidade, o nível de defesa e seu modificador da Identidade são exibidos aqui."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_02_title_02",
+            "content": "Resistências"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_02_desc_02",
+            "content": "As Resistências da Identidade são exibidas aqui."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_03_title_01",
+            "content": "Resumo de identidade"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_03_desc_01",
+            "content": "O E.G.O equipado e as habilidades desbloqueadas da Identidade são exibidos aqui."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_04_title_01",
+            "content": "Habilidades"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_04_desc_01",
+            "content": "Cada Identidade tem Skills de várias funções. Você pode ver os detalhes sobre elas aqui."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_05_desc_01",
+            "content": "Identidades implantadas em batalha podem ativar seus Passivos. No início de cada turno, os Passivos serão ativados quando suas condições forem atendidas."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_06_desc_01",
+            "content": "Identidades não implantadas em batalha podem ativar seus Support Passives. No início de cada turno, Support Passives serão ativados quando suas condições forem atendidas."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_07_title_01",
+            "content": "Ícones de Habilidade"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_07_desc_01",
+            "content": "A cor de cada Ícone de Habilidade corresponde a uma Afinidade de Pecado da mesma cor. Estas são as seguintes Afinidades de Pecado: Ira, Luxúria, Preguiça, Gula, Melancolia, Orgulho e Inveja."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_08_desc_01",
+            "content": "Na parte inferior de um Ícone de Habilidade está seu Tipo de Ataque. Estes são os seguintes Tipos de Ataque: Slash, Pierce e Blunt."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_08_desc_02",
+            "content": "À esquerda do ícone de uma habilidade está seu poder base."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_08_desc_03",
+            "content": "No topo de um Ícone de Habilidade está seu Poder de Moeda. Estes são os seguintes cálculos de Poder de Moeda: Mais, Menos e Multiplicar."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_09_desc_01",
+            "content": "O número de moedas para esta habilidade é exibido aqui."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_09_desc_02",
+            "content": "Isso indica quantas cópias da Habilidade estão no Conjunto de Habilidades da Identidade."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_09_desc_03",
+            "content": "O Nível de Ofensiva da Habilidade e seu modificador são exibidos aqui. A diferença no Nível de Ofensiva da Habilidade de Ataque e o Nível de Defesa do alvo pode afetar muito a quantidade de dano causado."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_10_desc_01",
+            "content": "O Atk Weight da habilidade é exibido aqui. Atk Weight maior terá como alvo mais inimigos. (por exemplo, 1 Atk Weight terá como alvo 1 inimigo, 3 Atk Weight terá como alvo 3 inimigos)"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_11_title_01",
+            "content": "Efeitos de Habilidade"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_11_desc_01",
+            "content": "Habilidades podem ter efeitos que são ativados quando as condições declaradas são atendidas."
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_11_title_02",
+            "content": "Efeitos de Moedas"
+        },
+        {
+            "id": "tutorial_mainui_03_identityinfo_page_11_desc_02",
+            "content": "As habilidades podem ter efeitos que são ativados quando as condições de Moeda declaradas (por exemplo, Cara Acertada, Coroa Acertada) são atendidas. Os efeitos de Moeda não serão ativados quando as condições não forem atendidas."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo",
+            "content": "Informações E.G.O."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_01_title_01",
+            "content": "Camada Threadspin"
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_01_desc_01",
+            "content": "Níveis mais altos de Threadspinning melhorarão as habilidades e capacidades do E.G.O."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_02_title_01",
+            "content": "Resistências"
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_02_desc_01",
+            "content": "As Resistências do E.G.O são exibidas aqui. Se uma Identidade usou uma Habilidade do E.G.O, suas Resistências serão substituídas pelas Resistências do E.G.O usadas."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_02_title_02",
+            "content": "Custo de Sanidade"
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_02_desc_02",
+            "content": "A quantidade de SP gasta ao usar esta Habilidade E.G.O é exibida aqui."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_02_title_03",
+            "content": "Custo de Recurso E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_02_desc_03",
+            "content": "Os recursos E.G.O necessários para usar esta Habilidade E.G.O são exibidos aqui."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_03_title_01",
+            "content": "Habilidades E.G.O."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_03_desc_01",
+            "content": "As habilidades E.G.O têm altos valores de Base/Coin Power e efeitos de habilidade potentes. Detalhes sobre a habilidade E.G.O são exibidos aqui."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_04_desc_01",
+            "content": "Se uma Identidade com um valor SP baixo usar uma Habilidade E.G.O, há uma chance de que uma Habilidade de Corrosão E.G.O muito mais poderosa seja ativada. Usar Habilidades de Corrosão E.G.O carrega um risco, no entanto, pois ataca indiscriminadamente e pode atingir aliados também."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_05_desc_01",
+            "content": "Você pode forçar a ativação de uma Habilidade de Corrosão E.G.O por Overclocking, que consome 1,5 vezes mais Recursos E.G.O e SP do que o custo normal da Habilidade E.G.O. Isso é chamado de Overclock E.G.O.\nO Overclock E.G.O pode ser ativado pressionando e segurando o Cartão E.G.O no menu de seleção de Habilidade E.G.O em combate."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_05_desc_02",
+            "content": "A habilidade de overclock E.G.O estável será ativada se houver custos E.G.O suficientes (1,5 vezes o custo normal) disponíveis. A habilidade de overclock E.G.O estável é capaz de distinguir aliados de inimigos."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_05_desc_03",
+            "content": "Se não houver Custos E.G.O suficientes em mãos, a Habilidade de Overclock E.G.O Instável será ativada. A Habilidade de Overclock E.G.O Instável não distingue aliados de inimigos."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_06_desc_01",
+            "content": "Usar uma habilidade E.G.O ativará a passiva do E.G.O."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_07_title_01",
+            "content": "Ícones de Habilidade"
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_07_desc_01",
+            "content": "A cor de cada Ícone de Habilidade corresponde a uma Afinidade de Pecado da mesma cor. Estas são as seguintes Afinidades de Pecado: Ira, Luxúria, Preguiça, Gula, Melancolia, Orgulho e Inveja."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_08_desc_01",
+            "content": "Na parte inferior de um Ícone de Habilidade está seu Tipo de Ataque. Estes são os seguintes Tipos de Ataque: Slash, Pierce e Blunt."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_08_desc_02",
+            "content": "À esquerda do ícone de uma habilidade está seu poder base."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_08_desc_03",
+            "content": "No topo de um Ícone de Habilidade está seu Poder de Moeda. Estes são os seguintes cálculos de Poder de Moeda: Mais, Menos e Multiplicar."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_09_desc_01",
+            "content": "O número de moedas para esta habilidade é exibido aqui."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_09_desc_02",
+            "content": "O Nível de Ofensiva da Habilidade e seu modificador são exibidos aqui. A diferença no Nível de Ofensiva da Habilidade de Ataque e o Nível de Defesa do alvo pode afetar muito a quantidade de dano causado."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_09_desc_03",
+            "content": "O Atk Weight da habilidade é exibido aqui. Atk Weight maior terá como alvo mais inimigos. (por exemplo, 1 Atk Weight terá como alvo 1 inimigo, 3 Atk Weight terá como alvo 3 inimigos)"
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_10_title_01",
+            "content": "Efeitos de Habilidade"
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_10_desc_01",
+            "content": "Habilidades podem ter efeitos que são ativados quando as condições declaradas são atendidas."
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_10_title_02",
+            "content": "Efeitos de Moedas"
+        },
+        {
+            "id": "tutorial_mainui_04_egoinfo_page_10_desc_02",
+            "content": "As habilidades podem ter efeitos que são ativados quando as condições de Moeda declaradas (por exemplo, Cara Acertada, Coroa Acertada) são atendidas. Os efeitos de Moeda não serão ativados quando as condições não forem atendidas."
+        },
+        {
+            "id": "tutorial_mainui_05_storymain",
+            "content": "A história principal"
+        },
+        {
+            "id": "tutorial_mainui_05_storymain_page_01_title_01",
+            "content": "Canto Selecionar"
+        },
+        {
+            "id": "tutorial_mainui_05_storymain_page_01_desc_01",
+            "content": "Você pode ver partes passadas da história aqui. Selecione um Canto."
+        },
+        {
+            "id": "tutorial_mainui_05_storymain_page_02_title_01",
+            "content": "Linha do tempo da história"
+        },
+        {
+            "id": "tutorial_mainui_05_storymain_page_02_desc_01",
+            "content": "Escolha a cena que você gostaria de ver."
+        },
+        {
+            "id": "tutorial_mainui_05_storymain_page_03_title_01",
+            "content": "Lugar na história"
+        },
+        {
+            "id": "tutorial_mainui_05_storymain_page_03_desc_01",
+            "content": "Você também pode verificar em qual palco a cena foi originalmente encenada."
+        },
+        {
+            "id": "tutorial_mainui_06_storyidentity",
+            "content": "Histórias de Identidade"
+        },
+        {
+            "id": "tutorial_mainui_06_storyidentity_page_01_title_01",
+            "content": "Selecionando um pecador"
+        },
+        {
+            "id": "tutorial_mainui_06_storyidentity_page_01_desc_01",
+            "content": "Você pode ler os perfis e histórias dos seus Sinners. Selecione um Sinner."
+        },
+        {
+            "id": "tutorial_mainui_06_storyidentity_page_02_title_01",
+            "content": "Selecionando Identidades"
+        },
+        {
+            "id": "tutorial_mainui_06_storyidentity_page_02_desc_01",
+            "content": "Você pode selecionar entre as identidades listadas do pecador."
+        },
+        {
+            "id": "tutorial_mainui_06_storyidentity_page_03_title_01",
+            "content": "História de identidade"
+        },
+        {
+            "id": "tutorial_mainui_06_storyidentity_page_03_desc_01",
+            "content": "Você pode ler a história da Identidade aqui."
+        },
+        {
+            "id": "tutorial_mainui_06_storyidentity_page_04_title_01",
+            "content": "Linhas de voz"
+        },
+        {
+            "id": "tutorial_mainui_06_storyidentity_page_04_desc_01",
+            "content": "Você pode ver as linhas da Identidade ou sua história."
+        },
+        {
+            "id": "tutorial_mainui_07_storymirror",
+            "content": "Mundos Espelho"
+        },
+        {
+            "id": "tutorial_mainui_07_storymirror_page_01_title_01",
+            "content": "Mundos Espelho"
+        },
+        {
+            "id": "tutorial_mainui_07_storymirror_page_01_desc_01",
+            "content": "Após a seleção, você será levado para a lista de Mirror Worlds."
+        },
+        {
+            "id": "tutorial_mainui_07_storymirror_page_01_title_02",
+            "content": "Organização"
+        },
+        {
+            "id": "tutorial_mainui_07_storymirror_page_01_desc_02",
+            "content": "Nos Mirror Worlds, as várias histórias de Identidade são categorizadas de acordo com o reflexo de onde vêm. Você pode verificar cada Mirror World e as facções que aparecem nele."
+        },
+        {
+            "id": "tutorial_mainui_07_storymirror_page_02_title_01",
+            "content": "Contos do Espelho"
+        },
+        {
+            "id": "tutorial_mainui_07_storymirror_page_02_desc_01",
+            "content": "Leia a história de cada Identidade com base no Mundo Espelho."
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain",
+            "content": "Palcos principais"
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_01_title_01",
+            "content": "Estágio"
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_01_desc_01",
+            "content": "Você escolhe um palco para entrar."
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_02_desc_01",
+            "content": "Depois de vencer a batalha, o estágio será marcado como concluído."
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_02_desc_02",
+            "content": "Se você completar os Objetivos EX, você ganhará recompensas bônus, e o estágio será marcado de acordo."
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_03_title_01",
+            "content": "História do palco"
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_03_desc_01",
+            "content": "Você também pode assistir novamente às cenas da história apresentadas no palco."
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_03_title_02",
+            "content": "Descrição do estágio"
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_03_desc_02",
+            "content": "Você pode ver a sinopse e a descrição do palco aqui."
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_03_title_03",
+            "content": "Informações do inimigo"
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_03_desc_03",
+            "content": "Você pode ler sobre os inimigos que aparecem. Informações sobre certos inimigos poderosos só estarão disponíveis após encontrá-los."
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_04_title_01",
+            "content": "Objetivos EX"
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_04_desc_01",
+            "content": "Os objetivos EX são exibidos aqui."
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_04_title_02",
+            "content": "Entrada no palco"
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_04_desc_02",
+            "content": "Entrar em estágios de batalha custa Encefalina."
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_05_title_01",
+            "content": "Limite de Participantes"
+        },
+        {
+            "id": "tutorial_mainui_08_stagemain_page_05_desc_01",
+            "content": "Cada etapa tem um limite no número de participantes."
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon",
+            "content": "Masmorras de História"
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_01_title_01",
+            "content": "Aba de informações da masmorra"
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_01_desc_01",
+            "content": "Uma masmorra aguarda no final de cada episódio. Entrar em masmorras custa Módulos de Encefalina."
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_02_title_01",
+            "content": "Exploração de Masmorras"
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_02_desc_01",
+            "content": "Você prossegue movendo-se para espaços adjacentes à sua localização. Você pode encontrar encontros com vários inimigos e também eventos com consequências."
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_03_title_01",
+            "content": "Saúde do pecador"
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_03_desc_01",
+            "content": "Os HP, SP e vidas perdidas dos seus Pecadores serão transferidos entre os encontros."
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_03_title_02",
+            "content": "Pontos de verificação"
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_03_desc_02",
+            "content": "Quando você chegar a um ponto de controle, seus Pecadores estarão completamente curados."
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_04_title_01",
+            "content": "Presentes E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_04_desc_01",
+            "content": "Conforme você explora a masmorra, você pode adquirir Presentes E.G.O.; esses itens oferecem efeitos poderosos que duram até o final da exploração."
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_04_title_02",
+            "content": "Andares Descendentes"
+        },
+        {
+            "id": "tutorial_mainui_09_stagedungeon_page_04_desc_02",
+            "content": "Uma masmorra consiste em vários andares. Você pode prosseguir para baixo após proteger o espaço que contém escadas."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon",
+            "content": "Masmorras de Espelho"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_01_title_01",
+            "content": "Lista de Masmorras de Espelho"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_01_desc_01",
+            "content": "Você pode escolher uma das várias Mirror Dungeons para entrar. Reivindicar Mirror Dungeon Rewards custa Enkephalin Modules."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_02_title_01",
+            "content": "Compêndio de presentes E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_02_desc_01",
+            "content": "Você pode verificar a lista de E.G.O Gifts que aparecem no Mirror Dungeon. Certos E.G.O Gifts precisam ser desbloqueados ao cumprir condições específicas."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_03_title_01",
+            "content": "Iniciando presente E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_03_desc_01",
+            "content": "Ao entrar em uma Mirror Dungeon, você receberá uma seleção aleatória de E.G.O Gifts para ajudar na exploração. Escolha um para levar com você."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_04_title_01",
+            "content": "Selecionando Pecadores"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_04_desc_01",
+            "content": "Forme uma equipe de três pecadores para realizar a exploração."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_05_title_01",
+            "content": "Selecionando Identidades"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_05_desc_01",
+            "content": "Selecione Identidades para os Pecadores. Em Mirror Dungeons, todas as Identidades começam no Nível 10 e podem ser fortalecidas conforme você progride."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_06_title_01",
+            "content": "Selecionando E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_06_desc_01",
+            "content": "Escolha E.G.O para seus Sinners equiparem. Você só pode selecionar E.G.O de grau ZAYIN durante a implantação."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_07_title_01",
+            "content": "Explorando Masmorras de Espelho"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_07_desc_01",
+            "content": "Os layouts e caminhos em Mirror Dungeons são gerados aleatoriamente cada vez que você entra. Prossiga movendo-se para um dos espaços adjacentes no próximo setor e lide com os encontros e eventos que esperam por você."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_08_title_01",
+            "content": "Presentes E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_01",
+            "content": "Conforme você explora a masmorra, você pode adquirir Presentes E.G.O.; esses itens oferecem efeitos poderosos que duram até o final da exploração."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_08_title_02",
+            "content": "Saúde do pecador"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_02",
+            "content": "Os HP, SP e vidas perdidas dos seus Pecadores serão transferidos entre os encontros."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_09_title_01",
+            "content": "Selecionando Pecadores"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_01",
+            "content": "Certos eventos permitem que você adicione mais Pecadores ao seu time."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_09_title_02",
+            "content": "Ligando"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_02",
+            "content": "Em Mirror Dungeons, as Identidades aumentam de poder em etapas conforme você progride. Suba de nível e equipe mais E.G.O por meio de encontros e eventos de combate."
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_10_title_01",
+            "content": "Recompensas do Mirror Dungeon"
+        },
+        {
+            "id": "tutorial_mainui_10_mirrordungeon_page_10_desc_01",
+            "content": "Você será recompensado ao limpar a masmorra, e um bônus será dado por um número definido de vezes a cada semana. A quantidade de recompensas é proporcional ao número de espaços limpos."
+        },
+        {
+            "id": "tutorial_mainui_11_extraction",
+            "content": "Extrações"
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_01_title_01",
+            "content": "Categoria"
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_01_desc_01",
+            "content": "Você pode escolher entre extrações padrão e de destino."
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_01_title_02",
+            "content": "Extração"
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_01_desc_02",
+            "content": "Você pode gastar Insanidade para extrair Identidades ou E.G.O."
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_02_title_01",
+            "content": "Período alvo"
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_02_desc_01",
+            "content": "Você pode ver quanto tempo o banner de Extração limitada durará."
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_02_title_02",
+            "content": "Alvo em destaque"
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_02_desc_02",
+            "content": "Veja detalhes sobre a Identidade ou E.G.O em destaque aqui."
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_03_title_01",
+            "content": "Histórico de extração"
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_03_desc_01",
+            "content": "Você pode visualizar registros de suas extrações anteriores aqui."
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_03_title_02",
+            "content": "Informações sobre taxas"
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_03_desc_02",
+            "content": "Você pode visualizar a probabilidade da Identidade ou E.G.O em destaque ser extraído."
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_04_title_01",
+            "content": "Fragmentos de ego"
+        },
+        {
+            "id": "tutorial_mainui_11_extraction_page_04_desc_01",
+            "content": "Ao obter uma Identidade que você já possui, você receberá Egoshards com base em sua raridade."
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine",
+            "content": "Distribuidor"
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_01_title_01",
+            "content": "Catálogo de Dispensadores"
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_01_desc_01",
+            "content": "Você pode trocar Egoshards por Identidades ou E.G.O que você ainda não possui."
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_02_title_01",
+            "content": "Tipos de dispensadores"
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_02_desc_01",
+            "content": "Você pode comprar Identidades e E.G.O.s permanentemente disponíveis, bem como aqueles de temporadas passadas."
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_03_title_01",
+            "content": "Escolhendo Itens para Comprar"
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_03_desc_01",
+            "content": "Para comprar Identidades ou E.G.O aqui, você precisará de Egoshards of the Sinner."
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_04_title_01",
+            "content": "Troca de Tópicos"
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_04_desc_01",
+            "content": "Fragmentos de ego também podem ser trocados por Fios."
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_04_title_02",
+            "content": "Fio"
+        },
+        {
+            "id": "tutorial_mainui_12_vendingmachine_page_04_desc_02",
+            "content": "O fio é usado para vincular identidades e fiar fios de E.G.O."
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_manager",
+            "content": "Informações do gerente"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_01_title_01",
+            "content": "Informações do usuário"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_01_desc_01",
+            "content": "Você pode verificar suas informações de usuário, lista de personagens de suporte e lista de amigos aqui."
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_02_title_01",
+            "content": "Informações do usuário"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_02_desc_01",
+            "content": "O ID do usuário (UID) e o nível da conta são mostrados aqui."
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_02_title_02",
+            "content": "Bandeira"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_02_desc_02",
+            "content": "Você pode configurar seus banners decorativos."
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_03_title_01",
+            "content": "Rosto da empresa"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_03_desc_01",
+            "content": "Você pode escolher obras de arte para exibir dos Pecadores que você possui."
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_04_title_01",
+            "content": "Lista de Arte"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_04_desc_01",
+            "content": "Você pode conferir a arte das Identidades e E.G.O que você possui."
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_05_title_01",
+            "content": "Introdução"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_05_desc_01",
+            "content": "Use uma combinação de palavras e frases fornecidas para fazer sua introdução."
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_06_title_01",
+            "content": "Fazendo uma introdução"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_06_desc_01",
+            "content": "Escolha entre uma lista de frases e palavras para fazer sua introdução."
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_company",
+            "content": "Empresa"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_07_title_01",
+            "content": "Identidades de suporte"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_07_desc_01",
+            "content": "Você pode atribuir Identidades de suporte e E.G.O para ajudar os outros."
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_friend",
+            "content": "Amigos"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_08_title_01",
+            "content": "Lista de amigos"
+        },
+        {
+            "id": "tutorial_mainui_13_userinfo_page_08_desc_01",
+            "content": "Você pode verificar os IDs, banners, introduções e horários de login dos seus amigos; além disso, adicionar usuários como amigos!"
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_title",
+            "content": "Passe de Batalha"
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_01_title_01",
+            "content": "Recompensas do Passe de Batalha"
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_01_desc_01",
+            "content": "Você pode conferir e resgatar recompensas de nível para o passe de batalha gratuito e o Passe Limbus."
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_02_title_01",
+            "content": "Período de passagem e nome"
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_02_desc_01",
+            "content": "Você pode verificar o título do passe de batalha e seu período."
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_02_title_02",
+            "content": "Nível de aprovação e progresso"
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_02_desc_02",
+            "content": "Você pode verificar o nível e o progresso do seu passe de batalha aqui."
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_03_title_01",
+            "content": "Missões do Passe de Batalha"
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_03_desc_01",
+            "content": "Isto mostra a lista de missões que recompensam você com progressão de passe de batalha após a conclusão. Há missões diárias, semanais e sazonais."
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_04_title_01",
+            "content": "Recompensas de nível máximo"
+        },
+        {
+            "id": "tutorial_mainui_14_battlepass_page_04_desc_01",
+            "content": "Depois de atingir o nível máximo para determinadas recompensas no passe de batalha, você receberá recompensas bônus a cada nível acima. Os proprietários do Limbus Pass ganham recompensas adicionais."
+        },
+        {
+            "id": "tutorial_mainui_15_exp_dungeon_title",
+            "content": "EXP Luxcavação"
+        },
+        {
+            "id": "tutorial_mainui_15_exp_dungeon_page_01_title_01",
+            "content": "Lista de Sítios de Luxcavação"
+        },
+        {
+            "id": "tutorial_mainui_15_exp_dungeon_page_01_desc_01",
+            "content": "Escolha um estágio para entrar com base na força dos seus Sinners. Entrar em estágios Luxcavation custa Enkephalin Modules."
+        },
+        {
+            "id": "tutorial_mainui_15_exp_dungeon_page_02_title_01",
+            "content": "Afinidades Úteis"
+        },
+        {
+            "id": "tutorial_mainui_15_exp_dungeon_page_02_desc_01",
+            "content": "Os inimigos em EXP Luxcavation têm resistências específicas. Você pode verificar o tipo e a Afinidade que serão mais eficazes para cada estágio antes de entrar."
+        },
+        {
+            "id": "tutorial_mainui_15_exp_dungeon_page_03_title_01",
+            "content": "Recompensas de EXP Luxcavation"
+        },
+        {
+            "id": "tutorial_mainui_15_exp_dungeon_page_03_desc_01",
+            "content": "Em EXP Luxcavation, você pode adquirir experiência em combate e em tíquetes de treinamento de identidade, além de ganhar recompensas bônus por um número definido de limpezas a cada dia."
+        },
+        {
+            "id": "tutorial_mainui_16_thread_dungeon_title",
+            "content": "Luxcavação de rosca"
+        },
+        {
+            "id": "tutorial_mainui_16_thread_dungeon_01_title_01",
+            "content": "Lista de Sítios de Luxcavação"
+        },
+        {
+            "id": "tutorial_mainui_16_thread_dungeon_page_01_desc_01",
+            "content": "Apresenta diferentes estágios de batalha de Abnormality dependendo do dia da semana. Entrar em estágios de Luxcavation custa Módulos de Encefalina."
+        },
+        {
+            "id": "tutorial_mainui_16_thread_dungeon_page_02_title_01",
+            "content": "Afinidades Úteis"
+        },
+        {
+            "id": "tutorial_mainui_16_thread_dungeon_page_02_desc_01",
+            "content": "Os inimigos em Thread Luxcavation têm resistências específicas. Você pode verificar o tipo e a Afinidade que serão mais eficazes para cada estágio antes de entrar."
+        },
+        {
+            "id": "tutorial_mainui_16_thread_dungeon_page_03_title_01",
+            "content": "Seleção de nível"
+        },
+        {
+            "id": "tutorial_mainui_16_thread_dungeon_page_03_desc_01",
+            "content": "Escolha um estágio para entrar com base na força dos seus pecadores."
+        },
+        {
+            "id": "tutorial_mainui_16_thread_dungeon_page_04_title_01",
+            "content": "Tópico Recompensas Luxcavation"
+        },
+        {
+            "id": "tutorial_mainui_16_thread_dungeon_page_04_desc_01",
+            "content": "Em Thread Luxcavation, você pode adquirir Thread e ganhar recompensas bônus por um número definido de limpezas a cada dia."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_title",
+            "content": "Ferrovias de refração"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_01_title_01",
+            "content": "Abertura da ferrovia de refração"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_01_desc_01",
+            "content": "As Linhas da Ferrovia de Refração funcionam por um certo período de tempo.\nVocê pode entrar nas Linhas disponíveis sem custo."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_02_title_01",
+            "content": "Período de execução"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_02_desc_01",
+            "content": "O tempo de funcionamento da ferrovia é exibido na lateral da linha."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_03_desc_01",
+            "content": "Você escolherá uma série de Identidades e E.G.O para começar a expedição."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_04_desc_01",
+            "content": "Ao contrário de outros conteúdos baseados em combate, os aumentos de nível e níveis feitos em suas identidades e E.G.O enquanto uma expedição estiver em andamento não serão refletidos imediatamente no status de sua equipe."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_05_desc_01",
+            "content": "Você não pode mudar sua equipe no meio de uma expedição. \nSe você deseja modificar sua configuração ou refletir atualizações em suas Identidades e E.G.O, você deve iniciar uma nova expedição."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_06_title_01",
+            "content": "Tela principal da ferrovia de refração"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_06_desc_01",
+            "content": "A Ferrovia de Refração consiste em 13 etapas."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_07_title_01",
+            "content": "Encontro"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_07_desc_01",
+            "content": "Cada batalha na Ferrovia de Refração permitirá que você compare diretamente as habilidades dos aliados com as habilidades dos inimigos, semelhante aos Encontros Focados."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_08_title_01",
+            "content": "Recursos atuais do E.G.O."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_08_desc_01",
+            "content": "Os recursos E.G.O mantidos após concluir uma fase podem ser transferidos para a próxima fase."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_08_title_02",
+            "content": "Status de pecador"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_08_desc_02",
+            "content": "O HP, SP e a disponibilidade de suas identidades são mostrados aqui."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_09_title_01",
+            "content": "Voltas Limpas e Voltas Totais"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_09_desc_01",
+            "content": "Quando você limpa um estágio, a Estação registrará o número de turnos feitos para vencê-lo: Clear Turns.\nBem como o número cumulativo de turnos feitos ao longo da expedição atual: Total Turns."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_10_title_01",
+            "content": "Status de pecador"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_10_desc_01",
+            "content": "O HP, SP e a disponibilidade de suas identidades são mostrados aqui."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_11_title_01",
+            "content": "Requisitos do Banner"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_11_desc_01",
+            "content": "Você pode verificar os requisitos para adquirir banners aqui."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_11_desc_02",
+            "content": "Você pode adquirir faixas mais ricamente ornamentadas conforme as condições mais difíceis forem sendo enfrentadas."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_12_title_01",
+            "content": "Os perdidos e achados"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_12_desc_01",
+            "content": "Após concluir uma fase na Linha pela primeira vez durante o período do evento, as recompensas serão enviadas para o Achados e Perdidos."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_12_desc_02",
+            "content": "Após concluir uma fase na Linha pela primeira vez durante o período do evento, as recompensas serão enviadas para o Lost & Found.\nPara obter acesso ao Lost & Found, vários Módulos Enkephalin serão necessários.\nDepois, você pode acessá-lo livremente e reivindicar as recompensas que ganhou sem custo adicional."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_13_title_01",
+            "content": "Registro total"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_13_desc_01",
+            "content": "Ao concluir o estágio final, os registros da expedição serão salvos.\nRegistros de até 20 expedições são mantidos nos registros.\nSe mais de 20 registros estiverem no registro, aqueles com o maior Total Turns serão removidos primeiro; se o Total Turns for o mesmo, a contagem de mortes atuará como o próximo critério.\nSe as contagens de mortes também forem idênticas, o registro mais antigo será removido."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_14_title_01",
+            "content": "Descansando"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_14_desc_01",
+            "content": "A Saúde e Sanidade dos seus Sinners serão transferidas entre os estágios.\nNo entanto, após concluir um estágio, aqueles que não participaram da batalha recuperarão totalmente seu HP e SP ao entrar no próximo estágio.\nQualquer Sanidade acima de 0 será mantida em ambos os casos."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_15_title_01",
+            "content": "Quebrando recordes"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_15_desc_01",
+            "content": "Durante uma expedição, você pode escolher recomeçar a partir de Estações previamente limpas.\nAo fazer isso, a batalha começará com os status dos Sinners e os recursos E.G.O revertidos para aquele ponto, e qualquer progresso que você tenha feito desde aquela Estação será reiniciado."
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_16_title_01",
+            "content": "As faixas decorativas especiais da ferrovia"
+        },
+        {
+            "id": "tutorial_mainui_17_railway_page_16_desc_01",
+            "content": "Quando uma linha da ferrovia de refração fecha, o melhor recorde de volta total será gravado na parte inferior do banner daquela linha."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_title",
+            "content": "Galinha do Inferno"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_01_title_01",
+            "content": "Desbloqueando o Hell’s Chicken"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_01_desc_01",
+            "content": "A [Página do Evento Hell’s Chicken] abre após concluir o Estágio 3-22 da História Principal.\nVocê pode entrar na página do evento pelo banner na Janela ou no Driverside."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_02_title_01",
+            "content": "Período do evento"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_02_desc_01",
+            "content": "A duração do evento Hell’s Chicken é mostrada aqui. Durante o evento, você pode ganhar [Bongy Plushies] limpando Stages e Dungeons no evento e na História Principal."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_02_desc_02",
+            "content": "※ Mirror Dungeons, Luxcavation e Refraction Railway não dão [Bongy Plushies]."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_03_title_01",
+            "content": "Palcos do evento"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_03_desc_01",
+            "content": "Hell’s Chicken consiste em 8 estágios e 2 masmorras.\nOs estágios e masmorras mencionados também oferecem lotes de [Bongy Plushies] como um bônus EX Clear pela primeira vez."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_03_desc_02",
+            "content": "Você pode ganhar consideravelmente mais [Bongy Plushies] nas Hell’s Chicken Dungeons em comparação com os estágios regulares."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_04_title_01",
+            "content": "Unidades de bônus de evento"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_04_desc_01",
+            "content": "Ter Identidades e E.G.O do evento Hell’s Chicken em sua equipe aumenta a quantidade de [Bongy Plushies] ganhos em fases e masmorras."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_05_title_01",
+            "content": "Cupom de troca"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_05_desc_01",
+            "content": "Você pode resgatar várias recompensas do [Cupom de Troca] com base no número de [Bongy Plushies] que você tem."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_06_title_01",
+            "content": "Cupom de troca"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_06_desc_01",
+            "content": "Você pode adquirir Identidades de recompensa de evento e E.G.O, bem como várias moedas no [Cupom de Troca]."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_06_desc_02",
+            "content": "A duração aberta do [Coupon Trade-in] é mostrada aqui."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_07_title_01",
+            "content": "Masmorras de Eventos"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_07_desc_01",
+            "content": "Hell’s Chicken Dungeons jogam de forma similar a Mirror Dungeons.\nAs masmorras vêm em duas dificuldades; suas principais características são as seguintes."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_08_title_01",
+            "content": "Selecionando presentes E.G.O."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_08_desc_01",
+            "content": "Vários E.G.O Gifts do Mirror Dungeon aparecerão no Hell’s Chicken Dungeon.\nEsses E.G.O Gifts ajudarão as Identidades do evento e E.G.O a brilhar em suas respectivas especialidades."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_09_title_01",
+            "content": "Configuração da equipe do evento"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_09_desc_01",
+            "content": "Nas masmorras do Hell's Chicken, você começa expedições com 5 identidades."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_09_title_02",
+            "content": "Predefinições"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_09_desc_02",
+            "content": "Para a conveniência do jogador, uma função predefinida está sendo adicionada para as masmorras Hell’s Chicken.\nUsando o botão predefinido, você pode carregar rapidamente a configuração de equipe que usou por último e fazer uma entrada rápida."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_10_title_01",
+            "content": "Estrutura da masmorra"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_10_desc_01",
+            "content": "Os layouts e caminhos nas masmorras Hell’s Chicken são gerados aleatoriamente cada vez que você entra.\nEssas masmorras consistem em um único andar, e o nó final sempre apresenta o chefe Hell’s Chicken."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_11_title_01",
+            "content": "Encontros Exclusivos"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_11_desc_01",
+            "content": "Há encontros especiais e E.G.O Gifts exclusivos para as masmorras Hell’s Chicken.\nEssas especialidades são marcadas com um ícone exclusivo abaixo do nó na masmorra para facilitar a identificação."
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_12_title_01",
+            "content": "Encerramento do evento"
+        },
+        {
+            "id": "tutorial_mainui_18_hells_chicken_12_desc_01",
+            "content": "Mesmo após o término total do evento, você poderá vivenciar os encontros de combate do Hell’s Chicken e ver sua história a qualquer momento no Driverside - [Deviazione] e no Theater - [Detour Tales]."
+        },
+        {
+            "id": "tutorial_manual_1_season_information_title",
+            "content": "Guia das Estações"
+        },
+        {
+            "id": "tutorial_manual_1_season_information_01_title_01",
+            "content": "Duração da temporada"
+        },
+        {
+            "id": "tutorial_manual_1_season_information_01_desc_01",
+            "content": "Quando uma nova temporada começa, um novo Passe de Batalha é introduzido com ela.\nVocê pode verificar a duração da temporada atual na página do Passe de Batalha."
+        },
+        {
+            "id": "tutorial_manual_1_season_information_02_title_01",
+            "content": "Recompensas do Passe de Batalha"
+        },
+        {
+            "id": "tutorial_manual_1_season_information_02_desc_01",
+            "content": "Você pode obter moedas para a temporada atual, bem como E.G.O, no Passe de Batalha."
+        },
+        {
+            "id": "tutorial_manual_1_season_information_03_title_01",
+            "content": "Informações da temporada para identidades e E.G.O"
+        },
+        {
+            "id": "tutorial_manual_1_season_information_03_desc_01",
+            "content": "Você pode verificar a que temporada uma Identidade ou E.G.O pertence abaixo do seu nome na aba de informações.\nAqueles sem uma temporada mostrada são categorizados na tag [Regular]."
+        },
+        {
+            "id": "tutorial_manual_1_season_information_04_title_01",
+            "content": "Informações da temporada para identidades de eventos e E.G.O."
+        },
+        {
+            "id": "tutorial_manual_1_season_information_04_desc_01",
+            "content": "Identidades de eventos e E.G.O têm [EVENTO] marcado ao lado de sua tag de temporada."
+        },
+        {
+            "id": "tutorial_manual_1_season_information_05_title_01",
+            "content": "Egoshards"
+        },
+        {
+            "id": "tutorial_manual_1_season_information_05_desc_01",
+            "content": "Egoshards podem ser usados ​​pelo período notado, correspondendo à duração da Temporada.\n\nQuando uma nova Temporada começa, metade dos Egoshards da Temporada anterior serão transportados, convertidos e arredondados para a nova Temporada.\n\nAs taxas de transporte para Egoshards não convertidos de várias temporadas passadas serão reduzidas pela metade para cada Temporada seguinte.\n\nOs Egoshards restantes são convertidos em Thread."
+        },
+        {
+            "id": "tutorial_manual_1_season_information_06_title_01",
+            "content": "Caixas de Egoshard"
+        },
+        {
+            "id": "tutorial_manual_1_season_information_06_desc_01",
+            "content": "Similarmente aos Egoshards, as Caixas de Egoshard podem ser usadas pelo período notado, correspondendo à duração da Temporada.\n\nQuando uma nova Temporada começa, metade das Caixas de Egoshard (aleatórias e nomináveis) serão transportadas, convertidas e arredondadas para a nova Temporada.\n\nAs taxas de transferência para Caixas de Egoshard não convertidas de várias Temporadas passadas serão reduzidas pela metade para cada Temporada seguinte.\n\nAs Caixas restantes são convertidas em Caixas de Fios."
+        },
+        {
+            "id": "tutorial_manual_1_season_information_07_title_01",
+            "content": "Extrações"
+        },
+        {
+            "id": "tutorial_manual_1_season_information_07_desc_01",
+            "content": "As Identidades e E.G.O de uma nova Temporada serão adicionados à lista de itens Extraíveis.\nAs Identidades de Temporadas anteriores permanecem no pool, então você ainda pode adquiri-las da Extração.\n※ Identidades de Eventos e E.G.O de Temporadas anteriores podem aparecer nas Extrações de Alvos de Pecadores. (exceto Identidades de recompensa e E.G.O da Temporada imediatamente anterior)"
+        },
+        {
+            "id": "tutorial_manual_1_season_information_08_title_01",
+            "content": "Distribuidor"
+        },
+        {
+            "id": "tutorial_manual_1_season_information_08_desc_01",
+            "content": "Identidades e E.G.O da nova Temporada ficarão disponíveis no Dispenser.\nAlém disso, você poderá trocar por Identidades e E.G.O dos Passes de Batalha de Temporadas passadas.\nObserve que os IDs de Extração pertencentes à Temporada imediatamente anterior ficarão inacessíveis até que 2 Temporadas tenham passado."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon",
+            "content": "Masmorras de Espelho"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_01",
+            "content": "Lista de Masmorras de Espelho"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_01",
+            "content": "Você pode escolher uma Mirror Dungeon da lista para entrar.\nApenas uma expedição pode ser realizada por vez; se você quiser entrar em uma Mirror Dungeon diferente enquanto uma expedição estiver em andamento, você precisa limpar ou desistir da expedição em andamento primeiro.\nCada Mirror Dungeon (excluindo Mirror of the Beginning) tem dois modos de dificuldade: Normal e Hard."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_02",
+            "content": "Bônus Semanais"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_02",
+            "content": "Toda semana, você recebe 3 bônus semanais que lhe concedem recompensas adicionais para expedições à Masmorra dos Espelhos quando usados."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_03",
+            "content": "Requisitos de desbloqueio"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_03",
+            "content": "Cada Mirror Dungeon tem requisitos que você precisa cumprir para desbloqueá-lo."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_04",
+            "content": "Compêndio de presentes E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_04",
+            "content": "Você pode verificar a lista de E.G.O Gifts que aparecem em Mirror Dungeons.\nAqueles que você ainda não obteve em expedições Mirror Dungeon serão marcados com \"No Data\"."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_05",
+            "content": "Iniciando presente E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_05",
+            "content": "Ao entrar em uma Mirror Dungeon, você receberá uma seleção aleatória de E.G.O Gifts para ajudar na exploração. Escolha um para levar com você."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_06",
+            "content": "Selecionando Pecadores"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_06",
+            "content": "Você selecionará uma equipe de Sinners para entrar no Mirror Dungeon.\nCada Mirror Dungeon tem seu próprio limite de tamanho para a equipe inicial."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_07",
+            "content": "Presentes E.G.O. Possuídos"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_07",
+            "content": "Você pode ver os presentes E.G.O que você tem atualmente."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_08",
+            "content": "Predefinições"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_08",
+            "content": "Ao usar predefinições, você pode carregar as equipes de Identidade e E.G.O que você configurou na janela \"Pecadores\"."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_09",
+            "content": "Custo"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_09",
+            "content": "Você pode ver o Custo em sua posse aqui.\nO Custo é usado ao comprar Presentes E.G.O na loja, ou ao adquirir novas Identidades ou E.G.O para ter em sua equipe na loja ou no ponto de parada.\nNa dificuldade Normal, você não recebe nenhum Custo inicial, mas a configuração inicial da equipe não requer nenhum Custo.\nNa dificuldade Difícil, você recebe uma quantia definida de Custo para construir sua equipe inicial."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_10",
+            "content": "Selecionando Identidades"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_10",
+            "content": "Selecione Identidades para os Pecadores.\nEm Mirror Dungeons, todas as Identidades são definidas no nível apropriado para a Masmorra."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_11",
+            "content": "Selecionando E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_11",
+            "content": "Escolha E.G.O para usar no Pecador selecionado."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_12",
+            "content": "Entrando no Calabouço do Espelho"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_12",
+            "content": "Após terminar a configuração inicial da equipe, pressione \"Confirmar\" para entrar na Masmorra do Espelho."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_13",
+            "content": "Explorando Masmorras de Espelho"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_13",
+            "content": "Os layouts e caminhos em Mirror Dungeons são gerados aleatoriamente cada vez que você entra.\nProssiga movendo-se para um dos espaços adjacentes no próximo setor e lide com os encontros e eventos que esperam por você."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_14",
+            "content": "Presentes E.G.O"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_14",
+            "content": "Conforme você explora a masmorra, você pode adquirir E.G.O Gifts.\nEsses itens oferecem efeitos poderosos que duram até o fim da exploração."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_15",
+            "content": "Saúde do pecador"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_15",
+            "content": "Os HP, SP e vidas perdidas dos seus Pecadores serão transferidos entre os encontros."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_16",
+            "content": "Ataques Eficazes"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_16",
+            "content": "Abaixo dos nós de encontro de combate nas Masmorras de Espelho, serão mostrados os tipos e afinidades eficazes contra os inimigos."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_17",
+            "content": "Paradas de descanso"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_17",
+            "content": "Em Mirror Dungeons, há Rest Stops onde você pode se curar de graça ou gastar Custo para ganhar uma Identidade ou E.G.O para implantar na equipe."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_18",
+            "content": "Lojas"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_18",
+            "content": "Nas Lojas, você pode comprar Presentes E.G.O, curar aliados, recrutar Identidades ou E.G.O, ou fortalecer aliados selecionados usando o Custo que você ganhou em encontros de combate."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_19",
+            "content": "Recompensas do Mirror Dungeon"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_19",
+            "content": "Após concluir uma expedição, você pode gastar Módulos Encefalina para reivindicar recompensas.\nSe você usar a contagem de Elegibilidade de Bônus Semanal, você pode ganhar grandes quantidades de XP do Passe de Batalha e um pouco de Loucura.\nA quantidade de recompensas depende do número de nós concluídos."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_20",
+            "content": "Recompensas de dificuldade difícil"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_20",
+            "content": "Assim que a dificuldade Difícil de uma Mirror Dungeon for desbloqueada, a contagem de recompensas da dificuldade Difícil será exibida acima.\nNa dificuldade Difícil, você pode ganhar mais XP do Passe de Batalha, mas só pode reivindicar as recompensas 3 vezes por semana.\nO bônus de recompensas da dificuldade Difícil e o bônus semanal se aplicam independentemente; você pode maximizar suas recompensas aplicando o bônus semanal às recompensas da dificuldade Difícil."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_21",
+            "content": "Buffs iniciais"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_21",
+            "content": "Espelho dos Espelhos e as Masmorras dos Espelhos depois dele têm melhorias iniciais que você pode ativar."
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_title_22",
+            "content": "Efeitos de Buff Inicial"
+        },
+        {
+            "id": "tutorial_mainui_19_mirrordungeon_desc_22",
+            "content": "Os buffs iniciais podem ser ativados usando 'Starlight', fornecendo vários efeitos para ajudar sua expedição Mirror Dungeon.\nStarlight pode ser conquistado jogando Mirror Dungeons. Alcançar andares mais altos recompensa mais.\nBuffs iniciais se aplicam às dificuldades Normal e Difícil, mas não afetam outras Mirror Dungeons.\nVocê não pode usar a Starlight de uma Mirror Dungeon para ativar buffs iniciais para outras Mirror Dungeons."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_title",
+            "content": "MAR."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_01_title_01",
+            "content": "Desbloqueando o S.E.A."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_01_desc_01",
+            "content": "[Página do Evento S.E.A] abre após concluir o Estágio 4-54 da História Principal.\nVocê pode entrar na página do evento pelo banner na Janela ou no Driverside."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_02_title_01",
+            "content": "Período do evento"
+        },
+        {
+            "id": "tutorial_mainui_20_umida_02_desc_01",
+            "content": "A duração do evento S.E.A é mostrada aqui. Durante o evento, você pode ganhar [Bus-modifying Scrap] limpando Stages e Dungeons no evento e na Main Story."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_02_desc_02",
+            "content": "※ Mirror Dungeons e Luxcavation não fornecem [Sucata modificadora de ônibus]."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_03_title_01",
+            "content": "Palcos do evento"
+        },
+        {
+            "id": "tutorial_mainui_20_umida_03_desc_01",
+            "content": "S.E.A consiste em 12 estágios, incluindo estágios de história.\nEsses estágios também oferecem lotes de [Bus-modifying Scrap] como um bônus EX Clear pela primeira vez."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_03_desc_02",
+            "content": "Você pode ganhar consideravelmente mais [Sucata modificadora de ônibus] nas fases do S.E.A em comparação com as fases da história principal."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_04_title_01",
+            "content": "Unidades de bônus de evento"
+        },
+        {
+            "id": "tutorial_mainui_20_umida_04_desc_01",
+            "content": "Ter Identidades e E.G.O do evento S.E.A em sua equipe aumenta a quantidade de [Sucata modificadora de ônibus] obtida em fases e masmorras."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_05_title_01",
+            "content": "Caixa de sucata"
+        },
+        {
+            "id": "tutorial_mainui_20_umida_05_desc_01",
+            "content": "Você pode resgatar várias recompensas da [Caixa de Sucata] com base na quantidade de [Sucata modificadora de ônibus] que você possui."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_06_title_01",
+            "content": "Caixa de sucata"
+        },
+        {
+            "id": "tutorial_mainui_20_umida_06_desc_01",
+            "content": "Você pode adquirir Identidades de recompensa de evento e E.G.O, bem como várias moedas da [Caixa de Sucata]."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_06_desc_02",
+            "content": "A duração aberta da [Caixa de Sucata] é mostrada aqui."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_07_title_01",
+            "content": "Palcos do evento"
+        },
+        {
+            "id": "tutorial_mainui_20_umida_07_desc_01",
+            "content": "O S.E.A não possui uma masmorra; em vez disso, há um estágio especial onde você pode ganhar grandes quantidades de [Sucata modificadora de ônibus]."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_07_desc_02",
+            "content": "A fase especial custa Módulos Encefalina para entrar."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_08_title_01",
+            "content": "Ferradura rara com sucata modificadora de ônibus"
+        },
+        {
+            "id": "tutorial_mainui_20_umida_08_desc_01",
+            "content": "Após vencer uma batalha, você tem uma pequena chance de encontrar [Rare Horseshoe com Bus-modifying Scrap].\nO [Rare Horseshoe com Bus-modifying Scrap] é automaticamente convertido em 20 [Bus-modifying Scrap]."
+        },
+        {
+            "id": "tutorial_mainui_20_umida_09_title_01",
+            "content": "Encerramento do evento"
+        },
+        {
+            "id": "tutorial_mainui_20_umida_09_desc_01",
+            "content": "Mesmo após o término total do evento, você poderá vivenciar encontros de combate no S.E.A. e ver sua história a qualquer momento no Driverside - [Deviazione] e no Theater - [Detour Tales]."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_01_title_01",
+            "content": "Como participar"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_01_desc_01",
+            "content": "Refraction Railway 2 não consome recursos para jogar. Selecione uma Linha para entrar."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_02_title_01",
+            "content": "Equipe"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_02_desc_01",
+            "content": "Você escolherá uma série de Identidades e E.G.O para começar a expedição."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_03_desc_01",
+            "content": "Você não pode mudar seu carregamento enquanto a expedição estiver em andamento. Ao contrário de outros conteúdos baseados em combate, os aumentos de nível e tier feitos em suas Identidades e E.G.O enquanto uma expedição estiver em andamento não serão imediatamente refletidos no status da sua equipe."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_04_title_01",
+            "content": "Estações da Linha 2"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_04_desc_01",
+            "content": "A Linha 2 da Ferrovia Refraction é composta por 9 estações."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_05_desc_01",
+            "content": "Selecione a estação para entrar."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_05_desc_02",
+            "content": "As recompensas por limpar esta Estação são exibidas abaixo. As recompensas de algumas Estações serão desbloqueadas somente após atender a certas condições de Contagem de Ciclo."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_06_title_01",
+            "content": "Configuração da equipe"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_06_desc_01",
+            "content": "Você pode selecionar até 7 participantes para um encontro. Embora você possa selecionar menos de 7 participantes de combate, nenhum slot de Habilidade adicional será dado a eles durante o encontro."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_07_title_01",
+            "content": "Encontro"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_07_desc_01",
+            "content": "Cada batalha na Ferrovia de Refração permitirá que você compare diretamente as habilidades dos aliados com as habilidades dos inimigos, assim como nos Encontros Focados."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_07_desc_02",
+            "content": "Após a conclusão, o HP, SP, habilidades no painel, habilidades usadas e habilidades restantes das suas identidades serão salvos."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_08_desc_01",
+            "content": "Os recursos E.G.O mantidos após a limpeza de uma Estação podem ser transferidos para a próxima Estação."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_08_desc_02",
+            "content": "Sua contagem de ciclos e total de voltas até esta estação são exibidos aqui."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_08_desc_03",
+            "content": "O HP, SP e a disponibilidade de suas identidades são mostrados aqui."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_09_desc_01",
+            "content": "Ao entrar na próxima Estação, as informações salvas na última Estação serão carregadas.\nA Velocidade de aliados e inimigos é salva ao entrar em uma Estação."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_09_desc_02",
+            "content": "A velocidade de aliados e inimigos é salva ao entrar em uma estação."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_10_desc_01",
+            "content": "Ao perder um Stage, você retornará ao estado imediatamente antes de entrar neste estágio.\nO HP, SP, Speed, Skills no Dashboard, Skills usadas, Skills restantes e Speed ​​do inimigo no estado imediatamente antes de entrar na Station não serão alterados."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_10_desc_02",
+            "content": "HP, SP, Velocidade, Habilidades no Painel, Habilidades usadas, Habilidades restantes e Velocidade do inimigo das identidades no estado imediatamente antes de entrar na Estação não serão alterados."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_11_desc_01",
+            "content": "Após a derrota, você pode retornar ao estado imediatamente anterior à entrada naquela Estação ou continuar usando suas Identidades sobreviventes."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_11_desc_02",
+            "content": "Se você escolher continuar, o HP atual dos inimigos será salvo. As porcentagens de HP restantes serão mostradas acima da Station."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_12_title_01",
+            "content": "Ciclo"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_12_desc_01",
+            "content": "Depois de limpar todas as estações abertas na linha, você pode retornar à Estação nº 1 (Primeira Parada) e continuar o Ciclo."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_12_desc_02",
+            "content": "Se você escolher continuar o Ciclo, você ganhará 1 Contagem de Ciclo. Algumas Estações abrirão somente após atingir certas Contagens de Ciclo."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_13_title_01",
+            "content": "Selecione Buffs"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_13_desc_01",
+            "content": "No final de cada ciclo, você pode escolher 1 bônus de aliado e 1 bônus de inimigo."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_13_desc_02",
+            "content": "Todos os Buffs selecionados serão transferidos para os próximos encontros."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_14_desc_01",
+            "content": "Selecione 1 Buff de Aliado. Você não pode selecionar o mesmo Buff que selecionou no último Ciclo."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_15_desc_01",
+            "content": "Selecione 1 Buff Inimigo. Você não pode selecionar o mesmo Buff que selecionou no último Ciclo.\nNo entanto, se todos os Buffs tiverem sido selecionados pelo menos uma vez, os limites de seleção serão reiniciados e você poderá selecionar qualquer Buff que desejar novamente."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_15_desc_03",
+            "content": "Além dos Buffs que você selecionar, cada Ciclo também concede 1 Buff fixo."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_16_desc_01",
+            "content": "A cada 5 ciclos, você terá a chance de reviver uma de suas Identidades aliadas mortas."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_17_title_01",
+            "content": "O Término"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_17_desc_01",
+            "content": "Se você tiver completado um Ciclo (se tiver 1 ou mais Contagens de Ciclo), o Terminal no meio desta Linha será ativado."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_17_desc_02",
+            "content": "Depois que o Terminus estiver ativado, você poderá acessá-lo de qualquer estação."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_18_desc_01",
+            "content": "Você não pode voltar para a Estação anterior depois de entrar no Terminus. Escolha com cuidado."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_18_desc_02",
+            "content": "O objetivo final da Refraction Railway Line 2 é completar o Terminus. Após a conclusão, sua Contagem de Ciclos, Turnos Totais, Identidades participantes e E.G.O, e Buffs selecionados serão registrados."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_19_title_01",
+            "content": "Requisitos do Banner"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_19_desc_01",
+            "content": "Você pode verificar os requisitos para adquirir banners aqui."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_19_desc_02",
+            "content": "Banners mais especiais têm condições de aquisição mais difíceis.\nApós a aquisição do banner, seus melhores registros de Cycle Count e Total Turn serão exibidos neles."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_19_desc_03",
+            "content": "Após a aquisição do banner, seus melhores registros de Contagem de Ciclos e Turnos Totais serão exibidos nele."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_20_title_01",
+            "content": "Perdidos e achados"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_20_desc_01",
+            "content": "Após concluir uma fase da Linha pela primeira vez ou cumprir uma determinada condição, as recompensas serão enviadas para o Achados e Perdidos."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_20_desc_02",
+            "content": "Para ter acesso a uma recompensa pela primeira vez no Lost & Found, uma série de Módulos Enkephalin serão necessários.\nDepois, você pode acessá-lo livremente e reivindicar as recompensas que ganhou sem custo adicional."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_21_title_01",
+            "content": "Registro total"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_21_desc_01",
+            "content": "Ao limpar o estágio final, seu registro de jogo Refraction Railway será salvo. Até 20 registros podem ser visualizados."
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_21_desc_02",
+            "content": "Quando você tiver feito mais de 20 registros, os registros com a menor Contagem de Ciclo serão excluídos primeiro. Se houver dois registros mais baixos com a mesma Contagem de Ciclo, aquele com uma Contagem Total de Turnos maior será excluído."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_1_title_01",
+            "content": "Botão Alterar Linha"
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_1_desc_01",
+            "content": "Após limpar todas as estações abertas na linha, um botão para continuar para a próxima linha aparecerá."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_2_title_01",
+            "content": "Ciclo"
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_2_desc_01",
+            "content": "Você pode pegar a linha para retornar à Estação 1 (Primeira Parada)."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_2_desc_02",
+            "content": "Neste processo, você ganhará 1 Contagem de Ciclo e será solicitado a selecionar 1 Bônus de Aliado e 1 Bônus de Inimigo que serão aplicados aos próximos encontros."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_3_title_01",
+            "content": "Selecione Buffs"
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_3_desc_01",
+            "content": "No final de cada ciclo, você pode escolher 1 bônus de aliado e 1 bônus de inimigo."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_3_desc_02",
+            "content": "Todos os Buffs selecionados serão transferidos para os próximos encontros."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_4_desc_01",
+            "content": "Selecione 1 Buff de Aliado. Você não pode selecionar o mesmo Buff que selecionou no último Ciclo."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_5_desc_01",
+            "content": "Selecione 1 Buff Inimigo. Você não pode selecionar o mesmo Buff que selecionou no último Ciclo.\nNo entanto, se todos os Buffs tiverem sido selecionados pelo menos uma vez, os limites de seleção serão reiniciados e você poderá selecionar qualquer Buff que desejar novamente."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_5_desc_03",
+            "content": "Além dos Buffs que você selecionar, cada Ciclo também concede 1 Buff fixo."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_6_title_01",
+            "content": "Botão para o Terminal"
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_6_desc_01",
+            "content": "Depois de selecionar seus Buffs, pegue a Linha para a Estação #1 (Primeira Parada). Algumas Estações abrirão somente após atingir certas Contagens de Ciclo."
+        },
+        {
+            "id": "tutorial_mainui_22_railway2_page_6_desc_02",
+            "content": "Após completar um Ciclo, o Terminus no meio da Linha será ativado. Um botão para entrar no Terminus também será ativado."
+        },
+        {
+            "id": "tutorial_mainui_23_railway2_page_1_desc_01",
+            "content": "Você não pode voltar para a Estação anterior depois de entrar no Terminus. Escolha com cuidado."
+        },
+        {
+            "id": "tutorial_mainui_23_railway2_page_1_desc_02",
+            "content": "O objetivo final da Refraction Railway Line 2 é completar o Terminus. Após a conclusão, sua Contagem de Ciclos, Turnos Totais, Identidades participantes e E.G.O, e Buffs selecionados serão registrados."
+        },
+        {
+            "id": "tutorial_mainui_railway2_mainTitle",
+            "content": "Linha Ferroviária de Refração 2"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_08_title_01",
+            "content": "Botão para o Terminal"
+        },
+        {
+            "id": "tutorial_mainui_21_railway2_page_04_desc_02",
+            "content": "Apenas 3 Estações estarão abertas na entrada. Aumentar sua Contagem de Ciclos abrirá sequencialmente as Estações subsequentes (Estação #4 ~ #8)."
+        },
+        {
+            "id": "tutorial_walpurgisnacht_extraction",
+            "content": "Noite de Walpurgis"
+        },
+        {
+            "id": "tutorial_walpurgisnacht_extraction_page_01_desc_01",
+            "content": "As extrações de alvos da Noite de Santa Valburga estarão disponíveis durante o período do evento."
+        },
+        {
+            "id": "tutorial_walpurgisnacht_extraction_page_01_desc_02",
+            "content": "As extrações de alvos da Noite de Walpurgis terão taxas de extração mais altas para identidades e E.G.O do evento Noite de Walpurgis atualmente ativo."
+        },
+        {
+            "id": "tutorial_walpurgisnacht_extraction_page_02_desc_01",
+            "content": "Durante o período do evento, Identidades e E.G.O do evento atual Walpurgis Night serão Extraíveis de outros banners de Extração (exceto para banners de Extração relevantes da Temporada) também.\n\nNo entanto, suas taxas de extração serão idênticas às de outras Identidades e E.G.O."
+        },
+        {
+            "id": "tutorial_walpurgisnacht_extraction_page_03_desc_01",
+            "content": "Durante o período do evento, as identidades anteriores de Walpurgis Night e E.G.O serão extraíveis de todos os banners de extração (exceto os banners de extração relevantes da temporada).\n\nNo entanto, eles não receberão taxas maiores para essas extrações."
+        },
+        {
+            "id": "tutorial_walpurgisnacht_extraction_page_04_desc_01",
+            "content": "Quando o período do evento terminar, as Identidades da Noite de Walpurgis e E.G.O não serão mais extraíveis."
+        },
+        {
+            "id": "tutorial_walpurgisnacht_vendingmachine",
+            "content": "Noite de Walpurgis"
+        },
+        {
+            "id": "tutorial_walpurgisnacht_vendingmachine_page_01_desc_01",
+            "content": "Durante o período do evento, identidades e E.G.O de todos os eventos anteriores da Noite de Walpurgis estarão disponíveis no Dispenser."
+        },
+        {
+            "id": "tutorial_walpurgisnacht_vendingmachine_page_02_desc_01",
+            "content": "Identidades e E.G.O do evento Walpurgis Night atualmente ativo não estão disponíveis no Dispenser."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_01_title_01",
+            "content": "Espelho do Lago"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_01_desc_01",
+            "content": "O Mirror Dungeon da 3ª temporada é chamado de \"Espelho do Lago\"."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_01_desc_02",
+            "content": "Escolha entre as dificuldades \"Normal\" e \"Difícil\" para entrar."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_02_title_01",
+            "content": "Bônus Semanais"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_02_desc_01",
+            "content": "Toda semana, Mirror Dungeons oferecem Weekly Bonuses. Use Weekly Bonuses quando estiver reivindicando as recompensas da corrida — e receba recompensas muito maiores."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_02_desc_02",
+            "content": "A dificuldade 'Normal' oferece 3 bônus semanais, e a dificuldade 'Difícil' oferece 1 bônus semanal."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_02_desc_03",
+            "content": "Concluir a Masmorra do Espelho de Dificuldade \"Difícil\" permitirá que você gaste o restante dos Bônus Semanais de Dificuldade Normal também, maximizando a quantidade de recompensas que você ganha na Masmorra do Espelho."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_03_title_01",
+            "content": "Pecadores"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_03_desc_01",
+            "content": "Você pode ver seus Sinners atualmente implantados aqui."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_03_title_02",
+            "content": "Buffs iniciais"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_03_desc_02",
+            "content": "Colete Luz Estelar completando Masmorras de Espelho e use-as para obter vários Buffs Iniciais que ajudarão você na Masmorra de Espelho."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_03_title_03",
+            "content": "Compêndio de presentes E.G.O"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_03_desc_03",
+            "content": "Você pode ver a lista de E.G.O Gifts que aparecem no Mirror Dungeon. Obter um E.G.O Gift no Mirror Dungeon adicionará uma entrada ao seu E.G.O Gift Compendium."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_04_title_01",
+            "content": "Buffs iniciais"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_04_desc_01",
+            "content": "Em Mirror of the Lake, você pode aumentar suas chances de obter presentes E.G.O de nível mais alto durante sua participação na Mirror Dungeon ativando mais bônus iniciais."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_04_desc_02",
+            "content": "Os bônus iniciais não mudam com as dificuldades da Masmorra Espelho."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_04_title_02",
+            "content": "Luz das estrelas"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_04_desc_03",
+            "content": "Você pode obter Luz Estelar completando as partidas da Masmorra do Espelho."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_04_desc_04",
+            "content": "Quanto mais alto você subir nos andares do Mirror Dungeon, mais Luz Estelar você obterá."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_05_title_01",
+            "content": "Iniciando a escolha de presentes E.G.O"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_05_desc_01",
+            "content": "Ao entrar no Mirror Dungeon, você receberá 8 categorias de presentes E.G.O para escolher."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_05_desc_02",
+            "content": "Você pode escolher quantos presentes E.G.O. estiverem disponíveis para você na mesma categoria."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_05_desc_03",
+            "content": "Os presentes E.G.O fornecem efeitos especiais na Masmorra do Espelho para ajudar você em sua jornada."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_05_desc_04",
+            "content": "Você pode obter Luz Estelar extra escolhendo uma categoria de Presente E.G.O que você não usou na sua execução imediatamente anterior."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_06_title_01",
+            "content": "Formando a equipe"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_06_desc_01",
+            "content": "Selecione os pecadores que participarão da corrida Mirror Dungeon."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_06_desc_02",
+            "content": "No estágio de implantação da Masmorra do Espelho, todos os Níveis de Identidade serão fixados em 40. Na dificuldade \"Difícil\", seus níveis de Identidade atuais serão refletidos."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_06_desc_03",
+            "content": "Use Identidades 1★ ou 2★ para ganhar Custo adicional ao entrar."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_06_desc_04",
+            "content": "Use Identidades que não foram usadas na sua Corrida imediatamente anterior para ganhar Custo adicional ao entrar."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_07_title_01",
+            "content": "Bônus de descanso"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_07_desc_01",
+            "content": "O bônus de descanso da identidade implantada será completamente esgotado ao limpar o Mirror Dungeon. Quanto mais bônus de descanso você esgotar, mais Starlight você ganhará."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_07_desc_02",
+            "content": "No entanto, as Identidades que foram trocadas durante a execução da Masmorra do Espelho não gastarão seus Bônus de Descanso e não fornecerão Luz Estelar adicional."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_07_desc_03",
+            "content": "Identidades que não gastaram seus Bônus de Descanso e Identidades que não foram trocadas ganharão 1 Barra de Bônus de Descanso."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_08_title_01",
+            "content": "Entrando no Calabouço do Espelho"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_08_desc_01",
+            "content": "Após terminar a configuração inicial da equipe, pressione \"Confirmar\" para entrar na Masmorra Espelho."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_08_desc_02",
+            "content": "Esta área exibe o Custo adicional que você ganhou durante o processo de implantação."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_09_title_01",
+            "content": "Explorando Masmorras de Espelho"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_09_desc_01",
+            "content": "As salas e caminhos do Mirror Dungeon são gerados aleatoriamente."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_09_desc_02",
+            "content": "Você prossegue movendo-se para nós adjacentes ao seu nó atual. Você pode encontrar vários eventos ou encontros de combate em cada um dos nós."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_09_title_02",
+            "content": "Custo"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_09_desc_03",
+            "content": "Você ganhará 'Custo' conforme avança pela Mirror Dungeon. O 'Custo' que você ganhou pode ser gasto em Lojas e Pontos de Descanso."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_10_title_01",
+            "content": "Presentes E.G.O"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_10_desc_01",
+            "content": "Presentes E.G.O adquiridos são exibidos aqui. Presentes E.G.O são itens que oferecem efeitos poderosos que duram até o fim da Masmorra."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_10_title_02",
+            "content": "Ataques Eficazes"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page10_desc_02",
+            "content": "Abaixo dos nós de Encontro de Combate nas Masmorras de Espelho estão os tipos e afinidades eficazes contra os inimigos em cada nó."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_10_title_03",
+            "content": "Status de pecador"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_10_desc_03",
+            "content": "Os HP, SP e vidas perdidas dos seus Pecadores serão transferidos entre os encontros."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_11_title_01",
+            "content": "Lojas"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_11_desc_01",
+            "content": "Nas Lojas, você pode gastar seu \"Custo\" para comprar Presentes E.G.O, curar aliados, implantar/trocar Identidades adicionais ou fortalecer Identidades selecionadas."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_11_desc_02",
+            "content": "Nas Lojas, você pode vender Presentes E.G.O que não usa para obter 'Custo'."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_12_title_01",
+            "content": "Paradas de descanso"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_12_desc_01",
+            "content": "Em Paradas de Descanso, você pode gastar seu \"Custo\" para curar aliados, implantar/trocar Identidades adicionais ou aprimorar Dons E.G.O."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_12_desc_02",
+            "content": "Você pode fundir presentes E.G.O para obter diferentes presentes E.G.O."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_13_title_01",
+            "content": "Polidores de piso"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_13_desc_01",
+            "content": "Ao limpar um andar, você obterá bônus aleatórios de inimigos vinculados a cada Presente E.G.O."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_13_desc_02",
+            "content": "Os bônus inimigos continuarão a acumular a cada andar concluído."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_14_title_01",
+            "content": "Recompensas do Mirror Dungeon"
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_14_desc_01",
+            "content": "Ao concluir uma partida na Masmorra do Espelho, gaste Módulos de Encefalina para resgatar suas recompensas."
+        },
+        {
+            "id": "tutorial_mirrordungeon03_page_14_desc_02",
+            "content": "A quantidade de recompensas depende do número de Andares limpos. Você pode usar as chances de Bônus Semanal para reivindicar ainda mais recompensas."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_01_title",
+            "content": "Milagre no Distrito 20"
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_01_title_01",
+            "content": "Desbloqueie o Milagre no Distrito 20"
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_01_desc_01",
+            "content": "O [Milagre nos Estágios do Evento do Distrito 20] abre após limpar o Estágio 5-36 da História Principal. Você pode entrar na página do evento pelo banner na Janela ou no Lado do Motorista."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_02_title_01",
+            "content": "Período do evento"
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_02_desc_01",
+            "content": "A duração do evento O Milagre no Distrito 20 é mostrada aqui. Durante o evento, você pode ganhar [Trinkets Sack] limpando Estágios e Masmorras no evento e na História Principal.\n※ No entanto, [Trinkets Sack] não pode ser obtido em Luxcavations."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_03_title_01",
+            "content": "Encontros de eventos"
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_03_desc_01",
+            "content": "Miracle in District 20 consiste em 13 estágios, incluindo estágios de história.\nEsses estágios também oferecem lotes de [Trinkets Sack] como bônus de primeira limpeza."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_03_desc_02",
+            "content": "Você pode ganhar consideravelmente mais [Sacos de Bugigangas] nos estágios do Milagre no Distrito 20 em comparação aos estágios da História Principal."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_04_title_01",
+            "content": "Unidades de bônus de evento"
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_04_desc_01",
+            "content": "Ter E.G.O do evento Milagre no Distrito 20 em sua equipe aumenta a quantidade de [Saco de Bugigangas] obtida em fases e masmorras."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_05_title_01",
+            "content": "Troca de presentes"
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_05_desc_01",
+            "content": "Você pode resgatar várias recompensas da [Troca de Presentes] com base no número de [Sacos de Brindes] que você tem.\nVocê pode coletar até 4.000 [Sacos de Brindes]."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_06_desc_01",
+            "content": "Você pode adquirir Identidades de recompensa de evento e E.G.O, bem como várias moedas na [Troca de Presentes]."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_06_desc_02",
+            "content": "A duração aberta do [Gift Exchange] é mostrada aqui."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_07_title_01",
+            "content": "Palcos do evento"
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_07_desc_01",
+            "content": "Miracle in District 20 não apresenta uma masmorra; em vez disso, há um estágio especial onde você pode ganhar maiores quantidades de Trinkets Sack. O estágio especial consome Enkephalin Modules."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_08_title_01",
+            "content": "Saco de bugigangas"
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_08_desc_01",
+            "content": "Há uma pequena chance de obter um Saco de Trinkets Enorme ao limpar um Encontro. Sacos de Trinkets Enormes são automaticamente convertidos em 20 Sacos de Trinkets."
+        },
+        {
+            "id": "tutorial_mainui_24_miracle_09_desc_01",
+            "content": "Mesmo após o término total do evento, você poderá vivenciar o Milagre nos Encontros de Combate do Distrito 20 e ver sua história a qualquer momento no Driverside - [Deviazione] e no Teatro - [Detour Tales]."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_01_title",
+            "content": "A 2ª Noite de Walpurgis - O Amanhecer Verde"
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_01_title_01",
+            "content": "Desbloqueando a 2ª Noite de Walpurgis - O Amanhecer do Verde"
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_01_desc_01",
+            "content": "[The 2nd Walpurgis Night - The Dawn of Green] desbloqueia independentemente do seu progresso na história principal. Entre pelo banner do evento na janela ou nas abas do Driverside."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_02_title_01",
+            "content": "Período do evento"
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_02_desc_01",
+            "content": "A duração do evento The 2nd Walpurgis Night - The Dawn of Green é mostrada aqui. Durante o evento, conclua as missões para os encontros de provações Dawn of Green na dificuldade Normal e Hard e reivindique suas recompensas."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_03_title_01",
+            "content": "Encontro de dificuldade normal"
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_03_desc_01",
+            "content": "Selecione a porta para começar a dificuldade Normal Dawn of Green Ordeal. Dawn of Green Ordeal consome um Módulo Enkephalin após a conclusão. Na dificuldade Normal, quaisquer Identidades implantadas abaixo do Nível 40 serão elevadas para o Nível 40. No entanto, os Níveis Uptie e Níveis E.G.O Threadspinning atuais das suas Identidades serão refletidos."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_03_title_02",
+            "content": "Encontro de dificuldade difícil"
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_03_desc_02",
+            "content": "Limpar a dificuldade Normal Dawn of Green Ordeal desbloqueia a dificuldade Hard. Na dificuldade Hard, os Níveis atuais de suas Identidades, Tiers Uptie e Tiers E.G.O Threadspinning serão refletidos."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_04_title_01",
+            "content": "Locutor especial"
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_04_desc_01",
+            "content": "Haverá um Locutor especial e fixo para o Encontro Dawn of Green Ordeal. Portanto, você não pode selecionar seus próprios Locutores para este Encontro de evento."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_04_title_02",
+            "content": "Efeitos do Capitão da Equipe de Controle"
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_04_desc_02",
+            "content": "O #1 Sinner a ser implantado no menu Teams será imbuído do efeito 'Control Team Captain'. O Sinner com o efeito 'Control Team Captain' ganhará mais Slots, sua composição de Skill mudará e ganhará mais efeitos benéficos."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_05_title_01",
+            "content": "Missões"
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_05_desc_01",
+            "content": "Você pode entrar na página [Missões], onde pode ver a lista de Missões a serem concluídas durante o Encontro e suas recompensas."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_06_desc_01",
+            "content": "Você pode visualizar o período de troca de recompensas na página [Missões]."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_06_desc_02",
+            "content": "A dificuldade Normal e a dificuldade Difícil têm conjuntos diferentes de missões para completar."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_06_desc_03",
+            "content": "Complete essas missões e reivindique várias recompensas na página [Missões]."
+        },
+        {
+            "id": "tutorial_mainui_25_walpu2_07_desc_01",
+            "content": "Mesmo após o término total do evento, você poderá vivenciar os encontros de combate 'The 2nd Walpurgis Night - The Dawn of Green' e assistir à sua história a qualquer momento no Driverside and Theater - [Detour Tales]."
+        },
+        {
+            "id": "tutorial_mainui_railway3_title_01",
+            "content": "Linha Ferroviária de Refração 3"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_01_title_01",
+            "content": "Como participar"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_01_desc_01",
+            "content": "Selecione a Linha ativada para entrar. Entrar na Ferrovia de Refração não custa nenhuma moeda ou recurso."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_02_title_01",
+            "content": "Criando sua equipe"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_02_desc_01",
+            "content": "Você escolherá uma série de Identidades e E.G.O para começar a expedição."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_03_title_01",
+            "content": "Estações da Linha 3"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_03_desc_01",
+            "content": "Há um total de 13 estações na Linha 3 da Refraction Railway. 10 dessas estações são encontros de combate."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_03_desc_02",
+            "content": "As estações #4, #8 e #12 não são Encounters de combate. Lá, você pode curar, reviver ou mudar seu Team Loadout."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_04_desc_01",
+            "content": "Selecione a estação para entrar."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_04_desc_02",
+            "content": "Abaixo de cada Estação, você pode ver as recompensas por limpar aquela Estação. Reivindique-as no Lost & Found."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_05_title_01",
+            "content": "Configuração da equipe"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_05_desc_01",
+            "content": "Você pode selecionar até 6 participantes para um encontro. Embora você possa selecionar menos de 6 participantes de combate, nenhum slot de Habilidade adicional será dado a eles durante o encontro."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_06_title_01",
+            "content": "Encontro"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_06_desc_01",
+            "content": "Cada batalha na Ferrovia de Refração permitirá que você compare diretamente as habilidades dos aliados com as habilidades dos inimigos, assim como nos Encontros Focados."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_07_title_01",
+            "content": "Registros de observação"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_07_desc_01",
+            "content": "Se você já desbloqueou os Níveis de Observação das Anormalidades por meio dos Encontros da Masmorra da História, seus Níveis de Observação serão refletidos na Ferrovia de Refração e você poderá visualizar suas informações como faria nessas Masmorras."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_07_desc_02",
+            "content": "Entretanto, o bônus de dano baseado nos Níveis de Observação não se aplica na Ferrovia de Refração."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_07_desc_03",
+            "content": "Em Refraction Railway Line 3, o Nível de Observação atualizado será salvo mesmo se você desistir no meio do Encontro."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_08_desc_01",
+            "content": "Os recursos E.G.O mantidos após a limpeza de uma Estação podem ser transferidos para a próxima Estação."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_08_desc_02",
+            "content": "O total de turnos realizados para limpar a estação e o total de turnos realizados desde a primeira parada serão exibidos acima de cada estação."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_08_desc_03",
+            "content": "O HP, SP e a disponibilidade de suas identidades são mostrados aqui."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_09_desc_01",
+            "content": "Após a derrota, você pode retornar ao estado imediatamente anterior à entrada naquela Estação ou continuar usando suas Identidades sobreviventes."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_09_desc_02",
+            "content": "Se você escolher continuar, o HP atual dos inimigos será salvo. As porcentagens de HP restantes serão mostradas acima da Station."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_10_desc_01",
+            "content": "Selecione o botão Redefinir para retornar ao estado imediatamente anterior à entrada naquela Estação."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_11_title_01",
+            "content": "Quebrando recordes"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_11_desc_01",
+            "content": "Durante uma expedição, você pode escolher recomeçar a partir de Estações previamente limpas.\nAo fazer isso, a batalha começará com os status dos Sinners e os recursos E.G.O revertidos para aquele ponto, e qualquer progresso que você tenha feito desde aquela Estação será reiniciado."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_12_title_01",
+            "content": "Posto de descanso"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_12_desc_01",
+            "content": "As Estações #4, #8 e #12 são Estações de Descanso. Alcançar essas Estações curará completamente todos os aliados e reviverá Identidades mortas."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_12_desc_02",
+            "content": "Identidades com SP 0 ou positivo manterão seu SP, mas identidades com SP negativo recuperarão para 0 SP."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_12_desc_03",
+            "content": "Você também pode alterar o equipamento da sua equipe nas Estações de Descanso."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_13_desc_01",
+            "content": "Você não pode voltar para a Estação anterior depois de entrar no Terminus. Escolha com cuidado."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_13_desc_02",
+            "content": "Limpar o Terminal é o objetivo final da Linha 3 da Ferrovia de Refração."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_14_title_01",
+            "content": "Requisitos do Banner"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_14_desc_01",
+            "content": "Você pode conferir os requisitos para adquirir os banners da Refraction Railway Line 3 aqui."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_14_desc_02",
+            "content": "Você pode adquirir faixas mais ricamente ornamentadas conforme as condições mais difíceis forem sendo enfrentadas."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_14_desc_03",
+            "content": "Após a aquisição desses banners, o Total de Turnos do seu melhor recorde será exibido neles."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_15_title_01",
+            "content": "Os perdidos e achados"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_15_desc_01",
+            "content": "Após concluir uma Estação na Linha pela primeira vez, as recompensas serão enviadas para o Achados e Perdidos."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_15_desc_02",
+            "content": "Para ter acesso a uma recompensa pela primeira vez no Lost & Found, uma série de Módulos Enkephalin serão necessários.\nDepois, você pode acessá-lo livremente e reivindicar as recompensas que ganhou sem custo adicional."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_16_title_01",
+            "content": "Coleção de viagens"
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_16_desc_01",
+            "content": "Ao limpar a Estação final, seu registro de jogo Refraction Railway será salvo. Até 20 registros podem ser visualizados."
+        },
+        {
+            "id": "tutorial_mainui_railway3_page_16_desc_02",
+            "content": "Se você tiver mais de 20 registros, os registros com o maior Total de Turnos serão excluídos primeiro."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_01_title",
+            "content": "Entrego minha carne para reivindicar seus ossos"
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_01_title_01",
+            "content": "Desbloqueando Renda Minha Carne para Reivindicar Seus Ossos"
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_01_desc_01",
+            "content": "A [Página do evento Yield My Flesh to Claim Their Bones] abre após concluir o Estágio 5.5-12 da História Principal.\n\nVocê pode entrar na página do evento pelo banner na Janela ou no Lado do Motorista."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_02_title_01",
+            "content": "Período do evento"
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_02_desc_01",
+            "content": "A duração do evento Yield My Flesh to Claim Their Bones é mostrada aqui.\n\nDurante o evento, você pode ganhar [Bloodied Scabbard] ao limpar Event Stages e Event Dungeons. Você também pode ganhar [Bloodied Scabbard] ao limpar Mirror Dungeons ou limpar Main Story Stages ou Dungeons pela primeira vez.\n\n※ No entanto, [Bloodied Scabbard] não pode ser obtido em Luxcavations e Refraction Railways."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_03_title_01",
+            "content": "Encontros de eventos"
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_03_desc_01",
+            "content": "Incluindo os Estágios da História, o evento Yield My Flesh to Claim Their Bones é composto por 12 Estágios."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_03_desc_02",
+            "content": "Você pode ganhar consideravelmente mais [Bainha Ensanguentada] nas etapas de Entregar Minha Carne para Reivindicar Seus Ossos em comparação com as etapas da História Principal."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_04_title_01",
+            "content": "Identidades de bônus de evento"
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_04_desc_01",
+            "content": "Ter Identidades de Evento do evento Yield My Flesh to Claim Their Bones em sua equipe aumenta a quantidade de [Bloodied Scabbard] obtida em Estágios e Masmorras."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_05_title_01",
+            "content": "Troca de recompensas"
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_05_desc_01",
+            "content": "Na janela de Troca de Recompensas, você pode enviar a [Bainha Ensanguentada] que você coletou para comprar várias recompensas."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_06_desc_01",
+            "content": "O período para reivindicar as recompensas é mostrado aqui."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_06_desc_02",
+            "content": "Aqui, você pode obter várias moedas e a Identidade do Evento."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_07_title_01",
+            "content": "Palcos do evento"
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_07_desc_01",
+            "content": "A batalha final de Yield My Flesh to Claim Their Bones é como um Mirror Dungeon.\n\nEntrar no Dungeon custa Enkephalin Modules."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_08_title_01",
+            "content": "Bainha Ressentida"
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_08_desc_01",
+            "content": "Raramente, você pode obter [Resentful Scabbard] ao limpar Encounters.\n\n[Resentful Scabbard] é automaticamente convertido para 20 [Bloodied Scabbard] após a aquisição."
+        },
+        {
+            "id": "tutorial_mainui_26_ycgd_09_desc_01",
+            "content": "Mesmo após o término total do evento, você poderá vivenciar os encontros de combate Yield My Flesh to Claim Their Bones e assistir à história a qualquer momento no Driverside - [Deviazione] e no Theater - [Detour Tales]."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_01_title",
+            "content": "Tempo matando tempo"
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_01_title_01",
+            "content": "Acessando o Evento"
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_01_desc_01",
+            "content": "A [Página do Evento Timekilling Time] abre após concluir o Estágio 6-48 da História Principal. Você pode entrar na página do evento pelo banner na Janela ou no Lado do Motorista."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_02_title_01",
+            "content": "Período do evento"
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_02_desc_01",
+            "content": "A duração do evento Timekilling Time é mostrada aqui.\n\nDurante o evento, você pode ganhar [Pocket Watch] ao concluir os Estágios do Evento. Você também pode ganhar [Pocket Watch] ao concluir os Mirror Dungeons ou concluir os Estágios da História Principal pela primeira vez.\n\n※ No entanto, [Pocket Watch] não pode ser obtido em Luxcavations e Refraction Railways."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_03_title_01",
+            "content": "Encontros de eventos"
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_03_desc_01",
+            "content": "Timekilling Time consiste em 14 estágios, incluindo estágios de história e uma única masmorra.\n\nEncontros de Evento também oferecem lotes de [Pocket Watch] como um bônus de primeira limpeza."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_04_title_01",
+            "content": "Unidades de bônus de evento"
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_04_desc_01",
+            "content": "Ter Identidades e E.G.O do evento Timekilling Time em sua equipe aumenta a quantidade de [Pocket Watch] obtida em Estágios e Masmorras Espelho."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_05_title_01",
+            "content": "Troca de itens"
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_05_desc_01",
+            "content": "Você pode resgatar várias recompensas da [Troca de Recompensas] com base no número de [Relógios de Bolso] que você possui."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_06_desc_01",
+            "content": "Você pode adquirir a identidade de recompensa do evento e várias moedas na [Troca de Recompensas]."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_06_desc_02",
+            "content": "A duração aberta da [Troca de Recompensas] é mostrada aqui."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_07_title_01",
+            "content": "Palcos do evento"
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_07_desc_01",
+            "content": "Uma Mirror Dungeon aguarda no final do evento Timekilling Time. Entrar nesta Mirror Dungeon custa Enkephalin Modules."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_08_title_01",
+            "content": "Pacote de relógio de bolso"
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_08_desc_01",
+            "content": "Raramente, você pode obter [Pocket Watch Bundle] ao limpar Encounters.\n\n[Pocket Watch Bundle] é automaticamente convertido para 20 [Pocket Watch] na aquisição."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt_09_desc_01",
+            "content": "Mesmo após o término total do evento, você poderá vivenciar os Encontros de Combate do Tempo Timekilling e assistir à sua história a qualquer momento no Driverside - [Deviazione] e no Teatro - [Detour Tales]."
+        },
+        {
+            "id": "tutorial_mainui_28_tkt",
+            "content": "Tempo matando tempo"
+        },
+        {
+            "id": "tutorial_mainui_railway4_title_01",
+            "content": "Linha Ferroviária de Refração 4"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_01_title_01",
+            "content": "Como participar"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_01_desc_01",
+            "content": "Selecione a Linha ativada para entrar. Entrar na Ferrovia de Refração não custa nenhuma moeda ou recurso."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_02_desc_01",
+            "content": "Refraction Railway apresenta uma série de batalhas muito desafiadoras."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_02_desc_02",
+            "content": "Recomendamos que você eleve suas Identidades para o Nível 4, suba para o Nível 45 e use o Threadspin para transformar seus E.G.Os em Nível 4."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_02_desc_03",
+            "content": "Sugerimos que você entre na Ferrovia após atender às condições recomendadas."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_03_title_01",
+            "content": "Criando sua equipe"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_03_desc_01",
+            "content": "Escolha um número de Identidades e E.G.O para entrar na Ferrovia."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_03_desc_02",
+            "content": "Se você subir de nível, Uptie ou Threadspin suas Identidades ou E.G.O fora da Ferrovia de Refração, as mudanças serão aplicadas aos seus personagens na Ferrovia de Refração também."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_04_title_01",
+            "content": "Linha 4: Estações e Trechos"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_04_desc_01",
+            "content": "A Refraction Railway Line 4 é composta por várias Seções que unem várias Estações em um único Estágio. Há um total de 13 Estações."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_04_desc_02",
+            "content": "Há quatro Estágios de Encontro de Combate, cada um chamado de \"Seção\"; entre cada Seção há um posto de descanso."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_05_desc_01",
+            "content": "Selecione a seção para entrar."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_05_desc_02",
+            "content": "Limpar a Seção registrará sua Contagem de Turnos Limpos.\n\nAbaixo da Contagem de Turnos Limpos está a Contagem Total de Turnos, que é a soma de todas as Contagens de Turnos Limpos de cada Seção."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_05_desc_03",
+            "content": "Abaixo de cada Seção, você pode ver as recompensas por limpar aquela Seção. Reivindique-as no Lost & Found."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_06_title_01",
+            "content": "Desdobramento de Combate - Efeitos da Ordem de Desdobramento"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_06_desc_01",
+            "content": "A Linha Ferroviária de Refração 4 oferece melhorias especiais aos seus Pecadores dependendo da ordem de mobilização deles."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_06_desc_02",
+            "content": "Certas unidades de Backup recebem bônus adicionais de SP de entrada. Identidades com Moedas Menos receberão bônus negativos de SP de entrada."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_07_title_01",
+            "content": "Desdobramento de Combate - Batalhas em Cadeia"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_07_desc_01",
+            "content": "A Refraction Railway Line 4 introduz o sistema 'Chain Battle'.\n\nEm Chain Battles, quando uma unidade Deployed é derrotada, as unidades de Backup preencherão seus espaços em suas próprias ordens de Deployment."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_07_desc_02",
+            "content": "Você pode entrar na Seção somente quando tiver selecionado suas unidades de Implantação e as unidades de Backup, seis em cada categoria."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_08_title_01",
+            "content": "Encontro"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_08_desc_01",
+            "content": "Cada batalha na Refraction Railway permitirá que você combine diretamente habilidades aliadas contra habilidades inimigas, assim como em Focused Encounters.\nNa Refraction Railway Line 4, a habilidade Sapling of Light pode ser ativada uma vez a cada corrida.\nA ativação dentro da Refraction Railway não conta para o limite de ativação fora da Refraction Railway."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_09_title_01",
+            "content": "Combate - Efeitos da Ordem de Implantação"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_09_desc_01",
+            "content": "Você também pode visualizar os efeitos da Ordem de Implantação no meio de um Encontro."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_09_desc_02",
+            "content": "Na Linha 4, uma Identidade aliada derrotada dará recursos E.G.O que correspondem às Afinidades de Pecado das Habilidades de Ataque do Aliado derrotado. A quantidade de recursos E.G.O dada corresponde ao Rank de cada Habilidade de Ataque. (S1 dá 1, S2 dá 2, S3 dá 3, por exemplo)"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_10_title_01",
+            "content": "Combate - Batalhas em Cadeia"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_10_desc_01",
+            "content": "Quando uma unidade implantada é derrotada, as unidades de backup preencherão seu lugar na ordem de implantação."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_10_desc_02",
+            "content": "Quando uma unidade de Backup é Implantada na batalha, sua Passiva de Combate é ativada em vez de sua Passiva de Suporte.\n\nQuando uma unidade Implantada é derrotada, sua Passiva de Suporte será ativada em vez de sua Passiva de Combate."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_11_title_01",
+            "content": "Combate - Determinação Resiliente"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_11_desc_01",
+            "content": "Na Linha 4, a morte de um aliado não diminuirá o SP dos outros aliados."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_11_desc_02",
+            "content": "Certos inimigos na Linha 4 ganharão certos efeitos com base em suas ordens de mobilização."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_12_title_01",
+            "content": "Registros de observação"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_12_desc_01",
+            "content": "Se você já desbloqueou os Níveis de Observação das Anormalidades por meio dos Encontros da Masmorra da História ou da Masmorra do Espelho, seus Níveis de Observação serão refletidos na Ferrovia de Refração, e você poderá visualizar suas informações como faria nessas Masmorras."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_12_desc_02",
+            "content": "Entretanto, o bônus de dano baseado nos Níveis de Observação não se aplica na Ferrovia de Refração."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_12_desc_03",
+            "content": "Na Linha 4, o Nível de Observação atualizado será salvo mesmo se você desistir ou tentar novamente no meio do Encontro."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_13_desc_01",
+            "content": "Os recursos E.G.O mantidos após a limpeza de uma Estação podem ser transferidos para a próxima Seção."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_13_desc_02",
+            "content": "O HP, SP e a disponibilidade de suas Identidades são exibidos na parte inferior da tela."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_14_title_01",
+            "content": "Estações de descanso"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_14_desc_01",
+            "content": "Parar nos Postos de Descanso, que ficam entre as Seções, curará completamente suas Identidades e redefinirá seus Sp para 0."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_14_desc_02",
+            "content": "Você também pode mudar seu Team Loadout em Rest Stations.\n\nSe você estiver com dificuldade para limpar um Stage, observe que um Team diferente pode funcionar melhor contra certos inimigos."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_15_desc_01",
+            "content": "Se todos os seus aliados forem derrotados, você pode escolher entre retornar ao menu de Equipamento de Equipe para alterar suas ordens de Implantação ou tentar a batalha novamente imediatamente."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_16_title_01",
+            "content": "Quebrando recordes"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_16_desc_01",
+            "content": "Durante uma expedição, você pode escolher recomeçar a partir de Estágios concluídos anteriormente."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_16_desc_02",
+            "content": "Ao fazer isso, a batalha começará com os status dos pecadores e os recursos E.G.O revertidos para aquele ponto, e qualquer progresso que você tenha feito desde aquele estágio será redefinido."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_17_title_01",
+            "content": "Requisitos do Banner"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_17_desc_01",
+            "content": "Você pode conferir os requisitos para adquirir os banners da Refraction Railway Line 4 aqui."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_17_desc_02",
+            "content": "Após a aquisição desses banners, o Total de Turnos do seu melhor recorde será exibido neles."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_18_title_01",
+            "content": "Perdidos e achados"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_18_desc_01",
+            "content": "Após concluir uma Etapa da Linha pela primeira vez, as recompensas serão enviadas para o Achados e Perdidos."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_18_desc_02",
+            "content": "Para ter acesso a uma recompensa pela primeira vez no Lost & Found, uma série de Módulos Enkephalin serão necessários.\nDepois, você pode acessá-lo livremente e reivindicar as recompensas que ganhou sem custo adicional."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_19_title_01",
+            "content": "Coleção de viagens"
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_19_desc_01",
+            "content": "Ao limpar o Stage final, seu registro de jogo Refraction Railway será salvo. Até 20 registros podem ser visualizados."
+        },
+        {
+            "id": "tutorial_mainui_railway4_page_19_desc_02",
+            "content": "Se você tiver mais de 20 registros, os registros com o maior Total de Turnos serão excluídos primeiro."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_01_title",
+            "content": "Assassinato no Expresso WARP"
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_01_title_01",
+            "content": "Desbloqueando Assassinato no WARP Express"
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_01_desc_01",
+            "content": "A [Página do Evento Assassinato no WARP Express] abre após limpar o Estágio 0-4 da História Principal. Você pode entrar na página do evento pelo banner na Janela ou no Lado do Motorista."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_02_title_01",
+            "content": "Período do evento"
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_02_desc_01",
+            "content": "A duração do evento Murder on the WARP Express é mostrada aqui.\n\nDurante o evento, você pode ganhar [Civilian Recov. Pack] ao concluir os Estágios do Evento. Você também pode ganhar [Civilian Recov. Pack] ao concluir os Mirror Dungeons ou concluir os Estágios da História Principal pela primeira vez.\n\n※ No entanto, [Civilian Recov. Pack] não pode ser obtido em Luxcavations e Refraction Railways."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_03_title_01",
+            "content": "Encontros de eventos"
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_03_desc_01",
+            "content": "Murder on the WARP Express consiste em 15 estágios, incluindo estágios de história.\nEsses estágios também oferecem lotes de [Civilian Recov. Pack] como um bônus EX Clear pela primeira vez."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_03_desc_02",
+            "content": "Você pode ganhar consideravelmente mais [Civilian Reconv. Pack] em Murder on the WARP Express Stages em comparação com Main Story Stages."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_04_title_01",
+            "content": "Unidades de bônus de evento"
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_04_desc_01",
+            "content": "Ter Identidades de Evento e E.G.O do evento Assassinato no WARP Express em sua equipe aumenta a quantidade de [Pacote de Recuperação Civil] obtido em Estágios e Masmorras."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_05_title_01",
+            "content": "Troca de recompensas"
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_05_desc_01",
+            "content": "Você pode resgatar várias recompensas da [Troca de Recompensas] usando o [Pacote de Recuperação Civil] que você coletou."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_06_desc_01",
+            "content": "A duração aberta da [Troca de Recompensas] é mostrada aqui."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_06_desc_02",
+            "content": "Você pode adquirir Identidades de recompensa de eventos e diversas moedas na [Troca de Recompensas]."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_07_title_01",
+            "content": "Encontros de batalha em cadeia"
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_07_desc_01",
+            "content": "Certos Encontros no evento Murder on the WARP Express são Chain Battles. Em Chain Battles, os Sinners não perderão sua Sanity(SP) mesmo se seus aliados forem derrotados."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_08_title_01",
+            "content": "Pacote de recuperação de fixador"
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_08_desc_01",
+            "content": "Raramente, você pode obter [Fixer Recov. Pack] ao limpar Encontros. [Fixer Recov. Pack] é imediatamente convertido para 20 [Civilian Recov. Pack] após a aquisição."
+        },
+        {
+            "id": "tutorial_mainui_29_mowe_09_desc_01",
+            "content": "Mesmo após o término total do evento, você poderá vivenciar os Encontros de Combate de Assassinato no WARP Express e assistir à sua história a qualquer momento no Driverside e no Teatro - [Detour Tales]."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_11_title_01",
+            "content": "Batalhas em cadeia"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_11_desc_01",
+            "content": "Em Chain Battles, você pode implantar 'Unidades de Backup' além das unidades participantes.\n\nQuando uma unidade é derrotada no meio da batalha, uma unidade de backup irá substituí-la para preencher seu lugar.\n\nEm Chain Battles, você não pode perder até que todas as unidades selecionadas para o Encounter (unidades participantes e unidades de backup) sejam derrotadas."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_12_title_01",
+            "content": "Implantando unidades de backup"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_12_desc_01",
+            "content": "Quando uma unidade participante é morta, unidades de Backup serão substituídas no campo na ordem de sua Implantação.\n\nCertas Batalhas em Cadeia podem dar buffs adicionais para unidades de Backup.\n\nPor favor, experimente ordens de Implantação para criar estratégias antes de entrar em Batalhas em Cadeia."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_13_title_01",
+            "content": "Substituir"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_13_desc_01",
+            "content": "Em Chain Battles, a perda de SP devido à morte de aliados listados em 'Fatores base que aumentam/diminuem a Sanidade' não será ativada.\n\nSe um aliado for derrotado no meio do Encontro, a próxima unidade de Backup na ordem de Implantação o substituirá.\n\nQuando uma unidade Implantada for derrotada, sua Passiva de Suporte será ativada em vez de sua Passiva de Combate.\n\nQuando uma unidade de Backup for substituída, sua Passiva de Combate será ativada em vez de sua Passiva de Suporte."
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_14_title_01",
+            "content": "Indicador de inimigos restantes"
+        },
+        {
+            "id": "tutorial_mainui_01_selection_page_14_desc_01",
+            "content": "Em Chain Battles, o indicador que mostra o número de Waves mostra o número total de inimigos e o número de inimigos derrotados.\n\nNo entanto, este indicador não leva em conta os inimigos extras que são invocados devido a certas condições."
+        }
+    ]
+}

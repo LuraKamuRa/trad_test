@@ -1,0 +1,1930 @@
+{
+  "dataList": [
+    {
+      "id": 1010501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stay Calm",
+          "desc": "Ganhe +3 contagem de tremores se essa habilidade for descartada",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de tremores"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Stay Calm",
+          "desc": "Se essa habilidade for descartada, ganhe +4 contagem de tremores\n[[Bracket]] Ganhe +2 Contagem de tremores",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de tremores"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Stay Calm",
+          "desc": "Se essa habilidade for descartada, ganhe +4 contagem de tremores\n[[Bracket]] Ganhe +2 Contagem de tremores\nCom 5+ Tremor Count, Ganhe Power +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de tremores"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gamble",
+          "desc": "Se essa habilidade for descartada, ganhe +3 contagem de tremores\n[[Suporte]] descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Com 5+ Tremor Count, Trigger Tremor Burst. Reduza a contagem de tremores do alvo em 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Gamble",
+          "desc": "Se essa habilidade for descartada, ganhe +4 contagem de tremores\n[[Suporte]] descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de tremores"
+                },
+                {
+                  "desc": "[[Bracket]] Com 5+ Tremor Count, Trigger Tremor Burst. Reduza a contagem de tremores do alvo em 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Gamble",
+          "desc": "Se essa habilidade for descartada, ganhe +4 contagem de tremores\n[[Suporte]] descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de tremores"
+                },
+                {
+                  "desc": "[[Bracket]] Com 5+ Tremor Count, Trigger Tremor Burst. Reduza a contagem de tremores do alvo em 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Grinding the Molars",
+          "desc": "[[Suporte]] descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade\n[[Bracket]] Gasta 10 trêmulos para ganhar o poder da moeda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 tremor"
+                },
+                {
+                  "desc": "[[Bracket]] Se a habilidade gasta a contagem de tremores, desencadeia o tremor explosão"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 nível de defesa"
+                },
+                {
+                  "desc": "[[Bracket]] Se a habilidade gasta a contagem de tremores, desencadeia o tremor explosão"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Grinding the Molars",
+          "desc": "[[Suporte]] descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade\n[[Bracket]] Gasta 10 trêmulos para ganhar o poder da moeda +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 tremor"
+                },
+                {
+                  "desc": "[[Bracket]] Se a habilidade gasta a contagem de tremores, desencadeia o tremor explosão"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 nível de defesa"
+                },
+                {
+                  "desc": "[[Bracket]] Se a habilidade gasta a contagem de tremores, desencadeia o tremor explosão"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[[Suporte]] descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Guard",
+          "desc": "[[Suporte]] descarte 1 habilidade da classificação mais baixa em todos os slots de habilidade desta unidade",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimensional Slit",
+          "desc": "[[Suporte]] Ganhe +2 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Ganhe +2 contagem de cobrança"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dimensional Slit",
+          "desc": "[[Suporte]] Ganhe +2 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Ganhe +2 contagem de cobrança"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dimensional Slit",
+          "desc": "[[Suporte]] Ganhe +2 contagem de cobrança\nCom mais de 10 contagem de cobrança, Power de moedas +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Ganhe +2 contagem de cobrança"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Energy Cycle",
+          "desc": "[[Suporte]] Ganhe +5 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Energy Cycle",
+          "desc": "[[Bracket]] Ganhe +6 Contagem de cobrança\nCom mais de 10 contagem de carga, Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                },
+                {
+                  "desc": "[[Bracket]] Com mais de 10 anos, infligir 3 ruptura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Energy Cycle",
+          "desc": "[[Bracket]] Ganhe +7 contagem de cobrança\nCom mais de 10 contagem de carga, Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                },
+                {
+                  "desc": "[[Bracket]] Com mais de 10 anos de contagem de carga, infligir 3 ruptura e +2 de contagem de ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Dimensional Rift",
+          "desc": "[[Bracket]] Com menos de 15 contagem de carga, consuma 10 contagem de carga para obter +1 de energia da moeda\n[[Bracket]] Consuma 15 contagem de cobrança para obter +2 de energia da moeda",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruptura"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruptura"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 ruptura a cada 5 contagem de cobrança consumida pela habilidade (máximo 6)"
+                },
+                {
+                  "desc": "[[Bracket]] Se a habilidade consumiu 15 contagem de cobrança no uso, infligir fenda bidimensional"
+                },
+                {
+                  "desc": "[[Suporte]] Ganhe 3 barreira de carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dimensional Rift",
+          "desc": "[[Bracket]] Com menos de 15 contagem de carga, consuma 10 contagem de carga para obter +1 de energia da moeda\n[[Bracket]] Consuma 15 contagem de cobrança para obter +2 de energia da moeda\n[[Bracket]] Se 15 contagem de cobrança tiver sido consumida, infligir +3 contagem de ruptura",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruptura"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruptura"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 ruptura a cada 5 contagem de cobrança consumida pela habilidade (máximo 9)"
+                },
+                {
+                  "desc": "[[Bracket]] Se a habilidade consumiu 15 contagem de cobrança no uso, infligir fenda bidimensional"
+                },
+                {
+                  "desc": "[[Suporte]] Ganhe 5 barreira de carga"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hollow Dimension",
+          "desc": "Potência base +1 por 5 contagem de carga (máximo 2)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hollow Dimension",
+          "desc": "Potência base +1 por 5 contagem de carga (máximo 2)\n[[Bracket]] +1 POLDAÇÃO Ao aplicar a ruptura pela primeira vez com um efeito de habilidade no próximo turno (max +3 por turno)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Impale",
+          "desc": "[[Bracket]] Ganhe +2 contagem de pontos",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Impale",
+          "desc": "[[Bracket]] Ganhe +2 contagem de pontos",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Impale",
+          "desc": "[[Bracket]] Ganhe +2 contagem de pontos",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Relentless Stabbing",
+          "desc": "[[Bracket]] Ganhe +2 contagem de pontos\nA mais de 5 posições, poder de conflito +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 Poise"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Relentless Stabbing",
+          "desc": "[[Bracket]] Ganhe +2 contagem de pontos\nA mais de 5 posições, poder de conflito +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 Poise"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] reutilize esta moeda (1 tempo máx)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Relentless Stabbing",
+          "desc": "[[Bracket]] Ganhe +2 contagem de pontos\nA mais de 5 posições, poder de conflito +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 Poise"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] reutilize esta moeda (3 vezes max)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ambush",
+          "desc": "[[Bracket]] Ganhe 5 equilíbrio",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 contagem de pontos"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir +4 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ambush",
+          "desc": "[[Bracket]] Ganhe 5 equilíbrio\nA mais de 7 posições, poder de moeda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 contagem de pontos"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir +6 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Evade",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expend Knowledge",
+          "desc": "Ganho ([[suporte]] x 2% do escudo máximo hp) se essa habilidade for descartada\n[[Suporte]] descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Expend Knowledge",
+          "desc": "Ganho ([[suporte]] x 3% do escudo máximo hp) se essa habilidade for descartada\n[[Suporte]] descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Expend Knowledge",
+          "desc": "Ganho ([[suporte]] x 3% do escudo máximo hp) se essa habilidade for descartada\n[[Suporte]] descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade\n[[Bracket]] Se o Target tiver 5+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior por [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Seal Shut",
+          "desc": "Ganho ([[suporte]] x 4% do escudo máximo hp) se essa habilidade for descartada\n[[Suporte]] descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual a [[bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual a [[bracket]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Seal Shut",
+          "desc": "Ganho ([[suporte]] x 5% do escudo máximo hp) se essa habilidade for descartada\n[[Suporte]] descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade\n[[Bracket]] Ganhe +3 Aggro a este slot de habilidade no próximo turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual a [[bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual a [[bracket]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Seal Shut",
+          "desc": "Ganho ([[suporte]] x 6% do escudo máximo hp) se essa habilidade for descartada\n[[Suporte]] descarte 1 habilidade da classificação mais alta em todos os slots de habilidade desta unidade\n[[Bracket]] Se o Target tiver 5+ [[suporte]], Power de moedas +1\n[[Bracket]] Ganhe +3 Aggro a este slot de habilidade no próximo turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual a [[bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual a [[bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Grace of Knowledge",
+          "desc": "Ganho ([[suporte]] x 9% do escudo máximo hp) se essa habilidade for descartada\n[[Bracket]] Ganhe +8 Aggro a este slot de habilidade no próximo turno",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Grace of Knowledge",
+          "desc": "Ganho ([[suporte]] x 12% do escudo máximo hp) se essa habilidade for descartada\n[[Bracket]] Ganhe +10 Aggro a este slot de habilidade no próximo turno\n[[Suporte]] a 50%- hp, potência de moedas +1",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fixated Study",
+          "desc": "[[Bracket]] descarte aleatoriamente 2 das habilidades desta unidade em ordem crescente de fileiras de todos os seus slots de habilidade\n[[Bracket]] Ganhe +3 Aggro a este slot de habilidade no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fixated Study",
+          "desc": "[[Bracket]] descarte aleatoriamente 2 das habilidades desta unidade em ordem crescente de fileiras de todos os seus slots de habilidade\n[[Bracket]] Ganhe +5 Agro a este slot de habilidade no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paint Over",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem para 1 dos seguintes efeitos: [[Bracket]], [[Bracket]], [[Bracket]], [[Bracket]] ou [[Bracket]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Paint Over",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem para 1 dos seguintes efeitos: [[Bracket]], [[Bracket]], [[Bracket]], [[Bracket]] ou [[Bracket]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Paint Over",
+          "desc": "Se o Target tiver 6+ [[suporte]], Clash Power +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem para 1 dos seguintes efeitos: [[Bracket]], [[Bracket]], [[Bracket]], [[Bracket]] ou [[Bracket]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Pointillism",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] 20% chance de reutilizar a moeda uma vez. +20% mais chance de reutilizar a moeda para todos os tipos de efeito negativo no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 contagem para 1 dos seguintes efeitos: [[Bracket]], [[Bracket]], [[Bracket]], [[Bracket]] ou [[Bracket]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Sanguine Pointillism",
+          "desc": "Se o Target tiver 6+ [[suporte]], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] 20% chance de reutilizar a moeda uma vez. +20% mais chance de reutilizar a moeda para todos os tipos de efeito negativo no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 contagem para 1 dos seguintes efeitos: [[Bracket]], [[Bracket]], [[Bracket]], [[Bracket]] ou [[Bracket]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sanguine Pointillism",
+          "desc": "Clash Power +1 para cada 3 [[suporte]] no alvo (máximo 2)\nPower de moedas +1 para cada 3 [[suporte]] contagem no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] 40% chance de reutilizar a moeda. +20% mais chance de reutilizar a moeda para todos os tipos de efeito negativo no alvo (2 vezes máximo por habilidade)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 contagem para 1 dos seguintes efeitos: [[Bracket]], [[Bracket]], [[Bracket]], [[Bracket]] ou [[Bracket]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Hematic Coloring",
+          "desc": "Se o Target tiver 6+ [[suporte]], Clash Power +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[bracket]] contagem. Se o alvo tiver mais de 4 tipos de efeitos negativos, infligir +2 adicional [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 contagem para 1 dos seguintes efeitos: [[Bracket]], [[Bracket]], [[Bracket]], [[Bracket]] ou [[Bracket]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]. Se o Target tiver mais de 4 tipos de efeitos negativos, infligir 2 adicionais [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 potência para 1 dos seguintes efeitos: [[bracket]], [[backet]], [[bracket]], [[bracket]] ou [[backet]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Acordo +15% mais danos para todos os tipos de efeito negativo no alvo (máximo 75%)"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo for escalonado ou derrotado, inflige 2 potência para 1 dos seguintes efeitos sobre 1 inimigo com os menores tipos de efeitos negativos: [[bracket]], [[backet]], [[suporte]], [[backet]], [[backet]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hematic Coloring",
+          "desc": "Clash Power +1 para cada 3 [[suporte]] no alvo (máximo 2)\nPower de moedas +1 para cada 3 [[suporte]] contagem no alvo (máximo 2)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[bracket]] contagem. Se o alvo tiver mais de 3 tipos de efeitos negativos, infligir +2 adicional [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 contagem para 1 dos seguintes efeitos: [[Bracket]], [[Bracket]], [[Bracket]], [[Bracket]] ou [[Bracket]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]. Se o Target tiver mais de 3 tipos de efeitos negativos, infligir 2 adicionais [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 potência para 1 dos seguintes efeitos: [[bracket]], [[backet]], [[bracket]], [[bracket]] ou [[backet]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Acordo +25% mais danos para todos os tipos de efeito negativo no alvo (máximo 125%)"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo for escalonado ou derrotado, infliga 2 potência para 1 dos seguintes efeitos em 2 inimigos com os menores tipos de efeitos negativos: [[bracket]], [[backet]], [[bracket]], [[backet]], [[backet]]. Efeito selecionado aleatoriamente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Beat the Brush",
+          "desc": "Se o alvo tiver 6+ [[suporte]], potência base +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Beat the Brush",
+          "desc": "Potência base +1 para cada 1 [[suporte]] no alvo (máximo 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Celebration for the Departed",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Celebration for the Departed",
+          "desc": "Se a soma do [[suporte] do alvo] e ambos [[suporte]] for 6 ou superior, poder de moeda +1\n[[Bracket]] infligir +2 [[backet]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Celebration for the Departed",
+          "desc": "[[Estilo de tag]] em 10+ [[backet]], poder de conflito +1 [[estilo de tag]]]\nSe a soma do [[suporte] do alvo] e ambos [[suporte]] for 6 ou superior, poder de moeda +1\n[[Bracket]] infligir +2 [[backet]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Solemn Lament for the Living",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 5 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Solemn Lament for the Living",
+          "desc": "Se a soma do [[suporte] do alvo] e ambos [[suporte]] for 6 ou superior, poder de moeda +1\n[[Bracket]] infligir +1 [[backet]] contagem\n[[Bracket]] Ganho (ressonância mais alta) de [[Bracket]] (Máx 6)\n- Se o referido resson. foi um a-reson., Ganho (maior ressonância x 2) de [[suporte]] (máximo 12)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 5 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Solemn Lament for the Living",
+          "desc": "Em mais de 10 [[suporte]], Power de conflito +1\n[[Estilo de tag-estilo]] Poder de moeda +1 para cada 6 valor [[estilo de tag]] da soma do [[suporte] do alvo] e ambos [[bracket]] [[estilo tag]] (max 2) [[estilo de tag]]]\n[[Bracket]] infligir +1 [[backet]] contagem\n[[Bracket]] Ganho (ressonância mais alta) de [[Bracket]] (Máx 6)\n- Se o referido resson. foi um a-reson., Ganho (maior ressonância x 2) de [[suporte]] (máximo 12)\n- Se o referido resson. estava em mais de 4 a-reson., [[suporte]] em vez disso",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 5 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Goodbye Now, A Sorrow In You",
+          "desc": "Power base +1 para cada 10 valor de [[suporte]] (máximo 2)\n[[Bracket]] infligir +3 [[backet]] contagem\n[[Bracket]] [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 6 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma tudo de [[suporte]] em si mesmo"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                },
+                {
+                  "desc": "[[Bracket]] Deal +2% mais danos para cada valor de [[suporte]] consumido por essa habilidade"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir danos da escuridão igual a \"All\" [[Bracket]] no alvo\n- \"All\" = a soma dos vivos e dos partidos no alvo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Goodbye Now, A Sorrow In You",
+          "desc": "Power base +1 para cada [[estilo tag-estilo]] 5 [[estilo de tag]]\nPoder de moeda +1 para cada 6 valor da soma do [[suporte]] do alvo e ambos [[suporte]] (máximo 2)\n[[Bracket]] infligir +3 [[backet]] contagem\n[[Bracket]] [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 1 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma 6 de [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Consuma tudo de [[suporte]] em si mesmo"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[suporte]] igual a [[backet]] consumido"
+                },
+                {
+                  "desc": "[[Bracket]] Deal +4% mais danos para cada valor de [[suporte]] consumido por essa habilidade"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir danos da escuridão igual a \"All\" [[Bracket]] no alvo\n- \"All\" = a soma dos vivos e dos partidos no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "FromTheCoffinAButterflyTakesFlight",
+          "desc": "[[Suporte]] [[suporte]] (uma vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "FromTheCoffinAButterflyTakesFlight",
+          "desc": "[[Suporte]] [[suporte]] (uma vez por turno)\n[[Bracket]] Ganhe escudo igual a (a soma de ambos [[suporte]] no alvo selecionado)% HP. (no máximo 20% por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Próximo turno\n[[Bracket]] Se o Target tiver 15+ [[suporte]] e 3+ [[bracket]] contagem: essa habilidade não infliga [[backet]] com seus efeitos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
+          "desc": "[[Bracket]] No Clash Lose, obtenha o poder final igual ao número de habilidades direcionadas a esta unidade (Máx 2)\n[[Bracket]] Ganhe +3 [[Bracket]] Próximo turno\n[[Bracket]] Se o Target tiver 15+ [[suporte]] e 3+ [[bracket]] contagem: essa habilidade não infliga [[backet]] com seus efeitos\n[[Bracket]] [[suporte]] potência infligida por essa habilidade +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
+          "desc": "[[Bracket]] No Clash Lose, obtenha o poder final igual ao número de habilidades direcionadas a esta unidade (Máx 3)\n[[Bracket]] Ganhe +3 [[Bracket]] Próximo turno\n[[Bracket]] Se o Target tiver 15+ [[suporte]] e 3+ [[bracket]] contagem: essa habilidade não infliga [[backet]] com seus efeitos\n[[Bracket]] [[suporte]] potência infligida por essa habilidade +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Próximo turno\n[[Bracket]] Se o Target tiver 15+ [[bracket]] e 3+ [[bracket]] contagem: essa habilidade não inflige [[backet]] contagem com seus efeitos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
+          "desc": "[[Bracket]] No Clash Lose, obtenha o poder final igual ao número de habilidades direcionadas a esta unidade (Máx 3)\n[[Bracket]] Ganhe +3 [[Bracket]] Próximo turno\n[[Bracket]] Se o Target tiver 15+ [[bracket]] e 3+ [[bracket]] contagem: essa habilidade não inflige [[backet]] contagem com seus efeitos\n[[Bracket]] [[Bracket]] Contagem infligida por essa habilidade +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
+          "desc": "[[Bracket]] [[estilo de tag]] On Clash Lose, Gain (# de habilidades direcionadas a esta unidade x 2) Power (máximo 6) [[estilo de etiqueta]]\n[[Bracket]] Ganhe +4 [[Bracket]] Próxima turno\n[[Bracket]] Se o Target tiver 15+ [[bracket]] e 3+ [[bracket]] contagem: essa habilidade não inflige [[backet]] contagem com seus efeitos\n[[Bracket]] [[Bracket]] Contagem infligida por essa habilidade +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "the idiosyncrasies of the source may be utilized with greater flexibility",
+          "desc": "Negociar +0,5% mais danos para cada 1% faltando HP em si mesmo\n[[Bracket]] Power Base +1 para todas as habilidades que têm como alvo esta unidade (máx. 2)\n[[Bracket]] Ganhe 2 [[Bracket]] (uma vez por turno)\n[[Bracket]] Ganhe +6 [[Bracket]] Próximo turno\n[[Bracket]] Se o alvo tiver 15+ [[bracket]] e 3+ [[bracket]] contagem, essa habilidade não infliga [[bracket]] potência ou contagem com seus efeitos; Em vez disso, ganhe poder base +1\n[[Suporte]] Heal 30 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "the idiosyncrasies of the source may be utilized with greater flexibility",
+          "desc": "Negociar +0,8% mais danos para cada 1% faltando HP em si mesmo\n[[Bracket]] Power Base +1 para todas as habilidades que têm como alvo esta unidade (máx. 3)\n[[Bracket]] Ganhe 3 [[suporte]] (uma vez por turno)\n[[Bracket]] Ganhe +8 [[Bracket]] Próximo turno\n[[Bracket]] Se o alvo tiver 15+ [[bracket]] e 3+ [[bracket]] contagem, essa habilidade não infliga [[bracket]] potência ou contagem com seus efeitos; Em vez disso, ganhe poder base +1\n[[Suporte]] Heal 30 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]] (uma vez por turno)\n[[Bracket]] Ganhe +6 [[Bracket]] Próximo turno\n[[Bracket]] Se o alvo tiver 15+ [[bracket]] e 3+ [[bracket]] contagem, essa habilidade não inflige [[backet]] contando com seus efeitos; Em vez disso, ganhe poder base +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Yet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured",
+          "desc": "[[Bracket]] Ganhe 3 [[suporte]] (uma vez por turno)\n[[Bracket]] Ganhe +8 [[Bracket]] Próximo turno\n[[Bracket]] Se o alvo tiver 15+ [[bracket]] e 3+ [[bracket]] contagem, essa habilidade não inflige [[backet]] contando com seus efeitos; Em vez disso, ganhe poder base +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flame Hew",
+          "desc": "Se o Target tiver 6+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Flame Hew",
+          "desc": "Se o Target tiver [[estilo tag]] 3 [[estilo de tag]] + [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Flame Hew",
+          "desc": "[[Estilo tag-estilo]] Poder de moeda +1 para cada 3 [[suporte]] no alvo (máximo 2) [[estilo de tag]]]\n[[Estilo de tag-estilo]] Negância +10% mais danos a cada 10 [[suporte]] no alvo (máximo 30%) [[estilo de etiqueta]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frontal Assault",
+          "desc": "Se o Target tiver 6+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 6+ [[Bracket]], infligir +2 [[Bracket]] contagem no alvo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Frontal Assault",
+          "desc": "Poder de moeda +1 para cada 6 [[suporte]] no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "OFERECE +2,5% mais danos para cada [[suporte]] no alvo (no máximo 30%)"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 6+ [[Bracket]], infligir +2 [[bracket]] contagem no alvo [[estilo tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Frontal Assault",
+          "desc": "Poder de moeda +1 para cada 6 [[suporte]] no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +[[estilo de tag]] 5 [[estilo de tag]]% mais dano para cada [[suporte]] no alvo (max [[estilo tag-estilo]] 60 [[estilo tag]]%)"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 6+ [[Bracket]], infligir +2 [[bracket]] contagem no alvo [[estilo tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Flow of the Sword",
+          "desc": "Se o Target tiver 6+ [[suporte]], Power de moedas +1\nOFERECIMENTO +10% MAIS DANOS PARA APA TODOS OS 6 [[Bracket]] no alvo (máximo 30%)\n[[Bracket]] Heal 10 SP para 1 outro aliado com o mínimo SP\n- Se esse ataque matou o alvo, ou se o alvo tivesse 10+ [[suporte]], curar 1 mais aliado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Acordo +2% mais danos para cada [suporte]] no alvo (máximo 60%)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir danos à afinidade da ira igual à potência [[backet]] no alvo. (MAX 30) Reduza a contagem de [[suporte]] por 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Flow of the Sword",
+          "desc": "[[Estilo tag-estilo]] Poder de moeda +1 para cada 6 [[suporte]] no alvo (máximo 2) [[estilo de tag]]]\nOFERECIMENTO +10% MAIS DANOS PARA APA TODOS OS 6 [[Bracket]] no alvo (máximo 30%)\n[[Bracket]] Heal [[estilo de tag]] 15 [[estilo de tag]] SP para 1 outro aliado com o menor SP\n- Se esse ataque matou o alvo, ou se o alvo tivesse 10+ [[suporte]], curar 1 mais aliado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Acordo +2% mais danos para cada [suporte]] no alvo (máximo 60%)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir danos à afinidade da ira igual à potência [[backet]] no alvo. (MAX 30) Reduza a contagem de [[suporte]] por 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flame Counter",
+          "desc": "[[Bracket]] Ganhe escudo igual a [[suporte]] no alvo (máximo 10, uma vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]\n- Se esta unidade tiver escudo, infligir 1 [[suporte] adicional]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]\n- Se esta unidade tiver escudo, infligir 1 [[suporte] adicional]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Flame Counter",
+          "desc": "[[Bracket]] Ganhe escudo igual a [[suporte]] no alvo (máximo 15, uma vez por turno)\n[[Bracket]] Se o Target tiver 10+ [[suporte]], acordo + 10% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]\n- Se esta unidade tiver escudo, infligir 1 [[suporte] adicional]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]\n- Se esta unidade tiver escudo, infligir 1 [[suporte] adicional]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

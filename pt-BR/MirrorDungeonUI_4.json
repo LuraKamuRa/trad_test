@@ -1,0 +1,1184 @@
+{
+    "dataList": [
+        {
+            "id": "dungeon_selectable",
+            "content": "Selecionável"
+        },
+        {
+            "id": "dungeon_battle_reawrd_card_selection",
+            "content": "Selecione o cartão de recompensa Encounter"
+        },
+        {
+            "id": "dungeon_opportunity_to_select_rewards_remaining",
+            "content": "Você ainda não selecionou uma recompensa.\nContinuar sem escolher uma recompensa?"
+        },
+        {
+            "id": "mirrordungeon_appear_able_theme_pack_title",
+            "content": "{0} - Pacotes temáticos em destaque"
+        },
+        {
+            "id": "mirrordungeon_theme_pack_boss",
+            "content": "Chefe em destaque"
+        },
+        {
+            "id": "mirrordungeon_theme_pack_ego_gift",
+            "content": "Presentes E.G.O em destaque"
+        },
+        {
+            "id": "mirrordunge_theme_pack_history_button_label",
+            "content": "Compêndio do pacote temático"
+        },
+        {
+            "id": "simulation_difficulty",
+            "content": "Simulação"
+        },
+        {
+            "id": "ritournelle_difficulty",
+            "content": "Refrão"
+        },
+        {
+            "id": "enter_simulation_difficulty",
+            "content": "Entrar na Simulação"
+        },
+        {
+            "id": "enter_ritournelle_difficulty",
+            "content": "Entra o coro"
+        },
+        {
+            "id": "mirror_dungeon_progress_text_4_normal",
+            "content": "Piso de Simulação {0}"
+        },
+        {
+            "id": "mirror_dungeon_progress_text_4_hard",
+            "content": "Coro Piso {0}"
+        },
+        {
+            "id": "mirror_dungeon_progress_text_before_exploration",
+            "content": "Antes da entrada"
+        },
+        {
+            "id": "mirror_dungeon4_entrance_hard_hint_after_release",
+            "content": "<Condições de desbloqueio>\nLimpar 5-36\nLimpar Espelho dos Ventos Uivantes\nDificuldade da Simulação"
+        },
+        {
+            "id": "dungeon_encounter_guide_elite_battle",
+            "content": "Encontro de Elite"
+        },
+        {
+            "id": "purchase_ego_gift",
+            "content": "Compre presentes E.G.O"
+        },
+        {
+            "id": "purchase_personality_skill_desc",
+            "content": "Gastar <color=#f8c200>{0}</color> de custo para substituir esta habilidade?"
+        },
+        {
+            "id": "mirror_dungeon_4_start_buff_name",
+            "content": "Caminho das Estrelas"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_1",
+            "content": "Olho da Tempestade"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_2",
+            "content": "Trovão"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_3",
+            "content": "Vento cortante"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_4",
+            "content": "Ventos favoráveis"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_5",
+            "content": "Cascata de Levin"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_6",
+            "content": "Tempestade se aproximando"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_7",
+            "content": "Tornado"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_8",
+            "content": "Toque da véspera de Ano Novo"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_9",
+            "content": "Tênue anoitecer"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_10",
+            "content": "Noite Polar Negra"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_11",
+            "content": "Ainda Amanhecer"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_12",
+            "content": "Amanhecer de inverno"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_13",
+            "content": "Cidade sem noite"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_14",
+            "content": "Nuvens de ovelha"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_15",
+            "content": "Grande Mar de Nuvens"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_16",
+            "content": "Vento Catabático"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_17",
+            "content": "Gosto Feroz"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_18",
+            "content": "Caminho do Vento Oeste"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_19",
+            "content": "Corrente ascendente"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_19_1",
+            "content": "Chuva noturna"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_20",
+            "content": "Festa do Relâmpago"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_21",
+            "content": "Trovão iminente"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_22",
+            "content": "Névoa nebulosa"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_23",
+            "content": "Chuva Itinerante"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_24",
+            "content": "Corrente sem fim"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_25",
+            "content": "Horizonte de eventos"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_26",
+            "content": "Via Láctea"
+        },
+        {
+            "id": "mirror_dungeon_4_buffs_title_27",
+            "content": "Cometa iminente"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_100",
+            "content": "[Limitado]\nGanhe 200 Starlight ao gravar esta estrela (apenas 1 vez, não afetado pelo status de ativação)"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_101",
+            "content": "[Presente E.G.O Inicial]\nApresente 7 novos Presentes E.G.O ao pool de Presentes E.G.O Inicial"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1011",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria de presentes Burn E.G.O"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1012",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria Bleed E.G.O Gifts"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1013",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria Presentes Tremor E.G.O"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1014",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria Presentes Rupture E.G.O"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1015",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria Presentes E.G.O afundando"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1016",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria Poise E.G.O Gifts"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1017",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria de presentes Charge E.G.O"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_102",
+            "content": "[Presente E.G.O Inicial]\nApresente 6 novos Presentes E.G.O ao pool de Presentes E.G.O Inicial"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1021",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria Slash E.G.O Gifts"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1022",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria Pierce E.G.O Gifts"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1023",
+            "content": "[Presente inicial E.G.O]\nDesbloqueia a categoria Blunt E.G.O Gifts"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1024",
+            "content": "(NÃO USADO)"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_103",
+            "content": "[Universal]\nGanhe +50 de Custo Inicial"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1031",
+            "content": "[Universal]\nGanhe +50 de Custo Inicial"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1032",
+            "content": "[Universal]\nGanhe +50 de Custo Inicial"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1033",
+            "content": "[Universal]\nGanhe +50 de Custo Inicial"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_104",
+            "content": "[Universal]\nApresentar 16 novos presentes Tier 2 E.G.O para as lojas, resultados de fusão de presentes e pool de recompensas de encontro"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1041",
+            "content": "[Presente E.G.O Inicial]\nNúmero de Presentes E.G.O que aparecem na Categoria Burn +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1042",
+            "content": "[Presente E.G.O Inicial]\nNúmero de Presentes E.G.O que aparecem na Categoria Sangramento +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1043",
+            "content": "[Presente E.G.O Inicial]\nNúmero de Presentes E.G.O que aparecem na Categoria Tremor +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1044",
+            "content": "[Presente E.G.O Inicial]\nNúmero de Presentes E.G.O que aparecem na Categoria Ruptura +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1045",
+            "content": "[Presente inicial de E.G.O]\nNúmero de presentes de E.G.O que aparecem na categoria Sinking +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1046",
+            "content": "[Presente E.G.O Inicial]\nNúmero de Presentes E.G.O que aparecem na Categoria Poise +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1047",
+            "content": "[Presente E.G.O Inicial]\nNúmero de Presentes E.G.O que aparecem na Categoria de Carga +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_105",
+            "content": "[Universal]\nApresentar 28 novos presentes E.G.O de nível 3 a 4 nas lojas, resultados de fusão de presentes e pool de recompensas de encontro"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1051",
+            "content": "[Presente E.G.O Inicial]\nNúmero de Presentes E.G.O que aparecem na Categoria Slash +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1052",
+            "content": "[Presente E.G.O Inicial]\nNúmero de Presentes E.G.O que aparecem na Categoria Pierce +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1053",
+            "content": "[Presente inicial de E.G.O]\nNúmero de presentes de E.G.O que aparecem na categoria Blunt +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1054",
+            "content": "[Presente E.G.O Inicial]\nNúmero de Presentes E.G.O que aparecem na Categoria Aleatória +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_106",
+            "content": "[Lojas]\nNúmero de presentes E.G.O vendidos em lojas +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_111",
+            "content": "[Lojas]\nVende presentes E.G.O de nível superior"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1111",
+            "content": "[Lojas]\nVende presentes E.G.O de nível superior"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1112",
+            "content": "[Lojas]\nVende presentes E.G.O de nível superior"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1113",
+            "content": "[Lojas]\nVende presentes E.G.O de nível superior"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_112",
+            "content": "[Lojas]\nNúmero de presentes E.G.O vendidos em lojas +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1121",
+            "content": "[Lojas]\nCusto de atualização -20%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1122",
+            "content": "[Lojas]\nCusto de atualização -20%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_113",
+            "content": "[Lojas]\nCusto da compra do presente E.G.O -5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1131",
+            "content": "[Lojas]\nCusto da compra do presente E.G.O Nível 1 -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1132",
+            "content": "[Lojas]\nNível 2E.G.O Custo da compra de presente -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1133",
+            "content": "[Lojas]\nCusto da compra do presente Tier 3 E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1134",
+            "content": "[Lojas]\nCusto da compra de presente E.G.O Nível 4+ -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_114",
+            "content": "[Lojas]\nCusto da compra do presente E.G.O -5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1141",
+            "content": "[Lojas]\nBurn E.G.O Custo da compra do presente -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1142",
+            "content": "[Lojas]\nCusto da compra do presente Bleed E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1143",
+            "content": "[Lojas]\nCusto da compra do presente Tremor E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1144",
+            "content": "[Lojas]\nRupture E.G.O Custo da compra do presente -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1145",
+            "content": "[Lojas]\nAfundando E.G.O. Custo da compra do presente -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1146",
+            "content": "[Lojas]\nCusto da compra do presente Poise E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1147",
+            "content": "[Lojas]\nCusto da compra do presente Charge E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_115",
+            "content": "[Lojas]\nCusto da compra do presente E.G.O -5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1151",
+            "content": "[Lojas]\nCusto da compra do presente Slash E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1152",
+            "content": "[Lojas]\nPierce E.G.O Custo da compra do presente -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1153",
+            "content": "[Lojas]\nCusto da compra do presente Blunt E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1154",
+            "content": "[Lojas]\nCusto de compra de presente E.G.O sem palavras-chave -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_116",
+            "content": "[Lojas]\nNúmero de presentes E.G.O vendidos em lojas +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1161",
+            "content": "[Lojas]\nVenda de presentes E.G.O Nível 1 Custo +20%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1162",
+            "content": "[Lojas]\nVenda de presentes E.G.O Nível 2 Custo +20%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1163",
+            "content": "[Lojas]\nVenda de presentes E.G.O Nível 3 Custo +20%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1164",
+            "content": "[Lojas]\nNível 4+ E.G.O Gift sale Custo +20%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1165",
+            "content": "[Lojas]\nCusto de Substituição de Habilidade -20%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1166",
+            "content": "[Lojas]\nCusto de Substituição de Habilidade -20%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_121",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1211",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente E.G.O. de nível 1 -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1212",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente E.G.O. de nível 2 -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1213",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente E.G.O. de nível 3 -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1214",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente E.G.O. de nível 4+ -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_122",
+            "content": "[Lojas]\n20% de chance de uma atualização gratuita"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_123",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1231",
+            "content": "[Paradas de descanso]\nQueimar E.G.O. Melhorar o custo do presente -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1232",
+            "content": "[Paradas de descanso]\nPresente de E.G.O. de Sangramento Melhora Custo -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1233",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente Tremor E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1234",
+            "content": "[Paradas de descanso]\nRuptura E.G.O Presente Melhorar Custo -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1235",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente E.G.O afundando -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1236",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente do Poise E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1237",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente Charge E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_124",
+            "content": "[Paradas de descanso]\n20% de chance de reembolsar o Custo de Aprimoramento"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_125",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente E.G.O -10%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1251",
+            "content": "[Paradas de descanso]\nCorte E.G.O Gift Melhorar Custo -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1252",
+            "content": "[Paradas de descanso]\nPierce E.G.O Gift Enhance Custo -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1253",
+            "content": "[Paradas de descanso]\nCusto de melhoria de presente Blunt E.G.O -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1254",
+            "content": "[Paradas de descanso]\nPresente E.G.O sem palavras-chave Melhoria de custo -7,5%"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_126",
+            "content": "[Universal]\nGanhe +10% a mais de Custo após vencer um Encontro de Combate"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1261",
+            "content": "[Universal]\nGanhe +10% mais Custo após vencer um Encontro Regular"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1262",
+            "content": "[Universal]\nGanhe +10% mais Custo após vencer um Encontro Focado"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1263",
+            "content": "[Universal]\nGanhe +10% mais Custo após vencer um Encontro de Elite"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1264",
+            "content": "[Universal]\nGanhe +10% mais Custo após vencer um Encontro com Chefe"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_131",
+            "content": "[Tema do Piso]\nNúmero de Escolhas de Tema do Piso +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_132",
+            "content": "[Encontros]\nCausa +2,5% de dano"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1321",
+            "content": "[Encontros]\nCausa +2,5% de dano"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1322",
+            "content": "[Encontros]\nCausa +2,5% de dano"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1323",
+            "content": "[Encontros]\nCausa +2,5% de dano"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1324",
+            "content": "[Encontros]\nNível de Ofensa +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1325",
+            "content": "[Encontros]\nNível de Ofensa +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_133",
+            "content": "[Cartas de Recompensa de Encontro]\nNúmero de Escolhas de Cartas de Recompensa de Encontro +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_134",
+            "content": "[Encontros]\nRecebe -2,5% de dano"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1341",
+            "content": "[Encontros]\nRecebe -2,5% de dano"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1342",
+            "content": "[Encontros]\nRecebe -2,5% de dano"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1343",
+            "content": "[Encontros]\nRecebe -2,5% de dano"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1344",
+            "content": "[Encontros]\nNível de Defesa +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1345",
+            "content": "[Encontros]\nNível de Defesa +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1346",
+            "content": "[Encontros]\nNível de Defesa +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_135",
+            "content": "[Tema do Piso]\nNúmero de Escolhas de Tema do Piso +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_136",
+            "content": "[Encontros]\n+1 para todos os recursos E.G.O no início da corrida Mirror Dungeon"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1361",
+            "content": "[Encontros]\n+1 para todos os recursos E.G.O no início da corrida Mirror Dungeon"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1362",
+            "content": "[Encontros]\nVelocidade Máxima +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_1363",
+            "content": "[Encontros]\nVelocidade Máxima +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_141",
+            "content": "Seleção de presentes E.G.O +1"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_142",
+            "content": "Custo inicial +250"
+        },
+        {
+            "id": "md4_buffs_summaryDesc_14",
+            "content": "Após selecionar um presente E.G.O inicial, receba um presente E.G.O Nível 4 aleatório"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_desc_1",
+            "content": "Na Fusão de Dons E.G.O, <color=#f8c200>fundir Dons E.G.O com a mesma Palavra-chave</color> aumenta a chance de obter um Dom E.G.O da Palavra-chave correspondente."
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_desc_2",
+            "content": "A seguir estão as previsões do nível de presentes E.G.O ao fundir 2 presentes E.G.O."
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_diffrent_keyword",
+            "content": "Combinando presentes com diferentes palavras-chave"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_identical_keyword",
+            "content": "Combinando presentes com a mesma palavra-chave"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_two_same_keywords",
+            "content": "Combinando presentes quando apenas 2/3 presentes compartilham a palavra-chave"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_1_0",
+            "content": "Nível 1 + Nível 1 => Nível 1"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_1_1",
+            "content": "Nível 1 + Nível 1 => <color=#f8c200>Nível 2</color>"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_2_0",
+            "content": "Nível 1 + Nível 2 => Nível 1"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_2_1",
+            "content": "Nível 1 + Nível 2 => <color=#f8c200>Nível 2</color>"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_3_0",
+            "content": "Nível 1 + Nível 3 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_3_1",
+            "content": "Nível 1 + Nível 3 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_4_0",
+            "content": "Nível 2 + Nível 2 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_4_1",
+            "content": "Nível 2 + Nível 2 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_5_0",
+            "content": "Nível 2 + Nível 3 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_5_1",
+            "content": "Nível 2 + Nível 3 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_6_0",
+            "content": "Nível 3 + Nível 3 => Nível 3"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_1_desc_6_1",
+            "content": "Nível 3 + Nível 3 => Nível 3"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_desc_3",
+            "content": "A seguir estão as previsões de palavras-chave de presentes E.G.O ao fundir 2 presentes E.G.O."
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_2_desc_1_0",
+            "content": "Taxas para palavras-chave no ingrediente E.G.O Gifts: 37,5% cada\nTaxa combinada para todas as outras palavras-chave: 25%"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_2_desc_1_1",
+            "content": "Taxa para palavra-chave no ingrediente E.G.O Gifts: 75%\nTaxa combinada para todas as outras palavras-chave: 25%"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_desc_4",
+            "content": "A seguir estão as previsões do nível de presentes E.G.O ao fundir 3 presentes E.G.O."
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_1_0",
+            "content": "Nível 1 + Nível 1 + Nível 1 => Nível 1"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_1_1",
+            "content": "Nível 1 + Nível 1 + Nível 1 => <color=#f8c200>Nível 2</color>"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_2_0",
+            "content": "Nível 1 + Nível 1 + Nível 2 => Nível 1"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_2_1",
+            "content": "Nível 1 + Nível 1 + Nível 2 => <color=#f8c200>Nível 2</color>"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_3_0",
+            "content": "Nível 1 + Nível 1 + Nível 3 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_3_1",
+            "content": "Nível 1 + Nível 1 + Nível 3 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_4_0",
+            "content": "Nível 1 + Nível 2 + Nível 2 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_4_1",
+            "content": "Nível 1 + Nível 2 + Nível 2 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_5_0",
+            "content": "Nível 1 + Nível 2 + Nível 3 => Nível 2"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_5_1",
+            "content": "Nível 1 + Nível 2 + Nível 3 => <color=#f8c200>Nível 3</color>"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_6_0",
+            "content": "Nível 1 + Nível 3 + Nível 3 => Nível 3"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_6_1",
+            "content": "Nível 1 + Nível 3 + Nível 3 => Nível 3"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_7_0",
+            "content": "Nível 2 + Nível 2 + Nível 2 => Nível 3"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_7_1",
+            "content": "Nível 2 + Nível 2 + Nível 2 => Nível 3"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_8_0",
+            "content": "Nível 2 + Nível 2 + Nível 3 => Nível 3"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_8_1",
+            "content": "Nível 2 + Nível 2 + Nível 2 => Nível 3"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_9_0",
+            "content": "Nível 2 + Nível 3 + Nível 3 => Nível 3"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_9_1",
+            "content": "Nível 2 + Nível 3 + Nível 3 => <color=#f8c200>Nível 4</color>"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_10_0",
+            "content": "Nível 3 + Nível 3 + Nível 3 => Nível 4"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_3_desc_10_1",
+            "content": "Nível 3 + Nível 3 + Nível 3 => Nível 4"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_desc_5",
+            "content": "A seguir estão as previsões de palavras-chave de presentes E.G.O ao fundir 3 presentes E.G.O."
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_4_desc_1_0",
+            "content": "Taxas para palavras-chave no ingrediente E.G.O Gifts: 25% cada\nTaxa combinada para cada outra palavra-chave: 25%"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_4_desc_1_1",
+            "content": "Classifique a palavra-chave no ingrediente E.G.O. Presentes que compartilham a palavra-chave: 50%\n\nClassifique a palavra-chave no ingrediente E.G.O. Presente que não compartilha a palavra-chave: 25%\n\nTaxa combinada para todas as outras palavras-chave: 25%"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_table_4_desc_1_2",
+            "content": "Taxa para palavra-chave no ingrediente E.G.O Gifts: 75%\n\nTaxa combinada para todas as outras palavras-chave: 25%"
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_desc_6",
+            "content": "※ No entanto, se não houver mais Presentes E.G.O disponíveis que se enquadrem nas condições acima, a Fusão de Presentes poderá resultar em Presentes E.G.O de diferentes Níveis ou Palavras-chave."
+        },
+        {
+            "id": "mirror_ego_gift_combine_guide_popup_title",
+            "content": "Guia de Fusão"
+        },
+        {
+            "id": "mirrordungeon_select_theme_pack_at_floor",
+            "content": "Selecione o pacote temático do piso {0}"
+        },
+        {
+            "id": "mirrordungeon_ego_gift_appear_rate_up",
+            "content": "Avalie acima"
+        },
+        {
+            "id": "mirrordungeon_ego_gift_appearable",
+            "content": "Apresentou"
+        },
+        {
+            "id": "mirrordungeon_selected_floor_theme_label",
+            "content": "Tema do piso selecionado"
+        },
+        {
+            "id": "mirrordungeon_ego_gift_sort_by_tier",
+            "content": "Por nível"
+        },
+        {
+            "id": "mirrordungeon_ego_gift_sort_by_keyword",
+            "content": "Por palavra-chave"
+        },
+        {
+            "id": "side_content_cannot_acquire_specific_ego_gift",
+            "content": "Não há presentes E.G.O de nível {0} disponíveis no seu tema de andar atual."
+        },
+        {
+            "id": "side_content_free_refresh",
+            "content": "[Novo Folheto de Lançamento] Buff Ativado\nCusto de Renovação Reembolsado"
+        },
+        {
+            "id": "side_content_egogift_free_upgrade",
+            "content": "[Token de Reembolso] Buff Ativado\nCusto de Melhoria Reembolsado"
+        },
+        {
+            "id": "mirror_dungeon_finished_panel_floor_theme",
+            "content": "Tema do piso"
+        },
+        {
+            "id": "mirror_dungeon_finished_panel_battle_reward",
+            "content": "Cartas de Recompensa de Encontro"
+        },
+        {
+            "id": "mirror_dungeon_finished_panel_used",
+            "content": "Custo da luz das estrelas"
+        },
+        {
+            "id": "mirror_dungeon_appeared_ego_gift",
+            "content": "Presentes E.G.O em destaque"
+        },
+        {
+            "id": "mirror_dungeon_select_theme_drag",
+            "content": "Selecione um pacote\nE puxe"
+        },
+        {
+            "id": "mirror_dungeon_cannot_acquired_ego_gift",
+            "content": "Não ganhei um presente E.G.O"
+        },
+        {
+            "id": "simulation_difficulty_short",
+            "content": "Simulação"
+        },
+        {
+            "id": "ritournelle_difficulty_short",
+            "content": "Refrão"
+        },
+        {
+            "id": "easy_difficulty_simple",
+            "content": "Fácil"
+        },
+        {
+            "id": "refresh_shop_item_by_chip_warning",
+            "content": "Consumir Starlight para Refresh?\n\n<size=70%>※「Starlight Refresh」usa <color=#990000>Starlight possuída no início da Dungeon</color> e <color=#990000>qualquer Starlight obtida durante a execução da Dungeon</color>.\nNo entanto, você não pode gastar mais Starlight do que você tem.</size>\n\n<size=85%>Starlight possuída no início da Dungeon: {0}</size>"
+        },
+        {
+            "id": "mirror_dungeon_theme_ego_gift_popup_valid_atk",
+            "content": "Afinidades Efetivas"
+        },
+        {
+            "id": "mirror_dungeon_shop_keyword_refresh",
+            "content": "Atualização de palavras-chave"
+        },
+        {
+            "id": "mirror_dungeon_shop_refresh_by_chip",
+            "content": "Atualização da luz das estrelas"
+        },
+        {
+            "id": "mirror_dungeon_shop_keyword_refresh_popup_title",
+            "content": "Loja - Atualização de palavras-chave"
+        },
+        {
+            "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
+            "content": "'Atualização de palavra-chave' para aumentar as chances de obter presentes E.G.O da categoria de palavra-chave selecionada na Loja.\nGastar {0} Custo para atualização de palavra-chave?"
+        },
+        {
+            "id": "ego_gift_combine_ui_plz_select_keyword",
+            "content": "Selecione uma palavra-chave."
+        },
+        {
+            "id": "ego_gift_select_keyword_ui_title",
+            "content": "Fusão - Seleção de palavras-chave"
+        },
+        {
+            "id": "ego_gift_select_keyword_ui_desc",
+            "content": "Escolha uma palavra-chave na qual você deseja se fundir."
+        },
+        {
+            "id": "new_ego_gift_combine_guide_desc_1",
+            "content": "A seguir está a previsão da palavra-chave de presente E.G.O depois que você selecionar a palavra-chave na qual deseja se fundir na tela <Fusão - Seleção de palavra-chave>."
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_1_col_1_title",
+            "content": "Número de ingredientes E.G.O Gifts usados ​​para Fusion"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_1_col_2_title",
+            "content": "Tarifas para um presente E.G.O com sua palavra-chave selecionada"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_1_desc_1_0",
+            "content": "2 presentes"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_1_desc_1_1",
+            "content": "60%"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_1_desc_2_0",
+            "content": "3 presentes"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_1_desc_2_1",
+            "content": "90%"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_diffrent_keyword_notice",
+            "content": "※ Palavras-chave no ingrediente Presentes E.G.O não afetam o resultado da Fusão."
+        },
+        {
+            "id": "new_ego_gift_combine_guide_desc_2",
+            "content": "A seguir estão as previsões de Nível de Presentes E.G.O ao fundir 2 Presentes E.G.O. Observe que você pode receber até Nível 3 de Presentes E.G.O ao fundir 2 Presentes E.G.O juntos."
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_2_col_1_title",
+            "content": "Níveis de presentes do Ingrediente E.G.O"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_2_col_2_title",
+            "content": "Previsão de níveis de doação E.G.O"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_2_desc_1_0",
+            "content": "Nível 1 + Nível 1"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_2_desc_2_0",
+            "content": "Nível 1 + Nível 2"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_2_desc_3_0",
+            "content": "Nível 1 + Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_2_desc_4_0",
+            "content": "Nível 2 + Nível 2"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_2_desc_5_0",
+            "content": "Nível 2 + Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_2_desc_6_0",
+            "content": "Nível 3 + Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_desc_3",
+            "content": "A seguir estão as previsões de Nível de Presentes E.G.O ao fundir 3 Presentes E.G.O. Observe que você pode receber até Nível 4 de Presentes E.G.O ao fundir 3 Presentes E.G.O juntos."
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_col_1_title",
+            "content": "Combinando presentes com diferentes palavras-chave"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_col_2_title",
+            "content": "Previsão de níveis de doação E.G.O"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_1_0",
+            "content": "Nível 1 + Nível 1 + Nível 1"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_2_0",
+            "content": "Nível 1 + Nível 1 + Nível 2"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_3_0",
+            "content": "Nível 1 + Nível 1 + Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_4_0",
+            "content": "Nível 1 + Nível 2 + Nível 2"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_5_0",
+            "content": "Nível 1 + Nível 2 + Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_6_0",
+            "content": "Nível 1 + Nível 3 + Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_7_0",
+            "content": "Nível 2 + Nível 2 + Nível 2"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_8_0",
+            "content": "Nível 2 + Nível 2 + Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_9_0",
+            "content": "Nível 2 + Nível 3 + Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_table_3_desc_10_0",
+            "content": "Nível 3 + Nível 3 + Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_tier_1",
+            "content": "Nível 1"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_tier_2",
+            "content": "Nível 2"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_tier_3",
+            "content": "Nível 3"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_tier_4",
+            "content": "Nível 4"
+        },
+        {
+            "id": "new_ego_gift_combine_guide_desc_4",
+            "content": "No entanto, se você já adquiriu todos os presentes E.G.O na combinação de palavras-chave e níveis acima, ou se esses presentes E.G.O já foram atribuídos aos eventos da Masmorra Espelho ou às recompensas de chefe deste andar, então <u><b>você pode adquirir um presente E.G.O de um nível diferente ou de uma categoria de palavra-chave</u></b> da tabela listada acima."
+        },
+        {
+            "id": "new_ego_gift_combine_guide_desc_5",
+            "content": "Se você já adquiriu todos os Presentes E.G.O no Nível correspondente ou não consegue obtê-los devido aos motivos mencionados acima, então <u><b>você não pode prosseguir com a Fusão</u></b>."
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_popup_title",
+            "content": "Guia de cartas de recompensa de encontro"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_text_1",
+            "content": "Você pode ter uma chance de obter uma Carta de Recompensa de Encontro ao limpar um Encontro. Variáveis ​​como a Dificuldade da Masmorra Espelho e seu andar Atual afetam quais Cartas de Recompensa de Encontro você pode obter."
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_text_2",
+            "content": "A seguir estão as taxas de aparição dos Cartões de Recompensa de Encontro."
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_0_1",
+            "content": "Simulação de Masmorra de Espelho"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_0_2",
+            "content": "Refrão do Calabouço do Espelho"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_1_0",
+            "content": "Piso 1"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_1_1",
+            "content": "Encontro Regular: 7,5%\nEncontro Focado: -\nEncontro Elite: -\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_1_2",
+            "content": "Encontro Regular: 7,5%\nEncontro Focado: -\nEncontro Elite: -\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_2_0",
+            "content": "Piso 2"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_2_1",
+            "content": "Encontro Regular: 10%\nEncontro Focado: 20%\nEncontro Elite: 33%\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_2_2",
+            "content": "Encontro Regular: 10%\nEncontro Focado: 20%\nEncontro Elite: 33%\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_3_0",
+            "content": "Piso 3"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_3_1",
+            "content": "Encontro Regular: 10%\nEncontro Focado: 20%\nEncontro Elite: 33%\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_3_2",
+            "content": "Encontro Regular: 10%\nEncontro Focado: 20%\nEncontro Elite: 33%\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_4_0",
+            "content": "Piso 4"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_4_1",
+            "content": "Encontro Regular: 12,5%\nEncontro Focado: 25%\nEncontro Elite: 50%\nEncontro Chefe: -"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_4_2",
+            "content": "Encontro Regular: 12,5%\nEncontro Focado: 25%\nEncontro Elite: 50%\nEncontro Chefe: 100%"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_5_0",
+            "content": "Piso 5"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_5_1",
+            "content": "-"
+        },
+        {
+            "id": "mirror_battle_reward_card_guide_table_1_desc_5_2",
+            "content": "Encontro Regular: 12,5%\nEncontro Focado: 25%\nEncontro Elite: 50%\nEncontro Chefe: -"
+        },
+        {
+            "id": "expected_result",
+            "content": "Previsões"
+        },
+        {
+            "id": "confirmed",
+            "content": "Garantido"
+        },
+        {
+            "id": "combine_tooltip_title",
+            "content": "As seguintes são as circunstâncias em que o E.G.O Gift resultante da Fusion não corresponderá às Fusion Forecasts. Em tais casos, a Keyword Forecast será marcada como \"?(Random)\"."
+        },
+        {
+            "id": "combine_tooltip_desc1",
+            "content": "Quando todos os presentes E.G.O disponíveis na categoria de palavra-chave selecionada e no nível previsto já tiverem sido obtidos"
+        },
+        {
+            "id": "combine_tooltip_desc2",
+            "content": "Quando os presentes E.G.O da categoria de palavra-chave selecionada e o nível previsto foram todos atribuídos aos eventos de masmorra espelhada ou ao pool de recompensas de encontro com chefe daquele andar (podem ser obtidos no próximo andar)"
+        },
+        {
+            "id": "combine_tooltip_notice",
+            "content": "Você não pode continuar com a Fusão se tiver coletado todos os Presentes E.G.O no Nível previsto."
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+  "dataList": [
+    {
+      "id": 860801,
+      "title": "Sonhando ovelhas elétricas",
+      "prevDesc": "",
+      "eventDesc": "No final de cada cabo, espalhado pelo piso, há um plugue.\n\nTalvez a ovelha saiba o que isso implica.\n\nDeixou -se um grito triste.\n\nÀ medida que os pecadores convergem para as ovelhas, quanto maior, mais desesperada, seus gritos crescem.\n\nA ovelha começa a se debater loucamente.\n\nSua resistência só se intensificará.",
+      "behaveDesc": "Quem tentará segurar as ovelhas?",
+      "successDesc": [
+        "[{0}] raises a cable and connects it to the sheep.\n\nViolent sprays of sparks fill your vision for a brief moment.\n\nThe sheep cries terribly for a while before falling silent, its eyes shut.\n\n[{0}] regards the silent sheep. Silent as though in a dream.\n\n[{0}] rejoins the battle, their body seared with lightning."
+      ],
+      "failureDesc": [
+        "Just as [{0}] is about to connect the cable to the sheep,\n\nIt kicks [{0}] hard with its long legs.\n\nAfter tumbling a few feet on the ground, the Sinner blankly stares at the halfway-inserted cable for a moment...\n\nBefore a strike of violet, screaming lightning directly smites them."
+      ]
+    },
+    {
+      "id": 860501,
+      "title": "Retrato de um certo dia",
+      "prevDesc": "",
+      "eventDesc": "'Eu sou um mordomo dessa mansão.'\n\n'No entanto, eu não reconheço seus rostos.'\n\n'Não posso deixar de ser cauteloso; Talvez você procure prender essa mansão novamente em tristeza.\n\n'Se você alegar o contrário, permita -me perguntar. Qual desses retratos é o do meu mestre?",
+      "behaveDesc": "Quem vai responder?",
+      "successDesc": [
+        "[{0}] confidently steps forward and points a finger at one of the portraits.\n\nThe monster stands still for a moment, then replies affirmatively.\n\n'You are familiar with my master.'\n\n'Though you are an interloper still, I see no a bringer of sorrow.'\n\nThe monster, still holding a portrait, appears somewhat less hostile."
+      ],
+      "failureDesc": [
+        "[{0}] confidently steps forward, and points their finger at one of the portraits.\n\nThe monster stands still for a moment, then cries out all of a sudden.\n\n'You do not even recognize my master's countenance...'\n\n'Indeed. You are but an interloper seeking to bring sorrow to this place once again.'\n\n'How dare you pretend to know which that you do not. This transgression shan't be so easily forgiven.'\n\n[{0}] suddenly feels the burning gaze of every single portrait in the room focus on them.\n\nEach and every single one of them holds... resentment."
+      ]
+    },
+    {
+      "id": 862903,
+      "title": "O rei em Binds",
+      "prevDesc": "",
+      "eventDesc": "Vestir a máscara mais uma vez convoca as emoções ardentes que lentamente fervem em seu coração.\n\nA tristeza sobe através do nevoeiro da batalha acalorada; Seu denso peso perfura profundamente, profundamente em suas emoções.",
+      "behaveDesc": "Essa tristeza pode ser resistida?",
+      "successDesc": [
+        "The sorrowful pressure slowly relents.\n\nThe banquet is far from over.\n\nThe Sinners each rise and shake off the gloom; the void in their hearts filled with determination."
+      ],
+      "failureDesc": [
+        "The deluge of sorrow sweeps the Sinners off their feet into an even deeper chasm.\n\nYet, the banquet continues still.\n\nThe Sinners repress their sorrows and step forward."
+      ]
+    }
+  ]
+}

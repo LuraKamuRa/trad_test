@@ -1,0 +1,129 @@
+{
+    "dataList": [
+        {
+            "id": "get_11011_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "Acho que posso juntar esse pacote com aquele e... vamos ver onde esse aqui vai parar... P-por que o processo de classificação é tão complicado dessa vez?"
+        },
+        {
+            "id": "lobby_morning_11011_1",
+            "desc": "Saudação matinal",
+            "dlg": "Não tenho dormido bem, com o recente aumento de contratos de entrega tarde da noite...\nVou tentar dormir um pouco agora."
+        },
+        {
+            "id": "lobby_noon_11011_1",
+            "desc": "Saudação da tarde",
+            "dlg": "Os almoços em caixa geralmente acabam congelando quando fazemos entregas no frio.\nÉ por isso que alguns Fixers guardam seus almoços nos Courier Trunks que lhes foram atribuídos, mas... isso é uma violação das regras da Devyat' Association..."
+        },
+        {
+            "id": "lobby_night_11011_1",
+            "desc": "Saudação noturna",
+            "dlg": "É perigoso viajar à noite, mas... não tenho escolha.\nHá um pacote que precisa ser entregue antes da Noite nas Ruas Secundárias."
+        },
+        {
+            "id": "smalltalk_11011_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "É importante que os Fixers da Devyat' Association se mantenham atualizados sobre as culturas de cada Distrito.\nVelocidade é uma coisa, mas também temos que ter cuidado para não quebrar acidentalmente um Taboo de uma Wing ou uma regra do Syndicate."
+        },
+        {
+            "id": "smalltalk_11011_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "Por que eu não vou dirigindo até lá, você pergunta? Hum... Tenho certeza de que ir a pé e seguir as instruções de atalho de Poludnitsa me levaria muito mais rápido do que dirigir."
+        },
+        {
+            "id": "smalltalk_11011_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "Eu posso sobreviver à maioria das situações arriscadas fazendo com que Poludnitsa desative o limite de saída.\nMas isso vai deduzir muito dinheiro do meu pagamento... Se não me matar no processo."
+        },
+        {
+            "id": "smalltalk_11011_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "<color=#9eada4><size=60%><i>[Possível atraso na entrega detectado: altercação do sindicato 200m à frente. Redirecionando.]</i></size></color>\nMuitos ajustes de rota hoje, hein... Virada à esquerda, então?\n<color=#9eada4><size=60%><i>[Nova rota descoberta; entregador de navegação.]</i></size></color> Você quer que eu... <i>escale</i> o prédio?!"
+        },
+        {
+            "id": "smalltalk_11011_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "Somente capangas de nível inferior do Sindicato que não sabem sobre essas bolsas dimensionais são idiotas o suficiente para nos atacar. Os Troncos de Correio são bloqueados pelo Modo de Proteção de qualquer maneira, então...\nAh, e os membros dos Dedos? Eles são... nós geralmente os conhecemos como nossos clientes."
+        },
+        {
+            "id": "neglect_11011_1",
+            "desc": "Parado",
+            "dlg": "Poludnitsa, estou entediado. Você pode tocar uma música para mim?\n<color=#9eada4><size=60%><i>[Poludnitsa não suporta a funcionalidade solicitada.]</i></size></color>\nHuh? Mas a Srta. Rodya disse—\n<color=#9eada4><size=60%><i>[Correção. Este modelo de IA não suporta a funcionalidade solicitada.]</i></size></color>"
+        },
+        {
+            "id": "gacksung_11011_1",
+            "desc": "Uptying",
+            "dlg": "Ugh, eu realmente esperava que não tivesse que chegar a isso, mas preciso chegar lá a tempo...! Poludnitsa, ativar conversão de modo!\n<color=#9eada4><size=60%><i>[Modo martelo ativado. Balance para a ondulação das partículas de decaimento.]</i></size></color>"
+        },
+        {
+            "id": "formation_11011_1",
+            "desc": "Implantação",
+            "dlg": "É uma nova ordem de entrega?"
+        },
+        {
+            "id": "battleentry_11011_1",
+            "desc": "Entrada no palco",
+            "dlg": "Meu próximo destino é..."
+        },
+        {
+            "id": "battle_select_11011_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Uh... você me ligou? Oh, você pediu alguma coisa através do Devyat'?"
+        },
+        {
+            "id": "battle_endcommand_11011_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Ainda tenho tempo..."
+        },
+        {
+            "id": "battle_enemy_break_11011_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Você pode abrir caminho, por favor...?"
+        },
+        {
+            "id": "battle_break_11011_1",
+            "desc": "escalonado",
+            "dlg": "Nngh..."
+        },
+        {
+            "id": "battle_kill_11011_1",
+            "desc": "Inimigo morto",
+            "dlg": "... Eu disse para se mexerem!"
+        },
+        {
+            "id": "battle_dead_11011_1",
+            "desc": "Morte #1",
+            "dlg": "Poludnitsa... ajuda... <color=#9eada4><size=60%><i>[Falha na localização do caminho. Ausência do mensageiro detectada. Poludnitsa, ativando o Modo de Proteção.]</i></size></color>"
+        },
+        {
+            "id": "battle_dead_11011_2",
+            "desc": "Morte #2",
+            "dlg": "N-não! Por favor, por favor, me dê outra chance! Nunca me atrasei antes— <color=#9eada4><size=60%><i>[Atualização. A entrega falhou. O correio será coletado em breve. Obrigado pelo seu serviço. Poludnitsa, ativando o Modo de Proteção.]</i></size></color>"
+        },
+        {
+            "id": "choice_success_p_11011_2",
+            "desc": "Verificação aprovada",
+            "dlg": "... Não vou mais fazer uma tarefa dessas para você."
+        },
+        {
+            "id": "choice_fail_n_11011_1",
+            "desc": "Verificação falhou",
+            "dlg": "E-estou ocupado, ok?"
+        },
+        {
+            "id": "battle_clear_11011_1",
+            "desc": "Grito de vitória",
+            "dlg": "AAAHHHHH! Seu pacote foi entregue! Não estou atrasado, estou? Cheguei na hora da entrega, certo?"
+        },
+        {
+            "id": "battle_clear_ex_11011_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "Este pacote será entregue antes do esperado. O cliente ficará feliz em saber disso."
+        },
+        {
+            "id": "battle_defeat_11011_1",
+            "desc": "Derrote Wail",
+            "dlg": "Pant... pant... E-estou quase lá, Poludnitsa! Só preciso de mais cinco minutos, por favor...!"
+        }
+    ]
+}

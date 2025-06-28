@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 863001,
+      "name": "Melee Combat",
+      "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, caça +10% mais danos para cada diferença de velocidade (máximo 30%)\nSe a velocidade desta unidade for mais lenta que a oferta do alvo -10% menos dano para cada diferença de velocidade (no máximo 30%)"
+    },
+    {
+      "id": 863002,
+      "name": "Charge Forth",
+      "desc": "Aumente os valores de velocidade Min & Max por 1 para cada 5 [[suporte]] em si (máximo 4)"
+    },
+    {
+      "id": 863003,
+      "name": "Summon Targets",
+      "desc": "A 75%- HP, ganhe um novo padrão\nAo ganhar um novo padrão, convocar gerente -chefe da G Corp. e veterano abatido; Em seguida, infligir estigmatizado no alvo com o menor HP atual\n- Altere os valores de velocidade min e máxima em auto para 1.\n- Ganhe 300 Shield HP."
+    },
+    {
+      "id": 863004,
+      "name": "Designate Target",
+      "desc": "Ao usar o incêndio de alvo ou o reajuste do alvo designado: entre alvos com a velocidade mais lenta, infligir [[suporte]] contra o alvo com o menor HP atual"
+    },
+    {
+      "id": 863201,
+      "name": "Oxygen Supply",
+      "desc": "No primeiro turno, o saco de dormir de um dia passado apareceu, ele ganha 10 [[suporte]] Potência e +10 [[bracket]] contagem\n\nTurn End: Com menos de 10 [[suporte]] potência ou [[bracket]] contam, consuma HP da parte da cabeça igual a 2% da contagem máxima do núcleo para ganhar 5 [[suporte]] e +5 [[suporte]] contagem (não pode ser quebrada ou derrotada devido a este efeito)"
+    },
+    {
+      "id": 863202,
+      "name": "Deep Breath",
+      "desc": "Multiplique o acaso crítico de efeitos [[Bracket]] por x 1.5\n\nNo crítico:\n- Aos 15+ [[suporte]] Potência, consuma até ([[bracket]] potência no Self / 5) [[Bracket]] Potência para negociar + ([[bracket]] potência consumida x 4)% mais danos no crítico\n- Aos 15+ [[Bracket]] contagem, consuma t ([[[suporte]] contagem com Self / 5) [[Bracket]] contagem para negociar + ([[bracket]] contagem consumida x 8)% mais danos ao critério"
+    },
+    {
+      "id": 863203,
+      "name": "Oxygen-saturated",
+      "desc": "Na curva, esta unidade usa 'Isso é ... meu!', Fixar sua velocidade para 1. No início, aplique 6 [[suporte]] Potência e +6 [[bracket]] contam todas as unidades presentes no palco.\n\nNo final do mesmo turno, consuma qualquer excesso de potência [[suporte]] e [[bracket]] contagem de 5 potência e 5 contagem; Então, no início do próximo turno, aplique a mesma quantidade de potência [[suporte]] e a contagem [[backet]] consumida na parte da cabeça"
+    },
+    {
+      "id": 863204,
+      "name": "Shattered Ribcage",
+      "desc": "Quando a parte do corpo estiver quebrada, remova a parte do corpo na próxima curva e substitua -a por uma pessoa que parte"
+    },
+    {
+      "id": 863205,
+      "name": "Ribcage Regeneration",
+      "desc": "No final do combate, reduz a redução da potência [[suporte]] e [[suporte]] da parte da pessoa\nEm seguida, a parte da pessoa desaparece e é substituída pela parte do corpo"
+    },
+    {
+      "id": 863206,
+      "name": "Excruciating Suffering",
+      "desc": "Toda vez que esta unidade perde um confronto e atinge um golpe, perca 1 [[suporte]] potência\n\nToda vez que esta unidade é atingida por um ataque sem oposição, perca 1 [[suporte]] contagem\n\nA potência [[Bracket]] desta unidade e a contagem de [[suporte]], independentemente de um ataque atingir criticamente ou se o seu passivo ativado, não cair abaixo de 5"
+    },
+    {
+      "id": 863207,
+      "name": "Anguished Screaming",
+      "desc": "Com 40% ou menos HP, use 'Compartilhe a dor' na próxima curva"
+    },
+    {
+      "id": 863208,
+      "name": "After Effect",
+      "desc": "Quando a pessoa morre, tanto o corpo quanto as partes da cabeça ganham +0,2 resistência a barra, pierce e brusca até a próxima curva (uma vez por encontro)"
+    },
+    {
+      "id": 863301,
+      "name": "Indulgent Petals",
+      "desc": "Turn End: a 20+ [[suporte]], consuma até 50 [[suporte]] e cure o núcleo e as peças da cabeça igual a [[backet]] consumidas\n- não é ativado se a parte da cabeça for escalonada ou destruída"
+    },
+    {
+      "id": 863302,
+      "name": "A Drop of Nourishment",
+      "desc": "Após o ataque, curar o núcleo e a parte igual à quantidade de dano que a habilidade de ataque desta unidade foi resolvida\n- não é ativado se a parte da cabeça for escalonada ou destruída"
+    },
+    {
+      "id": 863303,
+      "name": "Yearning",
+      "desc": "Turn End: Se esta unidade curou a HP, ganha 1 [[suporte]] e 1 [[suporte]] na próxima curva para cada 10 hp curado (máximo 10)"
+    },
+    {
+      "id": 863304,
+      "name": "Bloodthirsty Stench",
+      "desc": "Com mais de 100 [[suporte]], use uma habilidade especial\nTurn End: A 500+ [[Bracket]] por esta unidade, ou se esta unidade estiver em menos de 60% hp, ganhe um novo padrão"
+    },
+    {
+      "id": 863305,
+      "name": "Refracted Sin",
+      "desc": "[[Bracket]], [[Bracket]], [[bracket]], [[bracket]] e [[bracket]] A potência apenas empilha até 50 (incluindo as variações exclusivas de palavras -chave acima)"
+    },
+    {
+      "id": 863306,
+      "name": "Sharp Thorn",
+      "desc": "Se a parte do corpo desta unidade sofrer danos causados ​​por uma habilidade inimiga, infligir +1 [[suporte]] conte com o atacante (uma vez por turno por identidade)"
+    },
+    {
+      "id": 863307,
+      "name": "Endless Thirst",
+      "desc": "Turn Start: Gain 1 [[Bracket]] para cada 100 [[suporte]] por esta unidade (máximo 10)\nTurn Start: Gain 1 [[Bracket]] para cada 200 [[suporte]] por esta unidade (máximo 5)"
+    },
+    {
+      "id": 863308,
+      "name": "Endless Yearning",
+      "desc": "Desencadeia um evento de escolha a cada \"múltiplo de 3\"."
+    },
+    {
+      "id": 863309,
+      "name": "Increased Refraction Rate",
+      "desc": "Se 9 voltas passaram desde que esta unidade apareceu em campo, começando na próxima curva, ganhe 1 [[suporte]] a cada volta passando pelo 10º turno (no máximo 10)"
+    },
+    {
+      "id": 863101,
+      "name": "Designated Execution",
+      "desc": "Quando morto por Der Fluchschütze, aplique 1 [[suporte]], 1 [[suporte]] e 2 [[suporte]] na próxima curva para Der Fluchschütze"
+    },
+    {
+      "id": 863102,
+      "name": "First Strike Wins",
+      "desc": "Quando morto por um pecador, dê 3, por exemplo, recursos na afinidade da habilidade que matou esta unidade"
+    },
+    {
+      "id": 863103,
+      "name": "Not Me",
+      "desc": "Se esta unidade não tiver estigmatizada no início do combate, obtenha 300 escudo."
+    }
+  ]
+}

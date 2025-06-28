@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "id": "BloodyHand",
+      "name": "Bloodied Hand",
+      "desc": "- Valor máximo: 10\n- Valor base: 0\n- AT 10 Pilha: infligir +1 ruptura adicional no acerto com a habilidade desta unidade",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "BloomingThorns",
+      "name": "Blooming Thorn",
+      "desc": "- Valor máximo: 10\n- Ao tomar danos causados ​​por habilidades, infligir sangramento igual a metade da pilha deste efeito contra o atacante (arredondado)",
+      "summary": "Infligir sangramento igual a empilhar contra o atacante",
+      "undefined": null
+    },
+    {
+      "id": "BloomingThorns_2nd",
+      "name": "Bloodwoven Thorn",
+      "desc": "- Quaisquer efeitos que ganhem espinhos florescentes ganhem esse efeito\n- Valor máximo: 10\n- Turn Start: Gain 1 Ofense Nível Up por 3 Stack (máximo 3)\n- Ao tomar danos causados ​​por habilidades, infligir sangramento igual à pilha deste efeito contra o atacante e depois perca 1 pilha (arredondada)\n- On Hit, infligir +1 mais sangramento e sangramento contam com os efeitos da habilidade desta unidade\n- Ao aplicar o nível de ofensa ou o nível de defesa até outro aliado com efeitos de moeda de habilidade, aplique 1 Clash Power Up Next Turn também\n- Todas as habilidades que consomem o Bloodveast Gain Coin Power +1",
+      "summary": "Infligir sangramento no atacante igual à pilha\nInfligir +1 mais potência e contagem de sangramento\nAplicar 1 conflito de poder até aliados\nSe a habilidade consome Bloodfeast, Power de moedas +1",
+      "undefined": null
+    },
+    {
+      "id": "BloomingThorns_3rd",
+      "name": "Bloodmolded Thorn",
+      "desc": "- Quaisquer efeitos que ganhem espinhos florescentes ganhem esse efeito\n- Valor máximo: 10\n- Turn Start: Gain 1 Ofense Nível Up por 2 Stack (máximo 3)\n- Ao tomar danos causados ​​por habilidades, infligir sangramento igual à pilha deste efeito contra o atacante e depois perca 1 pilha (arredondada)\n- On Hit, infligir +2 mais sangramento e sangramento contam com os efeitos da habilidade desta unidade\n- Ao aplicar o nível de ofensa ou o nível de defesa até outro aliado com os efeitos da moeda de habilidade, aplique 2 Clash Power Up Next Turn também\n- Todas as habilidades que consomem o Bloodveast Gain Coin Power +1\n- Ao usar 'o desfile repete para a habilidade da eternidade, em vez de curar a HP, cure o mesmo valor que o SP",
+      "summary": "Infligir sangramento no atacante igual à pilha\nInfligir +2 mais potência e contagem de sangramento\nAplicar 2 Clash Power até aliados\nSe a habilidade consome Bloodfeast, a moeda Power +2 e causará +50% mais danos",
+      "undefined": null
+    },
+    {
+      "id": "FestivalFever",
+      "name": "Festive Fever",
+      "desc": "- Valor máximo: 10\n- Turn Start: Gain 1 Ofense Nível Up por 3 Stack (máximo 3)\n- Usado para habilidades especiais",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "IncompleteParade",
+      "name": "Imperfect Parade",
+      "desc": "- Valor máximo: 50\n- Ganhe 2 quando um mala de sangue morrer\n- Ganhe 3 quando um fédio de sangue morrer\n- Turn Start: Ganhe 1 frágeis toda vez que esta unidade consome 5 pilha cumulativa\n- pilha total consumida: {0}",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "FamineBloodDolci_LowMorale",
+      "name": "Bridle of Nihility",
+      "desc": "- Baixo moral\n- Turn Start: Gain 1 Attack Power Up e 3 Nível de defesa\n- Turn End: Tome 5 SP dano",
+      "summary": "Ganho 1 Ataque Power Up e 3 Nível de defesa",
+      "undefined": null
+    },
+    {
+      "id": "FamineBloodDolci_Panic",
+      "name": "Bridle of Nihility",
+      "desc": "- Pânico\n- Turne\n- Turn End: Heal 10 sp",
+      "summary": "Ganhe 2 Ataque Power Up e 6 Nível de defesa",
+      "undefined": null
+    },
+    {
+      "id": "StarvingDolcineaOne",
+      "name": "Withered",
+      "desc": "- faminto por sangue por muito, muito tempo.\n- Perca 35 nível de ofensa\n- Perca 35 nível de defesa",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "StarvingDolcineaServant",
+      "name": "Withered",
+      "desc": "- faminto por sangue por muito, muito tempo.\n- Perca 15 nível de ofensa\n- Perca 15 nível de defesa",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "ThornyFall_LowMorale",
+      "name": "Thorns",
+      "desc": "Clash Win: Ganhe 1 Danos Up",
+      "summary": "Clash Win: Ganhe 1 Danos Up",
+      "undefined": null
+    },
+    {
+      "id": "ThornyFall_Panic",
+      "name": "Thorns",
+      "desc": "Clash Win: Ganhe 1 Danos Up\nTurn End: Ganhe 2 Clash Power Up no próximo turno",
+      "summary": "Clash Win: Ganhe 1 Danos Up",
+      "undefined": null
+    },
+    {
+      "id": "HonorableDuel_Don",
+      "name": "Honorable Duel",
+      "desc": "Uma história de aventuras reminiscentes\nTorne -se imensamente poderoso",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "HonorableDuel_Knight",
+      "name": "Honorable Duel",
+      "desc": "Relembrando contos de aventura",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "StarvingPriestOne",
+      "name": "Withered",
+      "desc": "- faminto por sangue por muito, muito tempo.\n- Perca 15 nível de ofensa\n- Perca 15 nível de defesa",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "FamineBloodPriestServant_LowMorale",
+      "name": "Hunger",
+      "desc": "- Baixo moral\n- Turn Start: Gain 1 Clash Power Up e 3 Nível de defesa\n- Turn End: Tome 5 SP dano",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "FamineBloodPriestServant_Panic",
+      "name": "Hunger",
+      "desc": "- Pânico\n- Turn Start: Ganhe 2 Clash Power Up e 6 Defense Diew Down\n- Turn End: Heal 10 sp",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "UnstoppableFunny",
+      "name": "Unstoppable Bliss",
+      "desc": "Na morte:\n- Ganhe 1, por exemplo, recurso para 3 recursos menos de propriedade, por exemplo\n- infligir +3 hemorragia contagem contra um inimigo (prioriza a unidade que matou esta unidade)\n- Todos os aliados com mais de 5 febre festiva ganham 1 pressa na próxima curva\n- Todos os aliados sem febre festiva ganham 1 conflito",
+      "summary": "Ganhe 1 de cada 3, por exemplo, Recursos\nInfligir +3 contagem de sangramento",
+      "undefined": null
+    }
+  ]
+}

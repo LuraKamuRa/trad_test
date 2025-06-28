@@ -1,0 +1,121 @@
+{
+    "dataList": [
+        {
+            "id": 853901,
+            "title": "Drifting Fox",
+            "prevDesc": "Será que aqueles guarda-chuvas esfarrapados realmente protegeriam aquela raposa?",
+            "eventDesc": "Velhos guarda-chuvas estão alinhados ao redor da Raposa Flutuante.\n\nVelhos, gastos, guarda-chuvas furados.\n\nOs guarda-chuvas parecem estar ali há sabe-se lá quanto tempo tentando proteger a raposa, mas certamente não parece que eles estão fazendo um bom trabalho nisso.\n\n\"…….\"\n\nEntão, um Pecador caminhou lentamente em sua direção.\n\nA raposa percebeu o Pecador se aproximando, mas não rosna, nem relaxa alegremente.\n\nEle fica parado, mantendo seu lugar sempre constante.",
+            "behaveDesc": "Quem se aproximou da raposa?",
+            "successDesc": [
+                "[{0}] walked toward the fox before getting under a worn umbrella.\n\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\n\nChilling winds and damp air brush against the Sinner under the umbrella.\n\n\"…….\"\n\nBut [{0}] raised their head up to see the sky, making a profound smile.\n\nAs if the Sinner knew the rain will stop someday."
+            ],
+            "failureDesc": [
+                "[{0}] walked toward the fox before getting under a worn umbrella.\n\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\n\nChilling winds and damp air brush against the Sinner under the umbrella.\n\n\"…Haah.\"\n\n[{0}] drooped down with a large sigh.\n\nIt may not be easy to notice from afar,\n\nbut it must have been the cumulation of gloom and dampening the person under the umbrella felt."
+            ]
+        },
+        {
+            "id": 854101,
+            "title": "Shock Centipede",
+            "prevDesc": "A centopeia se contorce como se fosse se enrolar.",
+            "eventDesc": "O corpo da Centopeia de Choque está começando a se enrolar em um ponto.\n\"Parece que a eletricidade está se acumulando.\"\nComo o Pecador apontou, faíscas estão voando do centro de seu corpo enrolado.\nPode ser uma boa ideia pará-lo.",
+            "behaveDesc": "Quem será capaz de detê-lo?",
+            "successDesc": [
+                "[{0}] struck at the Shock Centipede's carapace.\n\n\"Ohh...!\"\n\nA crack opened up in its hard-looking armor.\n\nCould it really have stopped the centipede?\n\nThis ought to be a rare opportunity."
+            ],
+            "failureDesc": [
+                "[{0}] struck at the Shock Centipede's carapace.\n\nAlas...\n\nCould the stored power have sprung forth?\n\nTremendous showers of sparks popped out of the Centipede's center along with a thunderous boom.\n\nNaturally, [{0}] was knocked away by the shockwave.\n\nFortunately enough, it only pushed the Sinner away and did little harm...\n\nBut the Centipede looks quite angry.\n\nIt'd be a good idea to brace up, right?"
+            ]
+        },
+        {
+            "id": 854201,
+            "title": "Fairy Gentleman",
+            "prevDesc": "Um cheiro inebriante preenche o ar, quase poderia deixar você bêbado.",
+            "eventDesc": "O Cavalheiro das Fadas falou com uma risada alegre.\n\n\"Huhu... Não pensei que tanto seria engolido.\"\n\nUm pequeno soluço também pôde ser ouvido.\n\n\"Admito, me pegou um pouquinho desprevenido... Só um pouquinho.\"\n\nA fada então coloca o copo em sua mão na boca.\n\n\"Ei! Essa coisa está tentando ficar sóbria?\"\n\n\"Devemos manter o canalha desorientado!\"\n\n...Parece que a fada deve ser impedida de beber do copo.",
+            "behaveDesc": "Quem pegará a taça do cavalheiro?",
+            "successDesc": [
+                "[{0}] stood before the gentleman's mountainous belly.\n\n\"Ah, I couldn't share this with you, even if you're a privileged guest.\"\n\nInstead of demanding it, [{0}] just stares into the fairy.\n\n\"...Ahem.\"\n\nCompletely still, not moving a muscle.\n\n\"...A-Alright, alright! I can give you... a little bit.\"\n\n[{0}] shook their head.\n\n\"Are you... telling me to give you all of it?\"\n\nThe Sinner nodded.\n\n\"You...\"\n\n\"Fuu, haha. Fine, I've lost. You can have this.\"\n\n[{0}] finally made a light smile as they claimed the cup."
+            ],
+            "failureDesc": [
+                "[{0}] stood before the gentleman's mountainous belly.\n\n\"Ah, I couldn't share this with you, even if you're a privileged guest.\"\n\nInstead of demanding it, [{0}] just stares into the fairy.\n\n\"...Ahem.\"\n\nCompletely still, not moving a muscle.\n\n\"...Standing like that won't change my answer, you know?\"\n\nAfter vigorous laughter, the fairy gulped down all of the cup's content into his stomach.\n\n\"As much as I care about you, I couldn't give you everything I have, could I? Haha.\"\n\nDefeated, [{0}] returned."
+            ]
+        },
+        {
+            "id": 854401,
+            "title": "So That No One Will Cry",
+            "prevDesc": "A boneca de madeira amaldiçoada parou de se mover.\nO que pode estar acontecendo?",
+            "eventDesc": "A boneca de madeira parou no lugar como se nada estivesse acontecendo.\n\nSua cabeça estava levemente inclinada para baixo como se estivesse examinando seus talismãs...\n\nOu talvez pudesse estar olhando para os talismãs dos Sinners.\n\n\"…….\"\n\nComo se estivessem possuídos, os Sinners começaram a andar em direção à boneca de madeira.\n\nEra como se tivessem esquecido que estavam lutando há alguns momentos.\n\nE eles começaram a remover os talismãs emaranhados em seus corpos.\n\nO que poderia estar acontecendo?",
+            "behaveDesc": "Quem reunirá os talismãs e os devolverá?",
+            "successDesc": [
+                "[{0}] gathered the detached talismans and stood before the wooden doll.\n\nIt seems to be gazing silently.\n\nOr, maybe it was just the Sinner's conscience making it seem that way.\n\nThe eagerness to return the talismans to where they were.\n\n[{0}] extended their arm to hand over the stack of talismans...\n\nAs if drawn by a magnet, the talismans flew toward the doll.\n\n\"So that no one will cry...\"\n\nAfter muttering the phrase, [{0}] came back to their position."
+            ],
+            "failureDesc": [
+                "[{0}] gathered the detached talismans and stood before the wooden doll.\n\n\"…….\"\n\nIt creaked a little, then stretched a hand at [{0}].\n\nThinking it's to retrieve the talismans, [{0}] handed over the stack,\n\n\"Ah!\"\n\nThe wooden hand changed its trajectory and touched the Sinner's body.\n\nAt that moment, all the talismans on [{0}] began writhing before melting into sticky blood.\n\n…That doesn't bode well, does it?"
+            ]
+        },
+        {
+            "id": 854501,
+            "title": "Fairy-Long-Legs",
+            "prevDesc": "O céu parece ter sido coberto novamente. Por que ele continua lançando essa sombra?",
+            "eventDesc": "A planta gigante que a fada fez crescer era tão grossa quanto alta.\n\nEla tinha suas vantagens.\n\nComo se estivesse se escondendo atrás da coluna de um prédio, um pecador conseguiu escapar da visão da fada.\n\nO pecador então cuidadosamente golpeou o caule.",
+            "behaveDesc": "Quem bateu no caule?",
+            "successDesc": [
+                "Striking at the stem, [{0}] climbed up the plant, hand over foot over hand.\n\nThe Sinner climbed so high, the others and the fairy appeared as tiny dots.\n\nThe plant seemed endlessly tall, but it had its end.\n\nAt last, [{0}] climbed onto the massive leaf at the top.\n\nThen the Sinner carefully walked up to the edge...\n\nAnd poked a hole in the leaf, causing the pool of water to fall on the fairy's head.\n\nThe fairy is making quite a fuss, looking surprised."
+            ],
+            "failureDesc": [
+                "Striking at the stem, [{0}] climbed up the plant, hand over foot over hand.\n\nThe Sinner climbed so high, the others and the fairy appeared as tiny dots.\n\nThe plant seemed endlessly tall, but it had its end.\n\nAt last, [{0}] climbed onto the massive leaf at the top.\n\nBut perhaps the Sinner failed to consider the amount of water that ponded on the leaf...\n\nAs soon as [{0}] stepped on the leaf, they slipped and fell right to the ground.\n\n...It might be fortunate that the Sinner didn't die."
+            ]
+        },
+        {
+            "id": 854901,
+            "title": "Faelantern",
+            "prevDesc": "A fada azul-petróleo apareceu novamente na ponta do galho.",
+            "eventDesc": "Atacar aquela fada novamente revelará sua verdadeira forma.\n\nEsta não é sua primeira vez enfrentando esta entidade. Não será tão difícil quanto a primeira vez.\n\nOs pecadores parecem concordar.\n\nA fada simplesmente ficou sentada ali em quase completa quietude, interrompida apenas por suas asas vibrando intermitentemente. Era como se a fada soubesse que você estava chegando.",
+            "behaveDesc": "Quem vai responder à isca?",
+            "successDesc": [
+                "[{0}] charged toward the fairy.\n\nAfter a light leap into the air, the Sinner swung the weapon toward the fairy.\n\n”!!!”\n\nThe fairy appeared to scream, but no sound came from its mouth.\n\nMaybe it wasn’t screaming at all. Perhaps it was just the swaying of branches.\n\n”The eyes are coming out…”\n\n”Get outta there! Here we go again.”\n\nNumerous eyes open one by one, gleaming from the shadows.\n\nThey oscillate as though they’ll jump out at us at any minute.\n\nSo… What now?"
+            ],
+            "failureDesc": [
+                "[{0}] charged toward the fairy.\n\nAfter lightly leaping into the air, the Sinner swung the weapon toward the fairy.\n\nBut…\n\n”That thing can dodge…?!”\n\nOf course, it wasn’t going to be that easy. Assuming that a bait would remain stationary is a complacent thought.\n\nThe fairy had also lightly flown up into the air and glared at the Sinner, who dared to attack it.\n\n”G-get out of there! It’s starting to move again!”\n\n[{0}] tried to get away, but its main body had already tightened around the Sinner's legs.\n\nSo… What now?"
+            ]
+        },
+        {
+            "id": 855001,
+            "title": "Wayward Passenger",
+            "prevDesc": "Ele está se escondendo em outra dimensão novamente?",
+            "eventDesc": "Se essa luta for alguma indicação, ela logo emergirá de uma das fendas dimensionais.\n\nSe pudermos intuir seu próximo ponto de emergência, talvez possamos dar um golpe fatal contra ela antes que ela emerja completamente da fenda dimensional.",
+            "behaveDesc": "Quem pode intuir seu próximo ponto de emergência?",
+            "successDesc": [
+                "Soon, the entity began crawling out of the dimensional rift that [{0}] selected.\n\n\"!\"\n\nThough it sensed the Sinner’s presence before it emerged,\n\nIt didn’t have enough time to act before [{0}] swung their weapon at it.\n\nThe entity hurriedly closed the dimensional rift as it fled back into its safety. That seems to have destabilized the dimensional rift.\n\nOpportunity."
+            ],
+            "failureDesc": [
+                "Soon, the entity began to crawl out of the dimensional rift.\n\n… From the rift opposite to the one that [{0}] had selected, unfortunately.\n\n[{0}] quickly turned around, brandishing their weapon… but the entity was faster.\n\nIt goes without saying that a powerful attack soon struck the Sinner."
+            ]
+        },
+        {
+            "id": 855501,
+            "title": "Steam Transport Machine",
+            "prevDesc": "A luz lava os sedimentos do passado.",
+            "eventDesc": "Os tubos de vácuo no centro do torso da Máquina de Transporte a Vapor estão brilhando.\n\nLentamente, ou rapidamente, os números exibidos nos tubos de vácuo diminuíram...\n\nE seu chassi quebrado e enferrujado começou a se reconstruir.\n\nA Máquina de Transporte a Vapor retornou a quando foi produzida pela primeira vez?\n\nDeixando para trás tudo o que passou.\n\nQuanto mais velha a máquina fica, mais de si mesma ela terá que se reconstruir.\n\nTalvez a Máquina de Transporte a Vapor possa ser parada... se alguém pudesse alcançar seus tubos de vácuo?",
+            "behaveDesc": "Quem vai colocar a mão nos tubos de vácuo?",
+            "successDesc": [
+                "[{0}] strode up to the Steam Transport Machine.\n\nIt appeared that the Steam Transport Machine was in a deep focus. The machine stood completely still, no matter how close the Sinner got to it.\n\n[{0}] did not hesitate to reach into the vacuum tubes.\n\n”Ooh!!”\n\n”The numbers…!”\n\nLooks like [{0}] tapped into their creativity and swapped out one of the electrodes connected to the vacuum tubes.\n\nThat seems to have done the trick; the numbers ceased to decrease.\n\nThe Steam Transport Machine began to creak into motion once again, as though it just realized what had happened, but the perpetrator was long gone."
+            ],
+            "failureDesc": [
+                "[{0}] strode up to the Steam Transport Machine.\n\nIt appeared that the Steam Transport Machine was in a deep focus. The machine stood completely still, no matter how close the Sinner got to it.\n\n[{0}] did not hesitate to reach into the vacuum tubes.\n\n”Wait, watch out—!”\n\nPerhaps we’ve been tricked by the Steam Transport Machine. Perhaps finished reconstructing itself right on time.\n\nWhichever was the case, the machine snatched [{0}]’s wrist…\n\nAnd blasted them with scalding steam.\n\n… It’s going to be a while before [{0}] recovers."
+            ]
+        },
+        {
+            "id": 85560101,
+            "title": "Sign of Roses",
+            "prevDesc": "",
+            "eventDesc": "",
+            "behaveDesc": "De que cor você gostaria de tingir as pétalas?",
+            "successDesc": [
+                "\"Ah, how pretty.\"\n\n\"And so vivid, too!\"\n\n\"Your sin was such a beautiful hue of {0}.\"\n\n\"You've really made a fine addition to the garden.\"\n\n\"The color of {0}?! I'll plant it right next to me.\"\n\n\"Then… Shall we play some more?\"\n\n\"This garden will become terribly beautiful with more sinful flowers we bloom!\""
+            ],
+            "failureDesc": [
+                "\"Mm, still too pale.\"\n\n\"We don't need bland flowers like yours.\"\n\n\"How disappointing~\"\n\nWith that, they fell silent.\n\nThey probably didn't like it very much."
+            ]
+        }
+    ]
+}

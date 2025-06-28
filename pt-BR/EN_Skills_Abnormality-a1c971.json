@@ -1,0 +1,567 @@
+{
+  "dataList": [
+    {
+      "id": 108001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stoneshower",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], potência base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gather Stones",
+          "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Power Base +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rising Sloth",
+          "desc": "[[Bracket]] Power +1 para cada 3 [[suporte]] no alvo (máximo 3)\n[[Bracket]] Essa habilidade ganha peso ATK +1 para cada 5 [[suporte]] no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]] em [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]] uma vez para cada [[suporte]] contam com o alvo (máximo 2); Em seguida, reduza a contagem de [[suporte]] de alvo por 2"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +4 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "Infligir 2 [[suporte]] contra o atacante quando atingido o tempo que houver escudo restante HP\n[[Suporte]] Ganhe 3 proteção",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Decay Collission",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 2 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Torrent",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], potência base +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]] e +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]] e +2 [[Bracket]] Contagem contra 2 alvos aleatórios"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cascading Gloom",
+          "desc": "[[Bracket]] Power +1 para cada 3 [[suporte]] no alvo (máximo 3)\n[[Bracket]] Essa habilidade ganha peso ATK +1 para cada 5 [[suporte]] no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] e +4 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] Próxima moeda Power +1 para cada 3 [[suporte]] no alvo (3 vezes máximo)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Causa [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Bracket]] Target perde 5 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Topple",
+          "desc": "[[Bracket]] Consuma 20 [[Bracket]]: Ganho 1 [[Bracket]] para cada 10 [[Bracket]] consumido\n[[Bracket]] Power +1 para cada 10 [[suporte]] (Máx 2)\n[[Bracket]] Power +1 para cada 15 [[suporte]] em Self (Máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wound",
+          "desc": "[[Bracket]] Consuma 20 [[Bracket]]: Ganho 1 [[Bracket]] para cada 10 [[Bracket]] consumido\n[[Bracket]] Power +1 para cada 10 [[suporte]] (Máx 2)\n[[Bracket]] Power +1 para cada 15 [[suporte]] em Self (Máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quixote Hardblood Arts 4 - Sundering",
+          "desc": "[[Bracket]] Se o alvo tiver 6+ [[suporte]], Power de moedas +1\n[[Bracket]] Com essa habilidade, causar +20% mais danos a cada etapa de [[suporte]] (no máximo 60%)\n[[Bracket]] Consume 4 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quixote Hardblood Arts 11 - Impaling",
+          "desc": "[[Bracket]] Para cada 3 [[suporte]] no alvo, potência base +1 (máximo 3)\n[[Bracket]] Com essa habilidade, causar +20% mais danos a cada etapa de [[suporte]] (no máximo 60%)\n[[Bracket]] Consume 4 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ativa [[Bracket]] no alvo igual à sua contagem. Use o [[suporte]] do alvo contagem até 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Variant Don Quixote Style: Sancho Arts 4 - Track",
+          "desc": "Prioriza os alvos com o máximo [[suporte]]\n[[Bracket]] Peso ATK +1 para cada 10 [[suporte]] em Self (Máx 3)\n[[Bracket]] Clash Power +1 para cada 5 [[suporte]] no alvo (máximo 3)\n[[Bracket]] consome até 30 [[suporte]]: Gain 1 [[Bracket]] e Power +1 para cada 15 [[Bracket]] consumido (Máx 2)\n- Se esta unidade falhar em consumir [[Bracket]], obtenha 10 [[Bracket]] e ativar [[Bracket]] imediatamente. Perder 1 [[suporte]] contagem\n[[Bracket]] Aumentar",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno\n- Se essa habilidade consumida 30 [[suporte]], infligir 2 adicionais [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Variant Don Quixote Style: Sancho Arts 3 - Ambush",
+          "desc": "Prioriza os alvos com o máximo [[suporte]]\n[[Bracket]] Peso ATK +1 para cada 10 [[suporte]] em Self (Máx 2)\n[[Bracket]] Clash Power +1 para cada 5 [[suporte]] no alvo (máximo 3)\n[[Bracket]] consome até 30 [[suporte]]: Gain 1 [[Bracket]] e Power +1 para cada 15 [[Bracket]] consumido (Máx 2)\n- Se esta unidade falhar em consumir [[Bracket]], obtenha 10 [[Bracket]] e ativar [[Bracket]] imediatamente. Perder 1 [[suporte]] contagem\n[[Bracket]] Aumentar",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno\n- Se essa habilidade consumiu 50 [[suporte]], infligir 2 adicionais [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quixote Hardblood Arts 2 - Hardblood",
+          "desc": "Pode se chocá -lo com essa habilidade, independentemente da velocidade\n[[Bracket]] Ganho 1 [[Bracket]]\n[[Bracket]] consume 100 [[Bracket]]; Ganho 1 [[suporte]] e 20 Shield HP para cada 10 [[suporte]] consumido\n- Se esta unidade não tiver o suficiente [[suporte]], obtenha 50 [[suporte]] e ativá -la imediatamente. Perder 2 [[suporte]] contagem. Ganhe 200 Shield HP (esse dano não reduz o HP desta unidade para 0)\n[[Bracket]] Enquanto o escudo HP dessa habilidade permanecer, ganhe 3 [[suporte]]\n[[Suporte]] Essa habilidade causa -50% menos dano\n[[Bracket]] Fase de combate final",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] e +3 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Aventura Ha Terminado",
+          "desc": "Acordo +10% mais danos para cada [suporte]] no alvo (máximo de 200%)\nAcordo +10% mais danos a cada 3 [[suporte]] (máximo 100%)\n[[Bracket]] consome (45 - SP atual) [[suporte]] e cura até 45 sp\n- Se não houver o suficiente [[bracket]], ganhe 20 [[suporte]] e cure até 45 sp\n- Gain Shield HP igual a permanecer [[suporte]] (máximo 100)\n[[Bracket]] Infligir 10 [[Bracket]]\n[[Bracket]] Aumentar\n[[Bracket]] Se o alvo for derrotado, aumente [[suporte]] pelo máximo do alvo HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 10 [[Bracket]] e +3 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]] e +3 [[bracket]] contam a todos os inimigos, exceto pelo alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Aventura Ha Terminado...",
+          "desc": "Acordo +40% mais danos a cada 10 (soma de [[suporte]] em todos os alvos]) (máximo de 200%)\nAcordo +10% mais danos para cada cumulativo [[suporte]] Esta unidade consumiu (máximo 100%)\n[[Bracket]] consome (45 - SP atual) [[suporte]] e cura até 45 sp\n- Se não houver o suficiente [[bracket]], ganhe 20 [[suporte]] e cure até 45 sp\n- Gain Shield HP igual a permanecer [[suporte]] (máximo 100)\n[[Bracket]] Infligir 10 [[Bracket]]\n[[Bracket]] Aumentar\n[[Bracket]] Se o alvo for derrotado, aumente [[suporte]] pelo máximo do alvo HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Infligir 10 [[suporte]] e +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Compression",
+          "desc": "[[Bracket]] Power final +1 para cada 5 [[suporte]] Potência em Self (Máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 2 [[suporte]] Potência"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[suporte]] Potência e +2 [[Bracket]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dismantle",
+          "desc": "[[Bracket]] Power final +1 para cada 3 [[suporte]] potência em si (máximo 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[suporte]] Potência"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Conduct Analysis",
+          "desc": "[[Bracket]] A 10+ [[Bracket]] Potência, consuma [[bracket]] potência para obter +2 potência final para cada 3 [[suporte]] potência consumida (máximo 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] se o alvo tiver 5+ [[bracket]] contagem, gatilho [[suporte]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]] Potência e +3 [[Bracket]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]] duas vezes; Em seguida, reduza a contagem de [[suporte]] de alvo por 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trigger Extinction Sequence",
+          "desc": "[[Bracket]] consome metade de [[suporte]] potência e conte em si mesmo\n- Ganho (soma do consumido [[bracket]] potência e contagem / 2) Power final (máximo 20)\n- Deal +(soma do consumido [[suporte]] potência e contagem x 2)% mais danos (no máximo 50%)\n- +(soma do consumido [[suporte]] potência e contagem x 4)% mais danos no acerto crítico (máximo 100%)\n[[Bracket]] Reduza a contagem restante [[suporte]] pela metade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Se o usuário não sofreu danos HP na última vez, garanta um crítico"
+                },
+                {
+                  "desc": "Se o usuário sofreu danos HP na última vez, não criticou; Em vez disso, causar -80% menos dano"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]] três vezes; Em seguida, reduza a contagem de [[suporte]] de alvo por 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contemplation",
+          "desc": "[[Bracket]] Power Final +1 para [[suporte]] Potência em Self (Máx 5)\n[[Bracket]] Ganhe 4 [[Bracket]] Potencência\n- Se esta unidade tiver escudo, ganhe +2 [[backet]] também",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

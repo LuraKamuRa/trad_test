@@ -1,0 +1,176 @@
+{
+    "dataList": [
+        {
+            "id": "clear_turn",
+            "content": "Voltas claras"
+        },
+        {
+            "id": "accumulated_turn",
+            "content": "Voltas totais"
+        },
+        {
+            "id": "final_accumulated_turn",
+            "content": "Contagem final de turno"
+        },
+        {
+            "id": "reward_after_clear",
+            "content": "Recompensas claras"
+        },
+        {
+            "id": "lost_and_found",
+            "content": "Perdido e encontrado"
+        },
+        {
+            "id": "railway_line",
+            "content": "Linha {0}"
+        },
+        {
+            "id": "progressing_railway_line",
+            "content": "Viagem: {0}"
+        },
+        {
+            "id": "select_railway_line",
+            "content": "Que linha você vai viajar?"
+        },
+        {
+            "id": "stage_info",
+            "content": "Dados da estação"
+        },
+        {
+            "id": "stage_number",
+            "content": "Estação {0}"
+        },
+        {
+            "id": "mirror_refraction_railway",
+            "content": "Ferrovia de refração"
+        },
+        {
+            "id": "mirror_refraction_railway_with_dungeon_name",
+            "content": "Railway de refração {0}"
+        },
+        {
+            "id": "accumulated_records",
+            "content": "Coleção de viagens"
+        },
+        {
+            "id": "rank_with_number",
+            "content": "Classificação #{0}"
+        },
+        {
+            "id": "open_railway_dungeon_records",
+            "content": "Logs"
+        },
+        {
+            "id": "no_more_rewards_remains_desc",
+            "content": "Sem recompensas para reivindicar."
+        },
+        {
+            "id": "use_enkephalin_module_to_acquire_rewards",
+            "content": "Gastar<color=#990000>{0} módulos de enkefalina</color>Para desbloquear as recompensas?"
+        },
+        {
+            "id": "able_to_acquire_rewards_without_using_enkephalin_module",
+            "content": "※ Depois de desbloqueado, você pode reivindicar livremente as recompensas que ganhou durante o evento sem nenhum custo adicional."
+        },
+        {
+            "id": "railway_dungeon_ask_for_re_enter",
+            "content": "Atualmente em<color=#990000>{0} para a estação {1}</color>.\nRetomar suas viagens?"
+        },
+        {
+            "id": "railway_dungeon_current_running",
+            "content": "{0}-{1} em andamento"
+        },
+        {
+            "id": "final_clear_accumulated_turn",
+            "content": "Contagem final de turno"
+        },
+        {
+            "id": "railway_dungeon_detailed_info",
+            "content": "Detalhes"
+        },
+        {
+            "id": "railway_dungeon_1_banner_reward_condition_1",
+            "content": "Railway de refração - estação clara {0}"
+        },
+        {
+            "id": "railway_dungeon_1_banner_reward_condition_2",
+            "content": "Railway de refração - estação clara {0} em {1} voltas totais"
+        },
+        {
+            "id": "railway_dungeon_1_banner_reward_condition_3",
+            "content": "(Completo antes {0})"
+        },
+        {
+            "id": "railway_dungeon_banner_reward_condition_title",
+            "content": "Requisitos de banner"
+        },
+        {
+            "id": "railway_dungeon_banner_reward_unable_over",
+            "content": "(Passado inatingível {0} TOTAL)"
+        },
+        {
+            "id": "no_records_description",
+            "content": "O diário de viagem está atualmente vazio."
+        },
+        {
+            "id": "recover_after_resting_battle",
+            "content": "Se recupera totalmente\nDepois de descansar\npara esta batalha"
+        },
+        {
+            "id": "railway_dungeon_try_last_node",
+            "content": "Você não pode voltar depois de entrar no terminal.\n\nEntrar no terminal?"
+        },
+        {
+            "id": "railway_dungeon_ask_stop_desc",
+            "content": "Você gostaria de desembarcar da ferrovia de refração?"
+        },
+        {
+            "id": "railway_dungeon_finished_description",
+            "content": "※ Se dois registros tiverem o mesmo total de voltas, o com o maior número de mortes será substituído.\nSe a contagem da morte também for idêntica, o mais velho será substituído."
+        },
+        {
+            "id": "railway_dungeon_open_duration",
+            "content": "Período de operação"
+        },
+        {
+            "id": "railway_dungeon_current_station",
+            "content": "{0}"
+        },
+        {
+            "id": "railway_dungeon_route_map",
+            "content": "Diagrama de linhas"
+        },
+        {
+            "id": "railway_dungeon_resume_operation",
+            "content": "Continue viagens"
+        },
+        {
+            "id": "railway_dungeon_stop_operation",
+            "content": "Desembarcar"
+        },
+        {
+            "id": "railway_dungeon_station_info",
+            "content": "Informações de linha"
+        },
+        {
+            "id": "railway_dungeon_operation_closed",
+            "content": "Fechamento de linha"
+        },
+        {
+            "id": "final_clear_accumulated_round",
+            "content": "Contagem final de ciclo"
+        },
+        {
+            "id": "railway_clear_date",
+            "content": "Data de registro"
+        },
+        {
+            "id": "railway_clear_turn_count",
+            "content": "Contagem total de curva clara"
+        },
+        {
+            "id": "railway_clear_turn_count_by_stage",
+            "content": "Contagem clara de turnos por seção"
+        }
+    ]
+}

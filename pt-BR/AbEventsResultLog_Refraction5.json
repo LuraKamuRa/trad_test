@@ -1,0 +1,52 @@
+{
+    "dataList": [
+        {
+            "id": "8630_BUFF",
+            "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganhos</color>%{2} {1}/%"
+        },
+        {
+            "id": "8630_SHIELD",
+            "content": "<color=#ebcaa2>{0} Gains {1} Shield</color>"
+        },
+        {
+            "id": "863201_1_1",
+            "content": "<color=#ebcaa2>{0} resistências físicas enfraquecidas\n- Slash, Pierce, resistência direta +0,3</color>"
+        },
+        {
+            "id": "863201_1_2",
+            "content": "<color=#ebcaa2>Para este turno, {0} causa +100% mais danos no acerto crítico</color>"
+        },
+        {
+            "id": "863201_2_1",
+            "content": "Para este turno,<color=#ebcaa2>Todos os aliados</color>ganho %{1} {0}/ %"
+        },
+        {
+            "id": "863301_1_1",
+            "content": "Por 3 voltas,<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganhos</color>%{2} {1} e {4} {3}/%"
+        },
+        {
+            "id": "863301_2_1",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> <color=#fe4b48>perder 10% hp.</color>"
+        },
+        {
+            "id": "863301_2_2",
+            "content": "Por 3 voltas,<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganhos</color>%{2} {1} e {4} {3}/%"
+        },
+        {
+            "id": "863301_3_1",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> <color=#fe4b48>perder 15% hp.</color>"
+        },
+        {
+            "id": "863301_3_2",
+            "content": "Por 3 voltas,<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganhos</color>%{2} {1} e {4} {3}/%"
+        },
+        {
+            "id": "863301_4_1",
+            "content": "<color=#fe4b48>Pela metade do presente Bloodfast</color> <color=#ebcaa2>neste encontro</color>"
+        },
+        {
+            "id": "863301_4_2",
+            "content": "Por 3 voltas,<color=#ebcaa2>{0}</color> <color=#ebcaa2>ganhos</color>%{2} {1} e {4} {3}/%"
+        }
+    ]
+}

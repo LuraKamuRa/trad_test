@@ -1,0 +1,1256 @@
+{
+    "dataList": [
+        {
+            "id": 1080701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ready to Crush",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +3 contagem de tremores"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Ready to Crush",
+                    "desc": "[WhenUse]Ganhar +3 contagem de tremores",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +3 contagem de tremores"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ready to Crush",
+                    "desc": "[WhenUse]Ganhar +3 contagem de tremores",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +3 contagem de tremores"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Explosive Blast",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de tremores"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 nível de defesa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Explosive Blast",
+                    "desc": "A 5+ Tremor Count, Moeda Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +2 contagem de tremores"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 nível de defesa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Explosive Blast",
+                    "desc": "A 5+ Tremor Count, Moeda Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +2 contagem de tremores"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 nível de defesa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080703,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Risky Judgement",
+                    "desc": "A 5+ Tremor Count, Moeda Power +1\nSe o alvo tiver mais de 6 anos, causar + 20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5 contagem de naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Gaste 5 tremores contando para infligir 1 curva frágil na próxima vez"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Gaste 5 tremores para infligir 2 curva frágil na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Risky Judgement",
+                    "desc": "Power de moedas +1 para cada 5 tremor contagem consigo mesmo (máximo 2)\nSe o alvo tiver mais de 6 anos, causar + 40% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5 contagem de naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Gaste 5 tremores contando para infligir 1 curva frágil na próxima vez"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Gaste 5 tremores para infligir 2 curva frágil na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nimble Steps",
+                    "desc": "[WhenUse]Ganhe 2 proteção de ruptura (6 vezes por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "To Me!",
+                    "desc": "[WhenUse]Em seguida, o slot de habilidade mais à esquerda de 1 outro aliado com os maiores ganhos máximos de HP +(ressonamento mais alto.) Aggro (uma vez por turno)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "To Me!",
+                    "desc": "[WhenUse]Em seguida, o slot de habilidade mais à esquerda de 1 outro aliado com os maiores ganhos máximos de HP +(ressonamento mais alto.) Aggro (uma vez por turno)\n- Com mais de 4 mais alto a-reson., Aplique 1 proteção ao aliado próximo quando eles ganham aggro (uma vez por turno)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "To Me!",
+                    "desc": "<style=\"highlight\">[StartBattle]Aplique 2 níveis de defesa de até 2 aliados adjacentes a esta unidade no painel</style>\n[WhenUse]Em seguida, o slot de habilidade mais à esquerda de 1 outro aliado com os maiores ganhos máximos de HP +(ressonamento mais alto.) Aggro (uma vez por turno)\n- Com mais de 4 mais alto a-reson., Aplique 1 proteção ao aliado próximo quando eles ganham aggro (uma vez por turno)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pursue Them to the End!",
+                    "desc": "[WhenUse]Cada resson. da maior ressonância. acrescenta 10% de chance de que esta unidade ordena o aliado à sua direita imediata (no painel) para usar[CoverAttack]esta vez.",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Pursue Them to the End!",
+                    "desc": "[WhenUse]Cada resson. da maior ressonância. acrescenta 15% de chance de que esta unidade ordena o aliado à sua direita imediata (no painel) para usar[CoverAttack]esta vez.\n- Com mais de 4 mais alto a-reson., Aplique 1 dano ao aliado\n- A 4+ Pride A-Reson., Aplique 1 orgulho adicional",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Pursue Them to the End!",
+                    "desc": "[StartBattle]Aplique 3 níveis de ofensa até 2 aliados adjacentes a esta unidade no painel[WhenUse]Cada resson. da maior ressonância. acrescenta 20% de chance de que esta unidade ordena o aliado à sua direita imediata (no painel) para usar[CoverAttack]esta vez.\n- Com mais de 4 mais alto a-reson., Aplique 2 danos ao aliado\n- A 4+ Pride A-Reson., Aplique 2 orgulho adicional",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 queima"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080803,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Harpoon of Obsession",
+                    "desc": "Causar mais danos com base no HP ausente do alvo ( +0,2% de dano por 1% faltando HP, máximo +20%)[EndSkill]Se o alvo for escalonado ou derrotado, (1+ (mais alto a-reson./2)) aliados com o menor SP Heal 10 SP, Gain 2 Poise e +4 Poise Count. (2 vezes máx. Max # de aliados que podem ser curados: 4)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Harpoon of Obsession",
+                    "desc": "Causar mais danos com base no HP ausente do alvo ( +0,3% de dano por 1% faltando HP, máximo +30%)\nPower de moedas +1 para cada 5[Laceration]no alvo (máximo 2)[EndSkill]Se o alvo for escalonado ou derrotado, (1+ (mais alto a-reson./2)) aliados com o menor SP Heal 10 SP, ganha 2 emoze e ganhe +4 de contagem de pontos. (4 vezes max. Max # de aliados que podem ser curados: 4)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Do Not Fear",
+                    "desc": "[WhenUse]Heal 3 SP para 2 aliados adjacentes a esta unidade no painel (2 vezes máximo)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Do Not Fear",
+                    "desc": "[WhenUse]Cura 5 SP para 2 aliados adjacentes a esta unidade no painel (2 vezes máximo)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sweeping Redirection",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Sweeping Redirection",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Sweeping Redirection",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, a moeda Power +1[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Housekeeping",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Housekeeping",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar[WinDuel]Ganho 2[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Housekeeping",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, a moeda Power +1[WhenUse]Ganhe +2[Breath]Contar[WinDuel]Ganho 2[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]Infligir 1[Binding]Próximo turno</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080903,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Restraining Technique",
+                    "desc": "[WhenUse]Ganhe 6[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[SlashTakeDamageUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Restraining Technique",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo, a moeda Power +1[WhenUse]Ganhe 6[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Sinking]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[SlashTakeDamageUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade]Heal 5 sp (uma vez por turno)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1081001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Zwei Knight's Greatsword Form",
+                    "desc": "[WhenUse]Ganhe +2[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho 1[DefenseUp]Para cada 4[Vibration]Conte com eu (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DefenseUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DefenseUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Zwei Knight's Greatsword Form",
+                    "desc": "[WhenUse]Ganho +<style=\"highlight\">3</style> [Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho 1[DefenseUp]para todo<style=\"highlight\">3</style> [Vibration]Conte com eu (máximo 2)<style=\"highlight\">[WhenUse]Em mais de 4[DefenseUp], Potência base +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">2</style> [DefenseUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">2</style> [DefenseUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Zwei Knight's Greatsword Form",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho 1[DefenseUp]para todo<style=\"highlight\">2</style> [Vibration]Conte consigo mesmo (Max<style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Potência base +1 para cada 4[DefenseUp](Máx 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[DefenseUp]Próximo turno<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[DefenseUp]Próximo turno<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1081002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Can't Let You Through.",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho 1[DefenseUp]Para cada 2[Vibration]Conte com eu (máximo 3)[WinDuel]Ganhe +3[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[DefenseUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Vibration]igual a (([Vibration]Contar com si mesmo)/2) (máx. 2)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 10 anos[DefenseUp], infligir 1[Reduction]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Can't Let You Through.",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho 1[DefenseUp]Para cada 2[Vibration]Conte consigo mesmo (Max<style=\"highlight\">4</style>)\n<style=\"highlight\">[WhenUse]A 5+[DefenseUp], Power de moedas +1</style>\n[WinDuel]Ganhe +3[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">3</style> [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[DefenseUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Vibration]igual a (([Vibration]Contar com si mesmo)/2) (Max<style=\"highlight\">3</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 10 anos[DefenseUp], infligir 1[Reduction]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Can't Let You Through.",
+                    "desc": "[WhenUse]Ganho +<style=\"highlight\">5</style> [Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho 1[DefenseUp]Para cada 2[Vibration]Conte consigo mesmo (Max<style=\"highlight\">5</style>)\n[WhenUse]No<style=\"highlight\">4</style>+ [DefenseUp], Power de moedas +1[WinDuel]Ganhe +3[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">4</style> [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho<style=\"highlight\">4</style> [DefenseUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Vibration]igual a (([Vibration]Contar com si mesmo)/2) (Max<style=\"highlight\">4</style>)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]No<style=\"highlight\">8</style>+ [DefenseUp], infligir 1[Reduction]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1081003,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Ward",
+                    "desc": "[WhenUse]Ganho 1[DefenseUp]Para cada 2[Vibration]Conte com eu (máximo 3)[WhenUse]Se esta unidade estiver em[DefensiveStance], causar +50% mais danos[WhenUse]Power de moedas +1 para cada 4[DefenseUp]em si mesmo (máximo 2)[WhenUse]Ganhe +8[Aggro]Para este slot de habilidade na próxima curva[WinDuel]Ganhe +3[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma tudo[Vibration]Contar consigo mesmo e infligir o valor da contagem consumida como[Vibration]no alvo. (máximo 10)\n- Deal +(excesso[Vibration]x 1,5)% mais dano (máximo 30%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade estiver em[DefensiveStance], acionar[VibrationExplosion]; Em seguida, reduza o alvo[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ward",
+                    "desc": "[WhenUse]Ganho 1[DefenseUp]Para cada 2[Vibration]Conte consigo mesmo (Max<style=\"highlight\">5</style>)\n[WhenUse]Se esta unidade estiver em[DefensiveStance], negócio +<style=\"highlight\">70</style>% mais danos[WhenUse]Power de moedas +1 para cada 4[DefenseUp]em si mesmo (máx<style=\"highlight\">4</style>)\n[WhenUse]Ganho +<style=\"highlight\">10</style> [Aggro]Para este slot de habilidade na próxima curva[WinDuel]Ganhe +3[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma tudo[Vibration]Contar consigo mesmo e infligir o valor da contagem consumida como[Vibration]no alvo. (máx<style=\"highlight\">20</style>)\n- Deal +(excesso[Vibration]x<style=\"highlight\">5</style>)% mais dano (máximo<style=\"highlight\">50</style>%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se esta unidade estiver em[DefensiveStance], acionar[VibrationExplosion]; Em seguida, reduza o alvo[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1081004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Your Shield",
+                    "desc": "[CanDuelGuard]\n[StartBattle]Ganho 2[DefensiveStance]. (uma vez por turno)[WhenUse]Ganhe +10[Vibration]Contagem (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Your Shield",
+                    "desc": "[CanDuelGuard]\n[StartBattle]Ganho 2[DefensiveStance]. (uma vez por turno)[WhenUse]Ganhe +10[Vibration]Contagem (uma vez por turno)<style=\"highlight\">[WinDuel]Acionar[VibrationExplosion]</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1081101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Clean Up",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AttackDown]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Clean Up",
+                    "desc": "<style=\"highlight\">Se o alvo tiver 6+[Laceration], Power de moedas +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AttackDown]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Clean Up",
+                    "desc": "<style=\"highlight\">Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)\nAcordo +10% mais danos para todos os tipos de efeito negativo no alvo (máximo 30%)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AttackDown]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1081102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sharpened Blade",
+                    "desc": "[StartBattle]Em 2 outras identidades do clã Kurokumo aliadas com a velocidade mais rápida: aplique 1[AttackDmgUp](uma vez por turno)\n- Se houver 6+ aliados do clã Kurokumo, incluindo esta unidade, aplique 2[AttackDmgUp]a 5 aliados em vez disso",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Sharpened Blade",
+                    "desc": "<style=\"highlight\">Se o alvo tiver 6+[Laceration], Power de moedas +1</style>\n[StartBattle]Em 2 outras identidades do clã Kurokumo aliadas com a velocidade mais rápida: aplique<style=\"highlight\">2</style> [AttackDmgUp](uma vez por turno)\n- Se houver 6+ unidades de clã Kurokumo, incluindo esta unidade, aplique<style=\"highlight\">3</style> [AttackDmgUp]a 5 aliados em vez disso",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttackHead]Infligir 1[SlashTakeDamageUp](uma vez por turno)</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Ganho 1[SlashResultUp]Próximo turno (uma vez por turno)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Sharpened Blade",
+                    "desc": "<style=\"highlight\">Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)\nAcordo +10% mais danos para cada tipo de efeito negativo no alvo (máximo 50%)</style>\n[StartBattle]Em 2 outras identidades do clã Kurokumo aliado com a velocidade mais rápida: aplique 2[AttackDmgUp](uma vez por turno)\n- Se houver 6+ unidades de clã Kurokumo, incluindo esta unidade, aplique 4[AttackDmgUp]a 5 aliados em vez disso",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[SlashTakeDamageUp](uma vez por turno)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">- Se houver 6+ unidades de clã Kurokumo, incluindo esta unidade, infligir 2[Vulnerable]em vez de</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[SlashResultUp]Próximo turno (<style=\"highlight\">2 vezes</style>por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1081103,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Ink Over",
+                    "desc": "Se o alvo tiver 6+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ativar[Laceration]no alvo 3 vezes; Em seguida, reduza o deles[Laceration]Contar por 3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ink Over",
+                    "desc": "<style=\"highlight\">Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)[EnemyKill]Ganho 2[SlashResultUp]Próximo turno (uma vez por turno)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">Acordo +10% mais dano para cada tipo de efeito negativo no alvo (máximo 100%)</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ativar[Laceration]no alvo 3 vezes; Em seguida, reduza o deles[Laceration]Contar por 3<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1081104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Scattering Slash",
+                    "desc": "[StartBattle]Ganho 1[Protection](uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Scattering Slash",
+                    "desc": "[StartBattle]Ganho 1[Protection](uma vez por turno)<style=\"highlight\">[StartBattle]Em (2 + réson mais alto.) Identidades de clã Kurokumo Allied, incluindo esta unidade, com a velocidade mais rápida: aplique 2[Endurance](uma vez por turno)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

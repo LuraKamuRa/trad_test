@@ -1,0 +1,235 @@
+{
+    "dataList": [
+        {
+            "id": 9751,
+            "name": "Snake Slough",
+            "desc": "Início do turno: todos os aliados ganham 2 [DefenseUp].\nCada aliado ganha ([DefenseUp] em si mesmo / 4) Nível de Ofensa. (máx. 10)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9751,
+                    "simpleDesc": "All allies gain [DefenseUp] and Offense Level"
+                }
+            ]
+        },
+        {
+            "id": 19751,
+            "name": "Snake Slough+",
+            "desc": "Início do turno: todos os aliados ganham 4 [DefenseUp].\nCada aliado ganha ([DefenseUp] em si mesmo / 3) Nível de Ofensa. (máx. 10)",
+            "simpleDesc": [
+                {
+                    "abilityID": 19751,
+                    "simpleDesc": "All allies gain [DefenseUp] and Offense Level"
+                }
+            ]
+        },
+        {
+            "id": 29751,
+            "name": "Snake Slough++",
+            "desc": "Início do turno: todos os aliados ganham 4 [DefenseUp].\nCada aliado ganha ([DefenseUp] em si / 2) Nível de Ofensa. (máx. 10)",
+            "simpleDesc": [
+                {
+                    "abilityID": 29751,
+                    "simpleDesc": "All allies gain [DefenseUp] and Offense Level"
+                }
+            ]
+        },
+        {
+            "id": 9752,
+            "name": "False Halo",
+            "desc": "Ao acertar, ganhe 1 [Zazen]. (2 vezes por habilidade)\nSe esta unidade foi atingida por uma habilidade inimiga neste turno, ganhe +1 [Zazen] a mais a cada vez.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9752,
+                    "simpleDesc": "On Hit, gain 1 [Zazen]"
+                }
+            ]
+        },
+        {
+            "id": 19752,
+            "name": "False Halo+",
+            "desc": "Ao acertar, ganhe 1 [Zazen]. (3 vezes por habilidade)\nSe esta unidade foi atingida por uma habilidade inimiga neste turno, ganhe +1 [Zazen] a mais a cada vez.",
+            "simpleDesc": [
+                {
+                    "abilityID": 19752,
+                    "simpleDesc": "On Hit, gain 1 [Zazen]"
+                }
+            ]
+        },
+        {
+            "id": 29752,
+            "name": "False Halo++",
+            "desc": "Ao acertar, ganhe 2 [Zazen]. (3 vezes por habilidade)\nSe esta unidade foi atingida por uma habilidade inimiga neste turno, ganhe +1 [Zazen] a mais a cada vez.",
+            "simpleDesc": [
+                {
+                    "abilityID": 29752,
+                    "simpleDesc": "On Hit, gain 2 [Zazen]"
+                }
+            ]
+        },
+        {
+            "id": 9753,
+            "name": "Metronome",
+            "desc": "Em turnos ímpares, todos os aliados ganham 1 [AttackDmgUp]. Em turnos pares, todos os aliados ganham 1 [Protection].",
+            "simpleDesc": [
+                {
+                    "abilityID": 9753,
+                    "simpleDesc": "Enhance allies' attack or defense based on the turn number"
+                }
+            ]
+        },
+        {
+            "id": 19753,
+            "name": "Metronome+",
+            "desc": "Em turnos ímpares, todos os aliados ganham 1 [AttackDmgUp]. Em turnos pares, todos os aliados ganham 1 [Protection] e 1 [DefenseUp].",
+            "simpleDesc": [
+                {
+                    "abilityID": 19753,
+                    "simpleDesc": "Enhance allies' attack or defense based on the turn number"
+                }
+            ]
+        },
+        {
+            "id": 29753,
+            "name": "Metronome++",
+            "desc": "Em turnos ímpares, todos os aliados ganham 1 [AttackDmgUp] e 1 [AttackUp]. Em turnos pares, todos os aliados ganham 1 [Protection] e 1 [DefenseUp].",
+            "simpleDesc": [
+                {
+                    "abilityID": 29753,
+                    "simpleDesc": "Enhance allies' attack or defense based on the turn number"
+                }
+            ]
+        },
+        {
+            "id": 9754,
+            "name": "Bridle",
+            "desc": "Início do encontro: todos os aliados ganham (piso atual x 2)% HP máximo (máx. 20%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9754,
+                    "simpleDesc": "All allies gain max HP based on the current Floor"
+                }
+            ]
+        },
+        {
+            "id": 19754,
+            "name": "Bridle+",
+            "desc": "Início do encontro: todos os aliados ganham (piso atual x 3)% HP máximo (máx. 30%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 19754,
+                    "simpleDesc": "All allies gain max HP based on the current Floor"
+                }
+            ]
+        },
+        {
+            "id": 29754,
+            "name": "Bridle++",
+            "desc": "Início do encontro: todos os aliados ganham (piso atual x 5)% HP máximo (máx. 50%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 29754,
+                    "simpleDesc": "All allies gain max HP based on the current Floor"
+                }
+            ]
+        },
+        {
+            "id": 9755,
+            "name": "Contempt of the Gaze of Contempt",
+            "desc": "[Efeitos se aplicam somente a #6 Deployed Identity]\n\nCombat Start: causa +10% a mais de dano para cada habilidade de ataque inimiga que visa esta unidade (máx. 20%)\n\nCombat Start: quando alvo de 2+ Habilidades de Ataque, causa (# de Habilidades que tem como alvo esta unidade) dano fixo de HP e SP contra todos os inimigos que têm como alvo esta unidade. (máx. 3; esse efeito não fere aliados)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9755,
+                    "simpleDesc": "Deal more damage based on # of enemy Skills targeting this unit; deals fixed damage"
+                }
+            ]
+        },
+        {
+            "id": 19755,
+            "name": "Contempt of the Gaze of Contempt+",
+            "desc": "[Efeitos se aplicam somente a #6 Deployed Identity]\n\nCombat Start: causa +10% a mais de dano para cada habilidade de ataque inimiga que visa esta unidade (máx. 20%)\n\nCombat Start: quando alvo de 2+ Habilidades de Ataque, causa (# de Habilidades que têm como alvo esta unidade x 2) dano fixo de HP e SP contra todos os inimigos que têm como alvo esta unidade. (máx. 5; esse efeito não fere aliados)",
+            "simpleDesc": [
+                {
+                    "abilityID": 19755,
+                    "simpleDesc": "Deal more damage based on # of enemy Skills targeting this unit; deals fixed damage"
+                }
+            ]
+        },
+        {
+            "id": 29755,
+            "name": "Contempt of the Gaze of Contempt++",
+            "desc": "[Efeitos se aplicam somente às Identidades Implantadas nº 1 e nº 6]\n\nCombate Início: causa +10% a mais de dano para cada Habilidade de Ataque inimiga mirando nesta unidade (máx. 30%)\n\nCombate Início: quando mirado por 2+ Habilidades de Ataque, causa (nº de Habilidades mirando nesta unidade x 2) dano fixo de HP e SP contra todos os inimigos mirando nesta unidade. (máx. 10; este efeito não fere aliados)",
+            "simpleDesc": [
+                {
+                    "abilityID": 29755,
+                    "simpleDesc": "Deal more damage based on # of enemy Skills targeting this unit; deals fixed damage"
+                }
+            ]
+        },
+        {
+            "id": 9756,
+            "name": "Unhatched Embers",
+            "desc": "Ao receber dano mortal, fixe o HP para 1 no ataque; Após o ataque, cure 20% do HP máximo. (uma vez por encontro)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9756,
+                    "simpleDesc": "When taking mortal damage, defy death and heal HP"
+                }
+            ]
+        },
+        {
+            "id": 19756,
+            "name": "Unhatched Embers+",
+            "desc": "Ao receber dano mortal, fixe HP para 1 para o ataque; Após o Ataque, cure 20% do HP máximo. (uma vez por Encontro)\n\nSe a unidade afetada tiver [Combustão]: fixe HP para 1 para o ataque; Após o Ataque, cure 30% do HP máximo em vez disso. (uma vez por Encontro para este e o efeito acima)",
+            "simpleDesc": [
+                {
+                    "abilityID": 19756,
+                    "simpleDesc": "When taking mortal damage, defy death and heal HP"
+                }
+            ]
+        },
+        {
+            "id": 29756,
+            "name": "Unhatched Embers++",
+            "desc": "Ao receber dano mortal, fixe HP para 1 para o ataque; Após o Ataque, cure 20% do HP máximo. (uma vez por Encontro)\n\nSe a unidade afetada tiver [Combustão]: fixe HP para 1 para o ataque; Após o Ataque, cure 40% do HP máximo em vez disso. (uma vez por Encontro para este e o efeito acima)",
+            "simpleDesc": [
+                {
+                    "abilityID": 29756,
+                    "simpleDesc": "When taking mortal damage, defy death and heal HP"
+                }
+            ]
+        },
+        {
+            "id": 9757,
+            "name": "Anti-Ovine Grounding Plug",
+            "desc": "Quando atingido durante a fase de combate, inflija 1 [Paralisia] contra o atacante no próximo turno. (Uma vez por turno para cada personagem)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9757,
+                    "simpleDesc": "When hit, inflict 1 [Paralysis] next turn"
+                }
+            ]
+        },
+        {
+            "id": 19757,
+            "name": "Anti-Ovine Grounding Plug+",
+            "desc": "Quando atingido durante a fase de combate, inflija 1 [Paralysis] contra o atacante no próximo turno. (Uma vez por turno para cada personagem)\n\nEm 5+ Envy A-Reson., no Combat Start: inflija 1 [Paralysis] contra todos os inimigos.",
+            "simpleDesc": [
+                {
+                    "abilityID": 19757,
+                    "simpleDesc": "Combat Start: when hit, inflict 1 [Paralysis] next turn"
+                }
+            ]
+        },
+        {
+            "id": 9758,
+            "name": "Vestiges of the King",
+            "desc": "Batalhas em Cadeia) A partir do nº 7 Pecador Implantado, no início do mesmo turno em que Substitui, cura 10 SP, ganha 2 [Resultado de Parrying para Cima] e ganha 1 recurso E.G.O para cada uma de suas Habilidades 1, 2 e 3",
+            "simpleDesc": [
+                {
+                    "abilityID": 9758,
+                    "simpleDesc": "Heal SP, gain Clash Power Up, and E.G.O resources when substituting in"
+                }
+            ]
+        }
+    ]
+}

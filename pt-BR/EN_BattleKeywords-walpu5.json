@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "Smoke",
+      "name": "Smoke",
+      "desc": "- Max Potência: 10\n- contagem máxima: 5\n- AT 9+ Potência, potência final +1\n- Tome +5% a mais danos para cada potência\n- Perca 1 contagem no final do turno",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "Church_LowMorale",
+      "name": "The Church",
+      "desc": "- Baixo moral\n- Ganhe 1 contagem adicional de fumaça ou fumaça ao obtê -los\n- Turn Start: Ganhe 3 Fragility, 2 Dan Up e 1 Defense Power Up",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "Church_Panic",
+      "name": "The Church",
+      "desc": "- Pânico\n- Ganhe 2 contagem adicional de fumaça ou fumaça ao obtê -los\n- Turn Start: Ganhe 3 Fragility, 4 Dan Up e 2 Defense Power Up",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "MeatGearForce",
+      "name": "Meat Gear: Coercion",
+      "desc": "- HP não cai abaixo de 1 hp durante a fase de combate.\n- Esta unidade morre se tiver 1 hp na extremidade do turno.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AllSetForShooting",
+      "name": "Ready to Fire",
+      "desc": "- slot de habilidade +1\n- Modificar o pool de habilidades: ganho 1 uso da habilidade 3, mas perca 1 uso da habilidade 1\n- Deal +10% de dano para cada munição A habilidade de ataque base gasta\n- Habilidades de ataque que ganham munição de munição +10% mais danos para cada bala mágica (aplica o que tiver o maior ganho de dano)\n- On Kill With A Skill: Heal 25 SP para 2 aliados (incluindo eu) com o menor SP; +2, por exemplo, recursos para a afinidade da habilidade que derrotou o alvo; +1, por exemplo, recurso para todas as outras afinidades",
+      "summary": "",
+      "undefined": null
+    }
+  ]
+}

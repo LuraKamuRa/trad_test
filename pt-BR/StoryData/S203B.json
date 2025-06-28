@@ -1,0 +1,878 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "A Pawnshop",
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Agora… Para esta missão, basicamente vamos te dar tudo na boca. Tudo o que você precisa fazer é abrir bem e mastigar suas tarefas simples."
+        },
+        {
+            "id": 1,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Verifique os documentos neste envelope e faça exatamente, precisamente como os papéis dizem."
+        },
+        {
+            "id": 2,
+            "content": "A maneira como Saude pronunciou aquela vogal me irritou um pouco, mas decidi não discutir."
+        },
+        {
+            "id": 3,
+            "content": "Mesmo que eu fizesse isso, o tique-taque de um relógio seria tudo o que ela ouviria."
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "content": "Não há muita união nessa “operação conjunta”, não é? Você está apenas nos dizendo para seguir por trás."
+        },
+        {
+            "id": 5,
+            "model": "이스마엘",
+            "content": "Isso é um insulto. Eles estão nos confundindo com lubbers ou o quê?"
+        },
+        {
+            "id": 6,
+            "model": "이스마엘",
+            "content": "Olha, gerente, temos que colocar o pé no chão e…"
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "E…"
+        },
+        {
+            "id": 8,
+            "model": "이스마엘",
+            "content": "…faça o que eles dizem, eu acho?"
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Hein?>"
+        },
+        {
+            "id": 10,
+            "model": "이스마엘",
+            "content": "…Os documentos que nos deram. Eles são impecáveis."
+        },
+        {
+            "id": 11,
+            "model": "이스마엘",
+            "content": "Olhe para isso. Tem rotas desenhadas e tudo. Fazia séculos que não via um plano tão claro e meticuloso."
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "Mhm, certamente. Isso é certamente indicativo de seu conhecimento em escrever planos de operação adequados."
+        },
+        {
+            "id": 13,
+            "model": "오티스",
+            "content": "Ah, isso não quer dizer que seja comparável ao nível de premeditação que você demonstra, gerente."
+        },
+        {
+            "id": 14,
+            "content": "Convencido pelo elogio de Ishmael, abri o envelope e li atentamente o resumo da operação."
+        },
+        {
+            "id": 15,
+            "content": "O objetivo pode ser resumido da seguinte forma:"
+        },
+        {
+            "id": 16,
+            "content": "‘Chegue ao último andar do cassino.’"
+        },
+        {
+            "id": 17,
+            "content": "O principal motivo para organizar esse plano foi o prêmio de primeiro lugar no jogo de mesa que será realizado hoje."
+        },
+        {
+            "id": 18,
+            "content": "De acordo com os jornais, vencer a competição realizada no último andar do cassino é a única maneira de ter acesso à área do Ramo de Ouro."
+        },
+        {
+            "id": 19,
+            "content": "Quatro sindicatos que deram lances conjuntos no cassino estarão jogando neste jogo de azar…"
+        },
+        {
+            "id": 20,
+            "content": "Dos quatro… Usaremos o nome do infame…"
+        },
+        {
+            "id": 21,
+            "model": "단테",
+            "content": "<Sobre a Gangue?>"
+        },
+        {
+            "id": 22,
+            "model": "파우스트",
+            "content": "Um nome não reflete necessariamente a natureza de uma organização. Esse é um preconceito superficial."
+        },
+        {
+            "id": 23,
+            "model": "이상",
+            "content": "Não é ideal que alguém escolha ver as coisas através de lentes distorcidas, que são tendenciosas."
+        },
+        {
+            "id": 24,
+            "model": "단테",
+            "content": "<…Certo.>"
+        },
+        {
+            "id": 25,
+            "content": "…Voltando ao plano, vamos nos disfarçar como o chefe da ‘Gangue Tingtang’ e vencer aquele jogo de azar."
+        },
+        {
+            "id": 26,
+            "content": "Depois, temos que ir para os andares subterrâneos onde fica o Ramo Dourado."
+        },
+        {
+            "id": 27,
+            "content": "Antes do jogo, usaremos os itens e roupas que encontrarmos nas casas de penhores para nos disfarçarmos como nossos papéis, entraremos no cassino e esperaremos que o time no último andar vença o jogo."
+        },
+        {
+            "id": 28,
+            "content": "É basicamente isso para o esboço deste plano, eu acho…"
+        },
+        {
+            "id": 29,
+            "content": "Ei, espere um segundo. Essa coisa toda não vai desmoronar se nosso jogador não ganhar?"
+        },
+        {
+            "id": 30,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Também preparamos uma identificação falsa. É só para o caso de a segurança do cassino fazer inspeções aleatórias nos visitantes."
+        },
+        {
+            "id": 31,
+            "model": "그레고르",
+            "content": "Tudo bem, está tudo ótimo e elegante... Mas como você planeja vencer quando estiver no último andar?"
+        },
+        {
+            "id": 32,
+            "model": "에피",
+            "teller": "Effie",
+            "title": "LCCB",
+            "content": "Para que você acha que servem nossas roupas?"
+        },
+        {
+            "id": 33,
+            "model": "에피",
+            "teller": "Effie",
+            "title": "LCCB",
+            "content": "Nós praticamos durante meses para nos passarmos por crupiês de verdade."
+        },
+        {
+            "id": 34,
+            "model": "에피",
+            "teller": "Effie",
+            "title": "LCCB",
+            "content": "Nós lhe daremos boa sorte. O jogo está na sua bolsa, tudo o que você precisa é de um par de olhos funcionais."
+        },
+        {
+            "id": 35,
+            "content": "Effie murmurou a última parte para si mesmo novamente enquanto lançava um olhar de soslaio para o nosso grupo."
+        },
+        {
+            "id": 36,
+            "content": "Ele está deixando dolorosamente óbvio que não tem fé em nós."
+        },
+        {
+            "id": 37,
+            "model": "그레고르",
+            "content": "E como vamos tomar o lugar do chefe da Gangue Tingtang?"
+        },
+        {
+            "id": 38,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Colocaremos sedativos na comida servida no cassino. Já terminamos de negociar os detalhes com o chefe de cozinha."
+        },
+        {
+            "id": 39,
+            "model": "이상",
+            "content": "Sedativos…"
+        },
+        {
+            "id": 40,
+            "content": "Saude e Effie piscaram um para o outro."
+        },
+        {
+            "id": 41,
+            "content": "Foi um gesto que demonstrou que os dois eram parceiros ideais, capazes de entender os pensamentos um do outro apenas pela troca de olhares."
+        },
+        {
+            "id": 42,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Olá, caro penhorista~ Vamos dar uma olhada nos produtos em exposição daqui até lá~"
+        },
+        {
+            "id": 43,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Hyes? Oh! Não, sim, claro, claro. Por favor, tome seu tempo, senhora."
+        },
+        {
+            "id": 44,
+            "content": "A atitude do penhorista mudou bruscamente de desdenhosa para bajuladora."
+        },
+        {
+            "id": 45,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Agora, vamos pegar o que precisamos da tela."
+        },
+        {
+            "id": 46,
+            "model": "홍루",
+            "content": "Oh meu Deus! Este é um Guppcha Designer Brooch, não é?"
+        },
+        {
+            "id": 47,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Hyah~ Que olhos perspicazes você tem aí, senhor. Esta belezura é o esteio do catálogo da nossa loja. Apenas 10 delas foram feitas, então seu valor é positivamente in—"
+        },
+        {
+            "id": 48,
+            "model": "홍루",
+            "content": "Meu cachorro costumava ter um desses na coleira sempre que o levávamos para passear. É tão bom ver algo que traz lembranças agradáveis!"
+        },
+        {
+            "id": 49,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "…"
+        },
+        {
+            "id": 50,
+            "model": "로쟈",
+            "content": "Estou a fim dessas luvas de couro de vaca. Quem as tinha deve ter sido um fashionista~"
+        },
+        {
+            "id": 51,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Por favor, pegue itens que se encaixem no que está escrito nos envelopes. Vocês têm papéis a desempenhar."
+        },
+        {
+            "id": 52,
+            "model": "돈키호테",
+            "content": "Desculpe, mas o envelope que recebi diz “zelador”, isso deve ser algum tipo de erro!"
+        },
+        {
+            "id": 53,
+            "model": "그레고르",
+            "content": "Ok, está tudo bem, mas… Você tem dinheiro para pagar por tudo isso?"
+        },
+        {
+            "id": 54,
+            "model": "에피",
+            "teller": "Effie",
+            "title": "LCCB",
+            "content": "Preocupado com gastos? Quem você acha que somos, alguns mercenários de baixa patente? Não há nada que eu não possa pagar usando este ‘Black Card’."
+        },
+        {
+            "id": 55,
+            "model": "로쟈",
+            "content": "Dante! O que é isso?! Você me disse que não podemos ter carne de primeira porque não temos orçamento!"
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Então, os rumores eram verdadeiros de que equipes com desempenho notável recebiam um cartão da empresa sem limite de gastos."
+        },
+        {
+            "id": 57,
+            "content": "Enquanto todos ficaram chocados com a existência comprovada do lendário Black Card…"
+        },
+        {
+            "id": 58,
+            "content": "Uma voz alta veio de fora."
+        },
+        {
+            "id": 59,
+            "model": "촌스러운말투의콩콩파조직원",
+            "teller": "Rustic-sounding Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Oi, caduco! Eu não disse que seu pagamento venceria hoje?"
+        },
+        {
+            "id": 60,
+            "content": "Alguém que claramente pertence a um sindicato cruel entrou na casa de penhores."
+        },
+        {
+            "id": 61,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "P-Por favor… me dê mais uma chance. Juro que terei o dinheiro pronto."
+        },
+        {
+            "id": 62,
+            "model": "촌스러운말투의콩콩파조직원",
+            "teller": "Rustic-sounding Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Mais uma? Você não sabe fazer matemática básica? Você disse a mesma coisa da última vez! O chefe não vai gostar que eu perca um tempo precioso ensinando o jardim de infância de novo para você, ouviu?"
+        },
+        {
+            "id": 63,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "E-eu sou apenas um velho frágil em pé sobre pés trêmulos, não há realmente nada que você consiga me sacudir...!"
+        },
+        {
+            "id": 64,
+            "content": "Implorando em voz alta, o penhorista olhou para nós."
+        },
+        {
+            "id": 65,
+            "model": "촌스러운말투의콩콩파조직원",
+            "teller": "Rustic-sounding Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Eh? Você está respondendo agora? É, vá em frente, fique bravo! Eu não vou me sentir tão culpado desse jeito!"
+        },
+        {
+            "id": 66,
+            "content": "De certa forma, pela sua expressão, ele parecia estar secretamente implorando para que o ajudássemos."
+        },
+        {
+            "id": 67,
+            "content": "A atenção dos pecadores foi naturalmente atraída para a discussão em andamento."
+        },
+        {
+            "id": 68,
+            "model": "촌스러운말투의콩콩파조직원",
+            "teller": "Rustic-sounding Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "O que você está olhando? Você acha que eu estou brincando?!"
+        },
+        {
+            "id": 69,
+            "model": "이스마엘",
+            "content": "Nossa… Isso foi tão estereotipado que nem tive vontade de responder. As pessoas não podem ser mais criativas ao fazer provocações?"
+        },
+        {
+            "id": 70,
+            "model": "싱클레어",
+            "content": "Não deveríamos… ajudar, talvez?"
+        },
+        {
+            "id": 71,
+            "content": "Ao contrário de Ishmael, que zombou do capanga, Sinclair olhou ansiosamente."
+        },
+        {
+            "id": 72,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Não temos escolha, os Backstreets têm suas próprias regras e ordem. Não somos nós que perturbamos essa complexa teia da sociedade deles."
+        },
+        {
+            "id": 73,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Estranhos como nós só causarão um escândalo se tentarmos intervir."
+        },
+        {
+            "id": 74,
+            "content": "Satisfeito com a decisão dos pecadores de ficarem longe, o capanga continuou com a extorsão."
+        },
+        {
+            "id": 75,
+            "model": "촌스러운말투의콩콩파조직원",
+            "teller": "Rustic-sounding Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Hmph, se você não tem dinheiro, por que não paga suas dívidas com isso? A gente continua dizendo."
+        },
+        {
+            "id": 76,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "A-Qualquer coisa menos isso… Por favor…"
+        },
+        {
+            "id": 77,
+            "model": "단테",
+            "content": "<…É realmente certo deixá-los em paz?>"
+        },
+        {
+            "id": 78,
+            "model": "오티스",
+            "content": "Devo resolver a disputa para que isso não incomode você, gerente?"
+        },
+        {
+            "id": 79,
+            "model": "그레고르",
+            "content": "O que esse cara durão quer dizer com \"isso\", afinal?"
+        },
+        {
+            "id": 80,
+            "model": "파우스트",
+            "content": "…Uma moeda mais valiosa que dinheiro existe neste Distrito."
+        },
+        {
+            "id": 81,
+            "model": "파우스트",
+            "content": "É bem sabido que a Singularity da J Corp é uma poderosa tecnologia de segurança capaz de bloquear qualquer coisa."
+        },
+        {
+            "id": 82,
+            "model": "파우스트",
+            "content": "O que é menos conhecido, no entanto, é o extenso contexto cultural e histórico dos Backstreets of Nest J que levaram à criação da Singularity."
+        },
+        {
+            "id": 83,
+            "model": "히스클리프",
+            "content": "H, história…? Você está falando sério sobre nos dar um sermão aqui e agora…? Nunca me falaram sobre qualquer educação obrigatória quando entrei para esta empresa!"
+        },
+        {
+            "id": 84,
+            "content": "Apesar da oposição, Fausto continuou com sua explicação."
+        },
+        {
+            "id": 85,
+            "model": "파우스트",
+            "content": "Aqui, existe uma tecnologia para extrair o “poder de desejo” das pessoas."
+        },
+        {
+            "id": 86,
+            "model": "파우스트",
+            "content": "Embora não seja amplamente conhecido fora deste Distrito, pois não tinha a generalidade necessária para ser reconhecido como uma Singularidade."
+        },
+        {
+            "id": 87,
+            "model": "파우스트",
+            "content": "Em essência, é processar ‘sorte’ em uma mercadoria que pode ser negociada. Como uma forma de dinheiro."
+        },
+        {
+            "id": 88,
+            "model": "파우스트",
+            "content": "Isso trouxe à tona a necessidade de uma maneira de impedir que outros extraíssem à força esse poder de desejo, levando à criação de uma tecnologia de segurança que acabou se desenvolvendo na Singularidade que conhecemos hoje."
+        },
+        {
+            "id": 89,
+            "model": "에피",
+            "teller": "Effie",
+            "title": "LCCB",
+            "content": "Nossa, Fausto~ Deve ser cansativo ter que ensinar esses idiotas de maneiras que eles consigam entender."
+        },
+        {
+            "id": 90,
+            "model": "파우스트",
+            "content": "Tudo bem, isso estava dentro do meu cenário previsto."
+        },
+        {
+            "id": 91,
+            "model": "히스클리프",
+            "content": "Não gosto da maneira como você diz isso…"
+        },
+        {
+            "id": 92,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Vamos lá, reúna os itens para ajudar com seus disfarces para que possamos ir embora."
+        },
+        {
+            "id": 93,
+            "content": "Saude agitou o documento cheio de planos programados para enfatizar que estaríamos ocupados."
+        },
+        {
+            "id": 94,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "Somos trabalhadores assalariados, não “heróis” lutando por justiça."
+        },
+        {
+            "id": 95,
+            "model": "단테",
+            "content": "<Espere… Essa palavra não…!>"
+        },
+        {
+            "id": 96,
+            "content": "Um mau pressentimento percorreu minha cabeça e me levou a contar os pecadores que eu conseguia ver."
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<Isso… não condiz com as crenças de uma certa pessoa…>"
+        },
+        {
+            "id": 98,
+            "content": "E é algo que provocaria severamente seus princípios…!"
+        },
+        {
+            "id": 99,
+            "model": "이스마엘",
+            "content": "…!"
+        },
+        {
+            "id": 100,
+            "content": "Ismael parece ter percebido o que eu quis dizer e olhou rapidamente ao redor."
+        },
+        {
+            "id": 101,
+            "model": "돈키호테",
+            "content": "Você ousa tentar roubar os objetos de valor dos outros? Esse comportamento só pode ser visto como vilania de todo o coração!"
+        },
+        {
+            "id": 102,
+            "model": "단테",
+            "content": "<Oh não…! Dom Quixote…!>"
+        },
+        {
+            "id": 103,
+            "content": "Mas já era tarde demais."
+        },
+        {
+            "id": 104,
+            "content": "Dom Quixote já havia corrido para a frente e estava balançando sua lança contra o Tingtanger, que agarrou o penhorista pelo colarinho."
+        },
+        {
+            "id": 105,
+            "content": "PALAVRA!"
+        },
+        {
+            "id": 106,
+            "content": "Pego completamente desprevenido, o bandido foi atingido bem na cabeça com o lado cego de sua lança."
+        },
+        {
+            "id": 107,
+            "content": "Nocauteado no chão com um golpe rápido, o capanga desmaiado se tornou o centro das atenções de todos nós dentro da casa de penhores por um minuto inteiro."
+        },
+        {
+            "id": 108,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "…"
+        },
+        {
+            "id": 109,
+            "model": "파우스트",
+            "content": "Ah, para sua informação, manter os Sinners sob controle não faz parte da minha descrição de trabalho. Esse seria o trabalho dessa pessoa aqui."
+        },
+        {
+            "id": 110,
+            "model": "단테",
+            "content": "<Não me olhe assim. Não há nada em minhas habilidades para mantê-la sob controle…>"
+        },
+        {
+            "id": 111,
+            "content": "Não consegui parar de defender minha posição, mesmo sabendo que minha voz não alcançaria ninguém além dos pecadores."
+        },
+        {
+            "id": 112,
+            "content": "Ah, bem. Não é como se minha defesa os fizesse parecer menos perplexos comigo se pudessem ouvi-la."
+        },
+        {
+            "id": 113,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Ooh…!"
+        },
+        {
+            "id": 114,
+            "content": "O penhorista foi o único satisfeito com essa reviravolta."
+        },
+        {
+            "id": 115,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Ótimo trabalho, senhora. Bem feito para esse hooligan! Mas eu digo, você poderia ter batido neles um pouco mais forte, talvez."
+        },
+        {
+            "id": 116,
+            "model": "돈키호테",
+            "content": "Vergilius me aconselhou que, embora eu seja livre para fazer justiça aos vilões, devo fazê-lo sem envolver indevidamente irrevelantes em nossa missão! Assim, mostrei moderação!"
+        },
+        {
+            "id": 117,
+            "content": "Sua expressão orgulhosa nunca pareceu tão provocadora."
+        },
+        {
+            "id": 118,
+            "model": "단테",
+            "content": "<Uh-huh. Então você se lembrou das palavras dele e ainda assim saltou para frente?>"
+        },
+        {
+            "id": 119,
+            "model": "돈키호테",
+            "content": "Foi uma ação necessária para permanecer fiel ao meu credo. Por favor, entenda minha violência virtuosa!"
+        },
+        {
+            "id": 120,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Não é para estragar o clima, mas… Aquele rufião não está realmente morto, certo?"
+        },
+        {
+            "id": 121,
+            "model": "그레고르",
+            "content": "Achei que você queria que ela fosse direto ao ponto, meu velho?"
+        },
+        {
+            "id": 122,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Eu fiz, eu fiz... Mas as coisas ficariam bem complicadas se a Yurodiviye aparecesse, sabe."
+        },
+        {
+            "id": 123,
+            "model": "로쟈",
+            "content": "Os Yurodiviye? O que eles estão fazendo aqui… Não, esqueça isso, por que você está se preocupando com eles?"
+        },
+        {
+            "id": 124,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Não está atualizada com as notícias, não é, senhora? Eles estão causando problemas aqui há meses."
+        },
+        {
+            "id": 125,
+            "model": "돈키호테",
+            "content": "Eles também são vilões?!"
+        },
+        {
+            "id": 126,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Ah, eles são vilões para nós, humildes comerciantes, com certeza. Eles estavam falando sobre, o que era isso, maltratando vendedores ambulantes gananciosos que guardavam dinheiro para si mesmos e o davam para aqueles que precisavam. Distribuindo algo, eles disseram..."
+        },
+        {
+            "id": 127,
+            "model": "뫼르소",
+            "content": "A redistribuição da riqueza."
+        },
+        {
+            "id": 128,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Aah~ É isso, sim. Esses canalhas estão roubando de nós, pobres coitados, a pouca riqueza que temos. E eles nem fazem o trabalho sujo eles mesmos, são sempre os brutos locais que eles mandam. Você acredita?"
+        },
+        {
+            "id": 129,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "De qualquer forma, a vida tem sido difícil para nós por causa desses bandos hipócritas. Parecia que eles estavam aqui para encontrar algo no começo, mas tudo o que eles fazem agora é arrancar dinheiro de nós…"
+        },
+        {
+            "id": 130,
+            "model": "로쟈",
+            "content": "…Ah! E-eu acabei de perceber, não deveríamos ir embora agora? Mais durões da Gangue Tingtang podem estar vindo para cá."
+        },
+        {
+            "id": 131,
+            "content": "Parecia que Rodya cortou o negócio do penhorista de propósito, às pressas, mas tive pouco tempo para pensar nas implicações."
+        },
+        {
+            "id": 132,
+            "content": "O membro da gangue que Dom Quixote havia nocauteado começou a se encolher como se fosse se levantar logo."
+        },
+        {
+            "id": 133,
+            "model": "에피",
+            "teller": "Effie",
+            "title": "LCCB",
+            "content": "Suspiro, que chatice… Você está tornando o problema maior do que deveria ser."
+        },
+        {
+            "id": 134,
+            "model": "그레고르",
+            "content": "Ei, Muffin e Sablé, foi? Não sejam tão azedos agora. Há muitas casas de penhores por aqui, certo? Sempre podemos encontrar um diferente—"
+        },
+        {
+            "id": 135,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "É Effie e Saude. Por favor, não confunda nossos nomes com confeitos."
+        },
+        {
+            "id": 136,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "E sua afirmação de que há muitas casas de penhores nas proximidades não significará muito…"
+        },
+        {
+            "id": 137,
+            "model": "소드",
+            "teller": "Saude",
+            "title": "LCCB",
+            "content": "…Quando essas casas de penhores percebem os problemas que estão acontecendo aqui e fecham…"
+        },
+        {
+            "id": 138,
+            "model": "단테",
+            "content": "<Dom Quixote…!>"
+        },
+        {
+            "id": 139,
+            "model": "에피",
+            "teller": "Effie",
+            "title": "LCCB",
+            "content": "Estou ficando cansado de dar sermão nesses idiotas sobre cada coisinha. Nós deveríamos simplesmente ir embora."
+        },
+        {
+            "id": 140,
+            "content": "Assim que tentei sair, alguém vestindo roupas de bandido semelhantes às que tínhamos acabado de derrubar — com um rosto que parecia igualmente rude — invadiu a loja."
+        },
+        {
+            "id": 141,
+            "model": "세보이고싶었던콩콩파조직원",
+            "teller": "Chest-puffing Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Ayo, velhote, você viu nosso pequeno—"
+        },
+        {
+            "id": 142,
+            "model": "세보이고싶었던콩콩파조직원",
+            "teller": "Chest-puffing Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Wee slimmy! O que está acontecendo aqui?!"
+        },
+        {
+            "id": 143,
+            "content": "Fizemos o possível para fingir ser clientes inocentes que estavam na casa de penhores na hora errada."
+        },
+        {
+            "id": 144,
+            "content": "Entretanto, numa infeliz coincidência de eventos, o bandido voltou a si…"
+        },
+        {
+            "id": 145,
+            "model": "세보이고싶었던콩콩파조직원",
+            "teller": "Chest-puffing Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Quem fez isso?! Me diga agora! Esse feijão vai se arrepender do dia em que criou talos!"
+        },
+        {
+            "id": 146,
+            "model": "촌스러운말투의콩콩파조직원",
+            "teller": "Chest-puffing Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Gnh… O… Ali…"
+        },
+        {
+            "id": 147,
+            "model": "촌스러운말투의콩콩파조직원",
+            "teller": "Chest-puffing Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Aquele vermelho… gatinho do tempo…"
+        },
+        {
+            "id": 148,
+            "content": "A direção que o dedo apontava era simplesmente clara demais para que eu fingisse o contrário."
+        },
+        {
+            "id": 149,
+            "content": "Além disso, não há sentido em negar que me referi a \"gato do tempo vermelho\", pois tenho certeza de que não haveria literalmente mais ninguém que correspondesse a essa descrição em todo este Distrito."
+        },
+        {
+            "id": 150,
+            "model": "전당포주인",
+            "teller": "Pawnbroker",
+            "title": "J Corp. Pawnshop",
+            "content": "Só para você não ter uma ideia errada, eu não tenho nada a ver com essas pessoas ou com o que aconteceu aqui. Eu estava prestes a trazer uma toalha para refrescar a cabeça desse pobre sujeito."
+        },
+        {
+            "id": 151,
+            "model": "히스클리프",
+            "content": "Aquele gaffer bajulador…"
+        },
+        {
+            "id": 152,
+            "model": "이스마엘",
+            "content": "Eu não tinha expectativas em relação a ele, em primeiro lugar, mas esse homem realmente tem uma espinha dorsal instável."
+        },
+        {
+            "id": 153,
+            "content": "Embora o penhorista mudando de lado num piscar de olhos e a calúnia do relógio apontando o dedo — sobre algo pelo qual eu também não era responsável — tenham me machucado um pouco, eu estava determinado a permanecer firme."
+        },
+        {
+            "id": 154,
+            "model": "세보이고싶었던콩콩파조직원",
+            "teller": "Chest-puffing Tingtanger",
+            "title": "Tingtang Gang",
+            "content": "Jah… Frijolitos ali… Pare. Congele no seu lugar."
+        },
+        {
+            "id": 155,
+            "content": "Principalmente porque estava claro que precisávamos correr agora."
+        },
+        {
+            "id": 156,
+            "content": "Se eu continuasse a deixar que pequenas coisas me incomodassem, mais cedo ou mais tarde eu acabaria sendo reduzido a polpa."
+        },
+        {
+            "id": 157,
+            "model": "료슈",
+            "content": "Bah. Não precisa correr. Vamos matar todos eles e acabar logo com isso."
+        },
+        {
+            "id": 158,
+            "model": "에피",
+            "teller": "Effie",
+            "title": "LCCB",
+            "content": "O que vem depois? Você vai acabar com o Sindicato inteiro?"
+        },
+        {
+            "id": 159,
+            "model": "료슈",
+            "content": "Heh. Isso não parece tão ruim."
+        },
+        {
+            "id": 160,
+            "model": "돈키호테",
+            "content": "As forças do mal devem ser erradicadas rapidamente para que a bandeira da justiça possa ser erguida bem alto!"
+        },
+        {
+            "id": 161,
+            "model": "에피",
+            "teller": "Effie",
+            "title": "LCCB",
+            "content": "Uh, então, sério que não tem ninguém na sua equipe que esteja em sã consciência?"
+        },
+        {
+            "id": 162,
+            "content": "Ishmael pareceu insultado por essa observação e parecia estar pensando em um contra-argumento, mas os capangas de Tingtang se armando eram uma questão mais urgente."
+        },
+        {
+            "id": 163,
+            "model": "단테",
+            "content": "<Vamos apenas…>"
+        },
+        {
+            "id": 164,
+            "model": "단테",
+            "content": "<Vamos sair daqui primeiro!>"
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+{
+    "dataList": [
+        {
+            "id": 9017801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guidance of the Gears",
+                    "desc": "[WhenUse]Ganho 2[Smoke]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Smoke]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Meat Gear: Stop",
+                    "desc": "[WhenUse]Ganhe 4[Smoke]e +2[Smoke]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Smoke]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Smoke]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vapour",
+                    "desc": "Clash Power +1 para cada 3[Smoke]no alvo (máximo 2)\nAcordo +10% mais danos a cada 3[Smoke]Sob -se (máximo de 20%)[WhenUse]Às 10[Smoke], Power de moedas +2[EndSkill]Consuma tudo[Smoke]em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Smoke]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Reutilizar moeda para cada 3[Smoke]No alvo (3 vezes máximo)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade Order",
+                    "desc": "[OnSucceedEvade]Ganhe 3[Smoke]e +1[Smoke]Contar[OnSucceedEvade]Às 10[Smoke], ganha 1[ParryingResultUp]e 3[Protection]Próximo turno (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guided by Gears",
+                    "desc": "[WhenUse]Ganho 2[Smoke]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Smoke]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Meat Gear: Grapple",
+                    "desc": "[WhenUse]Ganhe 4[Smoke]e +2[Smoke]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Smoke]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Smoke]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Assault Order",
+                    "desc": "Clash Power +1 para cada 3[Smoke]no alvo (máximo 2)\nAcordo +10% mais danos a cada 3[Smoke]Sob -se (máximo de 20%)[WhenUse]Às 10[Smoke], Power de moedas +2[EndSkill]Consuma tudo[Smoke]em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Smoke]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Reutilizar moeda para cada 3[Smoke]No alvo (3 vezes máximo)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade Order",
+                    "desc": "[OnSucceedEvade]Ganhe 3[Smoke]e +1[Smoke]Contar[OnSucceedEvade]Às 10[Smoke], ganha 1[ParryingResultUp]e 3[Protection]Próximo turno (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Meat Gear: Command",
+                    "desc": "[WhenUse]Ganhe 3[Smoke]e +2[Smoke]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Smoke]e +2[Smoke]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thought Gear: Collect",
+                    "desc": "[WhenUse]Ganhe 4[Smoke]e +2[Smoke]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Smoke]e +2[Smoke]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Meat Gear: Restrict",
+                    "desc": "Poder de moeda +1 para cada 3[Smoke]no alvo\nAcordo +10% mais danos a cada 3[Smoke]em si mesmo\nConsuma 3[Smoke]por si mesmo toda vez que essa habilidade reutiliza a moeda[WhenUse]Às 10[Smoke], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Smoke]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Reutilizar moeda para cada 5[Smoke]no alvo (2 vezes máx)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thought Gear: Remove",
+                    "desc": "Clash Power +1 para cada 3[Smoke]no alvo\nNegociar +20% mais danos para cada 3[Smoke]em si mesmo[WhenUse]Às 10[Smoke], Power de moedas +2[EndSkill]Consuma tudo[Smoke]em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Smoke]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Smoke]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Reutilizar moeda para cada 3[Smoke]No alvo (3 vezes máximo)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thought Gear: Vapour",
+                    "desc": "[WhenUse]Ganhe 5[Smoke]e +2[Smoke]Contar[WhenUse]Às 10[Smoke], ganha 2[PlusCoinValueUp]e 3[Protection]Próximo turno (uma vez por turno)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "dataList": [
+        {
+            "id": "MRcAfBa",
+            "name": "Gossypium",
+            "desc": "Quando o Gossypium Encharcado estiver em um estado de Gossypium Manchado de Vermelho, ganhe (valor Gossypium/2) Sangramento e Contagem de Sangramento no Fim do Turno",
+            "summary": "Fim do turno: Ganho (valor de Gossypium/2) Sangramento e Contagem de Sangramento"
+        },
+        {
+            "id": "MRcAfBb",
+            "name": "Red-stained Gossypium",
+            "desc": "Início do Turno: Dobre o Sangramento e a Contagem de Sangramento aplicados pelas Habilidades de Ataque.\nSe o alvo tiver Gossypium, ganhe Poder de Choque +(valor Gossypium/2)",
+            "summary": "Ganhe Poder de Choque +(valor Gossypium/2)"
+        },
+        {
+            "id": "MRcAiBa",
+            "name": "Ember",
+            "desc": "Máx. 5\nAo ganhar Ember, converta um número de Habilidades de Afinidade não-Wrath igual ao valor de Ember em Habilidades de Afinidade Wrath.\nQuando a Parte das Asas for quebrada, inflija Shimmering Ember igual ao valor de Ember no último atacante; então, todo Ember em si expira.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAiBb",
+            "name": "Shimmering Ember",
+            "desc": "Máx. 5\nGanhe Spark quando atingido por uma certa Skill. Todas as Shimmering Ember expiram.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAiBc",
+            "name": "Spark",
+            "desc": "Início de Combate: inflija Burn igual a Burn em si mesmo contra 2 unidades adjacentes (com base na Velocidade).\nNão pode ganhar Ember quando esta unidade tiver Spark.\nFim de Turno: reduza o valor em 1",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBa",
+            "name": "Contempt",
+            "desc": "Fim do Turno: Perca 3 Recursos E.G.O da Afinidade correspondente à Afinidade de Habilidade selecionada.\nFim do Turno: Ganhe 3 de Redução de Dano no próximo turno.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBb",
+            "name": "Grasp",
+            "desc": "Máx. 3\nVocê não pode agir\nFinal do turno: com valor 2, causa dano igual à metade do HP Máx. do alvo. Então, todas as Partes de Espiral do Desprezo curam a mesma quantidade de HP que o dano causado por esse efeito.\nFinal do turno: reduz o valor em 1.\nSe este efeito reduzir o HP do alvo a 0, o alvo não poderá mais ser curado.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBc",
+            "name": "Gaze",
+            "desc": "Causa +10% a mais de dano para cada valor de Olhar\nFim do Turno: com 7 Olhar, ganhe 15 Sangramento e substitua esse efeito por Desprezo.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBd",
+            "name": "All-beholding Gaze",
+            "desc": "Ganhe 1 em cada Fim de Turno.\nFim de Turno: todas as unidades com Gaze recebem (valor 4) dano fixo de HP e (valor 4) dano fixo de SP.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBbDisplay",
+            "name": "Grasp",
+            "desc": "Máx. 3\nVocê não pode agir\nFinal do turno: com valor 2, causa dano igual à metade do HP Máx. do alvo. Então, todas as Partes de Espiral do Desprezo curam a mesma quantidade de HP que o dano causado por esse efeito.\nFinal do turno: reduz o valor em 1.\nSe este efeito reduzir o HP do alvo a 0, o alvo não poderá mais ser curado.",
+            "summary": ""
+        }
+    ]
+}

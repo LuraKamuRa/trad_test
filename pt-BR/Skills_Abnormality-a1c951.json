@@ -1,0 +1,141 @@
+{
+    "dataList": [
+        {
+            "id": 811301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Be The Joy",
+                    "desc": "[WhenUse]Ganhe +2[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Binding]no alvo próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Be The Comfort",
+                    "desc": "[WhenUse]Ganhe +2[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +3[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Ganho[Breath]igual a[Breath]em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +3[Breath]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Here's a Gift",
+                    "desc": "Se o alvo tem[Binding], e se esta unidade tiver uma velocidade mais rápida, ganhe poder de conflito igual à diferença de velocidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Perder 5 sp"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]e +3[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 3[Paralysis]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let's Get Packing",
+                    "desc": "Se esta unidade tiver[AaCeSeBa], adicione 'infligir 1[Paralysis]Próximo turno 'para efeitos de moedas\nTem como alvo a unidade com a velocidade mais baixa[EndBattle]Gastar tudo[Charge]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Dano de bônus de acordo igual a[Breath]em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Breath]e +3[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Selecione aleatoriamente 1 de 4 efeitos ([Protection], Assim,[Enhancement], Assim,[Vulnerable], Assim,[Paralysis]). Infligir ou aplicar 3 do efeito selecionado."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]O alvo perde SP igual a[Charge]Conte com esta unidade"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Todos os inimigos perdem 10 sp."
+                                },
+                                {
+                                    "desc": "[EnemyKillFail]Ganho 2[Paralysis]Próximo turno."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Time to Get Boxed",
+                    "desc": "Se o Shield HP estiver completamente esgotado, fique escalonado no próximo turno.\nSe houver escudo restante HP, ganhe 2[Enhancement]Próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+  "dataList": [
+    {
+      "id": "UninvitedGuest",
+      "name": "Interloper",
+      "desc": "Quando uma identidade com o intruso for derrotada, mova -se para uma identidade diferente sem intruso.",
+      "summary": ""
+    },
+    {
+      "id": "ConnectedPlug",
+      "name": "Plugged In",
+      "desc": "Turn End:\n- Max 3\n- Aos 3, fique escalonado no próximo turno.\n- Aos 3, consuma toda a carga em si mesmo.",
+      "summary": ""
+    },
+    {
+      "id": "AntiSheepGround",
+      "name": "Anti-Ovine Grounding Plug",
+      "desc": "- MAX 1\n- Quando uma unidade sob esse efeito ganha um confronto contra a habilidade de 'recusa de fundamento', infligir 1 conectado ao alvo\n- reduzir pela metade a contagem de cobrança no alvo\n- Expira a próxima curva",
+      "summary": ""
+    },
+    {
+      "id": "ThundercloudFormation",
+      "name": "Gathering Lightning Cloud",
+      "desc": "- Max 5\n- Com 1 valor, use uma habilidade poderosa.\n- Reduzido por 1 na extremidade do turn. Ganhe 1 valor quando escalonado",
+      "summary": ""
+    },
+    {
+      "id": "BandageOfTheBoundKing",
+      "name": "Bandages of the King in Binds",
+      "desc": "Quando derrotado, inflige 2 potência na redução e 1 conta contra todos os inimigos.\nAplique ataduras do rei em Binds contra o alvo que derrotou esta unidade. Se a meta de meta já tiver esse efeito, ou se o referido alvo não existir, aplique -o a um inimigo aleatório sem esse efeito",
+      "summary": ""
+    },
+    {
+      "id": "ComeForwardToTheKing",
+      "name": "Moment of Audience",
+      "desc": "Ganhe o peso da ATK igual ao valor a todas as habilidades de ataque desta unidade. (Máx 2)\nClash Lose: Ganhe 1 frágil na próxima curva",
+      "summary": ""
+    },
+    {
+      "id": "RefractedWill",
+      "name": "Refracted Determination",
+      "desc": "Pela metade da quantidade de SP perdida quando um aliado é derrotado de acordo com os 'fatores básicos da identidade que diminuem a sanidade (SP)'. (arredondado para baixo)",
+      "summary": ""
+    },
+    {
+      "id": "VioletPeccatulumTwo",
+      "name": "Peccatulum Invidiae Class 2",
+      "desc": "- Danos causados ​​+15%\n- danos causados ​​-15%\n- As unidades com esse efeito são marcadas por Pecatulum Invidiae - Classe 2 Aura",
+      "summary": ""
+    },
+    {
+      "id": "BigWelcome",
+      "name": "Grand Welcome",
+      "desc": "Após o ataque: se o alvo for escalonado ou derrotado, obtenha +1 orgulho, por exemplo, recurso e +1, por exemplo, recurso para 1 outra afinidade aleatória (3 vezes por turno)",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4A",
+      "name": "#1 Deployment Effect",
+      "desc": "Nível de identidade +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4B",
+      "name": "#2 Deployment Effect",
+      "desc": "SP Heal Eficiência +3\nEntrada sp +10",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4C",
+      "name": "#3 Deployment Effect",
+      "desc": "Nível de ofensa +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4D",
+      "name": "#4 Deployment Effect",
+      "desc": "Nível de defesa +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4E",
+      "name": "#5 Deployment Effect",
+      "desc": "Velocidade máxima +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4F",
+      "name": "#6 Deployment Effect",
+      "desc": "Máximo hp +5%",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4G",
+      "name": "#7 Deployment Effect",
+      "desc": "Power de conflito +1\nEntrada sp +15",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4H",
+      "name": "#8 Deployment Effect",
+      "desc": "Danos causados ​​-10%\nEntrada sp +15",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4I",
+      "name": "#9 Deployment Effect",
+      "desc": "Aggro +5\nEntrada sp +20",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4J",
+      "name": "#10 Deployment Effect",
+      "desc": "Danos causados ​​+10%\nEntrada sp +20",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4K",
+      "name": "#11 Deployment Effect",
+      "desc": "Power final +1\nEntrada sp +30",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4L",
+      "name": "#12 Deployment Effect",
+      "desc": "Nível de identidade +3\nEntrada sp +30",
+      "summary": ""
+    },
+    {
+      "id": "BreathSupport",
+      "name": "Poised Showdown",
+      "desc": "Início das ondas: Ganhe 4 Poise Potência e Conte.",
+      "summary": ""
+    },
+    {
+      "id": "FirmWill",
+      "name": "Resilient Determination",
+      "desc": "Não perde o SP após a derrota do aliado.",
+      "summary": ""
+    }
+  ]
+}

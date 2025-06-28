@@ -1,0 +1,1631 @@
+{
+  "dataList": [
+    {
+      "id": 9011401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oi, Oi",
+          "desc": "[[Bracket]] Poder de moeda +1 contra alvos com [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This'll Sting!",
+          "desc": "[[Bracket]] Poder de moeda +1 contra alvos com [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] e +1 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Found a Gap!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]"
+                },
+                {
+                  "desc": "Se o alvo for escalonado por [[suporte]], reutilize a moeda"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don't You Stop Now",
+          "desc": "[[Bracket]] Poder de moeda +1 contra alvos com [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 2 [[Bracket]] e +4 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dizzy, Eh?!",
+          "desc": "[[Bracket]] Poder de moeda +1 contra alvos com [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 2 [[Bracket]] e +3 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Topsy-Turvy!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]"
+                },
+                {
+                  "desc": "Se o alvo for escalonado por [[suporte]], reutilize a moeda"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "H-hurt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...Brea...",
+          "desc": "[[Bracket]] Se o alvo tiver 3+ [[suporte]] potência, potência base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Weakness...",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], potência base +1 para cada 3 [[suporte]] potência no alvo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gua...",
+          "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, ganhe 1 [[suporte]] no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exten...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A-armor Br-",
+          "desc": "[[Bracket]] Se o alvo tiver 3+ [[bracket]] contagem, potência base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cut You...",
+          "desc": "[[Bracket]] Se o alvo tiver [[Bracket]], potência base +1 para cada 2 [[suporte]] contagem no alvo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +4 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...rd...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, ganhe 1 [[suporte]] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Taking Ca...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Remo...ve...",
+          "desc": "[[Bracket]] Se o alvo tiver 3+ [[suporte]] potência, potência base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hold... Them Ba...",
+          "desc": "[[Suporte]] infligir 3 danos sp\n[[Bracket]] Se o alvo tiver [[suporte]], potência base +1 para cada 4 [[suporte]] potência no alvo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cou...",
+          "desc": "Se o alvo tiver [[suporte]], potência final +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "M...ove",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Get... Out of My...",
+          "desc": "[[Bracket]] Se o alvo tiver 3+ [[bracket]] contagem, potência base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Break...through",
+          "desc": "[[Suporte]] infligir 3 danos sp\n[[Bracket]] Se o alvo tiver [[suporte]], potência base +1 para cada 3 [[suporte]] contagem no alvo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +4 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...nter...",
+          "desc": "Se o alvo tiver [[suporte]], potência final +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Defense Nullification Technique",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Grasping Vulnerabilities",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo, Heal 3 SP em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Armor Fracture",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo, infligir 1 [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Suporte]] Heal 3 sp em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counterattack",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Neutralization Technique",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo, Heal 3 SP em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Immobilisation",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo, infligir 1 [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Suporte]] Heal 3 sp em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Parrying",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suppression",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo, Heal 5 SP em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]] Próxima turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Restraining Technique",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo, infligir 2 [[suporte]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Housekeeping",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo, Clash Power +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 15 [[suporte]] e +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, reutilize essa habilidade (uma vez)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Bracket]] Cura 5 SP em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ratcatching",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Twisting",
+          "desc": "[[Bracket]] Se o HP do alvo estiver em 100%, causar +30% mais danos\n[[Bracket]] Ganhe 3 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]] potência, infligir 1 [[suporte]] Próxima virada na próxima vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exacerbate Wound",
+          "desc": "[[Bracket]] Ganho 1 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 7+ [[suporte]] potência, causar 20% dos danos causados ​​como dano ao bônus"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 7+ [[suporte]] potência, causar 20% dos danos causados ​​como dano ao bônus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Suporte]] Heal 3 sp em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nerve Mutilation",
+          "desc": "[[Bracket]] Ganho 1 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 7+ [[suporte]] potência, causar 20% dos danos causados ​​como dano ao bônus"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 7+ [[suporte]] potência, causar 20% dos danos causados ​​como dano ao bônus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rat Hunt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rat Herding",
+          "desc": "[[Bracket]] Se o HP do alvo estiver em 80% +, causar +50% mais danos\n[[Bracket]] Ganhe 2 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]] potência, causar 20% dos danos causados ​​como dano ao bônus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Interloper Banishment",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, reutilize essa habilidade (uma vez)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 10 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aumente o limite de escalonamento do alvo por valor igual a [[backet]] no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 12+ [[suporte]], infligir 3 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 15+ [[suporte]] potência, infligir 2 [[suporte]] na próxima volta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Box Conferment",
+          "desc": "[[Bracket]] Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Clash Power +2\n[[Suporte]] curar 10 sp em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 10 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 10 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Bracket]] Cura 5 SP em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Housekeeping Start",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Interloper Reception",
+          "desc": "[[Bracket]] Ganho 1 [[Bracket]]\n[[Bracket]] Ganhe 3 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reception Arts 2: Bind",
+          "desc": "[[Suporte]] potência base +1 para cada 5 [[suporte]] potência no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 8+ [[suporte]] Potência, reutilize esta moeda (1 tempo máx)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 4 [[suporte]] 4 e 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, o limiar mais baixo do Stagger por 10\nSe a HP de escudo desta unidade estiver esgotada, o último atacante cura 10 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Commence Housekeeping",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Interloper Response",
+          "desc": "[[Bracket]] Ganho 1 [[Bracket]]\n[[Bracket]] Ganhe 3 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reception Arts 2: Topple",
+          "desc": "Potência base +1 para cada 5 [[suporte]] potência no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 4+ [[Bracket]] contagem, reutilize esta moeda (1 tempo máx)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 4 [[suporte]] e 1 [[bracket]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, o limiar mais baixo do Stagger por 10\nSe a HP de escudo desta unidade estiver esgotada, o último atacante cura 10 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knocking",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]] Potência, infligir 1 [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time to Clean!",
+          "desc": "[[Bracket]] Se o alvo estiver em 10 ou menos SP, infligir 2 [[suporte]]]\n[[Bracket]] infligir 1 [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 mais queda de moeda na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "As Mistress Commands...!",
+          "desc": "[[Suporte]] potência base +1 para cada 3 [[suporte]] potência no alvo (máximo 3)\n[[Suporte]] Todos os aliados curam 5 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Not Even a Speck of Dust!",
+          "desc": "[[Bracket]] Aplicar 3 [[suporte]] e curar 15 SP para todos os aliados, incluindo esta unidade\n[[Bracket]] infligir 1 [[suporte]] a todos os outros aliados",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligem danos ao bônus de afinidade da escuridão igual à potência [[suporte]] no alvo. Reduza [[suporte]] contagem no alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligem danos ao bônus de afinidade da escuridão igual à potência [[suporte]] no alvo. Reduza [[suporte]] contagem no alvo por 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligem danos ao bônus de afinidade da escuridão igual à potência [[suporte]] no alvo. Reduza [[suporte]] contagem no alvo por 1"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 3+ [[backet]] contagem, reutilize esta moeda (duas vezes)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slippery Rat!",
+          "desc": "Se esta unidade tiver a HP de escudo restante na extremidade do turno, o limiar mais baixo do Stagger por 50\nSe o escudo desta unidade HP estiver esgotado, todos os inimigos curam 10 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9011404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

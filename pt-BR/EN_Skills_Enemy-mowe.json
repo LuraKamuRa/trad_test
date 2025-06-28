@@ -1,0 +1,909 @@
+{
+  "dataList": [
+    {
+      "id": 9014501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coagulated Arm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Jag",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collecting Blood",
+          "desc": "Se o Target tiver mais de 10 [[suporte]], causar + 20% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] absorve até 10 [[suporte]] potência do alvo e cura ([[[suporte]] potência absorvida x 2)% hp (esse efeito não diminui a potência [[suporte]] do alvo [[suporte]] sob 1)",
+                  "summary": "[[Bracket]] absorve [[suporte]] no alvo para curar"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[[Bracket]] Power Base +1 para cada 3 [[suporte]] contagem em si (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coagulated Arm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Slice",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collecting Blood",
+          "desc": "Se o Target tiver mais de 10 [[suporte]], causar + 20% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] absorve até 10 [[suporte]] potência do alvo e cura ([[[suporte]] potência absorvida x 2)% hp (esse efeito não diminui a potência [[suporte]] do alvo [[suporte]] sob 1)",
+                  "summary": "[[Bracket]] absorve [[suporte]] no alvo para curar"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[[Bracket]] Power Base +1 para cada 3 [[suporte]] contagem em si (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coagulated Arm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Strike",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collecting Blood",
+          "desc": "Se o Target tiver mais de 10 [[suporte]], causar + 20% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] absorve até 10 [[suporte]] potência do alvo e cura ([[[suporte]] potência absorvida x 2)% hp (esse efeito não diminui a potência [[suporte]] do alvo [[suporte]] sob 1)",
+                  "summary": "[[Bracket]] absorve [[suporte]] no alvo para curar"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[[Bracket]] Power Base +1 para cada 3 [[suporte]] contagem em si (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rip",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab Down",
+          "desc": "[[Bracket]] Ganhe +5 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Weapon",
+          "desc": "[[Bracket]] Consuma todos os [[Bracket]] contam com o eu e consome 2 (15 - [[bracket]] contagem consumida)% HP para ganhar o poder da moeda +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] absorve até 10 [[suporte]] potência do alvo e cura ([[[suporte]] potência absorvida x 2)% hp (esse efeito não diminui a potência [[suporte]] do alvo [[suporte]] sob 1)",
+                  "summary": "[[Bracket]] absorve [[suporte]] no alvo para curar"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[[Bracket]] Power Base +1 para cada 3 [[suporte]] contagem em si (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thrust",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cleave",
+          "desc": "[[Bracket]] Ganhe +5 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Weapon",
+          "desc": "[[Bracket]] Consuma todos os [[Bracket]] contam com o eu e consome 2 (15 - [[bracket]] contagem consumida)% HP para ganhar o poder da moeda +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] absorve até 10 [[suporte]] potência do alvo e cura ([[[suporte]] potência absorvida x 2)% hp (esse efeito não diminui a potência [[suporte]] do alvo [[suporte]] sob 1)",
+                  "summary": "[[Bracket]] absorve [[suporte]] no alvo para curar"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Bracket]] Power Base +1 para cada 3 [[suporte]] contagem em si (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spear Swing",
+          "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tear Up Wound",
+          "desc": "[[Bracket]] Ganhe +5 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Weapon",
+          "desc": "[[Bracket]] Consuma todos os [[Bracket]] contam com o eu e consome 2 (15 - [[bracket]] contagem consumida)% HP para ganhar o poder da moeda +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] absorve até 10 [[suporte]] potência do alvo e cura ([[[suporte]] potência absorvida x 2)% hp (esse efeito não diminui a potência [[suporte]] do alvo [[suporte]] sob 1)",
+                  "summary": "[[Bracket]] absorve [[suporte]] no alvo para curar"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[[Bracket]] Power Base +1 para cada 3 [[suporte]] contagem em si (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Activate Prosthesis",
+          "desc": "[[Bracket]] Aos 10+ [[Bracket]] contagem, consuma 5 [[Bracket]] contagem para ganhar 3 [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Harpoon Mark",
+          "desc": "[[Bracket]] em 5- [[bracket]] contagem, ganha 5 [[bracket]] contagem, 3 [[bracket]] contagem e 1 [[bracket]]]\n[[Bracket]] Aos 10+ [[Bracket]] contagem, consuma 5 [[Bracket]] contagem para ganhar 3 [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Harpoon",
+          "desc": "[[Bracket]] Consuma 10% de HP no Self para obter +10 [[Bracket]] Contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[bracket]] contagem."
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[[Bracket]] Power Base +1 para cada 3 [[suporte]] contagem em si (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Activate Prosthesis",
+          "desc": "[[Bracket]] Aos 10+ [[Bracket]] Contagem, Consuma 3 [[Bracket]] Conta para ganhar poder de moeda +1\n[[Bracket]] Em 15+ [[Bracket]] contagem, consuma 3 contagem adicional [[Bracket]] para causar + 20% mais danos\n[[Bracket]] Em 5- [[Bracket]] contam, perca 10% HP e ganhe +5 [[bracket]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Reflux",
+          "desc": "[[Bracket]] Aos 10+ [[Bracket]] Contagem, Consuma 3 [[Bracket]] Conta para ganhar poder de moeda +1\n[[Bracket]] Em 15+ [[Bracket]] contagem, consuma 3 contagem adicional [[Bracket]] para causar + 20% mais danos\n[[Bracket]] Em 5- [[Bracket]] contam, perca 10% HP e ganhe +5 [[bracket]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bioenergy Conversion Charge",
+          "desc": "[[Bracket]] consome 10% de hp para obter +15 [[bracket]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[[Bracket]] Power Base +1 para cada 3 [[suporte]] contagem em si (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Transfusion",
+          "desc": "[[Bracket]] Aos 10+ [[Bracket]] Contagem, Consuma 3 [[Bracket]] Conta para ganhar poder de moeda +1\n[[Bracket]] Em 15+ [[Bracket]] contagem, consuma 3 contagem adicional [[Bracket]] para causar + 20% mais danos\n[[Bracket]] Em 5- [[Bracket]] contam, perca 10% HP e ganhe +5 [[bracket]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bioenergy Conversion Recharge",
+          "desc": "[[Bracket]] consome 10% de hp para obter +15 [[bracket]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

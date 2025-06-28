@@ -1,0 +1,39 @@
+{
+    "dataList": [
+        {
+            "id": "KeptBlood",
+            "name": "Stored Blood",
+            "desc": "- Valor Máximo: 10\n- Perde 1 valor toda vez que esta unidade perde 5% de HP.\n- Ao Acertar, cura 1% do HP desta unidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodyCrave",
+            "name": "Bloodtinged Craving",
+            "desc": "- Ganhe 1 Clash Power Up e 1 Damage Up a cada turno\n- Ao acertar, ganhe 1 Stored Blood\n- Se esta unidade não ganhou Stored Blood neste turno, ganhe 2 Fragile, 1 Haste e 4 Offense Level Up no próximo turno em vez do efeito acima",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodPocket_LowMorale",
+            "name": "Bloodthirst",
+            "desc": "Início do turno: Ganhe 1 Frágil e Dano Aumentado",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodPocket_Panic",
+            "name": "Bloodthirst",
+            "desc": "Início do turno: Ganhe 2 Frágeis e Dano Aumentado",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "HardenedBlood",
+            "name": "Coagulated Blood",
+            "desc": "Ganhe Nível de Ataque e Nível de Defesa igual ao valor (máx. 5)",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

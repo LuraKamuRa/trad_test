@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10308_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "O jeito de... Vinho? Etiqueta de bebida? Na verdade, não tenho muita familiaridade com esse assunto. Kaugh, é bem amargo!"
+        },
+        {
+            "id": "lobby_morning_10308_1",
+            "desc": "Saudação matinal",
+            "dlg": "Bom dia para ti! Embora o tempo possa estar bem sombrio, hm~ Este cheiro fresco do amanhecer é bem agradável, não é?\n'É o momento perfeito para um reconhecimento, de fato!"
+        },
+        {
+            "id": "lobby_noon_10308_1",
+            "desc": "Saudação da tarde",
+            "dlg": "Ah, muitas vezes eu deixo de fazer uma refeição do meio-dia para aprimorar minhas habilidades com uma lâmina.\nEsqueça isso, pois agora devo narrar os eventos do meu reconhecimento!"
+        },
+        {
+            "id": "lobby_night_10308_1",
+            "desc": "Saudação noturna",
+            "dlg": "Mm... Eu ouvi histórias de uma cultura que frequentemente janta junto com uma bebida alcoólica, de fato. Mas isso não combina com meu temperamento... Eu só queria me empanturrar com pedaços de yukjeon (bolinho de carne) carnudos!"
+        },
+        {
+            "id": "smalltalk_10308_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Desejo apenas girar e deixar minha lâmina cantar com abandono! Raramente eu esperava ser forçado a aprender 'o caminho do vinho'... \n... P-prithee, não deixe Lady Outis ouvir minhas reclamações!"
+        },
+        {
+            "id": "smalltalk_10308_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "Beba de uma garrafa, beba de um copo... que diferença faz? Acaba na minha garganta do mesmo jeito. Estou perplexo com o motivo de alguém se concentrar em um assunto tão irrelevante da lâmina.\nFie, eu não ligo para essas ninharias. Você deve ouvir sobre as travessuras que o Clã Kurokumo está aprontando."
+        },
+        {
+            "id": "smalltalk_10308_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "Acredito que cortar algo ao longo do arco da minha lâmina é muito mais satisfatório do que se deliciar com uma refeição suculenta!\nA sensação daquela leve resistência enquanto a lâmina corta a massa... é bem emocionante, você não concorda?"
+        },
+        {
+            "id": "smalltalk_10308_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "Senti que poderíamos encontrar alguns hóspedes indesejados! Deduzi isso da agitação inoportuna, de fato.\nÉ justo que nenhum viajante enfeitasse as estradas neste momento. Então, corrigi todos os erros."
+        },
+        {
+            "id": "smalltalk_10308_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "Para cortar o ar enquanto me treino no caminho das lâminas, e para cortar os merecedores enquanto caminho pelo caminho... há muito pouca diferença.\nSe eu fosse fazer uma distinção... mm, devo dizer, a única diferença é o peso em minhas mãos."
+        },
+        {
+            "id": "neglect_10308_1",
+            "desc": "Parado",
+            "dlg": "É um luar muito belo... A batalha deixou marcas na minha lâmina...? Uau, nem um grão de poeira permanece em seu fio."
+        },
+        {
+            "id": "gacksung_10308_1",
+            "desc": "Uptying",
+            "dlg": "Ah, não era nada além do barulho lá fora. Você se importaria se eu desse uma voltinha para investigar?"
+        },
+        {
+            "id": "formation_10308_1",
+            "desc": "Implantação",
+            "dlg": "Hm? Ah, me dê só um momento — primeiro preciso engolir isso..."
+        },
+        {
+            "id": "battleentry_10308_1",
+            "desc": "Entrada no palco",
+            "dlg": "Vou correr para lá o mais rápido possível!"
+        },
+        {
+            "id": "battle_select_10308_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Estou muito ocupado no momento!"
+        },
+        {
+            "id": "battle_endcommand_10308_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Que emocionante!"
+        },
+        {
+            "id": "battle_enemy_break_10308_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Hm? Ah, não devo ter acertado..."
+        },
+        {
+            "id": "battle_break_10308_1",
+            "desc": "escalonado",
+            "dlg": "Uau!"
+        },
+        {
+            "id": "battle_kill_10308_1",
+            "desc": "Inimigo morto",
+            "dlg": "Ah, realmente! Foi uma sensação de cortar a carne!"
+        },
+        {
+            "id": "battle_dead_10308_1",
+            "desc": "Morte",
+            "dlg": "Aah, haah... Na verdade, eu bem que esperava ser... talhado... eu mesmo."
+        },
+        {
+            "id": "choice_success_p_10308_2",
+            "desc": "Verificação aprovada",
+            "dlg": "Heigh-ho! Eu consegui~!"
+        },
+        {
+            "id": "choice_fail_n_10308_1",
+            "desc": "Verificação falhou",
+            "dlg": "Uh-ahm~ E-eu acho que cometi um erro..."
+        },
+        {
+            "id": "battle_clear_10308_1",
+            "desc": "Grito de vitória",
+            "dlg": "Não foi nada além de uma rápida excursão. Agora retorno com o coração mais leve para... onde Lady Outis aguarda. Droga..."
+        },
+        {
+            "id": "battle_clear_ex_10308_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "Eu balancei minha lâmina com abandono! Ah, que refrescante, que estimulante! Agora, posso ter paciência suficiente para me sentar diante de tais palestras intermináveis!"
+        },
+        {
+            "id": "battle_defeat_10308_1",
+            "desc": "Derrote Wail",
+            "dlg": "Uma falha em minhas técnicas... Devo ter me tornado complacente. Eu perseverarei..."
+        }
+    ]
+}

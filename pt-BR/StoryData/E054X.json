@@ -1,0 +1,767 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Aboard Mephistopheles",
+            "model": "로쟈",
+            "content": "Acho que o trânsito é horrível, não importa para qual Nest vamos..."
+        },
+        {
+            "id": 1,
+            "content": "Estamos viajando a passo de caracol pelo congestionamento extremo do Ninho há vários dias. Rodya, claramente afetado por esse tédio, suspirou e murmurou."
+        },
+        {
+            "id": 2,
+            "content": "Já passamos por longos períodos semelhantes de inatividade antes, mas o tédio não é algo com que alguém possa se acostumar facilmente. Acho que se tornou parte do meu trabalho ouvir os Sinners reclamarem sobre o ritmo lento de nossa viagem."
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Quanto tempo falta para o posto de controle de imigração da T Corp.?>"
+        },
+        {
+            "id": 4,
+            "content": "Minha única opção é lembrá-los de quão longe estamos do nosso destino."
+        },
+        {
+            "id": 5,
+            "model": "파우스트",
+            "content": "Considerando que ficaremos de prontidão por aproximadamente um dia em nossa próxima parada, e levando em conta várias outras paradas que faremos ao longo do caminho... nossa previsão de chegada é em três dias."
+        },
+        {
+            "id": 6,
+            "model": "로쟈",
+            "content": "Ah..."
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Não é como se estivéssemos viajando para muito longe, mas com esse trânsito horrível... parece muito mais longe do que realmente é."
+        },
+        {
+            "id": 8,
+            "content": "Gregor está certo... não parecia que a cidade era *tão* grande."
+        },
+        {
+            "id": 9,
+            "content": "Talvez haja algo nesses tempos de viagem inevitáveis ​​e excessivamente longos. Algo que ainda não entendi."
+        },
+        {
+            "id": 10,
+            "model": "이스마엘",
+            "content": "Acho que dirigir um ônibus grande pelas vielas estreitas é o que está nos tomando tanto tempo."
+        },
+        {
+            "id": 11,
+            "model": "오티스",
+            "content": "Acredito que teria sido mais rápido marchar a pé."
+        },
+        {
+            "id": 12,
+            "model": "이상",
+            "content": "Mas e quanto ao nosso alojamento e alimentação?"
+        },
+        {
+            "id": 13,
+            "model": "오티스",
+            "content": "Você não sabia que acampar ao ar livre é uma parte natural de qualquer longa marcha?"
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "... Ei, oficial Outis. Nem todo mundo foi soldado aqui."
+        },
+        {
+            "id": 15,
+            "model": "싱클레어",
+            "content": "A-e! Se não tivermos sorte, podemos até encontrar aqueles assustadores Sw-Sweepers... antes do amanhecer..."
+        },
+        {
+            "id": 16,
+            "content": "Mesmo uma menção parcial ao nome deles faz com que o rosto de Sinclair perca toda a cor... Lembro-me do que os Pecadores me disseram uma vez sobre eles."
+        },
+        {
+            "id": 17,
+            "content": "Que, antes do amanhecer, existem essas coisas chamadas \"Varredores\" que varrem todo \"lixo\" das Ruas Secundárias."
+        },
+        {
+            "id": 18,
+            "content": "É meio assustador o quão ampla a definição de \"lixo\" deles pode ser. Eles chamam essa hora de \"a Noite nas Ruas Secundárias\"... ou algo assim."
+        },
+        {
+            "id": 19,
+            "model": "파우스트",
+            "content": "Este ônibus é um dos poucos veículos reconhecidos pela cidade como um veículo residencial, o que significa que permanecemos seguros das mãos dos varredores."
+        },
+        {
+            "id": 20,
+            "model": "파우스트",
+            "content": "Tentar dormir fora do ônibus nas Backstreets não permitiria um sono tranquilo. Em vez disso, seria forçado a sobreviver ao ataque dos Sweepers por uma hora nas primeiras horas do amanhecer."
+        },
+        {
+            "id": 21,
+            "model": "로쟈",
+            "content": "Faz sentido. Aqueles Sweepers realmente se afastam das áreas residenciais, afinal~"
+        },
+        {
+            "id": 22,
+            "model": "오티스",
+            "content": "Uma viagem lenta, mas segura, de veículo... ou uma marcha rápida, mas de alto risco, a pé... esse é um grande dilema estratégico."
+        },
+        {
+            "id": 23,
+            "model": "이상",
+            "content": "Não acredito que a última opção esteja sujeita à consideração de qualquer colega..."
+        },
+        {
+            "id": 24,
+            "content": "O ônibus é novamente tomado pela comoção..."
+        },
+        {
+            "id": 25,
+            "model": "베르길리우스",
+            "content": "Hahaha."
+        },
+        {
+            "id": 26,
+            "content": "E naquela comoção surgiu o rangido de uma porta se abrindo e um suspiro familiar."
+        },
+        {
+            "id": 27,
+            "model": "베르길리우스",
+            "content": "Eu entendo que todos vocês devem estar bem impacientes. Mas estamos precisamente no cronograma, então economizem suas respirações e parem de reclamar."
+        },
+        {
+            "id": 28,
+            "model": "베르길리우스",
+            "content": "Pelas expressões de vocês, eu estaria preocupado com um motim se não soubesse."
+        },
+        {
+            "id": 29,
+            "model": "이스마엘",
+            "content": "Esses papéis em suas mãos... novas ordens dos superiores?"
+        },
+        {
+            "id": 30,
+            "content": "Vergilius segurava o que parecia ser um maço de papel recém-impresso."
+        },
+        {
+            "id": 31,
+            "content": "Não era a primeira vez que algo assim acontecia. Às vezes, depois de se comunicar em seu quarto com os superiores da empresa, ele trazia algumas folhas de papel para nos atualizar."
+        },
+        {
+            "id": 32,
+            "model": "베르길리우스",
+            "content": "Sim. Uma nova atualização."
+        },
+        {
+            "id": 33,
+            "model": "히스클리프",
+            "content": "Não me diga que vamos fazer outro desvio."
+        },
+        {
+            "id": 34,
+            "model": "히스클리프",
+            "content": "Eu direi que terminei de limpar essas bagunças Distorted. Olha, nós temos que chegar a—"
+        },
+        {
+            "id": 35,
+            "model": "베르길리우스",
+            "content": "Pare de choramingar como uma criança petulante."
+        },
+        {
+            "id": 36,
+            "model": "베르길리우스",
+            "content": "... Não haverá mais desvios até chegarmos ao nosso destino atual."
+        },
+        {
+            "id": 37,
+            "content": "Vergilius franziu as sobrancelhas, caminhou até a frente do ônibus e se recostou em uma das cadeiras da primeira fileira. Ele começou a folhear os documentos vagarosamente."
+        },
+        {
+            "id": 38,
+            "model": "베르길리우스",
+            "content": "Este é apenas um anúncio. Diz aqui que haverá mudanças em como seus registros de Anormalidades, Distorções e Peccatula são categorizados."
+        },
+        {
+            "id": 39,
+            "model": "로쟈",
+            "content": "Hein...? Espera, então temos que fazer um monte de papelada?"
+        },
+        {
+            "id": 40,
+            "model": "파우스트",
+            "content": "Não. Uma vez concluídos, seus Registros de Observação serão todos digitalizados e compartilhados com os escalões superiores da empresa."
+        },
+        {
+            "id": 41,
+            "model": "파우스트",
+            "content": "Claro, se os próprios Registros de Observação precisarem ser editados, pode haver ordens para fazer ajustes diretos manualmente. ... No entanto, a categorização para cada entidade será atualizada automaticamente. Eles estão apenas informando os Pecadores sobre as próximas mudanças."
+        },
+        {
+            "id": 42,
+            "model": "베르길리우스",
+            "content": "... É bom ter outra pessoa para explicar por uma vez. Ela está certa."
+        },
+        {
+            "id": 43,
+            "model": "이상",
+            "content": "Presumo que isso tenha algo a ver com os novos tipos de Peccatula que encontramos antes."
+        },
+        {
+            "id": 44,
+            "model": "베르길리우스",
+            "content": "Sim, mas isso não é tudo."
+        },
+        {
+            "id": 45,
+            "content": "Vergilius fechou os olhos cansado e dobrou levemente os papéis em suas mãos. Ele chamou os dois Pecadores."
+        },
+        {
+            "id": 46,
+            "model": "베르길리우스",
+            "content": "Ismael, o Grande."
+        },
+        {
+            "id": 47,
+            "content": "Ele estava apontando para Ishmael e Yi Sang."
+        },
+        {
+            "id": 48,
+            "model": "이스마엘",
+            "content": "... Sim?"
+        },
+        {
+            "id": 49,
+            "model": "이상",
+            "content": "Você invocou meu nome?"
+        },
+        {
+            "id": 50,
+            "model": "베르길리우스",
+            "content": "Deixarei que vocês, dois alunos exemplares, expliquem o conteúdo desses documentos."
+        },
+        {
+            "id": 51,
+            "model": "베르길리우스",
+            "content": "Eu não sinto que ... estou à altura da tarefa de explicar o que está neste artigo para todos vocês."
+        },
+        {
+            "id": 52,
+            "content": "Com isso, Vergilius praticamente empurrou o papel nas mãos de Ismael antes de se sentar na primeira fila do ônibus."
+        },
+        {
+            "id": 53,
+            "model": "이스마엘",
+            "content": "Ele simplesmente jogou a responsabilidade sobre nós?"
+        },
+        {
+            "id": 54,
+            "content": "Ishmael não pareceu muito feliz com essa reviravolta repentina. Ainda assim, ela abriu os documentos e começou a ler."
+        },
+        {
+            "id": 55,
+            "model": "로쟈",
+            "content": "Nunca consigo dizer se ele realmente não se importa conosco ou se ele simplesmente parece uma pessoa fria naturalmente... suspiro. Então o que a coisa diz, Ishy?"
+        },
+        {
+            "id": 56,
+            "model": "이스마엘",
+            "content": "Me dá um segundo. Então—"
+        },
+        {
+            "id": 57,
+            "model": "싱클레어",
+            "content": "Isso diz alguma coisa nova sobre as Anormalidades?"
+        },
+        {
+            "id": 58,
+            "model": "이스마엘",
+            "content": "... Parece que esses documentos são do LCD. O endereço do remetente diz—"
+        },
+        {
+            "id": 59,
+            "model": "돈키호테",
+            "content": "Ooh!! O LCD é o departamento que contatou o gerente Esquire, não é?"
+        },
+        {
+            "id": 60,
+            "content": "Ezra... era? Ainda me lembro vividamente da voz caótica e borbulhante dela vindo do rádio."
+        },
+        {
+            "id": 61,
+            "model": "이스마엘",
+            "content": "A antiga L Corp—"
+        },
+        {
+            "id": 62,
+            "model": "료슈",
+            "content": "B.A.H."
+        },
+        {
+            "id": 63,
+            "content": "O ônibus começa a se encher com o conhecido zumbido frenético mais uma vez."
+        },
+        {
+            "id": 64,
+            "model": "이상",
+            "content": "Bem, se você me permitir..."
+        },
+        {
+            "id": 65,
+            "model": "이상",
+            "content": "... Senhorita Ismael?"
+        },
+        {
+            "id": 66,
+            "model": "이스마엘",
+            "content": "……."
+        },
+        {
+            "id": 67,
+            "content": "Yi Sang interveio para ajudar Ishmael com as explicações dos documentos, mas ..."
+        },
+        {
+            "id": 68,
+            "model": "이스마엘",
+            "content": "É... exatamente por isso... que eu sou o único que lê os guias..."
+        },
+        {
+            "id": 69,
+            "content": "... Posso ver veias começando a estourar nos dedos de Ishmael. Nesse ritmo, ela vai largar os documentos em favor de sua maça..."
+        },
+        {
+            "id": 70,
+            "model": "단테",
+            "content": "<E-espera, Ishmael! Eu cuido disso, calma!>"
+        },
+        {
+            "id": 71,
+            "content": "Corri até Ishmael e praticamente fiquei segurando os documentos em suas mãos."
+        },
+        {
+            "id": 72,
+            "content": "... Quase rasgamos o maço de documentos ao meio, mas ela desistiu rapidamente e afrouxou o aperto."
+        },
+        {
+            "id": 73,
+            "model": "단테",
+            "content": "<Ryōshū, Outis? Por favor, mantenham Don Quixote e Heathcliff quietos enquanto eu cuido disso.>"
+        },
+        {
+            "id": 74,
+            "model": "료슈",
+            "content": "Ah sim. Isso vai ser divertido."
+        },
+        {
+            "id": 75,
+            "model": "단테",
+            "content": "<... Sem matá-los ou espancá-los, por favor.>"
+        },
+        {
+            "id": 76,
+            "model": "료슈",
+            "content": "... B.A.H."
+        },
+        {
+            "id": 77,
+            "content": "Ryōshū abaixou lentamente a lança de Dom Quixote que ela havia pegado."
+        },
+        {
+            "id": 78,
+            "model": "단테",
+            "content": "<Tudo bem, então. Se vocês tiverem alguma pergunta enquanto Ishmael lê o documento, levantem as mãos para serem reconhecidos. Yi Sang, Faust, vocês não precisam levantar as mãos para falar, então, por favor, entrem na conversa se houver algum detalhe que vocês possam elaborar.>"
+        },
+        {
+            "id": 79,
+            "model": "파우스트",
+            "content": "Entendido."
+        },
+        {
+            "id": 80,
+            "model": "이상",
+            "content": "Muito bem."
+        },
+        {
+            "id": 81,
+            "model": "단테",
+            "content": "<Rodya, se alguém tentar falar fora de hora, por favor, bata levemente na cabeça dele. Se você se sair bem, eu vou pedir sobremesas extras para você durante o jantar da nossa equipe.>"
+        },
+        {
+            "id": 82,
+            "model": "로쟈",
+            "content": "*Assobio* Você realmente sabe como motivar as pessoas, Dante!"
+        },
+        {
+            "id": 83,
+            "model": "오티스",
+            "content": "Que... que crescimento impressionante de capacidades de liderança, Gerente Executivo...!"
+        },
+        {
+            "id": 84,
+            "model": "로쟈",
+            "content": "Tudo bem então! O primeiro bonk vai para~"
+        },
+        {
+            "id": 85,
+            "model": "오티스",
+            "content": "Espere, espere! Isso não foi—"
+        },
+        {
+            "id": 86,
+            "content": "Alguns minutos depois..."
+        },
+        {
+            "id": 87,
+            "content": "Depois de uma rápida comoção, percebi que a situação estava resolvida o suficiente para devolver os documentos às mãos de Ishmael."
+        },
+        {
+            "id": 88,
+            "model": "단테",
+            "content": "<Então... vou deixar isso com você.>"
+        },
+        {
+            "id": 89,
+            "model": "이스마엘",
+            "content": "Ahm, hm. Então a antiga L Corp., também conhecida como Lobotomy Corporation, costumava conter e gerenciar as Anormalidades que enfrentamos em suas filiais."
+        },
+        {
+            "id": 90,
+            "model": "이스마엘",
+            "content": "Mesmo levando em conta que suas forças foram suprimidas pelos Ramos Dourados, havia uma diferença bastante significativa entre suas categorizações de Nível de Risco e o risco real envolvido em enfrentá-los."
+        },
+        {
+            "id": 91,
+            "model": "이스마엘",
+            "content": "Outros funcionários e os superiores da Limbus Company também aparentemente sentiram que algo era familiar, mas estranho. E é por isso que eles investigaram esse problema através do departamento de LCD."
+        },
+        {
+            "id": 92,
+            "model": "이스마엘",
+            "content": "Até agora, houve cinco categorias de Níveis de Risco:"
+        },
+        {
+            "id": 93,
+            "model": "히스클리프",
+            "content": "Cinco? Não são só quatro?"
+        },
+        {
+            "id": 94,
+            "content": "Bonk!"
+        },
+        {
+            "id": 95,
+            "content": "Rodya deu um soco no topo da cabeça de Heathcliff, e... ele prontamente caiu no chão, desmaiado. Talvez tenha sido a rapidez do ataque que fez isso...?"
+        },
+        {
+            "id": 96,
+            "model": "단테",
+            "content": "<... V-você não o matou, matou?>"
+        },
+        {
+            "id": 97,
+            "model": "로쟈",
+            "content": "Nah, ele vai ficar bem. É o Heath! Não é como se eu tivesse batido nele com tanta força."
+        },
+        {
+            "id": 98,
+            "content": "Sinclair levantou a mão silenciosamente."
+        },
+        {
+            "id": 99,
+            "model": "이스마엘",
+            "content": "Tudo bem, você pode prosseguir."
+        },
+        {
+            "id": 100,
+            "content": "Ishmael assentiu para Sinclair."
+        },
+        {
+            "id": 101,
+            "model": "싱클레어",
+            "content": "B-bem, eu pensei que só havia quatro Níveis de Risco... ZAYIN, TETH, HE e WAW... assim como Heathcliff disse."
+        },
+        {
+            "id": 102,
+            "model": "이스마엘",
+            "content": "Eles são os únicos que vimos até agora, sim."
+        },
+        {
+            "id": 103,
+            "model": "이스마엘",
+            "content": "Mas de acordo com esses documentos... a categoria de maior nível de risco é chamada de ALEPH."
+        },
+        {
+            "id": 104,
+            "model": "이스마엘",
+            "content": "Como eu disse antes, há uma disparidade bastante significativa entre seus padrões de categorização e nossa experiência com eles no campo."
+        },
+        {
+            "id": 105,
+            "model": "이스마엘",
+            "content": "É por isso que eles aparentemente estão planejando fazer revisões nesses padrões. Pelos padrões da Limbus Company."
+        },
+        {
+            "id": 106,
+            "model": "뫼르소",
+            "content": "……."
+        },
+        {
+            "id": 107,
+            "model": "이스마엘",
+            "content": "Vá em frente, Meursault."
+        },
+        {
+            "id": 108,
+            "model": "뫼르소",
+            "content": "Devo perguntar o que exatamente essa \"reforma\" implica. Isso significa que as Anormalidades serão recategorizadas dentro da estrutura de categorização preexistente? Ou categorias adicionais de Nível de Risco serão criadas?"
+        },
+        {
+            "id": 109,
+            "model": "이스마엘",
+            "content": "Ele... não elabora tanto. Mas diz aqui que a Lobotomy Corporation usou a capacidade de produção de encefalina de cada Anormalidade para categorizá-las em diferentes Níveis de Risco."
+        },
+        {
+            "id": 110,
+            "model": "이스마엘",
+            "content": "Anormalidades com condições de gerenciamento mais complicadas e difíceis aparentemente produziram mais encefalina. Acho que quanto mais complicada é uma Anormalidade, mais difícil é combatê-la... isso se alinha com nossas próprias experiências. Mais ou menos."
+        },
+        {
+            "id": 111,
+            "model": "이스마엘",
+            "content": "Mas dificilmente se pode dizer que foi impecável. Parece-me que eles estão tentando fazer com que esses Níveis de Risco reflitam melhor nossas próprias experiências de campo, o que não descarta a possibilidade de eles adicionarem mais níveis aos pré-existentes."
+        },
+        {
+            "id": 112,
+            "model": "이상",
+            "content": "Hum, já que não conduzimos gestão, mas combatemos esses inimigos, é sensato que os padrões para Níveis de Risco sejam ajustados de acordo com... hup?!"
+        },
+        {
+            "id": 113,
+            "model": "단테",
+            "content": "<R-Rodya, espere! Yi Sang pode falar sem levantar a mão!>"
+        },
+        {
+            "id": 114,
+            "model": "로쟈",
+            "content": "Ohh~ Certo! Minha culpa~"
+        },
+        {
+            "id": 115,
+            "content": "Consegui parar Rodya logo antes de seu punho atingir a coroa de Yi Sang. Era quase como se ela estivesse se movendo com base em puro instinto..."
+        },
+        {
+            "id": 116,
+            "model": "이스마엘",
+            "content": "Ahem. Então... é por isso que eles estão revisando os Níveis de Risco com base no risco real que cada Anormalidade representa na batalha. Então, faríamos bem em ser cautelosos com as possíveis mudanças nos Níveis de Risco escritos nos Registros de Observação. ... Ah, e eles nos informarão novamente quando os detalhes precisos forem decididos. A próxima seção é sobre Distorções, que..."
+        },
+        {
+            "id": 117,
+            "model": "돈키호테",
+            "content": "…!"
+        },
+        {
+            "id": 118,
+            "content": "Dom Quixote levantou a mão."
+        },
+        {
+            "id": 119,
+            "content": "... Mas Ishmael continuou explicando sem parar. Ela provavelmente apenas a ignorou."
+        },
+        {
+            "id": 120,
+            "model": "이스마엘",
+            "content": "Até agora, temos usado os mesmos códigos de classificação de assunto que Anormalidades para Distorções. Mas ficou bem claro que há uma grande diferença entre eles, o suficiente para dar a esses dois grupos códigos de classificação distintos. Essa diferença é..."
+        },
+        {
+            "id": 121,
+            "content": "Hong Lu levantou a mão e Ishmael assentiu."
+        },
+        {
+            "id": 122,
+            "content": "Dom Quixote parecia um pouco... desanimado."
+        },
+        {
+            "id": 123,
+            "model": "홍루",
+            "content": "A diferença é que, quando derrotadas, as Anormalidades se transformam em suas formas semelhantes a ovos, mas as Distorções não. Estou certo?"
+        },
+        {
+            "id": 124,
+            "model": "파우스트",
+            "content": "Correto. Distorções podem ser completamente subjugadas simplesmente derrotando-as em batalha, mas qualquer método de matar completamente uma Anormalidade ainda não foi descoberto, mesmo em teoria."
+        },
+        {
+            "id": 125,
+            "model": "이스마엘",
+            "content": "... Então ela diz. Bem, todos nós tivemos experiência em primeira mão contra eles, então não deve ser muito difícil de entender."
+        },
+        {
+            "id": 126,
+            "model": "이스마엘",
+            "content": "Ufa, aqui vem o último assunto."
+        },
+        {
+            "id": 127,
+            "model": "이스마엘",
+            "content": "Esta é sobre a Peccatula ... Eles vão dar a eles um esquema de código de classificação diferente das Anormalidades também, incluindo o novo tipo de Peccatula que encontramos recentemente."
+        },
+        {
+            "id": 128,
+            "model": "이스마엘",
+            "content": "Vamos ver... Base de classificação... Anormalidades e distorções têm elementos de singularidade que estão faltando em cada Peccatula individual; considerando isso, foi considerado... Ok, eu realmente não entendo do que isso está falando."
+        },
+        {
+            "id": 129,
+            "content": "Fausto se aproximou de Ismael e começou a explicar."
+        },
+        {
+            "id": 130,
+            "model": "파우스트",
+            "content": "Singularidade, neste contexto, refere-se ao fato de que nenhuma entidade exibe a mesma localização."
+        },
+        {
+            "id": 131,
+            "model": "파우스트",
+            "content": "Seria útil lembrar que nossos encontros com a Peccatula sempre foram contra múltiplas cópias da mesma categoria de Peccatulum."
+        },
+        {
+            "id": 132,
+            "model": "파우스트",
+            "content": "No entanto, nenhum encontro desse tipo foi feito contra Distorções e Anormalidades. Espero que isso tenha sido uma explicação suficiente para todos."
+        },
+        {
+            "id": 133,
+            "model": "히스클리프",
+            "content": "Certo, então, para simplificar... podemos simplesmente jogar todas essas Peccatulas na mesma lata, mas cada uma dessas Anormalidades e Distorções é especial e única, hein? Eles poderiam ter explicado muito mais facilmente se eles apenas—"
+        },
+        {
+            "id": 134,
+            "content": "Bonk!"
+        },
+        {
+            "id": 135,
+            "content": "Heathcliff parecia ter acordado do coma, mas..."
+        },
+        {
+            "id": 136,
+            "model": "로쟈",
+            "content": "Estou ansioso por essa sobremesa extra... fuhu."
+        },
+        {
+            "id": 137,
+            "content": "... seu momento de lucidez durou apenas um momento."
+        },
+        {
+            "id": 138,
+            "model": "이스마엘",
+            "content": "E é só isso. Ufa... isso é muito bom, hein? É revigorante fazer algo assim de vez em quando."
+        },
+        {
+            "id": 139,
+            "model": "돈키호테",
+            "content": "…!"
+        },
+        {
+            "id": 140,
+            "content": "Dom Quixote não baixou a mão desde que Ismael a ignorou pela primeira vez, nem mesmo por um breve momento."
+        },
+        {
+            "id": 141,
+            "model": "이스마엘",
+            "content": "... Tudo bem. Pergunte à vontade."
+        },
+        {
+            "id": 142,
+            "model": "돈키호테",
+            "content": "Você! Sabe o nome! Do funcionário do LCD que compôs aquele relatório?!!!"
+        },
+        {
+            "id": 143,
+            "content": "Ishmael pareceu um pouco surpreso que Don Quixote realmente conseguiu fazer uma pergunta bastante sensata. Mesmo que tenha sido feita com o mesmo entusiasmo que ela tem quando fala sobre Fixers, é claro."
+        },
+        {
+            "id": 144,
+            "model": "이스마엘",
+            "content": "Ah, claro... Me dê um segundo..."
+        },
+        {
+            "id": 145,
+            "model": "이스마엘",
+            "content": "Remetente... Líder da equipe de raciocínio investigativo no local da LCD, Moses."
+        },
+        {
+            "id": 146,
+            "model": "이스마엘",
+            "content": "Bem, é melhor mantermos esse nome em mente, já que provavelmente os encontraremos mais cedo ou mais tarde. Sinto muito por ignorá-lo, Dom Quixote."
+        },
+        {
+            "id": 147,
+            "model": "돈키호테",
+            "content": "Hummm..."
+        },
+        {
+            "id": 148,
+            "content": "Embora Dom Quixote finalmente tenha recebido a resposta que ela tanto desejava, ela não parecia feliz ou animada com isso. Em vez disso, ela parecia absorta em pensamentos profundos."
+        },
+        {
+            "id": 149,
+            "model": "단테",
+            "content": "<Algo errado, Dom Quixote?>"
+        },
+        {
+            "id": 150,
+            "model": "돈키호테",
+            "content": "Eu... lembro de ter ouvido esse nome no passado. Mas não consigo lembrar bem a quem esse nome pode ter pertencido..."
+        },
+        {
+            "id": 151,
+            "model": "이스마엘",
+            "content": "Ok, agora terminamos de verdade."
+        },
+        {
+            "id": 152,
+            "model": "로쟈",
+            "content": "Droga~ Pensei que conseguiria coletar um pouco mais de sobremesa."
+        },
+        {
+            "id": 153,
+            "model": "파우스트",
+            "content": "Isso consumiu mais tempo do que o esperado inicialmente. Dante, agora..."
+        },
+        {
+            "id": 154,
+            "content": "Ah, certo. Já era hora."
+        },
+        {
+            "id": 155,
+            "model": "단테",
+            "content": "<Tudo bem, então. Eu confirmo o fechamento dos negócios de hoje para os Sinners.>"
+        },
+        {
+            "id": 156,
+            "content": "Isso poderia ter se arrastado por muito mais tempo... Mas, felizmente, os Sinners foram bem cooperativos, então conseguimos terminar o dia mais cedo."
+        },
+        {
+            "id": 157,
+            "content": "Segui os Sinners até a porta dos fundos do ônibus, meu coração um pouco mais leve do que estava no começo do dia."
+        },
+        {
+            "id": 158,
+            "content": "... Huh."
+        },
+        {
+            "id": 159,
+            "content": "Sinto que estou esquecendo de algo."
+        },
+        {
+            "id": 160,
+            "model": "히스클리프",
+            "content": "……."
+        },
+        {
+            "id": 161,
+            "content": "Levei cerca de 30 minutos para perceber que deixamos Heathcliff inconsciente no chão do ônibus."
+        }
+    ]
+}

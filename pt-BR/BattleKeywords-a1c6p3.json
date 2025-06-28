@@ -1,0 +1,99 @@
+{
+    "dataList": [
+        {
+            "id": "AaCfPcBe",
+            "name": "Deep Bereavement",
+            "desc": "Causa 5 de dano de SP após o ataque.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBf",
+            "name": "Fettered Woe",
+            "desc": "Sob uma certa condição, e com valor 3+, todas as Partes se tornam Staggered no próximo turno.\nExpira após aplicar 3 Fragile à Parte Chain",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBg",
+            "name": "Subject of Wrath",
+            "desc": "Torna-se um alvo de ataque prioritário para Heathcliff the Heartbroken.\nQuando esta unidade é morta, este efeito move-se para uma Identidade diferente.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBb",
+            "name": "Butler's Mark",
+            "desc": "Usado para aumentar o peso de ataque de certas habilidades de ataque",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBc",
+            "name": "Binding Technique",
+            "desc": "- Máx. 3\n- Fim do Turno: aumenta em 1\n- Fim do Turno: ganha Bind igual ao Valor deste efeito.\n- Fim do Turno: se estiver em Valor 3, fica Staggered pelo resto do Encontro.\nNão expira.",
+            "summary": "Ganhe Bind igual ao Valor no próximo turno.\nSe estiver em Valor 3, fique Staggered pelo resto do Encontro.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBh",
+            "name": "Excruciating Rage",
+            "desc": "Se o atacante tiver Ira Explosiva, receba +100% a mais de dano",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBm",
+            "name": "Lightning of Suffering",
+            "desc": "- Clash Win: Inflige Breaking Heart e causa 7 HP de dano.\n- Clash Lose ou After Unoposed Attack: Ganha Breaking Heart e sofre 7 HP de dano.\n- Reduzido em 1 no fim da habilidade",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBn",
+            "name": "Breaking Heart",
+            "desc": "- Cada Resistência de Afinidade com Pecado é aumentada em (Valor x 0,2)\n- Com Valor 3, fica Estupefato.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBp",
+            "name": "Courage to Approach",
+            "desc": "- Fim do turno: Cura 10 SP\n- Ganha 3 de Aumento de Poder de Ataque e 5 de Proteção a cada turno\n- Quando atacado, cura 5 SP. Ganha 1 Aumento de Nível de Ofensa no próximo turno. (3 vezes por turno)\n- Início do turno: Se estiver com menos de 0 SP, ganha 3 de Aumento de Poder de Ataque.\n- Enquanto houver 1 ou mais aliados sobreviventes neste Encontro, o HP de Heathcliff não cai abaixo de 1.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBo",
+            "name": "Determination",
+            "desc": "- Fim do turno: Cura 10 SP\n- Quando atacado, ganha 1 Aumento de Nível de Ofensa no próximo turno. (3 vezes por turno)\n- Início do turno: Se estiver com menos de 0 SP, ganha 3 Aumento de Poder de Ataque.\n- Enquanto houver 1 ou mais aliados sobreviventes neste Encontro, o HP de Heathcliff não cai abaixo de 1.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBq",
+            "name": "Broken Heart",
+            "desc": "- Velocidade Máxima +2\n- Ganhe 3 de Dano para Cima e 3 de Frágil a cada turno\n- Se o alvo principal for Heathcliff, a Habilidade de Ataque ganha Poder Final +2\n- Perda de Choque contra Heathcliff: ganhe 3 de Amarração e 3 de Dano para Baixo no próximo turno",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBr",
+            "name": "May She... Wake in Torment!",
+            "desc": "Poder de Choque -6 em um Choque contra alvos com Relâmpago do Sofrimento",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBi",
+            "name": "Superthermogenesis",
+            "desc": "Fim do turno: recebe dano fixo igual a X% do HP máximo com base no valor, então o efeito expira",
+            "undefined": "-"
+        },
+        {
+            "id": "Unobservable",
+            "name": "Unobservable",
+            "desc": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPcBs",
+            "name": "Away With You",
+            "desc": "Valor restante do escudo",
+            "undefined": "-"
+        }
+    ]
+}

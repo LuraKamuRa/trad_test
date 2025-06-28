@@ -1,0 +1,851 @@
+{
+    "dataList": [
+        {
+            "id": 9014001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Away With You",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho[Vibration]Contagem igual a[Vibration]Conte no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +2[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "My Secret Weapon",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Filthy Watch Chains!",
+                    "desc": "Clash Power +1 para cada 5[Vibration]Conte com eu (máximo 2)[WhenUse]Acionar[Switch_Vibration]para converter[Vibration]a si mesmo para[VibrationDistribution]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Vibration]Contagem igual a[Vibration]Conte com si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[StartBattle]Ganhe 2 x ([Vibration]Conte com si mesmo) escudo HP (máximo 20)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Outta My Way",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho[Vibration]igual a[Vibration]no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +2[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'm Pretty Good, You Know",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vile Watch Chains!",
+                    "desc": "Clash Power +1 para cada 5[Vibration]Conte com eu (máximo 2)[WhenUse]Acionar[Switch_Vibration]para converter[Vibration]a si mesmo para[VibrationDistribution]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho[Vibration]igual a[Vibration]no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[StartBattle]Ganhe 2 x ([Vibration]Conte com si mesmo) escudo HP (máximo 20)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Have You No Shame?",
+                    "desc": "[WhenUse]Ganhe +1[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I See, You Have No Shame",
+                    "desc": "[WhenUse]Ganhe +1[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Can You Protect Them?",
+                    "desc": "[WhenUse]Ganhe +1[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 10 anos[Vibration]Conte consigo mesmo, gatilho[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 15+[Vibration]Potência, gatilho[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Can't Use That Weapon Now",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[Switch_Vibration]em[VibrationCollapse]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ready For A Beating?",
+                    "desc": "Prioriza os alvos com[VibrationCollapse]\n[WhenUse]Aplicar[Vibration]Contagem igual a[Vibration]Conte consigo mesmo para todos os outros aliados[WhenUse]Acionar[Switch_Vibration]em todos os aliados (incluindo esta unidade) para converter seus[Vibration]para[VibrationDistribution]",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[FusionVibration]em[VibrationEcho]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "[StartBattle]Ganhe 3 x ([Vibration]Conte com eu) escudo HP (máximo 30)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101707,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "For the Greater Good",
+                    "desc": "[CantDuel]\n[StartBattle]Desenhe todos os outros aliados '[Vibration]Contar para si mesmo;[Vibration]em todos os aliados expirar[StartBattle]Ganho 1[AttackUp]Para cada 3[Vibration]Conte com si mesmo[WhenUse]Ganhe 9[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Causar 10% de dano de preguiça de bônus para cada[Vibration]Conte com si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Causar 10% de dano de preguiça de bônus para cada[Vibration]Conte com si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 3[Vibration]Conte comigo e gatilho[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 3[Vibration]Conte comigo e gatilho[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 3[Vibration]Conte comigo e gatilho[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Collection Stop-and-search",
+                    "desc": "[WhenUse]Ganhe +1[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 4+[Vibration]Conde, infligir 1[InterlockingTime]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 4+[Vibration]Conde, infligir 1[InterlockingTime]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Please Stop.",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar[WhenUse]Em mais de 4[Vibration]Contagem, poder de conflito +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Paralysis]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 4[Vibration]Conde, infligir 8[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 4[Vibration]Conde, infligir 8[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enforcing Collections.",
+                    "desc": "[WhenUse]Clash Power +1 para cada 5[Vibration]Conte com eu (máximo 2)[WhenUse]A 5+[Vibration]Contar, causar +10% mais danos para cada[Vibration]Contar. (máximo 100%)[EndSkill]Consuma tudo[Vibration]Conte com si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Vibration]Conte o próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 8+[Vibration], infligir 1[InterlockingTime]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 4[Vibration]Conde, infligir 8[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Vibration]Conte o próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 4+[Vibration]Conde, infligir 1[InterlockingTime]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 4[Vibration]Conde, infligir 5[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Às 7+[Vibration]Conde, infligir 1[InterlockingTime]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 4[Vibration]Conte, gatilho[Switch_Vibration]em[VibrationChain]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Borrow Time",
+                    "desc": "[StartBattle]Consuma 5[Vibration]Conte e ganhe +3[TimeRentalTwo]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Prepare To Collect",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 3 anos[Vibration]Conde, infligir 3[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +1[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "T Corp. Accelerated Amputator",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]Próximo turno"
+                                },
+                                {
+                                    "desc": "Infligir 2[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Your Timepiece, If You Will.",
+                    "desc": "[WhenUse]A 5+[Vibration]Contagem, poder de conflito +1[WhenUse]Ganhe +2[Vibration]Contar[WinDuel]Consuma 3[Vibration]Conte consigo mesmo e ganhe +1[TimeRentalTwo]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ataque de poder no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A 5+[Vibration]Conte, gatilho[Switch_Vibration]em[VibrationChain]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enforcing Collections.",
+                    "desc": "[WhenUse]Ganhe +3[Vibration]Contar[WhenUse]Potência base +1 para cada 4[Vibration]Conte com eu (máximo 3)[WinDuel]Consuma 5[Vibration]Conte consigo mesmo e ganhe +3[TimeRentalTwo]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 1[Vibration]Conte consigo mesmo para infligir 1 frágil"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 1[Vibration]Conte consigo mesmo para infligir +3[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 1[Vibration]Conte consigo mesmo para infligir 8[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 2[Vibration]Conte consigo mesmo para desencadear[VibrationExplosion]; Em seguida, reutilize esta moeda (1 tempo máx)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 5[Vibration]Conte consigo mesmo para infligir 2[TimeAccumulation]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Borrow Time",
+                    "desc": "[StartBattle]Consuma 4[Vibration]Conte e ganhe +3[TimeRentalTwo]Contar[StartBattle]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Prepare To Collect",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 3 anos[Vibration]Conde, infligir 3[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +1[Vibration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "T Corp. Time Snare",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 1[Vibration]Conte consigo mesmo para infligir 2[Paralysis]Próximo turno. Infligir 2[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 1[Vibration]Conte consigo mesmo para infligir 2[Paralysis]Próximo turno. Infligir 2[Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stand Still.",
+                    "desc": "[WhenUse]A 5+[Vibration]Contagem, poder de conflito +1[WhenUse]Ganhe +2[Vibration]Contar[WinDuel]Consuma 3[Vibration]Conte consigo mesmo e ganhe +1[TimeRentalTwo]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 2[Vibration]Conte consigo mesmo para infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 2[Vibration]Conte consigo mesmo para infligir 2[ParryingResultDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enforcing Collections.",
+                    "desc": "[WhenUse]Ganhe +3[Vibration]Contar[WhenUse]Potência base +1 para cada 4[Vibration]Conte com eu (máximo 3)[WinDuel]Consuma 5[Vibration]Conte consigo mesmo e ganhe +3[TimeRentalTwo]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 1[Vibration]Conte consigo mesmo para infligir 1 frágil"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 1[Vibration]Conte consigo mesmo para infligir +3[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 1[Vibration]Conte consigo mesmo para infligir 8[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 2[Vibration]Conte consigo mesmo para desencadear[VibrationExplosion]; Em seguida, reutilize esta moeda (1 tempo máx)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Consuma 5[Vibration]Conte consigo mesmo para infligir 2[TimeAccumulation]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9014405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Borrow Time",
+                    "desc": "[StartBattle]Consuma 4[Vibration]Conte e ganhe +3[TimeRentalTwo]Contar[StartBattle]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

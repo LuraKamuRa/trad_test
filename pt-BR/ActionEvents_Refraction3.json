@@ -1,0 +1,89 @@
+{
+    "dataList": [
+        {
+            "id": 858501,
+            "name": "",
+            "subDesc": "",
+            "desc": "Você sente seu olhar curioso e intenso.",
+            "options": [
+                {
+                    "message": "O olhar penetrante corta tudo.",
+                    "messageDesc": "",
+                    "result": [
+                        "The keen gaze cleaves itself also."
+                    ]
+                },
+                {
+                    "message": "O olhar penetrante penetra tudo.",
+                    "messageDesc": "",
+                    "result": [
+                        "The piercing gaze pierces itself also."
+                    ]
+                },
+                {
+                    "message": "O olhar penetrante esmaga tudo.",
+                    "messageDesc": "",
+                    "result": [
+                        "The crushing gaze crushes itself also."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 858502,
+            "name": "",
+            "desc": "O olhar intenso havia se transformado em um olhar de diferentes sensações.",
+            "options": [
+                {
+                    "message": "A sensação de um olhar que queima tudo.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "A sensação de um olhar que fere a todos.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "A sensação de um olhar que tudo contempla.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "A sensação de um olhar que tudo devora.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "A sensação de um olhar que tudo obscurece.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "A sensação de um olhar cheio de desprezo por todas as coisas.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "A sensação de um olhar cheio de inveja por todas as coisas.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

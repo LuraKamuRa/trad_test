@@ -1,0 +1,40 @@
+{
+    "dataList": [
+        {
+            "id": "acquire_personality_title",
+            "content": "Selecione Identidade"
+        },
+        {
+            "id": "ask_acquire_personality",
+            "content": "Selecione a identidade de {1} [{0}]?"
+        },
+        {
+            "id": "ask_use_item_for_acquire_personality",
+            "content": "Usar {0}?"
+        },
+        {
+            "id": "tip_able_to_check_personality_by_longclick",
+            "content": "※ Pressione e segure para visualizar informações detalhadas da Identidade."
+        },
+        {
+            "id": "luxcavation_bonus_on",
+            "content": "Lux. Bônus ativado"
+        },
+        {
+            "id": "ask_acquire_personality_already_owned",
+            "content": "Selecionar a Identidade de {1} [{0}]?\nSelecionar uma Identidade já possuída converterá automaticamente sua seleção em Fragmentos."
+        },
+        {
+            "id": "acquire_ego_title",
+            "content": "Selecionando E.G.O"
+        },
+        {
+            "id": "ask_acquire_ego",
+            "content": "Selecione {1}'s [{0}] E.G.O?"
+        },
+        {
+            "id": "ask_acquire_ego_already_owned",
+            "content": "Selecione {1}'s [{0}] E.G.O?\nSelecionar um E.G.O já possuído converterá automaticamente sua seleção em Shards."
+        }
+    ]
+}

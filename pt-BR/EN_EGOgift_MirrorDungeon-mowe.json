@@ -1,0 +1,200 @@
+{
+  "dataList": [
+    {
+      "id": 9732,
+      "name": "Economy Class Discount Voucher",
+      "desc": "Turn End: Entre as identidades com 5-velocidade, a da velocidade mais lenta ganha 1 [[suporte]] no próximo turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 9732,
+          "simpleDesc": "Ganhe 1 pressa no próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 9733,
+      "name": "Canned Ice Cream",
+      "desc": "Quando um aliado perde a HP devido ao seu próprio efeito de habilidade de ataque, curar metade do HP perdeu devido ao efeito da habilidade no próximo turno. (arredondado para baixo)\n\nQuando um aliado cura a HP devido a um efeito de habilidade, por exemplo, cura +12,5% mais hp. (arredondado para baixo)",
+      "simpleDesc": [
+        {
+          "abilityID": 9733,
+          "simpleDesc": "Cure HP no próximo turno"
+        },
+        {
+          "abilityID": 97331,
+          "simpleDesc": "Melhorar, por exemplo, efeitos de cura de HP"
+        }
+      ]
+    },
+    {
+      "id": 9734,
+      "name": "E-Type Dimensional Dagger",
+      "desc": "Habilidade 1s que ganham [[suporte]] contam ou \"cobra\" Gain Clash Power +1 e causa +5% mais danos.\n\nSe essa habilidade 1 foi uma habilidade de uma única ligação, ganhe poder de conflito +1 e causar +12,5% mais danos.\n\nSe uma identidade W Corp. causou danos a um inimigo com uma habilidade de inveja (incluindo, por exemplo, habilidades), inflige 2 hp curando. (não empilha)",
+      "simpleDesc": [
+        {
+          "abilityID": 9734,
+          "simpleDesc": "Habilidade 1 ganha poder de conflito e causar mais danos"
+        },
+        {
+          "abilityID": 97341,
+          "simpleDesc": "Habilidade 1 ganha poder de conflito e causar mais danos"
+        },
+        {
+          "abilityID": 97342,
+          "simpleDesc": "Infligir 2 hp curando"
+        }
+      ]
+    },
+    {
+      "id": 9735,
+      "name": "Portable Barrier Battery",
+      "desc": "Habilidade 1s que ganham [[suporte]] contagem ou \"cobrança exclusiva\" Power Clash +2.\n\nAo usar uma habilidade 1 que ganha [[suporte]] contagem, ganhe +2 [[bracket]] contagem e 1 [[bracket]]. (uma vez por turno)\n\nSe uma identidade de W Corp. sofrer danos à HP devido a qualquer efeito que não seja um dano direto, ganhe 5 [[suporte]]. (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9735,
+          "simpleDesc": "Habilidade 1 ganha poder de conflito, contagem de carga e barreira de carga"
+        },
+        {
+          "abilityID": 97351,
+          "simpleDesc": "Ganhar barreira de carga"
+        }
+      ]
+    },
+    {
+      "id": 9736,
+      "name": "Biogenerative Battery",
+      "desc": "Aliados com [[suporte]] contagem ou \"cobrança exclusiva\" Ganho 1 nível de ofensa a cada conflito. (Máx 6. Redefina após o ataque)\n\nTurn End: Identidades com mais de 10 ([[bracket]] contagem + 'cobrança exclusiva') Ganho 1 [[Bracket]] Próxima turno. Aos 18 anos ([[[suporte]]] contagem + 'cobrança única'), ganhe 3 [[backet]] também.",
+      "simpleDesc": [
+        {
+          "abilityID": 9736,
+          "simpleDesc": "Ganho de nível de ofensa"
+        },
+        {
+          "abilityID": 97361,
+          "simpleDesc": "Ganhar pressa"
+        },
+        {
+          "abilityID": 97362,
+          "simpleDesc": "Ganhe o nível de ofensa"
+        }
+      ]
+    },
+    {
+      "id": 9737,
+      "name": "Cardiovascular Reactive Module",
+      "desc": "Quando um aliado com a contagem [[Bracket]] ou 'cobrança exclusiva' perde um confronto, ganhe escudo igual a ([[bracket]] contagem + 'cobrança única'). (uma vez por turno)\n\nQuando a 50%- hp, ganho (([[[suporte]] contagem + 'cobrança exclusiva') x 2) em vez disso. (uma vez por turno)\n\nSe uma identidade de escritório multicróstica recebeu danos à HP durante este encontro: no próximo turno, eles curam 33% do HP perdeu a última curva. (arredondado para baixo)",
+      "simpleDesc": [
+        {
+          "abilityID": 9737,
+          "simpleDesc": "Ganho escudo"
+        },
+        {
+          "abilityID": 97371,
+          "simpleDesc": "Cura HP com base no HP perdeu a última curva"
+        }
+      ]
+    },
+    {
+      "id": 9738,
+      "name": "Prosthetic Joint Servos",
+      "desc": "Próximo turno: os aliados ganham [[suporte]] e [[bracket]] contam iguais ao número de [[suporte]] ou \"cobrança única\", obtendo habilidades de ataque base que eles usaram esse turno. (Máx 2)\n\nQuando uma identidade de escritórios multicróticos ganha ou consome [[suporte]] contagem com uma habilidade de ataque básica, eles ganham +1 contagem adicional [[suporte]]. (Máx 2)",
+      "simpleDesc": [
+        {
+          "abilityID": 9738,
+          "simpleDesc": "Ganhar pressa e contagem de cobrança"
+        },
+        {
+          "abilityID": 97381,
+          "simpleDesc": "Ganhe mais contagem de cobrança"
+        }
+      ]
+    },
+    {
+      "id": 9739,
+      "name": "Crystallized Blood",
+      "desc": "Turn End: Se esta unidade tiver [[suporte]], reduz a redução da potência [[suporte]] em si mesmo e curam ([[[suporte]]] potência reduzida x [[suporte]] contagem em self) hp. (arredondado.",
+      "simpleDesc": [
+        {
+          "abilityID": 9739,
+          "simpleDesc": "Metade da potência do sangramento em si mesmo, curar HP"
+        }
+      ]
+    },
+    {
+      "id": 9740,
+      "name": "Automated Joints",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que ganham [[suporte]] ou efeitos de \"cobrança única\". (Sem contar, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nHabilidades de ataque básico que consomem [[suporte]] contagem ou 'cobrança única': ganho de poder de moeda +1 e negócio +(soma da contagem [[backet]] e \"cobrança única\" consumida por essa habilidade x 4) mais danos (máximo 40%)\n\nTurn End: Aliados com [[suporte]] contagem ou ganho de \"carga exclusiva\" 1 [[suporte]] (max 2) e 1 [[bracket]] (máximo 3) para cada instância que eles usaram uma habilidade de ataque básica que consome [[suporte]] contagem ou \"cobrança única\" nesse encontro.\n\nSe uma identidade de escritório multicrack tem 5+ [[suporte]], eles ganham poder de moeda +1 para basear as habilidades de ataque.",
+      "simpleDesc": [
+        {
+          "abilityID": 9740,
+          "simpleDesc": "Ganhar poder moeda e causar mais danos"
+        },
+        {
+          "abilityID": 97401,
+          "simpleDesc": "Ganhe pressa e danificar a próxima curva"
+        },
+        {
+          "abilityID": 97402,
+          "simpleDesc": "Ganhe poder de moeda"
+        }
+      ]
+    },
+    {
+      "id": 9741,
+      "name": "Overcharged Battery",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que ganham [[suporte]] ou efeitos de \"cobrança única\". (Sem contar, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nHabilidades de ataque básico que consomem [[suporte]] contagem ou 'cobrança única': ganho de poder de moeda +1 e negócio +(soma da contagem [[backet]] e \"cobrança única\" consumida por essa habilidade x 4) mais danos (máximo 40%)\n\nQuando aliados com [[suporte]] contam ou \"cobrança única\" se envolve em confrontos com habilidades de ataque básico: poder de conflito +2; Ganhe +3 [[Bracket]] Conta com a vitória do Clash e perca 6 [[Bracket]] Conta com a perda de Clash.\n\nAo vencer um confronto com uma habilidade de ataque da base de Envy Affinity, infligir 1 [[Bracket]]. (Stacks 3 vezes)",
+      "simpleDesc": [
+        {
+          "abilityID": 9741,
+          "simpleDesc": "Ganhar poder moeda e causar mais danos"
+        },
+        {
+          "abilityID": 97411,
+          "simpleDesc": "Ganhar poder de conflito; Ganhar a contagem de acusações com a vitória do confronto, perder a contagem de encargos com a perda de conflito"
+        },
+        {
+          "abilityID": 97412,
+          "simpleDesc": "Infligir fragilidade da inveja"
+        }
+      ]
+    },
+    {
+      "id": 9742,
+      "name": "Perpetual Generator Servos",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que ganham [[suporte]] ou efeitos de \"cobrança única\". (Sem contar, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nHabilidades de ataque básico que consomem [[suporte]] contagem ou 'cobrança única': ganho de poder de moeda +1 e negócio +(soma da contagem [[backet]] e \"cobrança única\" consumida por essa habilidade x 4) mais danos (máximo 40%)\n\nQuando aliados com [[suporte]] contam ou \"cobrança única\" se envolvem em um confronto com habilidades de ataque básico: poder de conflito +1; Ganhe 2 [[Bracket]] No turno Start para todas as instâncias da vitória do Clash nesse confronto durante este encontro. (Máx 6)\n\nNesse encontro, quando um aliado sofre de dano que os mataria, consumiria toda a contagem [[Bracket]] e a \"carga única\" em si; Em seguida, cure imediatamente (10 + soma de [[suporte]] contagem e \"cobrança exclusiva\"% consumida)% HP (uma vez por encontro); Então, ganhe 3 [[suporte]] até que o aliado seja derrotado.",
+      "simpleDesc": [
+        {
+          "abilityID": 9742,
+          "simpleDesc": "Ganhar poder moeda e causar mais danos"
+        },
+        {
+          "abilityID": 97421,
+          "simpleDesc": "Ganhe o poder de conflito e o nível de ofensa"
+        },
+        {
+          "abilityID": 97422,
+          "simpleDesc": "Imediatamente antes da morte, consuma a contagem de acusações para curar e ganhar proteção instantaneamente"
+        }
+      ]
+    },
+    {
+      "id": 9743,
+      "name": "Hearts-powered Jewel",
+      "desc": "Início do encontro: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que ganham [[suporte]] ou efeitos de \"cobrança única\". (Sem contar, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nHabilidades de ataque básico que consomem [[bracket]] contagem: ganho de poder de moeda +1 e negócio +(soma de [[suporte]] contagem e \"cobrança única\" consumida por essa habilidade x 4)% mais danos (no máximo 40%)\n\nQuando os aliados têm 15+ ([[[suporte]]] contagem + 'cobrança única'): quando eles usam uma habilidade 3 que consome [[suporte]] contagem ou 'carga única' e, se houver algum dano restante [[suporte]] ou 'carga única'. (máximo 75%)\n\nMax [[bracket]] contagem +5.",
+      "simpleDesc": [
+        {
+          "abilityID": 9743,
+          "simpleDesc": "Ganhar poder moeda e causar mais danos"
+        },
+        {
+          "abilityID": 97431,
+          "simpleDesc": "Gastar contagem de cobranças adicionais para causar danos ao bônus"
+        },
+        {
+          "abilityID": 97432,
+          "simpleDesc": "Contagem máxima de carga +5"
+        }
+      ]
+    }
+  ]
+}

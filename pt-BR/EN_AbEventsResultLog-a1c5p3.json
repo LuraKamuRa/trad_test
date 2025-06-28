@@ -1,0 +1,96 @@
+{
+  "dataList": [
+    {
+      "id": "810001_skinPredector_success_1_1",
+      "content": "{0} [[tag-color]] perde {1} sp [[tag-color]]"
+    },
+    {
+      "id": "810001_skinPredector_success_1_2",
+      "content": "{0} ganha % {2} {1}/ % para o encontro."
+    },
+    {
+      "id": "810001_skinPredector_success_1_3",
+      "content": "{0} ganha % {2} {1}/ % e % {4} {3}/ % para o encontro."
+    },
+    {
+      "id": "810001_skinPredector_success_1_4",
+      "content": "Reduz o HP de {0} com [[Tag-Color]] o mais HP a 1 [[colorido tag]]]"
+    },
+    {
+      "id": "810001_skinPredector_failure_1_1",
+      "content": "{0} ganha % {2} {1}/ % e % {4} {3}/ % para o encontro."
+    },
+    {
+      "id": "810001_skinPredector_failure_1_2",
+      "content": "Todas as identidades ganham %{1} {0}/ %e %{3} {2}/ %."
+    },
+    {
+      "id": "810201_nk_success_1_1",
+      "content": "1 {0} [[tag-color]] perde {1} hp [[tag-color]]"
+    },
+    {
+      "id": "810201_nk_success_1_2",
+      "content": "{0} ganha %{2} {1}/ %"
+    },
+    {
+      "id": "810201_nk_failure_1_1",
+      "content": "1 {0} [[tag-color]] perde {1} hp [[tag-color]]"
+    },
+    {
+      "id": "810201_nk_failure_1_2",
+      "content": "{0} [[tag-color]] perde {1} hp [[tag-color]]"
+    },
+    {
+      "id": "810101_walkingPearl_success_1_1",
+      "content": "{0} [[tag-color]] perde {1} sp [[tag-color]]"
+    },
+    {
+      "id": "810101_walkingPearl_success_1_2",
+      "content": "{0} [[tag-color]] perde {1} hp [[tag-color]]"
+    },
+    {
+      "id": "810101_walkingPearl_success_1_3",
+      "content": "{0} %perde {2} {1}/ %"
+    },
+    {
+      "id": "810101_walkingPearl_failure_1_1",
+      "content": "{0} [[tag-color]] perde {1} sp [[tag-color]]"
+    },
+    {
+      "id": "810101_walkingPearl_failure_1_2",
+      "content": "{0} [[tag-color]] perde {1} hp [[tag-color]]"
+    },
+    {
+      "id": "810602_success_1_1",
+      "content": "{0} ganha %{2} [[backet]]/ %e %{4} [[backet]]/ %"
+    },
+    {
+      "id": "810602_success_1_2",
+      "content": "{0} [[Tag-Color]] cura totalmente SP [[colorido de tag]]"
+    },
+    {
+      "id": "810602_success_1_3",
+      "content": "Todos os aliados ganham %{1} [[backet]]/ %"
+    },
+    {
+      "id": "810602_success_1_4",
+      "content": "Todos os aliados [[Tag-Color]] Heal {0} SP [[Tag-Color]]"
+    },
+    {
+      "id": "810602_success_1_5",
+      "content": "{0} ganha %{2} [[backet]]/ %"
+    },
+    {
+      "id": "810603_failure_1_1",
+      "content": "{0} ganha %{2} [[backet]]/ %e %{4} [[backet]]/ %"
+    },
+    {
+      "id": "810603_failure_1_2",
+      "content": "{0} [[Tag-Color]] cura totalmente SP [[colorido de tag]]"
+    },
+    {
+      "id": "810603_failure_1_3",
+      "content": "{0} ganha %{2} [[backet]]/ %"
+    }
+  ]
+}

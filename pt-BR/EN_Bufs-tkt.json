@@ -1,0 +1,122 @@
+{
+  "dataList": [
+    {
+      "id": "FusionVibration",
+      "name": "Amplitude Entanglement",
+      "desc": "- Funda os efeitos do tipo de tremor adicionados pelo emaranhamento da amplitude e pelo tipo de tremor atualmente no alvo juntos sob tremor - superposição.\n- Os valores de potência e contagem não mudam sobre o emaranhamento.\n- Ao desencadear a conversão de amplitude do tremor - a superposição, ela ativa como emaranhamento da amplitude.\n- Turn End: convertido em tremor base.",
+      "summary": ""
+    },
+    {
+      "id": "VibrationNesting",
+      "name": "Tremor - Superposition",
+      "desc": "- Ganhado por meio de emaranhamento de amplitude\n- Ao desencadear a conversão da amplitude, adicione os efeitos do tipo de tremor resultante à lista de efeitos ativos do tremor em Tremor - SuperPosition.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "VibrationDistribution",
+      "name": "Tremor - Distribution",
+      "desc": "- Turn End: Gain ((soma da contagem de tremores de todos os aliados) / (# de aliados sobreviventes)) Nível de ataque no próximo turno (máximo 5)\n- Para {1} gira, quando atingido por habilidades que desencadeiam o tremor explosão, aumente o limiar de escalonamento por {0}\n- Turn End: Reduza a contagem em 1\n- (interage da mesma maneira que o tremor normal faz com que os efeitos aumentem ou reduzam a potência/contagem do tremor)",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "TcorpSpecialInvestigator",
+      "name": "T Corp. Special Investigator Badge",
+      "desc": "-Quando esta unidade sofre danos letais, o HP não cai abaixo de 1, cura instantaneamente 80% de seu HP máximo e se recupera de escalonamento. (Uma vez por encontro)\n- Quando esse efeito de buff é ativado, iniciando o próximo turno, esta unidade ganha 2 ataques de ataque a cada turno começam por 5 voltas.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "VibrationChain",
+      "name": "Tremor - Chain",
+      "desc": "- Perca 1 poder de confronto para cada 10 Potência do Tremor em Self (Máx 3)\n- Para {1} Turns: Quando atingido por habilidades que desencadeiam o tremor explosão, aumente o limiar de escalonamento por {0}.\n- Turn End: Reduza a contagem em 1\n- (interage da mesma maneira que o tremor normal faz com que os efeitos aumentem ou reduzam a potência/contagem do tremor)",
+      "summary": "Perder 1 poder de confronto para cada 10 terror potência em si mesmo\nLevante o limite de cambaleou por {0}",
+      "undefined": null
+    },
+    {
+      "id": "TimeRentalTwo",
+      "name": "T Corp. Borrowed Time",
+      "desc": "Turn End:\n- Ganho {1} Anteza, confronte a liga e o frágil na próxima curva.\n- Na contagem 1, ganha {0} liga a próxima curva.\n- Ganhe 1 pilha e perca 1 contagem\n- Se esta unidade tiver mais ligação do que pressa, o efeito de tempo emprestado expira e esta unidade ficará escalonada.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "TimeAccumulation",
+      "name": "Time Delay",
+      "desc": "Enquanto esse efeito estiver ativo, os danos causados ​​contra esta unidade são armazenados e não são tomados.\nTurn End: Reduza o valor em 1\nTurn End: Se restar apenas 1 valor desse efeito, o efeito expira após o causar (2 x danos armazenados) dano da preguiça a esta unidade\nQuando esse efeito está ativo, seu valor não pode ser obtido ou atualizado.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "ParryingResultDown",
+      "name": "Clash Power Down",
+      "desc": "Em um confronto, perde o poder de conflito igual ao valor",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "ParryingResultUp",
+      "name": "Clash Power Up",
+      "desc": "Em um confronto, ganhe poder de conflito igual ao valor",
+      "summary": "Em um confronto, ganhe poder de conflito igual ao valor",
+      "undefined": null
+    },
+    {
+      "id": "LimitedTime",
+      "name": "Stolen Time",
+      "desc": "- Turn Start: a mais de 200 valor, ganho ({0}- 200)/50 Nível de ataque e nível de defesa.\n- Turn Start: Com menos de 200 valor, Gain (200 - {0})/50 nível de ofensa e nível de defesa.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "OwnTime",
+      "name": "Shared Time",
+      "desc": "- Turn START: a mais de 40 valor, ganho ({0}- 40)/10 Nível de ataque e nível de defesa.\n- Turn Start: Com menos de 40 valor, ganho (40 - {0})/10 nível de ofensa e nível de defesa.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "EquitableDistribution",
+      "name": "Joint Time Expenditure",
+      "desc": "Ao gastar tempo compartilhado, os cérebros gastam uma quantidade igual de tempo em geral.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "UnfairDistribution",
+      "name": "Infighting",
+      "desc": "Ao gastar tempo compartilhado, o cérebro não gasta mais uma quantidade igual de tempo em geral.\nTurn Start: Todas as peças perdem proteção igual ao número de peças com diferentes valores de tempo restantes.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "TimeAcceleration",
+      "name": "Time Acceleration",
+      "desc": "- Ganhe 5 velocidades\n- aprimora as habilidades desta unidade.\n- Ganhe 1 frágil; Quando o tremor estourou, o efeito de habilidade ou moeda aumenta o limite de escalonamento desta unidade, ele aumenta em +50% a mais.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "Yurodivy_LowMorale",
+      "name": "Broken Unity",
+      "desc": "- Baixo moral\nGanhe 1 frágil. Ganhe 1 contagem de tremores quando atingido. (3 vezes max)",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "Yurodivy_Panic",
+      "name": "Broken Unity",
+      "desc": "- Pânico\nGanhe 2 frágeis. Ganhe 2 contagem de tremores quando atingido. (3 vezes max)",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "TimeKillerWatch",
+      "name": "Time Relief Entitlement",
+      "desc": "Alvo no tempo Ripper enquanto a aceleração do tempo estiver ativa.",
+      "summary": "",
+      "undefined": null
+    }
+  ]
+}

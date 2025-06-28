@@ -1,0 +1,149 @@
+{
+    "dataList": [
+        {
+            "id": 806301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Brutal Pummelling",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Powerful! Pummel",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Foaming",
+                    "desc": "[CantIdentify]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5 contagem de ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Shell Attack!!!",
+                    "desc": "[CantIdentify]Acordo +20% de dano por 5 ruptura contagem no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crab Rave",
+                    "desc": "[CantIdentify]Dano +20% por 5 ruptura contagem no alvo[EndSkill]Invocar 3 caranguejos se houver menos de 5 outros caranguejos em campo no final do turno (máximo 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806306,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Foam Armor",
+                    "desc": "[StartBattle]Quando atacado enquanto esta unidade possui escudo HP, prejudique 7 danos ao atacante e infligir 1 ruptura",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 806307,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Foam Armor",
+                    "desc": "[StartBattle]Quando atacado enquanto esta unidade possui escudo HP, prejudique 7 danos ao atacante e infligir 1 ruptura",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

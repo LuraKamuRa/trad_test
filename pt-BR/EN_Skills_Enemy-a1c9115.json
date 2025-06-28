@@ -1,0 +1,62 @@
+{
+  "dataList": [
+    {
+      "id": 9101905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sky-clearing Cut",
+          "desc": "[[Bracket]] Se o alvo principal tiver 5+ [[suporte]], Peso ATK +1\n[[Bracket]] Se esta unidade usará mais de 4 habilidades de ataque neste turno, potência final +5\n[[Suporte]] Todos os aliados curam 15 sp\nSe o alvo tiver 7+ [[suporte]], causar + 30% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Se o alvo tiver 7+ [[suporte]], causar + 50% de dano"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +10 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rules of the Backstreets",
+          "desc": "[[Bracket]] Adicione mais 1 moeda por cada aliado sobrevivente (máximo)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 2 [[Bracket]] e +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Suporte]] Todos os aliados curam 20 sp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+    "dataList": [
+        {
+            "id": "800101_whitesnow_success_1_1",
+            "content": "<color=#ebcaa2>Os efeitos de [{0}]</color> <color=#e30000>expiraram.</color>"
+        },
+        {
+            "id": "800101_whitesnow_failure_1_1",
+            "content": "<color=#ebcaa2>Nada aconteceu.</color>"
+        },
+        {
+            "id": "800105_whitesnow_success_1_1",
+            "content": "O <color=#ebcaa2>[{0}]</color> <color=#f8c200>quebrou!</color>"
+        },
+        {
+            "id": "800105_whitesnow_success_1_2",
+            "content": "<color=#ebcaa2>[{0}] ficou atordoado!</color>"
+        },
+        {
+            "id": "800105_whitesnow_failure_1_1",
+            "content": "<color=#ebcaa2>Nada aconteceu.</color>"
+        },
+        {
+            "id": "800801_muckwormedapple_success_1_1",
+            "content": "<color=#ebcaa2>A Maçã Dourada formou um novo corpo!</color>"
+        },
+        {
+            "id": "800801_muckwormedapple_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde [{1}] HP.</color>"
+        },
+        {
+            "id": "800801_muckwormedapple_failure_1_2",
+            "content": "Todas as partes de [{0}] ganham %{3} {2} por {1} turno(s)/%."
+        },
+        {
+            "id": "800801_muckwormedapple_failure_1_3",
+            "content": "<color=#ebcaa2>A Maçã Dourada formou um novo corpo!</color>"
+        },
+        {
+            "id": "800201_aztec_circle_1_1",
+            "content": "<color=#ebcaa2>Todas as partes de [{0}]</color> <color=#ebcaa2>ganham</color> %{2} [{1}]/%."
+        },
+        {
+            "id": "800202_aztec_circle_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "800202_aztec_circle_success_1_2",
+            "content": "<color=#ebcaa2>Todas as partes de [{0}]</color> <color=#ebcaa2>ganham</color> %{2} [{1}]/%."
+        },
+        {
+            "id": "800202_aztec_circle_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "800202_aztec_circle_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>perde {1} SP.</color>"
+        },
+        {
+            "id": "800202_aztec_circle_failure_1_3",
+            "content": "<color=#ebcaa2>Todas as partes de [{0}]</color> <color=#ebcaa2>ganham</color> %{2} [{1}] e {4} [{3}]/%."
+        },
+        {
+            "id": "800203_aztec_circle_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "800203_aztec_circle_1_2",
+            "content": "<color=#ebcaa2>[{1}] de [{0}]</color> <color=#e30000>expirado.</color>"
+        },
+        {
+            "id": "800204_aztec_circle_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "800204_aztec_circle_success_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "800204_aztec_circle_success_1_3",
+            "content": "<color=#ebcaa2>[{1}] de [{0}]</color> <color=#e30000>expirado.</color>"
+        },
+        {
+            "id": "800204_aztec_circle_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "800204_aztec_circle_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>perde {1} SP.</color>"
+        },
+        {
+            "id": "800204_aztec_circle_failure_1_3",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "800204_aztec_circle_failure_1_4",
+            "content": "%{1} [{0}]/% <color=#ebcaa2>aplicado</color> a <color=#ebcaa2>todos os pecadores.</color>"
+        },
+        {
+            "id": "800206_aztec_circle_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "800206_aztec_circle_success_1_2",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> <color=#fe4b48>perdem {0} SP.</color>"
+        },
+        {
+            "id": "800206_aztec_circle_success_1_3",
+            "content": "<color=#ebcaa2>Anormalidade suprimida!</color>"
+        },
+        {
+            "id": "800206_aztec_circle_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "800206_aztec_circle_failure_1_2",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> <color=#fe4b48>perdem {0} SP.</color>"
+        },
+        {
+            "id": "800206_aztec_circle_failure_1_3",
+            "content": "<color=#ebcaa2>Todas as partes de [{0}]</color> <color=#ebcaa2>ganham</color> %{2} [{1}] e {4} [{3}]/%."
+        },
+        {
+            "id": "801201_reinforcedHuman_1_1",
+            "content": "<color=#ebcaa2>Investigando a fábrica…</color>"
+        },
+        {
+            "id": "801201_reinforcedHuman_1_2",
+            "content": "<color=#ebcaa2>Decidimos não investigar a fábrica.</color>"
+        },
+        {
+            "id": "801202_reinforcedHuman_1_1",
+            "content": "<color=#ebcaa2>Pressionou “Sim”.</color>"
+        },
+        {
+            "id": "801202_reinforcedHuman_2_1",
+            "content": "<color=#ebcaa2>Pressionou “Não”.</color>"
+        },
+        {
+            "id": "801202_reinforcedHuman_1_2_1",
+            "content": "<color=#ebcaa2>Todas as identidades</color> <color=#e30000>perdem {0} HP.</color>"
+        },
+        {
+            "id": "801202_reinforcedHuman_1_2_2",
+            "content": "<color=#ebcaa2>Todos os Cyborgs</color> <color=#e30000>perderam</color> <color=#ebcaa2>seus Passivos [Fábrica de Melhorias no Trabalho]!</color>"
+        },
+        {
+            "id": "801202_reinforcedHuman_2_2",
+            "content": "<color=#ebcaa2>Todos os inimigos</color> <color=#e30000>perderam</color> <color=#ebcaa2>suas passivas [Fábrica de Melhorias em Ação]!</color>"
+        },
+        {
+            "id": "801502_pinkshoe_success_1_1",
+            "content": "<color=#ebcaa2>Nos turnos restantes, todos os inimigos</color> <color=#ebcaa2>ganham</color> %{1} [{0}] e {3} [{2}]/%."
+        },
+        {
+            "id": "801502_pinkshoe_success_1_2",
+            "content": "<color=#ebcaa2>Todos os inimigos não se tornarão mais [{0}].</color>"
+        },
+        {
+            "id": "801502_pinkshoe_failure_1_1",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#e30000>perdem {0} HP.</color>"
+        },
+        {
+            "id": "801502_pinkshoe_failure_1_2",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#ebcaa2>ganham</color> %{1} [{0}]/%."
+        },
+        {
+            "id": "801502_pinkshoe_failure_1_3",
+            "content": "<color=#ebcaa2>Todos os inimigos se tornam %[{0}]/%.</color>"
+        },
+        {
+            "id": "102001_action_4_1",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#e30000>perdem {0} HP.</color>"
+        },
+        {
+            "id": "102001_action_4_2",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#fe4b48>perdem {0} SP.</color>"
+        },
+        {
+            "id": "102002_action_1_1",
+            "content": "<color=#ebcaa2>[Rodion]</color> <color=#80c9ff>cura {0} SP.</color>"
+        },
+        {
+            "id": "102002_action_1_2",
+            "content": "<color=#ebcaa2>[Rodion]</color> <color=#fe4b48>perde {0} SP.</color>"
+        },
+        {
+            "id": "102002_action_2_2",
+            "content": "<color=#ff8000>Encontro de Combate!</color>"
+        },
+        {
+            "id": "1020201_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>cura {1} SP.</color>"
+        },
+        {
+            "id": "1020201_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "1020203_success_1_1",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#80c9ff>curam {0} SP.</color>"
+        },
+        {
+            "id": "1020203_success_1_2",
+            "content": "<color=#ebcaa2>[Rodion]</color> <color=#80c9ff>cura {0} SP.</color>"
+        },
+        {
+            "id": "1020203_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "acquire_ego_gift",
+            "content": "<color=#ebcaa2>Recebi um presente E.G.O!</color>"
+        },
+        {
+            "id": "disappear_ego_gift",
+            "content": "<color=#ebcaa2>O presente E.G.O ‘{0}’</color> <color=#e30000>expirou.</color>"
+        },
+        {
+            "id": "acquire_ego_gift_if_win",
+            "content": "<color=#ebcaa2>Vença a batalha para ganhar um presente E.G.O!</color>"
+        },
+        {
+            "id": "chracter_mp_decrease",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>perde {1} SP.</color>"
+        },
+        {
+            "id": "chracter_mp_increase",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>cura {1} SP.</color>"
+        },
+        {
+            "id": "chracter_hp_increase",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>cura {1} HP.</color>"
+        },
+        {
+            "id": "chracter_hp_decrease",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "chracter_hp_mp_decrease",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP<color=#ebcaa2> e <color=#fe4b48>SP.</color>"
+        },
+        {
+            "id": "all_ally_hp_decrease",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#e30000>perdem {0} HP.</color>"
+        },
+        {
+            "id": "all_ally_hp_increase",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#e30000>curam {0} HP.</color>"
+        },
+        {
+            "id": "all_ally_mp_decrease",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#fe4b48>perdem {0} SP.</color>"
+        },
+        {
+            "id": "all_ally_hp_mp_decrease",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#e30000>perdem {0} HP<color=#ebcaa2> e <color=#fe4b48>SP.</color>"
+        },
+        {
+            "id": "all_ally_add_buff",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#ebcaa2>ganham</color> %{1} {0}/%!"
+        },
+        {
+            "id": "all_ally_add_buff_during_next_n_battle",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#ebcaa2>ganham</color> %{2} {1}/% nas próximas {0} batalhas."
+        },
+        {
+            "id": "all_enemy_apply_buff",
+            "content": "%{1} {0}/% <color=#ebcaa2>aplicado</color> <color=#ebcaa2>a todos os inimigos!</color>"
+        },
+        {
+            "id": "character_apply_buff_during_next_n_battle",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> %{3} {2}/% <color=#ebcaa2>para a(s) próxima(s) {1} batalha(s).</color>"
+        },
+        {
+            "id": "battle_occurrence",
+            "content": "<color=#ebcaa2>Encontro de Combate!</color>"
+        },
+        {
+            "id": "nothing_happend",
+            "content": "<color=#ebcaa2>Nada aconteceu.</color>"
+        },
+        {
+            "id": "unlock_hidden_node",
+            "content": "<color=#ebcaa2>Há um novo caminho no mapa!</color>"
+        },
+        {
+            "id": "enemy_wave_decrease",
+            "content": "<color=#ebcaa2>Ondas inimigas reduzidas em {0}!</color>"
+        },
+        {
+            "id": "803001_cromer_success_1_1",
+            "content": "<color=#ebcaa2>[{0}] ficou atordoado!</color>"
+        },
+        {
+            "id": "803001_cromer_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>perde {1} SP.</color>"
+        },
+        {
+            "id": "all_ally_mp_increase",
+            "content": "<color=#ebcaa2>Todos os aliados</color> <color=#80c9ff>curam {0} SP.</color>"
+        },
+        {
+            "id": "ally_own_skill_attribute_hp_increase",
+            "content": "<color=#ebcaa2>Identidades com</color> %{0} Habilidade de Ataque de Afinidade/% <color=#ebcaa2>cura</color> <color=#00ff9c>{1} HP.</color>"
+        },
+        {
+            "id": "ally_not_own_skill_attribute_hp_increase",
+            "content": "<color=#ebcaa2>Identidades sem</color> %{0} Habilidade de Ataque de Afinidade/% <color=#ebcaa2>cura</color> <color=#00ff9c>{1} HP.</color>"
+        },
+        {
+            "id": "ally_own_skill_attribute_hp_decrease",
+            "content": "<color=#ebcaa2>Identidades com</color> %{0} Habilidade de Ataque de Afinidade/% <color=#ebcaa2>recebe</color> <color=#e30000>{1} HP de dano.</color>"
+        },
+        {
+            "id": "ally_not_own_skill_attribute_hp_decrease",
+            "content": "<color=#ebcaa2>Identidades sem</color> %{0} Habilidade de Ataque de Afinidade/% <color=#ebcaa2>recebem</color> <color=#e30000>{1} HP de dano.</color>"
+        },
+        {
+            "id": "ally_own_skill_attribute_mp_increase",
+            "content": "<color=#ebcaa2>Identidades com</color> %{0} Habilidade de Ataque de Afinidade/% <color=#ebcaa2>cura</color> <color=#80c9ff>{1} SP.</color>"
+        },
+        {
+            "id": "ally_not_own_skill_attribute_mp_increase",
+            "content": "<color=#ebcaa2>Identidades sem</color> %{0} Habilidade de Ataque de Afinidade/% <color=#ebcaa2>cura</color> <color=#80c9ff>{1} SP.</color>"
+        },
+        {
+            "id": "ally_own_skill_attribute_mp_decrease",
+            "content": "<color=#ebcaa2>Identidades com</color> %{0} Habilidade de Ataque de Afinidade/% <color=#ebcaa2>recebe</color> <color=#fe4b48>{1} de dano de SP.</color>"
+        },
+        {
+            "id": "ally_not_own_skill_attribute_mp_decrease",
+            "content": "<color=#ebcaa2>Identidades sem</color> %{0} Habilidade de Ataque de Afinidade/% <color=#ebcaa2>recebem</color> <color=#fe4b48>{1} de dano SP.</color>"
+        },
+        {
+            "id": "852701_statue_success_1_1",
+            "content": "<color=#ebcaa2>[{0}] ficou atordoado!</color>"
+        },
+        {
+            "id": "852701_statue_failure_1_1",
+            "content": "<color=#ebcaa2>O Karma de [{0}] foi resolvido.</color>"
+        },
+        {
+            "id": "852701_statue_failure_1_2",
+            "content": "O carma atinge cada pecador aleatoriamente!"
+        },
+        {
+            "id": "852701_statue_failure_1_3",
+            "content": "<color=#ebcaa2>[{0}] ficou atordoado!</color>"
+        },
+        {
+            "id": "851901_kqe_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>perde toda</color> Carga"
+        },
+        {
+            "id": "851901_kqe_success_1_2",
+            "content": "<color=#ebcaa2>[{0}] ficou atordoado!</color>"
+        },
+        {
+            "id": "851901_kqe_success_1_3",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}]/%."
+        },
+        {
+            "id": "851901_kqe_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}] e {4} [{3}]/%."
+        },
+        {
+            "id": "851901_kqe_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}]/%."
+        },
+        {
+            "id": "851001_cryingtoad_success_1_1",
+            "content": "<color=#ebcaa2>[{0}] ficou atordoado!</color>"
+        },
+        {
+            "id": "851001_cryingtoad_success_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>cura {1} SP.</color>"
+        },
+        {
+            "id": "851001_cryingtoad_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>perde {1} SP.</color>"
+        },
+        {
+            "id": "803101_waterFish_success_1_1",
+            "content": "<color=#ebcaa2>O corpo de [{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "803101_waterFish_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}] usa a habilidade</color> <color=#e30000>[{1}]</color>!"
+        },
+        {
+            "id": "803201_lightningBeast_success_1_1",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "803201_lightningBeast_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}] usa</color> a habilidade <color=#e30000>[{1}]</color>!"
+        },
+        {
+            "id": "804501_electriccentipede_success_1_1",
+            "content": "<color=#ebcaa2>[{0}] perde %{2} [{1}]/%</color>"
+        },
+        {
+            "id": "804501_electriccentipede_success_1_2",
+            "content": "<color=#ebcaa2>Todas as partes de [{0}]</color> <color=#ebcaa2>ganham</color> %{2} [{1}]/%"
+        },
+        {
+            "id": "804501_electriccentipede_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}] ganhos %{2} [{1}]/%</color>"
+        },
+        {
+            "id": "804501_electriccentipede_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}]/%"
+        },
+        {
+            "id": "804801_gentlefairy_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>cura {1} HP</color>"
+        },
+        {
+            "id": "804801_gentlefairy_success_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}], {4} [{3}] e {6} [{5}]/%"
+        },
+        {
+            "id": "804801_gentlefairy_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>cura {1} HP</color>"
+        },
+        {
+            "id": "804801_gentlefairy_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ganhos</color> %{2} [{1}], {4} [{3}] e {6} [{5}]/%"
+        },
+        {
+            "id": "804601_umbrellafox_success_1_1",
+            "content": "<color=#ebcaa2>Todos [{0}]</color> <color=#00ff9c>recebem dano de {1} do HP Máx.</color>"
+        },
+        {
+            "id": "804601_umbrellafox_success_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>perde {1} SP</color>"
+        },
+        {
+            "id": "804601_umbrellafox_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>perde {1} SP</color>"
+        },
+        {
+            "id": "804701_nobodygonnacry_success_1_1",
+            "content": "<color=#ebcaa2>Para que ninguém chore ganhos</color> 5 Talismã de maldição recolocado"
+        },
+        {
+            "id": "804701_nobodygonnacry_success_1_2",
+            "content": "[{0}] ganha <color=#00ff9c>{2} {1}</color> próximo turno"
+        },
+        {
+            "id": "804701_nobodygonnacry_failure_1_1",
+            "content": "<color=#ebcaa2>Todos os {1} removidos</color> de <color=#ebcaa2>[{0}]</color>"
+        },
+        {
+            "id": "805002_egoawakendongrang_success_1_1",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "805002_egoawakendongrang_success_1_2",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "805002_egoawakendongrang_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}] perde</color> <color=#e30000>{1} HP</color> e <color=#fe4b48>{2} SP</color>"
+        },
+        {
+            "id": "805002_egoawakendongrang_failure_1_2",
+            "content": "<color=#ebcaa2>Todos os aliados ganham</color> {1} <color=#e30000>[{0}]</color>"
+        },
+        {
+            "id": "805004_egoawakendongrang_success_2_1",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "805004_egoawakendongrang_success_2_2",
+            "content": "<color=#ebcaa2>Todos os aliados ganham</color> {1} <color=#e30000>[{0}]</color>"
+        },
+        {
+            "id": "805004_egoawakendongrang_success_2_3",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "805004_egoawakendongrang_failure_2_1",
+            "content": "<color=#ebcaa2>[{0}] perde</color> <color=#e30000>{1} HP</color> e <color=#fe4b48>{2} SP</color>"
+        },
+        {
+            "id": "805004_egoawakendongrang_failure_2_2",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "805006_egoawakendongrang_success_3_1",
+            "content": "Dongrang foi confrontado"
+        },
+        {
+            "id": "805006_egoawakendongrang_failure_3_1",
+            "content": "Dongrang foi confrontado"
+        },
+        {
+            "id": "805801_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "805801_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "805801_failure_1_2",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "805901_success_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        },
+        {
+            "id": "805901_success_1_2",
+            "content": "<color=#ebcaa2>[{0}] ganhos</color> {2} <color=#e30000>[{1}]</color>."
+        },
+        {
+            "id": "805901_failure_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>perde {1} HP.</color>"
+        }
+    ]
+}

@@ -1,0 +1,1848 @@
+{
+    "dataList": [
+        {
+            "id": 1030601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Checking the Book",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Checking the Book",
+                    "desc": "[WhenUse]Heal 5 sp em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Checking the Book",
+                    "desc": "[WhenUse]Heal 5 sp em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Proof of Loyalty",
+                    "desc": "[StartBattle]Essa habilidade ganha 1 'nível de ofensa' por (mais alto a-reson./3) (máximo 4)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 dano"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Proof of Loyalty",
+                    "desc": "[StartBattle]Essa habilidade ganha 1 'nível de ofensa' por (mais alto a-reson./3) (máximo 4)\nSe o mais alto a-reson for inveja a-reson, ganhe 50% de 'nível de ofensa' adicional ao 'nível de ofensa' obtido pelo efeito acima (arredondado)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 dano"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Proof of Loyalty",
+                    "desc": "[StartBattle]Essa habilidade ganha 1 'nível de ofensa' por (mais alto a-reson./2) (máximo 6)\nSe o mais alto a-reson for inveja a-reson., Aumente o 'nível de ofensa' obtido pelo efeito acima em 50% (arredondado)\nGanhe o dobro do 'nível de ofensa' dos efeitos acima em encontros focados com 7 ou menos limites dos participantes.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030603,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "A Just Vengeance",
+                    "desc": "[StartBattle]Essa habilidade ganha 1 'nível de ofensa' por (mais alto a-reson./3) (máximo 4)\nSe o mais alto a-reson for inveja a-reson, obtenha 50% de ataque adicional de \"nível de ofensa\" ao \"nível de ofensa\" obtido pelo efeito acima (arredondado)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Se o alvo for derrotado, 1 aliado com o menor SP cura 6 sp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "A Just Vengeance",
+                    "desc": "[StartBattle]Essa habilidade ganha 1 'nível de ofensa' por (mais alto a-reson./2) (máximo 6)\nSe o mais alto a-reson for inveja a-reson., Aumente o 'nível de ofensa' obtido pelo efeito acima em 50% (arredondado)\nGanhe o dobro do 'nível de ofensa' dos efeitos acima em encontros focados com 7 ou menos limites dos participantes.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Se o alvo for derrotado, 1 aliado com o menor SP cura 6 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multifold Retribution",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por 3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por 3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Multifold Retribution",
+                    "desc": "[StartBattle]Se, com mais de 6 anos, inveja a-reson, incluindo essa habilidade, use 'A Just Vengeance' como contador.\nAo ativar o efeito acima, a afinidade da habilidade é alterada para inveja.\n('Retribuição multifold' mais à esquerda é ativada primeiro. Ativa 2 vezes por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por 5"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Limite de escalonamento do usuário inferior por 5"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030605,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "A Just Vengeance",
+                    "desc": "[StartBattle]Essa habilidade ganha 1 'nível de ofensa' por (mais alto a-reson./3) (máximo 4)\nSe o mais alto a-reson for inveja a-reson, ganhe 50% de 'nível de ofensa' adicional ao 'nível de ofensa' obtido pelo efeito acima (arredondado)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Se o alvo for derrotado, 1 aliado com o menor SP cura 6 sp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "A Just Vengeance",
+                    "desc": "[StartBattle]Essa habilidade ganha 1 'nível de ofensa' por (mais alto a-reson./2) (máximo 6)\nSe o mais alto a-reson for inveja a-reson, ganhe 50% de 'nível de ofensa' adicional ao 'nível de ofensa' obtido pelo efeito acima (arredondado)\nGanhe o dobro do 'nível de ofensa' dos efeitos acima em encontros com 6 ou menos limites dos participantes.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Se o alvo for derrotado, 1 aliado com o menor SP cura 6 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I Shall Nibble Thee!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "I Shall Nibble Thee!",
+                    "desc": "[WhenUse]Ganhe +1[Aggro]Para este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "I Shall Nibble Thee!",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flashing Lure",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Flashing Lure",
+                    "desc": "[WhenUse]Ganhe +2[Aggro]Para este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 2 ou menos[Burst]Conde, infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Flashing Lure",
+                    "desc": "[WhenUse]Ganhe +4[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Se o alvo tiver 6+[Burst], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 2 ou menos[Burst]Conde, infligir +3[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030703,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Whirlwind Om-Nom-Nom!",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura 10 hp."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar HP adicional com base em[Burst]no alvo (1 hp curado por 1[Burst]. Máximo 20)"
+                                },
+                                {
+                                    "desc": "A 50%- hp, reutilize a moeda uma vez"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Whirlwind Om-Nom-Nom!",
+                    "desc": "[WhenUse]Ganhe +5[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Se o alvo tiver 6+[Burst], Power de moedas +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura 15 hp. Cure em +50% mais HP ao reutilizar a moeda."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar HP adicional com base em[Burst]no alvo (2 hp curado por 1[Burst]. Máx 40)"
+                                },
+                                {
+                                    "desc": "A 50%- hp, reutilize a moeda uma vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Chattering Teeth",
+                    "desc": "[EndBattle]Cura HP igual ao restante da escudo HP (uma vez por turno. MAX Cura quantidade: 10% de Max HP)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Chattering Teeth",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Burst], Power final +3[EndBattle]Cura HP igual ao restante da escudo HP (uma vez por turno. MAX Cura quantidade: 10% de Max HP)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Draw of the Sword",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Draw of the Sword",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Draw of the Sword",
+                    "desc": "<style=\"highlight\">A 5+[Breath]SOBRE -SE, PODER DE COIN +1</style>[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blade Arc",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 2[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]A 1 aliado também sem[Breath]ou com o mínimo[Breath]Potência, aplique 2[Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Blade Arc",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]A 1 aliado também sem[Breath]ou com o mínimo[Breath]Potência, aplique 2[Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Blade Arc",
+                    "desc": "<style=\"highlight\">Às 7+[Breath]SOBRE -SE, PODER DE COIN +1</style>[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]A 1 aliado também sem[Breath]ou com o mínimo[Breath]Potência, aplique 2[Breath]\n<style=\"highlight\">Se o aliado afetado for da linhagem da lâmina, aplique 2 adicionais[Breath]</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030803,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Fare Thee Well!",
+                    "desc": "[WhenUse]Ganhe 5[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {},
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]A 2 aliados também sem[Breath]ou com o mínimo[Breath]Conte, aplique +2[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[EndSkill]Se o alvo for derrotado, ganhe 1[SlashDamageUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fare Thee Well!",
+                    "desc": "<style=\"highlight\">Em mais de 10 anos[Breath]SOBRE -SE, PODER DE COIN +1</style>[WhenUse]Ganhe 5[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]A moeda final causa +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {},
+                                {
+                                    "desc": "+30% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]A 2 aliados também sem[Breath]ou com o mínimo[Breath]Conte, aplique +2[Breath]Contar.<style=\"highlight\">Se o aliado afetado for da linhagem da lâmina, aplique 2 adicionais[Breath]Contar</style>"
+                                },
+                                {
+                                    "desc": "[EndSkill]Se o alvo for derrotado,<style=\"highlight\">Aplique 1[SlashDamageUp]para si mesmo e 1 outro aliado aleatório na próxima curva</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Evade",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let Us Prepare To Collect",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Let Us Prepare To Collect",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Vibration], Clash Power +1[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva</style>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">2</style> [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Let Us Prepare To Collect",
+                    "desc": "[WhenUse]Ganhe +2[Vibration]Contar<style=\"highlight\">[WhenUse]Ganhe Power Clash +1 para cada 6[Vibration]no alvo (máximo 2)</style>\n[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Ganhe +4[Aggro]Para este slot de habilidade na próxima curva</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">2</style> [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "T Corp. Accelerated Amputator",
+                    "desc": "[WhenUse]Ganhe +3[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consumir até 3[Vibration]no alvo e ganhar a mesma quantidade de[Vibration]Conte com si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "T Corp. Accelerated Amputator",
+                    "desc": "[WhenUse]Ganhe +3[Vibration]Contar<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Vibration], Clash Power +1</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consumir até 3[Vibration]no alvo e ganhar a mesma quantidade de[Vibration]Conte com si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">3</style> [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Se os efeitos da moeda dessa habilidade consumidos[Vibration]No alvo, gatilho[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "T Corp. Accelerated Amputator",
+                    "desc": "[WhenUse]Ganhe +3[Vibration]Contar[WhenUse] <style=\"highlight\">Clash Power +1 para cada 6[Vibration]no alvo (máximo 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consumir até 3[Vibration]no alvo e ganho<style=\"highlight\">dobrar a quantidade consumida</style>como[Vibration]Conte com si mesmo<style=\"highlight\">Infligir ([Vibration]consumido - 1)[Binding]Próximo turno</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Vibration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se os efeitos da moeda dessa habilidade consumidos[Vibration]No alvo, gatilho[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030903,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "I Command Thee, Halt!",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Vibration], Clash Power +1[WhenUse]Consuma 10[Vibration]Conte consigo mesmo para ganhar o poder da moeda +2",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Vibration], consuma 10[Vibration]no alvo e infligir 2[TimeSuspend]- Se esta unidade estiver em um[TimeRentalTwoPersonality]Estado, esse efeito não consome o alvo[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a velocidade do alvo for mais lenta que a estação desta unidade, o gatilho[Switch_Vibration]em[VibrationChainPersonality]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "I Command Thee, Halt!",
+                    "desc": "[WhenUse] <style=\"highlight\">Clash Power +1 para cada 6[Vibration]no alvo (máximo 2)</style>\n<style=\"highlight\">[WhenUse]Se o alvo tiver[Binding], Ganhe Power Clash +1</style>\n[WhenUse]Consuma 10[Vibration]Conte consigo mesmo para ganhar o poder da moeda +2",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Infligir 3[Vibration]</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Vibration], consuma 10[Vibration]no alvo e infligir 2[TimeSuspend]- Se esta unidade estiver em um[TimeRentalTwoPersonality]Estado, esse efeito não consome o alvo[Vibration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a velocidade do alvo for mais lenta que a estação desta unidade, o gatilho[Switch_Vibration]em[VibrationChainPersonality]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1030904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I Shall Summon the Time",
+                    "desc": "[StartBattle]Se esta unidade não estiver em um[TimeRentalTwoPersonality]estado, ganha 4[TimeRentalTwoPersonality]no final da curva (uma vez por turno)[WhenUse]Para este turno: quando atingido por um inimigo, infligir 2[Vibration]no alvo na próxima curva (2 vezes por turno)",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "I Shall Summon the Time",
+                    "desc": "[StartBattle]Se esta unidade não estiver em um[TimeRentalTwoPersonality]estado, ganha 4[TimeRentalTwoPersonality]no final da curva (uma vez por turno)[WhenUse]Para este turno: quando atingido por um inimigo, infligir<style=\"highlight\">3</style> [Vibration]no alvo próximo turno (<style=\"highlight\">6 vezes</style>por turno)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enough is Enough",
+                    "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)[WhenUse]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]Para cada 5[BloodDinner]esta unidade consumida\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Enough is Enough",
+                    "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)[WhenUse]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]Para cada 5[BloodDinner]esta unidade consumida\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]\n<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1</style>",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Enough is Enough",
+                    "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)[WhenUse]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]Para cada 5[BloodDinner]esta unidade consumida\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]\n[WhenUse] <style=\"highlight\">Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let All Blossom Free",
+                    "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)[WhenUse]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]para cada 10[BloodDinner]esta unidade consumida\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]\n[BeforeAttack]Em mais de 10 anos[BloodArmorPersonalityFirst], Peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negociar +2,5% mais danos para cada[Laceration]no alvo (máximo 25%)"
+                                },
+                                {
+                                    "desc": "Acordo +5% mais danos para cada 100[BloodDinner_Accumulation]por si mesmo (máximo 25%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Let All Blossom Free",
+                    "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)[WhenUse]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]para cada 10[BloodDinner]esta unidade consumida\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]\n<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1</style>\n[BeforeAttack] <style=\"highlight\">Peso ATK +1 para cada 10[BloodArmorPersonalityFirst]em si mesmo (máximo 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negociar +2,5% mais danos para cada[Laceration]no alvo (máximo 25%)"
+                                },
+                                {
+                                    "desc": "Negócio +<style=\"highlight\">10</style>% mais danos para cada 100[BloodDinner_Accumulation]por si mesmo (máx<style=\"highlight\">50</style>%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Let All Blossom Free",
+                    "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)[WhenUse]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]para cada 10[BloodDinner]esta unidade consumida\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 5[Laceration]\n[WhenUse]Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)</style>\n[BeforeAttack]Peso ATK +1 para cada 10[BloodArmorPersonalityFirst]em si mesmo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negociar +2,5% mais danos para cada[Laceration]no alvo (máximo 25%)"
+                                },
+                                {
+                                    "desc": "Negócio +<style=\"highlight\">15</style>% mais danos para cada 100[BloodDinner_Accumulation]por si mesmo (máx<style=\"highlight\">75</style>%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031003,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "I Shall Impale",
+                    "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 10)[WhenUse]Clash Power +1 para cada 10[BloodArmorPersonalityFirst](Máx 2)[WhenUse]Se o alvo tiver 10+[Laceration], Power de moedas +1[WhenUse]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]para cada 10[BloodDinner]consumido\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 10[Laceration]\n[WhenUse]Acordo +5% mais danos para cada[Laceration]no alvo (máximo 50%)[WhenUse]Acordo +10% mais danos para cada 100[BloodDinner_Accumulation]por si mesmo (máximo 50%)[EndSkill]Se o alvo for derrotado, aumente[BloodDinner]por 30; Ganhe 10[BloodArmorPersonalityFirst](uma vez por turno)",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "I Shall Impale",
+                    "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 10)[WhenUse]Clash Power +1 para cada 10[BloodArmorPersonalityFirst](Máx 2)[WhenUse] <style=\"highlight\">Power de moedas +1 para cada 5[Laceration]no alvo (máximo 2)</style>\n[WhenUse]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]para cada 10[BloodDinner]consumido\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 10[Laceration]\n[WhenUse]Acordo +5% mais danos para cada[Laceration]no alvo (máximo 50%)[WhenUse]Negócio +<style=\"highlight\">20</style>% mais danos para cada 100[BloodDinner_Accumulation]por si mesmo (máx<style=\"highlight\">100</style>%)\n[EndSkill]Se o alvo for derrotado, aumente[BloodDinner]por<style=\"highlight\">60</style>; Ganhe 10[BloodArmorPersonalityFirst](uma vez por turno)",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Laughters Shall Subside",
+                    "desc": "[DuelCounter]\n[StartBattle]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]para cada 10[BloodDinner]- Se esta unidade falhou em consumir[BloodDinner], ganhe 10[Laceration]\n[StartBattle]A 1 aliado com o menor HP: aplique 1[SwirlingBloodPersonality]para cada 50[BloodDinner_Common_Accumulation](máximo 10, uma vez por turno)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Laughters Shall Subside",
+                    "desc": "[DuelCounter]\n[StartBattle]Consumir até 50[BloodDinner]e ganha 1[BloodArmorPersonalityFirst]para cada 10[BloodDinner]- Se esta unidade falhou em consumir[BloodDinner], ganhe 10[Laceration]\n[StartBattle]A 1 aliado com o menor HP: aplique 1[SwirlingBloodPersonality]para cada 50[BloodDinner_Common_Accumulation](máx<style=\"highlight\">15</style>, uma vez por turno)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Variant Sancho Hardblood Arts 6 - Whip",
+                    "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)[WhenUse]Ganhe 20[Laceration]\n[WhenUse]Infligir +1 mais[Laceration]Em sucesso a cada 10[BloodArmorPersonalityFirst]. (máximo 2) Após o ataque, consuma 10[BloodArmorPersonalityFirst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Variant Sancho Hardblood Arts 6 - Whip",
+                    "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)<style=\"highlight\">[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1</style>\n[WhenUse]Ganhe 20[Laceration]\n[WhenUse]Infligir +1 mais[Laceration]Em sucesso a cada 10[BloodArmorPersonalityFirst]. (máximo 2) Após o ataque, consuma 10[BloodArmorPersonalityFirst]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Variant Sancho Hardblood Arts 6 - Whip",
+                    "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)[WhenUse] <style=\"highlight\">Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)</style>\n[WhenUse]Ganhe 20[Laceration]\n[WhenUse]Infligir +1 mais[Laceration]Em sucesso a cada 10[BloodArmorPersonalityFirst]. (máximo 2) Após o ataque, consuma 10[BloodArmorPersonalityFirst]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Ativar[Laceration]no alvo uma vez (o alvo perde 1[Laceration]Contar)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
+                    "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1[BeforeAttack]Em mais de 10 anos[BloodArmorPersonalityFirst], Peso ATK +1[EndSkill]Se essa habilidade teve um aumento de peso ATK, consuma 10[BloodArmorPersonalityFirst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Negociar +2,5% mais danos para cada[Laceration]no alvo (máximo 25%)"
+                                },
+                                {
+                                    "desc": "Acordo +5% mais danos para cada 100[BloodDinner_Common_Accumulation](MAX 25%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
+                    "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)[WhenUse] <style=\"highlight\">Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)</style>\n[BeforeAttack] <style=\"highlight\">Ganhe Peso ATK +1 para cada 10[BloodArmorPersonalityFirst](Máx 2)</style>\n[EndSkill]Consuma 10[BloodArmorPersonalityFirst]Para cada peso ATK ganho",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Negociar +2,5% mais danos para cada[Laceration]no alvo (máximo 25%)"
+                                },
+                                {
+                                    "desc": "Negócio +<style=\"highlight\">10</style>% mais danos para cada 100[BloodDinner_Common_Accumulation](máx<style=\"highlight\">50</style>%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
+                    "desc": "Em termos de sucesso: curar 30% do dano da HP (MAX 10)[WhenUse]Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)[BeforeAttack]Ganhe Peso ATK +1 para cada 10[BloodArmorPersonalityFirst](Máx 2)[EndSkill]Consuma 10[BloodArmorPersonalityFirst]Para cada peso ATK ganho<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Negociar +2,5% mais danos para cada[Laceration]no alvo (máximo 25%)"
+                                },
+                                {
+                                    "desc": "Negócio +<style=\"highlight\">15</style>% mais danos para cada 100[BloodDinner_Common_Accumulation](máx<style=\"highlight\">75</style>%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031007,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Ascendant Sancho Hardblood Arts - La Sangre",
+                    "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)[WhenUse]Potência base +1 para cada 10[BloodArmorPersonalityFirst]em si mesmo (máximo 2)[WhenUse]Se o alvo tiver 10+[Laceration], Power de moedas +1[WhenUse]Acordo +5% mais danos para cada[Laceration]no alvo (máximo 50%)[WhenUse]Acordo +20% mais danos para cada 100[BloodDinner_Common_Accumulation](máximo 100%)[EndSkill]Consuma 10[BloodArmorPersonalityFirst]para cada 10[BloodArmorPersonalityFirst]\n[EndSkill]Se o alvo for derrotado, aumente[BloodDinner]por 50. recuperar metade de[BloodArmorPersonalityFirst]consumido por essa habilidade (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +4[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[EndSkill]Se o alvo for derrotado, infligir 5[Laceration]e +1[Laceration]Contar contra todos os inimigos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ascendant Sancho Hardblood Arts - La Sangre",
+                    "desc": "Em termos de sucesso com esta habilidade: curar 50% do dano da HP (MAX 20)[WhenUse]Potência base +1 para cada 10[BloodArmorPersonalityFirst]em si mesmo (máx<style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Power de moedas +1 para cada 5[Laceration]no alvo (máximo 2)</style>\n[WhenUse]Acordo +5% mais danos para cada[Laceration]no alvo (máximo 50%)[WhenUse]Acordo +20% mais danos para cada 100[BloodDinner_Common_Accumulation](máximo 100%)[EndSkill]Consuma 10[BloodArmorPersonalityFirst]para cada 10[BloodArmorPersonalityFirst]\n[EndSkill]Se o alvo for derrotado, aumente[BloodDinner]por<style=\"highlight\">100</style>. Recuperar metade de[BloodArmorPersonalityFirst]consumido por essa habilidade (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">8</style> [Laceration]e +4[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[EndSkill]Se o alvo for derrotado, infligir 5[Laceration]e +1[Laceration]Contar contra todos os inimigos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031008,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Variant Sancho Hardblood Arts 15 - Buildup to Finale",
+                    "desc": "[DuelCounter]\n[StartBattle]Para (3 + (mais alto resson. / 2)) aliados com o menor HP: aplique (1 + ([BloodArmorPersonalityFirst]/ 15))[SwirlingBloodPersonality]para cada 40[BloodDinner_Common_Accumulation], então consome metade de[BloodArmorPersonalityFirst]em si mesmo. (uma vez por aliado; arredondado)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Variant Sancho Hardblood Arts 15 - Buildup to Finale",
+                    "desc": "[DuelCounter]\n[StartBattle]Para (3 + (mais alto resson. / 2)) aliados com o menor HP: aplique (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality]para cada 40[BloodDinner_Common_Accumulation], então consome metade de[BloodArmorPersonalityFirst]em si mesmo. (uma vez por aliado; arredondado)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fa Jin",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Power de moeda +1[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Fa Jin",
+                    "desc": "Se a velocidade desta unidade for mais rápida que o alvo por<style=\"highlight\">2</style>ou mais, poder de moeda +1[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]</style>Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]</style>Infligir 1[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fa Jin",
+                    "desc": "<style=\"highlight\">Se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder de moeda com base na diferença de velocidade (potência da moeda +1 para cada diferença de velocidade de 2; max 2)</style>\n[WhenUse]Ganho +<style=\"highlight\">3</style> [Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]Infligir +1[Combustion]Contar</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Virescent Flame Palm",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por 3 ou mais, Power de moeda +1[WinDuel]Ganhe 3[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]Para cada 6[Combustion]no alvo (máximo 2, uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Virescent Flame Palm",
+                    "desc": "Se a velocidade desta unidade for mais rápida que o alvo por<style=\"highlight\">2</style>ou mais, poder de moeda +1[WinDuel]Ganhe 3[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]</style>Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]</style>Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]Para cada 6[Combustion]no alvo (Max<style=\"highlight\">3</style>, uma vez por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Virescent Flame Palm",
+                    "desc": "<style=\"highlight\">Se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder de moeda com base na diferença de velocidade (potência da moeda +1 para cada diferença de velocidade de 2; max 2)</style>\n[WinDuel]Ganhe 3[Breath]\n<style=\"highlight\">- Ganhe adicional[Breath]Contagem igual a[DianxueDonQuixote]no alvo</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">2</style> [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[DefenseDown]Para cada 6[Combustion]no alvo (Max<style=\"highlight\">5</style>, uma vez por turno)<style=\"highlight\">- infligir adicionais[DefenseDown]igual a[DianxueDonQuixote]no alvo</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031103,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Prithee, let this be an enlightening bout",
+                    "desc": "Acordo +10% mais danos para cada 1[DianxueDonQuixote]no alvo (no máximo 30%)\nSe a velocidade desta unidade for mais rápida que a do alvo por 2 ou mais, Power de moedas +1[WinDuel]Ganhe 5[Breath]- Se o alvo tiver[DianxueDonQuixote], Ganhe 3 adicional[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negócio +([Breath]em self +[Combustion]no alvo)% mais danos no acerto crítico (no máximo 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Prithee, let this be an enlightening bout",
+                    "desc": "Negócio<style=\"highlight\">+15%</style>mais danos para cada 1[DianxueDonQuixote]no alvo (Max<style=\"highlight\">45%</style>)\n<style=\"highlight\">Se a velocidade desta unidade for mais rápida que a do alvo, ganhe poder de moeda com base na diferença de velocidade (potência da moeda +1 para cada diferença de velocidade de 2; max 2)</style>\n[WinDuel]Ganhe 5[Breath]- Se o alvo tiver[DianxueDonQuixote], Ganhe 3 adicional[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negócio +([Breath]em self +[Combustion]no alvo)% mais danos no acerto crítico (máximo<style=\"highlight\">50%</style>)"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Se o alvo tiver[DianxueDonQuixote], infligir 3[DefenseDown]</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1031104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thou'rt in dire need of a lesson in table manners!",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Thou'rt in dire need of a lesson in table manners!",
+                    "desc": "<style=\"highlight\">Se a velocidade desta unidade for mais rápida que a do alvo, obtenha +1 de poder de moeda para cada diferença de velocidade de 2 (máximo 2)</style>",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

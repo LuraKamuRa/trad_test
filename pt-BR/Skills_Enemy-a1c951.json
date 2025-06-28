@@ -1,0 +1,354 @@
+{
+    "dataList": [
+        {
+            "id": 9010101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Human-omes!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +1[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Capture them-ome",
+                    "desc": "[WinDuel]Heal 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +1[Breath]Contar"
+                                },
+                                {
+                                    "desc": "+40% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ome, Ome!!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+30% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+30% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fresh Meat-omes",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]e +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +1[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 3[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lookin' Lively-ome!",
+                    "desc": "[WinDuel]Heal 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]e +2[Breath]Contar"
+                                },
+                                {
+                                    "desc": "+40% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No Use-ome!",
+                    "desc": "[EndBattle]Se esta unidade tiver escudo, ganhe 1[Enhancement]Próximo turno.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Turn Ya Into Furniture-omes!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +3[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +1[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let's Get It Moving-ome",
+                    "desc": "[WinDuel]Heal 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                },
+                                {
+                                    "desc": "+40% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hoom Hoom~",
+                    "desc": "[OnSucceedEvade]Ganhe 5[Breath]e +2[Breath]Contar.[OnDefeatEvade]Levante o limite de cambaleou por 10",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Get You-ome",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 2[Binding]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "We Struck Gold-ome!",
+                    "desc": "[WinDuel]Heal 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[Breath]e +3[Breath]Contar"
+                                },
+                                {
+                                    "desc": "+50% de dano no acerto crítico"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]e +1[Breath]Contar"
+                                },
+                                {
+                                    "desc": "+50% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Local Raw Material-omes!",
+                    "desc": "[WinDuel]Ganhe 3[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Dano +20% para a última moeda"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Dano +20% para a última moeda"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Não consome[Breath]Contar. Lidar com o dano contundente de bônus igual a[Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9010404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No Use-ome!",
+                    "desc": "[EndBattle]Se esta unidade tiver escudo, ganhe 2[Enhancement]Próximo turno.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

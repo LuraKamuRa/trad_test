@@ -1,0 +1,432 @@
+{
+    "dataList": [
+        {
+            "id": 838101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Walk With Grace...",
+                    "desc": "Priorize um aliado sem uso. Se o alvo for um aliado, ganhe o Clash Power +10 e corrija o dano a 0 o tempo todo\nClash Power +1 para cada 3[Laceration]no alvo (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]- Se o alvo for um aliado, substitua este efeito por 3[AttackUp]até o próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Move With Beauty...",
+                    "desc": "Priorize um aliado sem uso. Se o alvo for um aliado, ganhe o Clash Power +10 e corrija o dano a 0 o tempo todo\nClash Power +1 para cada 3[Laceration]no alvo (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar\n- Se o alvo for um aliado, substitua este efeito por 3[DefenseUp]até o próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Beckon the Audience Hither...",
+                    "desc": "[WhenUse]Power final +1 para cada 5[FestivalFever]em si ou a cada 6[Laceration]no alvo (máximo 4)[WhenUse]Em menos de 15[BloodDinner], ganhe 15[Laceration]e imediatamente o desencadeia, depois reduza[Laceration]Contar em 1 (a menos de 10% hp, ativar apenas a parte desse efeito em que esta unidade ganha[Laceration]Potência e contagem)[EndSkill]Consuma 15[BloodDinner]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackUp]e 1[DefenseUp]Para cada 6[Laceration]no alvo (máximo 3 de cada)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +5[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Parade of Wonders",
+                    "desc": "[CantIdentify]Prioriza os inimigos para seu alvo principal e prioriza aliados para seus sub-alvos. Se o alvo for um aliado, o Clash Power +10 e sempre corrija o dano a 0.[WhenUse]Clash Power +1 para cada 20[BloodDinner_Accumulation]por esta unidade (máximo 10)[WhenUse]Em menos de 25[BloodDinner], ganhe 25[Laceration], imediatamente acioná -lo uma vez e depois perca 1[Laceration]Contar (a menos de 10% hp, ativar apenas a parte desse efeito em que esta unidade ganha[Laceration]Potência e contagem)[EndSkill]Consumir 25[BloodDinner]\n[EndBattle]Consuma tudo[FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AttackUp]e[DefenseUp]Até o próximo turno com base em[FestivalFever](1 por 3[FestivalFever], max 3 de cada)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar\n- Se o alvo for um aliado, substitua este efeito por 5[BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Parade Repeats for Eternity",
+                    "desc": "[WhenUse]Clash Power +1 para cada 20[BloodDinner_Accumulation]por esta unidade (máximo 10)[WhenUse]Em menos de 50[BloodDinner], ganhe 25[Laceration], +2[Laceration]Conte, acioná -lo imediatamente duas vezes e depois reduzir[Laceration]Contar em 2 (a menos de 10% hp, ativar apenas a parte desse efeito em que esta unidade ganha[Laceration]Potência e contagem)[WhenUse]Consumir metade de[BloodDinner]\n[EndBattle]Consuma tudo[IncompleteParade]\n[EndBattle]Ganhe 10[FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar 25% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar 25% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 50% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e 5[Burst]"
+                                },
+                                {
+                                    "desc": "[EndCoin]Ganho 1[BloomingThorns]para cada 10[BloodDinner]consumido por essa habilidade (máximo 10)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838106,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "And that's all it does...",
+                    "desc": "[DuelCounter]\n[WhenUse]A 5+[FestivalFever], Clash Power +3[StartBattle]Ganhe 5[BloomingThorns]\n[DefeatDuel]Perder 5[BloomingThorns]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838107,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Finale",
+                    "desc": "[WhenUse]Consumir metade de[BloodDinner]\n[WinDuel]Negócio +([BloodDinner]consumido por essa habilidade)% mais dano (máximo 150%)[DefeatDuel]Causar -50% menos dano, e os danos dessa habilidade não escalonam o alvo[EndSkill]O SP desta unidade cai para -45",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +6[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir 6[Burst]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +6[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[EndCoin]Ganho 1[BloomingThorns]para cada 10[BloodDinner]consumido por essa habilidade (máximo 10)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dragon of the Spring",
+                    "desc": "[WhenUse]Ganho 2[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lotus in Autumn",
+                    "desc": "[WhenUse]Ganho 2[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Faint Trace",
+                    "desc": "[WhenUse]Ganhe 3[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[SlashTakeDamageUp]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pallid Trace",
+                    "desc": "Se a velocidade do usuário for maior que a do alvo por 5+, o Clash Power +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Causar 100 danos bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Red Arwe",
+                    "desc": "[WhenUse]Ganho 2[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Causar 50 danos bônus"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Causar 50 danos bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blak Arwe",
+                    "desc": "[WhenUse]Ganho 2[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MentalCrack]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MentalCrack]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838907,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mirror of Water",
+                    "desc": "[CanDuelGuard]\n[WhenUse]Ganhe 3[Protection]\n[WinDuel]Causar danos à HP igual ao poder de confronto final dessa habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838908,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electron Accelerator Rail Activation",
+                    "desc": "[StartBattle]Ganhe 10[Enhancement]e[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838909,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Arwe",
+                    "desc": "[WhenUse]Ganhe 5[PenetrateDamageUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

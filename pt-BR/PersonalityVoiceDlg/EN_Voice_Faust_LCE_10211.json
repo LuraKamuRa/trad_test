@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10211_1",
+      "desc": "Aquisição de identidade",
+      "dlg": "Nível de ameaça de engajamento do sujeito: moderadamente alto. No entanto, considerando sua natureza autodestrutiva em circunstâncias específicas ... Ardor Blossom Moth Designação final: WAW-5."
+    },
+    {
+      "id": "lobby_morning_10211_1",
+      "desc": "Saudação matinal",
+      "dlg": "As seguintes tarefas devem ser concluídas nesta manhã: verificação da taxa de progressão da distorção, inspeção populacional Peccatula e trabalho de contenção de anormalidade.\nHá muito a ser feito hoje."
+    },
+    {
+      "id": "lobby_noon_10211_1",
+      "desc": "Saudação da tarde",
+      "dlg": "A equipe posterior do departamento de autorização capturou uma nova anormalidade, que está atualmente a caminho dessa instalação.\nPode ser melhor substituir a hora do almoço de hoje por ... tempo de pesquisa para a nova anormalidade."
+    },
+    {
+      "id": "lobby_night_10211_1",
+      "desc": "Saudação noturna",
+      "dlg": "Yi cantou. Sua paixão é admirável, mas a hora de dormir atrasada pode afetar adversamente a eficácia de suas contribuições de pesquisa. LCE promove a partida oportuna de seus funcionários -\n... bem, eu não acho que meras palavras o farão se mexer. [[Cor-cor]] J-apenas um momento, eu imploro que você deixe as luzes acesas por enquanto. Ainda há muito-[[colorido]]"
+    },
+    {
+      "id": "smalltalk_10211_1",
+      "desc": "Conversas #1",
+      "dlg": "Mm. Se o mérito fosse o único critério pelo qual a aptidão de alguém para a posição do pesquisador -chefe da LCE pode ser medida, esse papel teria ido corretamente a Faust.\nNo entanto ... esse simplesmente não é o meu lugar para estar como eu sou agora."
+    },
+    {
+      "id": "smalltalk_10211_2",
+      "desc": "Conversas #2",
+      "dlg": "A menos que alguém seja um gênio do calibre de Faust, não se deve abordar distorções e anormalidades equipadas apenas com estatísticas e teorias básicas.\nOs outros ingredientes incluem a intuição de poder identificar e ler as tendências, a paixão pelos acadêmicos e ... alguma sorte."
+    },
+    {
+      "id": "smalltalk_10211_3",
+      "desc": "Conversas #3",
+      "dlg": "Os extratos de LCE enkefalina em formas de caixa de PE e até empregam um ex-pesquisador de filiais da L Corp. ... Não seria hipérbole dizer que o LCE tem, em todos os aspectos, que importa, sucedeu a Lobotomy Corporation.\nEmbora ainda estejamos muito ocupados brincando, um dia os superaremos."
+    },
+    {
+      "id": "smalltalk_10211_4",
+      "desc": "Chat pós-uptie 1",
+      "dlg": "Dado que as asas não eram originalmente uma parte do conjunto humano de membros, as primeiras tentativas de voo com esse equipamento, por exemplo, resultaram em várias ... ensaios e erros. Usando essa experiência como lição, talvez seja aconselhável elevar um pouco os tetos do setor experimental."
+    },
+    {
+      "id": "smalltalk_10211_5",
+      "desc": "Chat pós-uptie 2",
+      "dlg": "A maioria dos pesquisadores aqui no LCE foi atraída pela promessa de novos conhecimentos - como mariposas atraídas por um brilho de chama.\nO mesmo aconteceu com Faust. Talvez isso explique a tarefa deste, por exemplo"
+    },
+    {
+      "id": "neglect_10211_1",
+      "desc": "Parado",
+      "dlg": "... Se você concluiu sua observação, é recomendável desligar o dispositivo."
+    },
+    {
+      "id": "gacksung_10211_1",
+      "desc": "Uptying",
+      "dlg": "Aqueles atraídos pelas chamas de lapidação serão incinerados sem deixar rasto."
+    },
+    {
+      "id": "formation_10211_1",
+      "desc": "Implantação",
+      "dlg": "Que tipo de experimento é, desta vez?"
+    },
+    {
+      "id": "battleentry_10211_1",
+      "desc": "Entrada no palco",
+      "dlg": "Tipo de assunto identificado."
+    },
+    {
+      "id": "battle_select_10211_1",
+      "desc": "Visto em batalha",
+      "dlg": "Mantenha sua distância. Essa chama se espalha muito."
+    },
+    {
+      "id": "battle_endcommand_10211_1",
+      "desc": "Ataques iniciando",
+      "dlg": "Prosseguindo com a repressão de sujeitos."
+    },
+    {
+      "id": "battle_enemy_break_10211_1",
+      "desc": "Inimigo cambaleia",
+      "dlg": "O colapso da integridade estrutural confirmado."
+    },
+    {
+      "id": "battle_break_10211_1",
+      "desc": "Escalonado",
+      "dlg": "Hngh ..."
+    },
+    {
+      "id": "battle_kill_10211_1",
+      "desc": "Inimigo morto",
+      "dlg": "Sujeito incinerado."
+    },
+    {
+      "id": "battle_dead_10211_1",
+      "desc": "Morte",
+      "dlg": "Este experimento ... será um fracasso ..."
+    },
+    {
+      "id": "choice_success_p_10211_2",
+      "desc": "Verifique se passou",
+      "dlg": "Sucesso do experimento. Como esperado."
+    },
+    {
+      "id": "choice_fail_n_10211_1",
+      "desc": "Verifique a falha",
+      "dlg": "... nova variável identificada. A hipótese terá que ser atualizada."
+    },
+    {
+      "id": "battle_clear_10211_1",
+      "desc": "Victory Cry",
+      "dlg": "Experimento completo. Não há progresso a partir dos dados de pesquisa anteriores. Não é um fracasso, mas isso dificilmente pode ser considerado um sucesso."
+    },
+    {
+      "id": "battle_clear_ex_10211_1",
+      "desc": "Condições extras cumpridas",
+      "dlg": "Por exemplo, taxa de sincronização deo normal. Extração de padrões de comportamento do sujeito completa. Progredir para a próxima pesquisa parece viável nesse nível de sucesso."
+    },
+    {
+      "id": "battle_defeat_10211_1",
+      "desc": "Derrota lamento",
+      "dlg": "... por exemplo: Ardor Blossom Star Dan Level a 70%. A continuação do experimento é inviável. ... A preparação adicional parece necessária antes da continuação deste experimento."
+    }
+  ]
+}

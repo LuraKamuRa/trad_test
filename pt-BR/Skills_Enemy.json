@@ -1,0 +1,4800 @@
+{
+    "dataList": [
+        {
+            "id": 9000101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab"
+                }
+            ]
+        },
+        {
+            "id": 9000102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Keep Down",
+                    "desc": "[OnSucceedAttack]Infligir 2 se ligar; Cura 5% de Max HP"
+                }
+            ]
+        },
+        {
+            "id": 9000201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sneaky Attack",
+                    "desc": "[OnSucceedAttack]Ganhe 1 ataque Power Up no próximo turno"
+                }
+            ]
+        },
+        {
+            "id": 9000202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wild Swipe"
+                }
+            ]
+        },
+        {
+            "id": 9000301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Open Wound",
+                    "desc": "[OnSucceedAttack]Infligir 1 ataque de poder no próximo turno"
+                }
+            ]
+        },
+        {
+            "id": 9000302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Spot Vulnerability",
+                    "desc": "[OnSucceedAttack]Infligir 3 curva frágil na próxima vez"
+                }
+            ]
+        },
+        {
+            "id": 9100101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crier"
+                }
+            ]
+        },
+        {
+            "id": 9100102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Onslaught Command",
+                    "desc": "[WhenUse]Aplique 1 ataque de ataque até um aliado aleatório na próxima curva"
+                }
+            ]
+        },
+        {
+            "id": 9100103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rampart Command",
+                    "desc": "[2xPostLine]\n[WhenUse]Dê 2 poder de defesa até 2 aliados aleatórios na próxima curva"
+                }
+            ]
+        },
+        {
+            "id": 9100104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mind Wave",
+                    "desc": "[5xPostLine]\n[OnSucceedAttack]Target perde 20 sp"
+                }
+            ]
+        },
+        {
+            "id": 9000401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Clumsy Chop",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Clunky Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Weak Blow",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hit",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Heavy Strike",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Block",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": 9000801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sweep",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multi-block",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": 9000901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quick Jabs",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swipe",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sweep",
+                    "desc": "",
+                    "keywords": [
+                        "Bleeding"
+                    ],
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multi-block",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": 9001201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quick Jabs",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swipe",
+                    "desc": "",
+                    "keywords": [
+                        "Bleeding"
+                    ],
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +3 contagem de ruptura na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sweep",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": 9000203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quick Jabs",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swipe",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9000304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +3 contagem de ruptura na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sweep",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multi-block",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": 9001501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quick Jabs",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swipe",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +3 contagem de ruptura na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multi-block",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": 9100105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crier",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100106,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rampart Command",
+                    "desc": "[WhenUse]Aplique 1 proteção a 2 aliados aleatórios na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100108,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Harden",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": 9100109,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Onslaught Command",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +5 contagem de ruptura na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crier",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Target perde 5 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Target perde 5 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Onslaught Command",
+                    "desc": "[WhenUse]Aplique 1 dano até 2 aliados aleatórios na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +5 contagem de ruptura na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mind Wave",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Target perde 15 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Harden",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": 9100205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rampart Command",
+                    "desc": "[WhenUse]Aplique 1 proteção a 2 aliados aleatórios na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Target perde 5 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swipe",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sneaky Bash",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wee Wish",
+                    "desc": "[StartBattle]Cada moeda da habilidade nas cabeças do 2º slot",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pipe Down",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Heavy Swing",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wee Wish",
+                    "desc": "[StartBattle]Cada moeda da habilidade nas cabeças do 2º slot",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Carve",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cunning Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wee Wish",
+                    "desc": "[StartBattle]Cada moeda da habilidade nas cabeças do 2º slot",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9001904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Block",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Throat Slit",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 sangrar na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Shank",
+                    "desc": "[BeforeAttack]Se o alvo tiver menos de 50% hp, use a moeda 1 e 2 um tempo adicional",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 ruptura na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 ruptura na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mutilate",
+                    "desc": "[EnemyKill]Use esta habilidade mais 1 tempo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Causar 3 danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Causar 3 danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Causar 3 danos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I’ll Show You…!",
+                    "desc": "[StartBattle]Ganhe 1 Ataque Power Up",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Glinting Wish",
+                    "desc": "[StartBattle]Todas as moedas encabeçam esta curva",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100306,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Buzz Off!",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Intruder Alert!",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Freeze!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 mais moedas queda na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hold It Right There!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 energia para baixo na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 energia para baixo na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This’ll Hurt!",
+                    "desc": "[WinDuel]Poder de habilidade +1",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interloper Spotted",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wary Move",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 paralisar a próxima curva"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wide Arrest",
+                    "desc": "[WinDuel]Poder de habilidade +2",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Not a Chance",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bailemos~",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 2 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 2 sp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 2 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Danza de Paz",
+                    "desc": "[WhenUse]Aplique 1 poder de defesa até todos os aliados na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Duelo de Baile",
+                    "desc": "[WinDuel]Target perde 5 sp",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Puñales Joviales",
+                    "desc": "Se o SP da Target estiver abaixo de 0, Skill Power +1",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Olé!",
+                    "desc": "[OnSucceedEvade]Target perde 5 sp",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Danza de Emoción",
+                    "desc": "[WhenUse]Ganhe 1 ataque Power Up no próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pasos Pasionales",
+                    "desc": "[WhenUse]Heal 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 equilíbrio no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 equilíbrio no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 equilíbrio no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 equilíbrio no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¿Eso es todo?",
+                    "desc": "[WinDuel]De dano 10 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ataque de ataque e paralisar na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Bruscamente!",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 Ataque Power Up no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rápidamente~",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 Defesa Power Up no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pañata Party~!",
+                    "desc": "[WhenUse]Se o SP da Target estiver abaixo de 0, o Crit Chance aumenta em proporção ao SP da Target",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Limite mais baixo do usuário do usuário em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100406,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Excelente!",
+                    "desc": "[OnSucceedEvade]Limite de escalonamento do usuário inferior em 5; OFERECE 5 SP DANHO",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I’ll Tear Ya Apart",
+                    "desc": "Se o SP da Target for menor que",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangrar na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangrar na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gruesome Welcome",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 15 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Insult Barrage",
+                    "desc": "[WinDuel]Heal 10 SP para um aliado aleatório",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]OFERECE 5 SP DANHO"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ey!",
+                    "desc": "[WinDuel]Target perde 15 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002607,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "What’re Ya Lookin’ At?",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I’ll Crack Ya Skull",
+                    "desc": "Se o SP da Target for menor que",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 de sangria na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Raid",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 tremor na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 tremor na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 tremor na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blockade",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Neutralize Target",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 tremor na próxima curva"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Activate HP Bullet",
+                    "desc": "[WhenUse]Cura 10 hp",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9002901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Takedown",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de tremores na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Shelter",
+                    "desc": "[WinDuel]Aplique 1 poder de defesa até 2 aliados aleatórios na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blockade",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "",
+                    "desc": ""
+                }
+            ]
+        },
+        {
+            "id": 9003101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cover",
+                    "desc": "[WinDuel]Aplique 2 proteção a um outro aliado aleatório na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Plunge In",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nail Pin",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails da Corp na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails da Corp na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Knock",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 paralisação e poder de defesa na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hammer",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Inquisition",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 N Nails da Corp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangrar na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {},
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rough Nailing",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails e sangrar na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails e sangrar na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails e sangrar na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aggressive Preaching",
+                    "desc": "[DefeatDuel]Ganhe 2 na próxima curva frágil",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 curta frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "You Dare!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 N Nails da Corp na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vigorous Hammering",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se ligar e 2 paralisar na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Oppressive Preaching",
+                    "desc": "[DefeatDuel]Ganhe 2 ataque de ataque na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Assertive Inquisition",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 N Nails da Corp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o Target tiver pregos de 5+ N Corp, infligir 10 Bind Next Turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Thrusting Nail",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir as unhas da 2 N Corp na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Congregate",
+                    "desc": "[WinDuel]Aplique 1 fanático a 2 aliados aleatórios na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento no próximo turno"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardy Faith",
+                    "desc": "[WhenUse]Ganhe 1 proteção",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ruling Hammer",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ligações e 2 ataque de ataque na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9003903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Unite",
+                    "desc": "[WinDuel]Heal 15 SP para 2 aliados com o mínimo de SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento no próximo turno"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ponderous Inquisition",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir as unhas de 2 n corp"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o Target tiver pregos de 5+ N Corp, infligir 10 ataques de ataque e paralisar a próxima volta"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Spike Drive",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails da Corp na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails da Corp na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir as unhas da 2 N Corp na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Drive",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 sangramento e 2 frágeis na próxima curva"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hammers, Heed Me…!",
+                    "desc": "[WinDuel]Aplique 1 fanático a todos os aliados no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Heal 10 SP para 2 aliados com o mínimo de SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "You Are Cleansed of Sin",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir as unhas de 3 n corp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver as unhas de 5+ N Corp, cambaleie -as"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stalwart Faith",
+                    "desc": "[WhenUse]Ganhe 2 proteção",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Spike Drive",
+                    "desc": "Em menos de 50% hp, infligir unhas de +1 n corp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails da Corp na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails da Corp na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir as unhas da 2 N Corp na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Drive",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 sangramento no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Great Task Will Be Done…!",
+                    "desc": "[WhenUse]Aplique 1 fanático a todos os aliados no próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Be Cleansed… of Sin!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir pregos de 5 n corp"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver as unhas de 5+ N Corp, cambaleie -as"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Annihilate Heretics",
+                    "desc": "Se o alvo tiver as unhas da N Corp, +100% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 ruptura na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 na próxima curva frágil"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Foolishness…!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 N Nails da Corp na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Strike Down",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Line of Death",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kii",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kiih",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +3 contagem de ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kiih",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kiieeh",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir paralisar para cada um delas que essa habilidade atinge"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kigik!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kieek!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 defesa para baixo e +1 contagem de sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kigigiik",
+                    "desc": "Se o usuário não sofreu danos na última curva, a moeda Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kigigiik",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 vínculo e 2 defesa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kieegikhik",
+                    "desc": "[WhenUse]Ganhe 2 proteção",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Proximity Shooting",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Retreat; Retreat;",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Proximity Shooting",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Retreat; Retreat;",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flash; Flash;",
+                    "desc": "[WhenUse]Target perde 10 sp",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Scanning for weakness.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 curva frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004607,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Impeding movement.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cutting up.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Carving out.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 curva frágil na próxima vez"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5 níveis de defesa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Load... And Fire",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pressing down.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cutting up.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5 contagem de ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Carving out.",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 níveis de defesa no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 curta frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sawblade... Slamming down.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +5 contagem de ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 curva frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9004904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enter Defensive Mode",
+                    "desc": "[WhenUse]Ganhe 2 proteção",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Load... And Fire",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pressing down.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "CAUTION, CAUTION: Unsteady",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 níveis de ofensa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enter Defensive Mode",
+                    "desc": "[WhenUse]Ganhe 2 proteção",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wounding.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +5 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "SPOTTED, SPOTTED: Injury",
+                    "desc": "Prioriza os inimigos com ruptura",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Causar danos fixos iguais à contagem de ruptura do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Amplify Vibration",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +3 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Breaking down.",
+                    "desc": "Prioriza os inimigos com tremor",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "WARNING, WARNING: Shaking",
+                    "desc": "Prioriza os inimigos com tremor",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vulnerability Detected",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Dano -50%\nTarget Stagger"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100707,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enter Defensive Mode",
+                    "desc": "[StartBattle]Ganhe 3 proteção",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100708,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let me return the favor.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor pelo número de moedas que atingiram a última curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This'll Throw You Off",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vibration Acceleration",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Contagem de tremor do alvo duplo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This is It!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rev Up",
+                    "desc": "[WhenUse]Ganhe 1 sincronização do tremor na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Eat This!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vibration Amplification",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor pelo tremor do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "It's Over!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rev Up",
+                    "desc": "[WhenUse]Ganhe 1 sincronização do tremor na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Friction Escalation",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Grind You Up!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quaker Shaker",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se as moedas 1 e 2 cabeças terrestres, infligir tremor pelo tremor do alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se as moedas 1 e 2 lateram, infligir tremor pelo número de cabeças essa habilidade"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rev Up",
+                    "desc": "[WhenUse]Ganhe 1 sincronização do tremor na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stand Back!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This'll be Wobbly!",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir paralisar pelo tremor do alvo no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Turbo Amp",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor pelo tremor do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Trembling Conversion",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor pelo tremor do alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir paralisar pelo tremor do alvo no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vibration Compression",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100806,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let's Sweep the Stakes",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Levante o limite de cambaleou por 10"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Levante o limite de cambaleou até os 20"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100807,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Final Warmup",
+                    "desc": "[StartBattle]Ganhe 4 proteção\nHeal 15 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stop the Intruder",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No Entry",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Forbid Entry",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 curta frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cover, Cover!",
+                    "desc": "[StartBattle]Cura 5% de Max HP",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pause! Halt!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stop There, Please!",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Arresting!",
+                    "desc": "Prioriza os inimigos com tremor",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Taking Cover!",
+                    "desc": "[StartBattle]Cura 5% de Max HP",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Administering HP Ampule",
+                    "desc": "[CantDuel][WhenUse]Alvo aliados\nCura por número de danos\nNão causa danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Administering Resister Ampule",
+                    "desc": "[CantDuel][WhenUse]Alvo aliados\nDê 1 proteção contra uma afinidade aleatória\nNão causa danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Firing Decay Ampule",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 decaimento ampola\nInfligir 1 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Initiating evasive maneuver.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Discharging Decay Ampule",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisar a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 decaimento ampola"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Exposing weakness.",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 curva frágil na próxima vez"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 curta frágil na próxima vez"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 decaimento ampola"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Continue engaging.",
+                    "desc": "[CantDuel]Alvo aliados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Dê 2 danos no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Do not reserve your strength.",
+                    "desc": "[CantDuel]Alvo aliados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Dê 2 Ataque Power Up no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 curta frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Retreating.",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Harming Curse",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Proliferating Curse",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Opened Wound",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Defensive Talisman",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suppressing Fluid",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Explosive Fluid",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wobbling Fluid",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9005804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fluid Guard",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Harming Curse",
+                    "desc": "[WhenUse]Ganhe 1 talismã de maldição emaranhado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Proliferating Curse",
+                    "desc": "[WhenUse]Ganhe 2 talismã de maldição emaranhado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Restraining Curse",
+                    "desc": "[WhenUse]Ganhe 2 talismã de maldição emaranhado",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pronounced Wound",
+                    "desc": "[EndBattle]Remova todo o talismã de maldição emaranhado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Defensive Talisman",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suppressing Fluid",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Explosive Fluid",
+                    "desc": "[WhenUse]Ganhe 1 impulso moral",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wobbling Fluid",
+                    "desc": "[WhenUse]Ganhe 1 impulso moral",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fluid Guard",
+                    "desc": "[WhenUse]Cura 5% de Max HP\nGanhe 2 na próxima curva frágil[EndBattle]Remova todos os embriagados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Restraining Curse",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blunt Curse",
+                    "desc": "[WhenUse]Infligir 1 maldição de maldição recolada",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 fragilidade contundente"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multiplying Talismans",
+                    "desc": "Tem como alvo o inimigo com mais ruptura",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir ruptura pela quantidade de talismã de maldição recolada no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Paralyzing Curse",
+                    "desc": "[EndBattle]Remova todo o talismã de maldição recolada do alvo",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir paralis"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Strangling Curse Talisman",
+                    "desc": "Atinge o inimigo com os talismãs de maldição mais recolocados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 maldições de maldição recolocada"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Expiring Curse Talisman",
+                    "desc": "Atinge o inimigo com os talismãs de maldição mais recolocados[EndBattle]Remova todo o talismã de maldição recolada do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 maldição de maldição recolada"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Se o Target tiver mais de 9 maldições de maldição recortada, infligir 5 paralisos\nCausar danos fixos em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9100907,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Spreading Curse Talisman",
+                    "desc": "[WhenUse]Infligir 2 maldição de maldição recolada",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Expiring Curse Talisman",
+                    "desc": "Atinge o inimigo com os talismãs de maldição mais recolocados[EndBattle]Remova todo o talismã de maldição recolada do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 maldição de maldição recolada"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Se o Target tiver mais de 9 maldições de maldição recortada, infligir 5 paralisos\nCausar danos fixos em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suspicious Individuals",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Restrain",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9006803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No Trespassing",
+                    "desc": "Tem como alvo a unidade com mais HP",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se a moeda 1 atingir as caudas, +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se a moeda 2 aterrissa as caudas, +10% danos"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se as moedas 2 e 3 caudas terrestres, +30% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9007001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interlocking Moment",
+                    "desc": "[WhenUse]Ganhe +1 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 tempo interligado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Gastar 2 contagem de cobrança para infligir 3 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9007002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Siphon Time",
+                    "desc": "[WhenUse]Ganhe +1 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 pressa; Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9007003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Accelerating Moment",
+                    "desc": "[StartBattle]Ganhe +3 contagem de cobrança[WhenUse]Com 5+ contagem de carga, poder de conflito +2\nTorne -se imobilizado na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Com mais de 5 contagem de carga, gaste toda a contagem de cobranças para causar + 10% de dano por cada contagem"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 tempo interligado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9007004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Borrow Time",
+                    "desc": "[StartBattle]Ganhe 3[TimeRental]e +1 de contagem de cobrança",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9007101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Proximity Shooting",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9007102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Retreat; Retreat;",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9007103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flash; Flash;",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Target perde 5 sp"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Target perde 5 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9007104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Arresting.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se ligar e 3 paralisar a próxima curva."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suspicious Individuals",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Restrain",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No Trespassing",
+                    "desc": "Tem como alvo a unidade com mais HP",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se a moeda 1 atingir as cabeças, +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se a moeda 2 aterrissar as cabeças, +10% de dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Se as moedas 2 e 3 cabeças terrestres, +30% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

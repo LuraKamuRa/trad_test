@@ -1,0 +1,109 @@
+{
+    "dataList": [
+        {
+            "id": 9015206,
+            "name": "Starved and Withered",
+            "desc": "Ganho[StarvingBarberOne]No início do encontro"
+        },
+        {
+            "id": 9015202,
+            "name": "Withered",
+            "desc": "Vire início: se ninguém tiver[Laceration], Min Speed ​​-2 ​​(verifica aliados e inimigos)"
+        },
+        {
+            "id": 9015203,
+            "name": "Bloodsucking",
+            "desc": "Em sucesso, se o alvo tiver[Laceration], cure 15% dos danos causados"
+        },
+        {
+            "id": 9015204,
+            "name": "Blood Coagulation",
+            "desc": "Após o ataque: se o alvo tiver 8+[Laceration], ganha 1[HardenedBlood]"
+        },
+        {
+            "id": 9015205,
+            "name": "Blood-tinged Scissorblades",
+            "desc": "Em 1+[BloodScissor], aprimore as lâminas do tesouro."
+        },
+        {
+            "id": 9015207,
+            "name": "Bloodbag",
+            "desc": "Quando atingido, ganhe +1[Laceration]Contar.\nGanho 1[HardenedBlood]Toda vez que esta unidade perde 20% de hp.\nSe houver um amigo de sangue em campo, independentemente de ser um aliado ou um inimigo, aumente[BloodDinner]por 30"
+        },
+        {
+            "id": 9015401,
+            "name": "Bloodsucking",
+            "desc": "Em sucesso, se o alvo tiver[Laceration], curar 20% dos danos causados"
+        },
+        {
+            "id": 9015402,
+            "name": "Blood Coagulation",
+            "desc": "Após o ataque: se o alvo tiver mais de 5[Laceration], ganha 1[HardenedBlood]"
+        },
+        {
+            "id": 9015403,
+            "name": "Thirst for Blood",
+            "desc": "- prioriza os alvos com[Laceration]Turn End: Se esta unidade falhou em causar nenhum dano neste turno, ganhe 2[Vulnerable]e 2 ofensa no nível da próxima curva\n- Turn End: Se esta unidade causou danos a essa curva, Heal 5 sp"
+        },
+        {
+            "id": 9015404,
+            "name": "Bloodfeast",
+            "desc": "Se esta unidade estiver em campo ou é uma das unidades que podem aparecer neste estágio, aumente[BloodDinner]valor pela quantidade de[Laceration]danos recebidos coletivamente por todas as unidades. \nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha aparecerá."
+        },
+        {
+            "id": 9015405,
+            "name": "Blood-tinged Scissorblades",
+            "desc": "Em mais de 2 anos[BloodScissor], aprimore as lâminas do tesouro."
+        },
+        {
+            "id": 9015601,
+            "name": "Bloodfiend Hunter",
+            "desc": "Se o alvo for um<Bloodfiend>ou a<Bloodbag>, causar +10% de dano"
+        },
+        {
+            "id": 9015602,
+            "name": "Aggressive Hunting Techniques",
+            "desc": "Ao atingir um inimigo com uma habilidade de ataque, 10% de chance de infligir +2[Burst]Contar"
+        },
+        {
+            "id": 9015603,
+            "name": "Anti-Bloodfiend Hammer",
+            "desc": "No uso de habilidades, se o alvo tiver mais de 10[Burst], causar +30% mais danos em vez de infligir[Burst]com as habilidades desta unidade"
+        },
+        {
+            "id": 9015604,
+            "name": "Styptics",
+            "desc": "Turn End: Se esta unidade tiver[Laceration], perca 1[Laceration]Contar"
+        },
+        {
+            "id": 9016001,
+            "name": "Weakling Mark",
+            "desc": "Na vitória do Clash, infligir[TrulyWeak]"
+        },
+        {
+            "id": 9016002,
+            "name": "The Wicked Caitiffs",
+            "desc": "Adora bullying o fraco"
+        },
+        {
+            "id": 9016003,
+            "name": "Bullies",
+            "desc": "Clash Power +1 ao atacar um inimigo com[TrulyWeak]"
+        },
+        {
+            "id": 9016101,
+            "name": "An Encounter of Moderate Difficulty",
+            "desc": "Negócios +15% mais danos"
+        },
+        {
+            "id": 9016102,
+            "name": "The Man-eating Bear",
+            "desc": "Acordo +25% mais danos contra metas com 50%- HP"
+        },
+        {
+            "id": 9016103,
+            "name": "Big & Scary",
+            "desc": "Em um confronto, o oponente pode perder 1 sp, talvez"
+        }
+    ]
+}

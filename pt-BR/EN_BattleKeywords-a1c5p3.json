@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePcBa",
+      "name": "Marked",
+      "desc": "Será direcionado principalmente.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBb",
+      "name": "Fluorescence Shard",
+      "desc": "Turn Start: Ganhe 3 Poise e +2 Poise Count",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBc",
+      "name": "Blind Obsession",
+      "desc": "No valor de mais de 3 anos, esta unidade fica escalonada.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBg",
+      "name": "Larva",
+      "desc": "Turn End: Mova a larva para o aliado com o HP mais alto.\nTurn Start: Lose SP igual ao valor da larva em si mesmo.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBh",
+      "name": "Green Slime",
+      "desc": "Gera lodo verde na próxima curva toda vez que esse valor diminui",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBi",
+      "name": "Uneven Breathing",
+      "desc": "Turn End: Perca 5 Poise.\nNegociar +50% mais danos e receber +50% mais danos",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBj",
+      "name": "Prey Mark",
+      "desc": "Toda a equipe da Pequod tem como alvo esta unidade\nTome +50% a mais danos da tripulação Pequod",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBk",
+      "name": "Tangle",
+      "desc": "Se infligido contra alvos com captura, o alvo cambaleante. Não funciona contra alvos que já estão escalonados.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBl",
+      "name": "Capture",
+      "desc": "Se infligido contra alvos com emaranhado, o alvo cambaleante. Não funciona contra alvos que já estão escalonados.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBn",
+      "name": "Undefiable Command",
+      "desc": "Perca 10% da HP atual ao usar uma habilidade. Habilidade Final Power +1\nOn Hit, Ahab cura 8 sp; Aplique 2 posta para si mesmo e acab",
+      "summary": "Perder a HP ao usar uma habilidade; Power final +1",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBo",
+      "name": "Pip's Ego",
+      "desc": "Turn Start: Heal 3 SP por valor.\nDiminui ao usar o peso da culpa após a falha de fugir.\nTurn End: Se em 0, fique escalonado.",
+      "summary": "Curar SP por valor. Reduza o valor ao usar uma certa habilidade após a falha de fugir.",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBp",
+      "name": "Starbuck's Ego",
+      "desc": "Turn Start: Ganhe 1 proteção para cada valor 6.\nDiminui para cada moeda destruída em conflito contra alvos com presas.\nTurn End: Se em 0, fique escalonado.",
+      "summary": "Ganhe proteção por valor. Reduza o valor ao perder o confronto contra certos alvos.",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBq",
+      "name": "Queequeg's Ego",
+      "desc": "Turn End: Ganhe Valor se protegido\nTurn End: Perca valor quando sem escudo ou ao usar a expiação branqueada.\nTurn End: às 0, fique cambaleado.",
+      "summary": "Turn End: Dependendo se esta unidade está protegida ou não, perca ou ganhe valor.",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBe",
+      "name": "Pallid Panic",
+      "desc": "Eficiência de perda de SP +2",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBf",
+      "name": "Pallid Panic",
+      "desc": "Ganhe 2 Bind no Turn End.\nCada moeda que esta unidade vira pousa nas caudas.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBr",
+      "name": "Assist Barrier",
+      "desc": "Reduza o valor pela quantidade de dano recebido\nNão expira no final do turno.\nTurn End: Se esse valor estiver em 0, fique escalonado no próximo turno.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBs",
+      "name": "Assist Defense",
+      "desc": "Puxe as habilidades direcionadas a Ahab para o slot desta unidade.\nA unidade com esse efeito possui peso de slot ilimitado.",
+      "summary": "",
+      "undefined": null
+    },
+    {
+      "id": "AaCePcBt",
+      "name": "Assist Attack",
+      "desc": "Após o ataque de Ahab, inicie o ataque sem oposição contra o mesmo alvo Ahab atacado.\nA habilidade usada nesta ação tem o mesmo nível de ofensa, valores de moedas e efeitos que as ordens 'Sigo ...' desta unidade.",
+      "summary": "",
+      "undefined": null
+    }
+  ]
+}

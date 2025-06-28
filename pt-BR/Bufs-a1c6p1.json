@@ -1,0 +1,53 @@
+{
+    "dataList": [
+        {
+            "id": "CleanUp_LowMorale",
+            "name": "Organization Compulsion",
+            "desc": "- Moral baixo\n- Perca 5 SP em Clash Lose. Ganhe 1 Haste no próximo turno quando atingido (máx. 2)",
+            "summary": "Perca 5 SP em Clash Lose. Ganhe 1 Haste no próximo turno quando atingido",
+            "undefined": "-"
+        },
+        {
+            "id": "CleanUp_Panic",
+            "name": "Organization Compulsion",
+            "desc": "- Pânico\n- Ganhe 2 Frágil. Ganhe 1 Aceleração no próximo turno quando atingido (máx. 3)",
+            "summary": "Ganhe 3 Frágil. Ganhe 1 Aceleração no próximo turno quando atingido",
+            "undefined": "-"
+        },
+        {
+            "id": "Acclamation_LowMorale",
+            "name": "Echoes of the Manor",
+            "desc": "- Moral baixo\n- Poder de choque -1 em si mesmo. Causa +10% a mais de dano em acertos de cabeça",
+            "summary": "Poder de Choque -1 em si mesmo. Causa +10% a mais de dano em acertos na cabeça",
+            "undefined": "-"
+        },
+        {
+            "id": "Acclamation_Panic",
+            "name": "Echoes of the Manor",
+            "desc": "- Pânico\n- Poder de Choque -2 em si mesmo. Ganhe 1 de Dano para cima",
+            "summary": "Poder de Choque -2 em si mesmo. Ganhe 1 de Dano para cima",
+            "undefined": "-"
+        },
+        {
+            "id": "Unstable_LowMorale",
+            "name": "Splitting",
+            "desc": "- Moral baixo\n- Perca 2 HP em si mesmo a cada Clash. Ganhe 1 Offense Level Up no Turn Start.",
+            "summary": "Perca 2 HP em si mesmo com cada Clash",
+            "undefined": "-"
+        },
+        {
+            "id": "Unstable_Panic",
+            "name": "Splitting",
+            "desc": "- Pânico\n- Perca 3 HP em si mesmo a cada Clash. Ganhe 2 Offense Level Up no Turn Start.",
+            "summary": "Perca 3 HP em si mesmo com cada Clash",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPaBa",
+            "name": "Bereavement",
+            "desc": "Fim do turno: em -15 ou mais SP, perca 10 SP.\nQuando atingido, perca 2 SP e ganhe 1 Aumento de Nível de Ofensa no próximo turno. (3 vezes por turno)\nInício do turno: em menos de 0 SP, ganhe 3 Aumento de Poder de Ataque.",
+            "summary": "Quando atingido, perca SP e ganhe 1 Offense Level Up no próximo turno.\nInício do turno: com menos de 0 SP, ganhe 3 Attack Power Up.",
+            "undefined": "-"
+        }
+    ]
+}

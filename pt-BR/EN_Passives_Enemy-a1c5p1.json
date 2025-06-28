@@ -1,0 +1,69 @@
+{
+  "dataList": [
+    {
+      "id": 9008301,
+      "name": "Cetacean Strand",
+      "desc": "A baleia da mão porosa sofre dano quando esta unidade é derrotada."
+    },
+    {
+      "id": 9008302,
+      "name": "Connected Pain",
+      "desc": "Após a morte, causar 10 danos às sereias conectadas. Em seguida, aplique 2 danos no próximo turno.\nEste efeito não pode abandonar as sereias conectadas HP abaixo de 1."
+    },
+    {
+      "id": 9008401,
+      "name": "Easy Breathing",
+      "desc": "If this unit has <sprite><color><u><link>Poise<color><link><u>, gain 5 <sprite><color><u><link>Poise<color><link><u> upon Clash Win."
+    },
+    {
+      "id": 9008402,
+      "name": "Two Sides Of a Coin",
+      "desc": "A cada turno, se a primeira moeda 'cabeças hits', ganhe 1 dano no próximo turno.\nSe a primeira moeda 'caudas acertar', ganhe 1 dano no próximo turno."
+    },
+    {
+      "id": 9008601,
+      "name": "Ain't That a Prick?",
+      "desc": "On Hit, se o Target tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangrou [[tag-color]] [[tag-link]] [[tag-u]], recuperar sp igual a [tag-sprite]] [[tag-color] [[tag-u]] [tag-link]] [tag-sprite]] [[tag-color] [[tag-u]] [tag-link]]"
+    },
+    {
+      "id": 9008701,
+      "name": "To the Front Lines!!",
+      "desc": "Ao ganhar proteção, ganha 1 adicional [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] proteção [[tag-color]] [[tag-link]] [[tag-u]] se a velocidade desta unidade estiver em 1"
+    },
+    {
+      "id": 9008702,
+      "name": "Ain't That a Prick?",
+      "desc": "On Hit, se o Target tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangrou [[tag-color]] [[tag-link]] [[tag-u]], recuperar sp igual a [tag-sprite]] [[tag-color] [[tag-u]] [tag-link]] [tag-sprite]] [[tag-color] [[tag-u]] [tag-link]]"
+    },
+    {
+      "id": 9101201,
+      "name": "Two Sides Of a Coin",
+      "desc": "A cada turno, se a primeira moeda 'cabeças hits', ganhe 2 danos e 1 ataque, acumule a volta na próxima curva.\nSe a primeira moeda 'caudas acertar', ganhe 2 danos e 1 ataque de ataque na próxima curva."
+    },
+    {
+      "id": 9101202,
+      "name": "No... Get Away From Me!",
+      "desc": "Após o conflito, perca, ganhe 4 postagem e 3 pontos de equilíbrio."
+    },
+    {
+      "id": 9101203,
+      "name": "Huzzah, Men!",
+      "desc": "No acerto crítico, ganha 1 mais aumento de moeda no próximo turno.\nCure 15 sp em si mesmo.\nTodos os outros aliados curam 10 sp.\n(Ativa uma vez por turno)"
+    },
+    {
+      "id": 9101204,
+      "name": "What Are You Doing?!",
+      "desc": "Ser capturado neste encontro faz com que todos os aliados percam 30 sp"
+    },
+    {
+      "id": 9101205,
+      "name": "Ain't That a Prick?",
+      "desc": "Se o alvo tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangrou [[tag-color]] [[tag-link]] [[tag-u]] em hit, recuperar sp igual a [tag-sprite]] [[tag-color] [[tag-u]] [tag-link]]"
+    },
+    {
+      "id": 9101101,
+      "name": "Cetacean Strand",
+      "desc": "A baleia da mão porosa sofre dano quando esta unidade é derrotada."
+    }
+  ]
+}

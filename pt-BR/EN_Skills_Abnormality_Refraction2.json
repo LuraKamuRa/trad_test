@@ -1,0 +1,2181 @@
+{
+  "dataList": [
+    {
+      "id": 853901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gloomy Moan",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Unrelenting Sinking",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sorrowful Recoil",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de ruptura"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sorrowful Torrent",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de ruptura"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cries Seeking Something",
+          "desc": "Clash Power +2 para cada guarda -chuva antigo sobrevivente\nAcordo +25% de dano para cada guarda -chuva antigo\nNo final do turno, todos os velhos guarda -chuva expirar\nNo final do turno, Gain [[tag-sprite]] [[tag-color]] [[tag-u]] [[[tag-link]] guarda-chuva [[tag-color]] [[tag-link]] [[tag-u]] igual ao número de [[tag-sprite]] [[tag-color]] [[tag-u] [tag-link]] Umbrella [[coloria de tag]] [[tag-link]] [[tag-u]] ganhou no primeiro turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waiting",
+          "desc": "[[Suporte]] Todos os inimigos perdem 20 sp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Volatile Response",
+          "desc": "[[Bracket]] ganho [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Thorns [[tag-color]] [[tag-link]] [[tag-u]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Volatile Reaction",
+          "desc": "[[Bracket]] ganho [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Thorns [[tag-color]] [[tag-link]] [[tag-u]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 853909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pleading Cries",
+          "desc": "Clash Power +2 para cada guarda -chuva antigo sobrevivente\nAcordo +25% para cada guarda -chuva antigo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scattering Sorrow",
+          "desc": "[[Bracket]] infligir +3 contagem de ruptura e +3 contagem de afundamentos para todos os inimigos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Load",
+          "desc": "[[Bracket]] Ganhe 2 auto-carregamento\n[[Bracket]] Perca 2 auto-carregamento\nDeal +10% de dano aos alvos com [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] paralisando [[tag-color]] [[tag-link]] [[tag-u]]]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Release",
+          "desc": "[[Bracket]] Ganhe 2 auto-carregamento\n[[Bracket]] Perca 2 auto-carregamento\nDeal +10% de dano aos alvos com [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] paralisando [[tag-color]] [[tag-link]] [[tag-u]]]",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Discharge",
+          "desc": "[[Bracket]] Ganhe 2 auto-carregamento\n[[Bracket]] Perca 2 auto-carregamento\nDeal +10% de dano aos alvos com [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] paralisando [[tag-color]] [[tag-link]] [[tag-u]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 a próxima curva frágil na próxima vez"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "High-voltage Electric Discharge",
+          "desc": "[[Bracket]] em 5+ [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] auto-cobrar [[tag-color]] [[tag-link]] [[tag-u]], acordo + 20% de dano para cada contagem de contagem de [[Tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] auto-cobrar [[tag-color]] [[tag-link]] [[tag-u]] acima de 5\n[[Bracket]] Clash Power +1 para cada [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] auto-carregamento [[tag-color]] [[tag-link]] [[tag-u]]\n[[Bracket]] Gasta toda a auto-carga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 na próxima curva frágil"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 paralisos na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coil Up",
+          "desc": "Se essa habilidade estiver em um slot, a cabeça ganha 50 escudo HP para cada [[tag-sprite]] [[tag-color]] [[tag-u]] [[[tag-link]] auto-carregamento [[tag-color]] [[tag-link]] [[tag-u]].\nSe a cabeça estiver quebrada, ganhe 25 HP de escudo para todos os [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] auto-carregamento. [[Tag-color]] [[tag-link]] [[tag-u]]\nGaste 1 auto-carregamento por cada quantidade de escudo HP perdida igual ao escudo HP obtido por cada autoconfiança",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wriggling Head",
+          "desc": "Tem como alvo o inimigo com o menor HP\n[[Suporte]] gasta 1 auto-carregamento\n[[Bracket]] Perca 1 auto-carregamento",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wriggling Tail",
+          "desc": "Tem como alvo o inimigo com o menor HP\n[[Suporte]] gasta 1 auto-carregamento\n[[Bracket]] Perca 2 auto-carregamento",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wanna Get Drunk?",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 tremor e +2 de contagem de tremores"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's Share the Drink!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Cura 5% de Max HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This is All I Got!",
+          "desc": "Prioriza os inimigos com [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] tremor [[tag-color]] [[tag-link]] [[tag-u]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 tremor"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]] pela contagem de tremores da Target"
+                },
+                {
+                  "desc": "[[Suporte]] gasta todo o tremor do alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Have This!",
+          "desc": "Se o Target não tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Tipsy [[tag-color]] [[tag-link]] [[tag-u]], poder de conflito +8 \n[[Bracket]] Se o Target não tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] tipsy [[tag-color]] [[tag-link]] [[tag-u]], negócio +150% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 5+ [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] tipsy [[tag-color]] [[tag-link]] [[tag-u]], causar danos 0.\nO cavalheiro de fadas será escalonado no próximo turno."
+                },
+                {
+                  "desc": "[[Bracket]] Remova todos [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] tipsy [[tag-color]] [[tag-link]] [[tag-u]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Like This Brew?",
+          "desc": "[[Bracket]] Ganhe 3 Vincular a próxima volta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Have a Swig!",
+          "desc": "[[Bracket]] Summon Fairy Wine no próximo turno\n[[Suporte]] Vinho de fada convocado a 70% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 tremor"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sweet Fairy Wine",
+          "desc": "Quando morto por uma identidade, aplique 5 gotas a todas as identidades na próxima curva",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Entangling Talisman",
+          "desc": "[[Bracket]] infligir 3 maldições emaranhadas talismã",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 ruptura e +2 de ruptura contagem na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cumulating Curse",
+          "desc": "[[Bracket]] infligir o talismã de enredos iguais ao número de [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] emaranhando talismã [[tag-color]] [[tag-link]] [[tag-u]] no alvo",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 ruptura e +2 de ruptura contagem na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 ruptura e +2 de ruptura contagem na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "So That No One Will Cry",
+          "desc": "[[Bracket]] Remova todo o talismã de maldição recolada\n[[Bracket]] se em 10+ [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Malismã de maldição recolocada [[tag-color]] [[tag-link]] [[tag-u]], -1 Coin Power]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 paralisos na próxima curva"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 se ligam ao próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Transferring Talisman",
+          "desc": "[[Bracket]] Remova todos [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Curse emaranhada talisman [[tag-color]] [[tag-link]] [[tag-u]] do alvo.\nGanhe o talismã de maldição recortada igual ao número de maldições emaranhadas removidas\n[[Suporte]] Todas as partes ganham 3 proteção",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Proliferating Curse",
+          "desc": "[[Bracket]] infligir o talismã de enredos iguais ao número de [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] emaranhando talismã [[tag-color]] [[tag-link]] [[tag-u]] no alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Skim Wounds",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Se o alvo tiver 2+ contagem de sangramento, infligir 5 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] Se o alvo tiver 2+ contagem de sangramento, infligir 1 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] Aplicar +4 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Entangled Injury",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Smeared Flesh",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangramento [[tag-color]] [[tag-link]] [[tag-u]], cura 25 hp"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Se o alvo tiver 2+ contagem de sangramento, infligir 5 sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangramento [[tag-color]] [[tag-link]] [[tag-u]], cura 25 hp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Casting Shade",
+          "desc": "[[Bracket]] gerou um trevo refratado no próximo turno.\n[[Suporte]] O trevo refratado gera com 50% de hp.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal +5% de dano para cada [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangramento [[colorido de tag]] [[tag-link]] [[tag-u]] no alvo no alvo"
+                },
+                {
+                  "desc": "[[Suporte]] gasta todo o sangramento do alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Churning",
+          "desc": "[[Suporte]] Todas as partes ganham 3 proteção.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura 1% de HP máximo para cada [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] sangramento [[tag-color]] [[tag-link]] [[tag-u]] no destino"
+                },
+                {
+                  "desc": "[[Bracket]] Gasta 1 contagem de sangramento do alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wanna Get Drunk?",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 tremor e +2 de contagem de tremores"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's Share the Drink!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Cura 5% de Max HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This is All I Got!",
+          "desc": "Prioriza os inimigos com [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] tremor [[tag-color]] [[tag-link]] [[tag-u]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 tremor"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]] pela contagem de tremores da Target"
+                },
+                {
+                  "desc": "[[Suporte]] gasta todo o tremor do alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Have This!",
+          "desc": "Se o Target não tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Tipsy [[tag-color]] [[tag-link]] [[tag-u]], poder de conflito +8 \n[[Bracket]] Se o Target não tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] tipsy [[tag-color]] [[tag-link]] [[tag-u]], negócio +150% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o Target tiver 5+ [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] tipsy [[tag-color]] [[tag-link]] [[tag-u]], causar danos 0.\nO cavalheiro de fadas será escalonado no próximo turno."
+                },
+                {
+                  "desc": "[[Bracket]] Remova todos [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] tipsy [[tag-color]] [[tag-link]] [[tag-u]]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Like This Brew?",
+          "desc": "[[Bracket]] Ganhe 3 Vincular a próxima volta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Have a Swig!",
+          "desc": "[[Bracket]] Summon Fairy Wine no próximo turno\n[[Suporte]] Vinho de fada convocado a 50% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 tremor"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sweet Fairy Wine",
+          "desc": "Quando morto por uma identidade, aplique 5 gotas a todas as identidades na próxima curva",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Snagged Lure",
+          "desc": "[[Bracket]] +1 Peso ATK para cada fada de turno está vivo.\nPrioriza identidades com [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] encantado [[tag-color]] [[tag-link]] [[tag-u]].",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de ruptura"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] núcleo, corpo cura 15 hp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burrowing Roots",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de ruptura"
+                },
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expanding Roots",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 ruptura"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 5 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Encroaching Stems",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal +5% de dano por 5 ruptura contagem no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Uncovered Abyss",
+          "desc": "Deal + 100% de dano aos alvos com 5+ [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] ruptura [[tag-color]] [[tag-link]] [[tag-u]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charmed Consciousness",
+          "desc": "Atacar FaelAntern causa 0 danos.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimensional Slice",
+          "desc": "[[Bracket]] Ganhe +3 Contagem de cobrança\n[[Suporte]] gaste 2 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Consecutive Dimensional Slice",
+          "desc": "[[Bracket]] Ganhe +3 Contagem de cobrança\n[[Suporte]] gaste 2 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir fenda tridimensional"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir fenda tridimensional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Discharge Byproducts",
+          "desc": "[[Suporte]] gaste 2 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rip Space",
+          "desc": "Com mais de 10 anos de contagem de carga, gaste 10 contagem de carga e ganhe poder de conflito +5 e causar +100% de dano\nNa contagem de 10 cargas, gaste 100 núcleo HP e causar +80% de dano\nEssa habilidade não reduz o HP da unidade para 0.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Ganhe +2 contagem de cobrança"
+                },
+                {
+                  "desc": "[[Bracket]] infligir fenda tridimensional"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Ganhe +2 contagem de cobrança"
+                },
+                {
+                  "desc": "[[Bracket]] infligir fenda tridimensional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prepared Retribution",
+          "desc": "[[Bracket]] Ganhe +1 Contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de ruptura"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vomit Byproducts",
+          "desc": "[[Bracket]] Se o alvo tiver fenda dimensional, causar +10% de dano\n[[Suporte]] gaste 2 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir fenda 5 dimensional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "High-speed Rip Space",
+          "desc": "Ganho de poder de conflito igual ao número de efeito de fenda dimensional com a pilha mais alta\nAcordo +10% de dano para cada efeito de fenda dimensional em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Opportunity Spotted",
+          "desc": "[[Suporte]] Se o alvo tiver fenda dimensional, +20% danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir fenda tridimensional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rift Attack",
+          "desc": "[[Suporte]] Se o alvo tiver fenda dimensional, +10% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir fenda tridimensional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Interlocking Moment",
+          "desc": "[[Suporte]] gaste 2 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 tempo interligado"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 paralisos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Siphon Time",
+          "desc": "Poder de habilidade +1 para cada 3 contagem de cobrança\n[[Suporte]] Ganhe +4 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 3 tempo emprestado no próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 ligações na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Accelerating Moment",
+          "desc": "Skill Power +1 para cada [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] tempo emprestado [[tag-color]] [[tag-link]] [[tag-u]]]\n[[Bracket]] gaste 3 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 tempo interligado"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal +20% de dano para cada [[tag-sprite]] [[colorido tag]] [[tag-u]] [[tag-link]] tempo emprestado [[tag-color]] [[tag-link]] [[tag-u]]]"
+                },
+                {
+                  "desc": "[[Suporte]] Ganhe +4 contagem de cobrança"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charged Defense",
+          "desc": "[[Bracket]] Ganhe +1 Contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6463",
+          "desc": "Deal +10% mais danos para cada 50 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] passado acumulado [[tag-color]] [[tag-link]] [[tag-u]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 ligações na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6753",
+          "desc": "Deal +10% mais danos para cada 50 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] passado acumulado [[tag-color]] [[tag-link]] [[tag-u]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] Próxima turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "853",
+          "desc": "Aos 5+ [[suporte]], Power Clash +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] Próxima turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] aumentam o limiar de cambaleou em 50% dos danos causados"
+                },
+                {
+                  "desc": "[[Bracket]] Deal +1% de dano para cada [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Acumulado passado [[tag-color]] [[tag-link]] [[tag-u]] (max 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "5384",
+          "desc": "[[Bracket]] Todas as peças ganham 3 [[suporte]] e +3 [[bracket]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Levante o limite de cambaleamento igual a [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Negância +20% mais danos por 3 [[suporte]] (máximo 100%)"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 4 [[Bracket]] para todas as partes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6475384",
+          "desc": "Aos 7+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Em 5+ [[Bracket]], aumente o limiar de cambaleante em 50% dos danos causados"
+                },
+                {
+                  "desc": "[[Bracket]] Todas as peças ganham 8 [[suporte]] e +4 [[bracket]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "974569A",
+          "desc": "Em mais de 10 [[suporte]], Skill Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal +1% de dano para cada [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Acumulado passado [[Tag-Color]] [[tag-link]] [[tag-u]] (max 200%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To the Garden of Infinity",
+          "desc": "[[SUPORTE]]\n[[Bracket]] Aplique a coroa de espinhos e elimine todos os efeitos em si mesmo\nSe o núcleo tiver menos de 40% de hp, as rosas gerarão em estados power-up",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stop",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 queimadura e 2 tremor"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 paralisação no próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 queimadura e 2 tremor"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 paralisação no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Captivity",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento e 3 ruptura"
+                },
+                {
+                  "desc": "[[Suporte]] Cure a rosa com as menores porcentagens de HP para 10 hp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Endless Blooming",
+          "desc": "Prioriza os inimigos sem coroa de espinhos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 paralis"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aplique a coroa de espinhos"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Core cura 30 hp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wall Of Separation",
+          "desc": "Poder +2 para cada rosa sobrevivente\nSe não houver rosas sobreviventes, se auto-aplicará 2 frágeis",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Core cura 30 hp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wishing for Eternity",
+          "desc": "[[Bracket]] Aplique 1 ataque de ataque até 1 rosa aleatória na próxima curva\nSe atacado enquanto protegido, infligir 1 naufragando no atacante",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 855607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Here, With You",
+          "desc": "[[Bracket]] Aplique 1 poder de defesa até 1 Rose aleatória na próxima curva\nSe atacado enquanto protegido, infligir 1 naufragando no atacante",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burning Wrath",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 queima"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 queima"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 queima"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scattering Wrath",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de queimaduras"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de queimaduras"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Approaching Lust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior em 50% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior em 50% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                },
+                {
+                  "desc": "[[Bracket]] Limite de escalonamento do usuário inferior em 50% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burrowing Lust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Petrified Sloth",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 8 tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stubborn Sloth",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de tremores"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slumbering Sloth",
+          "desc": "Se atacado enquanto protegido, o tremor disparou em si mesmo e no atacante",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Voracious Gluttony",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prevalent Gluttony",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +4 contagem de ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Restless Gluttony",
+          "desc": "[[Bracket]] Se o alvo tiver ruptura, aumente a cicatrização da HP em +50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura em 25% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura em 25% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura em 25% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura em 25% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Overflowing Gloom",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 6 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rising Gloom",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Embracing Gloom",
+          "desc": "Se atacado enquanto protegeu, infligir +1 na redução da conta de si mesmo e do atacante",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spouting Pride",
+          "desc": "[[Bracket]] Aplique 3 posições a todos os aliados",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Erect Pride",
+          "desc": "[[Bracket]] Todos os aliados ganham +2 de contagem de pontos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 contagem de pontos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Touchy Pride",
+          "desc": "A mais de 5 posições, poder de moeda +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heaping Envy",
+          "desc": "[[Bracket]] Ganhe +3 Contagem de cobrança\n[[Bracket]] gaste 3 contagem de cobrança",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 Contagem de cobrança"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe +1 Contagem de cobrança"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spreading Envy",
+          "desc": "[[Bracket]] Gasta 10 acusações para ganhar +4 de poder de moeda",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimensional Leap",
+          "desc": "Se essa brecha dimensional permanecer, causar +10% de dano",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimensional Leap",
+          "desc": "Se essa brecha dimensional permanecer, máximo hp +20%",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimensional Leap",
+          "desc": "Se essa brecha dimensional permanecer, ganhe 1 velocidade",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 856301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimensional Leap",
+          "desc": "Se essa brecha dimensional permanecer, Power de moedas +1",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "So That No One Will Cry",
+          "desc": "[[Bracket]] Remova todo o talismã de maldição recolada\n[[Bracket]] se em 10+ [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Malismã de maldição recolocada [[tag-color]] [[tag-link]] [[tag-u]], -1 Coin Power]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 ruptura na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 paralisos na próxima curva"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 se ligam ao próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

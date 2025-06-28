@@ -1,0 +1,139 @@
+{
+    "dataList": [
+        {
+            "id": 2027,
+            "name": "Black Ledger",
+            "desc": "Primeiro Turno Início de um Encontro: ganhe recursos E.G.O aleatórios iguais ao número de inimigos.\n\nSe houver 4 ou mais Blade Lineage ou Kurokumo Clan Identities participando deste Encontro, ganhe recursos E.G.O para a E.G.O Affinity menos possuída.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2027,
+                    "simpleDesc": "Gain random E.G.O resources"
+                },
+                {
+                    "abilityID": 20271,
+                    "simpleDesc": "Gain the least-owned E.G.O resources"
+                }
+            ]
+        },
+        {
+            "id": 2028,
+            "name": "Rusted Hilt",
+            "desc": "Início do turno: todos os aliados ganham 1 Slash Power Up.\n\nLinhagem Blade ou Identidades do Clã Kurokumo ganham 2 Slash Power Up em vez disso.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2028,
+                    "simpleDesc": "Gain 1 Slash Power Up"
+                },
+                {
+                    "abilityID": 20281,
+                    "simpleDesc": "Gain 2 Slash Power Up"
+                }
+            ]
+        },
+        {
+            "id": 2029,
+            "name": "Fractured Blade",
+            "desc": "Durante este Encontro: ao infligir Potência de [Laceração] ou Sangramento Único pela primeira vez contra um inimigo com efeito de Habilidade de Ataque, inflija uma Contagem de [Laceração] adicional de +2. (Uma vez por Encontro)\n\nIdentidades do Clã Kurokumo, ao infligir dano contra um inimigo pela primeira vez, inflija uma Potência de [Laceração] adicional de 4 e Contagem de [Laceração] +4 em vez disso.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2029,
+                    "simpleDesc": "Inflict additional 2 [Laceration] Count"
+                },
+                {
+                    "abilityID": 20291,
+                    "simpleDesc": "Inflict additional 4 [Laceration] Potency and +4 [Laceration] Count"
+                }
+            ]
+        },
+        {
+            "id": 2030,
+            "name": "Broken Blade",
+            "desc": "Quando um aliado acerta um inimigo de forma crítica, causa um dano adicional de ([Breath] Potency/3) Pride.\n\nIdentidades de linhagem de lâmina, quando acertam um inimigo de forma crítica, causam um dano adicional de ([Breath] Potency/2) Pride.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2030,
+                    "simpleDesc": "Deal an additional ([Breath] Potency/3) Pride damage."
+                },
+                {
+                    "abilityID": 20301,
+                    "simpleDesc": "Deal an additional ([Breath] Potency/2) Pride damage."
+                }
+            ]
+        },
+        {
+            "id": 2031,
+            "name": "Red Tassel",
+            "desc": "Se o alvo tiver 1,5 ou menos de Resistência a Corte, Resistência a Corte +0,3.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2031,
+                    "simpleDesc": "Slash Resistance +0.3"
+                }
+            ]
+        },
+        {
+            "id": 2032,
+            "name": "Sublimity",
+            "desc": "Início do Encontro: ativa quando há 3 ou mais Identidades do Clã Kurokumo.\n\nInício do Turno: todos os aliados ganham 2 Slash Power Up e causam +35% mais dano de Slash.\n\nInício do Turno: quando uma Identidade do Clã Kurokumo causa dano pela primeira vez, inflige 4 Potência de [Laceração] adicional e +4 Contagem de [Laceração]. (Uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 2032,
+                    "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+                },
+                {
+                    "abilityID": 20321,
+                    "simpleDesc": "Inflict additional 4 [Laceration] Potency and +4 [Laceration] Count"
+                }
+            ]
+        },
+        {
+            "id": 2033,
+            "name": "Unbending",
+            "desc": "Início do Encontro: ativa quando há 3 ou mais Identidades de Linhagem da Lâmina.\n\nInício do Turno: todos os aliados ganham 2 Slash Power Up e causam +35% mais dano de Slash.\n\nInício do Turno: quando uma Identidade de Linhagem da Lâmina atinge criticamente, causa dano de Orgulho adicional igual à Potência de [Sopro] em si mesmo.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2033,
+                    "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+                },
+                {
+                    "abilityID": 20331,
+                    "simpleDesc": "Deal additional Pride damage equal to [Breath] Potency on self"
+                }
+            ]
+        },
+        {
+            "id": 2034,
+            "name": "Ragged Bamboo Hat",
+            "desc": "Início do Encontro: ativa quando há 3 ou mais Identidades de Linhagem da Lâmina.\n\nTodos os aliados causam +50% mais dano de Corte.\n\nAliados de Linhagem da Lâmina com [Sopro] têm uma taxa Crítica fixa de 100%.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2034,
+                    "simpleDesc": "Deal +50% Slash Damage"
+                },
+                {
+                    "abilityID": 20341,
+                    "simpleDesc": "Fix Critical rate to 100%"
+                }
+            ]
+        },
+        {
+            "id": 2035,
+            "name": "Old Dopo Robe",
+            "desc": "Início do Encontro: ativa quando há 3 ou mais Identidades da Linhagem da Lâmina.\n\nTodos os aliados causam +50% mais dano de Corte.\n\nIdentidades da Linhagem da Lâmina: Habilidade 1 ganha Poder de Moeda +1. Habilidade 1 de moeda única ganha Poder de Moeda +3.\n\n[Somente Mentor da Linhagem da Lâmina Meursault] Habilidade 'Dê Minha Carne' Poder de Choque Final -12; Habilidade 'Reivindicar Seus Ossos' causa +50% mais dano.",
+            "simpleDesc": [
+                {
+                    "abilityID": 2035,
+                    "simpleDesc": "Deal +50% Slash Damage"
+                },
+                {
+                    "abilityID": 20351,
+                    "simpleDesc": "Skill 1 Coin Power Up"
+                },
+                {
+                    "abilityID": 20352,
+                    "simpleDesc": "'Yield My Flesh' Skill Final Clash Power -12; 'To Claim Your Bones' deals +50% more damage"
+                }
+            ]
+        }
+    ]
+}

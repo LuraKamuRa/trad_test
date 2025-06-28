@@ -1,0 +1,4294 @@
+{
+    "dataList": [
+        {
+            "id": 2010111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crow’s Eye View",
+                    "abName": "Yi Sang",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 ataque de ataque"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 1 pressa a todos os aliados no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Crow’s Eye View",
+                    "abName": "Yi Sang",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 3 pressa a todos os aliados no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Crow’s Eye View",
+                    "abName": "Yi Sang",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aplique 3 pressa a todos os aliados no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 6 queima"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 6 queima"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da preguiça"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 fragilidade da preguiça"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da preguiça"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da preguiça"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2020111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Representation Emitter",
+                    "abName": "Faust",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Heal 8 SP para 4 aliados com o mínimo SP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Representation Emitter",
+                    "abName": "Faust",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Heal 10 SP para 4 aliados com o mínimo SP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Representation Emitter",
+                    "abName": "Faust",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Heal 12 SP para 4 aliados com o mínimo de SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2020211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Cure 10 SP para todos os aliados"
+                                },
+                                {
+                                    "desc": "[EndSkill]Cure todos os aliados para 10% do máximo de HP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Cure 15 sp para todos os aliados"
+                                },
+                                {
+                                    "desc": "[EndSkill]Cure todos os aliados para 15% do máximo de HP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Cure 15 sp para todos os aliados"
+                                },
+                                {
+                                    "desc": "[EndSkill]Cure todos os aliados para 15% do máximo de HP"
+                                },
+                                {
+                                    "desc": "[EndSkillHead]Cure 10 SP para todos os aliados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2020221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 10 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ataque de poder no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 20 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 20 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]De dano 10 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2020311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade do pierce"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da inveja"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 fragilidade Pierce"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da inveja"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 maldição"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 fragilidade Pierce"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da inveja"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 maldição"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 pregos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver maldição, +50% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2020321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade do pierce"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da inveja"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade do pierce"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 fragilidade da inveja"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 maldição"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade do pierce"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 fragilidade da inveja"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 maldição"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 pregos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver maldição, +50% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "La Sangre de Sancho",
+                    "abName": "Don Quixote",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "La Sangre de Sancho",
+                    "abName": "Don Quixote",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Cura em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "La Sangre de Sancho",
+                    "abName": "Don Quixote",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 15 SP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Causar 25 de dano sp"
+                                },
+                                {
+                                    "desc": "Se o alvo for escalonado, em baixo moral ou em pânico, causar 30% dos danos causados ​​como dano ao bônus"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Causar 25 de dano sp"
+                                },
+                                {
+                                    "desc": "Se o alvo for escalonado, em baixo moral ou em pânico, causar 30% dos danos causados ​​como dano ao bônus"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 7 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 7 naufrágio"
+                                },
+                                {
+                                    "desc": "Se o alvo não for escalonado, em baixo moral, nem em pânico, causar 50% dos danos causados ​​como dano ao bônus"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fluid Sac",
+                    "abName": "Headless Ichthys",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 naufrágio"
+                                },
+                                {
+                                    "desc": "Se o alvo não for escalonado, em baixo moral, nem em pânico, causar 50% dos danos causados ​​como dano ao bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Forest for the Flames",
+                    "abName": "Ryōshū",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Forest for the Flames",
+                    "abName": "Ryōshū",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 curva frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Forest for the Flames",
+                    "abName": "Ryōshū",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 curva frágil na próxima vez"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 curva frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "Poder de habilidade +2 contra unidades com queimadura[EnemyKill]Ganhe 1 ataque Power Up no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "Poder de habilidade +2 contra unidades com queimadura[EnemyKill]Ganhe 2 Ataque Power Up no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "Poder de habilidade +2 contra unidades com queimadura\nAcordo +5% de dano por queimadura no alvo (máximo 100%)[EnemyKill]Ganhe +2 Ataque Power Up no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nPoder de habilidade +2 contra unidades com queimadura[EnemyKill]Ganhe 2 Ataque Power Up no próximo turno[EnemyKillFail]Ganhe 10 queima na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nPoder de habilidade +4 contra unidades com queimadura[EnemyKill]Ganhe 3 Ataque Power Up no próximo turno[EnemyKillFail]Ganhe 3 Ataque Power Up e 10 queima na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nPoder de habilidade +4 contra unidades com queimadura\nAcordo +5% de dano por queimadura no alvo (máximo 100%)[EnemyKill]Ganhe 3 Ataque Power Up no próximo turno[EnemyKillFail]Ganhe 3 Ataque Power Up e 10 queima na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Chains of Others",
+                    "abName": "Meursault",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3 Bind Next Turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 ataque de ataque na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Chains of Others",
+                    "abName": "Meursault",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 se ligam ao próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 5 vínculo no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 ataque de ataque na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 4 ataque de ataque na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 2 proteção na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Chains of Others",
+                    "abName": "Meursault",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 se ligam ao próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3 Bind Next Turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 ataque de ataque na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3 ataque de ataque na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 proteção na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Screwloose Wallop",
+                    "abName": "You Want To Get Beat? Hurtily?",
+                    "desc": "[EndSkill]Ganhe 3 proteção",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Screwloose Wallop",
+                    "abName": "You Want To Get Beat? Hurtily?",
+                    "desc": "[EndSkill]Ganhe 3 proteção[EndSkill]Ganhe 1 cirurgia na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Screwloose Wallop",
+                    "abName": "You Want To Get Beat? Hurtily?",
+                    "desc": "[EndSkill]Ganhe 2 cirurgia na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Screwloose Wallop",
+                    "abName": "You Want To Get Beat? Hurtily?",
+                    "desc": "[EndSkill]Ganhe 2 cirurgia na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 paralisos"
+                                },
+                                {
+                                    "desc": "Aumentar o limite de cambaleou em 30% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pursuance",
+                    "abName": "Heavenly Executor’s Scribe",
+                    "desc": "[EndSkill]Heal 2 outros aliados com o menor HP para 15% do máximo de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Pursuance",
+                    "abName": "Heavenly Executor’s Scribe",
+                    "desc": "[EndSkill]Curar 2 outros aliados com o menor HP para 30% do máximo de HP; Aplicar 2 Proteção Próxima turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pursuance",
+                    "abName": "Heavenly Executor’s Scribe",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Aplique 1 dano frágil e 2 na próxima curva para 2 outros aliados com o mínimo de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Pursuance",
+                    "abName": "Heavenly Executor’s Scribe",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Aplique 2 danos frágeis e 3 na próxima curva para 2 outros aliados com o mínimo de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Land of Illusion",
+                    "abName": "Hong Lu",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Land of Illusion",
+                    "abName": "Hong Lu",
+                    "desc": "[EndSkill]Heal 15 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Land of Illusion",
+                    "abName": "Hong Lu",
+                    "desc": "[EndSkill]Heal 15 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 naufrágio"
+                                },
+                                {
+                                    "desc": "[EndSkill]Próximo turno: -2 Eficiência de perda de SP para todos os aliados; -2 para a quantidade de SP perdida por, por exemplo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 poder de defesa para baixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 nível de defesa"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 poder de defesa para baixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 nível de defesa"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 poder de defesa para baixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 nível de defesa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com a velocidade mais alta",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 poder de defesa para baixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 nível de defesa"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 4 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com a velocidade mais alta",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 poder de defesa para baixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 nível de defesa"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com a velocidade mais alta",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 poder de defesa para baixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 nível de defesa"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bodysack",
+                    "abName": "Heathcliff",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 1 ataque Power Up no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 2 pressa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Bodysack",
+                    "abName": "Heathcliff",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 ataque Power Up no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3 pressa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Bodysack",
+                    "abName": "Heathcliff",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 ataque Power Up no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3 pressa no próximo turno"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 2 Ataque Power Up no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "Gastar 5 contagem de cobrança para ganhar +3 poder de habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Ganhe +3 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "[WhenUse]Ganhar contagem de cobrança por inveja resson.\nGastar 5 contagem de cobrança para ganhar +3 poder de habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Ganhe +5 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "[WhenUse]Ganhar contagem de cobrança por inveja resson.\nGaste 5 contagem de cobrança para obter +3 poder de habilidade (máximo 12)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Ganhe +5 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nGastar toda a contagem de cobrança para ganhar +6 poder de habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 3 na próxima curva frágil"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[WhenUse]Ganhar contagem de cobrança por inveja resson.\nGastar toda a contagem de cobrança para ganhar +10 poder de habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 3 na próxima curva frágil"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[WhenUse]Ganhar contagem de cobrança por inveja resson.\nGastar toda a contagem de cobrança para ganhar +15 poder de habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe 3 na próxima curva frágil"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Snagharpoon",
+                    "abName": "Ishmael",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 se vincular na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Snagharpoon",
+                    "abName": "Ishmael",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 se vinculará no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Snagharpoon",
+                    "abName": "Ishmael",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 se vinculará no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 7 nível de ofensa para baixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com a velocidade mais alta",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com a velocidade mais alta",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 7 nível de ofensa para baixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 se vincular na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Roseate Desire",
+                    "abName": "Pink Shoes",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com a velocidade mais alta",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 nível de ofensa abaixo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 se ligam ao próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ardor Blossom Star",
+                    "abName": "Ardor Blossom Moth",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Infligir queimadura por metade da ressonância da ira."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 queimar em 3 inimigos aleatórios"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Ardor Blossom Star",
+                    "abName": "Ardor Blossom Moth",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Aumentar o limiar de cambaleou em 40% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir queimadura por ressonamento de Wrath."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 queimar em 3 inimigos aleatórios"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ardor Blossom Star",
+                    "abName": "Ardor Blossom Moth",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Aumentar o limiar de cambaleou em 40% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir queimadura por ressonamento de Wrath."
+                                },
+                                {
+                                    "desc": "[EndSkillHead]Infligir 5 queimar em 3 inimigos aleatórios"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ardor Blossom Star",
+                    "abName": "Ardor Blossom Moth",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[WhenUse]Perder HP em 10% do máximo hp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir queimadura por ressonamento de Wrath. em todas as unidades"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Ardor Blossom Star",
+                    "abName": "Ardor Blossom Moth",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[WhenUse]Perder HP em 10% do máximo hp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir queimadura por (2x) ira resson. em todas as unidades"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aumentar o limiar de escalonamento em 60% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ardor Blossom Star",
+                    "abName": "Ardor Blossom Moth",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[WhenUse]Perder HP em 10% do máximo hp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Infligir queimadura por (2 * resson.) Em todas as unidades"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Aumentar o limiar de escalonamento em 60% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2090111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "What is Cast",
+                    "abName": "Rodion",
+                    "desc": "Se a HP da Target estiver acima de 50%, causar +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "What is Cast",
+                    "abName": "Rodion",
+                    "desc": "Se a HP da Target estiver acima de 50%, causar +30% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "What is Cast",
+                    "abName": "Rodion",
+                    "desc": "Se a HP da Target estiver acima de 50%, causar +30% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2 SP Cura eficiência na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho -2 eficiência de perda SP na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2090211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 fragilidade da ira na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2090221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "4th Match Flame",
+                    "abName": "Scorched Girl",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 fragilidade da ira na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2090311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rime Shank",
+                    "abName": "Baba Yaga",
+                    "desc": "Se a HP da Target estiver acima de 50%, causar +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Rime Shank",
+                    "abName": "Baba Yaga",
+                    "desc": "Se a HP da Target estiver acima de 50%, causar +30% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Rime Shank",
+                    "abName": "Baba Yaga",
+                    "desc": "Se a HP da Target estiver acima de 50%, causar +30% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 naufrágio[OnSucceedAttack]Infligir +5 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2090321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rime Shank",
+                    "abName": "Baba Yaga",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais HP\nSe a HP da Target estiver acima de 50%, +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Rime Shank",
+                    "abName": "Baba Yaga",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais HP\nSe a HP da Target estiver acima de 50%, +30% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +6 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Rime Shank",
+                    "abName": "Baba Yaga",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais HP\nSe a HP da Target estiver acima de 50%, +30% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 naufrágio[OnSucceedAttack]Infligir +8 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Branch of Knowledge",
+                    "abName": "Sinclair",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 6 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Perder 10 sp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Branch of Knowledge",
+                    "abName": "Sinclair",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 12 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Perder 10 sp"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Heal 10 sp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Branch of Knowledge",
+                    "abName": "Sinclair",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 12 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Perder 10 sp.<style=\"highlight\">Ganhe 1 ataque Power Up no próximo turno</style>"
+                                },
+                                {},
+                                {
+                                    "desc": "[OnSucceedAttackTail]Ganhe 10 sp.<style=\"highlight\">Ganhe 1 proteção no próximo turno</style>"
+                                },
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Impending Day",
+                    "abName": "Doomsday Calendar",
+                    "desc": "Se a HP da Target estiver abaixo de 25%, causar +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Cure todos os aliados para 10% de seu máximo de HP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Impending Day",
+                    "abName": "Doomsday Calendar",
+                    "desc": "Se a HP da Target estiver abaixo de 25%, causar +20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Ganhe 1 ataque Power Up no próximo turno"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Curar todos os aliados por 15% de seu máximo de HP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Impending Day",
+                    "abName": "Doomsday Calendar",
+                    "desc": "Se a HP da Target estiver abaixo de 25%, +40% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Ganhe 1 ataque Power Up no próximo turno"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Curar todos os aliados por 15% de seu máximo de HP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Impending Day",
+                    "abName": "Doomsday Calendar",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe a HP da Target estiver abaixo de 25%, +15% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKillFail]Ganhe 10 sangramento no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Impending Day",
+                    "abName": "Doomsday Calendar",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe a HP da Target estiver abaixo de 25%, +25% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKillFail]Ganhe 10 sangramento no próximo turno"
+                                },
+                                {
+                                    "desc": "[EnemyKillFail]Ganhe 3 Ataque Power Up no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Impending Day",
+                    "abName": "Doomsday Calendar",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe a HP da Target estiver abaixo de 25%, +50% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKillFail]Ganhe 10 sangramento no próximo turno"
+                                },
+                                {
+                                    "desc": "[EnemyKillFail]Ganhe 3 Ataque Power Up no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "To Páthos Máthos",
+                    "abName": "Outis",
+                    "desc": "Se a HP da Target estiver abaixo de 50%, +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "To Páthos Máthos",
+                    "abName": "Outis",
+                    "desc": "Se a HP da Target estiver abaixo de 50%, +30% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "To Páthos Máthos",
+                    "abName": "Outis",
+                    "desc": "Se a HP da Target estiver abaixo de 50%, +30% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 ruptura"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Dê 1 dano até um aliado aleatório"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ebony Stem",
+                    "abName": "Ebony Queen’s Apple",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Ebony Stem",
+                    "abName": "Ebony Queen’s Apple",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 fragilidade da gula"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ebony Stem",
+                    "abName": "Ebony Queen’s Apple",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Ebony Stem",
+                    "abName": "Ebony Queen’s Apple",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 fragilidade da gula"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "[EndSkill]Heal 12 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da luxúria"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "[EndSkill]Heal 18 sp[EndSkill]Aplique 1 ataque de ataque até 2 outros aliados aleatórios",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 fragilidade da luxúria"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da luxúria"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 1 frágil"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Ganhe 1 frágil"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Aplique 1 ataque de ataque até 2 outros aliados aleatórios",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 fragilidade da luxúria"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 frágeis"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Ganhe 2 frágeis"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2120111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suddenly, One Day",
+                    "abName": "Gregor",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 de um status aleatório, escolhido por queimadura, sangramento, tremor, ruptura e afundamento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Suddenly, One Day",
+                    "abName": "Gregor",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 de um status aleatório, escolhido por queimadura, sangramento, tremor, ruptura e afundamento"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Suddenly, One Day",
+                    "abName": "Gregor",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 de um status aleatório, escolhido por queimadura, sangramento, tremor, ruptura e afundamento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2120211,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Legerdemain",
+                    "abName": "Golden Apple",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Legerdemain",
+                    "abName": "Golden Apple",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Legerdemain",
+                    "abName": "Golden Apple",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 tremor"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2120221,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Legerdemain",
+                    "abName": "Golden Apple",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Legerdemain",
+                    "abName": "Golden Apple",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 larvas"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Legerdemain",
+                    "abName": "Golden Apple",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 larvas"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2120311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar 40% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar 60% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2120321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "[CantIdentify]Alvo a unidade com a maioria da saúde",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar 20% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "[CantIdentify]Alvo a unidade com a maioria da saúde",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura 30% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +10 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +10 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Dê a contagem de cobrança a todos os aliados da Envy Reson."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +10 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[EndSkill]Dê a contagem de cobrança a todos os aliados da Envy Reson."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +10 contagem de carga e 10 ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +10 contagem de carga e 10 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Dê +10 contagem de carga, 5 frágeis e 10 ruptura a todos os aliados"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +10 contagem de carga e 10 ruptura"
+                                },
+                                {
+                                    "desc": "[EndSkill]Dê 5 ruptura frágil, 10 ruptura e +12 para todos os aliados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2020411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +5 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +7 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Aplicar 1 Power Up e 1 pressa em 2 aliados aleatórios no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisos"
+                                },
+                                {
+                                    "desc": "[EndSkill]Ganhar +7 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[EndSkillHead]Aplique 1 Power Up e 1 pressa em 2 aliados aleatórios no próximo turno, e esta unidade ganha +3 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2020421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +7 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +10 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 2 paralis"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Telepole",
+                    "abName": "Alleyway Watchdog",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 paralisos"
+                                },
+                                {
+                                    "desc": "[EndSkill]Ganhe +10 contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[EndSkillTail]Infligir 2 paralis"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lifetime Stew",
+                    "abName": "Basilisoup",
+                    "desc": "[BeforeAttack]Aumentar os danos baseados nos recursos atuais de luxúria (até 25%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lifetime Stew",
+                    "abName": "Basilisoup",
+                    "desc": "[BeforeAttack]Aumentar os danos baseados nos recursos atuais de luxúria (até 50%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lifetime Stew",
+                    "abName": "Basilisoup",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais HP[BeforeAttack]Aumentar os danos baseados nos recursos atuais de luxúria (até 25%)\nDepois gaste recursos de luxúria por (luxúria resson.); aumentar ainda mais os danos em 5% por recurso gasto",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lifetime Stew",
+                    "abName": "Basilisoup",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais HP[BeforeAttack]Aumentar os danos baseados nos recursos atuais de luxúria (até 50%)\nDepois gaste recursos de luxúria por (luxúria resson.); aumentar ainda mais os danos em 10% por recurso gasto",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lifetime Stew",
+                    "abName": "Basilisoup",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP\nSe o alvo for um aliado, isso causa 0 de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Se o alvo for um aliado, curá -los para 5% do Usuário Max HP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 7 queima; Se o alvo for um aliado, dê 2 pressa no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lifetime Stew",
+                    "abName": "Basilisoup",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP\nSe o alvo for um aliado, isso causa 0 de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Se o alvo for um aliado, cure -o de 10% do Usuário Max HP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 7 queima; Se o alvo for um aliado, dê 2 pressa e 1<sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Por exemplo, AMP de recurso</color></link></u>Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lifetime Stew",
+                    "abName": "Basilisoup",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP[BeforeAttack]Gaste 3 recursos aleatórios, por exemplo, os recursos para aumentar os danos em 10%",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lifetime Stew",
+                    "abName": "Basilisoup",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP[BeforeAttack]Gaste 3 Random, por exemplo, recursos para aumentar os danos em 20%",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Lifetime Stew",
+                    "abName": "Basilisoup",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP[BeforeAttack]Gaste 3 recursos aleatórios, por exemplo, os recursos para aumentar os danos em 30%",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de queimaduras"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)[BeforeAttack]Contagem de custos de gasto para causar mais danos (no máximo 50%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Danos por orgulho do bônus do acordo por (ruptura do alvo x 7,5)% dos danos causados ​​e reduzem a contagem de ruptura em 5 (no máximo 75%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)[BeforeAttack]Contagem de custos de gasto para causar mais danos (Max<style=\"highlight\">75</style>%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <style=\"highlight\">Se a contagem de cobrança foi gasta, infligir 3[DimensionRift]</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano ao orgulho do bônus de acordo com (ruptura do alvo x<style=\"highlight\">10</style>)% dos danos causados ​​e reduzem a contagem de ruptura em 5 (máximo<style=\"highlight\">100</style>%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)[BeforeAttack]Contagem de custos de gasto para causar mais danos (no máximo 75%)<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se a contagem de cobrança foi gasta, infligir<style=\"highlight\">5</style> [DimensionRift]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano ao orgulho do bônus de acordo com (ruptura do alvo x 10)% dos danos causados ​​e reduzem a contagem de ruptura em 5 (máximo 100)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "[CantIdentify]Tem como alvo uma unidade aleatória[BeforeAttack]Contagem de custos de gasto para causar mais danos (no máximo 50%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Danos por orgulho do bônus do acordo por (ruptura do alvo x 7,5)% dos danos causados ​​e reduzem a contagem de ruptura em 5 (no máximo 75%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "[CantIdentify]Tem como alvo uma unidade aleatória[BeforeAttack]Contagem de custos de gasto para causar mais danos (Max<style=\"highlight\">75</style>%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Se a contagem de cobrança foi gasta, infligir 3[DimensionRift]</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">6</style>Ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano ao orgulho do bônus de acordo com (ruptura do alvo x<style=\"highlight\">10</style>)% dos danos causados ​​e reduzem a contagem de ruptura em 5 (máximo<style=\"highlight\">100</style>%)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "[CantIdentify]Tem como alvo uma unidade aleatória[BeforeAttack]Contagem de custos de gasto para causar mais danos (no máximo 75%)<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se a contagem de cobrança foi gasta, infligir<style=\"highlight\">5</style> [DimensionRift]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 ruptura<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano ao orgulho do bônus de acordo com (ruptura do alvo x 10)% dos danos causados ​​e reduzem a contagem de ruptura em 5 (máximo 100)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)[BeforeAttack]Ganho +3 contagem de cobrança; Ganhe 2 pressa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fenda frágil e bidimensional"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "Tem como alvo a unidade mais traseira (em encontros regulares)[BeforeAttack]Ganhe +5 contagem de cobrança; Ganhe 2 pressa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 brecha frágil e 4 dimensional"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2060321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais HP[BeforeAttack]Ganhe 2 pressa no próximo turno\nGaste 10 contagem de cobrança para infligir +1 mais frágeis e dimensionais de brecha no golpe com esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fenda frágil e tridimensional"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Dimension Shredder",
+                    "abName": "Wayward Passenger",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais HP[BeforeAttack]Ganho<style=\"highlight\">3</style>Assure o próximo turno\nGastar 10 contagem de cobrança para infligir<style=\"highlight\">+2</style>brecha mais frágil e dimensional em atropelamento com esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 brecha frágil e 4 dimensional"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[EndSkill]Ganhe 1 pressa, 1 ira liga e 1 desvantagem na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor por queimar no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Desencadear tremor estourar e depois reduzir a contagem de tremores em 3; Se o tremor explodiu no alvo, infligir +1 contagem de queimaduras em 5 inimigos aleatórios"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[EndSkill]Ganhe 2 pressa, 1 ira de energia e 1 desvantagem na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 7 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor por queimar no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 queimar em 5 inimigos aleatórios"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar o tremor estourado e depois reduza a contagem de tremores em 2; Se o tremor explodiu escalonou o alvo, infligir +2 contagem de queimaduras em 5 inimigos aleatórios"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[EndSkill]Ganhe 2 pressa, 1 ira de energia e 1 desvantagem na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 queimadura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor por queimar no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 queimar em 5 inimigos aleatórios"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar o tremor estourado e depois reduza a contagem de tremores em 2; Se o tremor explodiu o alvo, infligir +3 contagem de queimaduras em 5 inimigos aleatórios"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Ganhe 1 pressa, 1 ira liga e 1 desvantagem na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor por queimar no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Desencadear tremor estourar e depois reduzir a contagem de tremores em 3; Se o tremor explodiu no alvo, infligir +2 contagem de queimaduras em 5 unidades aleatórias"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Ganhe 2 pressa, 1 ira de energia e 1 desvantagem na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 queimadura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor por queimar no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 queimar em 5 unidades aleatórias"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar o tremor estourado e depois reduza a contagem de tremores em 2; Se o tremor explodiu o alvo, infligir +3 contagem de queimaduras em 5 unidades aleatórias"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Ganhe 2 pressa, 1 ira de energia e 1 desvantagem na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 12 queimar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir tremor por queimar no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 queimar em 5 unidades aleatórias"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar o tremor estourado e depois reduza a contagem de tremores em 2; Se o tremor explodiu escalonou o alvo, infligir +4 contagem de queimaduras em 5 unidades aleatórias"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[EndSkill]Aplique 1 ira dmg até todos os aliados no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Deal 7 SP dano"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[EndSkill]Aplique 1 ira dmg até todos os aliados no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 15 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2080421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Dê 1 fragilidade da ira e 1 ira dmg até todas as unidades no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Deal 7 SP dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar o tremor estourado e depois reduzir a contagem de tremores em 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Capote",
+                    "abName": "Brazen Bull",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Dê 1 fragilidade da ira e 1 ira dmg até todas as unidades no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 queimadura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 15 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar o tremor estourado e depois reduza a contagem de tremores em 2; Se o tremor explodiu o alvo, infligir +2 contagem de queimaduras em 3 unidades aleatórias"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[BeforeAttack]Ganhe +4 contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[BeforeAttack]Ganhe +6 contagem de posições",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar o tremor estourado; Infligir +2 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[BeforeAttack]Ganho de +7 contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar o tremor estourado; Infligir +3 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2110421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP[BeforeAttack]Ganho de +5 contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP[BeforeAttack]Ganho de +7 contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar o tremor estourado; Infligir +2 contagem de naufrágio e ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com o mínimo de HP[BeforeAttack]Ganho de +7 contagem de pontos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar o tremor estourado; Infligir +3 contagem de naufrágio e ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2120411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[BeforeAttack]Ganhe +5 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 descarga de faísca"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[BeforeAttack]Ganhar +7 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 descarga de faísca"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[BeforeAttack]Ganhe +10 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 15 descarga de faísca"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2120421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[CantIdentify]Prioriza as unidades com carga[BeforeAttack]Ganhe +5 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 descarga de faísca e +5 de contagem de carga"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[CantIdentify]Prioriza as unidades com carga[BeforeAttack]Ganhar +7 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 descarga de faísca e +5 de contagem de carga"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[CantIdentify]Prioriza as unidades com carga[BeforeAttack]Ganhe +10 contagem de cobrança",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 15 descarga de faísca e +7 contagem de carga"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[BeforeAttack]Ganhe +1 contagem de cobrança para cada 10% da falta de HP (máximo 5)\nGanhe 2 pressa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisos"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[BeforeAttack]Ganhe +1 contagem de cobrança para cada 10% da falta de HP (máximo 7)\nGanhe 2 pressa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisos e 1 fragilidade da escuridão"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe +1 contagem de cobrança para cada 10% da falta de HP (máximo 5)\nGanhe 2 pressa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Gase toda a contagem de cobrança para causar dano da escuridão por (contagem de cobrança * 1,5)% dos danos causados ​​(no máximo 30%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Após o ataque, perde 10% do máximo de HP para obter +7 de contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe +1 contagem de cobrança para cada 10% da falta de HP (máximo 7)\nGanhe 2 pressa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Gase toda a contagem de cobrança para causar dano da escuridão por (contagem de cobrança * 2,5)% dos danos causados ​​(no máximo 50%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Após o ataque, perca 10% do máximo de HP para obter +10 contagem de cobrança"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "AEDD",
+                    "abName": "Shock Centipede",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe +1 contagem de cobrança para cada 10% da falta de HP (máximo 7)\nGanhe 2 pressa no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Gase toda a contagem de cobrança para causar dano da escuridão por (contagem de cobrança * 2,5)% dos danos causados ​​(no máximo 50%)"
+                                },
+                                {
+                                    "desc": "[EndSkill]Gastar toda a contagem de cobrança"
+                                },
+                                {
+                                    "desc": "[EndSkillTail]Perca HP em 10% do máximo de HP para obter +10 contagem de carga"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010511,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[BeforeAttack]Dê 1 Power Up, 1 preguiça dmg e 2 proteção a todos os aliados nesta virada e na próxima curva",
+                    "coinlist": [
+                        {}
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[BeforeAttack]Dê 1 Power Up, 2 DMG da preguiça e 3 Proteção a todos os Aliados nesta virada e na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Heal 15 sp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2010521,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe 1 Power Up e 1 preguiça dmg por esta curva e as próximas 2 voltas",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 fragilidade da preguiça e 1 fragilidade do pierce nesta curva e na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Sunshower",
+                    "abName": "Drifting Fox",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganhe 2 Power Up e 2 preguiçosa",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 fragilidade da preguiça e 2 fragilidade do pierce nesta curva e na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Red Eyes",
+                    "abName": "Spider Bud",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 3 ligações, infligir 1 mais queda de moeda no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Red Eyes",
+                    "abName": "Spider Bud",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 3 ligações, infligir 1 mais queda de moeda no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a velocidade do alvo estiver menor que"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Red Eyes",
+                    "abName": "Spider Bud",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 3 ligações, infligir 1 mais queda de moeda no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a velocidade do alvo estiver menor que"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040321,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Red Eyes",
+                    "abName": "Spider Bud",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 3 ligações, infligir 2 mais queda de moeda no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Red Eyes",
+                    "abName": "Spider Bud",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 se vincular na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver mais de 3 ligações, infligir 2 mais queda de moeda no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se a velocidade do alvo for menor que o dos usuários, infliga a fragilidade da barra 1-3 na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Red Eyes (Open)",
+                    "abName": "Spider Bud",
+                    "desc": "Se a velocidade do alvo principal for menor que o usuário em 3 ou mais, o poder da moeda +4",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 3+ ligações, causar + 20% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Red Eyes (Open)",
+                    "abName": "Spider Bud",
+                    "desc": "Se a velocidade do alvo principal for menor que o usuário em 3 ou mais, o poder da moeda +4",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 3+ ligações, causar + 20% de dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se essa habilidade encaixar ou derrotar um alvo, curar o usuário e o aliado com o menor HP em 10% do máximo HP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Red Eyes (Open)",
+                    "abName": "Spider Bud",
+                    "desc": "Se a velocidade do alvo principal for menor que o dos usuários em 3 ou mais, o poder da moeda +7",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 3+ ligações, causar + 40% de dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se essa habilidade encaixar ou derrotar um alvo, curar o usuário e o aliado com o menor HP em 10% do máximo HP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2040421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Red Eyes (Open)",
+                    "abName": "Spider Bud",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe a velocidade do alvo principal for menor que o usuário em 3 ou mais, poder final +7",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 3+ ligações, causar + 30% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Red Eyes (Open)",
+                    "abName": "Spider Bud",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe a velocidade do alvo principal for menor que o usuário em 3 ou mais, poder final +7",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 3+ ligações, causar + 30% de dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se essa habilidade encaixar ou derrotar um alvo, curar o usuário e o aliado com o menor HP em 10% do máximo HP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Red Eyes (Open)",
+                    "abName": "Spider Bud",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nSe a velocidade do alvo principal for menor que o usuário em 3 ou mais, poder final +10",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 3+ ligações, causar + 50% de dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se essa habilidade encaixar ou derrotar um alvo, curar o usuário e o aliado com o menor HP em 10% do máximo HP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ataque de poder no próximo turno"
+                                },
+                                {
+                                    "desc": "[EndSkill]Heal 12 SP para outros 4 aliados com o mínimo SP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "[BeforeAttack]A 15+ sp, peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                },
+                                {
+                                    "desc": "[EndSkill]Heal 17 SP para outros 4 aliados com o mínimo de SP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "[BeforeAttack]A 15+ sp, peso ATK +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ataque de ataque na próxima curva"
+                                },
+                                {
+                                    "desc": "[EndSkill]Heal 25 SP para outros 4 aliados com o mínimo de SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 nível de defesa até 1 outro aliado aleatório"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 nível de defesa no próximo turno."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 dano no próximo turno."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Em -15 ou menor SP, peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 nível de defesa até 1 outro aliado aleatório"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 nível de defesa no próximo turno."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 dano no próximo turno."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Heal 4 sp em si mesmo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Ya Śūnyatā Tad Rūpam",
+                    "abName": "My Form Empties",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Em -15 ou menor SP, peso ATK +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 nível de defesa até 1 outro aliado aleatório"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 nível de defesa no próximo turno."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 1 dano no próximo turno."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Heal 4 sp em si mesmo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 1 frágil"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

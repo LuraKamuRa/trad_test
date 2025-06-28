@@ -1,0 +1,53 @@
+{
+  "dataList": [
+    {
+      "id": "CleanUp_LowMorale",
+      "name": "Organization Compulsion",
+      "desc": "- Baixo moral\n- Perca 5 SP no Clash Lose. Ganhe 1 pressa no próximo turno quando atingido (máximo 2)",
+      "summary": "Perca 5 SP no Clash Lose. Ganhe 1 pressa no próximo turno quando atingido",
+      "undefined": null
+    },
+    {
+      "id": "CleanUp_Panic",
+      "name": "Organization Compulsion",
+      "desc": "- Pânico\n- Ganhe 2 frágeis. Ganhe 1 pressa no próximo turno quando atingido (máximo 3)",
+      "summary": "Ganhe 3 frágeis. Ganhe 1 pressa no próximo turno quando atingido",
+      "undefined": null
+    },
+    {
+      "id": "Acclamation_LowMorale",
+      "name": "Echoes of the Manor",
+      "desc": "- Baixo moral\n- Clash Power -1 em si mesmo. Acordo +10% mais danos nas cabeças atingidos",
+      "summary": "Power de conflito -1 em si mesmo. Acordo +10% mais danos nas cabeças atingidos",
+      "undefined": null
+    },
+    {
+      "id": "Acclamation_Panic",
+      "name": "Echoes of the Manor",
+      "desc": "- Pânico\n- Clash Power -2 em si mesmo. Ganhe 1 dano",
+      "summary": "Poder de conflito -2 em si mesmo. Ganhe 1 dano",
+      "undefined": null
+    },
+    {
+      "id": "Unstable_LowMorale",
+      "name": "Splitting",
+      "desc": "- Baixo moral\n- Perca 2 hp em si mesmo a cada confronto. Ganhe 1 ofensa ao nível no início da curva.",
+      "summary": "Perder 2 hp em si mesmo com cada confronto",
+      "undefined": null
+    },
+    {
+      "id": "Unstable_Panic",
+      "name": "Splitting",
+      "desc": "- Pânico\n- Perca 3 hp em si mesmo a cada confronto. Ganhe 2 ofensas no nível no início do turno.",
+      "summary": "Perder 3 hp em si mesmo com cada confronto",
+      "undefined": null
+    },
+    {
+      "id": "AaCfPaBa",
+      "name": "Bereavement",
+      "desc": "Turn End: Em -15 ou superior, perdem 10 sp.\nQuando atingido, perca 2 SP e ganhe 1 ataque de ataque no próximo turno. (3 vezes por turno)\nTurn Start: Em menos de 0 SP, ganhe 3 Ataque Power Up.",
+      "summary": "Quando atingido, perde o SP e ganhe 1 ataque no nível do próximo turno.\nTurn Start: Em menos de 0 SP, ganhe 3 Ataque Power Up.",
+      "undefined": null
+    }
+  ]
+}

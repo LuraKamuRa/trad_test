@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": 835001,
+      "name": "Stored Blood",
+      "desc": "No final da curva, dependendo do valor [[suporte]] em si:\n- a um valor menor ou igual a 5 [[bracket]], ganho 1 [[bracket]], 1 [[bracket]] e 1 [[bracket]] na próxima curva para cada [[suporte]] perdido perdido\n- a um valor maior que 5 [[suporte]], ganha 2 [[suporte]] e 2 [[suporte]] para todo valor em excesso"
+    },
+    {
+      "id": 835002,
+      "name": "Must Retain Blood",
+      "desc": "Ganha um novo padrão quando [[backet]] atinge 0 pela primeira vez\nCorrija a velocidade desta unidade para 10 ao usar a habilidade 'Eu sou ... o príncipe ... do desfile ...!'"
+    },
+    {
+      "id": 835003,
+      "name": "The Prince's Frenzy",
+      "desc": "Quando esta unidade atinge 30% HP, ganha [[suporte]]"
+    },
+    {
+      "id": 835004,
+      "name": "Hardblood Glaive",
+      "desc": "Prioriza os alvos com a maior soma de potência e contagem [[suporte]]\nEm sucesso, se o alvo tiver [[suporte]], curar 2% HP"
+    },
+    {
+      "id": 835005,
+      "name": "Sanguivore - Coagulation",
+      "desc": "Quando esta unidade tiver [[suporte]]:\n- Ganhe 1 Ofensão de nível acima e 1 nível de defesa a cada 5 [[suporte]] (máximo 10)\n- Ganhe 1 Clash Powere a cada 10 [[suporte]] (Máx 5)\n- Tome 50% menos dano de [[suporte]] (arredondado)"
+    },
+    {
+      "id": 9014501,
+      "name": "Blood Coagulation",
+      "desc": "Ganhe +1 [[Bracket]] contam toda vez que esta unidade é atingida\nTurn End: Consume 3 [[Bracket]] Conte com o eu para ganhar 1 [[suporte]]]"
+    },
+    {
+      "id": 9014502,
+      "name": "Thirst for Blood",
+      "desc": "Prioriza metas com [[suporte]]\nTurn End: Se esta unidade falhou em causar nenhum dano nesta curva, ganhe 2 [[suporte]] e 2 [[suporte]] Próxima turno"
+    },
+    {
+      "id": 9014503,
+      "name": "Bloodsucking",
+      "desc": "Tome 10% menos dano de [[suporte]] (arredondado)\nEm sucesso, se o alvo tiver [[suporte]], curar 10% dos danos causados"
+    },
+    {
+      "id": 9014801,
+      "name": "Rough Bloodsucking",
+      "desc": "Tome 20% menos dano de [[suporte]] (arredondado)\nEm sucesso, se o alvo tiver [[suporte]], curar 15% dos danos causados"
+    },
+    {
+      "id": 9014802,
+      "name": "Power Leakage",
+      "desc": "Quando atingido, se o atacante usou uma habilidade que ganha [[suporte]], o atacante rouba 1 [[suporte]] contagem desta unidade.\n(Uma vez por habilidade. Não é ativado se esta unidade não possui [[suporte]]))"
+    },
+    {
+      "id": 9015101,
+      "name": "Blood to Brain",
+      "desc": "Tome 30% menos dano de [[suporte]] (arredondado)\nEm sucesso, se o alvo tiver [[suporte]], curar 15% dos danos causados"
+    },
+    {
+      "id": 9015102,
+      "name": "Prosthesis Model - L37",
+      "desc": "Turn Start: Com menos de 5 [[suporte]] contagem, ganho 1 [[suporte]]]\nTurn Start: Aos 5+ [[Bracket]] contagem, ganha 2 [[suporte]]]"
+    },
+    {
+      "id": 9015201,
+      "name": "A Young Kindred",
+      "desc": "Tome 30% menos dano de [[suporte]] (arredondado)\nEm sucesso, se o alvo tiver [[suporte]], curar 25% dos danos causados"
+    },
+    {
+      "id": 9014803,
+      "name": "Tenacious",
+      "desc": "Danos autoinfligidos devido às habilidades desta unidade não reduzem a HP desta unidade abaixo de 1"
+    },
+    {
+      "id": 834801,
+      "name": "Burst Bloodbag",
+      "desc": "Início de combate: inicia o encontro apenas com metade do Max HP"
+    },
+    {
+      "id": 834802,
+      "name": "The Seventh Kindred",
+      "desc": "Ganhe +1 slot para cada aliado a 1 hp (2 vezes máximo)"
+    }
+  ]
+}

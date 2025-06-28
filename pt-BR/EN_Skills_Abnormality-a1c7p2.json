@@ -1,0 +1,432 @@
+{
+  "dataList": [
+    {
+      "id": 838101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Walk With Grace...",
+          "desc": "Priorize um aliado sem uso. Se o alvo for um aliado, ganhe o Clash Power +10 e corrija o dano a 0 o tempo todo\nClash Power +1 para cada 3 [[suporte]] no alvo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]\n- Se o alvo for um aliado, substitua esse efeito por 3 [[suporte]] até o próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Move With Beauty...",
+          "desc": "Priorize um aliado sem uso. Se o alvo for um aliado, ganhe o Clash Power +10 e corrija o dano a 0 o tempo todo\nClash Power +1 para cada 3 [[suporte]] no alvo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem\n- Se o alvo for um aliado, substitua esse efeito por 3 [[suporte]] até o próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Beckon the Audience Hither...",
+          "desc": "[[Bracket]] Power final +1 para cada 5 [[suporte]] em si ou a cada 6 [[suporte]] no alvo (máximo 4)\n[[Bracket]] Com menos de 15 [[suporte]], ganha 15 [[suporte]] e imediatamente o aciona uma vez, reduza [[suporte]] contando em 1 (a menos de 10% de hp, ative apenas a parte desse efeito em que esta unidade ganha [[suporte]] potência e contagem)\n[[Bracket]] Consuma 15 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[suporte]] e 1 [[bracket]] para cada 6 [[suporte]] no alvo (máximo 3 de cada)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +5 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Parade of Wonders",
+          "desc": "[[SUPORTE]]\nPrioriza os inimigos para seu alvo principal e prioriza aliados para seus sub-alvos. Se o alvo for um aliado, o Clash Power +10 e sempre corrija o dano a 0.\n[[Bracket]] Clash Power +1 para cada 20 [[suporte]] por esta unidade (máximo 10)\n[[Bracket]] Com menos de 25 [[suporte]], ganha 25 [[bracket]], o aciona imediatamente uma vez e depois perca 1 [[suporte]] contagem (a menos de 10% de hp, ative apenas a parte desse efeito em que esta unidade ganha [[suporte]] potência e contagem)\n[[Bracket]] Consuma 25 [[Bracket]]\n[[Bracket]] Consuma todos [[suporte]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] e [[bracket]] até o próximo turno com base em [[suporte]] (1 por 3 [[bracket]], máximo 3 de cada)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem\n- Se o alvo for um aliado, substitua esse efeito por 5 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Parade Repeats for Eternity",
+          "desc": "[[Bracket]] Clash Power +1 para cada 20 [[suporte]] por esta unidade (máximo 10)\n[[Bracket]] Com menos de 50 [[suporte]], ganha 25 [[bracket]], +2 [[backet]] contagem, o aciona imediatamente duas vezes e reduza [[suporte]] contagem em 2 (em menos de 10% de hp, ativar apenas a parte desse efeito onde os ganhos da unidade [[Bracket]]] e potencial\n[[Bracket]] Consuma metade de [[suporte]]\n[[Bracket]] Consuma todos [[suporte]]]\n[[Bracket]] Ganhe 10 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura em 25% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura em 25% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Suporte]] Cura em 50% dos danos causados"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]] e 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]] para cada 10 [[suporte]] consumido por essa habilidade (máximo 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "And that's all it does...",
+          "desc": "[[SUPORTE]]\n[[Bracket]] em 5+ [[Bracket]], Power Clash +3\n[[Bracket]] Ganhe 5 [[Bracket]]\n[[Bracket]] Perca 5 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Finale",
+          "desc": "[[Bracket]] Consuma metade de [[suporte]]\n[[Bracket]] Deal +([[Bracket]] consumido por essa habilidade)% mais dano (máximo 150%)\n[[Bracket]] causar -50% menos dano, e o dano dessa habilidade não escaloniza o alvo\n[[Bracket]] Esta unidade SP cai para -45",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +6 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 6 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +6 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ganho 1 [[Bracket]] para cada 10 [[suporte]] consumido por essa habilidade (máximo 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dragon of the Spring",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]] Próxima turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lotus in Autumn",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]] Próxima turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Faint Trace",
+          "desc": "[[Bracket]] Ganhe 3 [[Bracket]] Próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pallid Trace",
+          "desc": "Se a velocidade do usuário for mais rápida que o do alvo por mais de 5 anos, Clash Power +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] causar 100 danos bônus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Red Arwe",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]] Próxima turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] causar 50 danos bônus"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] causar 50 danos bônus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blak Arwe",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]] Próxima turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mirror of Water",
+          "desc": "[[SUPORTE]]\n[[Bracket]] Ganhe 3 [[Bracket]]\n[[Bracket]] causar danos à HP igual ao poder final do choque dessa habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electron Accelerator Rail Activation",
+          "desc": "[[Bracket]] Ganhe 10 [[Bracket]] e [[Bracket]] Próximo turno da próxima volta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arwe",
+          "desc": "[[Bracket]] Ganhe 5 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

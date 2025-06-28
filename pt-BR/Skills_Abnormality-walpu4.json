@@ -1,0 +1,258 @@
+{
+    "dataList": [
+        {
+            "id": 836301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Understanding",
+                    "desc": "Se o alvo tiver 10- SP, Clash Power +1[WhenUse]Ganho 1[VioletUnderstand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[MentalCrack]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Perception",
+                    "desc": "Se o alvo tiver 10- SP, Clash Power +1[WhenUse]Ganho 2[VioletUnderstand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[VioletTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[MentalCrack]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Salvation",
+                    "desc": "Se o alvo tiver 10- SP, Clash Power +1[WhenUse]Ganho 1[VioletUnderstand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[VioletTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[MentalCrack]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "What is Incomprehensible",
+                    "desc": "[WhenUse]Ganho 2[VioletUnderstand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Decay",
+                    "desc": "[CantDuel]\n[EndSkill]Morre",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[VioletTakeDamageUp]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]OFERECIMENTO DE 10 ~ 14 SP DANAM"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mercy",
+                    "desc": "Se o alvo tiver 20- SP, Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[VioletTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[MentalCrack]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Love",
+                    "desc": "Se o alvo tiver 20- SP, Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[VioletTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[MentalCrack]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flickering Glyphs of Understanding",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[MentalCrack]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[MentalCrack]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flickering Glyphs of Understanding",
+                    "desc": "Se o alvo tiver 20- SP, Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[VioletTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[MentalCrack]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "What is Incomprehensible",
+                    "desc": "[WhenUse]Ganho 2[Protection]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 836606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rushing Arms of Rest",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Causar 100 hp danos"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+  "dataList": [
+    {
+      "id": 809901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punching",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Dano contundente +3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Dano contundente +3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 paralisos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kicking",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Dano contundente +5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Dano contundente +5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Payback",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Target perde 5 sp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Domineer",
+          "desc": "[[Bracket]] Aplique 1 ataque de ataque a todos os aliados\n[[Bracket]] infligir 2 atacar o poder de 2 inimigos com o mínimo de SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Make this Memorable",
+          "desc": "[[Bracket]] Ganhe 2 Teste do Big Brother. Ganhe 5 vínculo na próxima curva.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Watch Your Back!",
+          "desc": "Se o alvo tiver menos de 0 sp, o poder da moeda +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] curar 10 sp em si mesmo"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga e 2 ataque de ataque na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Target perde 20 sp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Assemble",
+          "desc": "[[Suporte]] Invocar 2 aliados na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swear Vengeance",
+          "desc": "[[Bracket]] Ganhe 2 Teste do Big Brother. Ganhe 5 vínculos e 5 danos no próximo turno.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "MY HAIR COUPOOOOOOOOOOONS!!!",
+          "desc": "Se o alvo principal tiver menos de 0 sp, potência final +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aumente o limiar de cambaleante em 30"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 paralisação no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

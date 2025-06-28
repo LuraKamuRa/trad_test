@@ -1,0 +1,635 @@
+{
+  "dataList": [
+    {
+      "id": 2060411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura 2 aliados com as menores porcentagens de HP para 10 hp"
+                },
+                {
+                  "desc": "[[Bracket]] Heal 10 SP para 2 aliados com o mínimo de SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura 2 aliados com as menores porcentagens de HP por 12 hp"
+                },
+                {
+                  "desc": "[[Bracket]] Heal 12 SP para 2 aliados com o mínimo de SP"
+                },
+                {
+                  "desc": "[[Suporte]] curar o aliado com a menor porcentagem de HP para 6 hp; Curar o aliado com o mínimo de sp por 6 sp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 2 aliados com as menores porcentagens de HP por 15 hp"
+                },
+                {
+                  "desc": "[[Bracket]] Cure 15 SP para 2 aliados com o mínimo de SP"
+                },
+                {
+                  "desc": "[[Suporte]] curar o aliado com a menor porcentagem de HP para 8 hp; Cure o aliado com o mínimo de SP por 8 sp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[[Bracket]] tem como alvo a unidade com o mínimo de HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[[Bracket]] tem como alvo a unidade com o mínimo de HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[[Bracket]] tem como alvo a unidade com o mínimo de HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 5 tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir a ruptura por (ressonância gulosa /2)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[Suporte]] a 50%- HP, peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir a ruptura por (ressonância gulosa /2)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 fragilidade da gula no próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 2 se liga ao próximo turno [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[Suporte]] a 50%- HP, peso ATK +1;\nA 25%- hp, ganhe um peso ATK adicional +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir a ruptura por (ressonância gulosa /2)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 fragilidade da gula no próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 2 se liga ao próximo turno [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[SUPORTE]]\nTem como alvo a unidade com o mínimo de HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Inflict Rupture Count by (Gluttony Reson. /3)"
+                },
+                {
+                  "desc": "[[Suporte]] Cura 20% dos danos causados"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[SUPORTE]]\nAlvo a unidade com o mínimo de HP\n[[Suporte]] a 50%- HP, peso ATK +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Inflict Rupture Count by (Gluttony Reson. /3)"
+                },
+                {
+                  "desc": "[[Suporte]] curar 30% dos danos causados"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[[SUPORTE]]\nAlvo a unidade com o mínimo de HP\n[[Suporte]] a 50%- HP, peso ATK +1\nA 25%- hp, peso ATK adicional +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Inflict Rupture Count by (Gluttony Reson. /3)"
+                },
+                {
+                  "desc": "[[Suporte]] curar 50% dos danos causados"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "Se o Target tiver [[suporte]], Deal +((a soma de [[suporte]] potência e contagem no alvo)/2)% mais danos (no máximo 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "Se o Target tiver [[Bracket]], Deal +((a soma de [[bracket]] potência e contagem no alvo)/2)% mais danos (max [[estilo de tag]] 25% [[estilo de tag]]))\n[[Estilo de tag]]-Com mais de 4 mais de reson.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] e [[estilo de tag]]+2 [[backet]] contagem [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] Trigger [[Bracket]] em [[Bracket]] [[estilo de tag]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem [[Bracket]] do Target em 1 [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "Se o Target tiver [[suporte]], acordo +([[estilo de tag]] 5 +[[estilo de tag]] (a soma de [[bracket]] potência e contagem no alvo)/2)% mais danos (max [[estilo tag]] 30% [[estilo tag]]))\n-A 4+ RENON mais alto, Deal +([[estilo de etiqueta]] 7.5 +[[estilo de tag]] (a soma de [[bracket]] potência e contagem no alvo)/[[estilo tag-estilo]] 1.5 [[style]])% mais danos (max [[tag-style]] 40% [tag-style]].",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] e [[estilo de tag]]+3 [[estilo de tag]] [[bracket]] contagem contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]] em [[Bracket]] [[estilo de tag]] [[estilo de tag]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem [[Bracket]] do Target em 1 [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nSe o Target tiver [[suporte]], Deal +((a soma de [[Bracket]] potência e contagem no alvo)/2)% mais danos (máximo 25%)\n- Com mais de 4 ressonamento mais alto, aumente a tampa acima para (máximo 35%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[Bracket]] e +3 [[Bracket]] Count"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nSe o Target tiver [[Bracket]], Deal +((a soma de [[bracket]] potência e contagem no alvo)/2)% mais danos (max [[estilo tag-estilo]] 30% [[estilo de tag]]))\n-Com mais de 4 ressonações mais altas, [[estilo de etiqueta]].",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 3 [[Bracket]] e +3 [[Bracket]] contagem [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] Trigger [[Bracket]] em [[Bracket]] [[estilo de tag]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem [[Bracket]] do Target em 1 [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] Trigger [[Bracket]]; Em seguida, reduza a contagem de [[suporte]] do alvo por 1 [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nSe o Target tiver [[suporte]], Deal + ([[estilo de tag]] 5 [[estilo de tag]] + (a soma de [[bracket]] potência e contagem no alvo)/2)% mais danos (max [[estilo tag]] 40% [[estilo tag]]))\n-A 4+ RENON mais alto, Deal + ([[estilo de etiqueta]] 7.5 [[estilo de tag]] + (a soma de [[bracket]] potência e contagem no alvo)/[[estilo de tag-estilo]] 1.5 [[style]])% mais danos (max [[[tag-style]] 50% [tag-style]].",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[estilo de tag]] 6 [[estilo de tag-estilo]] [[backet]] e [[estilo de tag]]+6 [[estilo tag-estilo]] [[suporte]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]] em [[Bracket]] [[estilo de tag]] [[estilo de tag]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem [[Bracket]] do Target em 1 [[estilo de tag]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Trigger [[Bracket]]; Em seguida, reduza a contagem [[Bracket]] do Target em 1 [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "Moeda Power +1 para cada 7 [[suporte]] no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[bracket]] contagem para cada 2 ressonomia de gula. (Máx 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[[Estilo de tag]] Se a soma desta unidade e a velocidade do alvo for 6 ou mais, poder de moeda +1 [[estilo de tag]]]\nMoeda Power +1 para cada 7 [[suporte]] no alvo (máximo 2)\n[[Estilo de tag]] [[backet]] ganha 2 [[backet]] próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +1 [[bracket]] contagem para cada 2 ressonomia de gula. (Máx 3) [[estilo de tag]] [[estilo de tag]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] infligir aleatoriamente [[bracket]] igual a (velocidade desta unidade/2) entre os alvos (máximo 3) [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Estilo tag-estilo]] [[backet]] infligir aleatoriamente [[bracket]] igual a (velocidade desta unidade/2) entre os alvos (máximo 3) [[estilo de tag]]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "Se a soma desta unidade e a velocidade do alvo for 6 ou mais, poder de moeda +1\nMoeda Power +1 para cada 7 [[suporte]] no alvo (máximo 2)\n[[Bracket]] Ganhe 2 [[Bracket]] Próximo turno [[estilo de tag]] [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo de tag]] [[backet]] infligir 2 [[backet]] próximo turno [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[bracket]] contagem para cada 2 ressonomia de gula. (Máx 3) [[estilo de tag]] [[estilo de tag]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo de tag]] [[backet]] infligir aleatoriamente [[bracket]] igual à velocidade desta unidade entre os alvos (máximo 7) [[estilo de tag-estilo]]]"
+                },
+                {
+                  "desc": "[[Estilo de tag]] [[backet]] infligir aleatoriamente [[bracket]] igual à velocidade desta unidade entre os alvos (máximo 7) [[estilo de tag-estilo]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nMoeda Power +1 para cada 7 [[suporte]] no alvo (máximo 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal +1% mais danos para cada [[suporte]] no alvo (no máximo 20%)"
+                },
+                {
+                  "desc": "[[Bracket]] Deal +1% mais danos para cada [[suporte]] no alvo (no máximo 20%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\n[[Estilo de tag]] Se a soma desta unidade e a velocidade do alvo for 6 ou mais, poder de moeda +1 [[estilo de tag]]]\nMoeda Power +1 para cada 7 [[suporte]] no alvo (máximo 2)\n[[Estilo tag-estilo]] [[backet]] Gain 2 [[backet]] Next Turn [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Negância +1% mais danos para cada [[suporte]] no Target [[estilo de tag]] (máximo 30%) [[estilo de tag-estilo]]"
+                },
+                {
+                  "desc": "[[Bracket]] Negância +1% mais danos para cada [[suporte]] no Target [[estilo de tag]] (máximo 30%) [[estilo de tag-estilo]]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[[SUPORTE]]\nAlvos aleatoriamente\nSe a soma desta unidade e a velocidade do alvo for 6 ou mais, poder de moeda +1\nMoeda Power +1 para cada 7 [[suporte]] no alvo (máximo 2)\n[[Bracket]] Ganhe 2 [[Bracket]] Próxima turno\n[[Estilo tag-estilo]] [[Bracket]] A 4+ Gluttony ou Lust Reson., Ganhe +1 Peso ATK [[estilo de tag]]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] [[estilo de tag]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Estilo de tag]] [[backet]] infligir 3 [[backet]] próximo turno [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem [[estilo de tag-estilo]] [[estilo de tag]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Negância +1% mais danos para cada [[suporte]] no Target (no máximo 30%) [[estilo de tag]] [[estilo de tag-estilo]]"
+                },
+                {
+                  "desc": "[[Bracket]] Negância +1% mais danos para cada [[suporte]] no Target (no máximo 30%) [[estilo de tag]] [[estilo de tag-estilo]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

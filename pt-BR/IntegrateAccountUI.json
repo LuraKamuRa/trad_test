@@ -1,0 +1,104 @@
+{
+    "dataList": [
+        {
+            "id": "receive_integrate_account_code",
+            "content": "Enviar código de mesclagem"
+        },
+        {
+            "id": "receive_integrate_account_code_description",
+            "content": "Após receber seu código, conclua o processo antes que ele expire."
+        },
+        {
+            "id": "request_integrate_account_code",
+            "content": "Código de solicitação"
+        },
+        {
+            "id": "input_integrate_account_code",
+            "content": "Mesclar código de entrada"
+        },
+        {
+            "id": "input_code",
+            "content": "Digite o código"
+        },
+        {
+            "id": "integrate_account_code",
+            "content": "Código de fusão de contas"
+        },
+        {
+            "id": "input_integrate_account_code_description",
+            "content": "Insira seu UID e o código fornecido."
+        },
+        {
+            "id": "unable_to_integrate_account",
+            "content": "Não foi possível mesclar a conta."
+        },
+        {
+            "id": "not_exist_integrate_code",
+            "content": "O código de mesclagem não existe."
+        },
+        {
+            "id": "select_account_for_integrate",
+            "content": "Selecione uma conta para mesclar."
+        },
+        {
+            "id": "current_account",
+            "content": "Conta corrente"
+        },
+        {
+            "id": "new_account",
+            "content": "Nova conta"
+        },
+        {
+            "id": "warning_none_integrate_account_removed",
+            "content": "※ A conta não selecionada será excluída."
+        },
+        {
+            "id": "ask_to_integrate_account",
+            "content": "Mesclar dados para a conta selecionada?"
+        },
+        {
+            "id": "ask_to_integrate_account_warning",
+            "content": "Mesclar dados para a conta selecionada?"
+        },
+        {
+            "id": "receiving_integrate_account_code",
+            "content": "Enviando código…"
+        },
+        {
+            "id": "success_integrate_account_message",
+            "content": "Dados da conta mesclados com sucesso."
+        },
+        {
+            "id": "warning_before_integrate",
+            "content": "<color=red>A conta não selecionada será excluída.</color>"
+        },
+        {
+            "id": "link_error_link_failed",
+            "content": "Não é possível mesclar"
+        },
+        {
+            "id": "link_error_expired",
+            "content": "O código de mesclagem expirou."
+        },
+        {
+            "id": "link_error",
+            "content": "Falha ao integrar dados da conta.\nVocê não pode mesclar dados com uma conta da mesma plataforma ou uma conta de convidado."
+        },
+        {
+            "id": "input_unlink_account",
+            "content": "Desvincular contas"
+        },
+        {
+            "id": "alarm_unlink_account",
+            "content": "Conta desvinculada"
+        },
+        {
+            "id": "unlink_account_ask_title",
+            "content": "Desvincular contas"
+        },
+        {
+            "id": "unlink_account_ask_content",
+            "content": "Desvincule as seguintes contas.\nDepois de desvincular, você não poderá desvincular novamente por {0} dias."
+        }
+    ]
+}

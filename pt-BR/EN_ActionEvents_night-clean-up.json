@@ -1,0 +1,89 @@
+{
+  "dataList": [
+    {
+      "id": 971051,
+      "name": "",
+      "desc": "A noite se aprofunda.\n\nA luz jade brilha pela janela sob o céu noturno sem lua.\n\nEnquanto conversei com o pecador, algo parecia bloquear a luz de repente.\n\nEnquanto ficamos lá, cauteloso, alguém correu para a sala e balançou um instrumento laminado para nós.\n\nFelizmente, um pecador desembainhou uma arma para bloquear o ataque do intruso.\n\nEles devem ter decidido que a missão era um fracasso.\n\nO oponente nos encarou em silêncio por um momento antes de fugir da cena.",
+      "options": [
+        {
+          "message": "Perseguir o intruso em fuga.",
+          "messageDesc": "Execute uma verificação de vantagem de gula e orgulho para obter uma ruptura, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Basta assistir o intruso fugir.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971052,
+      "name": "",
+      "desc": "Percebemos capangas do meio em pé à distância, discutindo algo.\n\nÉ provável que eles estejam procurando um alvo que tenha se escrito em seu livro de vingança.\n\nEm nossa abordagem, eles nos param em nossas trilhas e nos mostram uma foto.\n\n\"Viu um cara assim antes?\"",
+      "options": [
+        {
+          "message": "Diga \"Acho que já o vi antes\".",
+          "messageDesc": "Execute uma verificação de vantagem de gula e orgulho para obter um presente brusco, por exemplo, um presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Diga \"Não, nunca o vi antes\".",
+          "messageDesc": "",
+          "result": [
+            "We stared back at them with blank, innocent eyes until they decided to let us go without trouble."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971053,
+      "name": "",
+      "desc": "Encontramos um interior escuro.\n\nPessoas vestidas com roupas escuras estão de pé em um grupo. Eles estão todos usando chapéus de bambu.\n\nParece que esse grupo está esperando inimigos; Eles estão ocupados se preparando para algo.\n\n\"Interceptamos a inteligência de que alguém irá atrás de nosso Senhor hoje à noite.\"\n\n\"Equipe de backup, fique aqui e espere pelo seu próximo pedido.\"\n\n\"Equipe de operação, vá para os pontos de infiltração do inimigo e prepare -se para sua chegada\".\n\n\"Vocês todos conhecem suas missões. Atenha -lhes.\"",
+      "options": [
+        {
+          "message": "Aguarde ordens.",
+          "messageDesc": "Execute uma verificação de vantagem de gula e orgulho para obter uma ruptura, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Siga a equipe de operação.",
+          "messageDesc": "Execute uma verificação de vantagem de gula e orgulho para obter uma ruptura, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971054,
+      "name": "",
+      "desc": "É aquela hora da noite em que se torna impossível adivinhar o tempo.\n\nNós saímos do ônibus para algum reconhecimento quando sinto um tremor repentino e ameaçador.\n\nEu me volto para enfrentar a origem do tremor, apenas para ver uma enorme enxurrada de varredores correndo em nossa direção, piscando com as luzes vermelhas.\n\nEles vão varrer tudo limpo em seu rastro.\n\nQuanto mais hesitamos, mais perto eles estão ficando.",
+      "options": [
+        {
+          "message": "Encontre um abrigo próximo.",
+          "messageDesc": "Execute uma verificação de vantagem de gula e orgulho para obter um presente sem palavras, por exemplo, um presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Corra para o ônibus.",
+          "messageDesc": "50% de chance de iniciar um encontro de combate. Ganhe para ganhar um presente sem palavras -chave, por exemplo.",
+          "result": [
+            "Only by sprinting back to Mephistopheles do we make it all inside.\n\nThe relentless wave of Sweepers passes by moments after we close the door behind us.",
+            "We sprint back to Mephistopheles, but it seems that we were a second too late.\n\nWe do not even have the time to turn around before the swarm overwhelmed us."
+          ]
+        }
+      ]
+    }
+  ]
+}

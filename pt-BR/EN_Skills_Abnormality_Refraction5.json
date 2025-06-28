@@ -1,0 +1,680 @@
+{
+  "dataList": [
+    {
+      "id": 863001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rear Line Fire",
+          "desc": "Esta habilidade causa +10% de dano no acerto crítico\n[[Bracket]] em 10+ [[Bracket]], potência base +1\n[[Bracket]] Ganhe 2 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Front Line Fire",
+          "desc": "Esta habilidade causa +10% de dano no acerto crítico\n[[Bracket]] em 10+ [[Bracket]], potência base +1\n[[Bracket]] Ganhe +3 [[Bracket]] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punch Through",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]]\n[[Bracket]] em 10+ [[Bracket]], potência base +1\n[[Bracket]] Power +1 para cada 5 [[suporte]] contagem em si (máximo 2)\n[[Bracket]] Essa habilidade de ataque causa +50% mais danos no acerto crítico",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                },
+                {
+                  "desc": "Esta moeda causa danos apenas contra o alvo principal."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhou em matar o aliado ou se o alvo não foi escalonado, 1 sub-alvo aleatório sofre dano"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reload, Fire",
+          "desc": "Esta habilidade causa +50% de dano no acerto crítico\n[[Bracket]] Coin Power +1 para cada 5 [[suporte]] contam com eu (máximo 3)\n[[Bracket]] Ganhe 3 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] reutilize a moeda uma vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "See Through Defenses",
+          "desc": "[[Suporte]] pela metade [[suporte]] em si mesmo\n- Qualquer [[suporte]] ganho durante este turno também é reduzido pela metade\n- Ganhe 4 [[suporte]] Próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Designated Target Fire",
+          "desc": "Ataca o alvo com [[suporte]]\nPotência de moedas +1 para cada 5 [[suporte]] em si (máximo 2)\nPower base +1 para cada 3 [[suporte]] contagem em si (máximo 3)\n[[Bracket]] Se o alvo principal não tiver [[suporte]], ganha 1 [[suporte]] e 3 [[suporte]]]\n[[Bracket]] Se o alvo for derrotado, ganhe 10 [[suporte]] e diminua o SP de todos os inimigos por 15",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Esta moeda causa danos apenas contra o alvo principal."
+                },
+                {
+                  "desc": "Se o alvo tiver [[suporte]], causar +100% mais danos"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[backet]], ganhe 10 [[suporte]] na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda não matou o alvo, 2 sub-alvos aleatórios sofrem de dano"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]] e 5 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Target Readjustment Fire",
+          "desc": "[[SUPORTE]]\n[[SUPORTE]]\nPrioriza o alvo com [[suporte]]\nSe esta unidade falhar em atacar o alvo estigmatizado, cancele essa habilidade.\nPotência de moedas +1 para cada 5 [[suporte]] em si (máximo 2)\nPower base +1 para cada 3 [[suporte]] contagem em si (máximo 3)\n[[Bracket]] Se o alvo for derrotado, ganhe 10 [[suporte]] e diminua o SP de todos os inimigos por 15",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Esta moeda causa danos apenas contra o alvo principal"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], mate o alvo"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe 10 [[Bracket]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Esta moeda causa danos apenas contra os sub-alvos\n- Se a primeira moeda falhar em matar o alvo, 1 sub-alvo aleatório sofre dano"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]] e 5 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Maul",
+          "desc": "[[Bracket]] Power final +1 para cada 4 [[suporte]] Potência em Self (Máx 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 3 [[Bracket]] Potência"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe +3 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Devastate",
+          "desc": "[[Bracket]] Power final +1 para cada 4 [[suporte]] Potência em Self (Máx 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]] Potency"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 [[Bracket]] Potency"
+                },
+                {
+                  "desc": "[[Bracket]] Ganhe +2 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Labored Breathing",
+          "desc": "[[Bracket]] Power final +1 para cada 8 [[suporte]] Potência em Self (Máx 5)\n[[Bracket]] Power +1 para cada 8 [[suporte]] contam com eu (máximo 5)\n[[Suporte]] pela metade [[suporte]] potência em si mesmo\n[[Bracket]] pela metade [[suporte]] potência e conte em si mesmo",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Deal ([[suporte]] potência)% mais danos no acerto crítico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prone",
+          "desc": "[[Bracket]] Power final +1 para cada 4 [[suporte]] Potência em Self (Máx 5)\n[[Bracket]] Ganhe 4 [[Bracket]] Potencência\n- a 50%- HP, também ganha +4 [[backet]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863212,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "That's... MINE!",
+          "desc": "[[SUPORTE]]\n[[Bracket]] Clash Power +1 para cada 4 [[suporte]] potência em si (máximo 3)\n[[Bracket]] Clash Power +1 para cada 4 [[Bracket]] contam com si mesmo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Siphons [[Bracket]] Potência e [[Bracket]] contam do alvo (máximo 6 cada)"
+                },
+                {
+                  "desc": "[[Bracket]] Sifons 1/3 do [[suporte]] potência e [[suporte]] contam com o alvo (máximo 2 cada)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863213,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Share the Pain",
+          "desc": "[[Bracket]] Power final +1 para cada 8 [[suporte]] Potência em Self (Máx 5)\n[[Bracket]] Power +1 para cada 8 [[suporte]] contam com eu (máximo 5)\n[[Bracket]] causar -75% menos danos e danos causados ​​por essa habilidade não podem escalonar o alvo\n[[Bracket]] pela metade [[suporte]] potência e conte em si mesmo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "Deal + ([[bracket]] potência + [[bracket]] contagem)% mais danos no acerto crítico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Freed from the Life of Suffering",
+          "desc": "[[Bracket]] Ganhe 2 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tenacious Wound",
+          "desc": "Se o alvo tiver 6+ [[suporte]] potência, +1 a [[suporte]] potência e contagem infligida por essa habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wound",
+          "desc": "Se o alvo tiver 6+ [[suporte]] potência, +1 a [[suporte]] potência e contagem infligida por essa habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 4 [[Bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brambles that Constrict",
+          "desc": "Se o alvo tiver 6+ [[suporte]] potência, +1 a [[suporte]] potência infligida por essa habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Polydipsic Petals",
+          "desc": "Ataca o alvo com a maior soma de [[suporte]] potência + contagem\n[[Bracket]] Se o alvo tiver 6+ [[suporte]] Potência, potência final +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ative [[Bracket]] no alvo uma vez (reduza [[bracket]] contagem por 1)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863312,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bursting Petals",
+          "desc": "Ataca o alvo com a maior soma de [[suporte]] potência + contagem\n[[Bracket]] Se o alvo tiver 6+ [[suporte]] Potência, potência final +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ative tudo [[Bracket]] no alvo (reduza completamente a contagem [[Bracket]])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863313,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Storm of Spikes",
+          "desc": "[[Bracket]] Se o alvo tiver 6+ [[suporte]] Potência, potência final +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ative [[Bracket]] no alvo uma vez (reduza [[bracket]] contagem por 1)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863314,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Polydipsic Thorn",
+          "desc": "[[Bracket]] Ganhe 3 [[Bracket]] e 2 [[Bracket]]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir +1 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863315,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Endless Spring of Blood",
+          "desc": "[[SUPORTE]]\n[[Bracket]] alvos que se chocam contra essa habilidade não perdem a contagem [[suporte]] enquanto conflitam",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ative [[Bracket]] no alvo uma vez e consome imediatamente [[Bracket]] gerado pelo dano [[bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ative [[Bracket]] no alvo uma vez e consome imediatamente [[Bracket]] gerado pelo dano [[bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[SUPORTE]]"
+                },
+                {
+                  "desc": "[[Bracket]] Ative [[Bracket]] no alvo uma vez e consome imediatamente [[Bracket]] gerado pelo dano [[bracket]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863316,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nutrient Craving",
+          "desc": "Ativa a 100+ [[suporte]]\n[[Bracket]] consome até 100 [[Bracket]] para ativar os seguintes efeitos:\n- Cure o núcleo e o corpo peças do HP por [[suporte]] consumido\n- Ganho 1 [[suporte]] Próximo turno para cada 20 [[suporte]] consumido",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863317,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brambles that Yearn",
+          "desc": "[[Bracket]] consome até 100 [[Bracket]] para ativar os seguintes efeitos:\n- Cure o núcleo e o corpo peças do HP por [[suporte]] consumido\n- Essa habilidade ganha energia final +1 para cada 20 [[suporte]] consumido\n[[Bracket]] Power final -5\n[[Bracket]] Se essa habilidade consumiu menos de 30 [[suporte]], ganhe 2 [[suporte]] Próxima turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

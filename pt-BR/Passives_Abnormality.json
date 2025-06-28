@@ -1,0 +1,631 @@
+{
+    "dataList": [
+        {
+            "id": 800101,
+            "name": "An Apple’s Twilight",
+            "desc": "Quando a fruta é destruída, todas as partes são infligidas com 2 frágeis.\nA fruta se regenera após 1 turno.",
+            "summary": "Quando a fruta for destruída, aplique 2 frágeis a todas as partes"
+        },
+        {
+            "id": 800102,
+            "name": "NOT FOR DISPLAY1",
+            "desc": "Depois que a cabeça se regenera uma vez, levar o HP da cabeça para 50% inicia um prompt de escolha."
+        },
+        {
+            "id": 800103,
+            "name": "NOT FOR DISPLAY2",
+            "desc": "No início do turno 3, é iniciado um prompt de escolha em que você pode remover o efeito da haste verde."
+        },
+        {
+            "id": 800104,
+            "name": "Entangling Roots",
+            "desc": "No início do turno, infligir 1 se liga a todos os inimigos.\nIsso dura até que as raízes sejam quebradas.",
+            "summary": "Infligir 1 se liga a todos os inimigos até que as raízes sejam quebradas"
+        },
+        {
+            "id": 800105,
+            "name": "One Sole Root",
+            "desc": "As raízes ganham 2 ataques de ataque para cada braço intacto."
+        },
+        {
+            "id": 800201,
+            "name": "Let the Blood Festival Flow",
+            "desc": "A batalha prossegue para a próxima fase depois que todos os bonecos de barro são derrotados."
+        },
+        {
+            "id": 800202,
+            "name": "DON'T LET THE KIDS READ THIS",
+            "desc": "No início do turno 2 na fase 2, o prompt de escolha 1 é iniciado."
+        },
+        {
+            "id": 800203,
+            "name": "Let the Fire Festival Ignite",
+            "desc": "Se ambos os braços forem destruídos ou o HP do corpo principal for levado para 70%, a batalha prossegue para a próxima fase."
+        },
+        {
+            "id": 800204,
+            "name": "Frenzy",
+            "desc": "Durante a fase 3\nNo início do turno, infligir 3 queima em todos os inimigos."
+        },
+        {
+            "id": 800205,
+            "name": "NOT FOR DISPLAY",
+            "desc": "Quando a HP é levada para 60%, o prompt de escolha 2 é iniciado."
+        },
+        {
+            "id": 800206,
+            "name": "Let the Star Festival Fall",
+            "desc": "Quando a HP é levada para 25%, a batalha prossegue para a próxima fase."
+        },
+        {
+            "id": 800207,
+            "name": "NOT FOR DISPLAY",
+            "desc": "No início do turno 2 na Fase 4, o prompt de escolha 3 é iniciado."
+        },
+        {
+            "id": 800301,
+            "name": "Idolatry",
+            "desc": "Não morre a 0 hp; Em vez disso, permanece no palco como uma unidade imóvel e não alimentar.\nSuprimido quando o calendário do dia do juízo final é suprimido."
+        },
+        {
+            "id": 800801,
+            "name": "Cracked Gold",
+            "desc": "Cura a HP cada turno com base na quantidade de brilho dourado."
+        },
+        {
+            "id": 800901,
+            "name": "",
+            "desc": ""
+        },
+        {
+            "id": 800902,
+            "name": "Frail Core",
+            "desc": "Quando a cabeça é destruída, todas as peças são infligidas com imobilizar na próxima curva.\nA cabeça se regenera após 1 turno."
+        },
+        {
+            "id": 800903,
+            "name": "Rotting Apple",
+            "desc": "Depois que o corpo é destruído, todas as peças são infligidas com 2 energia de ataque a cada turno."
+        },
+        {
+            "id": 800904,
+            "name": "NOT FOR DISPLAY",
+            "desc": "Não é para exibição"
+        },
+        {
+            "id": 801001,
+            "name": "Upgrade Factory at Work",
+            "desc": "Quando esta unidade é derrotada, ela revive a próxima curva e ganha 1 cirurgia."
+        },
+        {
+            "id": 801002,
+            "name": "You Must Become Strong",
+            "desc": "No início do turno, ganhe 1 proteção."
+        },
+        {
+            "id": 801201,
+            "name": "You Must Become Strong",
+            "desc": "No início do turno, ganhe 2 proteção."
+        },
+        {
+            "id": 801301,
+            "name": "Wavering Desires",
+            "desc": "Enquanto desejosos, a unidade ganha 2 se liga frágeis e 10, ganha 1 slot de habilidade e muda o comportamento."
+        },
+        {
+            "id": 801302,
+            "name": "Ensnaring Desires",
+            "desc": "A unidade se torna desejável toda vez que perde 30% de seu HP."
+        },
+        {
+            "id": 801904,
+            "name": "Shuddering Terror",
+            "desc": "Ganhe 1 proteção para cada aliado que morreu nesta onda. (Máx. 5.)"
+        },
+        {
+            "id": 802401,
+            "name": "Pulsating Arms",
+            "desc": "No início do turno, ganhe o ataque de ataque e proteção pela contagem de instintos."
+        },
+        {
+            "id": 802402,
+            "name": "Damaged Arms",
+            "desc": "Perca 1 instintos sempre que a unidade sofre danos causados ​​por ataques."
+        },
+        {
+            "id": 802403,
+            "name": "Regenerating Shell",
+            "desc": "No final do turno, se a unidade não sofreu nenhum dano por ataques durante o turno, cure 5% de HP e obtenha 1 instintos."
+        },
+        {
+            "id": 802404,
+            "name": "Frantic Eyes",
+            "desc": "O comportamento depende da contagem de instintos.\nUsa habilidades agressivas em +4 instintos e se torna defensivo em 3 ou menos."
+        },
+        {
+            "id": 802501,
+            "name": "Amplified Aggression",
+            "desc": "Quando atingido por um ataque, ganhe 1 instintos.\nSe a unidade tiver +4 instintos no final do turno, entre em um estado de frenesi."
+        },
+        {
+            "id": 802502,
+            "name": "Frenzy",
+            "desc": "No estado de frenesi, a unidade ganha 3 ataques de ataque e 3 frágeis, muda o comportamento e não ganha instintos por serem atacados."
+        },
+        {
+            "id": 802503,
+            "name": "Shimmering Rage",
+            "desc": "Em menos de 50% HP, entra em frenesi a cada turno."
+        },
+        {
+            "id": 802701,
+            "name": "Amplified Aggression",
+            "desc": "Quando atingido por um ataque, ganhe 1 instintos.\nSe a unidade tiver +4 instintos no final do turno, entre em um estado de frenesi."
+        },
+        {
+            "id": 802702,
+            "name": "Frenzy",
+            "desc": "No estado de frenesi, a unidade ganha 3 ataques de ataque e 3 frágeis, muda o comportamento e não ganha instintos por serem atacados."
+        },
+        {
+            "id": 802801,
+            "name": "Rotting Skin",
+            "desc": "No início do turno, se em menos de 50% hp, infligir 3 veneno quando atacado."
+        },
+        {
+            "id": 802802,
+            "name": "Molt",
+            "desc": "Depois que esta parte é quebrada, se o outro braço não for quebrado no final do turno seguinte, esta parte se regenera com o mesmo HP que ele."
+        },
+        {
+            "id": 802803,
+            "name": "Pained Writhing",
+            "desc": "Quando os dois braços estão quebrados, a unidade ganha 5 frágeis e inflige 10 veneno a todos os inimigos a cada turno."
+        },
+        {
+            "id": 802804,
+            "name": "Wriggling Instincts",
+            "desc": "O comportamento depende da contagem de instintos.\nUsa habilidades agressivas em +4 instintos e se torna defensivo em 0."
+        },
+        {
+            "id": 803302,
+            "name": "Severed Arm",
+            "desc": "Quando o braço é quebrado, a unidade ganha 5 frágeis a cada turno."
+        },
+        {
+            "id": 802901,
+            "name": "Fearsome Whistles",
+            "desc": "Se você coletou menos de 3 de um sinal, Sinclair é infligido com 1 Bind e paralisa cada turno."
+        },
+        {
+            "id": 802902,
+            "name": "Courage to Triumph Fear",
+            "desc": "Se você coletou 3 ou mais um sinal, Sinclair ganha 1 ataque de ataque e 2 proteção a cada turno."
+        },
+        {
+            "id": 802903,
+            "name": "You Must Accept the Pain!",
+            "desc": "No início do turno, se a parte ininterrupta tiver sangramento ou queimar, curar 15% do máximo de HP e ganhar 3 ataques de ataque.\nOs efeitos de cura e status obtidos são reduzidos com base no número de um sinal, até 0."
+        },
+        {
+            "id": 802904,
+            "name": "Bliss of Execution",
+            "desc": "Depois de derrotar um inimigo, ganhe 2 pressa e 5 danos no próximo turno."
+        },
+        {
+            "id": 803001,
+            "name": "Overflowing Ecstasy",
+            "desc": "Começando com a curva 3, fica em êxtase a cada 2 voltas."
+        },
+        {
+            "id": 803002,
+            "name": "Blooming Purity",
+            "desc": "Se o principal corpo de Kromer é trazido para 50% HP, ela ganha pureza para as reviravoltas restantes."
+        },
+        {
+            "id": 803003,
+            "name": "Flawless Flesh",
+            "desc": "Quando o braço é quebrado, a parte é infligida com 2 energia de ataque."
+        },
+        {
+            "id": 803101,
+            "name": "Blood Sac",
+            "desc": "A resistência à ira aumenta.\nA resistência da escuridão diminui."
+        },
+        {
+            "id": 803102,
+            "name": "Fluid Sac",
+            "desc": "Enquanto o status do saco de fluido está ativo, o núcleo cura (contagem de saco de 20 * fluido) hp."
+        },
+        {
+            "id": 803103,
+            "name": "Boiling Blood",
+            "desc": "Se o corpo estiver quebrado enquanto o saco sanguíneo estiver ativo, todos os inimigos sofrem 20 danos fixos."
+        },
+        {
+            "id": 803201,
+            "name": "Lightning Rod",
+            "desc": "Quando o poste telefônico for atingido, inflige o choque 2 no atacante nesta curva.\nCom mais de 5 relâmpagos, todas as peças infligirão 3 choque ao invasor, começando no próximo turno.\n(Dura até o alcance do raio 0.)\nQuando atingido por um ataque preguiçoso, a quantidade de choque infligida é reduzida pela metade. (Arredondado.)"
+        },
+        {
+            "id": 803202,
+            "name": "Lightning",
+            "desc": "Enquanto o poste telefônico não estiver quebrado, ganhe 1 raio após um ataque.\nSempre que o poste telefônico é atingido por um ataque, perca 1 raio."
+        },
+        {
+            "id": 803203,
+            "name": "Breaking Pieces",
+            "desc": "Quando o poste telefônico estiver escalonado ou quebrado, perca todo o raio.\nTodos os ataques do cão de vigilância do Alleyway serão então cancelados durante a curva."
+        },
+        {
+            "id": 803401,
+            "name": "Bongy Chicken Struts",
+            "desc": "No final do turno, causar danos causados ​​por 3 SP a um inimigo aleatório."
+        },
+        {
+            "id": 803701,
+            "name": "Bongy Chicken Beefs Up",
+            "desc": "No final do turno, aplique 2 danos e 2 proteção a todos os aliados no próximo turno."
+        },
+        {
+            "id": 803901,
+            "name": "Vigorous Volaille",
+            "desc": "No final do turno, cure 5 hp para cada frango cru em batalha."
+        },
+        {
+            "id": 803902,
+            "name": "Gloomy Gallus",
+            "desc": "No final do turno, causar danos causados ​​por 5 SP a todos os inimigos para cada frango cru em batalha."
+        },
+        {
+            "id": 803903,
+            "name": "Fragile Fowl",
+            "desc": "Quando uma peça quebra, ganhe 1 frágil a cada turno para cada frango cru que morreu antes que a parte fosse quebrada."
+        },
+        {
+            "id": 803904,
+            "name": "Powerful Poussin",
+            "desc": "Se a peça não estiver quebrada, ganhe 1 dano para cada frango cru."
+        },
+        {
+            "id": 804101,
+            "name": "Expanding Sorrow",
+            "desc": "No final do turno, se a unidade tiver mais de 3 tristes não resolvidas, gerará uma cabeça no próximo turno e muda de comportamento."
+        },
+        {
+            "id": 804102,
+            "name": "Inconsolable Sorrow",
+            "desc": "No final do turno, se a unidade tiver mais de 3 tristes não resolvidas e a cabeça estiver quebrada, ficará escalonado no próximo turno."
+        },
+        {
+            "id": 804103,
+            "name": "Taken by the Horns",
+            "desc": "Quando a cabeça é escalonada, todas as peças ficam escalonadas na próxima curva."
+        },
+        {
+            "id": 804104,
+            "name": "Downed by the Horns",
+            "desc": "Quando a cabeça está quebrada, todas as peças ficam escalonadas na próxima curva. Depois, todas as partes têm 3 ataques de ataque durante a duração da batalha."
+        },
+        {
+            "id": 804501,
+            "name": "Living Nerves",
+            "desc": "Após a morte, todas as habilidades são canceladas para o turno.\nAtualmente, duplas possuíam auto-carregamento."
+        },
+        {
+            "id": 804502,
+            "name": "Motioning Nerves",
+            "desc": "Depois de morrer, as habilidades de ataque gastam 1 carregar.\nAtaca os inimigos até que a auto-acusação acabe."
+        },
+        {
+            "id": 804503,
+            "name": "Undying Persistence",
+            "desc": "A cada 5 voltas, ganha um escudo igual ao HP da cabeça."
+        },
+        {
+            "id": 804504,
+            "name": "Terminated Persistence",
+            "desc": "Depois de usar 'bobina', se o escudo estiver esgotado, gaste a auto-carga.\nTodas as partes ficam escalonadas na próxima curva."
+        },
+        {
+            "id": 804601,
+            "name": "Broken Umbrella",
+            "desc": "Depois que as costas estão quebradas, ganhe 3 frágeis a cada turno. Infligir +2 ruptura."
+        },
+        {
+            "id": 804602,
+            "name": "Ragged Umbrella",
+            "desc": "Depois que o guarda -chuva da cabeça é quebrado, ganhe 5 anos de ataque a cada turno. Infligir +2 naufrágio."
+        },
+        {
+            "id": 804603,
+            "name": "Last Struggle",
+            "desc": "A 15% HP, a velocidade da unidade é fixada em 1 e ganha 1 ataque de ataque.\nOs velhos guarda -chuvas recém -gerados têm 30% mais HP. Usa 'gritos que procuram algo' a cada turno."
+        },
+        {
+            "id": 804701,
+            "name": "Spreading Ember",
+            "desc": "No final do turno, se esta unidade tiver queimar, infligir a mesma quantia a todas as unidades com o talismã de maldição emaranhado no próximo turno"
+        },
+        {
+            "id": 804702,
+            "name": "Broken Means",
+            "desc": "Quando o braço está quebrado, ele causa -20% de dano"
+        },
+        {
+            "id": 804801,
+            "name": "Booze Makes You Hicc!",
+            "desc": "Depois de usar 'eu vou ter isso!' Em inimigos com mais de 5 anos e pousando com sucesso o ataque, ficam escalonados."
+        },
+        {
+            "id": 804802,
+            "name": "Stimulating Smell, Isn't It?",
+            "desc": "Um cheiro misterioso de dentro de dentro aumenta o espírito.\nUm pecador aleatório ganha 5 impulso moral no início da onda."
+        },
+        {
+            "id": 805201,
+            "name": "Old and Abandoned",
+            "desc": "Quando esta unidade é derrotada, o pecador que a derrotou ganha 2 pressa no próximo turno.\nTodas as partes da raposa à deriva são infligidas com 2 lascas de ligação e 1 guarda -chuva."
+        },
+        {
+            "id": 804301,
+            "name": "Perilous Mind",
+            "desc": "No final de cada turno, perca 10 sp."
+        },
+        {
+            "id": 804302,
+            "name": "Perilous Heart",
+            "desc": "Enquanto estiver em baixo moral, ganha 2 ataques de ataque e 3 se ligam."
+        },
+        {
+            "id": 804303,
+            "name": "Faltering Heart",
+            "desc": "Em pânico, fique escalonado."
+        },
+        {
+            "id": 804304,
+            "name": "Determination",
+            "desc": "Ao se recuperar do pânico, curar totalmente o SP e obter 2 pressa e 2 ataques de ataque."
+        },
+        {
+            "id": 804305,
+            "name": "Lobotomy E.G.O",
+            "desc": "Começa a batalha com 1200 Shield HP"
+        },
+        {
+            "id": 805301,
+            "name": "Walled Heart",
+            "desc": "Sempre que esta unidade é quebrada, Dongbaek é infligido com +5 de caráter de naufrágio, e todos os pecadores perdem 2 contagem de naufrágio; Todos os pecadores ganham 1 proteção e 2 ataques de ataque no próximo turno."
+        },
+        {
+            "id": 804401,
+            "name": "Into Full Bloom",
+            "desc": "No início do turno 5, desova 4 flores em breve com 3 crescendo"
+        },
+        {
+            "id": 804402,
+            "name": "Flowering Mind",
+            "desc": "Quando a HP cai para 50%, prossegue para a próxima fase. A HP não fica abaixo de 50% até que a fase mude."
+        },
+        {
+            "id": 804403,
+            "name": "Dueling",
+            "desc": "Quando a HP cai abaixo de 50%, usa uma habilidade especial para segmentar 1 unidade e depois se torna imune para cambalear e entrar em pânico para as próximas 2 voltas.\nSe Yi Sang tem 'duelo', Dongbaek ganha 1 ataque de ataque.\nSe Yi cantou vence o duelo, todos os aliados ganham 3 danos no próximo turno.\nSe Dongbaek vencer o duelo, Dongbaek cura totalmente sp."
+        },
+        {
+            "id": 804404,
+            "name": "Cost of Blooming",
+            "desc": "Se 'magnífica brisa da primavera' perder em um confronto, perca 10 sp"
+        },
+        {
+            "id": 805401,
+            "name": "Growing Flower",
+            "desc": "Aparece com 1 crescimento"
+        },
+        {
+            "id": 804901,
+            "name": "나오면 안되는 텍스트 (번역 x)",
+            "desc": "Texto que não deve sair (tradução x)"
+        },
+        {
+            "id": 804902,
+            "name": "나오면 안되는 텍스트 (번역 x)",
+            "desc": "Texto que não deve sair (tradução x)"
+        },
+        {
+            "id": 804903,
+            "name": "Self Destruction",
+            "desc": "Todas as habilidades têm como objetivo indiscriminadamente. Com cada habilidade usada, esta unidade perde 2% de HP máx."
+        },
+        {
+            "id": 804904,
+            "name": "Self Salvation",
+            "desc": "Os efeitos de cicatrização da HP curam o dobro."
+        },
+        {
+            "id": 805601,
+            "name": "Radiant Vanity",
+            "desc": "Enquanto esta unidade está presente, Dongrang ganha 1 proteção e 1 ataque de ataque no início de cada turno."
+        },
+        {
+            "id": 805602,
+            "name": "Earnest Accomplishment",
+            "desc": "Embora esta unidade tenha realização sincera, os seguintes efeitos se aplicam:\n- Só pode ser derrotado com os ataques de Dongrang.\n- Se um pecador derruba o HP desta unidade para 1, o pecador cura HP, e esta unidade ganha honra vazia.\n- Se Dongrang derrotar esta unidade, Dongang cura a HP e eleva o próximo turno."
+        },
+        {
+            "id": 805603,
+            "name": "Empty Honor",
+            "desc": "Embora esta unidade tenha honra vazia, os seguintes efeitos se aplicam:\n- Só pode ser derrotado com os ataques de Dongrang.\n- Se Dongrang derrotar esta unidade, Dongrang perde HP, ganha 1 vazio e está enfraquecido na próxima curva"
+        },
+        {
+            "id": 805701,
+            "name": "Borne Fruition",
+            "desc": "A unidade que derrotou esta unidade cura 5% do máximo de HP e ganha 1 pressa e 1 ataque Power Up no próximo turno"
+        },
+        {
+            "id": 805001,
+            "name": "Toward the Ideal",
+            "desc": "Quando a HP é levada para 85% e 50% do máximo de HP, respectivamente, gera 2 árvores de desejos e muda o comportamento."
+        },
+        {
+            "id": 806001,
+            "name": "Radiant Desire",
+            "desc": "Enquanto esta unidade está presente, Dongrang ganha 1 dano para cima e 1 proteção no início de cada turno."
+        },
+        {
+            "id": 805004,
+            "name": "Price of Neglect",
+            "desc": "Se 'tempo da colheita' perder em um confronto, perca 5 sp"
+        },
+        {
+            "id": 805005,
+            "name": "Bitter Smile",
+            "desc": "Quando estiver em pânico, ganhe 2 proteção e redefina o SP para 0 no início do próximo turno."
+        },
+        {
+            "id": 805006,
+            "name": "Inefficient Judgement",
+            "desc": "Ao se recuperar de escalonamento, ganhe 1 ataque de ataque."
+        },
+        {
+            "id": 805007,
+            "name": "Exhausting Endeavor",
+            "desc": "Depois de usar a habilidade, seja meu nutriente três vezes, fique escalonado no próximo turno."
+        },
+        {
+            "id": 805002,
+            "name": "Toward the Ideal",
+            "desc": "Quando a HP é levada para 85% do máximo de HP, gera 2 árvores de desejos e muda o comportamento."
+        },
+        {
+            "id": 805003,
+            "name": "Toward the Ideal",
+            "desc": "Quando o HP é levado para 50% do máximo de HP, gera 2 árvores de desejos e muda o comportamento."
+        },
+        {
+            "id": 805801,
+            "name": "Fairy Lure",
+            "desc": "Quando a fada é atacada, apenas essa parte perde a HP."
+        },
+        {
+            "id": 805802,
+            "name": "Exposed Base",
+            "desc": "Quando a parte das fadas é quebrada, as raízes podem ser atacadas no próximo turno.\nTodas as peças ganham 1 ataque de ataque, 2 bind e 3 frágeis na próxima curva."
+        },
+        {
+            "id": 805803,
+            "name": "Spare Lure",
+            "desc": "A fada regenera a curva após a exposição das raízes. (Apenas uma vez)\nDepois que as raízes são expostas 3 vezes ou destruídas, a unidade está enfurecida."
+        },
+        {
+            "id": 805804,
+            "name": "Discovered Weakness",
+            "desc": "Se a fada tem tremor, leva danos à sua potência no final do turno. (Máx 20)"
+        },
+        {
+            "id": 805805,
+            "name": "Connected Weakness",
+            "desc": "Se a parte tiver queimar, leva mais danos com base em sua potência. (Máximo +15%)"
+        },
+        {
+            "id": 805901,
+            "name": "Manufactured Respite",
+            "desc": "Se o trevo gigante estiver presente, esta unidade cura 30 hp no final do turno."
+        },
+        {
+            "id": 805902,
+            "name": "Lost Means",
+            "desc": "Quando o braço é quebrado, a unidade ganha 2 ataques de ataque a cada turno."
+        },
+        {
+            "id": 805903,
+            "name": "Damaged Shade",
+            "desc": "Quando a cabeça é quebrada, a unidade ganha 4 nível de defesa e 1 frágil a cada turno."
+        },
+        {
+            "id": 806201,
+            "name": "Contaminating Leaf",
+            "desc": "No início do turno, dê um impulso de cura de 1 hp e 1 ataque de ataque até as pernas de fadas."
+        },
+        {
+            "id": 80620101,
+            "name": "Contaminating Leaf",
+            "desc": "No início do turno, dê um impulso de cura de 1 hp e 1 ataque de ataque até as pernas de fadas."
+        },
+        {
+            "id": 826301,
+            "name": "Momentary Satiation",
+            "desc": "Turn End: Se o aliado com[PreparedMeat]está em 1 hp, mate o aliado; Então, todas as peças ganham 5[Vulnerable], Assim,[Reduction], e[Disarming]."
+        },
+        {
+            "id": 826302,
+            "name": "Ravening Hunger",
+            "desc": "Vire o início: se houver aliados sobreviventes a 25%- HP, mate todos os aliados.\nHeal (# de aliados matou x 5)% do Max Core HP.\nTurn End: Se não houver aliados sobreviventes, ganhe 20[Enhancement]Próximo turno."
+        },
+        {
+            "id": 826303,
+            "name": "Torn Arm",
+            "desc": "Quando um braço é quebrado, o corpo ganha 5 sangramentos a cada passo do início."
+        },
+        {
+            "id": 826304,
+            "name": "Invitation to a Meal",
+            "desc": "Turn End: Todos os pecadores curam 10 sp e ganham +1, por exemplo, recurso para todas as afinidades"
+        },
+        {
+            "id": 826501,
+            "name": "Empty Belly",
+            "desc": "Turn End: Se o aliado com[PreparedMeat]é escalonado, mate o aliado."
+        },
+        {
+            "id": 826502,
+            "name": "Bottomless Hunger",
+            "desc": "Depois de derrotar um aliado, cure 20 núcleo HP; Então, ganhe 1[Vulnerable]Próximo turno."
+        },
+        {
+            "id": 826503,
+            "name": "Hunger",
+            "desc": "Turn End: Se esta unidade falhou em derrotar um aliado com carne preparada, ganhe 1[Hunger]. A 75%- hp, ganha 2. A 50%- hp, ganho 3.\nStart Start: Se esta unidade derrotou um aliado com carne preparada, perca 1[Hunger]."
+        },
+        {
+            "id": 826504,
+            "name": "Momentary Satiation",
+            "desc": "Turn End: AT[Hunger], Gain (Aliados derrotaram este turno x 3)[AttackDown]e[DefenseDown]."
+        },
+        {
+            "id": 826505,
+            "name": "Ravening Hunger",
+            "desc": "Turn End: às 4[Hunger], ganhe um padrão mais forte."
+        },
+        {
+            "id": 811801,
+            "name": "Returning Past",
+            "desc": "Se em mais de 50 anos[AccumulatedPastMirror], e se a HP do Core for menor ou igual a 80%, o núcleo ganha 200 hp gastando 50[AccumulatedPastMirror]no final da curva"
+        },
+        {
+            "id": 811802,
+            "name": "Misplaced Past",
+            "desc": "Quando o corpo estiver quebrado, gaste todo o passado acumulado.\nQuando o corpo é quebrado, todos os tipos de ataque e afinidades se tornam ineficazes (0,5) contra o corpo, começando no próximo turno até o final deste encontro."
+        },
+        {
+            "id": 811808,
+            "name": "Metronome",
+            "desc": "Se o[AccumulatedPastMirror]é um número ímpar, ganha 3[Vulnerable]e[AttackDmgUp]Se for um número par, ganhe 3[Protection]e[AttackDmgDown]"
+        },
+        {
+            "id": 826401,
+            "name": "Care",
+            "desc": "Turn Start: Heal 15% de Max HP"
+        },
+        {
+            "id": 826402,
+            "name": "Keep It Fresh",
+            "desc": "HP não cai abaixo de 1"
+        },
+        {
+            "id": 814201,
+            "name": "Dueling",
+            "desc": "Quando a HP cai abaixo de 50%, usa uma habilidade especial para segmentar 1 unidade e depois se torna imune para cambalear e entrar em pânico para as próximas 2 voltas.\nSe Yi Sang tem 'duelo', Dongbaek ganha 1 ataque de ataque.\nSe Yi cantou vence o duelo, todos os aliados ganham 3 danos no próximo turno.\nSe Dongbaek vencer o duelo, Dongbaek cura totalmente sp."
+        }
+    ]
+}

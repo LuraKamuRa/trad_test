@@ -1,0 +1,528 @@
+{
+    "dataList": [
+        {
+            "id": 827701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Are You Afraid?",
+                    "desc": "Quando entrar[TimeAcceleration]Estado, poder de conflito +1[DefeatDuel]A 75%- HP, consuma 50[LimitedTime]e ganha 1[Protection](uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Punishment For Time Killers",
+                    "desc": "Quando entrar[TimeAcceleration]Estado, poder de conflito +2[WhenUse]A 500+[LimitedTime], infligir +1[Laceration]Contar[WhenUse]A 300+[LimitedTime], consuma 25[LimitedTime]e infligir +1 mais[Laceration]Potência e conte com esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Extraction",
+                    "desc": "Quando entrar[TimeAcceleration]Estado, poder da moeda +1[DefeatDuel]A 75%- HP, consuma 50[LimitedTime]e ganho de poder de conflito +2 (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mutilate",
+                    "desc": "[DefeatDuel]A 75%- HP, consuma 75[LimitedTime]e ganhar poder de conflito +2[BeforeAttack]Quando entrar[TimeAcceleration]Estado, ganhe +1 Peso ATK",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Time to be Saved",
+                    "desc": "[CantDuel]Infligir[TimeKillerWatch]contra o alvo que usou uma habilidade de ataque contra esta unidade[StartBattle]Consuma 200[LimitedTime]e ganho[TimeAcceleration]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[WhenUse]Potência base +1 para cada 100[LimitedTime]em si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Are You Afraid?",
+                    "desc": "Quando entrar[TimeAcceleration]Estado, poder de conflito +1[DefeatDuel]A 75%- HP, consuma 50[OwnTime]e ganha 1[Protection](uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Punishment For Time Killers",
+                    "desc": "Quando entrar[TimeAcceleration]Estado, poder de conflito +2[WhenUse]A mais de 500 soma de[OwnTime]Em todas as partes, infligir +1[Laceration]Contar[WhenUse]A mais de 300 soma de[OwnTime], consuma 25[OwnTime]e infligir +1 mais[Laceration]Potência e conte com esta habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Extraction",
+                    "desc": "Quando entrar[TimeAcceleration]Estado, poder da moeda +1[DefeatDuel]A 75%- HP, consuma 50[OwnTime]e ganho de poder de conflito +2 (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mutilate",
+                    "desc": "[DefeatDuel]A 75%- HP, consuma 75[OwnTime]e ganhar poder de conflito +2[BeforeAttack]Quando entrar[TimeAcceleration]Estado, ganhe +1 Peso ATK[BeforeAttack]A 60%- HP, consuma 10[OwnTime]e ganhar +1 peso ATK",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Time to be Saved",
+                    "desc": "[CantDuel]Infligir[TimeKillerWatch]contra o alvo que usou uma habilidade de ataque contra esta unidade[StartBattle]Consuma 200[OwnTime]e ganho[TimeAcceleration]próximo turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827806,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[WhenUse]Potência base +1 para cada 100 soma de[OwnTime]em todas as partes",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827807,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Timekilling Time",
+                    "desc": "[CantDuel]A velocidade desta unidade é fixada em 12.\nNão pode ser escalonado nesta vez.[WhenUse]Consumir[OwnTime]400.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Apague o tempo do alvo. Uma vez que esta unidade apaga o tempo do alvo, todas as peças se recuperam[OwnTime]para seus valores máximos e ganhe 10 pressa e 10 ataques de ataque na próxima curva."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tick",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tock",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ticktick-Tock",
+                    "desc": "[WhenUse]Se o alvo tiver 5+[Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 queimadura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tock",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827707,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "My...",
+                    "desc": "[DefeatDuel]Ganho 1[Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827708,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Running Out of Time",
+                    "desc": "[DefeatDuel]Ganho 1[Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 827808,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "We Need More Time!",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

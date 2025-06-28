@@ -1,0 +1,88 @@
+{
+    "dataList": [
+        {
+            "id": 971038,
+            "name": "",
+            "desc": "Em meio a esse lugar cheio de aura azul, um ser sombrio se aproxima de nós e estende a mão.\n\nNa palma do ser há uma bala. Ela pulsa com uma aura agourenta.\n\n'Esta é uma bala mágica que nunca errará, não importa o que aconteça.'\n\n'Mas... tem uma condição. A bala final sempre voará em direção a quem você mais ama.'\n\n'Se você ainda estiver disposto a disparar esta bala, ou tiver alguém que gostaria de atirar... eu posso lhe conceder isso.'",
+            "options": [
+                {
+                    "message": "Expresse dúvida.",
+                    "messageDesc": "Execute um teste de Vantagem de Orgulho e Inveja para ganhar um Presente E.G.O. sem Palavra-chave.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Expressar disposição de dar o tiro eu mesmo.",
+                    "messageDesc": "Execute um teste de Vantagem de Ira e Orgulho para ganhar um Presente E.G.O. de Perfuração.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971039,
+            "name": "",
+            "desc": "Tiros ecoam de perto.\n\nQuando procuramos o som, encontramos apenas os restos sangrentos de uma batalha.\n\nOs combatentes já devem ter deixado a cena; está quieto aqui.\n\nVárias engrenagens, agora inertes, cobrem o chão ensanguentado.\n\nNo meio delas, há uma cadeira intacta.\n\nHá uma engrenagem na cadeira que ainda está girando.",
+            "options": [
+                {
+                    "message": "Sente-se.",
+                    "messageDesc": "Execute um teste de Vantagem de Orgulho e Inveja para ganhar um Dom de Equilíbrio E.G.O.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Passe por ele.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971040,
+            "name": "",
+            "desc": "Nós nos encontramos no que parecia ser um prédio de escritórios bastante vazio.\n\nHavia Fixers aqui, discutindo os detalhes de seu próximo contrato.\n\n\"Entendi. Levaremos apenas dois rifles de precisão para este contrato.\"\n\n\"Eu diria que precisamos de um rifle de assalto, só por precaução.\"\n\n\"Por mim, tudo bem.\"\n\nAssim que a discussão terminou, os Fixers pegaram suas mochilas e saíram da sala.",
+            "options": [
+                {
+                    "message": "Observe a mesa.",
+                    "messageDesc": "Execute um teste de Vantagem de Orgulho e Inveja para ganhar um Presente Pierce E.G.O.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Siga-os para fora.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971041,
+            "name": "",
+            "desc": "Posso ouvir os sons de montagem de armas e páginas de livros sendo viradas.\n\nEste lugar parece ser uma espécie de instalação educacional. Bem sério também.\n\nTalvez os Sinners possam aprender algo com um dos instrutores.",
+            "options": [
+                {
+                    "message": "Aprenda CQB.",
+                    "messageDesc": "Execute um teste de Vantagem de Ira e Luxúria para ganhar um Dom de Equilíbrio E.G.O.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Aprenda a arte da guerra.",
+                    "messageDesc": "Execute um teste de Vantagem de Ira e Inveja para ganhar um Dom E.G.O. sem Palavra-chave.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

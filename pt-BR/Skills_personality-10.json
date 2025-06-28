@@ -1,0 +1,1209 @@
+{
+    "dataList": [
+        {
+            "id": 1100701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fierce Assault",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +1 contagem de tremores"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +1 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Fierce Assault",
+                    "desc": "Aos mais de 10 trêmulos, poder de moeda +1",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +2 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de tremores"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +2 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +1 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fierce Assault",
+                    "desc": "Aos mais de 10 trêmulos, poder de moeda +1",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +2 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de tremores"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhar +2 contagem de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Steady...",
+                    "desc": "[WhenUse]Ganhar +2 contagem de tremores",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Steady...",
+                    "desc": "[WhenUse]Ganhe +4 contagem de tremores",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Steady...",
+                    "desc": "[WhenUse]Ganhe +6 contagem de tremores",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100703,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Gamble",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Com mais de 10 anos, gaste toda a contagem de tremores para infligir alvo com a mesma quantidade de contagem de tremores[OnSucceedAttack]Com menos de 10 trêmulos, ganhe 6 tremor e desencadeie o tremor explodido em si mesmo\nCausar danos contundentes iguais ao tremor do tremor"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Gamble",
+                    "desc": "Power de moedas +1 para cada 10 tremor contagem consigo mesmo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Com mais de 10 anos, gaste toda a contagem de tremores para infligir alvo com a mesma quantidade de contagem de tremores[OnSucceedAttack]Com menos de 10 tremores, ganhe 10 tremor e desencadeie o tremor explodido em si mesmo\nCausar danos contundentes iguais ao tremor do tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crab Bastards...!",
+                    "desc": "[WhenUse]Ganho 1 proteção de ruptura (3 vezes por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Remise",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Remise",
+                    "desc": "[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Remise",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por 2 ou mais, Power de moedas +1[WhenUse]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[Agility]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Engagement",
+                    "desc": "[WinDuel]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +1[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganhe +1[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Engagement",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por 2 ou mais, Power de moedas +1[WinDuel]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Engagement",
+                    "desc": "Se a velocidade desta unidade for maior que a do alvo, a moeda Power +1 para cada diferença de velocidade de 2 (máximo 2)[WinDuel]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +1[Breath]Contar"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100803,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Contre Attaque",
+                    "desc": "Se a velocidade desta unidade for mais rápida que a do alvo por 2 ou mais, Power de moedas +1[WinDuel]Consuma 10[Breath]Contar. Ganho[Breath]igual a[Breath]Contagem consumida.[WinDuel]Se esta unidade conduziu um[OneOnOneDuel]Com a habilidade de ataque do slot alvo, infligir 1[Vulnerable]On Hit (duas vezes por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[DuelDeclaration_Sinclair]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+30% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Contre Attaque",
+                    "desc": "Se a velocidade desta unidade for maior que a do alvo, a moeda Power +1 para cada diferença de velocidade de 2 (máximo 3)[WinDuel]Consuma 10[Breath]Contar. Ganho[Breath]igual a[Breath]Contagem consumida. Contra alvos com[DuelDeclaration_Sinclair], ganho[Breath]igual a ([Breath]Contagem consumida x 2) em vez disso[WinDuel]Se esta unidade conduziu um[OneOnOneDuel]Com a habilidade de ataque do slot alvo, infligir 1[Vulnerable]On Hit (duas vezes por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[DuelDeclaration_Sinclair]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+50% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100804,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Défensive",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Défensive",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fierce Charge",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Quando em um estado volátil, por exemplo, reutilizar a moeda (uma vez por habilidade)",
+                                    "summary": "[OnSucceedAttackHead]Quando em um estado volátil, por exemplo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Fierce Charge",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Quando em um estado volátil, por exemplo, reutilizar a moeda (uma vez por habilidade)",
+                                    "summary": "[OnSucceedAttackHead]Quando em um estado volátil, por exemplo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fierce Charge",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Quando em um estado volátil, por exemplo, reutilizar a moeda (uma vez por habilidade)",
+                                    "summary": "[OnSucceedAttackHead]Quando em um estado volátil, por exemplo, reutilize esta moeda"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sunset Blade",
+                    "desc": "[WhenUse]Quando em um estado volátil, por exemplo, consuma 5 sp[BeforeAttack]Quando em um estado volátil, por exemplo[EndSkill]Quando em um estado volátil, por exemplo, consuma 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Sunset Blade",
+                    "desc": "<style=\"highlight\">Se o alvo tiver 4+[Combustion], Clash Power +1</style>\n[WhenUse]Quando em um estado volátil, por exemplo, consuma 5 sp[BeforeAttack]Quando em um estado volátil, por exemplo[EndSkill]Quando em um estado volátil, por exemplo, consuma 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Sunset Blade",
+                    "desc": "Se o alvo tiver 4+[Combustion], Clash Power +1[WhenUse]Quando em um estado volátil, por exemplo, consuma 5 sp[BeforeAttack]Quando em um estado volátil, por exemplo<style=\"highlight\">- em 45 sp, peso ATK +2 em vez disso</style>\n[EndSkill]Quando em um estado volátil, por exemplo, consuma 5 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100903,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Stigmatize",
+                    "desc": "Se o alvo tiver 10+[Combustion], Power de moedas +1\nQuando em um estado volátil, por exemplo[WinDuel]Heal 10 sp[DefeatDuel]Perder 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Stigmatize",
+                    "desc": "<style=\"highlight\">Moeda Power +1 para cada 7[Combustion]no alvo (máximo 2)</style>Quando em um estado volátil, por exemplo[WinDuel]Heal 10 sp[DefeatDuel]Perder 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100904,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Rue",
+                    "desc": "Quando em um estado volátil, por exemplo, potência base +1 para cada 2[Combustion]no alvo (máximo 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Rue",
+                    "desc": "Quando em um estado volátil, por exemplo, potência base +1 para cada 2[Combustion]no alvo (máx<style=\"highlight\">20</style>)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1100905,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Blazing Strike",
+                    "desc": "Poder de moeda +1 para cada 4 (soma de[Combustion]Potência em todos os inimigos) (máximo 8)[WinDuel]Heal 10 sp[DefeatDuel]Perder 30 sp\nOFERECE +5% MAIS DANOS PARA CADA RESON DE IRSA. (no máximo 30%)[EndSkill]Perder 15 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negociar +2,5% mais danos para cada 1[Combustion]no alvo (máximo 100%)",
+                                    "summary": "Causar mais danos baseados em[Combustion]no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Combustion], infligir 2[Combustion]contra (nº de ressonância mais alta.) Inimigos aleatórios",
+                                    "summary": "[OnSucceedAttack]Infligir[Combustion]com base no resson."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10[Combustion]"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Infligir aleatoriamente[Combustion]Potência do alvo derrotado entre todos os inimigos (no máximo 10. Em encontros focados, entre todas as partes)",
+                                    "summary": "[EnemyKill]Infligir[Combustion]para inimigos aleatórios"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Blazing Strike",
+                    "desc": "Moeda Power +<style=\"highlight\">2</style>Para cada 4 (soma de[Combustion]Potência em todos os inimigos) (máximo 8)[WinDuel]Heal 10 sp[DefeatDuel]Perder 30 sp\nNegócio +<style=\"highlight\">10</style>% mais danos para cada ressonamento de ira. (máx<style=\"highlight\">60</style>%)\n<style=\"highlight\">Se em mais de 4 mais alta ira a-reson., Causar + 20% mais danos para cada ressonamento de ira. Em vez disso (máximo 120%)</style>\n[EndSkill]Perder 15 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negócio +<style=\"highlight\">4</style>% mais dano para cada 1[Combustion]no alvo (máx<style=\"highlight\">120</style>%)",
+                                    "summary": "Causar mais danos baseados em[Combustion]no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 10+[Combustion], infligir 2[Combustion]contra (nº de ressonância mais alta.) Inimigos aleatórios<style=\"highlight\">- Se a ressonância acima. foi uma ressonância ira., infligir +1[Combustion]Conte também</style>",
+                                    "summary": "[OnSucceedAttack]Infligir[Combustion]com base no resson."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10[Combustion]"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Infligir aleatoriamente[Combustion]Potência do alvo derrotado entre todos os inimigos (no máximo 10. Em encontros focados, entre todas as partes)",
+                                    "summary": "[EnemyKill]Infligir[Combustion]para inimigos aleatórios"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1101001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suppressing.",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho 1[DefenseUp]\n[WinDuel]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +1[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 2[DefenseUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Suppressing.",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho<style=\"highlight\">2</style> [DefenseUp]\n<style=\"highlight\">[WhenUse]Se o alvo tiver 4+[Vibration]Contagem, poder de conflito +1</style>\n[WinDuel]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +2[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 2[DefenseUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Suppressing.",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho 2[DefenseUp]\n[WhenUse]Se o alvo tiver 4+[Vibration]Conte, Power de Clash +<style=\"highlight\">2</style>\n[WinDuel]Ganho +<style=\"highlight\">3</style> [Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +2[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 2[DefenseUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1101002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Combat Preparation",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WinDuel]Ganhe +2[Vibration]Contar",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Em 1 outro aliado com[DefenseUp], aplicar (([DefenseUp]no aliado)/3)[AttackUp]Próximo turno (uma vez por turno, max 3)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Combat Preparation",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva<style=\"highlight\">[WhenUse]Ganho 1[DefenseUp]Para cada 2[Vibration]Conte com eu (máximo 3)[WhenUse]Em mais de 4[DefenseUp], Power de moedas +1</style>\n[WinDuel]Ganho +<style=\"highlight\">3</style> [Vibration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack]Em 1 outro aliado com a menor porcentagem de HP, aplique 2 nível de defesa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Em 1 outro aliado com[DefenseUp], aplicar (([DefenseUp]no aliado)/<style=\"highlight\">2</style>) [AttackUp]Próximo turno (uma vez por turno, max 3)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Combat Preparation",
+                    "desc": "[WhenUse]Ganhe +3[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho 1[DefenseUp]Para cada 2[Vibration]Conte com eu (máximo 3)[WhenUse]Em mais de 4[DefenseUp], Power de moedas +1[WinDuel]Ganhe +3[Vibration]Contar<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack]Sobre<style=\"highlight\">2 outros aliados</style>Com a menor porcentagem de HP, aplique 2 nível de defesa no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Sobre<style=\"highlight\">2 outros aliados</style>com[DefenseUp], aplicar (([DefenseUp]no aliado)/2)[AttackUp]Próximo turno (uma vez por turno, max 3)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1101003,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Fence",
+                    "desc": "[WhenUse]Ganho 1[DefenseUp]Para cada 2[Vibration]Conte com eu (máximo 2)[WhenUse]Poder de moeda +1 para cada 3[DefenseUp]em si mesmo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Em 1 outro aliado com a menor porcentagem de HP, aplique 3[DefenseUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consumir até 8[Vibration]Contar consigo mesmo e infligir a mesma quantidade de[Vibration]Conte no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fence",
+                    "desc": "[WhenUse]Ganho 1[DefenseUp]Para cada 2[Vibration]Conte consigo mesmo (Max<style=\"highlight\">4</style>)\n[WhenUse]Poder de moeda +1 para cada 3[DefenseUp]em si mesmo (máx<style=\"highlight\">3</style>)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Em 1 outro aliado com a menor porcentagem de HP, aplique<style=\"highlight\">4</style> [DefenseUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Consumir até 8[Vibration]Contar consigo mesmo e infligir a mesma quantidade de[Vibration]Conte no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1101004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Zwei Knight's Greatsword Form - Guard",
+                    "desc": "[CanDuelGuard]\n[StartBattle]Ganhe +5[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganhe +2[Vibration]Contagem (uma vez por turno)[WinDuel]Acionar[VibrationExplosion]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Zwei Knight's Greatsword Form - Guard",
+                    "desc": "[CanDuelGuard]\n[StartBattle]Ganhe +5[Aggro]Para este slot de habilidade na próxima curva[WhenUse]Ganho +<style=\"highlight\">3</style> [Vibration]Contagem (uma vez por turno)[WinDuel]Acionar[VibrationExplosion]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1101101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Courier Trunk - Decay Hammer",
+                    "desc": "[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: Esta habilidade não inflige[Burst]Com essa habilidade sobre os efeitos de sucesso; Em vez disso, inflige 2[DefenseDown](uma vez por moeda)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSackSinclair]- Se esta unidade tiver menos de 15[DevyatDimensionalSackSinclair], ganha 1 adicional[DevyatDimensionalSackSinclair]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Courier Trunk - Decay Hammer",
+                    "desc": "Em mais de 10 anos[DevyatDimensionalSackSinclair], ou se o alvo tiver mais de 6[Burst], Power de moedas +1[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]Conte com seus efeitos de sucesso; Em vez disso, inflige 2[DefenseDown](uma vez por moeda)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSackSinclair]- Se esta unidade tiver menos de 15[DevyatDimensionalSackSinclair], ganha 1 adicional[DevyatDimensionalSackSinclair]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar\n- em mais de 15 anos[DevyatDimensionalSackSinclair], infligir +1 adicional[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Courier Trunk - Decay Hammer",
+                    "desc": "Potência de moedas +1 para cada 10[DevyatDimensionalSackSinclair]em si mesmo ou a cada 6[Burst]no alvo (máximo 2)[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]Conte com seus efeitos de sucesso; Em vez disso, inflige 2[DefenseDown](uma vez por moeda)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSackSinclair]- Se esta unidade tiver menos de 15[DevyatDimensionalSackSinclair], ganha 1 adicional[DevyatDimensionalSackSinclair]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Burst]Contar\n- em mais de 15 anos[DevyatDimensionalSackSinclair], infligir +1 adicional[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1101102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Courier Trunk - Demolition Gadget",
+                    "desc": "[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]CONTA: Esta habilidade não inflige[Burst]ou[Burst]Conte com essa habilidade sobre os efeitos de sucesso; Em vez disso, inflige 2[DefenseDown](uma vez por moeda)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSackSinclair]- Se esta unidade tiver menos de 15[DevyatDimensionalSackSinclair], Ganhe 2 adicional[DevyatDimensionalSackSinclair]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "name": "Courier Trunk - Demolition Gadget",
+                    "desc": "Em mais de 10 anos[DevyatDimensionalSackSinclair], ou se o alvo tiver mais de 6[Burst], Power de moedas +1[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]ou[Burst]Conte com seus efeitos de sucesso; Em vez disso, inflige 2[DefenseDown](uma vez por moeda)[WhenUse]Aos 20[DevyatDimensionalSackSinclair], ganha 1[Agility]Próximo turno (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSackSinclair]- Se esta unidade tiver menos de 15[DevyatDimensionalSackSinclair], Ganhe 2 adicional[DevyatDimensionalSackSinclair]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]- em mais de 15 anos[DevyatDimensionalSackSinclair], infligir +1[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]- em mais de 15 anos[DevyatDimensionalSackSinclair], infligir +1[Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Courier Trunk - Demolition Gadget",
+                    "desc": "Potência de moedas +1 para cada 10[DevyatDimensionalSackSinclair]em si mesmo ou a cada 6[Burst]no alvo (máximo 2)[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]ou[Burst]Conte com seus efeitos de sucesso; Em vez disso, inflige 2[DefenseDown](uma vez por moeda)[WhenUse]Em 30[DevyatDimensionalSackSinclair], ganha 1[Agility]Próximo turno (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[DevyatDimensionalSackSinclair]- Se esta unidade tiver menos de 15[DevyatDimensionalSackSinclair], Ganhe 2 adicional[DevyatDimensionalSackSinclair]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Burst]- em mais de 15 anos[DevyatDimensionalSackSinclair], infligir +<style=\"highlight\">2</style> [Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]- em mais de 15 anos[DevyatDimensionalSackSinclair], infligir +<style=\"highlight\">2</style> [Burst]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1101103,
+            "levelList": [
+                {
+                    "level": 3,
+                    "name": "Poludnitsa... I trust you!",
+                    "desc": "Em mais de 10 anos[DevyatDimensionalSackSinclair], ou se o alvo tiver mais de 6[Burst], Power de moedas +1[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]ou[Burst]Conte com seus efeitos de sucesso; Em vez disso, a moeda final ganha +2 de poder de moeda[WhenUse]Se o alvo tiver 15+[Burst], causar +3% mais danos para cada[DevyatDimensionalSackSinclair](no máximo 90%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar\n- infligir +1 adicional[Burst]Conte para cada 10[DevyatDimensionalSackSinclair](Máx 2)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]- infligir +1 adicional[Burst]para cada 10[DevyatDimensionalSackSinclair](Máx 2)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se essa habilidade falhar em aumentar o poder da moeda final, ganhe 1[Agility]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Poludnitsa... I trust you!",
+                    "desc": "Potência de moedas +1 para cada 10[DevyatDimensionalSackSinclair]em si mesmo ou a cada 6[Burst]no alvo (máximo 2)[WhenUse]Se o alvo tiver 15+[Burst]e 3+[Burst]Conde, essa habilidade não infliga[Burst]ou[Burst]Conte com seus efeitos de sucesso; Em vez disso, a moeda final ganha +4 de poder de moeda[WhenUse]Se o alvo tiver 15+[Burst], causar +4% mais danos para cada[DevyatDimensionalSackSinclair](máximo 120%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Burst]Contar\n- infligir +1 adicional[Burst]Conte para cada 10[DevyatDimensionalSackSinclair](máx<style=\"highlight\">3</style>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]- infligir +1 adicional[Burst]para todo<style=\"highlight\">8</style> [DevyatDimensionalSackSinclair](máx<style=\"highlight\">4</style>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o efeito dessa habilidade para aumentar seu poder de moeda final não foi ativado, ganhe 2[Agility]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1101104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Courier Assistance & Crisis Control System",
+                    "desc": "[StartBattle]A mais de 15 anos[DevyatDimensionalSackSinclair], Ative 'W-Wait, eu preciso fazer alguma manutenção ...!'. em vez disso (uma vez por turno)[StartBattle]Se essa habilidade for ativada, ganho ([DevyatDimensionalSackSinclair]/ 2)% do máximo HP desta unidade como escudo (máximo 15%, uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Courier Assistance & Crisis Control System",
+                    "desc": "[StartBattle]A mais de 15 anos[DevyatDimensionalSackSinclair], Ative 'W-Wait, eu preciso fazer alguma manutenção ...!' em vez disso (uma vez por turno)[StartBattle]Se essa habilidade for ativada, ganha<style=\"highlight\">([DevyatDimensionalSackSinclair])%</style>do max hp desta unidade como escudo (máximo<style=\"highlight\">25%</style>, uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1101105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "W-wait, I need to do some maintenance...!",
+                    "desc": "[StartBattle]Se essa habilidade for ativada, ganho ([DevyatDimensionalSackSinclair])% do máximo HP desta unidade como escudo (no máximo 15%, uma vez por turno)[EndBattle]Ativar[Retreat]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "W-wait, I need to do some maintenance...!",
+                    "desc": "[StartBattle]Se essa habilidade for ativada, ganha<style=\"highlight\">([DevyatDimensionalSackSinclair])%</style>do max hp desta unidade como escudo (máximo<style=\"highlight\">25%</style>, uma vez por turno)[EndBattle]Ativar[Retreat]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

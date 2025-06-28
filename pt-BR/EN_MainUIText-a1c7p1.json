@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "stage_recommend_level_popup_battle_participant_desc",
+      "content": "O nível médio atual das identidades implantadas é [[colorido de tag]] mais baixo [[colorido de tag]] do que o nível recomendado para este estágio.\nComece o encontro de qualquer maneira?"
+    },
+    {
+      "id": "stage_recommend_level_popup_formation_desc",
+      "content": "O nível médio atual de identidades no seu carregamento é [[colorido]] mais baixo [[colorido de tag]] do que o nível recomendado para este estágio.\nComece o encontro de qualquer maneira?"
+    },
+    {
+      "id": "stage_recommend_level_popup_dungeon_entrance_desc",
+      "content": "O nível médio atual de identidades no seu carregamento é [[colorido]] mais baixo [[colorido de tag]] do que o nível recomendado para este estágio.\nEntrar na masmorra, afinal?"
+    },
+    {
+      "id": "current_average_level_and_recommend_level_format",
+      "content": "Avg atual. Nível: {0}\n[[Tag-Color]] Nível recomendado: {1} [[tag-color]]"
+    },
+    {
+      "id": "current_average_level_with_additional_val_and_recommend_level_format",
+      "content": "Avg atual. Nível: {0} ({1})\n[[Tag-Color]] Nível recomendado: {2} [[tag-color]]"
+    },
+    {
+      "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
+      "content": "[[Tag-Color]] Identidade recomendada e por exemplo"
+    }
+  ]
+}

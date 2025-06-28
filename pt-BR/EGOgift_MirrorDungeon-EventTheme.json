@@ -1,0 +1,469 @@
+{
+    "dataList": [
+        {
+            "id": 9701,
+            "name": "Hot ‘n Juicy Drumstick",
+            "desc": "Ao infligir [Combustão] com uma Habilidade, inflija +3 [Combustão] Contagem",
+            "simpleDesc": [
+                {
+                    "abilityID": 9701,
+                    "simpleDesc": "When inflicting [Combustion] with a Skill, inflict +3 [Combustion] Count"
+                }
+            ]
+        },
+        {
+            "id": 9702,
+            "name": "Dry-to-the-Bone Breast",
+            "desc": "Ao infligir [Explosão] com uma Habilidade, inflija +3 [Explosão] Contagem",
+            "simpleDesc": [
+                {
+                    "abilityID": 9702,
+                    "simpleDesc": "When inflicting [Burst] with a Skill, inflict +3 [Burst] Count"
+                }
+            ]
+        },
+        {
+            "id": 9703,
+            "name": "Tango Marinade",
+            "desc": "Se a Velocidade da unidade for maior que a do alvo, ganhe +(Velocidade/3) de Poder de Choque. (máx. 3)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9703,
+                    "simpleDesc": "Gain +(Speed/3) Clash Power."
+                }
+            ]
+        },
+        {
+            "id": 9704,
+            "name": "Contaminated Needle & Thread",
+            "desc": "O seguinte efeito se aplica à primeira Habilidade para causar dano a um inimigo.\n\nInfligir (dano causado/3) [Laceração] Potência.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9704,
+                    "simpleDesc": "Inflict (damage dealt/3) [Laceration] Potency"
+                }
+            ]
+        },
+        {
+            "id": 9705,
+            "name": "Sharp Needle & Thread",
+            "desc": "A cada turno, a primeira habilidade a causar dano a um inimigo causa dano fixo adicional equivalente à metade do dano causado.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9705,
+                    "simpleDesc": "Deal (damage dealt/2) bonus fixed damage"
+                }
+            ]
+        },
+        {
+            "id": 9706,
+            "name": "Oil-gunked Spanner",
+            "desc": "Habilidades Contundentes causam +10% a mais de dano\n\nA Moeda Final das Habilidades Contundentes inflige 2 [Vibração] de Potência ao Acertar. (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9706,
+                    "simpleDesc": "Blunt Skills deal +10% more damage"
+                },
+                {
+                    "abilityID": 97061,
+                    "simpleDesc": "Inflict 2 [Vibration] Potency against the enemy."
+                }
+            ]
+        },
+        {
+            "id": 9707,
+            "name": "Twinkling Scrap",
+            "desc": "Quando um aliado com Escudo é atingido por um inimigo, reflete 3 de dano fixo. (não reflete o dano quando o aliado não recebeu nenhum dano de Escudo)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9707,
+                    "simpleDesc": "Reflect 3 fixed damage"
+                }
+            ]
+        },
+        {
+            "id": 9708,
+            "name": "Trash Crab Brain Wine",
+            "desc": "Quando um aliado ataca um inimigo que tem [Burst] com uma Habilidade que inflige [Burst] Potência ou Contagem, causa +([Burst] Contagem x 1,25)% a mais de dano. (máx. 50%)\n\nQuando um aliado se recupera de Stagger, cura 20% do HP máximo. (2 vezes por Encontro)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9708,
+                    "simpleDesc": "Deal +([Burst] Count x 1.25)% more damage (max 50%)"
+                },
+                {
+                    "abilityID": 97081,
+                    "simpleDesc": "Heal 20% of Max HP"
+                }
+            ]
+        },
+        {
+            "id": 9709,
+            "name": "Pom-pom Hat",
+            "desc": "Fim do Turno: ganhe 1 Potência de [Sopro] no próximo turno para cada Habilidade de Ataque que causou dano antes do Fim do Turno.\n\nEm Encontros Focados: ganhe 3 Potência de [Sopro] para cada Habilidade de Ataque que causou dano antes do Fim do Turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9709,
+                    "simpleDesc": "Gain 1 [Breath] Potency"
+                },
+                {
+                    "abilityID": 97091,
+                    "simpleDesc": "Gain 3 [Breath] Potency"
+                }
+            ]
+        },
+        {
+            "id": 9710,
+            "name": "Huge Gift Sack",
+            "desc": "Início do turno: aplique 2 [Sopro], 2 [Contagem de Sopro] e 2 [Proteção] ao aliado com menos PV.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9710,
+                    "simpleDesc": "Apply 2 [Breath], 2 [Breath] Count, and 2 [Protection]"
+                }
+            ]
+        },
+        {
+            "id": 9711,
+            "name": "Sad Plushie",
+            "desc": "Causa +(valor absoluto de SP/1,5)% a mais de dano. (mín. 0%)\n\nQuando um aliado com Habilidades de Moedas Adicionais se recupera de Cambalear, cura SP completamente. (não ativa quando Corroído)\n\nPara um aliado com todas as Habilidades de Moedas Menos: ganhe 3 [Paralisia] no Início do Turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9711,
+                    "simpleDesc": "Deal +(absolute value of SP/1.5)% more damage. (min 0%)"
+                },
+                {
+                    "abilityID": 97111,
+                    "simpleDesc": "When recovering from Stagger, fully heal SP"
+                },
+                {
+                    "abilityID": 97112,
+                    "simpleDesc": "Gain 3 [Paralysis] at Turn Start"
+                }
+            ]
+        },
+        {
+            "id": 9712,
+            "name": "Black Ledger",
+            "desc": "Início do Primeiro Turno de um Encontro: ganhe recursos E.G.O aleatórios iguais ao número de inimigos.\n\nSe houver 4 ou mais Identidades de Linhagem de Lâmina ou Clã Kurokumo participando deste Encontro (conta apenas Identidades no campo no Início do Encontro), ganhe recursos E.G.O para a Afinidade E.G.O menos possuída.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9712,
+                    "simpleDesc": "Gain random E.G.O resources"
+                },
+                {
+                    "abilityID": 97121,
+                    "simpleDesc": "Gain the least-owned E.G.O resources"
+                }
+            ]
+        },
+        {
+            "id": 9713,
+            "name": "Rusted Hilt",
+            "desc": "Início do turno: todos os aliados ganham 1 Slash Power Up.\n\nLinhagem Blade ou Identidades do Clã Kurokumo ganham 2 Slash Power Up em vez disso.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9713,
+                    "simpleDesc": "Gain 1 Slash Power Up"
+                },
+                {
+                    "abilityID": 97131,
+                    "simpleDesc": "Gain 2 Slash Power Up"
+                }
+            ]
+        },
+        {
+            "id": 9714,
+            "name": "Fractured Blade",
+            "desc": "Durante este Encontro: ao infligir Potência de [Laceração] ou 'Sangramento Único' pela primeira vez contra um inimigo com um efeito de Habilidade de Ataque, inflija uma Contagem de [Laceração] adicional de +2. (Uma vez por Encontro)\n\nIdentidades do Clã Kurokumo, ao infligir dano contra um inimigo pela primeira vez, inflija uma Potência de [Laceração] adicional de 4 e Contagem de [Laceração] +4 em vez disso.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9714,
+                    "simpleDesc": "Inflict additional 2 [Laceration] Count"
+                },
+                {
+                    "abilityID": 97141,
+                    "simpleDesc": "Inflict additional 4 [Laceration] Potency and +4 [Laceration] Count"
+                }
+            ]
+        },
+        {
+            "id": 9715,
+            "name": "Broken Blade",
+            "desc": "Quando um aliado acerta um inimigo de forma crítica, causa um dano adicional de ([Breath] Potency/3) Pride.\n\nIdentidades de linhagem de lâmina, quando acertam um inimigo de forma crítica, causam um dano adicional de ([Breath] Potency/2) Pride.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9715,
+                    "simpleDesc": "Deal an additional ([Breath] Potency/3) Pride damage."
+                },
+                {
+                    "abilityID": 97151,
+                    "simpleDesc": "Deal an additional ([Breath] Potency/2) Pride damage."
+                }
+            ]
+        },
+        {
+            "id": 9716,
+            "name": "Red Tassel",
+            "desc": "Se o alvo tiver 1,5 ou menos de Resistência a Corte, Resistência a Corte +0,3.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9716,
+                    "simpleDesc": "Slash Resistance +0.3"
+                }
+            ]
+        },
+        {
+            "id": 9717,
+            "name": "Sublimity",
+            "desc": "Início do Encontro: ativa quando há 3 ou mais Identidades do Clã Kurokumo (conta apenas Identidades no campo no Início do Encontro).\n\nInício do Turno: todos os aliados ganham 2 Slash Power Up e causam +35% mais dano de Slash.\n\nInício do Turno: quando uma Identidade do Clã Kurokumo causa dano pela primeira vez, inflige 4 Potência de [Laceração] adicional e +4 Contagem de [Laceração]. (Uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9717,
+                    "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+                },
+                {
+                    "abilityID": 97171,
+                    "simpleDesc": "Inflict additional 4 [Laceration] Potency and +4 [Laceration] Count"
+                }
+            ]
+        },
+        {
+            "id": 9718,
+            "name": "Unbending",
+            "desc": "Início do Encontro: ativa quando há 3 ou mais Identidades de Linhagem da Lâmina (conta apenas Identidades no campo no Início do Encontro).\n\nInício do Turno: todos os aliados ganham 2 Slash Power Up e causam +35% mais dano de Slash.\n\nInício do Turno: quando uma Identidade de Linhagem da Lâmina acerta criticamente, causa dano de Orgulho adicional igual à Potência de [Sopro] em si mesmo.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9718,
+                    "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+                },
+                {
+                    "abilityID": 97181,
+                    "simpleDesc": "Deal additional Pride damage equal to [Breath] Potency on self"
+                }
+            ]
+        },
+        {
+            "id": 9719,
+            "name": "Ragged Bamboo Hat",
+            "desc": "Início do Encontro: ativa quando há 3 ou mais Identidades de Linhagem da Lâmina (conta apenas Identidades no campo no Início do Encontro).\n\nTodos os aliados causam +50% mais dano de Corte\n\nIdentidades de Linhagem da Lâmina: se o aliado tiver [Sopro], a taxa de Crítico é fixada em 100%.\n\nIdentidades de Linhagem da Lâmina: inflige x1,5 mais dano em Crítico",
+            "simpleDesc": [
+                {
+                    "abilityID": 9719,
+                    "simpleDesc": "Deal +50% Slash Damage"
+                },
+                {
+                    "abilityID": 97191,
+                    "simpleDesc": "Fix Critical rate to 100%"
+                },
+                {
+                    "abilityID": 97192,
+                    "simpleDesc": "Deal 1.5 times more damage on Crit"
+                }
+            ]
+        },
+        {
+            "id": 9720,
+            "name": "Old Dopo Robe",
+            "desc": "Início do Encontro: ativa quando há 3 ou mais Identidades da Linhagem da Lâmina (conta apenas Identidades no campo no Início do Encontro).\n\nTodos os aliados causam +50% mais dano de Corte.\n\nIdentidades da Linhagem da Lâmina: Habilidade 1 ganha Poder de Moeda +1. Habilidade de Moeda Única 1 ganha Poder de Moeda +3.\n\n[Somente Mentor da Linhagem da Lâmina Meursault] Habilidade 'Dê Minha Carne' Poder de Choque Final -12; Habilidade 'Reivindicar Seus Ossos' causa +50% mais dano.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9720,
+                    "simpleDesc": "Deal +50% Slash Damage"
+                },
+                {
+                    "abilityID": 97201,
+                    "simpleDesc": "Skill 1 Coin Power Up"
+                },
+                {
+                    "abilityID": 97202,
+                    "simpleDesc": "'Yield My Flesh' Skill Final Clash Power -12; 'To Claim Your Bones' deals +50% more damage"
+                }
+            ]
+        },
+        {
+            "id": 9721,
+            "name": "Silver Watch Case",
+            "desc": "Ao causar dano a um inimigo com Skills de Ataque (exceto Skills E.G.O) que infligem Potência de [Vibração], Contagem ou Tremor Único, cause +10% a mais de dano.\n\nSe a Skill ativou [VibraçãoExplosão] no inimigo pela primeira vez neste turno, inflija +2 [Vibração] Contagem no próximo turno (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9721,
+                    "simpleDesc": "Deal +10% more damage"
+                },
+                {
+                    "abilityID": 97211,
+                    "simpleDesc": "Inflict +2 [Vibration] Count next turn"
+                }
+            ]
+        },
+        {
+            "id": 9722,
+            "name": "Faded Watch Case",
+            "desc": "Ao colidir com um inimigo mais rápido, Clash Power +1.\n\nAo causar dano a um inimigo mais rápido, inflija 3 [Vibration] Potency e +2 [Vibration] Count no próximo turno. (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9722,
+                    "simpleDesc": "Clash Power +1"
+                },
+                {
+                    "abilityID": 97221,
+                    "simpleDesc": "Inflict 3 [Vibration] Potency and +2 [Vibration] Count next turn"
+                }
+            ]
+        },
+        {
+            "id": 9723,
+            "name": "Warning Notice",
+            "desc": "Fim do turno: Inflija 1 [Binding] ao inimigo mais rápido no próximo turno. (para Anormalidades, uma Parte)\n\nSe o alvo tiver [Vibração] ou 'Tremor Único', inflija 2 [Binding] em vez disso.\n\nQuando um aliado ataca alvos com [Binding], causa +(5 + (2,5 x valor de [Binding])) mais dano. (máx. 15%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9723,
+                    "simpleDesc": "Apply 1 [Binding] next turn"
+                },
+                {
+                    "abilityID": 97231,
+                    "simpleDesc": "Deal +(5 + (2.5 x [Binding] value)) more damage"
+                }
+            ]
+        },
+        {
+            "id": 9724,
+            "name": "Etched Clock Hands",
+            "desc": "Primeiro Turno Início de uma onda: inflige (9 - Velocidade atual) Potência de [Vibração] a 3 inimigos com a Velocidade mais lenta. (min. 3)\n\nCausa +10% a mais de dano contra alvos com 12+ [Vibração] ou 'Tremor Único' no Início do Turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9724,
+                    "simpleDesc": "Inflict (9 - current Speed) [Vibration] Potency"
+                },
+                {
+                    "abilityID": 97241,
+                    "simpleDesc": "Deal +10% more damage"
+                }
+            ]
+        },
+        {
+            "id": 9725,
+            "name": "Rusted Clock Hands",
+            "desc": "Primeiro Turno Início de uma onda: infligir (9 - Velocidade atual) [Vibração] Potência (min. 3) e (9 - Velocidade atual)/2 [Vibração] Contagem para 1 inimigo com a Velocidade mais rápida. (arredondado para cima; para Anormalidades, uma Parte)\n\nReceba -10% menos dano de alvos com 12+ [Vibração] ou 'Tremor Único' no Início do Turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9725,
+                    "simpleDesc": "Inflict (9 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count"
+                },
+                {
+                    "abilityID": 97251,
+                    "simpleDesc": "Damage Taken -10%."
+                }
+            ]
+        },
+        {
+            "id": 9726,
+            "name": "Chalice of Trickle-down",
+            "desc": "Quando um aliado com Habilidades de Ataque (exceto Habilidades E.G.O) que infligem Potência de [Vibração], Contagem ou 'Tremor Único' vence um Clash, inflige 2 Potência de [Vibração] e +2 Contagem de [Vibração]. (2 vezes por turno)\n\nIdentidades Yurodivy: inflige 3 Potência de [Vibração] e +3 Contagem de [Vibração] em vez disso (3 vezes por turno)\n\nSe a Identidade afetada entrar em Clash contra alvos com Níveis de Ofensa mais altos, Poder de Clash +2; causa +20% a mais de dano ao atacar após vencer o Clash.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9726,
+                    "simpleDesc": "Inflict 2 [Vibration] Potency and +2 [Vibration] Count"
+                },
+                {
+                    "abilityID": 97261,
+                    "simpleDesc": "Inflict 3 [Vibration] Potency and +3 [Vibration] Count"
+                },
+                {
+                    "abilityID": 97262,
+                    "simpleDesc": "Clash Power +2, deal +20% more damage"
+                }
+            ]
+        },
+        {
+            "id": 9727,
+            "name": "Prepaid Time Receipt",
+            "desc": "Causa +(5 + (2,5 x diferença de Velocidade))% a mais de dano contra inimigos mais rápidos com 2+ de diferença de Velocidade. (máx. 15%)\n\nFim do Turno: Se um aliado causou dano com uma Habilidade de Ataque (exceto Habilidades E.G.O) neste turno contra inimigos mais rápidos com 2+ de diferença de Velocidade, inflija 2 [Binding] e 1 [ResultReduction] ao inimigo no próximo turno. (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9727,
+                    "simpleDesc": "Deal +(5 + (2.5 x Speed difference))% more damage against"
+                },
+                {
+                    "abilityID": 97271,
+                    "simpleDesc": "Inflict 2 [Binding] and 1 [ResultReduction] to the enemy next turn"
+                }
+            ]
+        },
+        {
+            "id": 9728,
+            "name": "Pocket Watch : Type L",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam efeitos de Potência de [Vibração], Contagem ou 'Tremor Único'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nPara Habilidades 3 de aliados que infligem Potência de [Vibração], Contagem ou 'Tremor Único': Moeda de Poder +2 e causa +25% a mais de dano.\n\nQuando um aliado que inflige Potência de [Vibração], Contagem ou 'Tremor Único' aciona [Troca_de_Vibração] em um inimigo com Habilidades de Ataque (incluindo Habilidades E.G.O): multiplique a Potência de [Vibração] e Contagem por 1,5 (apenas ao convertê-los em diferentes tipos de 'Tremor') e inflija 5 [DefesaQueda] no próximo turno. (uma vez por turno)\n\nPrimeiro turno Início de uma onda: infligir (12 - Velocidade atual) [Vibração] Potência (min. 6) a 3 inimigos com a Velocidade mais lenta.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9728,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+                },
+                {
+                    "abilityID": 97281,
+                    "simpleDesc": "Multiply [Vibration] Potency and Count by 1.5 when triggering Amplitude Conversion"
+                },
+                {
+                    "abilityID": 97282,
+                    "simpleDesc": "Inflict (12 - current Speed) [Vibration] Potency"
+                }
+            ]
+        },
+        {
+            "id": 9729,
+            "name": "Pocket Watch : Type E",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam efeitos de Potência de [Vibração], Contagem ou 'Tremor Único'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nPara Habilidades 3 de aliados que infligem Potência de [Vibração], Contagem ou 'Tremor Único': Moeda de Poder +2 e causa +25% a mais de dano.\n\nQuando um aliado que inflige [Vibração] Potência, Contagem ou 'Tremor Único' causa dano a um inimigo mais lento com 2+ de diferença de Velocidade entre eles: causa +([Vibração] Potência no alvo, máx. 25)% a mais de dano e inflige 2 [DefesaAbaixo] toda vez que o aliado causa dano (máx. 6)\n\nPrimeiro Turno Início de uma onda: inflige (12 - Velocidade atual) [Vibração] Potência (mín. 6) e (12 - Velocidade atual)/2 [Vibração] Contagem para 1 inimigo com a Velocidade mais rápida. (arredondado para cima; para Anormalidades, uma Parte)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9729,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+                },
+                {
+                    "abilityID": 97291,
+                    "simpleDesc": "Deal +([Vibration] Potency on target)% more damage; inflict 2 [DefenseDown] every time the ally deals damage"
+                },
+                {
+                    "abilityID": 97292,
+                    "simpleDesc": "Inflict (12 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count"
+                }
+            ]
+        },
+        {
+            "id": 9730,
+            "name": "Pocket Watch : Type Y",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam efeitos de Potência de [Vibração], Contagem ou 'Tremor Único'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nPara Habilidades 3 de aliados que infligem Potência de [Vibração], Contagem ou 'Tremor Único': Poder de Moeda +2 e causa +25% a mais de dano.\n\nIdentidades Yurodivy: Habilidade 3 ganha Poder de Moeda +2 e causa +(25 + (soma de Potência de [Vibração] e Contagem no alvo))% a mais de dano em vez disso. (máx. 100%)\n\nIdentidades Yurodivy: ganha +3 Contagem de [Vibração] no Início do Turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9730,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+                },
+                {
+                    "abilityID": 97301,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deal +(25 + (sum of [Vibration] Potency and Count on target))% more damage."
+                },
+                {
+                    "abilityID": 97302,
+                    "simpleDesc": "Gain +3 [Vibration] Count"
+                }
+            ]
+        },
+        {
+            "id": 9731,
+            "name": "Pocket Watch : Type P",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam efeitos de Potência de [Vibração], Contagem ou 'Tremor Único'. (exceto Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nPara Habilidades 3 de aliados que infligem Potência de [Vibração], Contagem ou 'Tremor Único': Moeda de Poder +2 e causa +25% a mais de dano.\n\nQuando um aliado que inflige Potência de [Vibração], Contagem ou 'Tremor Único' entra em choque com um inimigo mais rápido com 2+ de diferença de Velocidade: Poder de Choque +2 e causa +(Potência de [Vibração] no alvo)% a mais de dano. (máx. 50%)\n\nInício do Turno: do mais lento para o mais rápido, os 3 aliados mais lentos ganham 5 [Ataque para Cima], 3 [Ataque para Cima] e 2 [Ataque para Cima] respectivamente.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9731,
+                    "simpleDesc": "Skill 3 gains Coin Power +2 and deals +25% more damage"
+                },
+                {
+                    "abilityID": 97311,
+                    "simpleDesc": "Clash Power +2 and deal +([Vibration] Potency on target)% more damage"
+                },
+                {
+                    "abilityID": 97312,
+                    "simpleDesc": "Gain [AttackUp]"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10110_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "Bem, eu entendo seu sentimento sobre a morte. Por que não descansa os impulsos em seu coração por um momento e conversa mais comigo?"
+        },
+        {
+            "id": "lobby_morning_10110_1",
+            "desc": "Saudação matinal",
+            "dlg": "Peço desculpas por incomodá-lo em tão cedo da manhã. Espero não ter arrancado você de um sonho."
+        },
+        {
+            "id": "lobby_noon_10110_1",
+            "desc": "Saudação da tarde",
+            "dlg": "Não almocei, pois minha contemplação sobre nossa conversa anterior consumiu a maior parte do meio-dia.\nSuponho que você fez o mesmo ao lamentar por outros, e com razão."
+        },
+        {
+            "id": "lobby_night_10110_1",
+            "desc": "Saudação noturna",
+            "dlg": "Este será o último trabalho de gestão do dia. Você parece bastante esgotado; por que não deixar para trás as ruminações amargas e buscar a doçura de um breve sono?"
+        },
+        {
+            "id": "smalltalk_10110_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Para onde os humanos vão após a saída final da vida? Você faz uma pergunta bastante estimulante. Eu já escrevi minhas reflexões sobre o fim da vida; talvez tenhamos uma chance de discutir isso mais tarde."
+        },
+        {
+            "id": "smalltalk_10110_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "Mesmo enquanto escrevia meus treze testamentos, não pude deixar de acreditar que ninguém lamentaria minha morte.\nTeria sido bom ter aqueles que lamentariam minha passagem, mas a lembrança dos mortos não tem lugar nos corações daqueles que vivem aqui."
+        },
+        {
+            "id": "smalltalk_10110_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "O cano da arma não dispara balas de borboletas; apenas borboletas, vivas e mortas, florescem de onde a arma aponta."
+        },
+        {
+            "id": "smalltalk_10110_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "Este caixão, este presente que você me deu para carregar — ele carrega um peso e tanto. As borboletas que se aninharam em mim, aquelas que já foram suas, também não devem ser disparadas com o coração leve.\nTemo deixar até mesmo o mais leve fio de frivolidade sobre este lamento. ... Portanto, é justo que eu coloque solenidade em meu coração enquanto puxo seus gatilhos."
+        },
+        {
+            "id": "smalltalk_10110_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "Não há necessidade de prosa chamativa e purpurina para expressar condolências. Alguns dizem que o enlutado que carrega este caixão é o salvador há muito esperado por todos, mas...\n... Eu sou apenas uma pena presa em uma Asa; o valor do meu ser, de outra forma, é nulo; pois também estou flutuando no caminho para me tornar uma borboleta que não poliniza mais."
+        },
+        {
+            "id": "neglect_10110_1",
+            "desc": "Parado",
+            "dlg": "Pretendo fechar bem o buraco da fala além da janela se eu fosse encontrar minha morte. Só então a borboleta que repousa sobre mim voará para longe."
+        },
+        {
+            "id": "gacksung_10110_1",
+            "desc": "Uptying",
+            "dlg": "É um presente pesado que carrego; um par de almas rebeldes em cada uma das minhas palmas, dedos mantidos cada vez mais próximos.\nOnde está nosso destino agora?"
+        },
+        {
+            "id": "formation_10110_1",
+            "desc": "Implantação",
+            "dlg": "É gestão ou lamentação?"
+        },
+        {
+            "id": "battleentry_10110_1",
+            "desc": "Entrada no palco",
+            "dlg": "Impulsos de morte suprimidos; conceito selado."
+        },
+        {
+            "id": "battle_select_10110_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Conversa fiada não é aconselhável em tempos de luto."
+        },
+        {
+            "id": "battle_endcommand_10110_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Por favor, dê um passo à frente."
+        },
+        {
+            "id": "battle_enemy_break_10110_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Entre na noite sem preocupações."
+        },
+        {
+            "id": "battle_break_10110_1",
+            "desc": "escalonado",
+            "dlg": "Hum..."
+        },
+        {
+            "id": "battle_kill_10110_1",
+            "desc": "Inimigo morto",
+            "dlg": "Pois sua lembrança será minha enquanto você dorme."
+        },
+        {
+            "id": "battle_dead_10110_1",
+            "desc": "Morte",
+            "dlg": "Poderiam as pequenas asas... de uma borboleta... terem voado para longe deste... lugar...?"
+        },
+        {
+            "id": "choice_success_p_10110_2",
+            "desc": "Verificação aprovada",
+            "dlg": "O trabalho de repressão produziu um resultado mais preferível."
+        },
+        {
+            "id": "choice_fail_n_10110_1",
+            "desc": "Verificação falhou",
+            "dlg": "O trabalho de apego foi uma escolha bastante... incongruente."
+        },
+        {
+            "id": "battle_clear_10110_1",
+            "desc": "Grito de vitória",
+            "dlg": "Uma flor disposta, para aqueles que dormem. Que floresçam as borboletas dentro de si."
+        },
+        {
+            "id": "battle_clear_ex_10110_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "Uma arma de fogo, uma congratulação para os mortos que partiram; a outra, uma lamentação para os que estão presos à vida em lugar de vivos. Assim, rendam-se à solenidade, todos; agora, nunca mais os lamentem."
+        },
+        {
+            "id": "battle_defeat_10110_1",
+            "desc": "Derrote Wail",
+            "dlg": "No coração de um espelho quebrado, vejo a borboleta murchando. Uma borboleta errante não posso florescer, mas o dever da lamentação é meu; assim, também é minha, essa melancolia."
+        }
+    ]
+}

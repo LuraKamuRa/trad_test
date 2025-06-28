@@ -1,0 +1,28 @@
+{
+    "dataList": [
+        {
+            "id": "stage_recommend_level_popup_battle_participant_desc",
+            "content": "O nível médio atual de suas Identidades implantadas é <color=#990000>menor</color> do que o nível recomendado para este Estágio.\nComeçar o Encontro mesmo assim?"
+        },
+        {
+            "id": "stage_recommend_level_popup_formation_desc",
+            "content": "O nível médio atual de Identidades em seu carregamento é <color=#990000>menor</color> do que o nível recomendado para este Estágio.\nComeçar o Encontro mesmo assim?"
+        },
+        {
+            "id": "stage_recommend_level_popup_dungeon_entrance_desc",
+            "content": "O nível médio atual de Identidades em seu carregamento é <color=#990000>menor</color> do que o nível recomendado para este Estágio.\nEntrar na Masmorra mesmo assim?"
+        },
+        {
+            "id": "current_average_level_and_recommend_level_format",
+            "content": "Nível médio atual: {0}\n<color=#f8c200>Nível recomendado: {1}</color>"
+        },
+        {
+            "id": "current_average_level_with_additional_val_and_recommend_level_format",
+            "content": "Nível médio atual: {0} ({1})\n<color=#f8c200>Nível recomendado: {2}</color>"
+        },
+        {
+            "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
+            "content": "<color=#f8c200>Identidade recomendada e E.G.O Uptie/Threadspin <color=#990000>Níveis: {0}</color> </color>"
+        }
+    ]
+}

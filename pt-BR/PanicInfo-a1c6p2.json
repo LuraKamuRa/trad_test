@@ -1,0 +1,22 @@
+{
+    "dataList": [
+        {
+            "id": 1019,
+            "panicName": "Pintura de Miss -Hapen",
+            "lowMoraleDescription": "Ganho 1[Enhancement]e 1[Vulnerable]",
+            "panicDescription": "Ganho 1[PlusCoinValueUp]e 3[Vulnerable]."
+        },
+        {
+            "id": 1021,
+            "panicName": "Vingança",
+            "lowMoraleDescription": "Ganhe 3[DefenseDown]e 3[AttackDmgUp]",
+            "panicDescription": "Ganhe 6[DefenseDown]e 5[AttackDmgUp]"
+        },
+        {
+            "id": 1022,
+            "panicName": "Ódio",
+            "lowMoraleDescription": "Clash Win: Ganhe 1[AttackUp]Próximo turno. (3 vezes por turno)\nClash Lose: Ganhe 1[DefenseUp]. (3 vezes por turno)",
+            "panicDescription": "Clash Win: Ganhe 1[AttackUp]Esta curva e o próximo turno (3 vezes por turno)\nClash Lose: Ganhe 1[DefenseUp](3 vezes por turno)\nTurn End: Ganhe 2[Agility]Próximo turno"
+        }
+    ]
+}

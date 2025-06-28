@@ -1,0 +1,130 @@
+{
+    "dataList": [
+        {
+            "id": "AaCePcBa",
+            "name": "Marked",
+            "desc": "Será o alvo principal.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBb",
+            "name": "Fluorescence Shard",
+            "desc": "Início do turno: Ganhe 3 de Poise e +2 de Poise Count",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBc",
+            "name": "Blind Obsession",
+            "desc": "Com valor 3+, esta unidade fica escalonada.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBg",
+            "name": "Larva",
+            "desc": "Fim do turno: Mova Larva para o aliado com o maior HP.\nInício do turno: Perca SP igual ao valor de Larva em si mesmo.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBh",
+            "name": "Green Slime",
+            "desc": "Gera Green Slime no próximo turno toda vez que esse valor diminui",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBi",
+            "name": "Uneven Breathing",
+            "desc": "Fim do turno: Perca 5 Poise.\nCause +50% a mais de dano e receba +50% a mais de dano",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBj",
+            "name": "Prey Mark",
+            "desc": "Toda a tripulação do Pequod tem como alvo esta unidade\nReceba +50% a mais de dano da tripulação Pequod",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBk",
+            "name": "Tangle",
+            "desc": "Se infligido contra alvos com Capture, Stagger o alvo. Não funciona contra alvos que já estão Staggered.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBl",
+            "name": "Capture",
+            "desc": "Se infligido contra alvos com Tangle, alvo Stagger. Não funciona contra alvos que já estão Staggered.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBn",
+            "name": "Undefiable Command",
+            "desc": "Perca 10% do HP atual ao usar uma Habilidade. Poder Final da Habilidade +1\nAo Acertar, Ahab cura 8 SP; aplique 2 Poise a si mesmo e a Ahab",
+            "summary": "Perca HP ao usar uma Habilidade; Poder Final +1",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBo",
+            "name": "Pip's Ego",
+            "desc": "Início do Turno: Cura 3 SP por valor.\nDiminui ao usar Peso da Culpa após falhar em Evasão.\nFim do Turno: Se for 0, fique Estupefato.",
+            "summary": "Cure SP por valor. Reduza o valor ao usar uma certa Skill após falhar em Evade.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBp",
+            "name": "Starbuck's Ego",
+            "desc": "Início do Turno: Ganhe 1 Proteção para cada valor 6.\nDiminui para cada Moeda destruída em Clash contra alvos com Prey Mark.\nFim do Turno: Se em 0, fique Staggered.",
+            "summary": "Ganhe Proteção por valor. Reduza o valor ao perder Clash contra certos alvos.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBq",
+            "name": "Queequeg's Ego",
+            "desc": "Fim do Turno: Ganhe valor se estiver protegido\nFim do Turno: Perca valor quando estiver sem Escudo ou usando Bleached Atonement.\nFim do Turno: Em 0, fique Staggered.",
+            "summary": "Fim do turno: dependendo se esta unidade está protegida ou não, perde ou ganha valor.",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBe",
+            "name": "Pallid Panic",
+            "desc": "Eficiência de perda de SP +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBf",
+            "name": "Pallid Panic",
+            "desc": "Ganhe 2 Bind no Turn End.\nCada Moeda que esta unidade vira cai em coroa.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBr",
+            "name": "Assist Barrier",
+            "desc": "Reduz o valor pela quantidade de dano recebido\nNão expira no final do turno.\nFim do turno: Se este valor estiver em 0, fique Staggered no próximo turno.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBs",
+            "name": "Assist Defense",
+            "desc": "Puxe habilidades que tenham como alvo Ahab para o slot desta unidade.\nA unidade com este efeito tem Peso de Slot ilimitado.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCePcBt",
+            "name": "Assist Attack",
+            "desc": "Após o ataque de Ahab, comece o ataque sem oposição contra o mesmo alvo que Ahab atacou.\nA Habilidade usada nesta ação tem o mesmo Nível de Ofensa, valores de Moedas e efeitos que a Habilidade 'I Follow Orders...' desta unidade.",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "dataList": [
+        {
+            "id": "get_10501_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "Meursault. Por favor, refira-se a mim como tal, Gerente."
+        },
+        {
+            "id": "lobby_morning_10501_1",
+            "desc": "Saudação matinal",
+            "dlg": "As regras da empresa dizem que seus funcionários devem acordar em horários designados. Parece que a maioria dos Sinners não tem conhecimento desse fato, e você também."
+        },
+        {
+            "id": "lobby_noon_10501_1",
+            "desc": "Saudação da tarde",
+            "dlg": "Se você me perguntar como pretendo passar minha tarde… Não há regras que determinem o que fazer."
+        },
+        {
+            "id": "lobby_night_10501_1",
+            "desc": "Saudação noturna",
+            "dlg": "Se eu tivesse que comparar os horários do dia uns com os outros, eu preferiria o dia à noite. A escuridão obscurece a visão, e o que é difícil de ver é difícil de entender."
+        },
+        {
+            "id": "smalltalk_10501_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Você tem algum negócio comigo, gerente? Se houver algum motivo específico, deixe claro."
+        },
+        {
+            "id": "smalltalk_10501_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "As pessoas sugerem que eu sorria mais frequentemente. Você quer isso também, Gerente?"
+        },
+        {
+            "id": "smalltalk_10501_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "…Você continua falando comigo. Você é encorajado pelas regras a fazer isso?"
+        },
+        {
+            "id": "neglect_10501_1",
+            "desc": "Parado",
+            "dlg": "Esperarei aqui até você retornar."
+        },
+        {
+            "id": "formation_10501_1",
+            "desc": "Implantação",
+            "dlg": "Sim, se é isso que você quer."
+        },
+        {
+            "id": "battleentry_10501_1",
+            "desc": "Entrada no palco",
+            "dlg": "Se as regras assim o dizem."
+        },
+        {
+            "id": "battle_select_10501_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Algum problema, gerente?"
+        },
+        {
+            "id": "battle_endcommand_10501_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Executarei a ordem de acordo com as regras."
+        },
+        {
+            "id": "battle_enemy_break_10501_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Estou aguardando seu próximo pedido."
+        },
+        {
+            "id": "battle_break_10501_1",
+            "desc": "escalonado",
+            "dlg": "Eca!"
+        },
+        {
+            "id": "battle_kill_10501_1",
+            "desc": "Inimigo morto",
+            "dlg": "Feito de acordo."
+        },
+        {
+            "id": "battle_allydead_10501_1",
+            "desc": "Aliado Morte",
+            "dlg": "Por favor, siga as regras."
+        },
+        {
+            "id": "choice_success_p_10501_2",
+            "desc": "Verificação aprovada",
+            "dlg": "Eu consegui."
+        },
+        {
+            "id": "choice_fail_n_10501_1",
+            "desc": "Verificação falhou",
+            "dlg": "Eu falhei."
+        },
+        {
+            "id": "battle_clear_10501_1",
+            "desc": "Grito de vitória",
+            "dlg": "Eu simplesmente segui ordens."
+        },
+        {
+            "id": "battle_clear_ex_10501_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "É o que deveria ter sido feito; elogios são redundantes."
+        },
+        {
+            "id": "battle_defeat_10501_1",
+            "desc": "Derrote Wail",
+            "dlg": "Imploro que você revise a estratégia."
+        }
+    ]
+}

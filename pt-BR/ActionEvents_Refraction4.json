@@ -1,0 +1,62 @@
+{
+    "dataList": [
+        {
+            "id": 862901,
+            "name": "",
+            "subDesc": "",
+            "desc": "Um salão de banquetes vazio, envolto em luz carmesim ambiente.\n\nO rei solitário, preso ao seu trono, levanta o braço em um movimento sem pressa.\n\nSeus pés ficam encharcados na névoa fria de uma melodia vaga.\n\nO rei solitário aponta gentilmente para uma plataforma perto de você com uma cadência convidativa.\n\nNela há máscaras, cada uma representando um espectro diferente de emoções.\n\nHá uma máscara de alegria. Uma máscara de tristeza. Uma máscara de ira.\n\nQue rosto deve ser usado nesta audiência com o rei?",
+            "options": [
+                {
+                    "message": "Use a máscara da alegria.",
+                    "messageDesc": "Selecione para ganhar mais Velocidade Máxima, cura de SP para todos os aliados e Grande Boas-vindas para este Encontro.",
+                    "result": [
+                        "You place the mask of joy over your face.\n\nConfidence fills you, and nothing seems out of the realm of possibilities.\n\nThe Sinners march into the banquet hall, their feet unbound by uncertainty.\n\nTo the throne that could never be a respite.\n\nLet this battle bring a fleeting moment of joy for the lone-king who shall reign eternal, reign unaccompanied.\n\nThus, the Sinners, wearing expressions of boundless joy, open the prelude to this grand banquet."
+                    ]
+                },
+                {
+                    "message": "Use a máscara da tristeza.",
+                    "messageDesc": "Selecione para ganhar Poder de Conflito, cura de SP para todos os aliados e Grande Boas-vindas para este Encontro.",
+                    "result": [
+                        "You place the mask of sorrow over your face.\n\nThe omnipresent pressure slowly evaporates.\n\nThe Sinners walk gently into the banquet hall, wreathed in silence.\n\nTo the throne that could never be a respite.\n\nLet this battle bring a fleeting moment of solace for the lone-king who shall reign eternal, reign unaccompanied.\n\nThus, the Sinners, wearing expressions of solemn sorrow, open the prelude to this grand banquet."
+                    ]
+                },
+                {
+                    "message": "Use a máscara da ira.",
+                    "messageDesc": "Selecione para causar mais dano, ganhar cura de SP para todos os aliados e Grande Boas-vindas para este Encontro.",
+                    "result": [
+                        "You place the mask of wrath over your face.\n\nYour body feels lighter, yet your fists curl with great might.\n\nThe Sinners sprint passionately toward the throne.\n\nTo the throne that could never be a respite.\n\nLet this battle spark the flames of battle-joy for the lone king who shall reign eternal, reign unaccompanied.\n\nThus, the Sinners, wearing expressions of battle, open the prelude to this grand banquet."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862902,
+            "name": "",
+            "subDesc": "",
+            "desc": "A paixão fica mais quente à medida que o banquete lentamente atinge um crescendo.\n\nO Rei em Binds gesticula para que a batalha pare.\n\nIsso nos dá tempo suficiente para deixar nossas máscaras quebradas e vestir novas para nós mesmos.\n\nQue novo rosto usaremos na audiência do rei?",
+            "options": [
+                {
+                    "message": "Use a máscara da alegria.",
+                    "messageDesc": "Selecione para curar SP de todos os aliados.",
+                    "result": [
+                        "You wear the mask of joy over your face.\n\nYour thoughts become refreshingly clear."
+                    ]
+                },
+                {
+                    "message": "Use a máscara da tristeza.",
+                    "messageDesc": "Selecione para ganhar recursos E.G.O.",
+                    "result": [
+                        "You wear the mask of sorrow over your face.\n\nThe Sinners' hearts absorb its strength and determination like sponges."
+                    ]
+                },
+                {
+                    "message": "Use a máscara da ira.",
+                    "messageDesc": "Selecione para ganhar AUMENTO de dano neste encontro.",
+                    "result": [
+                        "You wear the mask of wrath over your face.\n\nPassion compels the Sinners' hands to fiercely grasp their weapons."
+                    ]
+                }
+            ]
+        }
+    ]
+}

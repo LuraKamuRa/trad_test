@@ -1,0 +1,984 @@
+{
+  "dataList": [
+    {
+      "id": 9008801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sow Fear",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal 2 SP dano"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal 2 SP dano"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Engrave Horror",
+          "desc": "[[Bracket]] causar 10 danos causados ​​pelo alvo; Esta unidade cura 10 hp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 Ligue a próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reap Horror",
+          "desc": "Se o SP da Target estiver abaixo de 20, curar 20% mais hp deste ataque",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal 3 SP dano"
+                },
+                {
+                  "desc": "[[Suporte]] Cura em 30% dos danos causados"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal 3 SP dano"
+                },
+                {
+                  "desc": "[[Suporte]] Cura em 30% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paralyze Mind",
+          "desc": "Se o SP da Target estiver abaixo de -15, causar +50% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 paralisar a próxima curva na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 paralisar a próxima curva na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- ... -.-",
+          "desc": "[[Suporte]] infligir 1 ruído pálido",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 naufrágio"
+                },
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9008903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- .",
+          "desc": "Power final +1 para cada aliado palidificado sobrevivente (sem contar esta unidade)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura em 40% dos danos causados"
+                },
+                {
+                  "desc": "[[Bracket]] Copie um dos buffs atualmente aplicado ao destino. Ganhe o buff copiado no próximo turno.\n(Limitado a: Ataque Power Up, Haste, Dan Up e [[Tag-Sprite]] [[Tag-Color]] [[Tag-U]] [[Tag-Link]] Protection [[Tag-Link]] [[Tag-U]] [[Tag-Color]]))"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura em 40% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. . --",
+          "desc": "[[Suporte]] infligir 1 ruído pálido",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de naufrágio"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. -",
+          "desc": "[[Bracket]] Deal 1 SP dano ao alvo para cada aliado palidificado sobrevivente (não contando esta unidade)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura em 40% dos danos causados"
+                },
+                {
+                  "desc": "Copie um dos buffs atualmente aplicado ao destino. Ganhe o buff copiado no próximo turno.\n(Limitado a: Ataque Power Up, Haste, Dan Up e [[Tag-Sprite]] [[Tag-Color]] [[Tag-U]] [[Tag-Link]] Protection [[Tag-Link]] [[Tag-U]] [[Tag-Color]]))"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Cura em 40% dos danos causados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... .…",
+          "desc": "Se o alvo tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] afundando [[tag-link]] [[tag-u]] [[tag-color]], o efeito cura HP também se aplica a outros 1 aliado palidificado com o menor SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura em 30% dos danos causados"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 naufrágio"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura em 30% dos danos causados"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 naufrágio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--- .",
+          "desc": "Se o alvo tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] afundando [[tag-link]] [[tag-u]] [[tag-color]], o efeito cura HP também se aplica a outros 1 aliado palidificado com o menor SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura em 50% dos danos causados"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 ruído pálido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-. .…",
+          "desc": "[[Bracket]] Se o alvo possui [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] ruído pálido [[tag-link]] [[tag-u]] [[coloria de tag]], todos os outros aliados palidificados curam 30 hp 30 hp",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Copie um dos buffs atualmente aplicado ao destino. Ganhe o buff copiado no próximo turno.\n(Limitado a: Ataque Power Up, Haste, Dan Up e [[Tag-Sprite]] [[Tag-Color]] [[Tag-U]] [[Tag-Link]] Protection [[Tag-Link]] [[Tag-U]] [[Tag-Color]]))"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Cura 20 hp em si mesmo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- . -.-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 tremor"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-... .-",
+          "desc": "[[Bracket]] Aplique 1 proteção a 1 outro aliado aleatório próximo. Se o aliado for um aliado palidificado, aplique 1 proteção adicional.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +4 contagem de tremores"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.-. ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Trigger Tremor Burst"
+                },
+                {
+                  "desc": "[[Bracket]] Reduza a contagem de tremores em 2"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 10 ruptura e contagem de ruptura +4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .",
+          "desc": "[[Suporte]] Ganhe 1 proteção para cada 2 aliado palidificado (sem contar esta unidade)\nQuando atacado enquanto esta unidade tem escudo, infliga 1 tremor ao atacante",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "..-. .",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 nível de defesa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .",
+          "desc": "[[Bracket]] Aplique 1 dano até 1 outro aliado palidificado aleatório na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 paralisos"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. .-",
+          "desc": "[[Bracket]] Aplique 1 dano até 1 aliado palidificado aleatório na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 nível de defesa"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 nível de defesa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "--. . ...-",
+          "desc": "Se o alvo tiver [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] ruído pálido [[tag-link]] [[tag-u]] [[tag-color]], dano 1 SP do alvo para qualquer outro aliado sobrevivente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...- …",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. .... -",
+          "desc": "[[Suporte]] infligir 1 ruído pálido",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 sangramento na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 a próxima curva frágil na próxima vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- -",
+          "desc": "Quando atacado enquanto esta unidade possui escudo, inflige 1 ruído pálido ao alvo\n[[Suporte]] Se esta unidade tiver escudo, ganhe 3 postagem na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".--. -",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": ".-.. - ..-",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 paralisação no próximo turno"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 danos na próxima curva"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-- .... -",
+          "desc": "[[Bracket]] Ganhe 1 proteção para cada aliado sobrevivente. (Máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] Ganhe 2 proteção"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 1 ruído pálido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 2 Proteção Próxima turno"
+                },
+                {
+                  "desc": "[[Suporte]] infligir 4 sangramento na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "-.- ..",
+          "desc": "[[Suporte]] Ganhe 2 proteção\nQuando atacado enquanto esta unidade possui escudo, inflige 1 ruído pálido ao alvo\n[[Bracket]] Cura HP por x2 do restante HP de escudo.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Right in the Solar Plexus",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 paralisação no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "We Remember!",
+          "desc": "[[Suporte]] Ganhe 1 dano no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 se liga ao próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] causar danos fixo adicionais iguais ao número de aliados do meio mortos durante esta onda"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Skull Crushing",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 Atacar a energia na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 paralisar a próxima curva na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ready to Write",
+          "desc": "[[Bracket]] Se esta unidade tiver escudo, ganhe 1 ataque Power Up no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vengeance",
+          "desc": "[[Suporte]] Ganhe 1 dano no próximo turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 paralisar a próxima curva na próxima curva"
+                },
+                {
+                  "desc": "[[Bracket]] Aumente o limiar de cambaleante por 8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Multifold Retribution",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aumente o limiar de cambaleante em 30"
+                },
+                {
+                  "desc": "[[Bracket]] causar 20 danos fixo da HP"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Right in the Solar Plexus",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 paralisação no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Write Their Sins!",
+          "desc": "[[Suporte]] Ganhe 1 dano no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 danos na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] causar danos fixo adicionais iguais ao número de aliados do meio mortos durante esta onda"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Skull Bursting",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 mais queda de moeda na próxima curva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 1 mais queda de moeda na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ready to Write",
+          "desc": "Se o escudo desta unidade estiver totalmente esgotado, obtenha 1 ataque de ataque na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vengeance",
+          "desc": "[[Suporte]] Ganhe 1 dano no próximo turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 paralisar a próxima curva na próxima curva"
+                },
+                {
+                  "desc": "[[Bracket]] Aumente o limiar de cambaleante por 8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9009706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Multifold Retribution",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Aumente o limiar de cambaleante em 30"
+                },
+                {
+                  "desc": "[[Bracket]] causar 20 danos fixo da HP"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 3 paralisar na próxima curva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+    "dataList": [
+        {
+            "id": 90001,
+            "name": "Verminous Body",
+            "desc": "No final do turno, cure 5 hp."
+        },
+        {
+            "id": 90002,
+            "name": "Nutritive Reinforcements",
+            "desc": "Depois de derrotar um inimigo, cure 20 hp e ganhe 5 de defesa no próximo turno."
+        },
+        {
+            "id": 90003,
+            "name": "Sharp Edge",
+            "desc": "Em sucesso, infligir 1-2 sangrar.\nSe uma unidade estiver marcada, ataque -a primeiro."
+        },
+        {
+            "id": 90004,
+            "name": "Weak Morale",
+            "desc": "Sempre que um aliado morre, ganha permanentemente 1 frágil."
+        },
+        {
+            "id": 90005,
+            "name": "Retribution",
+            "desc": "Quando a HP cair abaixo de 50%, ganhe 5 ataques de ataque na próxima curva."
+        },
+        {
+            "id": 90006,
+            "name": "Mind Wave",
+            "desc": "On Hit, Target perde 10 sp."
+        },
+        {
+            "id": 9000101,
+            "name": "Injured Augmentation",
+            "desc": "No início do turno, se a menos de 50% hp, cicatrize 1 hp."
+        },
+        {
+            "id": 9000102,
+            "name": "Augmented Body",
+            "desc": "No início do turno, se a menos de 50% hp, cure 2 hp."
+        },
+        {
+            "id": 9000103,
+            "name": "Corroded Augmentation",
+            "desc": "No início do turno, se a menos de 50% hp, cure 4 hp."
+        },
+        {
+            "id": 9100301,
+            "name": "Big Boss",
+            "desc": "Quando esta unidade é derrotada, todos os seus aliados perdem 45 sp."
+        },
+        {
+            "id": 9100302,
+            "name": "Not Me Boys!",
+            "desc": "Esta unidade perde 15 SP sempre que um aliado é derrotado."
+        },
+        {
+            "id": 9100401,
+            "name": "Hora de Fiesta",
+            "desc": "No início do turno, todos os aliados curam 10 sp.\nEm mais de 20 sp, ganha 1 ataque de ataque e 1 defesa Power Up no Turn Start."
+        },
+        {
+            "id": 9100402,
+            "name": "Se Acabó la Fiesta",
+            "desc": "Quando esta unidade é derrotada, todos os seus aliados perdem 45 sp."
+        },
+        {
+            "id": 9002801,
+            "name": "HP Bullets",
+            "desc": "No início do turno, cure 15 hp.\nEm menos de 50% hp, curar 15 hp adicionais."
+        },
+        {
+            "id": 9003201,
+            "name": "Noble be Thy Sacrifice",
+            "desc": "Quando um aliado for derrotado, ganhe 1 ataque de ataque na próxima curva."
+        },
+        {
+            "id": 9003801,
+            "name": "Joy of Execution",
+            "desc": "Depois de derrotar um inimigo, ganhe 2 danos no próximo turno."
+        },
+        {
+            "id": 9100501,
+            "name": "Hammer of the One Who Grips",
+            "desc": "No início do turno, todos os aliados curam 10 sp.\nQuando esta unidade é derrotada, todos os seus aliados perdem 45 sp."
+        },
+        {
+            "id": 9100601,
+            "name": "Persistence",
+            "desc": "Quando a HP cair abaixo de 50%, remova todos os efeitos do status negativo na próxima curva e ganhe 4 fanáticos, 1 ataque de ataque e 1 defesa Power Up cada turno."
+        },
+        {
+            "id": 9100502,
+            "name": "Thou Shalt Hammer",
+            "desc": "Se esta unidade for fanática, causará +50% de dano."
+        },
+        {
+            "id": 9004601,
+            "name": "Mechanical Mentality",
+            "desc": "A sanidade é fixada em 0."
+        },
+        {
+            "id": 9004602,
+            "name": "Solid Exterior",
+            "desc": "Tome metade do dano de<sprite name=\"Laceration\"><color=#f8c200><u><link=\"Laceration\">Sangrar</color></link></u>e<sprite name=\"Combustion\"><color=#f8c200><u><link=\"Combustion\">Queimar</color></link></u>."
+        },
+        {
+            "id": 9004603,
+            "name": "Caution: Unsteady",
+            "desc": "O limiar de cambaleante desta unidade aumenta 50% a mais quando afetado pela explosão do tremor"
+        },
+        {
+            "id": 9004604,
+            "name": "Caution: Delicate",
+            "desc": "Receber +30% de dano de<sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">Ruptura</color></link></u>(Arredondado para baixo)"
+        },
+        {
+            "id": 9004901,
+            "name": "Damageable Disuniter",
+            "desc": "Depois de ser escalonado, infligir 1 menos ruptura e contagem de ruptura"
+        },
+        {
+            "id": 9005001,
+            "name": "Damageable Thumper",
+            "desc": "Depois de ser escalonado, infligir 1 menos tremor e contagem de tremores"
+        },
+        {
+            "id": 9100701,
+            "name": "Overheating Attack Function",
+            "desc": "Ao cambalear uma unidade com um ataque, ganhe 3 danos no próximo turno."
+        },
+        {
+            "id": 9100702,
+            "name": "Breakable Disuniter",
+            "desc": "Depois de ser escalonado, infligir 3 a menos de ruptura e contagem de ruptura"
+        },
+        {
+            "id": 9100703,
+            "name": "Breakable Thumper",
+            "desc": "Depois de ser escalonado, infligir 3 a menos de tremor e contagem de tremores"
+        },
+        {
+            "id": 9100801,
+            "name": "Spanner Up",
+            "desc": "Ganhe ressonante pelo número de moedas da cabeça que atingem com sucesso durante um turno. (Máximo 10)"
+        },
+        {
+            "id": 9100802,
+            "name": "Rosespanner Workshop Rep",
+            "desc": "Infligir mais tremor pelo número de aliados que morreram nesta onda"
+        },
+        {
+            "id": 9100803,
+            "name": "Guess I'm the Last",
+            "desc": "Quando sozinho, ganhe 1 ressonante e 1 tremor sincronize a cada turno."
+        },
+        {
+            "id": 9100804,
+            "name": "I've Got No Choice",
+            "desc": "Quando sozinho, marca a última unidade que atacou esse personagem como um turno de alvo no próximo."
+        },
+        {
+            "id": 9100901,
+            "name": "Entangling Curse Talisman",
+            "desc": "Ganhe os talismãs de maldição emaranhados pelo número de confrontos em que a unidade se envolveu durante um turno."
+        },
+        {
+            "id": 9100902,
+            "name": "Strangling Curse Talisman",
+            "desc": "Com 10 talismãs de maldição emaranhados, aumente o limiar de cambaleou em 10 e remova o status."
+        },
+        {
+            "id": 9100903,
+            "name": "Multiplying Curse Talisman",
+            "desc": "A 30% ou menos HP, infligir talismã de maldição recorrente"
+        },
+        {
+            "id": 9100904,
+            "name": "Encroaching Curse Talisman",
+            "desc": "A 30% ou menos HP, se o alvo tiver mais de 5 maldições de maldição recortada após o término de um ataque, infligir 2 paralisem na próxima curva."
+        },
+        {
+            "id": 9006201,
+            "name": "Floods of Sorrow",
+            "desc": "Tails Moedas infligir 2 naufrágio"
+        },
+        {
+            "id": 9006202,
+            "name": "Overflowing Sorrow",
+            "desc": "No final do turno, perde 5 sp"
+        },
+        {
+            "id": 9006101,
+            "name": "Intoxication",
+            "desc": "No 5 Moral Boost, ganhe 5 embriagado."
+        },
+        {
+            "id": 9006102,
+            "name": "Hangover Cure",
+            "desc": "Aos 5 Tipsy, usa uma habilidade de defesa."
+        },
+        {
+            "id": 9006801,
+            "name": "Healing Ampule Injection",
+            "desc": "No início do turno, cure 20 hp."
+        },
+        {
+            "id": 9006802,
+            "name": "Emergency Ampule Administration",
+            "desc": "Em menos de 25% hp, curar até 40% do máximo de HP (somente único)"
+        },
+        {
+            "id": 9007001,
+            "name": "Golden Time",
+            "desc": "No final do turno, se o HP estiver entre 12% e 24%, curar instantaneamente até 65% do máximo de HP e se recuperar de escalonamento. (Somente única)"
+        },
+        {
+            "id": 9007002,
+            "name": "Time Reversion Retroaction",
+            "desc": "Depois de ativar o tempo de ouro, ganhe 3 frágeis na extremidade do turno."
+        },
+        {
+            "id": 9005401,
+            "name": "Terror Device",
+            "desc": "Quando um aliado ataca outro aliado, causar dano 3 SP"
+        },
+        {
+            "id": 9006901,
+            "name": "Healing Ampule Injection",
+            "desc": "No início do turno, cure 20 hp."
+        },
+        {
+            "id": 9006902,
+            "name": "Emergency Ampule Administration",
+            "desc": "Em menos de 25% hp, curar até 40% do máximo de HP (somente único)"
+        },
+        {
+            "id": 9006803,
+            "name": "Emergency Ampule Overdose",
+            "desc": "HP não cai abaixo de 1;\nSe a 60 hp no início do turno, entre em um estado ligado."
+        }
+    ]
+}

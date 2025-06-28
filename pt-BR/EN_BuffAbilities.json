@@ -1,0 +1,348 @@
+{
+  "dataList": [
+    {
+      "id": "AtkDamageMultiplier",
+      "desc": "{0}% para danos causados",
+      "variation": "{1}% para {0} dano causado"
+    },
+    {
+      "id": "AtkAndTakeAtkDamageMultiplier",
+      "desc": "{0}% para danos causados ​​e tomados",
+      "variation": "{1}% para danos causados ​​e tomados com {0} afinidade"
+    },
+    {
+      "id": "GiveBuffOnSucceedAttack",
+      "desc": "Aplicar {1} {0} no hit"
+    },
+    {
+      "id": "MaxHpMultiplierRail",
+      "desc": "Max HP {0}%"
+    },
+    {
+      "id": "SlotWeightAdder",
+      "desc": "Peso do slot {0}"
+    },
+    {
+      "id": "AtkAdder",
+      "desc": "Nível de ofensa {0}"
+    },
+    {
+      "id": "DefAdder",
+      "desc": "Nível de defesa {0}"
+    },
+    {
+      "id": "AtkAdderIfNotDamagedPrevTurn",
+      "desc": "Nível de ofensa {0} Se o usuário não sofre de danos hp para uma curva\n(Dano de escudo ≠ hp dano)"
+    },
+    {
+      "id": "MaxSpeedAdderAsStack",
+      "desc": "Velocidade máxima {0}"
+    },
+    {
+      "id": "MaxSpeedAdder",
+      "desc": "Velocidade máxima {0}"
+    },
+    {
+      "id": "MinSpeedAdder",
+      "desc": "Velocidade min {0}"
+    },
+    {
+      "id": "TakeHpHealMultiplier",
+      "desc": "HP curou os efeitos da habilidade e da moeda {0}%"
+    },
+    {
+      "id": "RecoverSelfHpOnSucceedAttackByDmg",
+      "desc": "Curar {0}% de dano causado"
+    },
+    {
+      "id": "RailEnemyBuffF",
+      "desc": "{0} para montar, por exemplo, recursos consumidos pelos pecadores ao usar, por exemplo, habilidades"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "desc": "Max HP {0}%"
+    },
+    {
+      "id": "AtkAndDefAdder",
+      "desc": "Nível de ofensa {0}, nível de defesa {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAlly",
+      "desc": "No início da curva, aplique {1} {0} e +{2} {0} contagem a todos os aliados",
+      "variation": "No início da curva, aplique {1} {0} a todos os aliados.",
+      "variation2": "At the start of the turn, apply +{1} {0} Count to all allies"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAllyExtra",
+      "desc": "No início da curva, aplique {1} {0} a todos os aliados e aplique +{2} mais {0} contagem de aliados com {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllEnemyExtra",
+      "desc": "No início da curva, aplique {1} {0} a todos os inimigos e aplique +{2} mais {0} contagem a todos os inimigos com {0}"
+    },
+    {
+      "id": "LoseTurnOnRoundEnd",
+      "desc": "Turn End: Lose {0} contagem"
+    },
+    {
+      "id": "Vibration",
+      "desc": "Quando atingido por ataques que desencadeiam o tremor explosão, aumente o limiar de escalonamento por {0}. Dura {1} turno (s)."
+    },
+    {
+      "id": "DefAdderByStackCeilToInt",
+      "desc": "Perder 1 nível de defesa para cada 4 Potência do Tremor"
+    },
+    {
+      "id": "Crack",
+      "desc": "Quando escalonado, e quando a soma da potência e da contagem do tremor somente 20 ou mais, aumente o nível de escalonamento por 1\nNão pode exceder o nível máximo de escalonamento com este efeito"
+    },
+    {
+      "id": "VibrationEcho",
+      "desc": "Quando atingido por ataques que desencadeiam o tremor, tome {0} dano da preguiça."
+    },
+    {
+      "id": "VibrationDistribution",
+      "desc": "- Turn End: Gain ((soma de todos os aliados do tremor - contagem de distribuição) / (# de aliados com tremor - distribuição)) AFENSEIRA Nível no próximo turno (máximo 5)"
+    },
+    {
+      "id": "VibrationChain",
+      "desc": "Perca 1 poder de confronto para cada 10 Potência do Tremor no alvo (máximo 3)"
+    },
+    {
+      "id": "VibrationContinue",
+      "desc": "- Ao desencadear o tremor estourar com os efeitos de habilidade ou moeda, {0}% chance de desencadear uma explosão adicional de tremor. (no máximo 50%)\n- Ao desencadear o tremor estourar com os efeitos de habilidade ou moeda, {1}% de chance de desencadear uma explosão adicional de tremor. (no máximo 50%)"
+    },
+    {
+      "id": "TimeSuspend",
+      "desc": "Após a ativação, Deal {3} dano e gatilho da preguiça {0} Tremor Burst (s)"
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "Borrowed Time",
+      "desc": "Turn End: Gain {1} Anteza, Clash Power Up e Fragile Next Turn\nNa 1 contagem, ganha {0} liga a próxima curva",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "Tremor - Chain",
+      "desc": "Perca 1 poder de confronto para cada 10 Potência do Tremor (máximo 3)",
+      "summary": ""
+    },
+    {
+      "id": "DefSkillPowerResultAdder",
+      "desc": "Habilidade de defesa Power final {0}"
+    },
+    {
+      "id": "TakeAtkDamageMultiplier",
+      "desc": "Danos causados ​​{0}%"
+    },
+    {
+      "id": "ParryingResultAdder",
+      "desc": "Power de choque {0}"
+    },
+    {
+      "id": "SkillPowerResultAdder",
+      "desc": "Power final {0}"
+    },
+    {
+      "id": "SkillPowerAdder",
+      "desc": "Power base {0}"
+    },
+    {
+      "id": "PlusCoinScaleAdder",
+      "desc": "Mais poder de moeda {0}"
+    },
+    {
+      "id": "MinusCoinScaleAdder",
+      "desc": "Minus Coin Power {0}"
+    },
+    {
+      "id": "DefaultMaxHpMultiplier",
+      "desc": "Max HP {0}%"
+    },
+    {
+      "id": "ResistAdderForLastBoss",
+      "desc": "Chefe final da seção 3 {0} Resistência {1}"
+    },
+    {
+      "id": "MRR519P",
+      "desc": "Sempre que um aliado morre, infligir danos fixos iguais a 20% do HP máximo do aliado morto contra todos os inimigos"
+    },
+    {
+      "id": "HealSelfOnSucceedAttackByDmgRatio",
+      "desc": "Em sucesso, se o golpe reduzisse o HP do alvo, cure por {0}% dos danos causados"
+    },
+    {
+      "id": "MRR524P",
+      "desc": "Todas as habilidades causam +1% mais danos a cada 10 {0} em si (máximo 30%)"
+    },
+    {
+      "id": "MRR525",
+      "desc": "Turn End: Lose {1} {0} contagem"
+    },
+    {
+      "id": "CoinScaleAdderByAtkType",
+      "desc": "{0} habilidades ganho mais poder de moeda +{1}, menos poder da moeda -{1}"
+    },
+    {
+      "id": "GiveBuffOnReleaseStandBy",
+      "desc": "Ganho {1} {0} ao substituir em"
+    },
+    {
+      "id": "MRR532",
+      "desc": "Depois de usar um despertar, por exemplo, consome também 1, por exemplo, recurso de 3 afinidades aleatórias do SIN com mais de 1, por exemplo"
+    },
+    {
+      "id": "LacerationStackAndTurnAdder",
+      "desc": "+{0} para {1} potência e contagem infligida com efeitos de habilidade e moeda"
+    },
+    {
+      "id": "MRR536",
+      "desc": "Quando atingido por uma habilidade, ganhe aleatoriamente 1 do seguinte turno seguinte: {0}, {1} (4 vezes max)"
+    },
+    {
+      "id": "MRR540",
+      "desc": "Habilidades que consomem {0} Ganhe o seguinte: Power final +1, troca +10% mais danos"
+    },
+    {
+      "id": "MRR541",
+      "desc": "Ao direcionar principalmente a unidade com o mais baixo {1}, habilidade Final Power +{0}"
+    },
+    {
+      "id": "MRR518P",
+      "desc": "Início de combate: 3 Atualmente mais os primeiros aliados implantados ganham 10 poese potência"
+    },
+    {
+      "id": "MRR520P",
+      "desc": "Na morte, infligir danos fixos iguais a {0}% do máximo da unidade morta HP contra todos os inimigos (para encontros focados, todas as partes)"
+    },
+    {
+      "id": "MRR517",
+      "desc": "Quando atingido por uma habilidade, ganhe 2 ofensas no nível do próximo turno (máximo 6)"
+    },
+    {
+      "id": "MRR5051",
+      "desc": "On Hit com habilidades que consumiram 8+ {0} contagem: +0.1 a {1} resistência no alvo para este encontro\n- Uma vez por habilidade por inimigo\n- Ajuste máximo de resistência com este efeito: 0.3"
+    },
+    {
+      "id": "MRR5052",
+      "desc": "Habilidades que ganham ou consomem {0} contagem de acordo + (10 + (contagem de carga consumida x 2))% mais danos (máximo 50%)"
+    },
+    {
+      "id": "MRR506",
+      "desc": "Turn End: Para cada palavra -chave, contra todas as partes inimigas com contagem de 2+, infligir {1} dano igual a {0} potência em cada parte; Em seguida, reduza sua contagem {0} por 1, gatilho {2} uma vez e reduza a contagem {3} por 1"
+    },
+    {
+      "id": "MRR507",
+      "desc": "Habilidades que infligem {0} potência ou contagem: potência final +2"
+    },
+    {
+      "id": "MRR508",
+      "desc": "Deal +({0} potência no destino)% mais danos contra alvos em menos de 0 SP ou sem SP (máximo 45%)"
+    },
+    {
+      "id": "MRR509P",
+      "desc": "Acordo +{0}% mais danos contra peças destruídas ou escalonadas"
+    },
+    {
+      "id": "GiveBuffOnFirstRoundStartPerWave",
+      "desc": "Primeira virada Início de uma onda: ganho {1} {0} potência e +{2} {0} contagem"
+    },
+    {
+      "id": "GiveBuffOnBattleStartAR",
+      "desc": "Se {0} resson. foi ativado, todos os aliados ganham {2} {1} potência e +{3} {1} contagem no início do combate"
+    },
+    {
+      "id": "MRR511PMaxSpeedAdder",
+      "desc": "#1 Ally implantado: velocidade máxima +1"
+    },
+    {
+      "id": "MRR511PMinSpeedAdder",
+      "desc": "#1 Ally implantado: velocidade min +1"
+    },
+    {
+      "id": "MRR511PMinSpeedChangeSkill",
+      "desc": "#1 Ally implantado: perca uma habilidade 1, mas ganhe uma habilidade 3"
+    },
+    {
+      "id": "MRR512",
+      "desc": "A partir do #7, o pecador implantado, no início do mesmo turno, ele substitui, cura {0} sp, ganha {2} {1} para o encontro e ganho {3}, por exemplo, recurso para cada uma de suas habilidades 1, 2 e 3"
+    },
+    {
+      "id": "AddSinStockOnKillTargetByUsedSkillAttribute",
+      "desc": "Depois de usar um ataque ou uma habilidade de contador, se o inimigo for derrotado, ganhe {0}, por exemplo, recurso da afinidade da habilidade que foi usada (uma vez por habilidade, incluindo, por exemplo"
+    },
+    {
+      "id": "MRR514",
+      "desc": "Quando os inimigos de backup entram na batalha, infligir 5 sangrar e +3 sangrar contra eles no início do combate. Se houver um [[Bloodfiend]] entre os aliados: quando as condições acima forem atendidas: Ative o sangramento em todos os inimigos uma vez e reduza sua contagem de sangramento por 1"
+    },
+    {
+      "id": "EnemyLevelTextOnly",
+      "desc": "Nível inimigo {0}"
+    },
+    {
+      "id": "MRR501",
+      "desc": "+{0} para queimar, sangrar, tremor, ruptura e potência afundada infligida contra inimigos com habilidades e efeitos de moedas"
+    },
+    {
+      "id": "TakeBuffTurnAdder",
+      "desc": "{1} para {0} contagem obtida por aliados com habilidades e efeitos de moedas"
+    },
+    {
+      "id": "MRR503",
+      "desc": "{0} Aliados com o menor SP Heal {1} ​​SP no Turn End (excluindo: Aliados que estão em pânico ou corroídos)"
+    },
+    {
+      "id": "CriticalDamageBoostWithBuffUse",
+      "desc": "No crit, em mais de {1} {0} potência, consuma até {1} do excesso {0} potência para negociar +(potência de equilíbrio consumida x {2})% mais danos no acerto crítico (max {3}%)"
+    },
+    {
+      "id": "GainSinStockOnDieByDefaultSkill",
+      "desc": "Quando derrotado, ganho, por exemplo, recursos com base na afinidade e classificação de cada habilidade de ataque"
+    },
+    {
+      "id": "MRR547",
+      "desc": "Turn Start: Todas as habilidades inimigas ganham poder final +1 ~ 3"
+    },
+    {
+      "id": "MRR544",
+      "desc": "Turn Start: Todas as habilidades de aliado ganham potência final +1 ~ 3"
+    },
+    {
+      "id": "MRR551",
+      "desc": "Turn Start: no max hp, ganho {1} {0} potência e +{2} contagem (uma vez por inimigo por parte por encontro)"
+    },
+    {
+      "id": "MRR552",
+      "desc": "Na morte, 1 aliado com os ganhos HP menos atuais {1} {0} Próxima virada"
+    },
+    {
+      "id": "MRR553",
+      "desc": "Por exemplo, acordo de habilidades +{0}% mais dano"
+    },
+    {
+      "id": "MRR521",
+      "desc": "Remova o primeiro limite de craque"
+    },
+    {
+      "id": "MRR557",
+      "desc": "Acordo + (10 + {0} potência + {0} contagem)% mais danos no acerto crítico (máximo 50%)"
+    },
+    {
+      "id": "LacerationStackAndTurnAdderIfNotZero",
+      "desc": "+{0} para {1} potência e contagem infligida com efeitos de habilidade e moeda"
+    },
+    {
+      "id": "AttackDmgMultiplierSpecificType",
+      "desc": "{0} Skills Oference +30% mais danos"
+    },
+    {
+      "id": "MRR565MaxSpeedAdder",
+      "desc": "Velocidade máxima {0}"
+    },
+    {
+      "id": "MRR565MinSpeedAdder",
+      "desc": "Velocidade min {0}"
+    }
+  ]
+}

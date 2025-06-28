@@ -1,0 +1,469 @@
+{
+  "dataList": [
+    {
+      "id": 9701,
+      "name": "Hot ‘n Juicy Drumstick",
+      "desc": "Ao infligir [[suporte]] com habilidades contra inimigos, infligir +3 [[bracket]] contagem",
+      "simpleDesc": [
+        {
+          "abilityID": 9701,
+          "simpleDesc": "Ao infligir [[suporte]] com uma habilidade, infligir +3 [[suporte]] contagem"
+        }
+      ]
+    },
+    {
+      "id": 9702,
+      "name": "Dry-to-the-Bone Breast",
+      "desc": "Ao infligir [[suporte]] com habilidades contra inimigos, infligir +3 [[bracket]] contagem",
+      "simpleDesc": [
+        {
+          "abilityID": 9702,
+          "simpleDesc": "Ao infligir [[suporte]] com uma habilidade, infligir +3 [[suporte]] contagem"
+        }
+      ]
+    },
+    {
+      "id": 9703,
+      "name": "Tango Marinade",
+      "desc": "Se a velocidade da unidade for mais rápida que a do alvo, Gain +(Speed/3) Clash Power. (Máx 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9703,
+          "simpleDesc": "Gain +(Speed/3) Clash Power."
+        }
+      ]
+    },
+    {
+      "id": 9704,
+      "name": "Contaminated Needle & Thread",
+      "desc": "O efeito a seguir se aplica à primeira habilidade para causar danos a um inimigo.\n\nInfligir (dano causado/3) [[suporte]] potência.",
+      "simpleDesc": [
+        {
+          "abilityID": 9704,
+          "simpleDesc": "Infligir (dano causado/3) [[suporte]] potência"
+        }
+      ]
+    },
+    {
+      "id": 9705,
+      "name": "Sharp Needle & Thread",
+      "desc": "A cada turno, a primeira habilidade para causar danos a um inimigo causa dano fixo bônus por metade dos danos causados.",
+      "simpleDesc": [
+        {
+          "abilityID": 9705,
+          "simpleDesc": "Acordo (dano causado/2) dano fixo de bônus"
+        }
+      ]
+    },
+    {
+      "id": 9706,
+      "name": "Oil-gunked Spanner",
+      "desc": "Skills Blunt causar +10% mais danos\n\nMoeda final de habilidades bruscas infligir 2 [[suporte]] potência no sucesso. (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9706,
+          "simpleDesc": "Skills Blunt causar +10% mais danos"
+        },
+        {
+          "abilityID": 97061,
+          "simpleDesc": "Infligir 2 [[suporte]] potência contra o inimigo."
+        }
+      ]
+    },
+    {
+      "id": 9707,
+      "name": "Twinkling Scrap",
+      "desc": "Quando um aliado com escudo é atingido por um inimigo, reflita 3 danos fixos. (não reflete danos quando o aliado não sofreu nenhum dano de escudo)",
+      "simpleDesc": [
+        {
+          "abilityID": 9707,
+          "simpleDesc": "Refletir 3 danos fixo"
+        }
+      ]
+    },
+    {
+      "id": 9708,
+      "name": "Trash Crab Brain Wine",
+      "desc": "Quando um aliado ataca um inimigo que tem [[suporte]] com uma habilidade que inflige [[suporte]] potência ou contagem, acordo +([[[suporte]] contagem x 1,25)% mais danos. (no máximo 50%)\n\nQuando um aliado se recuperar de escalonamento, curar 20% do máximo de HP. (2 vezes por encontro)",
+      "simpleDesc": [
+        {
+          "abilityID": 9708,
+          "simpleDesc": "Acordo +([[suporte]] contagem x 1,25)% mais dano (máximo 50%)"
+        },
+        {
+          "abilityID": 97081,
+          "simpleDesc": "Cura 20% de Max HP"
+        }
+      ]
+    },
+    {
+      "id": 9709,
+      "name": "Pom-pom Hat",
+      "desc": "Turn End: Ganho 1 [[Suporte]] POLHE NEMBRA VURTA PARA CADA Habilidade de Ataque que causou danos antes da Tirada.\n\nNos encontros focados: Ganhe 3 [[suporte]] potência para todas as habilidades de ataque que causaram danos antes de fechar a extremidade.",
+      "simpleDesc": [
+        {
+          "abilityID": 9709,
+          "simpleDesc": "Ganho 1 [[suporte]] Potência"
+        },
+        {
+          "abilityID": 97091,
+          "simpleDesc": "Ganhe 3 [[suporte]] POTÊNCIA"
+        }
+      ]
+    },
+    {
+      "id": 9710,
+      "name": "Huge Gift Sack",
+      "desc": "Turn Start: Aplique 2 [[Bracket]], 2 [[Bracket]] contagem e 2 [[suporte]] ao aliado com o menor HP.",
+      "simpleDesc": [
+        {
+          "abilityID": 9710,
+          "simpleDesc": "Aplique 2 [[Bracket]], 2 [[bracket]] contagem e 2 [[suporte]]]"
+        }
+      ]
+    },
+    {
+      "id": 9711,
+      "name": "Sad Plushie",
+      "desc": "Acordo +(valor absoluto de sp/1,5)% mais danos. (min 0%)\n\nQuando um aliado com habilidades de moeda se recupera de escalonamento, cura totalmente sp. (não é ativado quando corroído)\n\nPara um aliado com todas as habilidades de moeda menos: Ganhe 3 [[suporte]] no início do turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 9711,
+          "simpleDesc": "Acordo +(valor absoluto de sp/1,5)% mais danos. (min 0%)"
+        },
+        {
+          "abilityID": 97111,
+          "simpleDesc": "Ao se recuperar de escalonamento, curar totalmente SP"
+        },
+        {
+          "abilityID": 97112,
+          "simpleDesc": "Ganhe 3 [[suporte]] no início da curva"
+        }
+      ]
+    },
+    {
+      "id": 9712,
+      "name": "Black Ledger",
+      "desc": "Primeira virada no início de um encontro: ganha aleatório, por exemplo, recursos iguais ao número de inimigos.\n\nSe houver 4 ou mais identidades de linhagem de lâmina ou clã Kurokumo que participam desse encontro (apenas conta as identidades em campo no início do encontro), ganhe, por exemplo, os recursos para os menos de propriedade, por exemplo, afinidade.",
+      "simpleDesc": [
+        {
+          "abilityID": 9712,
+          "simpleDesc": "Ganhe aleatório, por exemplo"
+        },
+        {
+          "abilityID": 97121,
+          "simpleDesc": "Ganhe os recursos menos pertencentes"
+        }
+      ]
+    },
+    {
+      "id": 9713,
+      "name": "Rusted Hilt",
+      "desc": "Turn Start: Todos os aliados ganham 1 barra.\n\nA linhagem da lâmina ou as identidades do clã Kurokumo ganham 2 barra de barra.",
+      "simpleDesc": [
+        {
+          "abilityID": 9713,
+          "simpleDesc": "Ganhe 1 Slash Power Up"
+        },
+        {
+          "abilityID": 97131,
+          "simpleDesc": "Ganhe 2 barra de barra"
+        }
+      ]
+    },
+    {
+      "id": 9714,
+      "name": "Fractured Blade",
+      "desc": "Durante esse encontro: ao infligir [[suporte]] potência ou 'sangramento único' pela primeira vez contra um inimigo com um efeito de habilidade de ataque, infligir uma contagem adicional de +2 [[suporte]]. (Uma vez por encontro)\n\nAs identidades do clã Kurokumo, ao causar danos contra um inimigo pela primeira vez, infligirem uma potência adicional de 4 [[suporte]] e +4 [[[suporte]]].",
+      "simpleDesc": [
+        {
+          "abilityID": 9714,
+          "simpleDesc": "Infligir 2 [[suporte]] contagem"
+        },
+        {
+          "abilityID": 97141,
+          "simpleDesc": "Infligir 4 [[suporte]] Potência e +4 [[Bracket]] contagem de contagem"
+        }
+      ]
+    },
+    {
+      "id": 9715,
+      "name": "Broken Blade",
+      "desc": "Quando um aliado atinge criticamente um inimigo, lide uma potência adicional ([[suporte]]/3) do orgulho.\n\nAs identidades da linhagem da lâmina, quando atingem criticamente um inimigo, causam um dano adicional ([[bracket]]/2) do orgulho.",
+      "simpleDesc": [
+        {
+          "abilityID": 9715,
+          "simpleDesc": "Deixe um dano adicional ([[suporte]] da potência/3)."
+        },
+        {
+          "abilityID": 97151,
+          "simpleDesc": "Deixe um dano adicional ([[suporte]] da potência/2)."
+        }
+      ]
+    },
+    {
+      "id": 9716,
+      "name": "Red Tassel",
+      "desc": "Se o alvo tiver 1,5 ou menor resistência à barra, resistência à barra +0,3.",
+      "simpleDesc": [
+        {
+          "abilityID": 9716,
+          "simpleDesc": "Resistência à barra +0,3"
+        }
+      ]
+    },
+    {
+      "id": 9717,
+      "name": "Sublimity",
+      "desc": "Encontro Iniciado: Ativa quando há 3 ou mais identidades de clã Kurokumo (apenas conta as identidades em campo no início do encontro).\n\nTurn Start: Todos os aliados ganham 2 barra de barra e causam +35% mais danos à barra.\n\nTurn START: Quando uma identidade de clã Kurokumo causa danos pela primeira vez, inflige uma potência adicional de 4 [[suporte]] e +4 [[bracket]]. (Uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9717,
+          "simpleDesc": "Ganhe 2 Slash Power Up and Deal +35% MAIS DANOS DE SLASH"
+        },
+        {
+          "abilityID": 97171,
+          "simpleDesc": "Infligir 4 [[suporte]] Potência e +4 [[Bracket]] contagem de contagem"
+        }
+      ]
+    },
+    {
+      "id": 9718,
+      "name": "Unbending",
+      "desc": "Encontro Iniciado: Ativa quando há 3 ou mais identidades de linhagem de lâmina (apenas conta as identidades no campo no início do encontro).\n\nTurn Start: Todos os aliados ganham 2 barra de barra e causam +35% mais danos à barra.\n\nTurn Start: Quando uma identidade de linhagem de lâmina atinge criticamente, causar danos adicionais ao orgulho igual a [[suporte]] potência em si mesmo.",
+      "simpleDesc": [
+        {
+          "abilityID": 9718,
+          "simpleDesc": "Ganhe 2 Slash Power Up and Deal +35% MAIS DANOS DE SLASH"
+        },
+        {
+          "abilityID": 97181,
+          "simpleDesc": "Causar danos adicionais ao orgulho igual a [[suporte]] potência em si mesmo"
+        }
+      ]
+    },
+    {
+      "id": 9719,
+      "name": "Ragged Bamboo Hat",
+      "desc": "Encontro Iniciado: Ativa quando há 3 ou mais identidades de linhagem de lâmina (apenas conta as identidades no campo no início do encontro).\n\nTodos os aliados causam +50% mais de dano de barra\n\nIdentidades da linhagem da lâmina: se o aliado tiver [[suporte]], a taxa crítica será fixada a 100%.\n\nIdentidades de linhagem de lâmina: infligir x1.5 mais danos ao crítico",
+      "simpleDesc": [
+        {
+          "abilityID": 9719,
+          "simpleDesc": "Acordo +50% de dano de barra"
+        },
+        {
+          "abilityID": 97191,
+          "simpleDesc": "Corrija a taxa crítica a 100%"
+        },
+        {
+          "abilityID": 97192,
+          "simpleDesc": "Caso 1,5 vezes mais dano no crítico"
+        }
+      ]
+    },
+    {
+      "id": 9720,
+      "name": "Old Dopo Robe",
+      "desc": "Encontro Iniciado: Ativa quando há 3 ou mais identidades de linhagem de lâmina (apenas conta as identidades no campo no início do encontro).\n\nTodos os aliados causam +50% mais danos à barra.\n\nIdentidades da linhagem da lâmina: Habilidade 1 ganha poder de moeda +1. Habilidade de uma unidade 1 ganha poder de moeda +3.\n\n[[Bracket]] 'render minha carne' Power de conflito final de habilidade -12; 'Reivindicar a habilidade de seus ossos causa +50% mais danos.",
+      "simpleDesc": [
+        {
+          "abilityID": 9720,
+          "simpleDesc": "Acordo +50% de dano de barra"
+        },
+        {
+          "abilityID": 97201,
+          "simpleDesc": "Habilidade 1 Moeda Power Up"
+        },
+        {
+          "abilityID": 97202,
+          "simpleDesc": "'Rendimento da minha carne' Power de conflito final de habilidade -12; 'Reivindicar os ossos de seus ossos +50% mais danos"
+        }
+      ]
+    },
+    {
+      "id": 9721,
+      "name": "Silver Watch Case",
+      "desc": "Ao causar danos a um inimigo com habilidades de ataque (exceto, por exemplo, habilidades) que infligem [[suporte]] potência, contagem ou tremor único, causam +10% a mais danos.\n\nSe a habilidade desencadeada [[suporte]] no inimigo pela primeira vez nesta curva, infligir +2 [[suporte]] contagem no próximo turno (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9721,
+          "simpleDesc": "Acordo +10% mais dano"
+        },
+        {
+          "abilityID": 97211,
+          "simpleDesc": "Infligir +2 [[suporte]] contagem no próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 9722,
+      "name": "Faded Watch Case",
+      "desc": "Ao colidir com um inimigo mais rápido, coloque o poder +1.\n\nAo causar danos a um inimigo mais rápido, infligir 3 [[suporte]] potência e +2 [[suporte]] contam no próximo turno. (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9722,
+          "simpleDesc": "Power de conflito +1"
+        },
+        {
+          "abilityID": 97221,
+          "simpleDesc": "Infligir 3 [[suporte]] Potência e +2 [[suporte]] Contagem na próxima volta"
+        }
+      ]
+    },
+    {
+      "id": 9723,
+      "name": "Warning Notice",
+      "desc": "Turn End: Infligir 1 [[suporte]] ao inimigo mais rápido na próxima curva. (para anormalidades, uma parte)\n\nSe o alvo tiver [[suporte]] ou 'tremor exclusivo', infligir 2 [[suporte]].\n\nQuando um aliado ataca alvos com [[suporte]], acordo + (5 + (2,5 x [[suporte]])) mais danos. (no máximo 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9723,
+          "simpleDesc": "Aplique 1 [[suporte]] Próximo turno"
+        },
+        {
+          "abilityID": 97231,
+          "simpleDesc": "Acordo + (5 + (2,5 x [[suporte]] valor)) mais danos"
+        }
+      ]
+    },
+    {
+      "id": 9724,
+      "name": "Etched Clock Hands",
+      "desc": "Primeira virada Início de uma onda: infligir (9 - velocidade atual) [[suporte]] potência para 3 inimigos com a velocidade mais lenta. (Min. 3)\n\nOcorrente + 10% mais danos contra alvos com 12+ [[suporte]] ou 'tremor exclusivo' no início da curva.",
+      "simpleDesc": [
+        {
+          "abilityID": 9724,
+          "simpleDesc": "Infligir (9 - velocidade atual) [[suporte]] potência"
+        },
+        {
+          "abilityID": 97241,
+          "simpleDesc": "Acordo +10% mais dano"
+        }
+      ]
+    },
+    {
+      "id": 9725,
+      "name": "Rusted Clock Hands",
+      "desc": "Primeira virada Início de uma onda: infligir (9 - velocidade atual) [[suporte]] potência (min. 3) e (9 - velocidade atual)/2 [[bracket]] contam para 1 inimigo com a velocidade mais rápida. (arredondado; para anormalidades, uma parte)\n\nTome -10% menos dano dos alvos com 12+ [[suporte]] ou 'tremor exclusivo' no Start Start.",
+      "simpleDesc": [
+        {
+          "abilityID": 9725,
+          "simpleDesc": "Infligir (9 - velocidade atual) [[suporte]] potência (min. 3) e (9 - velocidade de corrente)/2 [[bracket]] contagem"
+        },
+        {
+          "abilityID": 97251,
+          "simpleDesc": "Danos causados ​​-10%."
+        }
+      ]
+    },
+    {
+      "id": 9726,
+      "name": "Chalice of Trickle-down",
+      "desc": "Quando um aliado com habilidades de ataque (exceto, por exemplo, habilidades) que infligem a potência, a contagem ou o 'tremor único' vencem um confronto, infligir 2 [[suporte]] potência e +2 [[suporte]] contagem. (2 vezes por turno)\n\nIdentidades de Yurodivy: Infligir 3 [[suporte]] Potência e +3 [[Bracket]] Contagem (3 vezes por turno)\n\nSe a identidade afetada entrar em conflito contra alvos com níveis de ofensa mais altos, o poder de conflito +2; Ocorre +20% mais danos ao atacar depois de vencer o confronto.",
+      "simpleDesc": [
+        {
+          "abilityID": 9726,
+          "simpleDesc": "Infligir 2 [[suporte]] Potência e +2 [[suporte]] contagem"
+        },
+        {
+          "abilityID": 97261,
+          "simpleDesc": "Infligir 3 [[suporte]] Potência e +3 [[suporte]] contagem"
+        },
+        {
+          "abilityID": 97262,
+          "simpleDesc": "Poder de conflito +2, causar +20% mais danos"
+        }
+      ]
+    },
+    {
+      "id": 9727,
+      "name": "Prepaid Time Receipt",
+      "desc": "Acordo + (5 + (2,5 x diferença de velocidade))% mais danos contra inimigos mais rápidos com mais de 2 anos de velocidade. (no máximo 15%)\n\nTurn End: Se um aliado causou danos com uma habilidade de ataque (exceto por exemplo, habilidades), essa virada contra inimigos mais rápidos com mais de 2 velocidades de velocidade, infligir 2 [[suporte]] e 1 [[suporte]] ao inimigo na próxima curva. (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9727,
+          "simpleDesc": "Acordo + (5 + (diferença de velocidade 2,5 x))% mais danos contra"
+        },
+        {
+          "abilityID": 97271,
+          "simpleDesc": "Infligir 2 [[suporte]] e 1 [[suporte]] ao inimigo próximo turno na próxima curva"
+        }
+      ]
+    },
+    {
+      "id": 9728,
+      "name": "Pocket Watch : Type L",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam potência [[Bracket]], contagem ou efeitos de 'tremor exclusivo'. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nÀs habilidades dos Aliados 3s que infligem potência, contagem ou 'tremor exclusivo': potência de moedas +2 e causar +25% mais danos.\n\nQuando um aliado que inflige a potência [[suporte]], contagem ou \"tremor exclusivo\" [[suporte]] em um inimigo com habilidades de ataque (incluindo, por exemplo, habilidades): multiplique a potência [[suporte]] e a contagem de 1,5 (somente quando realmente converte -os em diferentes tipos 'e tremendo) e o enxugamento 5 [[[ (uma vez por turno)\n\nPrimeira virada Início de uma onda: infligir (12 - velocidade atual) [[suporte]] potência (min. 6) a 3 inimigos com a velocidade mais lenta.",
+      "simpleDesc": [
+        {
+          "abilityID": 9728,
+          "simpleDesc": "Habilidade 3 ganha poder de moeda +2 e causar +25% mais danos"
+        },
+        {
+          "abilityID": 97281,
+          "simpleDesc": "Multiplique [[suporte]] potência e contagem por 1.5 ao desencadear a conversão de amplitude"
+        },
+        {
+          "abilityID": 97282,
+          "simpleDesc": "Infligir (12 - velocidade atual) [[suporte]] potência"
+        }
+      ]
+    },
+    {
+      "id": 9729,
+      "name": "Pocket Watch : Type E",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam potência [[Bracket]], contagem ou efeitos de 'tremor exclusivo'. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nÀs habilidades dos Aliados 3s que infligem potência, contagem ou 'tremor exclusivo': potência de moedas +2 e causar +25% mais danos.\n\nQuando um aliado que inflige [[suporte]] potência, contagem ou 'tremor exclusivo' causa danos a um inimigo mais lento com mais de 2 velocidades entre eles: acordo + ([[bracket]] potência no alvo, max 25)% mais danos e infligir 2 [[faixa]] sempre os causos da dano (max 6).\n\nPrimeira virada Início de uma onda: infligir (12 - velocidade atual) [[suporte]] potência (min. 6) e (velocidade 12 -corrente)/2 [[bracket]] contam 1 inimigo com a velocidade mais rápida. (arredondado; para anormalidades, uma parte)",
+      "simpleDesc": [
+        {
+          "abilityID": 9729,
+          "simpleDesc": "Habilidade 3 ganha poder de moeda +2 e causar +25% mais danos"
+        },
+        {
+          "abilityID": 97291,
+          "simpleDesc": "Acordo +([[suporte]] potência no alvo)% mais danos; infligir 2 [[suporte]] toda vez que o aliado causa dano"
+        },
+        {
+          "abilityID": 97292,
+          "simpleDesc": "Infligir (12 - velocidade atual) [[suporte]] potência (min. 3) e (9 - velocidade de corrente)/2 [[bracket]] contagem"
+        }
+      ]
+    },
+    {
+      "id": 9730,
+      "name": "Pocket Watch : Type Y",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam potência [[Bracket]], contagem ou efeitos de 'tremor exclusivo'. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nÀs habilidades dos Aliados 3s que infligem potência, contagem ou 'tremor exclusivo': potência de moedas +2 e causar +25% mais danos.\n\nIdentidades de Yurodivy: Habilidade 3 ganha potência de moedas +2 e acordo +(25 +(soma de [[suporte]] potência e contagem no alvo))% mais danos. (máximo 100%)\n\nIdentidades de Yurodivy: Ganhe +3 [[Bracket]] Contagem no Start Turn.",
+      "simpleDesc": [
+        {
+          "abilityID": 9730,
+          "simpleDesc": "Habilidade 3 ganha poder de moeda +2 e causar +25% mais danos"
+        },
+        {
+          "abilityID": 97301,
+          "simpleDesc": "Habilidade 3 ganha potência de moedas +2 e negócio +(25 +(soma de [[suporte]] potência e contagem no alvo))% mais danos."
+        },
+        {
+          "abilityID": 97302,
+          "simpleDesc": "Ganhe +3 [[Bracket]] Count"
+        }
+      ]
+    },
+    {
+      "id": 9731,
+      "name": "Pocket Watch : Type P",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam potência [[Bracket]], contagem ou efeitos de 'tremor exclusivo'. (Exceto, por exemplo, habilidades, apenas conta as identidades em campo no início do encontro)\n\nÀs habilidades dos Aliados 3s que infligem potência, contagem ou 'tremor exclusivo': potência de moedas +2 e causar +25% mais danos.\n\nQuando um aliado que inflige [[suporte]] potência, contagem ou 'tremor exclusivo' se chocam contra um inimigo mais rápido com mais de 2 velocidades de velocidade: poder de conflito +2 e negócio +([[[suporte]] potência no alvo)% mais danos. (no máximo 50%)\n\nVire o início: do mais lento ao mais rápido, os 3 aliados mais lentos ganham 5 [[suporte]], 3 [[suporte]] e 2 [[backet]], respectivamente.",
+      "simpleDesc": [
+        {
+          "abilityID": 9731,
+          "simpleDesc": "Habilidade 3 ganha poder de moeda +2 e causar +25% mais danos"
+        },
+        {
+          "abilityID": 97311,
+          "simpleDesc": "Clash Power +2 e Deal +([[[suporte]] potência no alvo)% mais danos"
+        },
+        {
+          "abilityID": 97312,
+          "simpleDesc": "Ganho [[suporte]]"
+        }
+      ]
+    }
+  ]
+}

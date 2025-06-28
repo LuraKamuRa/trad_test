@@ -1,0 +1,256 @@
+{
+    "dataList": [
+        {
+            "id": 837804,
+            "name": "Starved and Withered",
+            "desc": "Ganho[StarvingPriestTwo]No início do encontro"
+        },
+        {
+            "id": 837801,
+            "name": "Unctio Extrema",
+            "desc": "Turn End: Ative[Laceration]em si mesmo. (máximo 50; consume 1[Laceration]Conte com si mesmo) curar 50 hp para o núcleo e fazer parte de um fixo de sangue aliado com o menor HP (não é ativado se todos os aliados estiverem no HP completo)"
+        },
+        {
+            "id": 837802,
+            "name": "Sacramentum Paenitentiae",
+            "desc": "Turn End: Lost 5 SP e Heal 10 SP para um fixo de sangue aliado com o mínimo SP (não é ativado se não houver aliados com SP)"
+        },
+        {
+            "id": 837803,
+            "name": "Ailing Heart",
+            "desc": "Ganha novos padrões com base em[WornHeart]valor em si mesmo\nTurn End: Ganhe 1[WornHeart]"
+        },
+        {
+            "id": 837805,
+            "name": "Bloodied Hand",
+            "desc": "- às 10+[BloodyHand], converte -os para[BloodyHand_2nd].\n- em mais de 20 anos[BloodyHand_2nd], converte -os para[BloodyHand_3rd]."
+        },
+        {
+            "id": 837901,
+            "name": "The Once-loved Ones",
+            "desc": "Vire início: se todos os inimigos tiverem[AffectionTeddy], use uma habilidade poderosa"
+        },
+        {
+            "id": 837902,
+            "name": "Grimy Iron Stake",
+            "desc": "Ao atingir um inimigo usando uma habilidade de um único copo, infligir 3[Laceration]Potência. Infligir 2[DefenseDown]até o final do próximo turno.\nSe o alvo já tem[Laceration], infligir 5[Laceration]Potência em vez disso"
+        },
+        {
+            "id": 837903,
+            "name": "To Remember",
+            "desc": "Se esta unidade foi escalonada devido ao efeito final da curva de um abraço triste, ganhe 10[FaintMemory]No próximo turno, começo"
+        },
+        {
+            "id": 837904,
+            "name": "To Love",
+            "desc": "Se em menos ou igual a 30% hp no final da curva: em vez de infligir 3[AffectionTeddy]Para todos os inimigos, ganhe 15[AttackDown]Próximo turno (uma vez por encontro)"
+        },
+        {
+            "id": 837905,
+            "name": "Please Don't be Sick",
+            "desc": "Poder base -1 para cada 3 tipos de efeitos negativos no alvo (máximo 3)"
+        },
+        {
+            "id": 837301,
+            "name": "Sin Resistance",
+            "desc": "A menos que esta unidade esteja escalada ou quebrada, pegue 50% menos[Laceration]dano"
+        },
+        {
+            "id": 837401,
+            "name": "Sin Resistance",
+            "desc": "A menos que esta unidade seja escalada ou quebrada, tome apenas metade dos danos críticos."
+        },
+        {
+            "id": 837501,
+            "name": "Carmilla",
+            "desc": "Vire o início: para um inimigo aleatório, causar danos fixos iguais a 5% de seu HP."
+        },
+        {
+            "id": 837502,
+            "name": "A Drop of Nourishment",
+            "desc": "Após o ataque: curar núcleo e parte igual a 50% dos danos que esta unidade lidou com sua habilidade de ataque\n- a 100% hp, ganha 2[AttackUp]Próximo turno. (2 vezes max)\nCom base na porcentagem de HP curada, obtenha os seguintes efeitos (cumulativos)\n- Na pilha mais de 1\n- AT 2+ Stack: Ganhe 3[AttackUp]a cada passo do começo\n- Na pilha de 3+: ganho +2 min e velocidade máxima\n- AT 5+ Stack: Ganhe 3[Enhancement]a cada passo do começo"
+        },
+        {
+            "id": 837503,
+            "name": "A Single Strangling Flower",
+            "desc": "Após o ataque: infligir 1[TinyCarmilla]Se o alvo tiver[Laceration], infligir 1 adicional[TinyCarmilla]Depois do ataque"
+        },
+        {
+            "id": 837601,
+            "name": "Spiked Whip",
+            "desc": "Se o alvo tiver[Burst]Imediatamente antes do ataque, 20% de chance de infligir +1[Burst]Contar\nQuando infligir[ThornNoose], Gere uma unidade de 'laço farpado'.",
+            "summary": "Se o alvo tiver[Burst]Imediatamente antes do ataque, 20% de chance de infligir +1[Burst]Contar"
+        },
+        {
+            "id": 837602,
+            "name": "Bramble Steed",
+            "desc": "Velocidade de ganho igual à unidade gerada 'farpado' em campo"
+        },
+        {
+            "id": 837603,
+            "name": "Interlocking Brambles",
+            "desc": "Em 40%- hp, ganhe um novo padrão\nA cada turno, infligir[Burst]igual à velocidade de cada inimigo contra cada inimigo\nInfligir 2[ThornNoose]em vez de\nGanho 2[AttackUp]e[DefenseDown]a cada volta passada (máximo 12)"
+        },
+        {
+            "id": 838006,
+            "name": "In Dreams",
+            "desc": "Encontro Início: Ganho[Dreamy].\nInício do encontro: o sangue do sono que encharcou o campo de batalha será superado, aumentando[BloodDinner]por 400."
+        },
+        {
+            "id": 838001,
+            "name": "The Enthralling Tales, the Beating Passion",
+            "desc": "Ao atingir 80%, 60%e 40%hp, não sofre mais danos e ganha um novo padrão\nAo ganhar um novo padrão, recupere -se de escalonamento e aumente a velocidade para 10 na próxima curva"
+        },
+        {
+            "id": 838002,
+            "name": "If we can be freed from this excruciating sickness",
+            "desc": "Em sucesso, se o alvo tiver[Laceration], curar a parte e o núcleo em 40% dos danos causados.\n- Esta cura passiva +1% mais HP para cada[Laceration]Potência em si mesmo (máximo 20%)\n- Para moedas inquebráveis: esse efeito não é ativado no acerto após a perda de conflito.\nTodo turno Start: Heal ([BloodDinner]/10) HP. (máximo 50)\nTodo turno Start: a -15 ou menos SP, consuma (20 - SP atual)[BloodDinner]Para ganhar o SP e ganhar 2 conflitos de conflito\nEm matar, ganhe 5[BloodArmor]",
+            "summary": "Em sucesso, se o alvo tiver[Laceration], Heal HP"
+        },
+        {
+            "id": 838003,
+            "name": "Can I go on an adventure, too?",
+            "desc": "Turn End: Min & Max Speed ​​+1 Next Turn para cada 300[BloodDinner]"
+        },
+        {
+            "id": 838004,
+            "name": "Bloodfeast",
+            "desc": "Se esta unidade estiver em campo ou é uma das unidades que podem aparecer neste estágio, aumente[BloodDinner]valor pela quantidade de[Laceration]danos recebidos coletivamente por todas as unidades.\nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha inundará a superfície."
+        },
+        {
+            "id": 838005,
+            "name": "Hardblood",
+            "desc": "Início de combate: Ganhe 1[BloodArmor]\n- [BloodArmor]não pode cair abaixo de 1\n- às 10+[BloodArmor], converte -os para[BloodArmor_2nd].\n- em mais de 20 anos[BloodArmor], converte -os para[BloodArmor_3rd].\nGanho Min & Max Speed ​​com base no estágio desse efeito (Máx 2)\nSe esta unidade consumir[BloodArmor]e cai abaixo dos limites acima, reverta para os estágios anteriores"
+        },
+        {
+            "id": 838007,
+            "name": "But I have my Father and my Family whom I cannot abandon",
+            "desc": "Turn End: Se em pânico, recupere -se do pânico e consuma 100[BloodDinner]para ganhar 3[Enhancement]- Se esta unidade falhou em consumir[BloodDinner], ganhe 30[Laceration], 3[Enhancement], e 2 danos elevados"
+        },
+        {
+            "id": 837701,
+            "name": "Barbed Lasso ",
+            "desc": "Quando esta unidade morre, o[ThornNoose]do inimigo ligado a esta unidade expira"
+        },
+        {
+            "id": 839401,
+            "name": "Designated Protection",
+            "desc": "No Turn Start, aplique 2 nível de defesa até o aliado que perdeu a maior porcentagem de HP entre este turno e o último turno"
+        },
+        {
+            "id": 840301,
+            "name": "Shattering, Scattering Hardblood",
+            "desc": "Quando esta unidade for morta devido ao ataque inimigo ou ao status dos danos, aumente[BloodDinner]em 30, e aumentar, por exemplo, o recurso de uma afinidade aleatória em 2. Não se ativa se esta unidade se matou."
+        },
+        {
+            "id": 840302,
+            "name": "This Explosive Insanity!",
+            "desc": "Se esta unidade ainda estiver viva até a extremidade, use a habilidade de auto-detonação na próxima curva. Se esta unidade ainda estiver viva na mesma extremidade que a curva, esta unidade usou a habilidade de auto-detonação, morre."
+        },
+        {
+            "id": 839001,
+            "name": "Fix Core HP to 1",
+            "desc": "O núcleo HP não cai abaixo de 1."
+        },
+        {
+            "id": 839002,
+            "name": "La Manchaland, Abandoned and Festering",
+            "desc": "Gera gôndolas cheias de fãs de sangue e sacos de sangue em um intervalo definido. Um certo número de Bloodfiends e Bloodbags pode chegar ao campo quando quando uma gôndola for gerada."
+        },
+        {
+            "id": 839003,
+            "name": "The Eternal Cycle of Windmills, Wheels, and Us",
+            "desc": "Não pode ser atacado quando há uma gôndola no campo.\nNão perde o HP devido a danos às habilidades. Não leva danos à HP devido a[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], ou[Sinking]."
+        },
+        {
+            "id": 839004,
+            "name": "Here we go... another lap.",
+            "desc": "Se[FerrisWheel]está em 0 e não há unidades a serem geradas no próximo turno na extremidade ou durante a fase de combate, passe para a próxima fase."
+        },
+        {
+            "id": 839005,
+            "name": "Starved and Withered",
+            "desc": "Ganho[StarvingDonqui]No início do encontro"
+        },
+        {
+            "id": 841001,
+            "name": "Returning Bloodlust",
+            "desc": "- às 10+[RegainedStrength], converte -os para[RegainedStrength_2nd].\n- em mais de 20 anos[RegainedStrength], converte -os para[RegainedStrength_3rd].\n- Se esta unidade consumir[RegainedStrength]e o retira abaixo dos limites acima, reverta para os estágios anteriores"
+        },
+        {
+            "id": 841002,
+            "name": "Don Quixote Hardblood Arts",
+            "desc": "Em sucesso, se o alvo tiver[Laceration], Cure a parte e o núcleo desta unidade em 30% dos danos da HP causados.\nPara moedas inquebráveis: esse efeito não é ativado no acerto após a perda de conflito."
+        },
+        {
+            "id": 841003,
+            "name": "An Unfamiliar Banquet",
+            "desc": "Se esta unidade curou mais de 15% de seu máximo de HP, ou desviou o inimigo[Laceration], ganhe 3[Binding]Próximo turno. (uma vez por turno)\nSe esta unidade matou o alvo com sua habilidade, ganhe 2[AttackDown]e 1[DefenseDown]Próximo turno. (3 vezes por turno)"
+        },
+        {
+            "id": 841004,
+            "name": "For the Family...",
+            "desc": "Turn End: Se em pânico, recupere do pânico no próximo turno e redefina o SP para 0.\nAo se recuperar do pânico:\n- Consuma 30[BloodDinner]para ganhar 2[Enhancement]e 1[Agility]Próximo turno e Heal 30 sp.\n- Se esta unidade falhou em consumir[BloodDinner], ganhe 40[Laceration], imediatamente tome o dano de[Laceration], então perca 5[Laceration]Contar.\n- Então, ganhe 2[Enhancement]Próximo turno e Heal 30 sp"
+        },
+        {
+            "id": 841101,
+            "name": "Broken Fragment of a Futile, Naive Dream",
+            "desc": "Se esta unidade for eliminada, aumente[BloodDinner]por 30\nQuando morto por um pecador, gerar memórias da aventura de sonho"
+        },
+        {
+            "id": 841102,
+            "name": "A Selfish Wish at the Expense of the Family",
+            "desc": "Quando morto por Don Quixote:\n- Don Quixote Gains 5[RegainedStrength].\n- Todos os pecadores sofrem de 30 de dano de luxúria e ganham 8[Laceration]Potência e contagem."
+        },
+        {
+            "id": 841301,
+            "name": "Memories of the Journeys Past",
+            "desc": "Todos os pecadores ganham 5 sp a cada passo.\nDon Quixote O pecador ganha um efeito especial"
+        },
+        {
+            "id": 841302,
+            "name": "Reminders of Determination",
+            "desc": "Quando morto por Don Quixote: Don Quixote Gains 3[Reduction]Esta curva e o próximo turno."
+        },
+        {
+            "id": 841201,
+            "name": "Hardblood Wedge Gaol",
+            "desc": "Quando esta unidade for eliminada, o aliado que foi empalado por esta unidade perderá o[Penetration]status próximo turno."
+        },
+        {
+            "id": 841202,
+            "name": "Shattering, Scattering Hardblood",
+            "desc": "Quando esta unidade for eliminada, obtenha 3, por exemplo, recursos para o recurso de propriedade menos de propriedade."
+        },
+        {
+            "id": 841203,
+            "name": "Internal Blood Crystallization",
+            "desc": "Se esta unidade não for eliminada pelo turno após sua geração, esta unidade será eliminada na extremidade do turno, ativando o seguinte efeito.\nO aliado que foi empalado por esta unidade recebe danos fixos iguais a 30% de seu HP máximo e ganha 10[Laceration]Potência e +5[Laceration]Contar."
+        },
+        {
+            "id": 841204,
+            "name": "Total Blood Coagulation",
+            "desc": "Quando morto pelo verdadeiro Don Quixote, ative o efeito na morte e o aliado empalado por esta unidade será morto."
+        },
+        {
+            "id": 841103,
+            "name": "I never should've dreamed this irresponsible dream",
+            "desc": "Se esta unidade tiver[Precarious], Memórias da aventura de sonho não serão geradas na morte"
+        },
+        {
+            "id": 839006,
+            "name": "The Golden Bough's Forced Arbitration",
+            "desc": "Encontro Início: Ganho[ConfinementOfGoldenBranch]."
+        },
+        {
+            "id": 841005,
+            "name": "Please, try again",
+            "desc": "Ao ganhar um novo padrão, pela metade a potência de[Combustion], Assim,[Laceration], Assim,[Vibration], Assim,[Burst], e[Sinking]nas peças desta unidade."
+        },
+        {
+            "id": 841104,
+            "name": "The adventure ends here.",
+            "desc": "Don Quixote ganha escudo a cada passo do início."
+        }
+    ]
+}

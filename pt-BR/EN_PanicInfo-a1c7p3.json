@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 1029,
+      "panicName": "Culpa",
+      "lowMoraleDescription": "Turn End: Gain 1 [[Bracket]] e [[suporte]] Próximo turno",
+      "panicDescription": "Turn End: Gain 2 [[Bracket]] e [[Bracket]] Próximo turno."
+    },
+    {
+      "id": 1031,
+      "panicName": "Renúncia",
+      "lowMoraleDescription": "Se o alvo não tiver [[suporte]], o poder de conflito -1; On Hit, Heal HP igual a [[suporte]] potência no alvo",
+      "panicDescription": "Se o alvo tiver [[suporte]], o Clash Power +2; Se o alvo não possui [[suporte]], o poder de conflito -2; On Hit, Heal HP igual a [[suporte]] potência no alvo"
+    },
+    {
+      "id": 1032,
+      "panicName": "Culpa",
+      "lowMoraleDescription": "Turn End: Gain 1 [[Bracket]] e [[suporte]] Próximo turno",
+      "panicDescription": "Turn End: Gain 2 [[Bracket]] e [[Bracket]] Próximo turno."
+    },
+    {
+      "id": 1034,
+      "panicName": "Ônus da responsabilidade",
+      "lowMoraleDescription": "- ganha 2 [[suporte]] e 1 [[suporte]]; aumentar o valor máximo de velocidade em 2\n- Heal +30% mais hp ao curar\n- Turn End: Se o [[suporte]] for menor que o seu valor no início da curva, ganhe 2 [[suporte]] e [[suporte]] no próximo turno",
+      "panicDescription": "- Ganhe 2 [[suporte]] e aumente o valor da velocidade máxima por 2\n- Heal +50% mais hp ao curar\n- Turn End: Se o [[suporte]] for menor que o seu valor no início da curva, ganhe 3 [[suporte]] e 5 [[suporte]] Próximo turno"
+    },
+    {
+      "id": 1033,
+      "panicName": "Reakinging alegria de carnificina",
+      "lowMoraleDescription": "Todo turno START: Ganhe 2 [[suporte]]; +2 Eficiência de SP",
+      "panicDescription": "Turn Start: Ganhe 6 [[Bracket]] e Ganhe 3 [[Bracket]] Próximo turno na próxima vez"
+    }
+  ]
+}

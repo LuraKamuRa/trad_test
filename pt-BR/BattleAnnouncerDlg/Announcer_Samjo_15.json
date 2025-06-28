@@ -1,0 +1,120 @@
+{
+    "dataList": [
+        {
+            "id": "announcer_cheer_15_1",
+            "dlg": "Como você bem sabe, não sou muito habilidoso em fornecer suporte emocional. Uma solução rápida é sempre preferível a palavras doces, mas vazias, de comiseração, não é?"
+        },
+        {
+            "id": "announcer_cheer_15_2",
+            "dlg": "Comprei algumas tortas de encorajamento no caminho, conforme as ordens do chefe Dongrang, mas não suponho que você esteja em condições de consumi-las. Por favor, aproveite-as indiretamente através de mim. (nome)"
+        },
+        {
+            "id": "announcer_specialcheer_15_1",
+            "dlg": "Pergunta. Vejo que seus funcionários estão em estado crítico. Você planeja injetá-los com ampolas de regeneração?"
+        },
+        {
+            "id": "announcer_specialcheer_15_2",
+            "dlg": "É hora de dar uma olhada mais de perto em seus próprios funcionários. Todos eles parecem um pouco atordoados, não é?"
+        },
+        {
+            "id": "announcer_enemy_break_15_1",
+            "dlg": "Há um inimigo desequilibrado. Você poderia facilmente derrubá-lo com um rápido toque na testa dele."
+        },
+        {
+            "id": "announcer_ally_break_15_1",
+            "dlg": "Aviso. Alguns funcionários estão parecendo bem desgrenhados. Ah, estou bem disposto a lhe dar um desconto de 30% em nossa coleção de ampolas de regeneração, a propósito."
+        },
+        {
+            "id": "announcer_killenemy_15_1",
+            "dlg": "O inimigo está neutralizado. O chefe Dongrang deveria ter visto isso... Ele sempre me provocava por não ter talento quando se trata de lutar."
+        },
+        {
+            "id": "announcer_ally_dead_15_1",
+            "dlg": "Gracioso. Um funcionário está completamente morto. Conforme a política da nossa empresa, faremos um minuto de silêncio de duas horas para o falecido."
+        },
+        {
+            "id": "announcer_enemy_adv_15_1",
+            "dlg": "O inimigo tem a vantagem... mas não precisa se preocupar. Vou mostrar como consegui nos reivindicar o prêmio de Departamento do Mês."
+        },
+        {
+            "id": "announcer_ally_adv_15_1",
+            "dlg": "Os funcionários estão em vantagem. Ah, o chefe Dongrang acabou de nos dizer que ele nos levará a todos para um jantar chique em equipe se vencermos essa batalha. Haverá carne bovina de primeira importada diretamente da S Corp."
+        },
+        {
+            "id": "announcer_danger_15_1",
+            "dlg": "Sim, um dos seus aliados (barulhos de mastigação) está quase morto. (mais barulhos de mastigação). Hum... A torta de alface com curry e pimenta certamente tem o melhor perfil de sabor."
+        },
+        {
+            "id": "announcer_enemy_specialskill_15_1",
+            "dlg": "O inimigo está se preparando para nos dar uma bola curva. Por que não preparar os funcionários para que eles possam transformar isso em um home run?"
+        },
+        {
+            "id": "announcer_enemy_specialgimmick_15_1",
+            "dlg": "Os inimigos estão tentando uma tática estranha. Eu pessoalmente detesto esses métodos enganosos. Uma luta tem que ser justa e honesta, você não concorda?"
+        },
+        {
+            "id": "announcer_advatk_physical_15_1",
+            "dlg": "Golpe impressionante. Acho que é assim que um home run seria, se eu fosse um jogador de beisebol de uma cidade grande."
+        },
+        {
+            "id": "announcer_disadvatk_physical_15_1",
+            "dlg": "Esse ataque não correspondeu ao tipo de ataque ao qual o inimigo é fraco. Se eu tivesse que fazer uma comparação, compararia sua estratégia a mergulhar de cabeça em uma piscina insondavelmente funda."
+        },
+        {
+            "id": "announcer_advatk_attr_15_1",
+            "dlg": "Um ataque bem efetivo. Vejo que minhas ordens foram perfeitamente executadas."
+        },
+        {
+            "id": "announcer_disadvatk_attr_15_1",
+            "dlg": "Deixe-me retrucar. Seu ataque foi completamente ineficaz. Claramente, é isso que acontece quando desvio o olhar, mesmo que por um segundo..."
+        },
+        {
+            "id": "announcer_enemy_specialbuff_15_1",
+            "dlg": "Há algo fortalecendo o inimigo. Mas lembre-se: em todo perigo há uma oportunidade esperando para ser encontrada. Essa é a citação que usei para passar por triagens de documentos de 43 empresas diferentes."
+        },
+        {
+            "id": "announcer_enemy_specialdebuff_15_1",
+            "dlg": "O inimigo está em desvantagem. Este é o momento perfeito para apunhalá-lo pelas costas."
+        },
+        {
+            "id": "announcer_ally_specialbuff_15_1",
+            "dlg": "Agora vocês estão todos sob a influência de um efeito positivo. Bem, não que seja obra minha, mas... por favor, aproveitem de qualquer forma."
+        },
+        {
+            "id": "announcer_ally_specialdebuff_15_1",
+            "dlg": "Agora vocês estão todos sob a influência de um efeito negativo. Mantenham a guarda alta, ou estejam preparados para serem eliminados."
+        },
+        {
+            "id": "announcer_enemy_destroy_15_1",
+            "dlg": "Você destruiu uma parte. Eu diria que o inimigo agora é como frango frito sem as coxas. Não tem como ficar pior do que isso, tem?"
+        },
+        {
+            "id": "announcer_enemy_destroy_15_2",
+            "dlg": "Um dos seus inimigos tem uma parte quebrada. Concentre seus ataques ali."
+        },
+        {
+            "id": "announcer_round_takebigdmg_15_1",
+            "dlg": "Vários funcionários estão feridos. Por que você não distribui alguns suplementos nutricionais para eles depois dessa batalha?"
+        },
+        {
+            "id": "announcer_round_takebigdmg_15_2",
+            "dlg": "Um funcionário está... sob bastante estresse. Aqui vai uma maneira rápida de levantar o moral deles: diga a eles que você os recompensará com PTO gratuito assim que essa briga acabar. Funciona sempre."
+        },
+        {
+            "id": "announcer_round_givebigdmg_15_1",
+            "dlg": "O inimigo está gravemente ferido. Está claro que ter alguém competente no microfone está ajudando no desempenho do seu time. Ah, não precisa me agradecer."
+        },
+        {
+            "id": "announcer_round_givebigdmg_15_2",
+            "dlg": "Ótimo. Vamos continuar nesse ritmo. O troféu do Departamento do Ano está quase nosso; os superiores estarão me observando."
+        },
+        {
+            "id": "announcer_multikillenemy_15_1",
+            "dlg": "Um dos funcionários demonstrou um desempenho excelente. 85% desse desempenho pode ser atribuído à minha assistência, no entanto. Isso não é uma ostentação; é uma conclusão estatística baseada em fatos."
+        },
+        {
+            "id": "announcer_equip_15_1",
+            "dlg": "Prazer. Samjo do Centro de Pesquisa do Departamento de Desenvolvimento de Recursos Alimentares. Fui enviado para ajudar com uma missão de excisão da K Corp. Espero que minha assistência audiovisual possa ser útil para você."
+        }
+    ]
+}

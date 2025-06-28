@@ -1,0 +1,29 @@
+{
+    "dataList": [
+        {
+            "id": 9011001,
+            "name": "Keen Strike",
+            "desc": "On Hit, Infligir 1 sangramento (3 vezes por turno)"
+        },
+        {
+            "id": 9011002,
+            "name": "Deep Slash",
+            "desc": "Win Clash: Infligir +1 Contagem de sangramento"
+        },
+        {
+            "id": 9011301,
+            "name": "Brutal Stab",
+            "desc": "Infligir +1 mais sangramento quando uma habilidade de ataque inflige sangramento"
+        },
+        {
+            "id": 9101301,
+            "name": "Kokuuntō",
+            "desc": "Habilidade de corte Power final +1"
+        },
+        {
+            "id": 9101302,
+            "name": "Clean Up",
+            "desc": "Quando um aliado for derrotado, ganhe 1 slot de habilidade no próximo turno (pode ter até 5 slots max)"
+        }
+    ]
+}

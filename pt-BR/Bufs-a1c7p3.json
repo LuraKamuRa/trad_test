@@ -1,0 +1,277 @@
+{
+    "dataList": [
+        {
+            "id": "BloodyHand_2nd",
+            "name": "Bloodied Hand II",
+            "desc": "- Quaisquer efeitos que ganhem Mão Sangrenta ganham este efeito em vez disso\n- Valor Máximo: 20\n- Valor Base: 10\n- Ao Acertar com a Habilidade desta unidade, inflija mais 2 Rupturas\n- Ganhe 1 Nível de Ofensa para cada 6 Acumulações\n- Ao Acertar com a Habilidade desta unidade, inflija 1 Sangramento em si mesmo e contra o alvo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodyHand_3rd",
+            "name": "Bloodied Hand III",
+            "desc": "- Quaisquer efeitos que ganhem Mão Sangrenta ganham este efeito em vez disso\n- Valor Máximo: 30\n- Valor Base: 20\n- Ao Acertar com a Habilidade desta unidade, inflija 2 Rupturas adicionais e +1 Contagem de Ruptura\n- Ganhe 1 Poder de Ataque\n- Ao Acertar com a Habilidade desta unidade, inflija 3 Sangramento em si mesmo e contra o alvo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WornHeart",
+            "name": "Ailing Heart",
+            "desc": "- Pilha Máxima: 10\n- Entra em Encontro com 3 Pilhas\n- Início do Turno: ganha 1 Nível de Defesa Reduzido para cada Pilha\n- Início do Turno: ganha 1 Nível de Ofensa Reduzido para cada 2 Pilhas\n- Início do Turno: com 10 Pilhas, ganha 3 Frágeis e perde 5 SP\n- Com 10 Pilhas: Ao Acertar, cura 40% do dano causado à Parte e ao Núcleo desta unidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingPriestTwo",
+            "name": "Withered",
+            "desc": "- Faminto por sangue por um longo, longo tempo.\n- Perca 25 Nível de Ataque\n- Perca 25 Nível de Defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Guilt_LowMorale",
+            "name": "Guilt",
+            "desc": "Fim do turno: ganhe 1 Fragilidade e Eficiência de Cura de SP reduzida",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Guilt_Panic",
+            "name": "Guilt",
+            "desc": "Fim do turno: ganhe 2 de Fragilidade e 1 de Eficiência de Cura de SP reduzida",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MentalIncreaseDown",
+            "name": "SP Heal Efficiency Down",
+            "desc": "A eficiência de cura do SP diminui de acordo com a pilha do efeito",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AffectionTeddy",
+            "name": "Attachment",
+            "desc": "- Valor Máximo: 9\n- Quando o Atacante ataca o alvo com este efeito, o Atacante ganha Poder de Choque igual à Pilha\n- Fim do Turno: reduz em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FaintMemory",
+            "name": "Faint Memories",
+            "desc": "- Valor base: 10\n- Início do turno: ganhe Defesa de Nível Superior igual à Pilha\n- Perda de Colisão: reduza em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "CursePackage",
+            "name": "Box of Curses",
+            "desc": "- Valor Máximo: 1\n- Fim do Turno: ganhe 1 Poder de Ataque Reduzido, 1 Poder de Defesa Reduzido, 2 Níveis de Ataque Reduzidos, 2 Níveis de Defesa Reduzidos e reduza a Pilha desse efeito em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TinyCarmilla",
+            "name": "Little Carmilla",
+            "desc": "- Pilha Máxima: 3\n- Ganhe 2 de Sangramento toda vez que esta unidade ganhar Pequena Carmilla\n- Fim do Turno: ganhe +2 de Contagem de Sangramento\n- Fim do Turno: com 3 de Pilha, receba dano fixo igual a 15% do HP máximo desta unidade, cure HP igual a 5% do HP máximo de cada inimigo, então este efeito expira",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "OneDropNutrition",
+            "name": "A Drop of Nourishment",
+            "desc": "- Pilha Máxima: 10\n- Ganhe 1 Pilha toda vez que esta unidade cura 10% de seu HP máximo com seus Ataques de cura de HP\n- HP curado: {0}%",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ThornNoose",
+            "name": "Barbed Lasso",
+            "desc": "- Pilha Máxima: 3\n- Fim do Turno: ganhe 2 Ruptura e +2 Contagem de Ruptura\n- Fim do Turno: com 1+ Pilha, fixe a Velocidade desta unidade para 1.\n- Fim do Turno: com 2 Pilhas, receba 20 de dano de Gula.\n- Fim do Turno: com 3 Pilhas, fique forçosamente Cambaleante no próximo turno. Este efeito e o Laço Farpado conectado expiram.\n- Ganhe 1 no Início do Turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SwirlingBlood",
+            "name": "Shimmering [Bloodfiend]",
+            "desc": "- Enquanto este efeito estiver ativo: quando esta unidade sofre dano, o Atacante ganha 5 Sangramento Após Ataque.\n- Enquanto este efeito estiver ativo: o HP do Escudo não expira no Fim do Turno\n- Quando as condições forem atendidas, ganhe 3 Frágil até que este efeito expire e esta unidade ganhe um novo padrão",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodArmor",
+            "name": "Hardblood",
+            "desc": "- Valor Máximo: 10\n- Estágio 1 Hardblood\n- Usado para Habilidades especiais",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodArmor_2nd",
+            "name": "Hardblood II",
+            "desc": "- Valor Máximo: 20\n- Estágio 2 Hardblood\n- Início do Turno: ganhe 1 Nível de Ataque e Nível de Defesa para cada 6 Pilhas\n- Aumente os valores de Velocidade Mínima e Máxima em 1\n- Usado para Habilidades especiais",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodArmor_3rd",
+            "name": "Hardblood III",
+            "desc": "- Valor Máximo: 30\n- Estágio 3 Hardblood\n- Início do Turno: ganhe 2 Nível de Ataque e Nível de Defesa para cada 6 Pilhas\n- Aumente os valores de Velocidade Mínima e Máxima em 2\n- Usado para Habilidades especiais",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Dreamy",
+            "name": "Dreamy Hesitation",
+            "desc": "- Nível de ataque -35\n- Nível de defesa -35",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodringUp_LowMorale",
+            "name": "Resanguination",
+            "desc": "- Moral baixo\nSe o alvo não tiver Sangramento, Poder de Choque -1; Ao acertar, cure HP igual à Potência de Sangramento no alvo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodringUp_Panic",
+            "name": "Resanguination",
+            "desc": "- Pânico\nSe o alvo tiver Sangramento, Poder de Choque +2; se o alvo não tiver Sangramento, Poder de Choque -2; Ao Acertar, cure HP igual à Potência de Sangramento no alvo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodDinner_Common_Accumulation",
+            "name": "Bloodfeast Consumed (shared)",
+            "desc": "Total de Bloodfeast consumido neste Encontro",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ThirstyRose",
+            "name": "Polydipsic Rose",
+            "desc": "- Valor Máximo: 5\n- Fim do Turno: com Potência de Sangramento 10+, receba dano de Luxúria igual a 1% do HP máximo desta unidade. (máx. 30)\n- Fim do Turno: reduzido em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RoseWedge",
+            "name": "Rose Wedge",
+            "desc": "- Potência Máxima: 10\n- Contagem Máxima: 4\n- Ganhe 1 Potência toda vez que esta unidade receber 10 de dano de Sangramento\n- Ao ganhar Sangramento ou 'Sangramento Único' ao ser atingido, ganhe 2 Sangramentos e inflija 1 Sangramento contra o Atacante. (5 vezes por turno)\n· Com 10 de Potência, ganhe +1 Contagem de Sangramento também ao ativar o efeito acima.\n- Fim do Turno: perca 1 Contagem\n- Fim do Combate: com 10 de Potência ou 1 Contagem, este efeito expira, e esta unidade recebe (Potência x 10) de dano de Luxúria.\n- Se a unidade afetada por este efeito morrer, ou quando este efeito expirar: aumente o Banquete de Sangue em (Potência x 10), e cause (Potência x 2) de dano de Luxúria contra todos os seus aliados (mín. 1)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FerrisWheel",
+            "name": "The Endless Wheel",
+            "desc": "Reduzido em 1 toda vez que uma Gôndola é derrotada.\nSe esse valor estiver em 0, e se não houver unidades para serem geradas no próximo turno, passe para a próxima fase.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingDonqui",
+            "name": "Starved and Withered",
+            "desc": "- Nível de ataque -10\n- Nível de defesa -10",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RegainedStrength",
+            "name": "Returning Bloodlust",
+            "desc": "- Valor Máximo: 10\n- Estágio 1 Retornando Bloodlust",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RegainedStrength_2nd",
+            "name": "Returning Bloodlust II",
+            "desc": "- Valor Máximo: 20\n- Estágio 2 Retornando Bloodlust\n- Início do Turno: ganhe 1 Nível de Ataque e 1 Nível de Defesa para cada Valor 5\n- Poder de Choque +1 para Habilidades que consomem Retornando Bloodlust; inflija +1 a mais de Potência e Contagem para Sangramento e Ruptura infligidos pela dita Habilidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RegainedStrength_3rd",
+            "name": "Returning Bloodlust III",
+            "desc": "- Valor Máximo: 30\n- Estágio 3 Retornando Sede de Sangue\n- Início do Turno: ganhe 2 Níveis de Ataque e 1 Nível de Defesa para cada Valor 5\n- Poder de Moeda +1 para Habilidades que consomem Retornando Sede de Sangue; inflija +1 a mais de Potência e Contagem para Sangramento e Ruptura infligidos pela dita Habilidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WeightOfResponsibility_LowMorale",
+            "name": "Time to abandon my dream...",
+            "desc": "- Moral baixo\n- Ganhe 2 aumentos de poder de ataque e 1 frágil; aumente o valor máximo de velocidade em 2\n- Cure +30% mais HP ao curar\n- Fim do turno: se o atual Bloodlust de retorno for menor que seu valor no início do turno, ganhe 2 aumentos de nível de ataque e 2 de redução de nível de defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WeightOfResponsibility_Panic",
+            "name": "... for my Family, as their Father...",
+            "desc": "- Pânico\n- Ganhe 2 Poderes de Ataque Aumentados, 2 de Aceleração e 2 de Frágil\n- Cure +50% mais HP ao curar\n- Fim do Turno: se o atual Sanguinário Retornante for menor que seu valor no Início do Turno, ganhe 3 Níveis de Ataque Aumentados e 5 Níveis de Defesa Diminuído",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Precarious",
+            "name": "Irresponsible Dream",
+            "desc": "Morto ao ser atingido por Dom Quixote.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Penetration",
+            "name": "Congealing Blood",
+            "desc": "Não pode agir por 2 turnos; gera uma unidade Lança Empaladora sobre o aliado.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DecreamentalDefense",
+            "name": "Crippling Injury",
+            "desc": "- Ainda não se recuperou dos ferimentos obtidos na batalha anterior.\n- Reduz massivamente o HP máximo\n- Início do turno: ganhe 1 Nível de Defesa Reduzido para cada turno cumulativo (máx. 15)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnfinishedDream",
+            "name": "IN WHICH IS RECOUNTED THE LIBERATION FROM BLOOD THICKER THAN WATER",
+            "desc": "- Em cada Fim de Turno: ganhe 1 Aceleração e 3 Aumento de Nível de Ofensa no próximo turno\n- Ganhe 2 Aumentos de Nível de Ofensa adicionais após cada 3 turnos cumulativos (máx. 6)\n- Em Vitória de Choque, cure 3 SP\n- Em Morte, ganhe 1 Aumento de Poder de Choque no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SanchoMind_LowMorale",
+            "name": "Reawakening Joy Of Carnage",
+            "desc": "- Moral baixo\nGanhe 2 aumentos de poder de ataque em cada início de turno; +2 eficiência de cura SP",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SanchoMind_Panic",
+            "name": "Reawakening Joy Of Carnage",
+            "desc": "- Pânico\nInício do turno: ganhe 6 de Defesa de Nível. Ganhe 3 de Ataque de Nível no próximo turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHope",
+            "name": "WHICH TREATS THE BUS, THE COMPANIONS, AND THE ADVENTURES",
+            "desc": "Ganhe poder de choque igual ao valor",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHopeTwo",
+            "name": "OF HOW SANCHO, OUR DON QUIXOTE, REFUSED TO END THE DREAM",
+            "desc": "Poder de Choque +4 para cada valor\nAplica Escudo a si mesmo e a todos os aliados no Início do Combate",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ConfinementOfGoldenBranch",
+            "name": "The Golden Bough's Forced Arbitration",
+            "desc": "- Nível de ataque -30\n- Nível de defesa -30",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

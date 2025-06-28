@@ -1,0 +1,100 @@
+{
+    "dataList": [
+        {
+            "id": "816601_success_1",
+            "content": "<color=#ebcaa2>[{0}]</color> ganha %{2} [{1}]/%"
+        },
+        {
+            "id": "816601_success_2",
+            "content": "<color=#ebcaa2>[{0}]</color> ganha %{2} [{1}]/% no próximo turno"
+        },
+        {
+            "id": "816601_failure_1",
+            "content": "<color=#ebcaa2>[{0}]</color> ganha %{2} [{1}]/% no próximo turno"
+        },
+        {
+            "id": "816601_failure_2",
+            "content": "<color=#ebcaa2>[{0}]</color> recebe {1} de dano SP"
+        },
+        {
+            "id": "816602_success_1",
+            "content": "<color=#ebcaa2>[{0}]</color> ganha %{2} [{1}]/%"
+        },
+        {
+            "id": "816602_success_2",
+            "content": "<color=#ebcaa2>[{0}]</color> cura {1} HP e {2} SP"
+        },
+        {
+            "id": "816602_failure_1",
+            "content": "<color=#ebcaa2>[{0}]</color> cura {1} HP para o núcleo e parte"
+        },
+        {
+            "id": "816602_failure_2",
+            "content": "<color=#ebcaa2>[{0}]</color> recebe {1} de dano SP"
+        },
+        {
+            "id": "817101_log_1_1",
+            "content": "<color=#ebcaa2>[{0}]</color> ganha %{2} [{1}]/%"
+        },
+        {
+            "id": "817101_log_1_2",
+            "content": "<color=#ebcaa2>[{0}]</color> ganha %{2} [{1}]/% no próximo turno"
+        },
+        {
+            "id": "817302_success_1",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> curam {0} SP"
+        },
+        {
+            "id": "817302_success_2",
+            "content": "<color=#ebcaa2>[{0}]</color> ganha %{2} {1}/% pelo resto do Encontro"
+        },
+        {
+            "id": "817302_success_3",
+            "content": "<color=#ebcaa2>Todos os pecadores ganham</color> %{1} {0}/% pelo resto do encontro"
+        },
+        {
+            "id": "817302_failure_1",
+            "content": "<color=#ebcaa2>[{0}]</color> ganha %{2} {1}/% pelo resto do Encontro"
+        },
+        {
+            "id": "817302_failure_2",
+            "content": "<color=#ebcaa2>Todos os pecadores ganham</color> {1} {0} pelo resto do encontro"
+        },
+        {
+            "id": "817304_success_1",
+            "content": "<color=#ebcaa2>[{0}]</color> cura {1} SP"
+        },
+        {
+            "id": "817304_success_2",
+            "content": "[{0}] ganha %{3} {2}/% por {1} turno(s)"
+        },
+        {
+            "id": "817304_success_3",
+            "content": "Ambas as mãos de Catherine ganham %{2} {1}/% por {0} turno(s)"
+        },
+        {
+            "id": "817304_success_4",
+            "content": "Ambas as mãos de Catherine ganham %{2} {1}/% por {0} turno(s)"
+        },
+        {
+            "id": "817304_failure_2",
+            "content": "Ambas as mãos de Catherine ganham %{2} {1}/% por {0} turno(s)"
+        },
+        {
+            "id": "817304_failure_1",
+            "content": "[{0}] ganha %{3} {2}/% por {1} turno(s)"
+        },
+        {
+            "id": "817305_1",
+            "content": "[{0}] <color=#80c9ff>cura SP completamente</color>"
+        },
+        {
+            "id": "817305_2",
+            "content": "<color=#ebcaa2>Todos os pecadores</color> <color=#80c9ff>curam {0} SP.</color>"
+        },
+        {
+            "id": "817305_3",
+            "content": "[{0}] {1} muda para {2}"
+        }
+    ]
+}

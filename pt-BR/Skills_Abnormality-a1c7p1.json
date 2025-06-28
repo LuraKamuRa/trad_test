@@ -1,0 +1,407 @@
+{
+    "dataList": [
+        {
+            "id": 837101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Allez",
+                    "desc": "[WhenUse]Infligir[DuelDeclaration_Camille]\n[WhenUse]Ganhe 5[Breath]\n[WinDuel]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Coup Droit",
+                    "desc": "[WhenUse]Ganho 2[Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +2[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 7 velocidades, infligir 3[Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 7 velocidades, infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fente",
+                    "desc": "[WhenUse]Às 7+[Breath], Power de moedas +2[WinDuel]Ganhe +2[Breath]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 3[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 7 velocidades, infligir 3[Burst]Contar"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]+50% de dano no acerto crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Salut",
+                    "desc": "[WhenUse]Se a velocidade desta unidade for maior que a do alvo, a moeda Power +1 (potência da moeda +1 para cada diferença de velocidade de 2; máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe +4[Breath]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 7 velocidades, infligir 3[Burst]e +1[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 5[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 7 velocidades, infligir 3[Burst]e +1[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 5[Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A mais de 7 velocidades, infligir 3[Burst]e +1[Burst]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]+100% de dano no acerto crítico"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acordo +5% de dano para cada[Burst]no alvo (máximo 50%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Parry",
+                    "desc": "[WinDuel]Causar mais danos com base no número de confrontos (+10% mais danos para cada confronto, no máximo 50%)[WinDuel]Ganho 2[Agility]Próximo turno[DefeatDuel]Ganho 2[Binding]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837106,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Défensive",
+                    "desc": "[OnSucceedEvade]Ganho 1[Agility]Próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Cut You Up All Pretty!",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Laceration], Clash Power +1[WhenUse]Power de moedas +1 para cada 5[Laceration]em si (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Reutilizar moedas ([BloodScissor]Estágio - 1) vezes (máximo 2)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Even Sharper",
+                    "desc": "[WhenUse]Consumir até 20[BloodDinner]; Ganho 1[BloodScissor]e curar 3 sp a cada 10[BloodDinner]consumido\n- Se esta unidade falhou em consumir[BloodDinner]Com esta habilidade, ganhe 30[Laceration]\n[WhenUse]Se o alvo tiver 6+[Laceration], Clash Power +1[WhenUse]Power de moedas +1 para cada 5[Laceration]em si mesmo (máximo 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "SNIP!!",
+                    "desc": "[WhenUse]Consumir até 30[BloodDinner]; Ganho 1[BloodScissor]e curar 3 sp a cada 10[BloodDinner]consumido[WhenUse]Se o alvo tiver[LineCutting], Clash Power +5\nCurar 5 sp em cada golpe contra[LineCutting]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Cut You Up Too!",
+                    "desc": "[BeforeAttack]Peso ATK +1 para cada etapa de[BloodScissor](Máx 2)[WhenUse]Consumir até 30[BloodDinner]; Ganho 1[BloodScissor]e curar 3 sp a cada 10[BloodDinner]consumido[WhenUse]Se o alvo tiver 6+[Laceration], Clash Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[BloodScissorScars]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Now, It's Your Turn",
+                    "desc": "[WhenUse]Se o alvo tiver 6+[Laceration], Power de moedas +1",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[BloodScissorScars]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[LineCutting]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Cut You Together!",
+                    "desc": "[BeforeAttack]Peso ATK +1 para cada etapa de[BloodScissor]\n[WhenUse]Consumir até 100[BloodDinner]; Ganho 1[BloodScissor]e curar 3 sp a cada 10[BloodDinner]consumido[WhenUse]Se o alvo tiver 6+[Laceration], Clash Power +2[EndSkill]Consuma 10[BloodScissor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Ative o alvo[Laceration](máximo 10). O alvo perde 1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Ative o alvo[Laceration](máximo 10). O alvo perde 1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Ative o alvo[Laceration](máximo 10). O alvo perde 1[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Negociar +40% mais danos para cada[BloodScissor]Estágio (máximo 120%)"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Se esse efeito de moeda matou o alvo, curar 50% dos danos causados ​​contra o alvo morto."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837207,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "How Discourteous!",
+                    "desc": "[DuelCounter]\n[WhenUse]Clash Power +1 para cada[BloodScissor]Estágio (máximo 3)[WhenUse]Power de moedas +1 para cada 5[Laceration]em si (máximo 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +4[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837208,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I Don't Need Ugly Things!!",
+                    "desc": "[CantChangeTarget]Prioriza as metas com a menor porcentagem de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo estiver em 30%- hp, mate o alvo"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Aumentar[BloodDinner]em 30% do Max HP do inimigo derrotado"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Ganhe 4[Vulnerable]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

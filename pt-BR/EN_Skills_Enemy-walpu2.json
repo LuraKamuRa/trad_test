@@ -1,0 +1,440 @@
+{
+  "dataList": [
+    {
+      "id": 814701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento. Se o alvo tiver sangramento, infligir +1 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pin Down",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 2 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pain",
+          "desc": "Prioriza os inimigos com sangramento",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver sangramento, causar 10% dos danos causados ​​como dano ao bônus"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver sangramento, causar 10% dos danos causados ​​como dano ao bônus"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir sangramento por sangramento no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Defend",
+          "desc": "Se esta unidade tiver Shield HP, infligir 2 sangrar no próximo acerto",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento. Se o alvo tiver sangramento, infligir +2 de contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pin Down",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pain",
+          "desc": "Prioriza os alvos com sangramento\nQuando esta unidade derrota o alvo com um ataque, o inimigo com o SP mais baixo perde 10 sp.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver sangramento, causar 10% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] Alvo perde (sangramento no alvo) SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver sangramento, causar 10% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] Alvo perde (sangramento no alvo) SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir sangramento por sangramento no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento. Se o alvo tiver sangramento, infligir +2 de contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pin Down",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pain",
+          "desc": "Prioriza os alvos com sangramento\nQuando esta unidade derrota o alvo com um ataque, o inimigo com o SP mais baixo perde 10 sp.\nQuando esta unidade derrota o alvo com um ataque, reutilize a habilidade em um alvo diferente.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver sangramento, causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] Alvo perde (sangramento no alvo) SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver sangramento, causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] Alvo perde (sangramento no alvo) SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir sangramento por sangramento no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 10 sangramento, reutilize esta moeda uma vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 814904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 4 sangramento. Se o alvo tiver sangramento, infligir +2 de contagem de sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 3 sangramento"
+                },
+                {
+                  "desc": "[[Suporte]] infligir +2 contagem de sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pin Down",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir +3 contagem de sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 sangramento"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir 5 sangramento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pain",
+          "desc": "Prioriza os alvos com sangramento\nQuando esta unidade derrota o alvo com um ataque, o inimigo com o SP mais baixo perde 15 sp.\nQuando esta unidade derrota o alvo com um ataque, reutilize a habilidade em um alvo diferente.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver sangramento, causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] O alvo perde (sangramento no alvo/2) SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver sangramento, causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] O alvo perde (sangramento no alvo/2) SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver sangramento, causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] O alvo perde (sangramento no alvo/2) SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Suporte]] infligir sangramento por sangramento no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 7+ sangramento, reutilize esta moeda uma vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

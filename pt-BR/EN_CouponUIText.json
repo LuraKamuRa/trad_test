@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "coupon_InputField_block",
+      "content": "Não é possível inserir códigos de cupom"
+    },
+    {
+      "id": "coupon_InputField",
+      "content": "Códigos de cupom de entrada aqui"
+    },
+    {
+      "id": "coupon_popup_title",
+      "content": "Código do cupom de entrada"
+    },
+    {
+      "id": "coupon_popup_desc",
+      "content": "- Os cupons são sempre combinações de alfabetos e números em inglês superior.\n- nenhum cupom pode ser registrado mais de uma vez para a mesma conta.\n- Os cupons após a data de validade não podem ser registrados.\n- Falha repetida do código de cupom dentro de um curto período de tempo pode restringir o código do cupom por um período de tempo definido."
+    },
+    {
+      "id": "coupon_use_failed_2",
+      "content": "Este cupom é inválido."
+    },
+    {
+      "id": "coupon_use_failed_3",
+      "content": "Este cupom é inválido."
+    },
+    {
+      "id": "coupon_use_failed_4",
+      "content": "Este cupom expirou."
+    },
+    {
+      "id": "coupon_use_failed_5",
+      "content": "Este cupom já foi reivindicado."
+    },
+    {
+      "id": "coupon_use_failed_6",
+      "content": "Este cupom já foi reivindicado."
+    },
+    {
+      "id": "coupon_use_failed_7",
+      "content": "Falha repetida do código de cupom. Entrada de código de cupom restrita até {0}."
+    },
+    {
+      "id": "coupon_InputField_block_desc",
+      "content": "Entrada de código de cupom restrita até {0}"
+    },
+    {
+      "id": "coupon_use_failed_unknown",
+      "content": "Um erro desconhecido ocorreu."
+    }
+  ]
+}

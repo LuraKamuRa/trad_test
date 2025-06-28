@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": "RedEyeFirst",
+      "name": "Red Eyes",
+      "desc": "- Efeitos de moeda de habilidade básica infligir +1 mais sangramento\n- Valor máximo: 20\n- Carga exclusiva (potência fixa)\n- Recurso usado por certas habilidades para efeitos adicionais\n- aprimora o buff com base no valor\n· Estágio 1 (1 ~ 7): olhos vermelhos\n· Estágio 2 (8 ~ 15): Red Eyes - Alerta\n· Estágio 3 (16 ~ 20): olhos vermelhos - devorando\n- A quantidade de sangramento adicional infligido pela primeira linha desse buff é igual ao estágio de aprimoramento do buff (máximo 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeSecond",
+      "name": "Red Eyes - Alert",
+      "desc": "- Efeitos da moeda de habilidade básica infligir +2 mais sangramento\n- Valor máximo: 20\n- Carga exclusiva (potência fixa)\n- Recurso usado por certas habilidades para efeitos adicionais\n- aprimora o buff com base no valor\n· Estágio 1 (1 ~ 7): olhos vermelhos\n· Estágio 2 (8 ~ 15): Red Eyes - Alerta\n· Estágio 3 (16 ~ 20): olhos vermelhos - devorando\n- A quantidade de sangramento adicional infligido pela primeira linha desse buff é igual ao estágio de aprimoramento do buff (máximo 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeThird",
+      "name": "Red Eyes - Devouring",
+      "desc": "- Efeitos de moeda de habilidade básica infligir +3 mais sangramento\n- Valor máximo: 20\n- Carga exclusiva (potência fixa)\n- Recurso usado por certas habilidades para efeitos adicionais\n- aprimora o buff com base no valor\n· Estágio 1 (1 ~ 7): olhos vermelhos\n· Estágio 2 (8 ~ 15): Red Eyes - Alerta\n· Estágio 3 (16 ~ 20): olhos vermelhos - devorando\n- A quantidade de sangramento adicional infligido pela primeira linha desse buff é igual ao estágio de aprimoramento do buff (máximo 3)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceFirst",
+      "name": "Penitence",
+      "desc": "- Heal 2 SP no sucesso com moedas de habilidade básica que ganham penitência\n- Valor máximo: 20\n- Carga exclusiva (potência fixa)\n- Turn Start: Gain (Penitência)% de Max HP como escudo\n- Recurso usado por certas habilidades para efeitos adicionais\n- aprimora o estágio de buff com base no valor\n· Estágio 1 (1 ~ 7): Penitência\n· Estágio 2 (8 ~ 15): Penitência - Periferia\n· Estágio 3 (16 ~ 20): Penitência - Confissão\n- A quantidade de SP curada pela primeira linha deste buff é baseada no estágio de aprimoramento (estágio de aprimoramento x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceSecond",
+      "name": "Penitence - Periphery",
+      "desc": "- Heal 4 SP no sucesso com moedas de habilidade básica que ganham penitência\n- Valor máximo: 20\n- Carga exclusiva (potência fixa)\n- Turn Start: Gain (Penitência)% de Max HP como escudo\n- Recurso usado por certas habilidades para efeitos adicionais\n- aprimora o estágio de buff com base no valor\n· Estágio 1 (1 ~ 7): Penitência\n· Estágio 2 (8 ~ 15): Penitência - Periferia\n· Estágio 3 (16 ~ 20): Penitência - Confissão\n- A quantidade de SP curada pela primeira linha deste buff é baseada no estágio de aprimoramento (estágio de aprimoramento x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceThird",
+      "name": "Penitence - Confession",
+      "desc": "- Heal 6 SP no sucesso com moedas de habilidade básica que ganham penitência\n- Valor máximo: 20\n- Carga exclusiva (potência fixa)\n- Turn Start: Gain (Penitência)% de Max HP como escudo\n- Recurso usado por certas habilidades para efeitos adicionais\n- aprimora o estágio de buff com base no valor\n· Estágio 1 (1 ~ 7): Penitência\n· Estágio 2 (8 ~ 15): Penitência - Periferia\n· Estágio 3 (16 ~ 20): Penitência - Confissão\n- A quantidade de SP curada pela primeira linha deste buff é baseada no estágio de aprimoramento (estágio de aprimoramento x 2)",
+      "summary": ""
+    },
+    {
+      "id": "Emptiness",
+      "name": "Only Ashes Remain",
+      "desc": "- Não é possível manter olhos vermelhos e penitência\n- Ao ganhar olhos vermelhos com efeitos de habilidade básica, curar -se e 1 aliar com a menor porcentagem de HP por (olhos vermelhos ganhou)% do máximo HP desta unidade (2 vezes por turno)\n- Ao ganhar penitência com efeitos de habilidade básica, curar -se e 1 aliar com o menor SP por ((Penitência ganhou)/2) SP (2 vezes por turno)\n- Turn End: Este efeito expira",
+      "summary": ""
+    },
+    {
+      "id": "SinkingWhite",
+      "name": "Butterfly",
+      "desc": "- naufrágio único\n- Valor base: 0, valor máximo: 15\n- A potência e a contagem desse efeito são chamadas de \"os vivos\" e \"os partidos\", respectivamente.\n- Quando atingido, o atacante cura (o vivo/4) sp. (min 1; arredondado)\n- Quando atingido, e se o SP desta unidade estiver em menos de 0, pegue (potência na pista/5) dano da escuridão para cada valor dos que partiram. (MAX DANHO DA ESCURO 30; Roused Down; causa meio dano aos alvos sem sp.)\n- Turn End: Redefinir a partida deste efeito para 0; Então, ganhe naufrágio igual aos vivos e converta os vivos para os que partiram.\n- Nenhum efeito externo pode aumentar a quantidade de borboleta infligida. Os efeitos \"infligir afundamento adicionais\" causam afundamento adicional em vez de borboleta adicional.\n- Esse efeito expira quando os vivos e o alcance que partiu 0.",
+      "summary": ""
+    },
+    {
+      "id": "SinkingBlack",
+      "name": "!!!OUDATED EFFECT!!!",
+      "desc": "",
+      "summary": ""
+    },
+    {
+      "id": "BulletLament",
+      "name": "The Living & The Departed",
+      "desc": "- munição única\n- A soma da potência e da contagem máxima de 20 anos.\n- consumido para certas habilidades.\n- Se os vivos (potência) ou o que faleceu (contagem) será consumido para cada tiro é determinado aleatoriamente\n- Alguns ataques cancelam se esta unidade ficar sem munição.",
+      "summary": ""
+    },
+    {
+      "id": "TrainTeamCaptain",
+      "name": "Training Team Captain",
+      "desc": "Slot Slot +1\nModificar o pool de habilidades: Ganhe 1 Uso da Habilidade 3, mas perca 1 Uso da Habilidade 1\nTurn Start: Heal 15 sp\nAumente a quantidade de queimadura, sangramento, ruptura, afundamento ou tremor infligido por +1 (incluindo 'efeitos de status exclusivos')\nAumente a quantidade de equilíbrio ou cobrança (incluindo 'cobrança exclusiva') obtida por +1\nNa matança, ganhe +2, por exemplo, recurso para a afinidade da habilidade que derrotou o inimigo; Ganhe +1, por exemplo, recurso para restante das afinidades",
+      "summary": ""
+    },
+    {
+      "id": "VioletUnderstand",
+      "name": "Understanding",
+      "desc": "- acordo +5% mais dano por pilha\n- Tome +5% mais dano por pilha\n(Valor máximo: 5)",
+      "summary": ""
+    },
+    {
+      "id": "MentalCrack",
+      "name": "Mental Fracture",
+      "desc": "Eficiência de perda SP +1 por pilha (máx. 5)\nExpira quando atinge 5 pilha e sofre 10 danos sp\nPerder 1 pilha por turno",
+      "summary": ""
+    },
+    {
+      "id": "ImpendingCollapse",
+      "name": "Imminent Decay",
+      "desc": "Turn End: Lose 1 Stack\nStart Start: na 1- Stack, use uma habilidade especial",
+      "summary": ""
+    },
+    {
+      "id": "ReloadLament",
+      "name": "Reload",
+      "desc": "- Efeito aplicado aos vivos e à partida (munição única)\n- Consuma (30 - (os vivos + o que falou))/2 sp. (arredondado para baixo)\n- Redefina os valores vivos e que partiram para 0 para 0, e obtenha o valor máximo de sua soma com base nas probabilidades listadas no 'iseethedingbuterfly passivo'.\n- Na recarga, ganhe pelo menos 1 dos vivos e dos partidos.",
+      "summary": ""
+    }
+  ]
+}

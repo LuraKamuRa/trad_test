@@ -1,0 +1,780 @@
+{
+    "dataList": [
+        {
+            "id": "battle_battleunit_guard",
+            "content": "Guarda"
+        },
+        {
+            "id": "popup_message_ego_seat_lack",
+            "content": "Não é possível usar este E.G.O. Verifique o espaço disponível."
+        },
+        {
+            "id": "popup_message_ego_resources_lack",
+            "content": "Não é possível usar este E.G.O. Por favor, verifique seus recursos."
+        },
+        {
+            "id": "option_title",
+            "content": "Configurações"
+        },
+        {
+            "id": "option_btn_exit",
+            "content": "Sair do Estágio"
+        },
+        {
+            "id": "option_btn_statistical",
+            "content": "Dados de batalha"
+        },
+        {
+            "id": "creature_destroy_notice",
+            "content": "Parte quebrada"
+        },
+        {
+            "id": "oneside_attack",
+            "content": "Sem oposição"
+        },
+        {
+            "id": "guard",
+            "content": "Guarda"
+        },
+        {
+            "id": "power",
+            "content": "Potência"
+        },
+        {
+            "id": "require",
+            "content": "Req."
+        },
+        {
+            "id": "battle_log_atk_hp",
+            "content": "{0} causa {2} de dano a {1}!"
+        },
+        {
+            "id": "battle_log_atk_mp",
+            "content": "{0} causa {2} de dano à sanidade de {1}!"
+        },
+        {
+            "id": "battle_log_recover_hp",
+            "content": "{0} curou {2} HP usando {1}."
+        },
+        {
+            "id": "battle_log_guard",
+            "content": "{0} levantaram a guarda."
+        },
+        {
+            "id": "battle_log_buf_to_other",
+            "content": "{0} aplicou {3} {2} a {1}."
+        },
+        {
+            "id": "battle_log_buf_to_self",
+            "content": "{0} aplicou {2} {1} a si mesmo."
+        },
+        {
+            "id": "battle_log_use_ego",
+            "content": "{0} desperta {1}!!"
+        },
+        {
+            "id": "battle_log_use_ego_corrosion",
+            "content": "{1} corrói {0}!!"
+        },
+        {
+            "id": "battle_log_personality_corrosion",
+            "content": "{0} teve um colapso!!"
+        },
+        {
+            "id": "battle_log_low_morale",
+            "content": "O moral de {0} está baixo!"
+        },
+        {
+            "id": "battle_log_panic",
+            "content": "{0} está em pânico!!"
+        },
+        {
+            "id": "choice_result_success",
+            "content": "Verificação aprovada"
+        },
+        {
+            "id": "choice_result_fail",
+            "content": "Verificação falhou"
+        },
+        {
+            "id": "choice_result_skip",
+            "content": "Verificação ignorada"
+        },
+        {
+            "id": "info_button_detailinfo",
+            "content": "Detalhes"
+        },
+        {
+            "id": "info_button_skill",
+            "content": "Habilidade"
+        },
+        {
+            "id": "info_button_awakenskill",
+            "content": "Despertar"
+        },
+        {
+            "id": "info_button_erosionskill",
+            "content": "Corrosão"
+        },
+        {
+            "id": "resonance",
+            "content": "Res"
+        },
+        {
+            "id": "perfect_resonance",
+            "content": "A-Res"
+        },
+        {
+            "id": "break",
+            "content": "CAMBALEANTE"
+        },
+        {
+            "id": "mental_break",
+            "content": "DISCRIMINAÇÃO"
+        },
+        {
+            "id": "low_morale",
+            "content": "Moral baixo"
+        },
+        {
+            "id": "panic",
+            "content": "Pânico"
+        },
+        {
+            "id": "status",
+            "content": "Status"
+        },
+        {
+            "id": "status_abnormal",
+            "content": "Efeitos"
+        },
+        {
+            "id": "immunity_information",
+            "content": "Resistências"
+        },
+        {
+            "id": "awaken_ego_skill",
+            "content": "Despertar"
+        },
+        {
+            "id": "erosion_ego_skill",
+            "content": "Corrosão"
+        },
+        {
+            "id": "turnplace_test_name",
+            "content": "Uma filial abandonada da LC"
+        },
+        {
+            "id": "death",
+            "content": "MORTO"
+        },
+        {
+            "id": "slash",
+            "content": "Barra"
+        },
+        {
+            "id": "penetrate",
+            "content": "Perfurar"
+        },
+        {
+            "id": "hit",
+            "content": "Cego"
+        },
+        {
+            "id": "action_disable",
+            "content": "Imóvel"
+        },
+        {
+            "id": "ab_event_select_character",
+            "content": "Selecione Pecador"
+        },
+        {
+            "id": "ab_event_select_desc",
+            "content": "Informações"
+        },
+        {
+            "id": "ab_event_rate",
+            "content": "Taxa de sucesso"
+        },
+        {
+            "id": "formet_event_rate",
+            "content": "Taxa de sucesso: {0}"
+        },
+        {
+            "id": "ab_event_decision",
+            "content": "Começar"
+        },
+        {
+            "id": "ab_event_need",
+            "content": "Req."
+        },
+        {
+            "id": "ab_battle_resume",
+            "content": "Retomar Batalha"
+        },
+        {
+            "id": "info_button_choice_log",
+            "content": "Registro de decisões"
+        },
+        {
+            "id": "info_button_story",
+            "content": "História"
+        },
+        {
+            "id": "info_button_ego",
+            "content": "E.G.O"
+        },
+        {
+            "id": "dungeon_encounter_start",
+            "content": "Começar"
+        },
+        {
+            "id": "dungeon_encounter_battle",
+            "content": "Encontro Regular"
+        },
+        {
+            "id": "dungeon_encounter_ab_battle",
+            "content": "Encontro Focado"
+        },
+        {
+            "id": "dungeon_encounter_hard_battle",
+            "content": "Encontro arriscado"
+        },
+        {
+            "id": "dungeon_encounter_event",
+            "content": "Evento"
+        },
+        {
+            "id": "dungeon_encounter_save",
+            "content": "Ponto de verificação"
+        },
+        {
+            "id": "dungeon_encounter_boss",
+            "content": "Chefe de andar"
+        },
+        {
+            "id": "bottom_winrate",
+            "content": "Taxa de vitória"
+        },
+        {
+            "id": "bottom_dmg",
+            "content": "Dano"
+        },
+        {
+            "id": "ab_event_next",
+            "content": "Prosseguir"
+        },
+        {
+            "id": "explanatory",
+            "content": "Lenda"
+        },
+        {
+            "id": "get_ego_gift",
+            "content": "Presente E.G.O. GET"
+        },
+        {
+            "id": "get_ego_gift_desc",
+            "content": "Presente E.G.O GANHE!"
+        },
+        {
+            "id": "selection",
+            "content": "Escolhas"
+        },
+        {
+            "id": "result",
+            "content": "Resultado"
+        },
+        {
+            "id": "choice_total_rate",
+            "content": "Taxa de sucesso total"
+        },
+        {
+            "id": "enter",
+            "content": "Digitar"
+        },
+        {
+            "id": "recommend_level",
+            "content": "Nível de Referência Ideal"
+        },
+        {
+            "id": "enemy_info",
+            "content": "Informações do inimigo"
+        },
+        {
+            "id": "enter_clear_requirement",
+            "content": "Objetivo Extra"
+        },
+        {
+            "id": "choice_event_resume",
+            "content": "Continuar"
+        },
+        {
+            "id": "crime_state_judgment",
+            "content": "{0} Verificar"
+        },
+        {
+            "id": "choice_personality",
+            "content": "Escolha um personagem para realizar a verificação:"
+        },
+        {
+            "id": "success_result",
+            "content": "Limite"
+        },
+        {
+            "id": "expectation_result",
+            "content": "Previsto"
+        },
+        {
+            "id": "outcome_result",
+            "content": "Resultado"
+        },
+        {
+            "id": "choice_event_percent",
+            "content": "Chances"
+        },
+        {
+            "id": "skill_expectition_value",
+            "content": "Intervalo previsto: {0}-{1}"
+        },
+        {
+            "id": "skill_expectition_or_value",
+            "content": "Valor previsto: {0} / {1}"
+        },
+        {
+            "id": "skill_correction_value",
+            "content": "{0} Modificador: {1}"
+        },
+        {
+            "id": "correction_based_on_association",
+            "content": "{0} Modificador de facção: {1}(, )"
+        },
+        {
+            "id": "action_choice_event_result_example_battle",
+            "content": "Encontro de Combate"
+        },
+        {
+            "id": "action_choice_event_result_example_event",
+            "content": "Evento"
+        },
+        {
+            "id": "action_choice_event_result_example_resume",
+            "content": "Continuar"
+        },
+        {
+            "id": "areaatk_attack",
+            "content": "Habilidades AoE"
+        },
+        {
+            "id": "enter_battle",
+            "content": "Começar a batalha"
+        },
+        {
+            "id": "choice_event_five_percent",
+            "content": "5% de chance"
+        },
+        {
+            "id": "choice_event_five_percent_success",
+            "content": "5% de chance de sucesso"
+        },
+        {
+            "id": "skillinfo_passivetitle",
+            "content": "Passivos"
+        },
+        {
+            "id": "skillinfo_coinabilitytitle",
+            "content": "Efeitos de Habilidade"
+        },
+        {
+            "id": "dungeon_save_desc",
+            "content": "Ponto de verificação alcançado.\nO progresso da masmorra foi salvo.\nTodos os Sinners foram curados."
+        },
+        {
+            "id": "battle_battleunit_evade",
+            "content": "Evasão"
+        },
+        {
+            "id": "battle_battleunit_counter",
+            "content": "Contador"
+        },
+        {
+            "id": "battle_operation_defence",
+            "content": "Defesa"
+        },
+        {
+            "id": "battle_increase_mp",
+            "content": "Sanidade em alta"
+        },
+        {
+            "id": "battle_decrease_mp",
+            "content": "Sanidade em baixa"
+        },
+        {
+            "id": "dungeon_encounter_type_start",
+            "content": "Começar"
+        },
+        {
+            "id": "dungeon_encounter_type_battle",
+            "content": "Encontro Regular"
+        },
+        {
+            "id": "dungeon_encounter_type_ab_battle",
+            "content": "Encontro Focado"
+        },
+        {
+            "id": "dungeon_encounter_type_hard_battle",
+            "content": "Encontro arriscado"
+        },
+        {
+            "id": "dungeon_encounter_type_event",
+            "content": "Evento"
+        },
+        {
+            "id": "dungeon_encounter_type_save",
+            "content": "Sala Segura"
+        },
+        {
+            "id": "dungeon_encounter_type_boss",
+            "content": "Encontro com o chefe"
+        },
+        {
+            "id": "battle_mp",
+            "content": "Sanidade"
+        },
+        {
+            "id": "abnormality_part_hp",
+            "content": "Parte HP"
+        },
+        {
+            "id": "abnormality_research_level",
+            "content": "Nível Obs."
+        },
+        {
+            "id": "abnormality_no_research_level",
+            "content": "Falta de dados"
+        },
+        {
+            "id": "Insufficient_conditions",
+            "content": "Condições não atendidas"
+        },
+        {
+            "id": "skillinfo_keyword",
+            "content": "Palavras-chave"
+        },
+        {
+            "id": "ability_turn",
+            "content": "Contar"
+        },
+        {
+            "id": "ego_erosion",
+            "content": "Corrosão EGO"
+        },
+        {
+            "id": "continuous_turn",
+            "content": "Voltas"
+        },
+        {
+            "id": "status_buff_list",
+            "content": "Efeitos"
+        },
+        {
+            "id": "stack",
+            "content": "Pilha"
+        },
+        {
+            "id": "slash_resistance",
+            "content": "Resolução de barra."
+        },
+        {
+            "id": "penetrate_resistance",
+            "content": "Pierce Res."
+        },
+        {
+            "id": "hit_resistance",
+            "content": "Resolução Blunt."
+        },
+        {
+            "id": "Lack_Buff",
+            "content": "Não {0}!"
+        },
+        {
+            "id": "received_the_golden_bough",
+            "content": "Ramo Dourado Recuperado"
+        },
+        {
+            "id": "destroyable",
+            "content": "Destrutível"
+        },
+        {
+            "id": "resumption",
+            "content": "Retomar"
+        },
+        {
+            "id": "stage_GiveUp",
+            "content": "Desistir"
+        },
+        {
+            "id": "show_skillTool",
+            "content": "Mostrar ferramentas de habilidade"
+        },
+        {
+            "id": "auto_coinToss",
+            "content": "Auto Cointoss"
+        },
+        {
+            "id": "babayaga_alert",
+            "content": "Você tem {0} chances restantes."
+        },
+        {
+            "id": "battle_operation_offset",
+            "content": "Desvio"
+        },
+        {
+            "id": "oneside_defense",
+            "content": "Guarda unilateral"
+        },
+        {
+            "id": "cantIdentify",
+            "content": "<color=#ff0000>[Indiscriminado]</color>"
+        },
+        {
+            "id": "popup_message_ego_irrevocable",
+            "content": "Habilidades E.G.O geradas em turnos anteriores não podem ser canceladas."
+        },
+        {
+            "id": "stock",
+            "content": "Controlado"
+        },
+        {
+            "id": "stable",
+            "content": "Estável"
+        },
+        {
+            "id": "un_stable",
+            "content": "Instável"
+        },
+        {
+            "id": "vibration_explosion",
+            "content": "Explosão de tremor!"
+        },
+        {
+            "id": "sinking_surge",
+            "content": "Dilúvio afundando!"
+        },
+        {
+            "id": "targetSlotWeight",
+            "content": "Peso de ataque"
+        },
+        {
+            "id": "EGO_ErodeProbability",
+            "content": "Para corroer"
+        },
+        {
+            "id": "EGOSelectUI_resources_lack",
+            "content": "Você não tem recursos suficientes.\nPor favor, verifique os símbolos."
+        },
+        {
+            "id": "EGOSelectUI_DetailInfo",
+            "content": "Detalhes"
+        },
+        {
+            "id": "ab_part_destroyable",
+            "content": "Destrutível"
+        },
+        {
+            "id": "ab_part_destroyable_and_can_vanish",
+            "content": "Destr. e Separável"
+        },
+        {
+            "id": "ab_guidebook_view",
+            "content": "Ver Obs. Logs"
+        },
+        {
+            "id": "show_BattleAblityUI",
+            "content": "Exibir informações detalhadas da IU na fase de combate"
+        },
+        {
+            "id": "Ahab_NotTarget_Onece",
+            "content": "Onde meu Arpão deve atingir..."
+        },
+        {
+            "id": "Ahab_NotTarget_Twice",
+            "content": "... Às vezes, a resposta não está bem diante de mim."
+        },
+        {
+            "id": "Ahab_NotTarget_Thrice",
+            "content": "Às vezes, para seguir em frente...\n... tenho que me virar e olhar para o meu lado."
+        },
+        {
+            "id": "show_BattleUnitAblityUI",
+            "content": "Mostrar efeitos ativos da IU na fase de combate"
+        },
+        {
+            "id": "LobotomyStartTypo_Title_1",
+            "content": "O Amanhecer do Verde"
+        },
+        {
+            "id": "LobotomyStartTypo_Name_1",
+            "content": "Dúvida"
+        },
+        {
+            "id": "LobotomyStartTypo_Desc_1",
+            "content": "Um dia, uma pergunta cruzou minha mente. De onde viemos? Nós ganhamos a vida e fomos deixados neste mundo contra nossa própria vontade."
+        },
+        {
+            "id": "LobotomyStartTypo_KillCountTitle_1",
+            "content": "Status de supressão"
+        },
+        {
+            "id": "LobotomyClearTypo_Title_1",
+            "content": "O Amanhecer do Verde"
+        },
+        {
+            "id": "LobotomyClearTypo_Name_1",
+            "content": "Dúvida"
+        },
+        {
+            "id": "LobotomyClearTypo_Desc_1",
+            "content": "Viver era um processo cheio de dor."
+        },
+        {
+            "id": "LobotomyEndTypo_Title",
+            "content": "Limite de tempo atingido"
+        },
+        {
+            "id": "LobotomyEndTypo_Desc",
+            "content": "Entidades de Provação Restantes: {0}"
+        },
+        {
+            "id": "abnormality_all_part",
+            "content": "Todas as partes"
+        },
+        {
+            "id": "applying_buff_format",
+            "content": "{0} Ativado"
+        },
+        {
+            "id": "level_number_UNDEF",
+            "content": "Indefinido."
+        },
+        {
+            "id": "level_number_HYPHEN",
+            "content": "-"
+        },
+        {
+            "id": "received_the_golden_bough_undecided",
+            "content": "?"
+        },
+        {
+            "id": "vibration_fusion",
+            "content": "Emaranhamento de amplitude!"
+        },
+        {
+            "id": "BatonPassUIText",
+            "content": "Substituir"
+        },
+        {
+            "id": "perfect",
+            "content": "A-Res"
+        },
+        {
+            "id": "ab_part_destroyed",
+            "content": "Destruído"
+        },
+        {
+            "id": "ab_part_vanished",
+            "content": "Destr. e Cortado"
+        },
+        {
+            "id": "ab_part_cannot_destroy_and_vanish",
+            "content": "Indestr. e Insever."
+        },
+        {
+            "id": "current_hp",
+            "content": "HP atual"
+        },
+        {
+            "id": "break_section_format",
+            "content": "Cambalear [{0}]"
+        },
+        {
+            "id": "no_break_section",
+            "content": "Sem limite de escalonamento"
+        },
+        {
+            "id": "correction_based_on_unit_keyword",
+            "content": "{0} Modificador de identidade: {1}(, )"
+        },
+        {
+            "id": "battle_operation_counter",
+            "content": "Contador de energia"
+        },
+        {
+            "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
+            "content": "Alvorecer"
+        },
+        {
+            "id": "LOBOTOMY_ORDEAL_TIME_TYPE_1",
+            "content": "Meio-dia"
+        },
+        {
+            "id": "LOBOTOMY_ORDEAL_TIME_TYPE_2",
+            "content": "Crepúsculo"
+        },
+        {
+            "id": "LOBOTOMY_ORDEAL_TIME_TYPE_3",
+            "content": "Meia-noite"
+        },
+        {
+            "id": "LobotomyOrdealTypo_QliphothLevel",
+            "content": "Qliphoth Meltdown - Nível {0}"
+        },
+        {
+            "id": "SinkingWhite_stack",
+            "content": "Os vivos"
+        },
+        {
+            "id": "SinkingWhite_turn",
+            "content": "Os que partiram"
+        },
+        {
+            "id": "BulletLament_stack",
+            "content": "Os Vivos (Munição)"
+        },
+        {
+            "id": "BulletLament_turn",
+            "content": "Os Infiltrados (Munição)"
+        },
+        {
+            "id": "Retreat_Textalram",
+            "content": "!Retiro!"
+        },
+        {
+            "id": "Retreat_TextPassive",
+            "content": "Recuando"
+        },
+        {
+            "id": "battle_operation_defense",
+            "content": "Guarda de poder"
+        },
+        {
+            "id": "battle_operation_defense_TextTypo",
+            "content": "Sem energia!"
+        },
+        {
+            "id": "battle_StageBuffUI_Stackdesc",
+            "content": "(Valor atual: {0})"
+        },
+        {
+            "id": "EGOSelectUI_not_allow",
+            "content": "Este E.G.O não pode ser equipado no momento."
+        },
+        {
+            "id": "laceration_surge",
+            "content": "Dilúvio Sangrento!"
+        },
+        {
+            "id": "QTE_Notice",
+            "content": "GALOPE JUNTOS!"
+        }
+    ]
+}

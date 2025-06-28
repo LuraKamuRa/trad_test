@@ -1,0 +1,75 @@
+{
+  "dataList": [
+    {
+      "id": 815901,
+      "name": "Sin Resistance",
+      "desc": "A menos que esta unidade esteja escalada ou quebrada, abaixe seu limiar de cambaleante em 5 no golpe com uma habilidade de ataque"
+    },
+    {
+      "id": 816001,
+      "name": "Sin Resistance",
+      "desc": "A menos que esta unidade esteja escalada ou quebrada, tome 50% menos dano [[suporte]]"
+    },
+    {
+      "id": 816501,
+      "name": "Endless Insecurity",
+      "desc": "Em menos de 65% hp: ganho 1 [[suporte]] e 1 [[suporte]] na vitória do Clash\nEm menos de 40% hp: ganho 1 [[suporte]] e 1 [[suporte]] em uso\nOs efeitos permanecem mesmo depois que as condições não se aplicam mais, desde que tenham sido ativadas pelo menos uma vez.",
+      "summary": "Ganhe efeitos condicionais de status positivo de auto-aprimoramento."
+    },
+    {
+      "id": 816502,
+      "name": "Directed Wrath",
+      "desc": "Após a primeira recuperação de Stagger e, após a vitória do confronto, causará 10% dos danos causados ​​por danos causados ​​pelo bônus da ira."
+    },
+    {
+      "id": 816503,
+      "name": "Predation",
+      "desc": "Em Kill, cure 200 hp para núcleo e parte.\nGanho 1 [[suporte]], 3 [[bracket]] e 2 [[bracket]] próximo."
+    },
+    {
+      "id": 816504,
+      "name": "Marked",
+      "desc": "Prioriza metas com [[suporte]]"
+    },
+    {
+      "id": 816401,
+      "name": "Self-loathing",
+      "desc": "Todas as habilidades têm como alvo Heathcliff.\nVence o encontro se Heathcliff morrer."
+    },
+    {
+      "id": 816402,
+      "name": "Explosive Emotions",
+      "desc": "Quando esta unidade tem efeitos de afinidade \"explosivos\": torne -se mais fraco às afinidades correspondentes e se torne mais forte contra qualquer outra afinidade; Obtenha um efeito especial quando atingido."
+    },
+    {
+      "id": 816403,
+      "name": "Deep Bereavement",
+      "desc": "Se esta unidade perder um efeito de afinidade 'explosivo' antes da 2ª virada após a obtenção desse efeito, o ganho [[suporte]] para as próximas 2 voltas e obtenha um novo padrão de habilidade.\nSe esse efeito não expirar dentro desse prazo, perca o efeito e obtenha 6 [[suporte]] e 3 [[suporte]] no próximo turno."
+    },
+    {
+      "id": 816404,
+      "name": "NOTHING TO SEE HERE",
+      "desc": "Nada para ver aqui"
+    },
+    {
+      "id": 816405,
+      "name": "Spite-driven",
+      "desc": "Se esta unidade falhou em acertar em Heathcliff por Skill End, perder 1 emoção explosiva\nSe esta unidade estiver escalonada no final, perca 3 emoção explosiva\nEsta unidade não perde mais de 3 emoção explosiva por turno; Se o valor da emoção explosiva for 1 no final, perca o referido efeito"
+    },
+    {
+      "id": 816406,
+      "name": "Heart of Vengeance",
+      "desc": "Turn Start: Se não estiver em -45 sp, Heal 15 sp.\nTurn End: Se em pânico, recupere do pânico no próximo turno e redefina o SP para 0.\nTurn End: Se esta unidade se recuperar do pânico, ganhe 2 [[suporte]] no próximo turno Start"
+    },
+    {
+      "id": 816505,
+      "name": "A Place for Me",
+      "desc": "A HP não cai abaixo de 40% por 1 turno.\nGanha um novo padrão"
+    },
+    {
+      "id": 816407,
+      "name": "Fathomless Wrath",
+      "desc": "Se esta unidade falhou em conseguir um acerto pelo fim da habilidade, perder 1 emoção explosiva\nSe esta unidade estiver escalonada no final, perca 3 emoção explosiva\nEsta unidade não perde mais de 3 emoção explosiva por turno; Se o valor da emoção explosiva for 1 no final, perca o referido efeito"
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+    "dataList": [
+        {
+            "id": 2070511,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Holiday",
+                    "abName": "Sandolph",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Selecione aleatoriamente um dos seguintes efeitos: queima, sangramento, tremor, ruptura ou afundamento. Em seguida, inflige 1 potência do efeito selecionado na próxima curva.\nRepita o processo acima (2 + (mais alto excelente excesso.) Tempos. (5 vezes max)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Holiday",
+                    "abName": "Sandolph",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Selecione aleatoriamente um dos seguintes efeitos: queima, sangramento, tremor, ruptura ou afundamento. Em seguida, inflige 1 potência do efeito selecionado na próxima curva.\nRepita o processo acima (2 + (mais alto excelente excesso.) Tempos. (5 vezes max)"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Selecione aleatoriamente um dos seguintes efeitos: 1 contagem de pontos, 1 contagem de cobrança, 1 pressa, 1 nível de ataque ou 1 nível de defesa. Em seguida, aplique o efeito selecionado a 2 aliados aleatórios no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Holiday",
+                    "abName": "Sandolph",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Selecione aleatoriamente um dos seguintes efeitos: queima, sangramento, tremor, ruptura ou afundamento. Em seguida, inflige 1 potência do efeito selecionado na próxima curva.\nRepita o processo acima (2 + (mais alto excelente excesso.) Tempos. (7 vezes max)"
+                                },
+                                {
+                                    "desc": "[EnemyKill]Selecione aleatoriamente um dos seguintes efeitos: 2 contagem de pontos, 2 contagem de carga, 2 pressa, 2 ofensa no nível acima ou 2 nível de defesa. Em seguida, aplique o efeito selecionado a 2 aliados aleatórios no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070521,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Holiday",
+                    "abName": "Sandolph",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais SP[BeforeAttack]Target perde 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Selecione aleatoriamente um dos seguintes efeitos: queima, sangramento, tremor, ruptura ou afundamento. Em seguida, inflige 1 potência do efeito selecionado na próxima curva.\nRepita o processo acima (2 + (mais alto excelente excesso.) Tempos. (7 vezes max)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Holiday",
+                    "abName": "Sandolph",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais SP[BeforeAttack]Target perde 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Selecione aleatoriamente um dos seguintes efeitos: queima, sangramento, tremor, ruptura ou afundamento. Em seguida, inflige 1 potência do efeito selecionado na próxima curva.\nRepita o processo acima (2 + (mais alto excelente excesso.) Tempos. (7 vezes max)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Holiday",
+                    "abName": "Sandolph",
+                    "desc": "[CantIdentify]Tem como alvo a unidade com mais SP\nSe o SP do alvo principal for superior a 15, peso ATK +1[BeforeAttack]Target perde 10 sp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Selecione aleatoriamente um dos seguintes efeitos: queima, sangramento, tremor, ruptura ou afundamento. Em seguida, inflige 1 potência do efeito selecionado na próxima curva.\nRepita o processo acima (2 + (mais alto excelente excesso.) Tempos. (7 vezes max)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Binds",
+                    "abName": "The King in Binds",
+                    "desc": "[EndSkill]Por 3 voltas, perca 10 SP no final[EndSkill]Próximo turno, ganhe 20[Binding], 1[ForwardToTheKing]e 1[Enhancement]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Binds",
+                    "abName": "The King in Binds",
+                    "desc": "[EndSkill]Por 3 voltas, perca 10 SP no final[EndSkill]Próximo turno, ganhe 20[Binding], 1[ForwardToTheKing]e 1[Enhancement]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Binds",
+                    "abName": "The King in Binds",
+                    "desc": "[EndSkill]Por 3 voltas, perca 10 SP no final[EndSkill]Próximo turno, ganhe 20[Binding], 1[ForwardToTheBoundKing]e 2[Enhancement]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070621,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Binds",
+                    "abName": "The King in Binds",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Próximo turno, ganhe 20[Binding], 1[ForwardToTheKing]e 2[Enhancement]\n[EndSkill]Próxima turno, aplique 20[Binding]e 3[Enhancement]a 2 outros aliados na ordem de implantação\n- O número de aliados afetados cresce (mais alta escuridão ou ressonamento de orgulho. - 2) (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Binds",
+                    "abName": "The King in Binds",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Próximo turno, ganhe 20[Binding], 1[ForwardToTheKing]e 2[Enhancement]\n[EndSkill]Próxima turno, aplique 20[Binding], 3[Enhancement]e 1<style=\"highlight\">[AzureDamageUp]</style>a 2 outros aliados na ordem de implantação\n- O número de aliados afetados cresce (mais alta escuridão ou ressonamento de orgulho. - 2) (máximo<style=\"highlight\">3</style>)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Binds",
+                    "abName": "The King in Binds",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Próximo turno, ganhe 20[Binding], 1[ForwardToTheKing]e 3[Enhancement]\n[EndSkill]Próxima turno, aplique 20[Binding], 3[Enhancement], e<style=\"highlight\">2</style> [AzureDamageUp]a 2 outros aliados na ordem de implantação\n- O número de aliados afetados cresce (mais alta escuridão ou ressonamento de orgulho. - 2) (máximo<style=\"highlight\">4</style>)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Binding]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)\n- Se era um a-reson., Ganho (mais alto resson. +2)[BoseProjektil]em vez de[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](Máx 3)[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+5% de dano no acerto crítico para cada[BoseProjektil](máximo 35%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 3[Sinking]"
+                                },
+                                {
+                                    "desc": "[CriticalTargetKill]Se esta unidade tiver o[Bullet]efeito, ganho 1[Bullet](2 vezes por encontro)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)\n- Se era um a-reson., Ganho (maior resson. + 2)[BoseProjektil]em vez de[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](máx<style=\"highlight\">4</style>)\n[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+<style=\"highlight\">10</style>% De dano no acerto crítico para cada[BoseProjektil](máx<style=\"highlight\">70</style>%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 3[Sinking]"
+                                },
+                                {
+                                    "desc": "[CriticalTargetKill]Se esta unidade tiver o[Bullet]efeito, ganho 1[Bullet](2 vezes por encontro)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)\n- Se era um a-reson., Ganho (maior resson. + 2)[BoseProjektil]em vez de[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](máx<style=\"highlight\">7</style>)\n[BeforeAttack]Ganhe +1[Breath]Contar[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+<style=\"highlight\">15</style>% De dano no acerto crítico para cada[BoseProjektil](máx<style=\"highlight\">105</style>%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 3[Sinking]"
+                                },
+                                {
+                                    "desc": "[CriticalTargetKill]Se esta unidade tiver o[Bullet]efeito, ganho 1[Bullet](3 vezes por encontro)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)\n- Se era um a-reson., Ganho (maior resson. + 2)[BoseProjektil]em vez de[BeforeAttack]Acordo +2% mais danos para cada[BoseProjektil](no máximo 14%)[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](Máx 3)[BeforeAttack]Acordo +3% mais danos para cada 5[Breath]em si mesmo (máximo 15%)[BeforeAttack]Consuma 5[Breath]em si mesmo[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]e 2[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)\n- Se era um a-reson., Ganho (maior resson. + 2)[BoseProjektil]em vez de<style=\"highlight\">[BeforeAttack]Em mais de 3 anos[BoseProjektil], ganhe 1 peso ATK</style>\n[BeforeAttack]Acordo +2% mais danos para cada[BoseProjektil](no máximo 14%)[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](máx<style=\"highlight\">4</style>)\n[BeforeAttack]Negócio +<style=\"highlight\">4</style>% mais dano para cada 5[Breath]em si mesmo (máx<style=\"highlight\">20</style>%)\n[BeforeAttack]Consuma 5[Breath]em si mesmo[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Fell Bullet",
+                    "abName": "Der Fluchschütze",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (ressonamento mais alto + 1)[BoseProjektil](Máx 7)\n- Se era um a-reson., Ganho (maior resson. + 2)[BoseProjektil]em vez de[BeforeAttack]Ganhe 1 peso ATK para<style=\"highlight\">a cada 3[BoseProjektil](Máx 2)</style>\n[BeforeAttack]Negócio +<style=\"highlight\">3</style>% mais dano para cada[BoseProjektil](máx<style=\"highlight\">21</style>%)\n[BeforeAttack]Ganho 1[Breath]para todo[BoseProjektil](máx<style=\"highlight\">7</style>)\n[BeforeAttack]Negócio +<style=\"highlight\">5</style>% mais dano para cada 5[Breath]em si mesmo (máx<style=\"highlight\">25</style>%)\n[BeforeAttack]Consuma 5[Breath]em si mesmo[EndSkill]Perder cada[BoseProjektil]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e 3[Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070811,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Asymmetrical Inertia",
+                    "abName": "Clockwork-Time-Roly-Poly",
+                    "desc": "[BeforeAttack]Ganho (ressonância mais alta.)[Vibration]Contagem (máximo 6, 20 por turno)\n- Se o referido resson. foi uma ressonância de preguiça, gatilho[Switch_Vibration]sobre[Vibration]em si mesmo[VibrationSpring]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir +2[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1\n- Ao desencadear o tremor, infligir 1[AmberTakeDamageUp]esta vez\n- Se a maior ressonância. foi um a-reson de 4+ preguiçoso., Infligir 1[AmberTakeDamageUp]Próximo turno também"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Asymmetrical Inertia",
+                    "abName": "Clockwork-Time-Roly-Poly",
+                    "desc": "[BeforeAttack]Ganho (<style=\"highlight\">2 +</style>resson.)[Vibration]Contagem (máx<style=\"highlight\">8</style>, 20 por turno)\n- Se o referido resson. foi uma ressonância de preguiça, gatilho[Switch_Vibration]sobre[Vibration]em si mesmo[VibrationSpring]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir +2[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1\n- Ao desencadear o tremor, infligir 1[AmberTakeDamageUp]esta vez\n- Se a maior ressonância. era um<style=\"highlight\">Preguiçosa a-reson.</style>, infligir 1[AmberTakeDamageUp]Próximo turno também"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Asymmetrical Inertia",
+                    "abName": "Clockwork-Time-Roly-Poly",
+                    "desc": "[BeforeAttack]Ganho (<style=\"highlight\">4 +</style>resson.)[Vibration]Contagem (máximo 8, 20 por turno)\n- Se o referido resson. foi uma ressonância de preguiça, gatilho[Switch_Vibration]sobre[Vibration]em si mesmo[VibrationSpring]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir +3[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1\n- Ao desencadear o tremor, infligir 1[AmberTakeDamageUp]esta vez\n- Se a maior ressonância. era um<style=\"highlight\">3+ ressonamento preguiçoso.</style>, infligir 1[AmberTakeDamageUp]Próximo turno também"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2070821,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Asymmetrical Inertia",
+                    "abName": "Clockwork-Time-Roly-Poly",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (2 + maior ressonância.)[Vibration]Contagem (máximo 8, 20 por turno)\n- Se o referido resson. foi uma ressonância de preguiça, gatilho[Switch_Vibration]sobre[Vibration]em si mesmo[VibrationSpring]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir +2[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1\n- Ao desencadear o tremor, infligir 2[AmberTakeDamageUp]esta vez\n- Se a maior ressonância. era um a-reson de 4+ preguiçoso, infligir 2[AmberTakeDamageUp]Próximo turno também"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Asymmetrical Inertia",
+                    "abName": "Clockwork-Time-Roly-Poly",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (<style=\"highlight\">4 +</style>resson.)[Vibration]Contagem (máximo 8, 20 por turno)\n- Se o referido resson. foi uma ressonância de preguiça, gatilho[Switch_Vibration]sobre[Vibration]em si mesmo[VibrationSpring]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 5[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir +3[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1\n- Ao desencadear o tremor, infligir 2[AmberTakeDamageUp]esta vez\n- Se a maior ressonância. era um<style=\"highlight\">Preguiçosa a-reson</style>, infligir 2[AmberTakeDamageUp]Próximo turno também"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Asymmetrical Inertia",
+                    "abName": "Clockwork-Time-Roly-Poly",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (4 + maior resson.)[Vibration]Contagem (máx<style=\"highlight\">10</style>, 20 por turno)\n- Se o referido resson. foi uma ressonância de preguiça, gatilho[Switch_Vibration]sobre[Vibration]em si mesmo[VibrationSpring]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Vibration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 6[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir +4[Vibration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 1\n- Ao desencadear o tremor, infligir 2[AmberTakeDamageUp]esta vez\n- Se a maior ressonância. era um<style=\"highlight\">3+ ressonamento preguiçoso.</style>, infligir 2[AmberTakeDamageUp]Próximo turno também"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

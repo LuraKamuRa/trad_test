@@ -1,0 +1,117 @@
+{
+  "dataList": [
+    {
+      "id": "TipsinessRail",
+      "name": "Tipsy",
+      "desc": "Power de choque -{0} (máximo 5)",
+      "summary": "Perder o poder de choque pela contagem do efeito"
+    },
+    {
+      "id": "PassedPortal_Red",
+      "name": "Hemorrhaging Dimension",
+      "desc": "Passe pela brecha dimensional para ganhar +{0} 0% de dano"
+    },
+    {
+      "id": "PassedPortal_Green",
+      "name": "Poisonous Dimension",
+      "desc": "Passe através da brecha dimensional para ganhar +20% HP máximo"
+    },
+    {
+      "id": "PassedPortal_Yellow",
+      "name": "Tremoring Dimension",
+      "desc": "Passe pela brecha dimensional para ganhar {0} velocidade"
+    },
+    {
+      "id": "PassedPortal_Blue",
+      "name": "Electrifying Dimension",
+      "desc": "Passe através da brecha dimensional para ganhar o poder da moeda +{0}"
+    },
+    {
+      "id": "FairyCharm",
+      "name": "Charmed",
+      "desc": "- Todos os danos causados ​​à fada reduzidos a 0.\n- expira quando a fada morre.",
+      "summary": "Dano fixado a 0"
+    },
+    {
+      "id": "DecoyRegenerated",
+      "name": "Regenerate",
+      "desc": "Número de unidades encantadas +1 toda vez que uma peça é restaurada",
+      "summary": ""
+    },
+    {
+      "id": "WaveFoxUmbrella",
+      "name": "Protection Umbrella",
+      "desc": "Todas as peças ganham proteção igual a {0}\nAo usar a habilidade de espera, convoce {0} guarda -chuva antigo\nEu gastei toda vez que um guarda -chuva é quebrado."
+    },
+    {
+      "id": "InterlockingTime_Re",
+      "name": "Interlocking Time",
+      "desc": "Reduza os danos finais em 30% e guarde -o. Na contagem 3, sofra danos fixos em 2 vezes o dano acumulado e ganhe 3 ligue o próximo turno.",
+      "summary": "Reduza os danos finais em 30% e guarde -o. Na contagem 3, sofra danos fixos em 2 vezes o dano acumulado e ganhe 3 ligue o próximo turno."
+    },
+    {
+      "id": "TimeRental_Re",
+      "name": "Borrowed Time",
+      "desc": "No final do turno, ganhe 3 pressa, 2 danos e 2 ofensas de nível acima; Se apenas 1 contagem permanecer no final da curva, ganhe 3 vínculo, 1 ataque de ataque e 2 frágeis na próxima curva",
+      "summary": "No final do turno, ganhe 3 pressa, 2 danos e 2 ofensas de nível acima; Se apenas 1 contagem permanecer no final da curva, ganhe 3 vínculo, 1 ataque de ataque e 2 frágeis na próxima curva"
+    },
+    {
+      "id": "ReattachedCurseTag_Re",
+      "name": "Reattached Curse Talisman",
+      "desc": "Aos 9 anos ou mais, ganhe 5 ligações no início do turno.\nAos 12 anos, ganhe 5 ataques de ataque no início do turno. (Máximo 12)",
+      "summary": "Aos 9 anos ou mais, ganhe 5 ligações no início do turno.\nAos 12 anos, ganhe 5 ataques de ataque no início do turno."
+    },
+    {
+      "id": "WrappedCurseTagRe",
+      "name": "Entangled Curse Talisman",
+      "desc": "Acordo +1% de dano por contagem\nNa contagem de mais de 9",
+      "summary": " "
+    },
+    {
+      "id": "AccumulatedPast",
+      "name": "Accumulated Past",
+      "desc": "Ganhe 11 no final do turno.\nGasto completamente quando a parte do corpo é quebrada.",
+      "summary": ""
+    },
+    {
+      "id": "PrepareSinRose",
+      "name": "Crown of Thorns",
+      "desc": "Gera uma unidade de rosas cuja afinidade corresponde à afinidade de habilidade mais pertencente ao alvo infligida a esse efeito",
+      "summary": ""
+    },
+    {
+      "id": "BloomingRose",
+      "name": "Blooming Sin",
+      "desc": "No final da curva\n- Ganhe 1 contagem.\n- {2} perde HP igual a 25% de Max HP.\n- Perca 10% de {1}, por exemplo, recurso.\n- O sinal de rosas cura 5% do máximo de HP.\n\nEm 4 contagem,\n- {2} morre.\n- Perca tudo {1}, por exemplo, recurso.",
+      "summary": ""
+    },
+    {
+      "id": "EatingSin",
+      "name": "Drenched Sin",
+      "desc": "Ganhe máximo hp por {0}%(por exemplo, o recurso drenado).\n\nNa morte\n- recupere {0} de {1}, por exemplo, recurso.\n- {2} cura HP por (25% da pilha de pecado Blooming da Identity HP X Blooming na morte).",
+      "summary": ""
+    },
+    {
+      "id": "EnhanceRose",
+      "name": "Power-up State",
+      "desc": "Powe-up State Passive ativado",
+      "summary": ""
+    },
+    {
+      "id": "RailLine2Buff",
+      "name": "Mirror Refraction",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose",
+      "name": "Bloomed Rose",
+      "summary": ""
+    },
+    {
+      "id": "KalpaVine",
+      "name": "Brambles of Eternity",
+      "desc": "Todos os personagens causam -{0} 0% dano\nTodos os caracteres recebem -{0} 0% dano",
+      "summary": ""
+    }
+  ]
+}

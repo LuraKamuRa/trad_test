@@ -1,0 +1,705 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Aboard Mephistopheles's Deck",
+            "model": "오티스",
+            "content": "Agora, homens! Ordens claras e solidariedade são de suma importância em tempos como estes!"
+        },
+        {
+            "id": 1,
+            "model": "오티스",
+            "content": "Perna direita em 'HEAVE', perna esquerda em 'HO'! Vamos lá!"
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "PUXE!"
+        },
+        {
+            "id": 3,
+            "model": "돈키호테",
+            "content": "EI!"
+        },
+        {
+            "id": 4,
+            "model": "오티스",
+            "content": "PUXE!"
+        },
+        {
+            "id": 5,
+            "model": "히스클리프",
+            "content": "... HEAVE HO COMO é justo que você fique aí gritando ordens para nós enquanto pedalamos até cansar?"
+        },
+        {
+            "id": 6,
+            "model": "오티스",
+            "content": "Uma pergunta muito idiota. Uma capitã deve preservar sua força, ou arriscar colocar seus subordinados em perigo."
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "É exatamente por isso que estou me abstendo de participar desse esforço colaborativo!"
+        },
+        {
+            "id": 8,
+            "model": "단테2",
+            "content": "<…….>"
+        },
+        {
+            "id": 9,
+            "model": "히스클리프",
+            "content": "... Desde quando você é nosso Comandante?"
+        },
+        {
+            "id": 10,
+            "model": "단테2",
+            "content": "<Bem, ela disse que é a Capitã, não a Comandante...>"
+        },
+        {
+            "id": 11,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 12,
+            "model": "료슈",
+            "content": "Essas malditas gaivotas já podem ir embora."
+        },
+        {
+            "id": 13,
+            "model": "히스클리프",
+            "content": "Que tal sequestrarmos essas gaivotas e treiná-las para pedalar o gerador?"
+        },
+        {
+            "id": 14,
+            "model": "히스클리프",
+            "content": "Oi, Fausto! Espertinho! Eu pensei que você fosse um gênio; faça com que seja! Isso deve ser moleza para seu intelecto brilhante, não?"
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "Eu posso fazer isso acontecer, de fato. Mas não faço, pois é ineficiente. O treinamento rudimentar de toalete será o primeiro passo para torná-los viáveis ​​como uma fonte consistente de trabalho."
+        },
+        {
+            "id": 16,
+            "model": "카론",
+            "content": "Caronte está entediado. Caronte quer vrum-vrum."
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "Estou saindo. Você é o motorista, então faça seu trabalho. Isso deve mantê-lo ocupado por um tempo."
+        },
+        {
+            "id": 18,
+            "model": "로쟈",
+            "content": "Oho, você tem certeza disso? Vergie não vai deixar isso passar~ É assim que você consegue uma \"consulta\", sabe?"
+        },
+        {
+            "id": 19,
+            "model": "그레고르",
+            "content": "Haah... Espera...! Vamos pensar sobre isso por um minuto."
+        },
+        {
+            "id": 20,
+            "model": "그레고르",
+            "content": "Vamos pensar no verdadeiro motivo pelo qual estamos suando e pedalando intensamente o gerador, hein?"
+        },
+        {
+            "id": 21,
+            "model": "오티스",
+            "content": "... Pegar no pé e procurar alguém para levar a culpa por cada pequena coisa é... um pensamento fedorento. Tudo o que acontece no caminho para o sucesso é meramente uma parte do processo."
+        },
+        {
+            "id": 22,
+            "model": "그레고르",
+            "content": "Olha, não estou dizendo que devemos jogar o jogo da culpa. Só estou me perguntando por que estamos pedalando tão forte para começar. Não é como se houvesse algo vindo atrás de nós."
+        },
+        {
+            "id": 23,
+            "model": "그레고르",
+            "content": "Estamos indo em direção a um dos maiores portos da U Corp. e sabemos exatamente onde fica e como chegar lá."
+        },
+        {
+            "id": 24,
+            "model": "그레고르",
+            "content": "Não é como se o porto fosse zarpar, certo? Por que toda essa urgência?"
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "Quer dizer, estou errado? O Grande Lago tem estado muito tranquilo até agora. Não é como se algum monstro fosse aparecer de repente do nada e nos atacar, certo?"
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "Parece que sua experiência de campo consolidada evoluiu para uma forma de intuição. Fascinante, Gregor."
+        },
+        {
+            "id": 28,
+            "model": "그레고르",
+            "content": "O que...?"
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "content": "Faust acha esse desenvolvimento otimista."
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "Precisamos sair desta área nos próximos 10 minutos. Estamos... ficando um pouco atrás da previsão das minhas previsões."
+        },
+        {
+            "id": 31,
+            "model": "그레고르",
+            "content": "Ok... isso foi sinistro. Por que exatamente 10 minutos?"
+        },
+        {
+            "id": 32,
+            "model": "파우스트",
+            "content": "As 'leis do Grande Lago'."
+        },
+        {
+            "id": 33,
+            "model": "로쟈",
+            "content": "Ohh... Eu sabia! É aquela maldita lei do Grande Lago de novo, hein?!"
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "...?"
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "Seu conhecimento prévio das leis do Grande Lago é um desenvolvimento inesperado, Rodion. É bem difícil acreditar que, mesmo com a experiência consolidada, sua intuição iria—"
+        },
+        {
+            "id": 36,
+            "model": "로쟈",
+            "content": "Desculpa, desculpa~ Eu só queria parecer que estava nisso pela primeira vez. Garota cansa de perguntar toda vez, sabe."
+        },
+        {
+            "id": 37,
+            "model": "파우스트",
+            "content": "O Grande Lago da U Corp. tem leis que... nunca devem ser quebradas."
+        },
+        {
+            "id": 38,
+            "model": "파우스트",
+            "content": "E sim. O porto pode e irá navegar para longe, Gregor."
+        },
+        {
+            "id": 39,
+            "model": "히스클리프",
+            "content": "É um lago sangrento... Que leis ele poderia ter?"
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "O quê, os policiais do Lago vão bater nos bandidos com um pedaço de pau por quebrarem as regras da classe?"
+        },
+        {
+            "id": 41,
+            "model": "료슈",
+            "content": "É melhor que haja uma lei que me deixe SINCRONIZAR, pirralho chorão. Meus ouvidos estão começando a sangrar."
+        },
+        {
+            "id": 42,
+            "content": "'Haah... Gente, parem com isso.'"
+        },
+        {
+            "id": 43,
+            "content": "Eu quase conseguia ouvir um suspiro bem cronometrado seguido por palavras honestas, mas brutais e penetrantes. Era como se alguém tivesse gravado o suspiro dela e tocado na minha cabeça."
+        },
+        {
+            "id": 44,
+            "content": "Mas Ishmael não estava em lugar nenhum no convés."
+        },
+        {
+            "id": 45,
+            "model": "이스마엘",
+            "content": "Então, se há algo que você quer de mim de agora em diante, diga. Claramente."
+        },
+        {
+            "id": 46,
+            "content": "Ela não estava brincando. Ishmael permaneceu em seu quarto, sem um pio para ser visto ou ouvido, apesar da comoção."
+        },
+        {
+            "id": 47,
+            "content": "Não apareceu uma vez sequer depois de tudo o que aconteceu desde... o incidente."
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "content": "Por mais que eu queira lhe dar uma explicação, sair desta zona tem precedência."
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "Segundo meus cálculos, nossa última conversa nos deixou com 7 minutos."
+        },
+        {
+            "id": 50,
+            "model": "뫼르소",
+            "content": "Estamos a aproximadamente 15 km do limite desta zona em linha reta."
+        },
+        {
+            "id": 51,
+            "model": "뫼르소",
+            "content": "Cada pessoa deve pedalar para gerar energia suficiente para viajar pelo menos 10 km por hora se quisermos escapar a tempo."
+        },
+        {
+            "id": 52,
+            "model": "베르길리우스",
+            "content": "Maravilhoso. Adoro ver um trabalho de equipe de verdade, pelo menos uma vez."
+        },
+        {
+            "id": 53,
+            "model": "돈키호테",
+            "content": "Hyaah! Rocinante! Nosso destino está próximo! Vamos galopar!"
+        },
+        {
+            "id": 54,
+            "model": "로쟈",
+            "content": "De onde... aquela garota... tira sua energia... Ugh, augh..."
+        },
+        {
+            "id": 55,
+            "model": "그레고르",
+            "content": "Tosse, tosse... Acho que estou acabado... Vá em frente sem mim..."
+        },
+        {
+            "id": 56,
+            "model": "싱클레어",
+            "content": "E deixar você onde... Estamos em... um navio... agh."
+        },
+        {
+            "id": 57,
+            "model": "뫼르소",
+            "content": "Saltar. Saltar. Saltar. Saltar."
+        },
+        {
+            "id": 58,
+            "model": "뫼르소",
+            "content": "A respiração diafragmática é propícia para manter uma velocidade consistente em um exercício dessa intensidade."
+        },
+        {
+            "id": 59,
+            "model": "파우스트",
+            "content": "Especialmente mais quando cada Sinner é responsável por cerca de 10km por hora de produção de energia. Qualquer coisa maior e seria necessária hiperpneia para manter essa velocidade."
+        },
+        {
+            "id": 60,
+            "model": "로쟈",
+            "content": "Você já se cansou, garota?!"
+        },
+        {
+            "id": 61,
+            "model": "파우스트",
+            "content": "Não. Restam 3 minutos agora."
+        },
+        {
+            "id": 62,
+            "model": "로쟈",
+            "content": "Aough... Nós nem sabemos o que acontece em 3 minutos! Por que estamos fazendo isso?!"
+        },
+        {
+            "id": 63,
+            "model": "단테2",
+            "content": "<Ela disse que não há tempo! Apenas pise nele com sua vida!>"
+        },
+        {
+            "id": 64,
+            "model": "카론",
+            "content": "Charon queria vrum-vrum. Isso é squeak-squeak."
+        },
+        {
+            "id": 65,
+            "model": "카론",
+            "content": "Chiado-chiado. Isso não é divertido."
+        },
+        {
+            "id": 66,
+            "model": "홍루",
+            "content": "Hm hm hm~ Eu não sabia o quão energizantes as músicas de trabalho poderiam ser."
+        },
+        {
+            "id": 67,
+            "model": "로쟈",
+            "content": "Huuh?! Como vocês ainda têm tanta energia sobrando?"
+        },
+        {
+            "id": 68,
+            "model": "홍루",
+            "content": "Isso nem é um aquecimento comparado ao treinamento que minha família me forçou a fazer~"
+        },
+        {
+            "id": 69,
+            "model": "히스클리프",
+            "content": "Ach, vocês! Cale a boca e pedale!"
+        },
+        {
+            "id": 70,
+            "model": "파우스트",
+            "content": "Restam 30 segundos."
+        },
+        {
+            "id": 71,
+            "model": "싱클레어",
+            "content": "30... 30 segundos...!"
+        },
+        {
+            "id": 72,
+            "model": "돈키호테",
+            "content": "Khaaaa! Que emoção é essa!!! Agora isso! É uma verdadeira aventura!!!"
+        },
+        {
+            "id": 73,
+            "model": "돈키호테",
+            "content": "É como atacar um inimigo colossalmente esmagador, não é— Ach?! Cof! Ack!"
+        },
+        {
+            "id": 74,
+            "model": "뫼르소",
+            "content": "Guarde suas palavras. Sua respiração. Permaneça. No fluxo. Inspire. Expire. Inspire. Expire. Inspire. Expire. Inspire. Expire. Inspire. Expire. Inspire. Expire."
+        },
+        {
+            "id": 75,
+            "model": "그레고르",
+            "content": "Huff... Huff... Quanto... tempo..."
+        },
+        {
+            "id": 76,
+            "model": "파우스트",
+            "content": "Restam 10 segundos."
+        },
+        {
+            "id": 77,
+            "model": "파우스트",
+            "content": "4 segundos."
+        },
+        {
+            "id": 78,
+            "model": "싱클레어",
+            "content": "4? Por que você não está... fazendo isso em múltiplos de 5...?!"
+        },
+        {
+            "id": 79,
+            "model": "오티스",
+            "content": "Olhem vivos, marinheiros! Coloquem suas costas nisso! Trabalhem, homens! Trabalhem!"
+        },
+        {
+            "id": 80,
+            "content": "De alguma forma, conseguimos escapar da zona antes que Faust fizesse a contagem regressiva para zero."
+        },
+        {
+            "id": 81,
+            "content": "Alguns pecadores imediatamente se jogaram no convés do navio como marionetes moles, enquanto outros pareciam ter acabado de descansar um pouco em um banco de parque."
+        },
+        {
+            "id": 82,
+            "model": "단테2",
+            "content": "<Então... nós conseguimos de alguma forma, mas...>"
+        },
+        {
+            "id": 83,
+            "model": "그레고르",
+            "content": "Não vejo nenhum sinal dessas \"leis\"... Estou esquecendo de alguma coisa... Frau Faust?"
+        },
+        {
+            "id": 84,
+            "model": "히스클리프",
+            "content": "Agh... Juro, se toda essa baboseira da \"lei do Grande Lago\" fosse alguma bobagem que você inventou..."
+        },
+        {
+            "id": 85,
+            "model": "히스클리프",
+            "content": "... só para fazer essa jornada passar um pouquinho mais rápido, eu vou seriamente..."
+        },
+        {
+            "id": 86,
+            "content": "A tranquila superfície do lago por onde acabamos de pedalar... desapareceu, como se nunca tivesse existido."
+        },
+        {
+            "id": 87,
+            "content": "Em seu lugar havia algo imenso... algo. Suas inúmeras pernas — ou tentáculos — se contorciam, erguendo-se acima da superfície do Lago. Eu não conseguia nem dizer onde a coisa terminava e onde o Lago começava."
+        },
+        {
+            "id": 88,
+            "content": "Ela explodiu do lago? Ou..."
+        },
+        {
+            "id": 89,
+            "content": "Estávamos viajando desprevenidos em seu corpo esse tempo todo?"
+        },
+        {
+            "id": 90,
+            "model": "돈키호테",
+            "content": "PHWAAAH?!"
+        },
+        {
+            "id": 91,
+            "content": "Eu não conseguia nem encontrar a palavra certa para descrever a magnitude daquela coisa. Sua aparição enviou ondas através das águas até a zona em que estávamos..."
+        },
+        {
+            "id": 92,
+            "content": "Mefistófeles tremeu violentamente como se estivesse prestes a virar. Não é preciso dizer que os pecadores no convés receberam um banho inoportuno."
+        },
+        {
+            "id": 93,
+            "model": "로쟈",
+            "content": "Uau... Isso foi muito perto! Nós quase fomos esmagados..."
+        },
+        {
+            "id": 94,
+            "model": "돈키호테",
+            "content": "B-bem! Nenhuma a-aventura é completa sem uh, tosse, tosse... na-nary um perigo, é claro..."
+        },
+        {
+            "id": 95,
+            "model": "료슈",
+            "content": "N.B. Agora sim é mais ou menos assim."
+        },
+        {
+            "id": 96,
+            "model": "뫼르소",
+            "content": "Não temos chance de resistir a um único golpe de um de seus membros."
+        },
+        {
+            "id": 97,
+            "model": "베르길리우스",
+            "content": "Não. Mas 'ele' nos deixará em paz enquanto estivermos 'aqui'."
+        },
+        {
+            "id": 98,
+            "model": "베르길리우스",
+            "content": "Essa é a lei do Grande Lago."
+        },
+        {
+            "id": 99,
+            "model": "파우스트",
+            "content": "Agora temos tempo para minhas explicações."
+        },
+        {
+            "id": 100,
+            "model": "파우스트",
+            "content": "Embora as leis do Grande Lago sejam numerosas, transmitirei apenas as informações pertinentes por enquanto."
+        },
+        {
+            "id": 101,
+            "model": "파우스트",
+            "content": "Permanecer mais do que um período de tempo predeterminado em um único lago fará com que você seja atingido pelas \"ondas\" de cada lago."
+        },
+        {
+            "id": 102,
+            "model": "그레고르",
+            "content": "'Ondas'...? Não se parecia com nenhuma onda que eu já tivesse visto antes."
+        },
+        {
+            "id": 103,
+            "model": "파우스트",
+            "content": "Há também leis que regem o horário e a direção em que os navios têm permissão para cruzar as fronteiras entre os Lagos."
+        },
+        {
+            "id": 104,
+            "model": "그레고르",
+            "content": "Espere aí. Então... se a gente parar um pouquinho, aquela coisa... tipo tentáculo de polvo vai nos bater?"
+        },
+        {
+            "id": 105,
+            "model": "파우스트",
+            "content": "Precisamente. Assim, segue-se naturalmente que tudo no Grande Lago está em constante estado de movimento para se posicionar de acordo com as leis."
+        },
+        {
+            "id": 106,
+            "model": "파우스트",
+            "content": "E a rota em direção ao nosso destino também mudará de acordo."
+        },
+        {
+            "id": 107,
+            "model": "홍루",
+            "content": "Hmm... Posso ter, tipo, uma lista escrita dessas leis? Minha babá costumava colar um pedaço de papel com nossas regras familiares no meu quarto. Não que eu pudesse seguir todas elas, mas..."
+        },
+        {
+            "id": 108,
+            "content": "Foi quando..."
+        },
+        {
+            "id": 109,
+            "content": "... Ouvi uma porta se abrir. Quem quer que a tenha aberto, o fez com óbvia irritação."
+        },
+        {
+            "id": 110,
+            "model": "이스마엘",
+            "content": "... As ondas finalmente chegaram, hein?"
+        },
+        {
+            "id": 111,
+            "model": "단테2",
+            "content": "<Eh... Mael?>"
+        },
+        {
+            "id": 112,
+            "content": "Depois de um longo período de isolamento, Ishmael finalmente saiu cambaleando do seu quarto."
+        },
+        {
+            "id": 113,
+            "model": "이스마엘",
+            "content": "Você não pode simplesmente rabiscar as leis do Grande Lago em um bloco de notas e encerrar o dia. Cada lago tem conjuntos de leis muito diferentes, embora as leis abrangentes que governam o Grande Lago sejam bem diretas."
+        },
+        {
+            "id": 114,
+            "model": "이스마엘",
+            "content": "Mais importante, você deve saber que a gravação não autorizada de suas leis é um dos tabus mais conhecidos da U Corp."
+        },
+        {
+            "id": 115,
+            "model": "료슈",
+            "content": "Então meu corpo vai se lembrar disso."
+        },
+        {
+            "id": 116,
+            "model": "파우스트",
+            "content": "... Tatuá-los no corpo, se é isso que você está se referindo, também é proibido."
+        },
+        {
+            "id": 117,
+            "model": "파우스트",
+            "content": "Caçadores de Taboo da U Corp. foram enviados em busca de indivíduos que tentaram precisamente isso. É melhor que não produzamos nenhum registro escrito de suas leis."
+        },
+        {
+            "id": 118,
+            "model": "단테2",
+            "content": "<… O que você tem feito todo esse tempo, Ishmael?>"
+        },
+        {
+            "id": 119,
+            "model": "이스마엘",
+            "content": "Afiando meu arpão."
+        },
+        {
+            "id": 120,
+            "model": "단테2",
+            "content": "<Seu arpão? Por quê?>"
+        },
+        {
+            "id": 121,
+            "model": "이스마엘",
+            "content": "Porque preciso que seja mais nítido."
+        },
+        {
+            "id": 122,
+            "model": "이스마엘",
+            "content": "Porque eu vou dar a ela o tipo de dor que a faz desejar estar morta. Ela vai sentir isso, mesmo nos menores cortes."
+        },
+        {
+            "id": 123,
+            "model": "히스클리프",
+            "content": "... Então por que você não nos poupa da sua miséria e volta para o seu buraco?"
+        },
+        {
+            "id": 124,
+            "model": "이스마엘",
+            "content": "Tenho medo de que, se eu fizesse isso, mais tarde eu emergiria em um convés coberto com sua carne derretida e irreconhecível."
+        },
+        {
+            "id": 125,
+            "model": "이스마엘",
+            "content": "E não estou ansioso para ver algo assim novamente."
+        },
+        {
+            "id": 126,
+            "model": "이스마엘",
+            "content": "Além do mais..."
+        },
+        {
+            "id": 127,
+            "model": "이스마엘",
+            "content": "Ver vocês, marinheiros, perderem tempo mexendo em uma nave que vocês nem entendem, desperdiçando um tempo precioso... tem sido insuportável."
+        },
+        {
+            "id": 128,
+            "content": "Embora já tenha passado muito tempo desde o incidente no Boatworks, seus sermões mordazes e ansiosos não diminuíram nem um pouco."
+        },
+        {
+            "id": 129,
+            "content": "Eu estava com medo de que ela pudesse causar problemas entre os Pecadores novamente..."
+        },
+        {
+            "id": 130,
+            "model": "단테2",
+            "content": "<... Certo, tudo bem.>"
+        },
+        {
+            "id": 131,
+            "content": "Mas ela estava aqui fora com o resto de nós, e eu queria acreditar que isso era mais do que suficiente. Decidi não questioná-la mais."
+        },
+        {
+            "id": 132,
+            "model": "이스마엘",
+            "content": "... Hm. Eu tinha um pressentimento de que isso aconteceria."
+        },
+        {
+            "id": 133,
+            "content": "Ismael caminhou até o leme."
+        },
+        {
+            "id": 134,
+            "model": "오티스",
+            "content": "O que você está fazendo? Estamos navegando tranquilamente no momento. Uma brisa do norte está nos empurrando."
+        },
+        {
+            "id": 135,
+            "model": "이스마엘",
+            "content": "Acho que pode parecer assim para algumas pessoas. Ground pounders simples, unidimensionais e previsíveis como você."
+        },
+        {
+            "id": 136,
+            "model": "오티스",
+            "content": "Seu pequeno... Como ousa insultar meu—"
+        },
+        {
+            "id": 137,
+            "model": "단테2",
+            "content": "<Outis, vamos ouvi-la.>"
+        },
+        {
+            "id": 138,
+            "model": "오티스",
+            "content": "... Você teve sorte, covarde."
+        },
+        {
+            "id": 139,
+            "model": "단테2",
+            "content": "<Ok, Ishmael. Diga-nos... Como não estamos navegando suavemente? Temos o vento a nosso favor.>"
+        },
+        {
+            "id": 140,
+            "model": "이스마엘",
+            "content": "Isso não é vento."
+        },
+        {
+            "id": 141,
+            "model": "이스마엘",
+            "content": "Estamos sendo arrastados."
+        },
+        {
+            "id": 142,
+            "model": "단테2",
+            "content": "<Arrastado? Por quê?>"
+        },
+        {
+            "id": 143,
+            "model": "이스마엘",
+            "content": "Esses navios."
+        }
+    ]
+}

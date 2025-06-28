@@ -1,0 +1,502 @@
+{
+    "dataList": [
+        {
+            "id": 2030511,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030521,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar[VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Acionar[VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar[VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 6[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Acionar[VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Wishing Cairn",
+                    "abName": "Pagoda Veneration",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Acionar[VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack]Infligir 8[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Acionar[VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Acionar[VibrationExplosion]; Em seguida, reduza os alvos[Vibration]Contagem por 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[BeforeAttack]Ganho (inveja resson. - 2) peso ATK (máximo 1)[BeforeAttack]Se esta unidade tiver mais de 20[Charge]Conte, gaste 20[Charge]Contar para causar +30% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Ganhe +2[Charge]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[BeforeAttack]Ganho (inveja resson. - 2) peso ATK (máximo 2)[BeforeAttack]Acordo ((inveja resson. - 3) x 5)% mais danos (máximo 15%)[BeforeAttack]Se esta unidade tiver mais de 20[Charge]Conte, gaste 20[Charge]Contar para causar +35% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Ganhe +2[Charge]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[BeforeAttack]Ganho (inveja resson. - 2) peso ATK (máximo 3)[BeforeAttack]Acordo +((inveja resson. - 3) x 10)% mais danos (no máximo 30%)[BeforeAttack]Se esta unidade tiver mais de 20[Charge]Conte, gaste 20[Charge]Contar para causar +40% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Ganhe +2[Charge]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030621,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (inveja resson. - 2) peso ATK (máximo 1)[BeforeAttack]Acordo +((inveja resson. - 3) x 5)% mais danos (no máximo 15%)[BeforeAttack]Em menos de 20[Charge]Conte, gaste 1,5% do máximo HP desta unidade por falta[Charge]Contar para aumentar[Charge]Contar até 20[BeforeAttack]Passe até 20[Charge]Contar para causar +2,5% mais danos para cada gasto[Charge]Contagem (máximo 50%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Ganhe +3[Charge]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (inveja resson. - 2) peso ATK (máximo<style=\"highlight\">2</style>)\n[BeforeAttack]Acordo +((inveja resson. - 3) x<style=\"highlight\">8</style>)% mais dano (máximo<style=\"highlight\">24</style>%)\n[BeforeAttack]Em menos de 20[Charge]Conte, gaste 1,5% do máximo HP desta unidade por falta[Charge]Contar para aumentar[Charge]Contar até 20[BeforeAttack]Passe até 20[Charge]Contar para lidar com +<style=\"highlight\">3.5</style>% mais dano para cada gasto[Charge]Contagem (máx<style=\"highlight\">70</style>%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Ganhe +3[Charge]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (inveja resson. - 2) peso ATK (máximo<style=\"highlight\">3</style>)\n[BeforeAttack]Acordo +((inveja resson. - 3) x<style=\"highlight\">12</style>)% mais dano (máximo<style=\"highlight\">36</style>%)\n[BeforeAttack]Em menos de 20[Charge]Conte, gaste<style=\"highlight\">1</style>% do máximo HP desta unidade por falta[Charge]Contar para aumentar[Charge]Contar até 20[BeforeAttack]Passe até 20[Charge]Contar para lidar com +<style=\"highlight\">5</style>% mais dano para cada gasto[Charge]Contagem (máx<style=\"highlight\">100</style>%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EnemyKill]Ganhe +3[Charge]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "O HP desta unidade não cai abaixo de 1 enquanto usa essa habilidade.\nClash Power +1 para cada 100[BloodDinner_Accumulation]por esta unidade (máx. 2)[BeforeAttack]Em menos de 50[BloodDinner], infligir 1[Laceration]com cada golpe[EndSkill]Por 3 voltas, perca 10 SP na curva.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Acordo +0,1% mais dano para cada[BloodDinner_Common_Accumulation](no máximo 10%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "A 100+[BloodDinner_Common_Accumulation]: acordo +0,1% mais dano para cada valor (máximo 10%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Em mais de 200[BloodDinner_Common_Accumulation]: acordo +0,1% mais dano para cada valor (máximo 20%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "A 300+[BloodDinner_Common_Accumulation]: acordo +0,1% mais dano para cada valor (máximo 30%)"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir[ThirstyRose]Baseado na maior luxúria a-reson. (Máx 3)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "O HP desta unidade não cai abaixo de 1 enquanto usa essa habilidade.<style=\"highlight\">Se o alvo tiver 10+[Laceration], Power de moedas +1</style>Clash Power +1 para cada 100[BloodDinner_Accumulation]por esta unidade (máximo<style=\"highlight\">3</style>)\n[BeforeAttack]Em menos de<style=\"highlight\">75</style> [BloodDinner], infligir 1[Laceration]com cada golpe[EndSkill]Por 3 voltas, perca 10 SP na curva.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Acordo +0,1% mais dano para cada[BloodDinner_Common_Accumulation](no máximo 10%)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "A 100+[BloodDinner_Common_Accumulation]: acordo +0,1% mais dano para cada valor (máximo<style=\"highlight\">15</style>%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Em mais de 200[BloodDinner_Common_Accumulation]: acordo +0,1% mais dano para cada valor (máximo<style=\"highlight\">25</style>%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "A 300+[BloodDinner_Common_Accumulation]: acordo +0,1% mais dano para cada valor (máximo<style=\"highlight\">40</style>%)"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir[ThirstyRose]Baseado na maior luxúria a-reson. (Máx 3)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "O HP desta unidade não cai abaixo de 1 enquanto usa essa habilidade.<style=\"highlight\">Potência de moedas +1 para cada 10[Laceration]no alvo (máximo 2)</style>Clash Power +1 para cada 100[BloodDinner_Accumulation]por esta unidade (máximo<style=\"highlight\">5</style>)\n[BeforeAttack]Em menos de<style=\"highlight\">100</style> [BloodDinner], infligir 1[Laceration]com cada golpe[EndSkill]Por 3 voltas, perca 10 SP na curva.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Acordo +0,1% mais dano para cada[BloodDinner_Common_Accumulation](no máximo 10%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "A 100+[BloodDinner_Common_Accumulation]: acordo +0,1% mais dano para cada valor (máximo<style=\"highlight\">20</style>%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Em mais de 200[BloodDinner_Common_Accumulation]: acordo +0,1% mais dano para cada valor (máximo<style=\"highlight\">30</style>%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "A 300+[BloodDinner_Common_Accumulation]: acordo +0,1% mais dano para cada valor (máximo<style=\"highlight\">50</style>%)"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir[ThirstyRose]Baseado na maior luxúria a-reson. (máx<style=\"highlight\">4</style>)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2030721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nO HP desta unidade não cai abaixo de 1 enquanto usa essa habilidade.\nSe o alvo tiver 10+[Laceration], Poder de moeda -1[BeforeAttack]Em menos de 150[BloodDinner], infligir 1[Laceration]com cada golpe[BeforeAttack]Ganhe 20[Laceration]e ativar[Laceration]em si mesmo imediatamente. Perder 2[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]para cada 50[BloodDinner_Common_Accumulation](máximo 10)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A 100[BloodDinner], infligir 10[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Acordo +5% mais danos para cada 100[BloodDinner_Common_Accumulation](MAX 25%)"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir[ThirstyRose]Baseado na maior luxúria a-reson. (Máx 3)"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Cura em 50% dos danos causados ​​pela HP (MAX 10)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nO HP desta unidade não cai abaixo de 1 enquanto usa essa habilidade.\nSe o alvo tiver 10+[Laceration], Poder de moeda -1<style=\"highlight\">Em mais de 200[BloodDinner_Accumulation]Por esta unidade, Power de moeda -1</style>\n[BeforeAttack]Em menos de 150[BloodDinner], infligir 1[Laceration]com cada golpe[BeforeAttack]Ganhe 20[Laceration]e ativar[Laceration]em si mesmo imediatamente. Perder 2[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]para cada 50[BloodDinner_Common_Accumulation](máximo 10)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A 100[BloodDinner], infligir 10[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negócio +<style=\"highlight\">10</style>% mais danos para cada 100[BloodDinner_Common_Accumulation](máx<style=\"highlight\">50</style>%)"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir[ThirstyRose]Baseado na maior luxúria a-reson. (máx<style=\"highlight\">4</style>)"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Cura em 50% dos danos causados ​​pela HP (MAX 10)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nO HP desta unidade não cai abaixo de 1 enquanto usa essa habilidade.\nSe o alvo tiver 10+[Laceration], Poder de moeda -1\nEm mais de 200[BloodDinner_Accumulation]Por esta unidade, Power de moeda -1[BeforeAttack]Em menos de 150[BloodDinner], infligir 1[Laceration]com cada golpe[BeforeAttack]Ganhe 20[Laceration]e ativar[Laceration]em si mesmo imediatamente. Perder 2[Laceration]Contar<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Laceration]para cada 50[BloodDinner_Common_Accumulation](máximo 10)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]A 100[BloodDinner], infligir 10[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Negócio +<style=\"highlight\">20</style>% mais danos para cada 100[BloodDinner_Common_Accumulation](máx<style=\"highlight\">100</style>%)"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir[ThirstyRose]Baseado na maior luxúria a-reson. (máx<style=\"highlight\">5</style>)"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Cura em 50% dos danos causados ​​pela HP (MAX 10)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

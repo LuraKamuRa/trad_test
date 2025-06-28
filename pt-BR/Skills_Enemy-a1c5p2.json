@@ -1,0 +1,984 @@
+{
+    "dataList": [
+        {
+            "id": 9008801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sow Fear",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Deal 2 dano SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Deal 2 dano SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Engrave Horror",
+                    "desc": "[WinDuel]Causar 10 danos causados ​​pelo alvo; Esta unidade cura 10 hp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 vincular a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reap Horror",
+                    "desc": "Se o SP da Target estiver abaixo de 20, curar 20% mais hp deste ataque",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Deal 3 dano SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 30% dos danos causados"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Deal 3 dano SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 30% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Paralyze Mind",
+                    "desc": "Se o SP da Target estiver abaixo de -15, causar +50% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisar a próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-... - ..-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-- ... -.-",
+                    "desc": "[WinDuel]Infligir 1 ruído pálido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +3 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...- .",
+                    "desc": "Power final +1 para cada aliado palidificado sobrevivente (sem contar esta unidade)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 40% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Copie um dos buffs atualmente aplicado ao destino. Ganhe o buff copiado no próximo turno.\n(Limitado a: ataque de ataque, pressa, danos e danos e<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Proteção</link></u></color>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 40% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "..-. .",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "..-. . --",
+                    "desc": "[WinDuel]Infligir 1 ruído pálido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de naufrágio"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-.. -",
+                    "desc": "[WinDuel]De acordo com 1 SP dano ao alvo para cada aliado palidificado sobrevivente (sem contar esta unidade)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 40% dos danos causados"
+                                },
+                                {
+                                    "desc": "Copie um dos buffs atualmente aplicado ao destino. Ganhe o buff copiado no próximo turno.\n(Limitado a: ataque de ataque, pressa, danos e danos e<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Proteção</link></u></color>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 40% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-... .…",
+                    "desc": "Se o alvo tiver<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</link></u></color>, o efeito HP Heal também se aplica a 1 outro aliado palidificado com o menor SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 30% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 naufrágio"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 30% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 naufrágio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".--- .",
+                    "desc": "Se o alvo tiver<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Naufrágio</link></u></color>, o efeito HP Heal também se aplica a 1 outro aliado palidificado com o menor SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cura em 50% dos danos causados"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 ruído pálido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-. .…",
+                    "desc": "[WhenUse]Se o alvo tiver<sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Ruído pálido</link></u></color>, todos os outros aliados palidificados curam 30 hp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Copie um dos buffs atualmente aplicado ao destino. Ganhe o buff copiado no próximo turno.\n(Limitado a: ataque de ataque, pressa, danos e danos e<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Proteção</link></u></color>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Cure 20 hp em si mesmo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-- . -.-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-... .-",
+                    "desc": "[WhenUse]Aplique 1 proteção a 1 outro aliado aleatório no próximo turno. Se o aliado for um aliado palidificado, aplique 1 proteção adicional.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +4 contagem de tremores"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.-. ..-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Reduza a contagem de tremores em 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ruído pálido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 ruptura e +4 contagem de ruptura"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".--. .",
+                    "desc": "[StartBattle]Ganhe 1 proteção para cada 2 aliado palidificado (sem contar esta unidade)\nQuando atacado enquanto esta unidade tem escudo, infliga 1 tremor ao atacante",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "..-. .",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 nível de defesa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-.. .",
+                    "desc": "[WhenUse]Aplique 1 dano até 1 outro aliado palidificado aleatório na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisos"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruído pálido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-.. .-",
+                    "desc": "[WhenUse]Aplique 1 dano até 1 aliado palidificado aleatório na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 nível de defesa"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ruído pálido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 nível de defesa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "--. . ...-",
+                    "desc": "Se o alvo tiver<sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Ruído pálido</link></u></color>, causar 1 dano de SP ao alvo para qualquer outro aliado sobrevivente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...- …",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 ruído pálido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de sangramento"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".--. .... -",
+                    "desc": "[WinDuel]Infligir 1 ruído pálido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 sangramento no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 curta frágil na próxima vez"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.- -",
+                    "desc": "Quando atacado enquanto esta unidade possui escudo, inflige 1 ruído pálido ao alvo[EndBattle]Se esta unidade tiver escudo, ganhe 3 postagem na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".--. -",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-.. - ..-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 paralisar a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 danos na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-- .... -",
+                    "desc": "[WhenUse]Ganhe 1 proteção para todo aliado sobrevivente. (Máx 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 proteção"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ruído pálido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Ganhe 2 proteção na próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4 sangramento no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.- ..",
+                    "desc": "[WhenUse]Ganhe 2 proteção\nQuando atacado enquanto esta unidade possui escudo, inflige 1 ruído pálido ao alvo[EndBattle]Cure HP por x2 do escudo restante HP.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Right in the Solar Plexus",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "We Remember!",
+                    "desc": "[DefeatDuel]Ganhe 1 dano no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 se liga ao próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Lidar com danos fixos adicionais iguais ao número de aliados do meio mortos durante esta onda"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Skull Crushing",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 ataque de poder no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ready to Write",
+                    "desc": "[EndBattle]Se esta unidade tiver escudo, ganhe 1 ataque de ataque na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vengeance",
+                    "desc": "[DefeatDuel]Ganhe 1 dano no próximo turno",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisar a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Levante o limite de cambaleou por 8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multifold Retribution",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Levante o limite de cambaleou em 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]OFERECE 20 DANOS DE HP FIXO"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Right in the Solar Plexus",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Write Their Sins!",
+                    "desc": "[DefeatDuel]Ganhe 1 dano no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 danos na próxima curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Lidar com danos fixos adicionais iguais ao número de aliados do meio mortos durante esta onda"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Skull Bursting",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1 Plus Coin Drop no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 Plus Coin Drop no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ready to Write",
+                    "desc": "Se o escudo desta unidade estiver totalmente esgotado, obtenha 1 ataque de ataque na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vengeance",
+                    "desc": "[DefeatDuel]Ganhe 1 dano no próximo turno",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2 paralisar a próxima curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Levante o limite de cambaleou por 8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multifold Retribution",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Levante o limite de cambaleou em 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]OFERECE 20 DANOS DE HP FIXO"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 paralisar a próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

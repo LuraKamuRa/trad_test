@@ -1,0 +1,208 @@
+{
+    "dataList": [
+        {
+            "id": "loginui_sign_in_with_google",
+            "content": "Entrar com o Google"
+        },
+        {
+            "id": "loginui_sign_in_with_apple",
+            "content": "Entrar com a Apple"
+        },
+        {
+            "id": "loginui_sign_in_with_steam",
+            "content": "Entrar com o Steam"
+        },
+        {
+            "id": "loginui_sign_in_with_guest",
+            "content": "Entrar como convidado"
+        },
+        {
+            "id": "loginui_sign_out_current_account",
+            "content": "Sair"
+        },
+        {
+            "id": "loginui_sign_out_current_account_desc",
+            "content": "Sair da conta atual?\nSe você estiver jogando como convidado, seus dados podem ser perdidos."
+        },
+        {
+            "id": "loginui_sign_out_switch_account_desc",
+            "content": "Sair da conta atual\ne alternar para a selecionada?\nSe estiver jogando como convidado, seus dados podem ser perdidos."
+        },
+        {
+            "id": "switch_account",
+            "content": "Alterar conta"
+        },
+        {
+            "id": "user_agreements",
+            "content": "Termos de serviço"
+        },
+        {
+            "id": "title_game_data_download",
+            "content": "Baixar dados do jogo"
+        },
+        {
+            "id": "content_game_data_download",
+            "content": "Baixando {0} de dados."
+        },
+        {
+            "id": "content_game_data_download_description",
+            "content": "Você retornará à tela de título se o seu dispositivo não tiver espaço de armazenamento suficiente."
+        },
+        {
+            "id": "content_game_data_download_recommend",
+            "content": "É recomendada uma conexão direta à Internet (Wi-Fi)."
+        },
+        {
+            "id": "switch_allcacheclear",
+            "content": "Limpar todos os caches"
+        },
+        {
+            "id": "switch_oldcacheclear",
+            "content": "Limpar caches antigos"
+        },
+        {
+            "id": "networkingerror_content",
+            "content": "A rede está instável.\nPor favor, verifique sua conexão de Internet."
+        },
+        {
+            "id": "networkingerror_close",
+            "content": "Fechar"
+        },
+        {
+            "id": "networkingerror_retry",
+            "content": "Tentar novamente"
+        },
+        {
+            "id": "loginui_ok",
+            "content": "Confirmar"
+        },
+        {
+            "id": "login_cancel",
+            "content": "Cancelar"
+        },
+        {
+            "id": "loginui_loading_battlehint",
+            "content": "Dicas de Combate"
+        },
+        {
+            "id": "servererror_content",
+            "content": "Ocorreu um erro no servidor.\nPor favor, tente novamente em um momento."
+        },
+        {
+            "id": "forcequit_content",
+            "content": "Não é possível operar o jogo.\nDesligando agora."
+        },
+        {
+            "id": "serverstate_openpreparation",
+            "content": "As coisas ainda estão sendo preparadas!"
+        },
+        {
+            "id": "serverstate_regularcheck",
+            "content": "O servidor está atualmente em manutenção de rotina."
+        },
+        {
+            "id": "serverstate_temporary_check",
+            "content": "O servidor está atualmente em manutenção temporária."
+        },
+        {
+            "id": "serverstate_verify_invaliduser",
+            "content": "A conta não existe ou foi encerrada."
+        },
+        {
+            "id": "serverstate_verify_ban",
+            "content": "A conta está restrita para jogar."
+        },
+        {
+            "id": "serverstate_verify_invalidauth",
+            "content": "Ocorreu um erro.\nPor favor, faça login novamente."
+        },
+        {
+            "id": "guestlogin_failed_try_newguest",
+            "content": "Falha no login de convidado.\nA conta já está vinculada ou a conta de convidado não existe.\n\nGostaria de criar uma nova conta de convidado?"
+        },
+        {
+            "id": "secession_remain_days",
+            "content": "A conta está atualmente em um período de encerramento.\nTempo restante: {0}D {1}H {2}M\n\nVocê pode recuperar a conta se fizer login agora.\nRecuperar a conta?"
+        },
+        {
+            "id": "secession_canceled",
+            "content": "Conta recuperada com sucesso."
+        },
+        {
+            "id": "serverstate_verify_invalidclientversion",
+            "content": "O cliente do jogo deve ser atualizado."
+        },
+        {
+            "id": "create_guest",
+            "content": "Criar conta de convidado"
+        },
+        {
+            "id": "ask_to_remove_all_cache",
+            "content": "Limpar todos os caches?"
+        },
+        {
+            "id": "networkingerror_update",
+            "content": "Ir para a loja"
+        },
+        {
+            "id": "speed_hack_warning",
+            "content": "Foi detectado o uso de programa de terceiros não autorizado."
+        },
+        {
+            "id": "serverstate_verify_ban_startdate",
+            "content": "Data"
+        },
+        {
+            "id": "serverstate_verify_ban_reason",
+            "content": "Descrição"
+        },
+        {
+            "id": "serverstate_verify_ban_reason_refund",
+            "content": "Abuso do sistema de reembolso do Mercado Aberto"
+        },
+        {
+            "id": "serverstate_verify_ban_reason_cheat",
+            "content": "Registros anormais de atividade de jogo"
+        },
+        {
+            "id": "serverstate_blocking_endpoint",
+            "content": "Esta função está em manutenção."
+        },
+        {
+            "id": "serverstate_verify_invaliduuid",
+            "content": "Esta solicitação já foi processada.\nPor favor, reinicie o jogo para sincronizar."
+        },
+        {
+            "id": "login_scene_mini_story_warning_spoiler_format",
+            "content": "Esta história se passa após o Capítulo da História Principal {0}. Você gostaria de ver a história mesmo assim?"
+        },
+        {
+            "id": "login_scene_mini_story_unlock_code_105",
+            "content": "5"
+        },
+        {
+            "id": "login_scene_mini_story_unlock_code_9105",
+            "content": "5.5"
+        },
+        {
+            "id": "switch_clearcatalog",
+            "content": "Excluir catálogo"
+        },
+        {
+            "id": "panel_clearcatalog",
+            "content": "Excluir catálogo?"
+        },
+        {
+            "id": "serverstate_error_thirdparty_api",
+            "content": "Erro de conexão do servidor externo. Tente novamente mais tarde."
+        },
+        {
+            "id": "servererror_invalid_purchasing_package",
+            "content": "A transação falhou."
+        },
+        {
+            "id": "forcequit_cache_initialize_fail",
+            "content": "O Game Client falhou ao iniciar corretamente.\nPor favor, confirme o status da sua rede e tente novamente.\nDúvidas: limbussupport+bug@projmoon.com"
+        }
+    ]
+}

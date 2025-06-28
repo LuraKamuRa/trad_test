@@ -1,0 +1,656 @@
+{
+    "dataList": [
+        {
+            "id": 857801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gossypium Planting",
+                    "desc": "[WhenUse]Infligir 3[MRcAfBa]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]e +1[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wound Planting",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 4[Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Draining Roots",
+                    "desc": "[CantDuel]Entre alvos com[MRcAfBa], ataque a unidade com a velocidade mais lenta;\nNegócio ([MRcAfBa]x 10)% mais dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar por ([MRcAfBa]x 5)% de dano causado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Curar por ([MRcAfBa]x 5)% de dano causado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flourishing Gossypium",
+                    "desc": "Ataca o alvo com mais[Laceration]\n[WhenUse]Se o alvo principal é o alvo com mais[Laceration], Potência base +5, infligir x2 os efeitos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Binding]e 2[ScarletTakeDamageUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]e +4[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Scattering Gossypium",
+                    "desc": "Entre alvos com[MRcAfBa], ataque a unidade com o mínimo de HP[WhenUse]Se o alvo principal é o alvo com mais[Laceration], Potência base +5[EndBattle] [MRcAfBb]O estado expira na próxima curva.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857806,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Scattering Wind",
+                    "desc": "[OnSucceedEvade]Infligir 3[Laceration]e +1[Laceration]Contar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857807,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Encroaching Gossypium",
+                    "desc": "[CantDuel]Prioriza a unidade com a velocidade mais baixa\nOs danos causados ​​por essa habilidade de ataque são fixados para 0.[StartBattle]Digitar[MRcAfBb]Estado na próxima curva.",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[MRcAfBa]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857808,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Scattering Red-stained Gossypium",
+                    "desc": "Prioriza o alvo com mais[Laceration]\n[WhenUse]Se o alvo principal é o alvo com mais[Laceration], Potência base +10\nSe o alvo tiver 10+[Laceration], causar +50% mais danos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e +4[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar o HP igual a[Laceration]no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Laceration]e +4[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar o HP igual a[Laceration]no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flame Strike",
+                    "desc": "[WhenUse]Ganho 1[MRcAiBa]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Combustion]e +2[Combustion]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ardor Blossom Pinions",
+                    "desc": "[WhenUse]Ganho 1[MRcAiBa]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[CrimsonResistDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Spark",
+                    "desc": "[WinDuel]Infligir[Combustion]igual a[Combustion]no alvo.[WhenUse]Infligir +2[Combustion]Contar.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo tiver 3+[MRcAiBb], infligir +2[Combustion]Contagem, 10[Combustion]e 2[MRcAiBc]."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 6[Combustion]e +4[Combustion]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[CrimsonResistDown]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dust Explosion",
+                    "desc": "[WhenUse]Se o alvo tiver 7+[Combustion], essa habilidade ganha poder de conflito +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Combustion]Contagem igual ao número de habilidades de afinidade da ira de que a mariposa flor de flor usará esta curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Contra o inimigo com a velocidade mais baixa, infligir[Combustion]Contagem igual ao número de habilidades de afinidade da ira de que a mariposa flor de flor usará esta curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Combustion]Igual ao número de habilidades de afinidade da ira que a mariposa flor de flor usará esta curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Contra o inimigo com a velocidade mais baixa, infligir[Combustion]Igual ao número de habilidades de afinidade da ira que a mariposa flor de flor usará esta curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ardor Blossom Star",
+                    "desc": "Ganhar poder de conflito igual a (# da ira Habilidades de afinidade de que a mariposa de flor de ardor usará esta curva x2)[WhenUse]Infligir (# of Wrath Affinity Habilidades de que a mariposa de flor de ardor usará esta curva x2)[Combustion]para todos os inimigos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Combustion]Igual ao número de habilidades de afinidade da ira que a mariposa flor de flor usará esta curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Contra o inimigo com a velocidade mais baixa, infligir[Combustion]e[Combustion]Contagem igual ao número de habilidades de afinidade da ira de que a mariposa flor de flor usará esta curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir[Combustion]Igual ao número de habilidades de afinidade da ira que a mariposa flor de flor usará esta curva"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Contra o inimigo com a velocidade mais baixa, infligir[Combustion]e[Combustion]Contagem igual ao número de habilidades de afinidade da ira de que a mariposa flor de flor usará esta curva"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Aumentar o limiar de cambalear em 10% dos danos causados"
+                                },
+                                {
+                                    "desc": "[EndSkill]Infligir 10[Combustion]contra alvos que foram escalonados por esse ataque."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[WhenUseEvade]Infligir 4[Combustion].\n[OnSucceedEvade]Ganho 1[MRcAiBa]Próximo turno.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857712,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stoke the Flames",
+                    "desc": "[CantDuel]\n[CantChangeTarget]Os danos causados ​​por essa habilidade de ataque são fixados para 0.",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[MRcAiBb]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 858501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "It Shall Penetrate",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 858502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "It Shall Be Insidious",
+                    "desc": "[WinDuel]Dupla o[Vulnerable]e[Binding]infligidos pelos efeitos da moeda.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]e +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Vulnerable]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 1[Binding]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2[Laceration]Contar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 858503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "It Shall Grip",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[AttackDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3[DefenseDown]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[AttackDmgDown]Próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Ganho 1[AttackDmgUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 858504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "It Shall Constrict",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[MRcAmBb]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackDmgUp]Próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[MRcAmBb]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Ganho 1[AttackDmgUp]Próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 858505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "It Shall Shun",
+                    "desc": "Se houver uma unidade sobrevivente 'GRASP', Power final +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]e +3[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 10 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Levante o limite de cambaleou até os 20"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 858506,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "And it Shall Contempt All",
+                    "desc": "Se houver uma unidade sobrevivente 'GRASP', Power final +5[EndBattle]Remover[MRcAmBc]de todos os inimigos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10[Laceration]e +2[Laceration]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 8[Laceration]e +2[Laceration]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]De dano 15 SP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Levante o limite de cambaleou em 30"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 858507,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade] Deal 4 SP damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "6:5",
+                    "desc": "[CantDuel][CantChangeTarget]Tome dano no lugar do alvo. Fique escalonado no próximo turno.\nInfligir marcado em um inimigo aleatório sem[AaCePcBa].\n[EndBattle]Todas as velas curam para max hp",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]O máximo de HP desta unidade diminui 5%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 queima em si mesmo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]O máximo de HP desta unidade diminui 5%."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 10 queima em si mesmo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 857102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Scorn Not the Prophecy",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5[Combustion]e +2[Combustion]Conte no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cure 20 hp em si mesmo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 858201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Insidious Pallidification",
+                    "desc": "[StartBattle]Ganhe 10% do máximo de HP como escudo. Para cada ego de Queequeg, obtenha 0,3% adicional de HP máximo como escudo adicional.\nQuando atacado enquanto protegeu, o atacante perde 5 sp\nQuando atacado, use esta habilidade uma vez para cada 10 ego de Queequeg",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1 sangramento"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

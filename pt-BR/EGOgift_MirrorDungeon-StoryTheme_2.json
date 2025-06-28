@@ -1,0 +1,259 @@
+{
+    "dataList": [
+        {
+            "id": 9427,
+            "name": "Town-protecting Harpoon",
+            "desc": "[Efeitos se aplicam somente a #6 Deployed Identity]\n\nFim do turno: Com menos de 30% de HP, ganhe 1 [Enhancement] no próximo turno",
+            "simpleDesc": [
+                {
+                    "abilityID": 9427,
+                    "simpleDesc": "Gain 1 Attack Power Up next turn"
+                }
+            ]
+        },
+        {
+            "id": 19427,
+            "name": "Town-protecting Harpoon+",
+            "desc": "[Efeitos aplicam-se somente a #6 Deployed Identity]\nFinal do turno: com menos de 40% de HP, ganhe 1 [Enhancement] no próximo turno\n\nFinal do turno: se houver um aliado Staggered, ganhe +6 [Aggro] no próximo turno e ganhe 4 [DefenseUp] no próximo turno",
+            "simpleDesc": [
+                {
+                    "abilityID": 19427,
+                    "simpleDesc": "Gain 1 Attack Power Up next turn"
+                },
+                {
+                    "abilityID": 194271,
+                    "simpleDesc": "Gain +6 Aggro and 4 Defense Level Up next turn"
+                }
+            ]
+        },
+        {
+            "id": 29427,
+            "name": "Town-protecting Harpoon++",
+            "desc": "[Efeitos aplicam-se somente a #6 Deployed Identity]\nFinal do turno: com menos de 50% de HP, ganhe 1 [Enhancement] no próximo turno\n\nFinal do turno: se houver um aliado Staggered, ganhe +6 [Aggro] no próximo turno e ganhe 4 [DefenseUp] no próximo turno",
+            "simpleDesc": [
+                {
+                    "abilityID": 29427,
+                    "simpleDesc": "Gain 1 Attack Power Up next turn"
+                },
+                {
+                    "abilityID": 294271,
+                    "simpleDesc": "Gain +6 Aggro and 4 Defense Level Up next turn"
+                }
+            ]
+        },
+        {
+            "id": 9428,
+            "name": "Cetacean Heart",
+            "desc": "Ao acertar inimigos com [Laceração] com uma Habilidade de Ataque, ganhe 1 [Sopro]. (3 vezes por turno para cada personagem)\nEm Crítico, 50% de chance de não consumir [Sopro] Contagem (uma vez por turno para cada personagem; incluindo Habilidades E.G.O e Contra-Habilidades)\nEm Crítico Cabeças Acertadas com uma Habilidade Base: inflija +1 a mais do efeito negativo com aquela Moeda. (uma vez por turno para cada personagem; incluindo Habilidades E.G.O e Contra-Habilidades)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9428,
+                    "simpleDesc": "Gain 1 Poise"
+                },
+                {
+                    "abilityID": 94281,
+                    "simpleDesc": "Chance to not lose Poise Count"
+                },
+                {
+                    "abilityID": 94282,
+                    "simpleDesc": "Inflict 1 more of the negative effect"
+                }
+            ]
+        },
+        {
+            "id": 9431,
+            "name": "Broken Violin",
+            "desc": "[Efeitos se aplicam somente às Identidades Implantadas #5 e #6]\n\nCom 45%- HP, ganhe 1 [AttackUp] e 1 [TakeHpHealIncrease] em Clash Win (2 vezes por turno para cada personagem)\n\nCom 20%- HP, ganhe 1 [AttackUp] e 1 [TakeHpHealIncrease] em Skill Use em vez disso (2 vezes por turno para cada personagem)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9431,
+                    "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+                },
+                {
+                    "abilityID": 94311,
+                    "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+                }
+            ]
+        },
+        {
+            "id": 19431,
+            "name": "Broken Violin+",
+            "desc": "[Efeitos se aplicam somente às Identidades Implantadas #5 e #6]\n\nCom 65%- HP, ganhe 1 [AttackUp] e 1 [TakeHpHealIncrease] na Vitória de Choque (2 vezes por turno para cada personagem)\n\nCom 40%- HP, ganhe 1 [AttackUp] e 1 [TakeHpHealIncrease] no Uso de Habilidade em vez disso (2 vezes por turno para cada personagem)\n\nAo vencer um Choque após 5+ Choques, a Habilidade que venceu o Choque causa +(# de Choques x 2)% a mais de dano (máx. 20%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 19431,
+                    "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+                },
+                {
+                    "abilityID": 194311,
+                    "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+                },
+                {
+                    "abilityID": 194312,
+                    "simpleDesc": "Deal more damage based on number of Clashes"
+                }
+            ]
+        },
+        {
+            "id": 29431,
+            "name": "Broken Violin++",
+            "desc": "[Efeitos se aplicam somente às Identidades Implantadas #5 e #6]\n\nCom 65%- HP, ganhe 1 [AttackUp] e 1 [TakeHpHealIncrease] na Vitória do Clash (2 vezes por turno para cada personagem)\n\nCom 40%- HP, ganhe 1 [AttackUp] e 1 [TakeHpHealIncrease] no Uso de Habilidade em vez disso (2 vezes por turno para cada personagem)\n\nAo vencer um Clash após 5+ Clashes, a Habilidade que venceu o Clash causa +(# de Clashes x 3)% a mais de dano (máx. 30%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 29431,
+                    "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+                },
+                {
+                    "abilityID": 294311,
+                    "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+                },
+                {
+                    "abilityID": 294312,
+                    "simpleDesc": "Deal more damage based on number of Clashes"
+                }
+            ]
+        },
+        {
+            "id": 9432,
+            "name": "Manor-shaped Music Box",
+            "desc": "[Efeitos se aplicam somente à Identidade Implantada nº 1]\n\nFinal do Turno: quando Estornado, recupere-se do Estornamento; então, no próximo Início do Turno, inflija 4 Potência de [Afundamento] e 4 Contagem de [Afundamento] a todos os inimigos (uma vez por Encontro; em Encontros Focados, em todas as Partes)\n\nAo derrotar um inimigo com [Afundamento], 1 inimigo com a menor Contagem de [Afundamento] ganha +2 Contagem de [Afundamento] (em Encontros Focados, a Parte)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9432,
+                    "simpleDesc": "Inflict 4 Sinking Potency and Count against all enemies"
+                },
+                {
+                    "abilityID": 94321,
+                    "simpleDesc": "The enemy with the least Sinking Count gains +2 Sinking Count"
+                }
+            ]
+        },
+        {
+            "id": 9435,
+            "name": "Butler Style Binding Arts",
+            "desc": "Início do turno: inflija 1 [Binding] contra o inimigo que se recuperou de Stagger no último turno\n\nAo acertar de um aliado com a maior porcentagem de HP: se o alvo estiver Staggered, cause +7,5% a mais de dano para cada nível de Stagger.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9435,
+                    "simpleDesc": "Inflict 1 Bind on the enemy that recovered from Stagger"
+                },
+                {
+                    "abilityID": 94351,
+                    "simpleDesc": "Deal more damage based on the target's Stagger LV"
+                }
+            ]
+        },
+        {
+            "id": 19435,
+            "name": "Butler Style Binding Arts+",
+            "desc": "Início do turno: inflija 2 [Binding] contra o inimigo que se recuperou de Stagger no último turno\n\nAo acertar de um aliado com a maior porcentagem de HP: se o alvo estiver Staggered, cause +10% a mais de dano para cada nível de Stagger.",
+            "simpleDesc": [
+                {
+                    "abilityID": 19435,
+                    "simpleDesc": "Inflict 2 Bind on the enemy that recovered from Stagger"
+                },
+                {
+                    "abilityID": 194351,
+                    "simpleDesc": "Deal more damage based on the target's Stagger LV"
+                }
+            ]
+        },
+        {
+            "id": 29435,
+            "name": "Butler Style Binding Arts++",
+            "desc": "Início do turno: inflija 3 [Binding] contra o inimigo que se recuperou de Stagger no último turno\n\nAo acertar de um aliado com a maior porcentagem de HP: se o alvo estiver Staggered, cause +12,5% a mais de dano para cada nível de Stagger.",
+            "simpleDesc": [
+                {
+                    "abilityID": 29435,
+                    "simpleDesc": "Inflict 3 Bind on the enemy that recovered from Stagger"
+                },
+                {
+                    "abilityID": 294351,
+                    "simpleDesc": "Deal more damage based on the target's Stagger LV"
+                }
+            ]
+        },
+        {
+            "id": 9436,
+            "name": "Refraction Glass Pod",
+            "desc": "Encontros regulares) Ao acertar inimigos com 10+ (soma de [Afundando] Contagem e Potência):\nse o alvo estiver com -45 SP, causa ([Afundando] Potência no alvo) / 5) de dano de Gloom (3 vezes por Habilidade)\n\nEncontros focados) Ao acertar inimigos com 10+ (soma de [Afundando] Contagem e Potência):\ncausa ([Afundando] Potência no alvo) / 10) de dano de Gloom (2 vezes por Habilidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9436,
+                    "simpleDesc": "Deal Gloom damage based on Sinking on the target"
+                },
+                {
+                    "abilityID": 94361,
+                    "simpleDesc": "Deal Gloom damage based on Sinking on the target"
+                }
+            ]
+        },
+        {
+            "id": 9437,
+            "name": "La Manchaland All-day Pass",
+            "desc": "Ao acertar alvos com 10+ (soma de [Laceração], 'Sangramento Único' e [Explosão]): ganhe 1 Potência de [Sopro] e Contagem (2 vezes por Habilidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9437,
+                    "simpleDesc": "Gain 1 Poise Potency and Count"
+                }
+            ]
+        },
+        {
+            "id": 9438,
+            "name": "Token of Victory",
+            "desc": "Ao matar, 1 aliado com o menor SP cura 3 SP.\n\nApós o ataque: se um inimigo com 10+ (soma de [Laceration], 'Unique Bleed' e [Burst]) for derrotado, 1 aliado ganha 2 [AttackUp] no próximo turno (prioriza o aliado que matou o inimigo)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9438,
+                    "simpleDesc": "Heal 3 SP"
+                },
+                {
+                    "abilityID": 9438,
+                    "simpleDesc": "A random ally gains 2 Offense Level Up next turn"
+                }
+            ]
+        },
+        {
+            "id": 9439,
+            "name": "Devouring Cube",
+            "desc": "Quando um aliado morre, ganhe 1 recurso E.G.O para cada uma das Skills 1 e 2 desse aliado.\n\nApós o Ataque: se o inimigo for morto, ganhe 1 recurso E.G.O aleatório (uma vez por Skill)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9439,
+                    "simpleDesc": "Gain 1 random E.G.O resource"
+                }
+            ]
+        },
+        {
+            "id": 9440,
+            "name": "Mask of the Parade",
+            "desc": "Em Encontros onde inimigos de backup aparecem: quando novos inimigos entram na batalha, inflija 3 [Laceration] e +2 [Laceration] Count contra eles.\n\nSe houver um <Bloodfiend> entre os aliados: quando novos inimigos entram na batalha, ative [Laceration] em todos os inimigos e reduza a [Laceration] Count deles em 1",
+            "simpleDesc": [
+                {
+                    "abilityID": 9440,
+                    "simpleDesc": "Inflict 3 Bleed and +2 Bleed Count against backup enemies entering battle"
+                },
+                {
+                    "abilityID": 94401,
+                    "simpleDesc": "Activate Bleed once on all enemies (reduce their Bleed Count by 1)"
+                }
+            ]
+        },
+        {
+            "id": 19440,
+            "name": "Mask of the Parade+",
+            "desc": "Em Encontros onde inimigos de backup aparecem: quando novos inimigos entram na batalha, inflija 5 [Laceration] e +3 [Laceration] Count contra eles.\n\nSe houver um <Bloodfiend> entre os aliados: quando novos inimigos entram na batalha, ative [Laceration] em todos os inimigos e reduza a [Laceration] Count deles em 1",
+            "simpleDesc": [
+                {
+                    "abilityID": 194405,
+                    "simpleDesc": "Inflict 5 Bleed and +3 Bleed Count against backup enemies entering battle"
+                },
+                {
+                    "abilityID": 1944051,
+                    "simpleDesc": "Activate Bleed once on all enemies (reduce their Bleed Count by 1)"
+                }
+            ]
+        }
+    ]
+}

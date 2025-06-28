@@ -1,0 +1,16 @@
+{
+    "dataList": [
+        {
+            "id": 1027,
+            "panicName": "Fome",
+            "lowMoraleDescription": "Turn Start: Ganhe 1[Binding]e 2[Enhancement]. Tome 5 danos sp no final",
+            "panicDescription": "Turn Start: Ganhe 2[Binding]e 4[Enhancement]."
+        },
+        {
+            "id": 1028,
+            "panicName": "Especialista em duelo",
+            "lowMoraleDescription": "Turn Start: Ganhe 2[AttackUp]. No Clash Lose, Ganhe 1[DefenseDown](máximo 3 por turno). Min. Velocidade -1",
+            "panicDescription": "Turn Start: Ganhe 4[AttackUp]. Em Clash Lose, Ganhe 2[DefenseDown](máximo 6 por turno). Min. Velocidade -1"
+        }
+    ]
+}

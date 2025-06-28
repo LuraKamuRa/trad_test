@@ -1,0 +1,508 @@
+{
+    "dataList": [
+        {
+            "id": "FellBulletMark",
+            "name": "Stigmatized",
+            "desc": "- alvo do atirador de maldição\n- Expira no Turn End",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR501",
+            "name": "Infliction Refraction",
+            "desc": "+1 para queimar, sangrar, tremor, ruptura e potência de afundamento infligida contra inimigos com habilidades e efeitos de moedas",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR502",
+            "name": "Gain Refraction",
+            "desc": "+1 para equilibrar e cobrar contagem obtida por aliados com habilidades e efeitos de moedas",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR503",
+            "name": "Refracted Mind",
+            "desc": "3 Aliados com o menor SP Heal 8 SP no Turn End (excluindo: Aliados que estão em pânico ou corroídos)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR504",
+            "name": "버프 이름",
+            "desc": "Em Crit, com mais de 20 potência de equilíbrio, consuma até 20 do excesso de potência de equilíbrio para lidar com +(potência de equilíbrio consumida x 2,5)% mais danos no acerto crítico (máximo 50%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR505",
+            "name": "Refracted Charge",
+            "desc": "Em termos de sucesso com habilidades que consumiram 8+ contagem de cobrança: +0,1 para a resistência da inveja no alvo para este encontro (uma vez por habilidade por inimigo; ajuste máximo de resistência: 0.3)\nHabilidades que ganham ou consomem a contagem de contagens de cobrança + (10 + (contagem obtida ou consumida x 2))% mais danos (máximo 50%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR506",
+            "name": "Refracted Burst",
+            "desc": "Turn End: Contra todas as partes inimigas, infligem danos à ira igual à potência da queima em cada parte; Em seguida, reduza a contagem de queimaduras em 1, acionador de tremor estourou uma vez e reduza a contagem de tremores em 1 (é ativado apenas em contagem de mais de 2 anos)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR507",
+            "name": "Refracted Rupture",
+            "desc": "Habilidades de ruptura que infligem potência ou contagem de ruptura: potência final +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR508",
+            "name": "Refracted Sinking",
+            "desc": "Deal +(potência de afundamento no alvo)% mais danos contra alvos em menos de 0 SP ou sem SP (máximo 45%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR509",
+            "name": "Weakness Destroyed",
+            "desc": "Acordo +30% mais danos contra peças destruídas ou escalonadas",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR510",
+            "name": "Nebulizer",
+            "desc": "Primeira virada no início de uma onda: todos os aliados ganham 5 poesia e +5 de compra. Se orgulho resson. foi ativado, todos os aliados ganham 3 potência de equilíbrio e +3 de compra de postura no início do combate",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR511",
+            "name": "The Lone Gunman",
+            "desc": "Aumente os valores de velocidade Min e máxima para a identidade nº 1 implantada em 1. A referida unidade perde uma habilidade 1, mas ganha uma habilidade 3",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR512",
+            "name": "Lasting Battle Spirit",
+            "desc": "A partir do #7, o pecador implantado: no início do mesmo turno, ele substitui, Heal 30 sp, ganha 1 ataque de ataque para o encontro e ganhe 2, por exemplo, recurso para cada uma das afinidades correspondentes às suas habilidades de ataque básico",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR513",
+            "name": "Resource Reaping",
+            "desc": "Depois de usar um ataque ou uma habilidade contra, se o inimigo for derrotado, obtenha 2, por exemplo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR514",
+            "name": "버프 이름",
+            "desc": "Quando os inimigos de backup entram na batalha, infligir 5 sangrar e +3 sangrar contra eles no início do combate. Se houver um<Bloodfiend>Entre os aliados: quando as condições acima são atendidas: Ative o sangramento em todos os inimigos uma vez e reduza sua contagem de sangramento por 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR515",
+            "name": "Dogged Defense",
+            "desc": "Todos os aliados sofrem -50% menos danos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR516",
+            "name": "Life or Death",
+            "desc": "Todos os aliados causam +30% mais danos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR517",
+            "name": "Wrathful Counter",
+            "desc": "Quando atingido, ganhe 2 ofensa no nível da próxima curva (máximo 6)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR518",
+            "name": "Pendant of Nostalgia",
+            "desc": "Início de combate: 3 Atualmente mais os primeiros aliados implantados ganham 10 poese potência",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR519",
+            "name": "버프 이름",
+            "desc": "Habilidades que consomem munição: poder de conflito +2, acordo +(60 / # de moedas)% mais danos. A 0 munição, ganhe 2 munição no próximo turno (uma vez por encontro por identidade)\nAltere a resistência sombria do chefe final da Seção 3 para fraco (x1.5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR520",
+            "name": "Fell Bullet Deluge",
+            "desc": "Sempre que um aliado morre, infligir danos fixos iguais a 50% do HP máximo do aliado morto contra todas as partes em todos os inimigos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR521",
+            "name": "HP Manipulation",
+            "desc": "+25% HP máximo para todos os aliados; Remova o primeiro limite de craque",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR522",
+            "name": "Perilous Contest",
+            "desc": "Todas as habilidades de aliado ganham poder final +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR523",
+            "name": "Bloody Banquet",
+            "desc": "No golpe, se o inimigo perdeu o HP, curar a HP igual a 10% dos danos causados. Todos os aliados perdem 3 contagem de sangramento no final",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR524",
+            "name": "Festival of Blood",
+            "desc": "Cada aliado causa +1% a mais danos a cada 10 Blood -Heast que consumiram (no máximo 30%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR526",
+            "name": "Refracted Slash",
+            "desc": "Slash Skills Gain Plus Coin Power +1, Minus Coin Power -1\nAltere a resistência à barra do chefe final da Seção 3 para fraco (x1.5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR527",
+            "name": "Refracted Pierce",
+            "desc": "Pierce Skills Gain Plus Coin Power +1, Minus Coin Power -1\nAltere a resistência da Pierce do chefe final da Seção 3 para fraco (x1.5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR528",
+            "name": "Refracted Blunt",
+            "desc": "Habilidades bruscas ganho mais poder de moeda +1, menos poder da moeda -1\nAltere a resistência direta do chefe final da Seção 3 para fraco (x1.5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR529",
+            "name": "Growth Refraction I",
+            "desc": "Nível inimigo +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR530",
+            "name": "Growth Refraction II",
+            "desc": "Nível inimigo +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR531",
+            "name": "버프 이름",
+            "desc": "Quando os inimigos de backup entram na batalha, eles ganham 2 choque no início do turno que entraram",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR532",
+            "name": "Resource Vaporization",
+            "desc": "Depois de usar um despertar, por exemplo, consumir também 1, por exemplo, recursos de 2 afinidades do SIN com mais de 1, por exemplo, recurso; consumido de afinidades com mais recursos primeiro",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR533",
+            "name": "Blossomed Blood",
+            "desc": "+1 para sangrar a potência e contagem infligida por inimigos contra alvos com sangramento usando efeitos de habilidades e moedas",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR534",
+            "name": "Dogged Defense",
+            "desc": "Todos os inimigos sofrem -20% menos danos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR535",
+            "name": "버프 이름",
+            "desc": "-50% HP máximo para todos os aliados",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR536",
+            "name": "Refracted Rage",
+            "desc": "Quando atingido por uma habilidade, os inimigos ganham aleatoriamente 1 do seguinte turno seguinte: nível de ataque, nível de defesa subindo (4 vezes por inimigo)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR537",
+            "name": "HP Refraction II",
+            "desc": "Inimigo máximo hp +20%",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR538",
+            "name": "버프 이름",
+            "desc": "Habilidade inimiga Power final +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR539",
+            "name": "Bloody Banquet",
+            "desc": "Os inimigos curam +20% mais hp dos efeitos de habilidade e moeda",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR540",
+            "name": "버프 이름",
+            "desc": "Habilidades inimigas que consomem Bloodfeast Ganhe o seguinte: Power final +1, acordo +10% mais danos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR541",
+            "name": "버프 이름",
+            "desc": "Quando todos os inimigos atingem principalmente o aliado com a menor potência de sangria, habilidade, poder final +1 ao atacar",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR542",
+            "name": "Health Refraction",
+            "desc": "Inimigo máximo hp +10%",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR543",
+            "name": "Lasting Determination",
+            "desc": "Quando derrotado, ganha, por exemplo, os recursos com base na afinidade e na classificação de cada habilidade de ataque que esta unidade possui.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FellBulletGroggy",
+            "name": "Stigmatized",
+            "desc": "- não pode ser removido\n- Se em 0 no final da curva, fique escalonado no próximo turno\n- Ao usar a habilidade 'Designated Target Fire', se o alvo não estiver estigmatizado, perca 1 pilha\n- Se a habilidade 'Designated Target Fire' perder o confronto, perca 1 pilha\n- Se o aliado esta unidade direcionada antes de usar a habilidade 'Designated Fire' Skill for morta, perca 1 pilha",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR544",
+            "name": "Power Roulette",
+            "desc": "Turn Start: Todas as habilidades de aliado ganham potência final +1 ~ 3",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR545",
+            "name": "Glass Cannon",
+            "desc": "Todos os aliados causam +20% mais danos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR546",
+            "name": "High-risk",
+            "desc": "Todos os aliados causam +10% mais danos\nMude a barra, Pierce, resistência contundente do chefe final da Seção 3 para Fraco (X1.3)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR547",
+            "name": "Power Roulette",
+            "desc": "Turn Start: Todas as habilidades inimigas ganham poder final +1 ~ 3",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR548",
+            "name": "Perilous Contest",
+            "desc": "Power de conflito inimigo +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR549",
+            "name": "Life or Death",
+            "desc": "-25% para o máximo de HP em todos os aliados",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR550",
+            "name": "Moderate Risk",
+            "desc": "Inimigo mais poder de moeda +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR551",
+            "name": "Refracted Bleed",
+            "desc": "Start Start: Infligir 5 potência de sangramento e +3 contagem de inimigos em Max HP (uma vez por inimigo por parte por encontro)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR552",
+            "name": "버프 이름",
+            "desc": "Sempre que um inimigo morre, um inimigo ganha 2 Clash Power Up no próximo turno, começando do inimigo com o HP menos atual",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR5BaseP",
+            "name": "Active Buffs",
+            "desc": "",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR5BaseN",
+            "name": "Active Trials",
+            "desc": "",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR553",
+            "name": "A Single Breath",
+            "desc": "Por exemplo, habilidades de habilidades +30% mais danos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR554",
+            "name": "버프 이름",
+            "desc": "Todos os aliados causam +15% mais danos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR555",
+            "name": "Clash Power Refraction",
+            "desc": "Power de conflito inimigo +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR556",
+            "name": "Glass Cannon",
+            "desc": "Todos os aliados recebem +30% mais danos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR557",
+            "name": "Refracted Poise",
+            "desc": "Deal + (10 + Poise Potência + Contagem de Poise)% Mais danos no acerto crítico (no máximo 50%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR558",
+            "name": "Refracted Wrath",
+            "desc": "Cabras de ira causam +30% mais danos\nAltere a resistência da ira do chefe final da Seção 3 para fraco (x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR559",
+            "name": "Refracted Lust",
+            "desc": "Habilidades de luxúria causam +30% mais danos\nAltere a resistência à luxúria do chefe final da seção 3 para fraco (x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR560",
+            "name": "Refracted Sloth",
+            "desc": "Habilidades preguiçosas causam +30% mais danos\nAltere a resistência da preguiça do chefe final da Seção 3 para fraco (x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR561",
+            "name": "Refracted Gluttony",
+            "desc": "Skills Skills Chega +30% mais danos\nMude a resistência da gula do chefe final da Seção 3 para fraco (x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR562",
+            "name": "Refracted Gloom",
+            "desc": "Habilidades sombrias causam +30% mais danos\nAltere a resistência sombria do chefe final da Seção 3 para fraco (x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR563",
+            "name": "Refracted Pride",
+            "desc": "Skills de orgulho causar +30% mais danos\nAltere a resistência do orgulho do chefe final da Seção 3 para fraco (x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR564",
+            "name": "Refracted Envy",
+            "desc": "Habilidades de inveja causam +30% mais danos\nAltere a resistência da inveja do chefe final da Seção 3 para fraco (x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR565",
+            "name": "Comfy",
+            "desc": "Aumente os valores de velocidade Min e máxima em 2 para todos os aliados; Max HP +25%",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR566",
+            "name": "Hostile Refraction",
+            "desc": "Power de conflito inimigo +1; inimigos causam +10% mais danos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR567",
+            "name": "High-risk",
+            "desc": "Inimigo mais poder de moeda +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR568",
+            "name": "Defensive Refraction",
+            "desc": "Nível de defesa inimiga +3",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR569",
+            "name": "Damage Refraction",
+            "desc": "Inimigos causam +10% mais danos",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

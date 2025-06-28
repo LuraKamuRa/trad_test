@@ -1,0 +1,75 @@
+{
+    "dataList": [
+        {
+            "id": 837101,
+            "name": "Casual Opportunity",
+            "desc": "Start Start: Se a velocidade desta unidade for mais rápida que a do alvo, ganhe 1[PenetrateDamageUp]"
+        },
+        {
+            "id": 837102,
+            "name": "Leisurely Breathing",
+            "desc": "Turn End: Heal 7 SP\nTurn End: Gain[Agility]igual a ([Breath]em Self/4) Próximo turno (máximo 3)"
+        },
+        {
+            "id": 837103,
+            "name": "Single Combat",
+            "desc": "Use Salut se o alvo for escalonado"
+        },
+        {
+            "id": 837104,
+            "name": "Focused Attack",
+            "desc": "Ao usar uma habilidade contra o mesmo slot, esta unidade atingiu com sucesso a última curva, obtenha os seguintes efeitos com base no número de voltas consecutivas, atinge com sucesso o slot\nRedefina se esta unidade falhou em atacar a última curva.\n- 1 Hit consecutivo: Power de conflito +1\n- 2 hits consecutivos: potência base +1\n- 3 hits consecutivos: potência base +1, poder de moeda +1"
+        },
+        {
+            "id": 837201,
+            "name": "I'll Cut You First!",
+            "desc": "Prioriza[LineCutting]."
+        },
+        {
+            "id": 837202,
+            "name": "Hardblood Scissor",
+            "desc": "Na vitória do Clash, se o alvo tiver[Laceration], Cure a parte e núcleo desta unidade em 40% dos danos da HP causados.\nApós o ataque, se esta unidade curou pelo menos 100 hp, Heal 10 sp\nEsse efeito não é ativado no acerto com uma habilidade inquebrável de moedas se perder o confronto.",
+            "summary": "Cure ao atacar inimigos com sangramento. Quando esta unidade cura 100 hp, Heal também."
+        },
+        {
+            "id": 837203,
+            "name": "I Don't Need Ugly Things!!",
+            "desc": "Se houver algum inimigo com 30% ou menos HP, use 'Não preciso de coisas feias !!' Habilidade."
+        },
+        {
+            "id": 837204,
+            "name": "It's Not Over Yet",
+            "desc": "Ganha um novo padrão em 40% do máximo HP desta unidade\nApós a mudança de padrão, ganhe 10[Laceration]e 2[BloodScissor]."
+        },
+        {
+            "id": 837205,
+            "name": "Bloodfeast",
+            "desc": "Se esta unidade estiver em campo ou é uma das unidades que podem aparecer neste estágio, aumente[BloodDinner]valor pela quantidade de[Laceration]danos recebidos coletivamente por todas as unidades. \nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha se eleva acima da superfície."
+        },
+        {
+            "id": 837206,
+            "name": "Bloodsteeped Scissors",
+            "desc": "Início de combate: Ganhe 10[BloodScissor]\n- [BloodScissor]não pode cair abaixo de 1\n- às 10+[BloodScissor], converte -os para[BloodScissorTwo].\n- em mais de 20 anos[BloodScissor], converte -os para[BloodScissorThree].\nSe esta unidade consumir[BloodScissor]e cai abaixo dos limites acima, converta -os de acordo."
+        },
+        {
+            "id": 837207,
+            "name": "Starved and Withered",
+            "desc": "Início de combate: ganho[StarvingBarberTwo]"
+        },
+        {
+            "id": 837208,
+            "name": "Blood... Blood... Blood...!",
+            "desc": "Turn End: Se em pânico, recupere do pânico no próximo turno e redefina o SP para 0.\nAo se recuperar do pânico:\n- Consuma 30[BloodDinner]para ganhar 2[Enhancement]e 1[BloodScissor]Próximo turno e Heal 20 sp.\n- Se esta unidade falhou em consumir[BloodScissor], ganhe 30[Laceration], imediatamente tome o dano de[Laceration], então perca 3[Laceration]Contar. Então, ganhe 2[Enhancement], 2[AttackDmgUp]e curar 20 sp na próxima curva."
+        },
+        {
+            "id": 9999997,
+            "name": "Panic Recovery",
+            "desc": "Turn End: Se em pânico, redefine o SP para 0."
+        },
+        {
+            "id": 9999996,
+            "name": "Fixed Panic",
+            "desc": "O tipo de pânico desta unidade não muda quando infligido com um efeito que altera os tipos de pânico. Em vez disso, esta unidade é infligida com um efeito infligido contra alvos sem sp."
+        }
+    ]
+}

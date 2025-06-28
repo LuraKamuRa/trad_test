@@ -1,0 +1,132 @@
+{
+    "dataList": [
+        {
+            "id": "announcer_cheer_10_1",
+            "dlg": "Mais um começo de dia alegre, hein? ... Uh, me dá um segundo para verificar o volume. Não consigo ouvir sua resposta."
+        },
+        {
+            "id": "announcer_cheer_10_2",
+            "dlg": "Só se concentrem na minha voz, pessoal! Estou aqui para ajudar!"
+        },
+        {
+            "id": "announcer_specialcheer_10_1",
+            "dlg": "Não é bom... Estou vendo muitas pessoas feridas. Mas tudo bem! A Equipe de Controle é mais do que capaz de lidar com algo assim, certo?"
+        },
+        {
+            "id": "announcer_specialcheer_10_2",
+            "dlg": "Tenho certeza de que todos estão lutando. Mas acredito firmemente que cada funcionário aqui está disposto a dar o melhor de si, pronto para dar suas vidas por isso!"
+        },
+        {
+            "id": "announcer_enemy_break_10_1",
+            "dlg": "O alvo de supressão está escalonado. Esta é a nossa oportunidade de garantir que ele nunca mais mova um dedo!"
+        },
+        {
+            "id": "announcer_enemy_break_10_2",
+            "dlg": "A entidade está lutando. Vamos aproveitar esta chance para suprimi-la completamente!"
+        },
+        {
+            "id": "announcer_ally_break_10_1",
+            "dlg": "Tudo bem, erros acontecem o tempo todo. Sei que sou mais lento que os outros, então eu costumava anotar tudo no meu bloco de notas. Só não perca a vontade."
+        },
+        {
+            "id": "announcer_ally_break_10_2",
+            "dlg": "Se você vir algum funcionário dizendo que não aguenta mais... Me avise, ok?"
+        },
+        {
+            "id": "announcer_killenemy_10_1",
+            "dlg": "Uau, conseguimos! Olha, a entidade parou de se mover. Vamos imobilizar permanentemente as outras também."
+        },
+        {
+            "id": "announcer_ally_dead_10_1",
+            "dlg": "Um dos funcionários parou de se mover. Hein? O que é esse olhar em todo mundo? Já estamos tendo funcionários fracos? Só por causa disso?"
+        },
+        {
+            "id": "announcer_enemy_adv_10_1",
+            "dlg": "Os inimigos estão em vantagem. Talvez devêssemos ter uma sessão de treinamento de co-departamento por alguns dias? Todo mundo uh... muda muito depois de passar pelo treinamento!"
+        },
+        {
+            "id": "announcer_ally_adv_10_1",
+            "dlg": "Nós temos a vantagem. Mas não vamos descansar ainda. O Control Team tem que ser perfeito do começo ao fim, você não concorda?"
+        },
+        {
+            "id": "announcer_danger_10_1",
+            "dlg": "Tudo bem. Meu caderno aqui tem instruções sobre o que fazer em todas as situações. Parece que talvez tenhamos que fazer alguns sacrifícios necessários!"
+        },
+        {
+            "id": "announcer_enemy_specialskill_10_1",
+            "dlg": "Um ataque poderoso está chegando. Agora que eu avisei você, é melhor eu não ver nenhum funcionário falhando em sair do caminho dele a tempo!"
+        },
+        {
+            "id": "announcer_enemy_specialgimmick_10_1",
+            "dlg": "Parece que eles estão se preparando para um ataque especial. Podemos estar prontos para isso, certo?"
+        },
+        {
+            "id": "announcer_advatk_physical_10_1",
+            "dlg": "Esse ataque foi eficaz. Você deveria tentar de novo!"
+        },
+        {
+            "id": "announcer_disadvatk_physical_10_1",
+            "dlg": "Isso não foi muito eficaz. Alguém de vocês não leu os manuais antes, por acaso?"
+        },
+        {
+            "id": "announcer_advatk_attr_10_1",
+            "dlg": "Esse foi um ataque efetivo. Mas nem de longe o suficiente. Vamos fazer nosso próximo ataque ainda melhor!"
+        },
+        {
+            "id": "announcer_disadvatk_attr_10_1",
+            "dlg": "Viu, pessoal? Esse não foi um ataque apropriado. Foi a falta de cuidado... ou a falta de esforço?"
+        },
+        {
+            "id": "announcer_enemy_specialbuff_10_1",
+            "dlg": "Parece que as entidades têm uma pequena vantagem. Mas não se preocupe. Ainda tentaremos o nosso melhor, certo?"
+        },
+        {
+            "id": "announcer_enemy_specialdebuff_10_1",
+            "dlg": "Eles estão em uma ligeira desvantagem. Podemos usar isso para inclinar essa batalha a nosso favor."
+        },
+        {
+            "id": "announcer_ally_specialbuff_10_1",
+            "dlg": "Ganhamos uma vantagem. Legal!"
+        },
+        {
+            "id": "announcer_ally_specialdebuff_10_1",
+            "dlg": "Parece que um funcionário está sofrendo de algo. Não deixe que algo tão trivial como isso enfraqueça a vontade dos seus colegas de equipe, ok? Vamos todos cuidar uns dos outros!"
+        },
+        {
+            "id": "announcer_enemy_destroy_10_1",
+            "dlg": "Uma parte foi quebrada. Nesse ritmo, vamos quebrar cada uma de suas partes."
+        },
+        {
+            "id": "announcer_enemy_destroy_10_2",
+            "dlg": "Viu? Uma parte foi quebrada. Vamos continuar quebrando e arrancando suas partes, e devemos ser capazes de suprimi-la em pouco tempo."
+        },
+        {
+            "id": "announcer_enemy_destroy_10_3",
+            "dlg": "Você quebrou a parte da entidade. Vamos garantir que sua morte seja lenta e dolorosa, que tal?"
+        },
+        {
+            "id": "announcer_round_takebigdmg_10_1",
+            "dlg": "Uau, isso deve ter sido extremamente doloroso. Vamos devolver essa mesma dor e ódio contra nossos inimigos."
+        },
+        {
+            "id": "announcer_round_takebigdmg_10_2",
+            "dlg": "Vejo muitos dos nossos funcionários sofrendo. Mas não se preocupe. Enquanto eu for o líder da Equipe de Controle, não falharemos. ... O fracasso é inaceitável."
+        },
+        {
+            "id": "announcer_round_givebigdmg_10_1",
+            "dlg": "As entidades estão sofrendo danos críticos. Você não consegue sentir a dor delas? Ótimo, vamos continuar."
+        },
+        {
+            "id": "announcer_round_givebigdmg_10_2",
+            "dlg": "Foi um golpe devastador contra o alvo. Os inimigos agora estão enfraquecidos o suficiente para que possamos dar um golpe final!"
+        },
+        {
+            "id": "announcer_multikillenemy_10_1",
+            "dlg": "Uau, esse foi um ataque impressionante! O gerente nos dará uma avaliação positiva."
+        },
+        {
+            "id": "announcer_equip_10_1",
+            "dlg": "Prazer em conhecê-lo! Meu nome é Malkuth! Sou responsável pela Equipe de Controle na Sede da Lobotomy Corp.! Apenas faça exatamente como eu digo, e tenho certeza de que você terá sucesso!"
+        }
+    ]
+}

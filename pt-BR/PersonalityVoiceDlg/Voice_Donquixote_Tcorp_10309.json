@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10309_1",
+            "desc": "Aquisição de identidade",
+            "dlg": "Ahem~ Por favor, perdoe minha intromissão! Eu sou um funcionário da Classe 3 da T Corp. da Time Collections Agency! Você já deve estar ciente do motivo da nossa visita, não é mesmo?"
+        },
+        {
+            "id": "lobby_morning_10309_1",
+            "desc": "Saudação matinal",
+            "dlg": "Bom dia. Ah, talvez já esteja na hora de preparar um almoço para você? Fico triste em ver um café da manhã lento e sem pressa negado... Eu entendo sua dor."
+        },
+        {
+            "id": "lobby_noon_10309_1",
+            "desc": "Saudação da tarde",
+            "dlg": "O melhor da já maravilhosa lista de benefícios para funcionários aqui na T Corp é, na verdade, o pod de dormir ativado pelo Protocolo TT4!\nHeh heh... O dispositivo me permite desfrutar de um longo sono de seis horas durante o almoço, embora apenas trinta minutos possam ter se passado no Horário Padrão Diário da T Corp.!"
+        },
+        {
+            "id": "lobby_night_10309_1",
+            "desc": "Saudação noturna",
+            "dlg": "Ah, assim se aproxima a noite. É bem hipnotizante, não é? Observar o sol bege se aproximando cada vez mais do horizonte antes de sairmos do trabalho...\nEmbora eu admita que é uma pena que, assim que saímos do trabalho, a beleza logo dá lugar à escuridão total."
+        },
+        {
+            "id": "smalltalk_10309_1",
+            "desc": "Conversa fiada nº 1",
+            "dlg": "Há muitos que deixam de pagar suas dívidas no Imposto de Tempo, sem mencionar aqueles que são pegos \"encontrando\" tempo de maneiras não autorizadas.\nEm verdade, nós, cobradores, garantimos a recuperação de todas as dívidas que nos são devidas, com juros, então não há nada com que se preocupar!"
+        },
+        {
+            "id": "smalltalk_10309_2",
+            "desc": "Conversa fiada nº 2",
+            "dlg": "O emprego na T Corp. também garante que você será agraciado com este relógio e identificação!\nPreste atenção a este pequeno botão de relógio! Assim que eu girar isto... serei agraciado com tempo extra para completar minhas missões!"
+        },
+        {
+            "id": "smalltalk_10309_3",
+            "desc": "Conversa fiada nº 3",
+            "dlg": "Ter permissão para residir em um Ninho, como uma pena de uma Asa, nada menos, é uma grande glória! Não posso pedir por nenhum outro trabalho tão honroso quanto ajudar uma Asa a garantir o fluxo justo do tempo na Cidade!"
+        },
+        {
+            "id": "smalltalk_10309_4",
+            "desc": "Bate-papo pós-uptie 1",
+            "dlg": "A natureza do 'tempo' é como um corpo de fluido viscoso, de fato. Foi minha impressão ao coletar o tempo; ele se assemelhava muito a um fluxo ou fluido como eu o desenhei!"
+        },
+        {
+            "id": "smalltalk_10309_5",
+            "desc": "Bate-papo pós-uptie 2",
+            "dlg": "Ah, você gostaria de saber mais sobre as máquinas mecânicas que eu uso? É minha armadura, um \"exoesqueleto\" para missões de campo. A segurança de um colecionador deve ser garantida para uma recuperação bem-sucedida do tempo, não?"
+        },
+        {
+            "id": "neglect_10309_1",
+            "desc": "Parado",
+            "dlg": "Ah~ não se preocupe em me manter entretido! É só um breve momento para um funcionário da minha Classe. Vá fazer qualquer negócio que você precise fazer, não se importe comigo!"
+        },
+        {
+            "id": "gacksung_10309_1",
+            "desc": "Uptying",
+            "dlg": "Começando Coleções de Tempo. Cuidado com a distância, para que seu próprio tempo não seja desviado."
+        },
+        {
+            "id": "formation_10309_1",
+            "desc": "Implantação",
+            "dlg": "Um inadimplente de tempo, não é?! Pegue seus relógios e picaretas de coleção!"
+        },
+        {
+            "id": "battleentry_10309_1",
+            "desc": "Entrada no palco",
+            "dlg": "Começando as Coleções agora."
+        },
+        {
+            "id": "battle_select_10309_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Não precisa ser precipitado em seu discurso! Pois eu tenho todo o ti— pois eu tenho uma quantidade moderada de tempo no mundo."
+        },
+        {
+            "id": "battle_endcommand_10309_1",
+            "desc": "Iniciando o ataque",
+            "dlg": "Assim será feito!"
+        },
+        {
+            "id": "battle_enemy_break_10309_1",
+            "desc": "Cambalear inimigo",
+            "dlg": "Não há mais nada para coletar de ti! Não respires teu último suspiro!"
+        },
+        {
+            "id": "battle_break_10309_1",
+            "desc": "escalonado",
+            "dlg": "Ahh...!"
+        },
+        {
+            "id": "battle_kill_10309_1",
+            "desc": "Inimigo morto",
+            "dlg": "Fie... alvo falecido. Status da coleção: inacessível."
+        },
+        {
+            "id": "battle_dead_10309_1",
+            "desc": "Morte",
+            "dlg": "Ainda há muito tempo que precisa ser coletado..."
+        },
+        {
+            "id": "choice_success_p_10309_2",
+            "desc": "Verificação aprovada",
+            "dlg": "Outra missão concluída com facilidade!"
+        },
+        {
+            "id": "choice_fail_n_10309_1",
+            "desc": "Verificação falhou",
+            "dlg": "Ah... não foi o uso mais sábio do meu tempo..."
+        },
+        {
+            "id": "battle_clear_10309_1",
+            "desc": "Grito de vitória",
+            "dlg": "Mm, não foi nada excepcional. Agora que o tempo necessário foi coletado, vamos retornar."
+        },
+        {
+            "id": "battle_clear_ex_10309_1",
+            "desc": "Condições extras cumpridas",
+            "dlg": "Que vergonha, eu acumulei mais tempo do que nos era devido... Hm, ainda assim... agora que o inadimplente infelizmente morreu, talvez fosse mais justo devolver todo o tempo restante para o Cofre do Tempo da T Corp., de fato!"
+        },
+        {
+            "id": "battle_defeat_10309_1",
+            "desc": "Derrote Wail",
+            "dlg": "Minha taxa de cobrança de tempo está abaixo da linha de base...? Ah, assim eu me tornei um fracasso, uma tola que não sabe como aproveitar ao máximo seu tempo..."
+        }
+    ]
+}

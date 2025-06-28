@@ -1,0 +1,544 @@
+{
+    "dataList": [
+        {
+            "id": 2050511,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Regret",
+                    "abName": "Forsaken Murderer",
+                    "desc": "[BeforeAttack]Remova 1 efeito negativo removível aleatório aplicado a si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de tremores; Infligir (Wrath a-reson. /3) Contagem adicional de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Regret",
+                    "abName": "Forsaken Murderer",
+                    "desc": "[BeforeAttack]Remova 1 efeito negativo removível aleatório aplicado a si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +2 contagem de tremores; Infligir (Wrath a-reson. /3) Contagem adicional de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst\nSe o alvo não tiver um limiar de escalonamento após a explosão do tremor,\nCausar danos causados ​​pela ira de (6 + 2x (ira a-reson.))% Do limite final do escalonamento aumentado"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Regret",
+                    "abName": "Forsaken Murderer",
+                    "desc": "[BeforeAttack]Remova 2 efeitos negativos removíveis aleatórios aplicados a si mesmo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de tremores; Infligir (Wrath a-reson. /3) Contagem adicional de tremores"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst\nSe o alvo não tiver um limiar de escalonamento após a explosão do tremor,\nDe dano da ira de acordo com (12 + 3x (ira a-reson.))% Do limite final do escalonamento aumentado."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050521,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Regret",
+                    "abName": "Forsaken Murderer",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Se esta unidade tiver um efeito de status negativo, o peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst.\nA quantidade de limiar de escalonamento aumentada por tremor aumenta em 30% do tremor no alvo.\nReduza a contagem de tremores em 1"
+                                },
+                                {
+                                    "desc": "[EndSkill]Ganhe 3 Bind e 1 Power Up Blunt na próxima curva."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Regret",
+                    "abName": "Forsaken Murderer",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Se esta unidade tiver um efeito de status negativo, o peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst\nA quantidade de limiar de escalonamento aumentada por tremor aumenta em 40% do tremor no alvo.\nSe o alvo não tiver um limiar de escalonamento após a explosão do tremor,\nCausar danos causados ​​pela ira de (6 + 2x (ira a-reson.))% Do limite final do escalonamento aumentado\nReduza a contagem de tremores em 1"
+                                },
+                                {
+                                    "desc": "[EndSkill]Ganhe 3 Bind e 1 Power Up Blunt na próxima curva."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Regret",
+                    "abName": "Forsaken Murderer",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Se esta unidade tiver um efeito de status negativo, o peso ATK +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Trigger Tremor Burst\nA quantidade de limiar de escalonamento aumentada pelo tremor aumenta em 50% do tremor no alvo.\nSe o alvo não tiver um limiar de escalonamento após a explosão do tremor,\nDe dano da ira de acordo com (12 + 3x (ira a-reson.))% Do limite final do escalonamento aumentado\nReduza a contagem de tremores em 1"
+                                },
+                                {
+                                    "desc": "[EndSkill]Ganhe 3 Bind e 1 Power Up Blunt na próxima curva."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[BeforeAttack]Ganhe +8[Charge]Contar[EndSkill]Aplique +8[Charge]Conte 1 outro aliado com o mínimo[Charge]Contar\n- Número de aliados afetados cresce (mais alta inveja resson. - 2) (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[BeforeAttack]Ganhe +8[Charge]Contar[EndSkill]Aplique +8[Charge]Conte 1 outro aliado com o mínimo[Charge]Contar\n- Número de aliados afetados cresce (mais alta inveja resson. - 2) (máx. 4)\n- em 4+ (mais alto resson.), Aplique 1[VioletDamageUp]para si mesmo e todos os aliados afetados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[BeforeAttack]Ganhe +12[Charge]Contar[EndSkill]Aplique +8[Charge]Conte 1 outro aliado com o mínimo[Charge]Contar\n- Número de aliados afetados cresce (mais alta inveja resson. - 2) (máximo<style=\"highlight\">5</style>)\n- em 4+ (mais alto resson.), Aplique 1[VioletDamageUp]para si mesmo e todos os aliados afetados<style=\"highlight\">- Aos 6+ (ressonamento de inveja mais alto.), Aplique 1[VioletDamageUp]para si mesmo e todos os aliados afetados</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050621,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho de peso ATK igual a (mais alta inveja resson. - 2) (máx. 2)[BeforeAttack]Se esta unidade tiver 10+[Charge]Conte, gaste até 20[Charge]Contar; acordo +2% mais danos para cada[Charge]Contagem consumida (no máximo 40%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho de peso ATK igual a (mais alta inveja resson. - 2) (máximo<style=\"highlight\">3</style>)\n[BeforeAttack]Se esta unidade tiver 10+[Charge]Conte, gaste até 20[Charge]Contar; negócio +<style=\"highlight\">2.5</style>% mais dano para cada[Charge]Contagem consumida (máx<style=\"highlight\">50</style>%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Electric Screaming",
+                    "abName": "Dreaming Electric Sheep",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho de peso ATK igual a (maior inveja resson. - 2) (máx. 3)<style=\"highlight\">[BeforeAttack]Em mais de 10 anos[Charge]Conte, aplique os efeitos aplicados de 'no hit' duas vezes</style>\n[BeforeAttack]Se esta unidade tiver 10+[Charge]Conte, gaste até 20[Charge]Contar; negócio +<style=\"highlight\">3</style>% mais dano para cada[Charge]Contagem consumida (máx<style=\"highlight\">60</style>%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 1[Paralysis]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "[EndSkill]Por 3 voltas, perca 10 SP no final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +2[RoseWedge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[RoseWedge]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Ativar[Laceration]no alvo uma vez (o alvo perde 1[Laceration]Contar)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "<style=\"highlight\">Se o alvo tiver 6+[Laceration], Power de moedas +1</style>\n[EndSkill]Por 3 voltas, perca 10 SP no final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Em mais de 4 resson., Ative[Laceration]no alvo uma vez (o alvo perde 1[Laceration]Contar)</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Em mais de 4 resson., Ative[Laceration]no alvo uma vez (o alvo perde 1[Laceration]Contar)</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +2[RoseWedge]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[RoseWedge]Contar<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Ative o alvo[Laceration] <style=\"highlight\">(1 + (ressonância mais alta) tempos. (3 vezes máximo; o alvo perde[Laceration]Contagem igual ao número de vezes que foi ativado)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "<style=\"highlight\">Poder de moeda +1 para cada 6[Laceration]no alvo (máximo 2)</style>\n[EndSkill]Por 3 voltas, perca 10 SP no final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 4 resson., Ative[Laceration]no alvo uma vez (o alvo perde 1[Laceration]Contar)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Em mais de 4 resson., Ative[Laceration]no alvo uma vez (o alvo perde 1[Laceration]Contar)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +2[RoseWedge]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [RoseWedge]Contar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Ative o alvo[Laceration](1 + (ressonância mais alta) tempos. (3 vezes máximo; o alvo perde[Laceration]Contagem igual ao número de vezes que foi ativado)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[EnemyKill]Ao causar dano excedente além do HP restante do inimigo, cause o excesso de dano como dano fixo entre todos os inimigos. (min 1)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2050721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[WhenUse]Consuma até 10% do Max HP e Deal (HP consumido / 2) da unidade a todos os inimigos e aliados\n- em menos de 50% do máximo da unidade HP, infligir e ativar 5[Laceration]Em todos os aliados uma vez (perca 1[Laceration]Contar). Curar hp igual à quantidade de[Laceration]danos causados ​​a aliados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]em si mesmo e no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Laceration]em si mesmo e no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +2[RoseWedge]Contar"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[RoseWedge]Contar"
+                                },
+                                {
+                                    "desc": "- se o alvo não tivesse[RoseWedge], infligir 4 adicionais[RoseWedge]Potência"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Ativar[Laceration]no alvo uma vez (o alvo perde 1[Laceration]Contar)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "[CantIdentify]Alvos aleatoriamente<style=\"highlight\">Às 6+ (soma de[Laceration]em si mesmo e no alvo), poder de moeda +1</style>\n[WhenUse]Consuma até 10% do Max HP e Deal (HP consumido / 2) da unidade a todos os inimigos e aliados\n- em menos de 50% do máximo da unidade HP, infligir e ativar 5[Laceration]Em todos os aliados uma vez (perca 1[Laceration]Contar). Curar hp igual à quantidade de[Laceration]danos causados ​​a aliados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">3</style> [Laceration]em si mesmo e no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">3</style> [Laceration]em si mesmo e no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +2[RoseWedge]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +1[RoseWedge]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "- se o alvo não tivesse[RoseWedge], infligir 4 adicionais[RoseWedge]Potência<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Ative o alvo[Laceration] <style=\"highlight\">(1 + (ressonância mais alta) tempos. (3 vezes máximo; o alvo perde[Laceration]Contagem igual ao número de vezes que foi ativado)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Yearning - Mircalla",
+                    "abName": "Four-hundred Roses",
+                    "desc": "[CantIdentify]Alvos aleatoriamente\nPoder de moeda +1 para cada 6 (soma de[Laceration]em si mesmo e no alvo)<style=\"highlight\">(Máx 3)</style>\n[WhenUse]Consuma até 10% do Max HP e Deal (HP consumido / 2) da unidade a todos os inimigos e aliados\n- em menos de 50% do máximo da unidade HP, infligir e ativar 5[Laceration]Em todos os aliados (perdem 1[Laceration]Contar). Curar hp igual à quantidade de[Laceration]danos causados ​​a aliados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]em si mesmo e no alvo<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Ativar[Laceration]em si e no alvo uma vez (ambos perdem 1[Laceration]Contar)</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[Laceration]em si mesmo e no alvo<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Ativar[Laceration]em si e no alvo uma vez (ambos perdem 1[Laceration]Contar)</style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Infligir +2[RoseWedge]Contar<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +<style=\"highlight\">2</style> [RoseWedge]Contar"
+                                },
+                                {
+                                    "desc": "- se o alvo não tivesse[RoseWedge], infligir 4 adicionais[RoseWedge]Potência<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack]Ative o alvo[Laceration](1 + (ressonância mais alta) tempos. (3 vezes máximo; o alvo perde[Laceration]Contagem igual ao número de vezes que foi ativado)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[EnemyKill]Ao causar dano excedente além do HP restante do inimigo, cause o excesso de dano como dano fixo entre todos os inimigos. (min 1)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

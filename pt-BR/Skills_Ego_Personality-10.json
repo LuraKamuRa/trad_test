@@ -1,0 +1,587 @@
+{
+    "dataList": [
+        {
+            "id": 2100411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cure 2 aliados com as menores porcentagens de HP em 10% do máximo de HP."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "[BeforeAttack]A 50%- hp, peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 3 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cure 2 aliados com o menor HP em 12% do máximo de HP."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "[BeforeAttack]A 50%- hp, peso ATK +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Cure 2 aliados com o menor HP em 15% do máximo de HP."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100421,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "[CantIdentify]Alvo a unidade com mais HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir +2 contagem de ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se em 30% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "[CantIdentify]Alvo a unidade com mais HP[BeforeAttack]A 50%- hp, peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir +3 contagem de ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3 nível de defesa"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Lantern",
+                    "abName": "Faelantern",
+                    "desc": "[CantIdentify]Alvo a unidade com mais HP[BeforeAttack]A 50%- hp, peso ATK +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir +3 contagem de ruptura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 5 nível de defesa"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Curar -se em 50% dos danos causados"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100511,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "9:2",
+                    "abName": "Skin Prophet",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não tiver queimadura, infligir 4 queimadura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "9:2",
+                    "abName": "Skin Prophet",
+                    "desc": "[BeforeAttack]Em mais de 4 (ressonância de luxúria), peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não tiver queimadura, infligir 4 queimadura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "9:2",
+                    "abName": "Skin Prophet",
+                    "desc": "[BeforeAttack]Em mais de 4 (ressonância de luxúria), peso ATK +1[BeforeAttack]Em mais de 4 (maior luxúria a-reson.), Peso ATK adicional +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não tiver queimadura, infligir 4 queimadura"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Se o alvo tiver mais de 10 queimaduras, infligir 1 ataque de ataque e 1 poder de defesa na próxima curva"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100521,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "9:2",
+                    "abName": "Skin Prophet",
+                    "desc": "[CantIdentify]Alvos aleatoriamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não tiver queima, infligir 6 queimaduras"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "9:2",
+                    "abName": "Skin Prophet",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Em mais de 4 (ressonância de luxúria), peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não tiver queima, infligir 6 queimaduras"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Se o alvo tiver mais de 10 queimaduras, infligir 1 fragilidade da luxúria no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "9:2",
+                    "abName": "Skin Prophet",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Em mais de 4 (ressonância de luxúria), peso ATK +1[BeforeAttack]A 4+ (mais alta luxúria a-reson), peso ATK adicional +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Se o alvo não tiver queima, infligir 6 queimaduras"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4 queima"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Se o alvo tiver mais de 10 queimaduras, infligir 2 fragilidade da luxúria no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100611,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "[BeforeAttack]Em mais de 4 resson., Peso ATK +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Aplique 10% do Max HP desta unidade como escudo para si mesmo e 1 outro aliado com o menor HP atual e aplique 2[ShieldManagerCryingToad]também"
+                                },
+                                {
+                                    "desc": "- Com mais de 4 ressonomens"
+                                },
+                                {
+                                    "desc": "- Se a unidade afetada já tem[ShieldManagerCryingToad], mude o[ShieldManagerCryingToad]valor para 2"
+                                },
+                                {
+                                    "desc": "- Com mais de mais de 4 melancolia mais alta.[ShieldManagerCryingToad]'e' mudar o[ShieldManagerCryingToad]valor para 3 'em vez disso."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "<style=\"highlight\">[BeforeAttack]Ganho (ressonância mais alta. - 2) peso ATK (máximo 2)</style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Aplicar<style=\"highlight\">14%</style>do max hp desta unidade como escudo para si mesmo e<style=\"highlight\">(1 + (ressonância alta. - 2))</style>Aliados com o menos HP atual e aplique 2[ShieldManagerCryingToad]também<style=\"highlight\">(Max # de outros aliados que ganham[ShieldManagerCryingToad]: 3)</style>"
+                                },
+                                {
+                                    "desc": "- Se a unidade afetada já tem[ShieldManagerCryingToad], mude o[ShieldManagerCryingToad]valor para 2<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "- Com mais de mais de 4 melancolia mais alta.[ShieldManagerCryingToad]'e' mudar o[ShieldManagerCryingToad]valor para 3 'em vez disso.<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "[BeforeAttack]Ganho (ressonância mais alta. - 2) peso ATK (máximo 2)<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill]Aplicar<style=\"highlight\">20%</style>do máximo HP desta unidade como escudo para si mesmo e (1 + (ressonância mais alta. - 2)) aliados com o menor HP atual e aplique 2[ShieldManagerCryingToad]também\n(Max # de outros aliados que ganham[ShieldManagerCryingToad]: 3)"
+                                },
+                                {
+                                    "desc": "- Se a unidade afetada já tem[ShieldManagerCryingToad], mude o[ShieldManagerCryingToad]valor para 2<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "- Com mais de mais de 4 melancolia mais alta.[ShieldManagerCryingToad]'e' mudar o[ShieldManagerCryingToad]valor para 3 'em vez disso.<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100621,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Em mais de 4 resson., Peso ATK +1[BeforeAttack]Ganhe +5[Aggro]Para este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]"
+                                },
+                                {
+                                    "desc": "[EndSkill]Ganho (15 + 2,5 (ressonância mais alta))% do máximo HP desta unidade como escudo para si mesmo e ganhar 2[ShieldManagerCryingToad]. (MAX 25%)"
+                                },
+                                {
+                                    "desc": "- Se esta unidade já tem[ShieldManagerCryingToad], mude o[ShieldManagerCryingToad]valor para 2"
+                                },
+                                {
+                                    "desc": "- Com mais de mais de 4 melancolia mais alta.[ShieldManagerCryingToad]'e' mudar o[ShieldManagerCryingToad]valor para 3 'em vez disso."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "[CantIdentify]Alvos aleatoriamente<style=\"highlight\">[BeforeAttack]Ganho (ressonância mais alta. - 2) peso ATK (máximo 2)</style>\n[BeforeAttack]Ganho<style=\"highlight\">+10[Aggro]</style>Para este slot de habilidade na próxima curva",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[EndSkill]Ganho (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(ressonância mais alta.))% do máximo HP desta unidade como escudo para si mesmo e ganhar 2[ShieldManagerCryingToad]. (máx<style=\"highlight\">30%</style>)"
+                                },
+                                {
+                                    "desc": "- Se esta unidade já tem[ShieldManagerCryingToad], mude o[ShieldManagerCryingToad]valor para 2<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "- Com mais de mais de 4 melancolia mais alta.[ShieldManagerCryingToad]'e' mudar o[ShieldManagerCryingToad]valor para 3 'em vez disso.<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Cavernous Wailing",
+                    "abName": "Blubbering Toad",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[BeforeAttack]Ganho (ressonância mais alta. - 2) peso ATK (máximo 2)[BeforeAttack]Ganhe +10[Aggro]Para este slot de habilidade na próxima curva<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Sinking]e<style=\"highlight\">+3[Sinking]Contar</style>"
+                                },
+                                {
+                                    "desc": "[EndSkill]Ganho (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(ressonância mais alta.))% do máximo HP desta unidade como escudo para si mesmo e ganhar 2[ShieldManagerCryingToad]. (máx<style=\"highlight\">40%</style>)"
+                                },
+                                {
+                                    "desc": "- Se esta unidade já tem[ShieldManagerCryingToad], mude o[ShieldManagerCryingToad]valor para 2<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "- Com mais de mais de 4 melancolia mais alta.[ShieldManagerCryingToad]'e' mudar o[ShieldManagerCryingToad]valor para 3 'em vez disso.<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">- em mais de 4 ressonomens</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "[EndSkill]Se o alvo tiver[Curse], ativá -lo imediatamente duas vezes e reduzi -lo em 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Curse]- infligir 1 adicional[Curse]para cada 3 efeito negativo no alvo que não é[Curse]ou[NailPersonality](Máx 2)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[NailPersonality]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "<style=\"highlight\">[BeforeAttack]Em mais de 4 inveja resson. incluindo essa habilidade, Peso ATK +1</style>\n[EndSkill]Se o alvo tiver[Curse], ativá -lo imediatamente duas vezes e reduzi -lo em 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Curse]- infligir 1 adicional[Curse]para cada 3 efeito negativo no alvo que não é[Curse]ou[NailPersonality](Máx 2)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">3</style> [NailPersonality]"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttackHead]Infligir 2[Binding]Próximo turno (uma vez por turno)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "<style=\"highlight\">[BeforeAttack]Para cada 3 inveja de resson. incluindo esta habilidade, o peso ATK +1 (máximo 2)</style>\n[EndSkill]Se o alvo tiver[Curse], ativá -lo imediatamente duas vezes e reduzi -lo em 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[Curse]- infligir 1 adicional[Curse]para todo<style=\"highlight\">2</style>efeito negativo no alvo que não é[Curse]ou[NailPersonality](Máx 2)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[NailPersonality]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Em mais de 4[Curse], infligir 1[ParryingResultDown](uma vez por turno)</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead]Infligir 2[Binding]Próximo turno (uma vez por turno)<style=\"highlight\"></style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2100721,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Se o alvo tiver[Curse], ativá -lo imediatamente duas vezes e reduzi -lo em 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 2[Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Curse]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 2[NailPersonality]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Se o alvo tiver[Curse], ativá -lo imediatamente duas vezes e reduzi -lo em 2<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir<style=\"highlight\">3</style> [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Curse]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir<style=\"highlight\">3</style> [NailPersonality]"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttackTail]Infligir 2[Binding]Próximo turno (uma vez por turno)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 4,
+                    "name": "Hex Nail",
+                    "abName": "Hurting Teddy Bear",
+                    "desc": "[CantIdentify]Alvos aleatoriamente[EndSkill]Se o alvo tiver[Curse], ativá -lo imediatamente duas vezes e reduzi -lo em 2<style=\"highlight\"></style>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 3[Laceration]<style=\"highlight\"></style>"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 4[Curse]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]Infligir 3[NailPersonality]<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttack]Em mais de 4 inveja resson. incluindo esta habilidade, infligir 1[ParryingResultDown](uma vez por turno)</style>"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail]Infligir 2[Binding]Próximo turno (uma vez por turno)<style=\"highlight\"></style>"
+                                },
+                                {
+                                    "desc": "<style=\"highlight\">[OnSucceedAttackTail]Infligir 2[DefenseDown]Próximo turno (uma vez por turno)</style>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

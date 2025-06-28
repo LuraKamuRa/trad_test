@@ -1,0 +1,304 @@
+{
+    "dataList": [
+        {
+            "id": "dungeon_shop_ego_gift_upgrade",
+            "content": "Melhore os presentes"
+        },
+        {
+            "id": "dungeon_shop_ego_gift_composite",
+            "content": "Presentes Fusíveis"
+        },
+        {
+            "id": "dungeon_shop_ego_gift_sell",
+            "content": "Vender presentes"
+        },
+        {
+            "id": "dungeon_shop_refresh",
+            "content": "Atualizar"
+        },
+        {
+            "id": "mirror_dungeon_selected_ego_gift",
+            "content": "Presente E.G.O selecionado"
+        },
+        {
+            "id": "ego_gift_upgrade_ui_title",
+            "content": "Melhore o presente E.G.O."
+        },
+        {
+            "id": "ego_gift_upgrade_confirm_format",
+            "content": "Gastar <color=#F8C200>{0}</color> de custo para aprimorar o presente E.G.O?"
+        },
+        {
+            "id": "ego_gift_upgrade_not_enough_cost_format",
+            "content": "Você precisa de <color=#990000>{0}</color> mais Custo para Aprimorar este Presente E.G.O."
+        },
+        {
+            "id": "ego_gift_combine_ui_title",
+            "content": "Fuse E.G.O Presente"
+        },
+        {
+            "id": "combine",
+            "content": "Fusível"
+        },
+        {
+            "id": "selected_gift",
+            "content": "Presentes E.G.O selecionados"
+        },
+        {
+            "id": "expectation",
+            "content": "Previsão"
+        },
+        {
+            "id": "ego_gift_combine_ui_main_text",
+            "content": "Fundir os presentes E.G.O selecionados?"
+        },
+        {
+            "id": "mirror_dungeon3_normal_reward_info",
+            "content": "Normal"
+        },
+        {
+            "id": "mirror_dungeon3_hard_reward_info",
+            "content": "Duro"
+        },
+        {
+            "id": "mirror_dungeon3_current_explore",
+            "content": "Explorando:"
+        },
+        {
+            "id": "mirror_dungeon3_entrance_button_formation",
+            "content": "Pecadores"
+        },
+        {
+            "id": "mirror_dungeon3_entrance_button_start_buff",
+            "content": "Buffs iniciais"
+        },
+        {
+            "id": "mirror_dungeon3_entrance_hard_hint_before_release",
+            "content": "Limpe o Canto IV para desbloquear"
+        },
+        {
+            "id": "mirror_dungeon3_start_buff_summary_detail",
+            "content": "Resumo/Detalhes"
+        },
+        {
+            "id": "mirror_dungeon3_start_buff_summary",
+            "content": "Resumo"
+        },
+        {
+            "id": "mirror_dungeon3_start_buff_detail",
+            "content": "Detalhes"
+        },
+        {
+            "id": "ego_gift_sell_ui_title",
+            "content": "Vender presente E.G.O"
+        },
+        {
+            "id": "sell",
+            "content": "Vender"
+        },
+        {
+            "id": "guided_sell_ego_gift",
+            "content": "Selecione o presente E.G.O que você gostaria de vender."
+        },
+        {
+            "id": "ego_gift_sell_confirm_format",
+            "content": "Vender [{0}] por {1} Custo?"
+        },
+        {
+            "id": "mirror_dungeon_3_start_buff_name",
+            "content": "Buffs iniciais - Marcos astrais"
+        },
+        {
+            "id": "mirror_dungeon_3_purchase_start_buff",
+            "content": "Gravar estrelas"
+        },
+        {
+            "id": "mirror_dungeon_give_up_getting_ego_gift_with_enemy_buff",
+            "content": "Se você optar por continuar sem um presente E.G.O, um bônus de andar aleatório será selecionado."
+        },
+        {
+            "id": "mirror_dungeon_shop_could_not_refresh",
+            "content": "Não é possível atualizar"
+        },
+        {
+            "id": "mirror_dungeon_shop_change_formation_count",
+            "content": "Participantes da equipe"
+        },
+        {
+            "id": "mirror_dungeon_exploring",
+            "content": "! Explorando !"
+        },
+        {
+            "id": "mirror_dungeon_progress_text_before",
+            "content": "Antes da entrada"
+        },
+        {
+            "id": "mirror_dungeon_progress_text_3_normal",
+            "content": "Piso normal {0}"
+        },
+        {
+            "id": "normal_difficulty_simple",
+            "content": "Normal"
+        },
+        {
+            "id": "hard_difficulty_simple",
+            "content": "Duro"
+        },
+        {
+            "id": "starchip_ui_difficulty_ratio_format",
+            "content": "※ Dificuldade: {0} [x{1}]"
+        },
+        {
+            "id": "number_of_cleared_floors",
+            "content": "Pisos limpos"
+        },
+        {
+            "id": "number_of_cleared_nodes",
+            "content": "Nós limpos"
+        },
+        {
+            "id": "number_of_starlight_nodes",
+            "content": "Nós de luz estelar"
+        },
+        {
+            "id": "number_of_battles",
+            "content": "Encontros"
+        },
+        {
+            "id": "number_of_acquired_ego_gift",
+            "content": "Presentes E.G.O adquiridos"
+        },
+        {
+            "id": "choose_starting_ego_gift",
+            "content": "Iniciando a escolha de presentes E.G.O"
+        },
+        {
+            "id": "rest_gauge",
+            "content": "Bônus de descanso"
+        },
+        {
+            "id": "starlight_reward",
+            "content": "Luz das estrelas"
+        },
+        {
+            "id": "battlepass_progress_reward",
+            "content": "Passe XP Recompensa"
+        },
+        {
+            "id": "side_title_unable_ego_gift_upgrade",
+            "content": "Não é possível melhorar"
+        },
+        {
+            "id": "side_content_not_have_any_ego_gift",
+            "content": "Não possuímos presentes E.G.O."
+        },
+        {
+            "id": "side_content_ego_gift_is_not_upgradeable",
+            "content": "Este Dom E.G.O não pode ser Aprimorado."
+        },
+        {
+            "id": "side_content_ego_gift_is_maximum_upgraded",
+            "content": "Este presente E.G.O já está totalmente aprimorado."
+        },
+        {
+            "id": "side_title_unable_ego_gift_combine",
+            "content": "Não é possível fundir"
+        },
+        {
+            "id": "side_content_need_more_ego_gift",
+            "content": "Você precisa ter pelo menos 2 presentes E.G.O."
+        },
+        {
+            "id": "side_content_need_lower_tier_ego_gift",
+            "content": "Você pode selecionar apenas presentes E.G.O de nível 3 ou inferior."
+        },
+        {
+            "id": "side_title_unable_ego_gift_sell",
+            "content": "Não pode vender"
+        },
+        {
+            "id": "side_content_ego_gift_is_not_for_sale",
+            "content": "Você não pode vender este presente E.G.O."
+        },
+        {
+            "id": "mirror_dungeon_already_participated",
+            "content": "Participando"
+        },
+        {
+            "id": "mirror_dungeon_acquire_ego_gift_desc",
+            "content": "Adquira o presente E.G.O"
+        },
+        {
+            "id": "mirror_dungeon_acquire_enemy_buff",
+            "content": "Ensaios de montagem"
+        },
+        {
+            "id": "mirror_dungeon3_entrance_hard_hint_after_release",
+            "content": "<Condições de desbloqueio>\nLimpar 4-54\nLimpar Espelho do Lago Dificuldade Normal"
+        },
+        {
+            "id": "mirror_dungeon_reload_select_ego_gift_category",
+            "content": "Atualizar (Uma vez)"
+        },
+        {
+            "id": "mirror_dungeon_select_chip_effect",
+            "content": "Desejo das Estrelas"
+        },
+        {
+            "id": "mirror_dungeon_select_chip_effect_desc_selected",
+            "content": "Gaste {0} Starlight para ativar o efeito selecionado para esta corrida Mirror Dungeon.\nA menos que você desative o efeito, ou a menos que você esgote sua Starlight, o efeito selecionado será aplicado automaticamente ao iniciar uma nova corrida Mirror Dungeon."
+        },
+        {
+            "id": "mirror_dungeon_select_chip_effect_desc_not_selected",
+            "content": "Gaste Luz Estelar para ativar efeitos especiais para esta partida na Masmorra do Espelho."
+        },
+        {
+            "id": "mirror_dungeon_atart_buff_activation",
+            "content": "Ativar"
+        },
+        {
+            "id": "mirror_dungeon_atart_buff_diactivation",
+            "content": "Desativar"
+        },
+        {
+            "id": "mirrordungeon_unable_to_change_activation_buffs_when_running_dungeon",
+            "content": "Você não pode ativar ou desativar seus Buffs Iniciais enquanto uma partida na Masmorra Espelho estiver em andamento."
+        },
+        {
+            "id": "mirrordungeon_edit_start_buff_activation",
+            "content": "Edição rápida"
+        },
+        {
+            "id": "mirror_dungeon_progress_text_3_hard",
+            "content": "Piso Duro {0}"
+        },
+        {
+            "id": "mirror_dungeon_unable_to_modify_activation_of_start_buff_during_running",
+            "content": "Você não pode ativar ou desativar seus Buffs Iniciais enquanto uma partida na Masmorra Espelho estiver em andamento."
+        },
+        {
+            "id": "add_enemy_level",
+            "content": "Nível do inimigo"
+        },
+        {
+            "id": "mirrordungeon_unable_to_change_activation_buffs_when_parent_buff_off",
+            "content": "Você não pode ativar os Buffs Secundários enquanto os Buffs Primários estiverem desativados."
+        },
+        {
+            "id": "mirrordungeon_purchase_buffs_when_parent_buff_off",
+            "content": "Você não pode gravar estrelas em bônus secundários enquanto os bônus primários estiverem desativados."
+        },
+        {
+            "id": "side_content_already_owned_tier_ego_gift",
+            "content": "Você não pode mais obter esse Nível de Presentes E.G.O por meio de 'Fuse Gift' nos Rest Stops."
+        },
+        {
+            "id": "mirror_dungoen_ego_gift_history_view_desc",
+            "content": "Ver descrição."
+        },
+        {
+            "id": "side_content_ego_gift_is_unable_combine",
+            "content": "Este Dom E.G.O não pode ser Fundido."
+        }
+    ]
+}

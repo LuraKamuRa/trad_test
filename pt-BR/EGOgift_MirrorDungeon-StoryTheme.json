@@ -1,0 +1,282 @@
+{
+    "dataList": [
+        {
+            "id": 9403,
+            "name": "Ebony Brooch",
+            "desc": "Primeiro Turno Início de um Encontro: Inflija 2 [Burst] Potency e Count a todos os inimigos.\n\nInflija 2 [Binding] no próximo turno no Turn End a todos os inimigos por 3 turnos.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9403,
+                    "simpleDesc": "Inflict 2 [Burst] Potency and +2 [Burst] Count on all enemies"
+                },
+                {
+                    "abilityID": 94031,
+                    "simpleDesc": "Inflict 2 [Binding] on all enemies"
+                }
+            ]
+        },
+        {
+            "id": 9404,
+            "name": "Contained Maggots",
+            "desc": "Ao usar uma Habilidade de Ataque de Afinidade de Glutonaria (exceto Habilidades E.G.O) contra um inimigo, inflija 2 [Muckworm] no alvo.\n\nSe a referida Habilidade aplicar Potência de [Laceração], Contagem ou 'Sangramento Único', inflija 3 [Muckworm] em vez disso.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9404,
+                    "simpleDesc": "Inflict 2 [Muckworm]"
+                },
+                {
+                    "abilityID": 94041,
+                    "simpleDesc": "Inflict 3 [Muckworm]"
+                }
+            ]
+        },
+        {
+            "id": 9407,
+            "name": "Made-to-Order",
+            "desc": "[Efeitos se aplicam somente à Identidade Implantada nº 3]\n\nInício do Encontro: ganhe +3 Contagem de [Vibração].\n\nInício do Turno: ganhe 1 [Proteção], 1 [AtaqueDmgUp] e 1 [ResultEnhancement].",
+            "simpleDesc": [
+                {
+                    "abilityID": 9407,
+                    "simpleDesc": "Gain +3 [Vibration] Count"
+                },
+                {
+                    "abilityID": 94071,
+                    "simpleDesc": "Gain 1 [Protection], 1 [AttackDmgUp], and 1 [ResultEnhancement]"
+                }
+            ]
+        },
+        {
+            "id": 9408,
+            "name": "Haunted Shoes",
+            "desc": "[Efeitos se aplicam somente à Identidade Implantada nº 2]\n\nInício do Encontro: ganhe +3 Contagem de [Afundamento].\n\nInício do Turno: ganhe 1 [Proteção], 1 [AtaqueDmgUp] e 1 [ResultEnhancement].",
+            "simpleDesc": [
+                {
+                    "abilityID": 9408,
+                    "simpleDesc": "Gain +3 [Sinking] Count"
+                },
+                {
+                    "abilityID": 94081,
+                    "simpleDesc": "Gain 1 [Protection], 1 [AttackDmgUp], and 1 [ResultEnhancement]"
+                }
+            ]
+        },
+        {
+            "id": 9409,
+            "name": "Frozen Cries",
+            "desc": "Aplica-se somente a 1 Identidade com a Velocidade mais lenta no Início do Turno.\n\nSe o aliado em questão vencer um Clash ou for atingido por um inimigo, inflija 3 [Sinking] contra o inimigo.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9409,
+                    "simpleDesc": "Inflict 3 [Sinking] against the enemy"
+                }
+            ]
+        },
+        {
+            "id": 9410,
+            "name": "Hoarfrost Footprint",
+            "desc": "Primeiro turno Início de uma onda: todos os aliados ganham +3 Contagem [Afundando] e infligem a todos os inimigos (ou todas as partes de Anormalidade) 4 Potência [Afundando] e +8 Contagem [Afundando].\n\nInimigos com [Afundando] perdem 2 Poder de Choque; quando uma Identidade aliada vence um Choque contra um inimigo afetado, inflige 2 Potência [Afundando]; quando uma Identidade aliada é atingida por um inimigo afetado, inflige 3 Potência [Afundando].",
+            "simpleDesc": [
+                {
+                    "abilityID": 9410,
+                    "simpleDesc": "Inflict 4 [Sinking] Potency and +8 [Sinking] Count against all enemies."
+                },
+                {
+                    "abilityID": 94101,
+                    "simpleDesc": "Enemies with [Sinking] lose 2 Clash Power"
+                }
+            ]
+        },
+        {
+            "id": 9413,
+            "name": "Nagel und Hammer Scriptures",
+            "desc": "Quando um aliado vence um Clash usando uma Skill que inflige [Laceration] Potency, Count ou 'Unique Bleed', inflija 1~2 [NailPersonality].\n\nSe o aliado em questão for um 'N Corp. Fanatic', ganhe 1 Fanatic no Turn Start.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9413,
+                    "simpleDesc": "Inflict 1~2 [NailPersonality]"
+                },
+                {
+                    "abilityID": 94131,
+                    "simpleDesc": "If the unit is an 'N Corp. Fanatic', gain 1 Fanatic at Turn Start."
+                }
+            ]
+        },
+        {
+            "id": 9414,
+            "name": "Blood-red Mane",
+            "desc": "Efeitos se aplicam a todas as Identidades com Habilidades de Ataque de Afinidade com Ira ou Luxúria.\n\nFim do Turno: se esta unidade não sofreu nenhum dano das Habilidades de Ataque inimigas neste turno, ganhe 2 [Agilidade] e 2 [Resistência].\n\nFim do Turno: se esta unidade sofreu dano das Habilidades de Ataque inimigas neste turno, ganhe 2 [Amarramento] e Poder de Choque +2 no próximo turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9414,
+                    "simpleDesc": "Gain 2 [Agility] and 2 [Endurance] next turn"
+                },
+                {
+                    "abilityID": 94141,
+                    "simpleDesc": "Gain 2 [Binding] and Clash Power +2 next turn"
+                }
+            ]
+        },
+        {
+            "id": 9415,
+            "name": "Squalidity",
+            "desc": "Quando um aliado ataca um inimigo que tem [Laceration] com uma Skill que inflige [Laceration] Potency, Count ou 'Unique Bleed', causa +15% a mais de dano contra o alvo.\n\nSe o alvo tiver 33%- HP, causa +25% a mais de dano contra o alvo.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9415,
+                    "simpleDesc": "Deal +15% more damage"
+                },
+                {
+                    "abilityID": 94151,
+                    "simpleDesc": "Deal +25% more damage"
+                }
+            ]
+        },
+        {
+            "id": 9416,
+            "name": "Wholeness",
+            "desc": "Se o aliado vencer um Clash usando uma Skill que inflige [Laceration] Potency, Count ou 'Unique Bleed', inflija 2~3 [NailPersonality].\n\nSe o aliado for um 'N Corp. Fanatic', ganhe 1 Fanatic no Turn Start, e cause +25% a mais de dano contra alvos com [Laceration].\n\nAtive um efeito especial quando houver 5+ Identidades 'N Corp. Fanatic' (conta apenas Identidades no campo no Encounter Start):\n- Identidades 'N Corp. Fanatic' ganham Final Power +1, Plus Coin Power +1, Minus Coin Power -1, e Skills de Ataque infligem +1 a mais [NailPersonality]. Se uma Identidade 'N Corp. Fanatic' estiver com SP máximo no Turn Start, ganhe 3 [AttackDmgUp].",
+            "simpleDesc": [
+                {
+                    "abilityID": 9416,
+                    "simpleDesc": "Clash Win: inflict 2~3 [NailPersonality]"
+                },
+                {
+                    "abilityID": 94161,
+                    "simpleDesc": "'N Corp. Fanatic' Identities deal +25% more damage when attacking an enemy"
+                },
+                {
+                    "abilityID": 94162,
+                    "simpleDesc": "Activate a special effect when there are 5+ 'N Corp. Fanatic' Identities"
+                }
+            ]
+        },
+        {
+            "id": 9419,
+            "name": "Spicebush Branch",
+            "desc": "Para este Encontro, o seguinte efeito ativa toda vez que Habilidade 1, Habilidade 2 e Habilidade 3 são usadas pelo menos uma vez.\n\nInício do Turno: ganhe 1 [Agilidade] e 1 [SkillPowerUp]. (pode acumular até 3 vezes)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9419,
+                    "simpleDesc": "Turn Start: gain 1 [Agility] and 1 [SkillPowerUp]."
+                }
+            ]
+        },
+        {
+            "id": 9420,
+            "name": "Kaleidoscope",
+            "desc": "Início do turno: unidades acompanhadas por outras Identidades da mesma facção que elas ganham [AtaqueAumentar] igual ao número de outras Identidades da mesma facção. (máx. 4)\n\nIdentidades da Aliança de Libertação Tecnológica ganham Poder de Choque +1.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9420,
+                    "simpleDesc": "Gain [AttackUp]"
+                },
+                {
+                    "abilityID": 94201,
+                    "simpleDesc": "Clash Power +1"
+                }
+            ]
+        },
+        {
+            "id": 9423,
+            "name": "Broken Glasses",
+            "desc": "Quando um aliado entra em choque contra um inimigo com uma Velocidade mais rápida, ganhe Poder de Choque +1.\n\nQuando um aliado vence um Choque contra um inimigo com uma Velocidade mais rápida, ganhe 2 [AtaqueAumentar] no próximo turno (máx. 4.)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9423,
+                    "simpleDesc": "Clash Power +1"
+                },
+                {
+                    "abilityID": 94231,
+                    "simpleDesc": "Gain 2 [AttackUp] next turn"
+                }
+            ]
+        },
+        {
+            "id": 9424,
+            "name": "Unmailed Letter",
+            "desc": "[Efeitos se aplicam somente às Identidades Implantadas #1, #2]\n\nAo vencer um Clash com uma Habilidade de Ataque que inflige Potência ou Contagem de [Burst], inflija 5 Potência de [Burst] e +3 Contagem de [Burst] contra o alvo. (uma vez por turno por Identidade)\n\nAo Confrontar um inimigo com Velocidade mais lenta, ganhe Poder Final +1 e cause +25% a mais de dano.\n\nAo vencer um Clash contra um inimigo com buff [AttackUp], ganhe 3 [AttackUp] no próximo turno e inflija 3 [AttackDown] no inimigo que perdeu o Clash (valor absoluto 9)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9424,
+                    "simpleDesc": "Clash Win: inflict 5 [Burst] Power and +3 [Burst] Count against the target"
+                },
+                {
+                    "abilityID": 94241,
+                    "simpleDesc": "Final Power +1, deal +25% more damage"
+                },
+                {
+                    "abilityID": 94242,
+                    "simpleDesc": "Inflict 3 [AttackDown] against the enemy that lost the Clash"
+                }
+            ]
+        },
+        {
+            "id": 9429,
+            "name": "Harpoon Prosthetic Leg",
+            "desc": "Fim do Turno: aplique 2 [Agilidade], 2 [AtaqueAumentar] e 2 [DanoAumentarAumentar] no próximo turno ao aliado com a maior soma de Potência e Contagem de [Sopro].\n\nAs Identidades Pequod ganham Velocidade Máxima +1.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9429,
+                    "simpleDesc": "Apply 2 [Agility], 2 [AttackUp], and 2 [AttackDmgUp] next turn"
+                },
+                {
+                    "abilityID": 94291,
+                    "simpleDesc": "The Pequod Identities gain Max Speed +1."
+                }
+            ]
+        },
+        {
+            "id": 9430,
+            "name": "Guiding Gas Lamp",
+            "desc": "Primeiro turno Início de uma onda: todos os aliados ganham 5 [Breath] e +5 [Breath] Count.\n\nFim do turno: 1 aliado com a maior soma de [Breath] Potency e Count ganha 2 [Agility], 3 [AttackUp] e 3 [AttackDmgUp] no próximo turno.\n\nAs Pequod Identities ganham Skill Power +2 e Max Speed ​​+2.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9430,
+                    "simpleDesc": "All allies gain 5 [Breath] and +5 [Breath] Count."
+                },
+                {
+                    "abilityID": 94301,
+                    "simpleDesc": "Apply 2 [Agility], 3 [AttackUp], and 3 [AttackDmgUp] next turn."
+                },
+                {
+                    "abilityID": 94302,
+                    "simpleDesc": "Skill Power +2, Max Speed +2."
+                }
+            ]
+        },
+        {
+            "id": 9433,
+            "name": "Chief Butler's Secret Arts",
+            "desc": "Primeiro turno Início de uma onda: selecione 1 inimigo com a Velocidade mais lenta (ou uma parte aleatória de Anormalidade) e inflija 5 [Binding] por 5 turnos a partir do próximo turno.\n\nVitória no Clash: Se a Velocidade desta unidade for mais rápida que a do alvo, cure SP igual à diferença de Velocidade e ganhe 'Nível de Ofensa' igual à metade dessa diferença de Velocidade. (aplica-se apenas à Habilidade usada para vencer a Habilidade. Ganho máximo de 'Nível de Ofensa': 3)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9433,
+                    "simpleDesc": "Inflict 5 [Binding] for 5 turns starting next turn"
+                },
+                {
+                    "abilityID": 94331,
+                    "simpleDesc": "Heal SP, and gain Offense Level equal to the amount of SP healed"
+                }
+            ]
+        },
+        {
+            "id": 9434,
+            "name": "Handheld Mirror",
+            "desc": "Primeiro turno Início de uma onda: selecione 2 inimigos com a Velocidade mais lenta (ou 2 partes aleatórias de Anormalidade. O efeito não acumula se o inimigo for singular) e inflija 5 [Binding] e 3 [DefenseDown] no Turno Start a partir do próximo turno.\n\nQuando o inimigo se recuperar do Stagger, e se ele não tiver nenhum Stagger Threshold restante, crie um novo Stagger Threshold na marca de 66% do HP atual do alvo (3 vezes por Encontro). Se um aliado Stagger um inimigo com uma Habilidade de Ataque (exceto Habilidades E.G.O) que aplica [Vibration] Potency ou [Vibration] Count (incluindo em si mesmo ou em um aliado), inflija aleatoriamente [Vibration] Potency igual à metade da [Vibration ] Potency no alvo entre outros inimigos (ou outras partes de Anormalidade) e aumente a [Vibration] Potency no alvo Staggered em x2.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9433,
+                    "simpleDesc": "Turn Start: Gain 5 Bind and 3 Defense Level Down."
+                },
+                {
+                    "abilityID": 94331,
+                    "simpleDesc": "Create a new Stagger Threshold at 66% mark of the target's current HP"
+                },
+                {
+                    "abilityID": 94332,
+                    "simpleDesc": "[Vibration] Potency on the Staggered target increases by x2"
+                }
+            ]
+        }
+    ]
+}

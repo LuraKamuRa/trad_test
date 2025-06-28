@@ -1,0 +1,627 @@
+{
+  "dataList": [
+    {
+      "id": 1001,
+      "name": "Mask of a Devotee",
+      "desc": "Todos os aliados ganham +5 de nível de defesa.",
+      "simpleDesc": [
+        {
+          "abilityID": 1001,
+          "simpleDesc": "Nível de defesa +5"
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "Shoddy Dressing",
+      "desc": "Todos os aliados ganham +10% no máximo HP.",
+      "simpleDesc": [
+        {
+          "abilityID": 1002,
+          "simpleDesc": "Max HP +10%"
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "name": "Festered Fragment",
+      "desc": "No início do turno, aliados com 50% ou menos de saúde curam 5 hp.",
+      "simpleDesc": [
+        {
+          "abilityID": 1003,
+          "simpleDesc": "Aliados a <50% de saúde cura 5 hp"
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "name": "Bloodied Mask of a Devotee",
+      "desc": "Todos os aliados ganham +5 de nível de ofensa e +5 de defesa.",
+      "simpleDesc": [
+        {
+          "abilityID": 1004,
+          "simpleDesc": "Ofensas e níveis de defesa +5"
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "name": "Ebony Brooch",
+      "desc": "Nas três primeiras voltas de batalha, o infligir 2 se liga a todos os inimigos.",
+      "simpleDesc": [
+        {
+          "abilityID": 1005,
+          "simpleDesc": "Infligir 2 se ligam"
+        }
+      ]
+    },
+    {
+      "id": 1006,
+      "name": "Etched Doomsday",
+      "desc": "Na primeira virada da batalha, infligir 1 queima em todos os inimigos 5 vezes.",
+      "simpleDesc": [
+        {
+          "abilityID": 1006,
+          "simpleDesc": "Infligir 1 queima"
+        }
+      ]
+    },
+    {
+      "id": 1011,
+      "name": "Toy Fist",
+      "desc": "Todos os aliados causam +10% de dano.",
+      "simpleDesc": [
+        {
+          "abilityID": 1011,
+          "simpleDesc": "Dano +10%"
+        }
+      ]
+    },
+    {
+      "id": 1012,
+      "name": "Toy Foot",
+      "desc": "Todos os aliados ganham velocidade +1.",
+      "simpleDesc": [
+        {
+          "abilityID": 1012,
+          "simpleDesc": "SPD +1"
+        }
+      ]
+    },
+    {
+      "id": 1013,
+      "name": "Toy Screw",
+      "desc": "Todos os aliados ganham +10% no máximo HP.",
+      "abnormalityName": "Cyborg",
+      "simpleDesc": [
+        {
+          "abilityID": 1013,
+          "simpleDesc": "Max HP +10%"
+        }
+      ]
+    },
+    {
+      "id": 1014,
+      "name": "Rainbow Mainspring",
+      "desc": "No início do turno, aplique 2 proteção ao aliado com o menor HP.",
+      "simpleDesc": [
+        {
+          "abilityID": 1014,
+          "simpleDesc": "Ganhe 2 proteção"
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "name": "Rusty Mainspring",
+      "desc": "No início do turno, aplique 1 proteção ao aliado com o menor HP.",
+      "simpleDesc": [
+        {
+          "abilityID": 1015,
+          "simpleDesc": "Ganhe 1 proteção"
+        }
+      ]
+    },
+    {
+      "id": 1016,
+      "name": "Emergency Surgical Kit",
+      "desc": "Durante a batalha, se um aliado sofrer danos letais, o HP não ficará abaixo de 1.\nNo próximo turno, cure totalmente o HP e ganhe 3 cirurgia.\nEles vão morrer no final da batalha.\n(Ativa uma vez por masmorra, então o presente expira.)",
+      "simpleDesc": [
+        {
+          "abilityID": 1016,
+          "simpleDesc": "Cura totalmente HP"
+        },
+        {
+          "abilityID": 10161,
+          "simpleDesc": "Ganhe 3 cirurgia"
+        }
+      ]
+    },
+    {
+      "id": 1018,
+      "name": "Writhing Ribbon",
+      "desc": "Depois de vencer um confronto usando uma habilidade de luxúria, infligir 1 Bind e 1 frágil na próxima curva.",
+      "simpleDesc": [
+        {
+          "abilityID": 1018,
+          "simpleDesc": "Infligir 1 se ligar"
+        },
+        {
+          "abilityID": 10181,
+          "simpleDesc": "Infligir 1 frágil"
+        }
+      ]
+    },
+    {
+      "id": 1021,
+      "name": "A Sign",
+      "desc": "A determinação de Sinclair de enfrentar Kromer. Depois de três golpes foram desenhados…",
+      "simpleDesc": [
+        {
+          "abilityID": 1021,
+          "simpleDesc": "A vontade de Sinclair"
+        }
+      ]
+    },
+    {
+      "id": 1022,
+      "name": "A Sign",
+      "desc": "A determinação de Sinclair de enfrentar Kromer. Depois de três golpes foram desenhados…",
+      "simpleDesc": [
+        {
+          "abilityID": 1022,
+          "simpleDesc": "A vontade de Sinclair"
+        }
+      ]
+    },
+    {
+      "id": 1023,
+      "name": "A Sign",
+      "desc": "A determinação de Sinclair de enfrentar Kromer. Depois de três golpes foram desenhados…",
+      "simpleDesc": [
+        {
+          "abilityID": 1023,
+          "simpleDesc": "A vontade de Sinclair"
+        }
+      ]
+    },
+    {
+      "id": 1024,
+      "name": "A Sign",
+      "desc": "A determinação de Sinclair de enfrentar Kromer. Depois de três golpes foram desenhados…",
+      "simpleDesc": [
+        {
+          "abilityID": 1024,
+          "simpleDesc": "A vontade de Sinclair"
+        }
+      ]
+    },
+    {
+      "id": 1032,
+      "name": "Torch Stack",
+      "desc": "Comece as próximas 3 batalhas com 3 pressa.\nExpira depois.",
+      "simpleDesc": [
+        {
+          "abilityID": 1032,
+          "simpleDesc": "Ganhe 3 pressa"
+        }
+      ]
+    },
+    {
+      "id": 1033,
+      "name": "Old Warehouse’s Key",
+      "desc": "Usado em certos eventos. Expira em uso.",
+      "simpleDesc": [
+        {
+          "abilityID": 1033,
+          "simpleDesc": "Usado em eventos"
+        }
+      ]
+    },
+    {
+      "id": 1034,
+      "name": "Blood-red Mane",
+      "desc": "Aliados com habilidades de luxúria ganham os seguintes efeitos:\nSe a unidade não sofreu danos causados ​​por ataques, obtenha 2 pressa e 2 power de defesa no próximo turno.\nSe a unidade sofreu danos causados ​​por ataques neste turno, ganhe 2 Bind e 2 Attack Power Up no próximo turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 1034,
+          "simpleDesc": "Ganhe 2 pressa e energia de defesa"
+        },
+        {
+          "abilityID": 10341,
+          "simpleDesc": "Ganhe 2 ligações e ataques de ataque"
+        }
+      ]
+    },
+    {
+      "id": 1037,
+      "name": "N Corp. Seal",
+      "desc": "Usado em certos eventos. Expira em uso",
+      "simpleDesc": [
+        {
+          "abilityID": 1037,
+          "simpleDesc": "Usado em eventos"
+        }
+      ]
+    },
+    {
+      "id": 1038,
+      "name": "Token of Innocence",
+      "desc": "Para a identidade que empreendeu o rito: aumente o poder das habilidades da ira em 2.",
+      "simpleDesc": [
+        {
+          "abilityID": 1038,
+          "simpleDesc": "Power Skill Skill Wrath +2"
+        }
+      ]
+    },
+    {
+      "id": 1039,
+      "name": "Token of Tears",
+      "desc": "Para a identidade que empreendeu o rito: aumente o poder das habilidades sombrias em 2.",
+      "simpleDesc": [
+        {
+          "abilityID": 1039,
+          "simpleDesc": "Power de habilidades sombrias +2"
+        }
+      ]
+    },
+    {
+      "id": 1040,
+      "name": "Sparkling Skull",
+      "desc": "No início do turno, se o personagem sofreu mais de 10 danos na última curva, cure 5-15 hp.",
+      "simpleDesc": [
+        {
+          "abilityID": 1040,
+          "simpleDesc": "Cura 5-15 hp"
+        }
+      ]
+    },
+    {
+      "id": 1041,
+      "name": "Hemorrhagic Hand",
+      "desc": "No início do turno, aplique 2 ataques de ataque aos aliados a 25% ou menor saúde.",
+      "simpleDesc": [
+        {
+          "abilityID": 1041,
+          "simpleDesc": "Ganhe 2 Ataque Power Up"
+        }
+      ]
+    },
+    {
+      "id": 1042,
+      "name": "Sniggering Tongue",
+      "desc": "OFERECIMENTO +10% de dano em um confronto vencido.",
+      "simpleDesc": [
+        {
+          "abilityID": 1042,
+          "simpleDesc": "Dano +10%"
+        }
+      ]
+    },
+    {
+      "id": 1043,
+      "name": "Token of Atonement",
+      "desc": "Para a identidade que empreendeu o rito: aumente o poder das habilidades de luxúria em 2.",
+      "simpleDesc": [
+        {
+          "abilityID": 1043,
+          "simpleDesc": "Lust Power Power +2"
+        }
+      ]
+    },
+    {
+      "id": 1044,
+      "name": "Ritualist’s Right",
+      "desc": "Todos os aliados sofrem de -20% de danos causados ​​por ataques de luxúria.",
+      "simpleDesc": [
+        {
+          "abilityID": 1044,
+          "simpleDesc": "Danos causados ​​-20%"
+        }
+      ]
+    },
+    {
+      "id": 1046,
+      "name": "Green Skin",
+      "desc": "Se um aliado leva um ataque letal, eles curam 50% de seu HP máximo.\n(Uma vez por masmorra e expira após a ativação.)",
+      "simpleDesc": [
+        {
+          "abilityID": 1046,
+          "simpleDesc": "Cura 50% de Max HP"
+        }
+      ]
+    },
+    {
+      "id": 1048,
+      "name": "Topfhelm",
+      "desc": "Power de habilidade de defesa +1",
+      "simpleDesc": [
+        {
+          "abilityID": 1048,
+          "simpleDesc": "Power de habilidade de defesa +1"
+        }
+      ]
+    },
+    {
+      "id": 1049,
+      "name": "Hammer",
+      "desc": "Ao infligir tremor com efeitos de habilidade, inflige 1 mais com uma chance de 50%.",
+      "simpleDesc": [
+        {
+          "abilityID": 1049,
+          "simpleDesc": "Infligir 1 tremor adicional"
+        }
+      ]
+    },
+    {
+      "id": 1050,
+      "name": "Nagel",
+      "desc": "Ao infligir sangramento com efeitos de habilidade, inflige mais 1 com uma chance de 50%.",
+      "simpleDesc": [
+        {
+          "abilityID": 1050,
+          "simpleDesc": "Infligir 1 sangramento adicional"
+        }
+      ]
+    },
+    {
+      "id": 1051,
+      "name": "Nagel und Hammer Scriptures",
+      "desc": "Ao usar uma habilidade de orgulho, perca 5 sp, mas aumente seus danos em 5%",
+      "simpleDesc": [
+        {
+          "abilityID": 1051,
+          "simpleDesc": "Habilidades de orgulho custam 5 sp"
+        },
+        {
+          "abilityID": 10511,
+          "simpleDesc": "Dano de habilidade do orgulho +5%"
+        }
+      ]
+    },
+    {
+      "id": 1052,
+      "name": "Hot ‘n Juicy Drumstick",
+      "desc": "Ao infligir queimadura com efeitos de habilidade contra inimigos, infligir +5 de contagem de queimaduras.",
+      "simpleDesc": [
+        {
+          "abilityID": 1052,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 1053,
+      "name": "Dry-to-the-Bone Breast",
+      "desc": "Ao infligir ruptura com efeitos de habilidade contra inimigos, infligir +5 de ruptura.",
+      "simpleDesc": [
+        {
+          "abilityID": 1053,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 1054,
+      "name": "Tango Marinade",
+      "desc": "Os aliados ganham poder de conflito pela metade da velocidade contra os oponentes com menor velocidade.",
+      "simpleDesc": [
+        {
+          "abilityID": 1054,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 1055,
+      "name": "Contaminated Needle & Thread",
+      "desc": "A cada turno, a primeira habilidade de causar danos a um inimigo inflige sangramento por 1/3 dos danos causados.",
+      "simpleDesc": [
+        {
+          "abilityID": 1055,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 1056,
+      "name": "Sharp Needle & Thread",
+      "desc": "A cada turno, a primeira habilidade para causar danos a um inimigo causa dano fixo bônus por metade dos danos causados.",
+      "simpleDesc": [
+        {
+          "abilityID": 1056,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 2001,
+      "name": "Small Ampule",
+      "desc": "No início do turno, aliados com menos de 40% de hp cicatrizam 100% de HP máx. (Uma vez por andar)",
+      "simpleDesc": [
+        {
+          "abilityID": 2001,
+          "simpleDesc": "Cura completa condicional"
+        }
+      ]
+    },
+    {
+      "id": 2002,
+      "name": "Piece of Crumbled Egg",
+      "desc": "No primeiro turno de cada encontro, ganhe 2, por exemplo, recursos de uma afinidade aleatória de posse",
+      "simpleDesc": [
+        {
+          "abilityID": 2002,
+          "simpleDesc": "Ganhe 2, por exemplo, recursos para uma afinidade aleatória de propriedade"
+        }
+      ]
+    },
+    {
+      "id": 2003,
+      "name": "Cold Illusion",
+      "desc": "Castas de habilidades de gula +10% de dano",
+      "simpleDesc": [
+        {
+          "abilityID": 2003,
+          "simpleDesc": "Dano de habilidade da gula +10%"
+        }
+      ]
+    },
+    {
+      "id": 2004,
+      "name": "Sharp Illusion",
+      "desc": "Cabos de habilidades de orgulho +10% de dano",
+      "simpleDesc": [
+        {
+          "abilityID": 2004,
+          "simpleDesc": "Dano de habilidade do orgulho +10%"
+        }
+      ]
+    },
+    {
+      "id": 2005,
+      "name": "Fragrant Illusion",
+      "desc": "Skills Skills Cande +10% de dano",
+      "simpleDesc": [
+        {
+          "abilityID": 2005,
+          "simpleDesc": "Dano de habilidade da preguiça +10%"
+        }
+      ]
+    },
+    {
+      "id": 2006,
+      "name": "Trace of Stars",
+      "desc": "Quando abaixo de 0 SP, as habilidades sombrias e preguiçosas têm +1 poder final",
+      "simpleDesc": [
+        {
+          "abilityID": 2006,
+          "simpleDesc": "Habilidade melancolia e preguiçosa Power final +1 quando SP está abaixo de 0"
+        }
+      ]
+    },
+    {
+      "id": 2007,
+      "name": "Pungent Bud",
+      "desc": "Ao infligir afundar com efeitos de habilidade, aplique 1 a mais com uma chance de 50%",
+      "simpleDesc": [
+        {
+          "abilityID": 2007,
+          "simpleDesc": "Ao infligir afundar com efeitos de habilidade, aplique 1 a mais com uma chance de 50%"
+        }
+      ]
+    },
+    {
+      "id": 2008,
+      "name": "Hot Tears",
+      "desc": "Tome -10% de dano de afinidade da ira\nQuando atingido, ganha 1 ataque Power Up no próximo turno (uma vez por turno por pecador)",
+      "simpleDesc": [
+        {
+          "abilityID": 2009,
+          "simpleDesc": "Dano da ira retirado -20%"
+        },
+        {
+          "abilityID": 200901,
+          "simpleDesc": "Quando atingido, ganha 1 ataque Power Up no próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 2009,
+      "name": "Cooled Tear",
+      "desc": "Quando atacado, ganhe 1 proteção no próximo turno (uma vez por turno por pecador)",
+      "simpleDesc": [
+        {
+          "abilityID": 2009,
+          "simpleDesc": "Quando atingido, ganhe 1 proteção no próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 2010,
+      "name": "Memories of Fragments",
+      "desc": "Em um confronto, as habilidades de orgulho e inveja têm +1 poder de confronto",
+      "simpleDesc": [
+        {
+          "abilityID": 2010,
+          "simpleDesc": "Habilidade de orgulho e inveja Clash Power +1 em um confronto"
+        }
+      ]
+    },
+    {
+      "id": 2011,
+      "name": "Piece of a Torn Spring",
+      "desc": "Tome -10% dano da afinidade do orgulho\n\n[[TAG-I]] \"Eu sentiria um desejo de espalhar os ventos em azul exuberante, sentindo o influência de sementes mergulhando na minha mente rabisca.\" [[Tag-i]]",
+      "simpleDesc": [
+        {
+          "abilityID": 2011,
+          "simpleDesc": "Danos causados ​​pelo orgulho retirados -10%"
+        }
+      ]
+    },
+    {
+      "id": 2012,
+      "name": "Piece of a Torn Summer",
+      "desc": "Tome -10% de dano de gula -afinidade\n\n[[TAG-I]] \"Não vi nenhum significado em tentar entender os caprichos do clima. Eu simplesmente esperaria que as coisas se acalmassem, cuidando da chegada do dia.\" [[Tag-i]]",
+      "simpleDesc": [
+        {
+          "abilityID": 2012,
+          "simpleDesc": "Tome -10% de dano de gula -afinidade\n\n[[TAG-I]] \"Infelizmente, fiquei descuidado na minha suposição de que poderia simplesmente observar as vezes à medida que se trata de passar até que se infiltrar ... a realização chega tarde demais.\" [[Tag-i]]"
+        }
+      ]
+    },
+    {
+      "id": 2013,
+      "name": "Piece of a Torn Autumn",
+      "desc": "Tome -10% de dano de afinidade sombria\n\n[[TAG-I]] \"Infelizmente, fiquei descuidado na minha suposição de que poderia simplesmente observar as vezes à medida que se trata de passar até que se infiltrar ... a realização chega tarde demais.\" [[Tag-i]]",
+      "simpleDesc": [
+        {
+          "abilityID": 2013,
+          "simpleDesc": "Dano sombrio tomado -10%"
+        }
+      ]
+    },
+    {
+      "id": 2014,
+      "name": "Piece of a Torn Winter",
+      "desc": "Tome -10% de dano de afinidade de preguiça\n\n[[TAG-I]] \"A explosão da liga de nove quebrou tudo o que havia, e tudo parou para mim também.\" [[Tag-i]]",
+      "simpleDesc": [
+        {
+          "abilityID": 2014,
+          "simpleDesc": "Dano preguiçoso recebido -10%"
+        }
+      ]
+    },
+    {
+      "id": 2015,
+      "name": "Piece of a Broken Bond",
+      "desc": "As habilidades de Yi Sang ganham +2 de poder final\nQuando um aliado morre, os aliados restantes ganham 1 pressa e 1 ataque Power Up no próximo turno (uma vez por turno)\n\n[[TAG-I]] \"Dando um olhar para trás em nossas trilhas ... todos nós estamos sofrendo grandes perdas.\" [[Tag-i]]]",
+      "simpleDesc": [
+        {
+          "abilityID": 2015,
+          "simpleDesc": "Habilidade de Yi Sang Power Final +2"
+        },
+        {
+          "abilityID": 201501,
+          "simpleDesc": "Quando um aliado morre, os aliados restantes ganham 1 pressa e 1 ataque Power Up no próximo turno (uma vez por turno)"
+        }
+      ]
+    },
+    {
+      "id": 2016,
+      "name": "Piece of Reversing Memories",
+      "desc": "O nível de Yi Sang sobe para 35.\nAs camadas de Yi Sang Sang e Threadspin aumentam para o Nível 3.\n\n[[TAG-I]] \"Não éramos altíssimos nem abutres gananciosos; éramos apenas crianças que amavam a tecnologia\". [[Tag-i]]]",
+      "simpleDesc": [
+        {
+          "abilityID": 2016,
+          "simpleDesc": "O nível de Yi Sang sobe para 35."
+        },
+        {
+          "abilityID": 201601,
+          "simpleDesc": "As camadas de Yi Sang e Threadspin aumentam para o Nível 3"
+        }
+      ]
+    }
+  ]
+}

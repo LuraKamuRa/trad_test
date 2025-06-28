@@ -1,0 +1,142 @@
+{
+    "dataList": [
+        {
+            "id": "UninvitedGuest",
+            "name": "Interloper",
+            "desc": "Quando uma Identidade com Intruso for derrotada, mova para uma Identidade diferente sem Intruso.",
+            "summary": ""
+        },
+        {
+            "id": "ConnectedPlug",
+            "name": "Plugged In",
+            "desc": "Fim do turno:\n- Máx. 3\n- Em 3, fique Staggered no próximo turno.\n- Em 3, consuma toda a contagem de carga em si mesmo.",
+            "summary": ""
+        },
+        {
+            "id": "AntiSheepGround",
+            "name": "Anti-Ovine Grounding Plug",
+            "desc": "- Máx. 1\n- Quando uma unidade sob esse efeito vence um Clash contra a Habilidade 'Grounding Refusal', inflija 1 Plugged In contra o alvo\n- Reduz pela metade a contagem de carga no alvo\n- Expira no próximo turno",
+            "summary": ""
+        },
+        {
+            "id": "ThundercloudFormation",
+            "name": "Gathering Lightning Cloud",
+            "desc": "- Máx. 5\n- Com valor 1, use uma Habilidade poderosa.\n- Reduzido em 1 no Fim do Turno. Ganhe 1 valor quando Estorvado",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4A",
+            "name": "#1 Deployment Effect",
+            "desc": "Nível de Identidade +2\nQuando derrotado, ganhe Recursos E.G.O com base na Afinidade e Classificação de cada Habilidade de Ataque que esta unidade possui.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4B",
+            "name": "#2 Deployment Effect",
+            "desc": "SP Heal Efficiency +3\nEntry SP +10 (-10 para Minus Coin Identities)\nQuando derrotado, ganhe E.G.O Resources com base na Affinity e número de cada Attack Skill.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4C",
+            "name": "#3 Deployment Effect",
+            "desc": "Nível de Ofensa +2\nQuando derrotado, ganhe Recursos E.G.O com base na Afinidade e Classificação de cada Habilidade de Ataque que esta unidade possui.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4D",
+            "name": "#4 Deployment Effect",
+            "desc": "Nível de Defesa +2\nQuando derrotado, ganhe Recursos E.G.O com base na Afinidade e Classificação de cada Habilidade de Ataque que esta unidade possui.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4E",
+            "name": "#5 Deployment Effect",
+            "desc": "Começando o 2º turno: Velocidade Máxima +2\nQuando derrotado, ganhe Recursos E.G.O com base na Afinidade e Classificação de cada Habilidade de Ataque que esta unidade possui.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4F",
+            "name": "#6 Deployment Effect",
+            "desc": "HP Máx. +5%\nQuando derrotado, ganhe Recursos E.G.O com base na Afinidade e Classificação de cada Habilidade de Ataque que esta unidade possui.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4G",
+            "name": "#7 Deployment Effect",
+            "desc": "Clash Power +1\nEntry SP +15 (-15 para Minus Coin Identities)\nQuando derrotado, ganhe Recursos E.G.O com base na Afinidade e Classificação de cada Habilidade de Ataque que esta unidade possui.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4H",
+            "name": "#8 Deployment Effect",
+            "desc": "Dano recebido -10%\nSP de entrada +15 (-15 para identidades de moedas negativas)\nQuando derrotado, ganhe recursos E.G.O com base na afinidade e classificação de cada habilidade de ataque que esta unidade tiver.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4I",
+            "name": "#9 Deployment Effect",
+            "desc": "Aggro +5\nSP de entrada +20 (-20 para identidades de moedas negativas)\nQuando derrotado, ganhe recursos E.G.O com base na afinidade e classificação de cada habilidade de ataque que esta unidade possui.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4J",
+            "name": "#10 Deployment Effect",
+            "desc": "Dano causado +10%\nSP de entrada +20 (-10 para identidades de moedas negativas)\nQuando derrotado, ganhe recursos E.G.O com base na afinidade e classificação de cada habilidade de ataque que esta unidade tiver.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4K",
+            "name": "#11 Deployment Effect",
+            "desc": "Poder Final +1\nSP de Entrada +30 (-30 para Identidades de Moedas Menos)\nQuando derrotado, ganhe Recursos E.G.O com base na Afinidade e Classificação de cada Habilidade de Ataque que esta unidade possui.",
+            "summary": ""
+        },
+        {
+            "id": "Refraction4L",
+            "name": "#12 Deployment Effect",
+            "desc": "Nível de Identidade +3\nSP de Entrada +30 (-30 para Identidades de Moedas Menos)\nQuando derrotado, ganhe Recursos E.G.O com base na Afinidade e Classificação de cada Habilidade de Ataque que esta unidade possui.",
+            "summary": ""
+        },
+        {
+            "id": "BandageOfTheBoundKing",
+            "name": "Bandages of the King in Binds",
+            "desc": "Quando derrotado, inflija 2 Sinking Potency e 1 Count contra todos os inimigos.\nAplique Bandages of the King in Binds contra o alvo que derrotou esta unidade. Se o alvo já tiver esse efeito, ou se o alvo não existir, aplique-o a um inimigo aleatório sem esse efeito",
+            "summary": ""
+        },
+        {
+            "id": "ComeForwardToTheKing",
+            "name": "Moment of Audience",
+            "desc": "Ganhe +{0} de Peso de Atq para todas as Habilidades de Ataque desta unidade\nPerda de Choque: Ganhe 1 Frágil no próximo turno",
+            "summary": ""
+        },
+        {
+            "id": "RefractedWill",
+            "name": "Refracted Determination",
+            "desc": "Reduza pela metade a quantidade de SP perdida quando um aliado é derrotado, de acordo com os 'Fatores base que diminuem a Sanidade (SP)' da Identidade. (arredondado para baixo)",
+            "summary": ""
+        },
+        {
+            "id": "VioletPeccatulumTwo",
+            "name": "Peccatulum Invidiae?",
+            "desc": "- Dano Causado +15%\n- Dano Recebeu -15%",
+            "summary": ""
+        },
+        {
+            "id": "BigWelcome",
+            "name": "Grand Welcome",
+            "desc": "Após o Ataque: se o alvo estiver atordoado ou derrotado, ganhe +1 recurso E.G.O. de Orgulho e +1 recurso E.G.O para 1 outra Afinidade aleatória (3 vezes por turno)",
+            "summary": ""
+        },
+        {
+            "id": "BreathSupport",
+            "name": "Poised Showdown",
+            "desc": "Início da onda: ganhe 4 de Potência de Equilíbrio e Contagem.",
+            "summary": ""
+        },
+        {
+            "id": "FirmWill",
+            "name": "Resilient Determination",
+            "desc": "Não perde SP ao derrotar um aliado.",
+            "summary": ""
+        }
+    ]
+}

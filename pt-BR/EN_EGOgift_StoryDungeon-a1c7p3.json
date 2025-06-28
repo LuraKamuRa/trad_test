@@ -1,0 +1,190 @@
+{
+  "dataList": [
+    {
+      "id": 2047,
+      "name": "A Broken Dream",
+      "desc": "Ao obter este presente, por exemplo, obtenha os seguintes efeitos:\n• O nível de Don Quixote sobe para 50\n• As camadas de Don Quixote e Threadspin aumentam para o Nível 4\n(Se o nível, a camada subterrânea ou a camada de threadspin forem maiores que os valores acima, mantenha esses valores.)",
+      "simpleDesc": [
+        {
+          "abilityID": 2047,
+          "simpleDesc": "O nível de Don Quixote sobe para 50"
+        },
+        {
+          "abilityID": 204701,
+          "simpleDesc": "Don Quixote Uptie e Threadspin Tiers Aumentar para o Nível 4"
+        }
+      ]
+    },
+    {
+      "id": 2048,
+      "name": "La Manchaland All-day Pass",
+      "desc": "Acorrendo contra alvos com mais de 10 (soma de [[suporte]], 'sangramento único' e [[suporte]]): ganho 1 [[bracket]] potência e contagem (3 vezes por habilidade)",
+      "simpleDesc": [
+        {
+          "abilityID": 2048,
+          "simpleDesc": "Acorrendo contra alvos com mais de 10 (soma de [[suporte]], 'sangramento único' e [[suporte]]): ganho 1 [[bracket]] potência e contagem"
+        }
+      ]
+    },
+    {
+      "id": 2049,
+      "name": "La Manchaland Standard Pass",
+      "desc": "Primeira virada no início de um encontro: todas as unidades ganham 4 [[suporte]] potência e contagem.",
+      "simpleDesc": [
+        {
+          "abilityID": 2049,
+          "simpleDesc": "Primeira virada no início de um encontro: todas as unidades ganham 4 [[suporte]] potência e contagem."
+        }
+      ]
+    },
+    {
+      "id": 2050,
+      "name": "Token of Victory",
+      "desc": "Na matança com um dano de habilidade: 1 aliado com o menor SP cura 8 sp.\nApós o ataque: se um inimigo com mais de 10 (soma de [[suporte]]], 'sangramento único' e [[suporte]]) é derrotado, a unidade que matou esse inimigo ganha 2 [[suporte]] na próxima curva. (3 vezes por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 2050,
+          "simpleDesc": "On Kill, 1 aliado com o menor SP cura 8 sp."
+        },
+        {
+          "abilityID": 205001,
+          "simpleDesc": "Após o ataque: se um inimigo com mais de 10 (soma de [[suporte]]], 'sangramento único' e [[suporte]]) é derrotado, a unidade que matou esse inimigo ganha 2 [[suporte]] na próxima curva."
+        }
+      ]
+    },
+    {
+      "id": 2051,
+      "name": "Self-flagellation Whip",
+      "desc": "Quando 1 aliado atualmente com a maior porcentagem de HP usa uma habilidade de ataque, ganha 10 [[suporte]], 3 [[suporte]] e 3 [[suporte]]. (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 2051,
+          "simpleDesc": "Quando 1 aliado atualmente com a maior porcentagem de HP usa uma habilidade de ataque, ganha 10 [[suporte]], 3 [[suporte]] e 3 [[suporte]]."
+        }
+      ]
+    },
+    {
+      "id": 2052,
+      "name": "Mask of the Parade",
+      "desc": "Batalhas de cadeia: Quando um novo inimigo entra na batalha, inflige 5 [[suporte]] e +3 [[backet]] contam contra esse inimigo no início do combate.",
+      "simpleDesc": [
+        {
+          "abilityID": 2052,
+          "simpleDesc": "Batalhas de cadeia: Quando um novo inimigo entra na batalha, inflige 5 [[suporte]] e +3 [[backet]] contam contra esse inimigo no início do combate."
+        }
+      ]
+    },
+    {
+      "id": 2053,
+      "name": "Devouring Cube",
+      "desc": "Quando um aliado morrer, ganhe 1, por exemplo\nApós o ataque: se o inimigo for morto, ganhe 1 Random, por exemplo, Recurso (uma vez por habilidade)",
+      "simpleDesc": [
+        {
+          "abilityID": 2053,
+          "simpleDesc": "Quando um aliado morrer, ganhe 1, por exemplo"
+        },
+        {
+          "abilityID": 205301,
+          "simpleDesc": "Após o ataque: se o inimigo for morto, ganhe 1 Random, por exemplo, Recurso (uma vez por habilidade)"
+        }
+      ]
+    },
+    {
+      "id": 2054,
+      "name": "Endless Hunger",
+      "desc": "Primeira virada no início de um encontro: toda identidade no campo perde 5 sp e ganha 1 [[suporte]] por 3 voltas.\nSe a referida identidade é um fixo de sangue, perca 10 sp, ganhe 2 [[suporte]] por 3 voltas e infliga +1 mais [[suporte]] potência e contagem com seus efeitos de habilidade e moeda",
+      "simpleDesc": [
+        {
+          "abilityID": 2054,
+          "simpleDesc": "Primeira virada no início de um encontro: toda identidade no campo perde 5 sp e ganha 1 [[suporte]] por 3 voltas."
+        },
+        {
+          "abilityID": 205401,
+          "simpleDesc": "Se a referida identidade é um fixo de sangue, perca 10 sp, ganhe 2 [[suporte]] por 3 voltas e infliga +1 mais [[suporte]] potência e contagem com seus efeitos de habilidade e moeda"
+        }
+      ]
+    },
+    {
+      "id": 2055,
+      "name": "A Little Dream",
+      "desc": "Na vitória do Clash com uma habilidade de orgulho: Heal 5 sp.\nOn Hit após a vitória do Clash com a habilidade referida: infligir +1 [[suporte]] contagem e +1 [[suporte]] contagem (4 vezes por habilidade)",
+      "simpleDesc": [
+        {
+          "abilityID": 2055,
+          "simpleDesc": "Na vitória do Clash com uma habilidade de orgulho: Heal 5 SP, e no acerto após a vitória do Clash com a habilidade referida, infligir +1 [[bracket]] contagem e +1 [[bracket]] contagem"
+        }
+      ]
+    },
+    {
+      "id": 2056,
+      "name": "A Hollow Dream",
+      "desc": "Acorrente contra alvos com [[suporte]] ou 'sangramento exclusivo': cura 2 ~ 5 hp.\nHabilidades que consomem [[suporte]]: Power de moedas +1",
+      "simpleDesc": [
+        {
+          "abilityID": 2056,
+          "simpleDesc": "Cure o HP em acertos contra alvos com [[suporte]] ou 'sangramento único'."
+        },
+        {
+          "abilityID": 205601,
+          "simpleDesc": "Habilidades que consomem [[suporte]]: Power de moedas +1"
+        }
+      ]
+    },
+    {
+      "id": 2057,
+      "name": "The Dream Begins Anew",
+      "desc": "Todas as habilidades de Don Quixote ganham poder final +2\nQuando um aliado morre, os aliados restantes curam 15 sp e, no final, ganha 1 [[suporte]] próximo (Max [[bracket]]: 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 2057,
+          "simpleDesc": "Habilidade de Don Quixote Power Final +2"
+        },
+        {
+          "abilityID": 205701,
+          "simpleDesc": "Quando um aliado morre, os aliados restantes curam 15 sp e, na extremidade do turno, ganham 1 [[suporte]] no próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 2058,
+      "name": "Grimy Iron Stake",
+      "desc": "Ao atingir um inimigo usando uma habilidade de um único lance, infligir 1 [[suporte]] potência. Infligir 2 [[suporte]] até o final do próximo turno.\nSe o alvo já tiver [[suporte]] ou 'sangramento exclusivo', infligir 3 [[suporte]] potência.",
+      "simpleDesc": [
+        {
+          "abilityID": 2058,
+          "simpleDesc": "Infligir 1 [[suporte]] potência. Infligir 2 [[suporte]] até o final do próximo turno"
+        },
+        {
+          "abilityID": 205801,
+          "simpleDesc": "Infligir 3 [[suporte]] Potência"
+        }
+      ]
+    },
+    {
+      "id": 2059,
+      "name": "Barbed Lasso",
+      "desc": "Turn End: Infligir [[suporte]] potência em todos os inimigos iguais aos seus valores atuais de velocidade.\n\nAo ativar a ressonância absoluta da luxúria, aplique 3 [[suporte]] potência e +3 [[suporte]] contam um inimigo aleatório no início do combate.",
+      "simpleDesc": [
+        {
+          "abilityID": 2059,
+          "simpleDesc": "Infligir [[suporte]] Potência por velocidade"
+        },
+        {
+          "abilityID": 205901,
+          "simpleDesc": "Infligir 3 [[suporte]] Potência e +3 [[suporte]] contagem"
+        }
+      ]
+    },
+    {
+      "id": 2060,
+      "name": "Carmilla",
+      "desc": "No início de um encontro não focado, todos os inimigos sofrem danos fixos iguais a 20% de seu HP máximo.",
+      "simpleDesc": [
+        {
+          "abilityID": 2060,
+          "simpleDesc": "Causar 20% do máximo de HP como dano fixo"
+        }
+      ]
+    }
+  ]
+}

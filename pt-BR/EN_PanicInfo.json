@@ -1,0 +1,112 @@
+{
+  "dataList": [
+    {
+      "id": 1001,
+      "panicName": "Compulsão",
+      "lowMoraleDescription": "Vire o início: ganho 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] prenda [[tag-color]] [[tag-link]] [[tag-u]] e 2 [tag-sprite]] [[tag-color]] [tag-u]] [[tag-link]] frite]",
+      "panicDescription": "Turn Start: Perca 10 HP."
+    },
+    {
+      "id": 1002,
+      "panicName": "Outshash",
+      "lowMoraleDescription": "Vire o início: ganho 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] atacar Power Up [[tag-color]] [[tag-link]] [[tag-u]] e 2 [tag-sprite]] [[tag-color]] [tag-u] [[tag-tag-link]] fradile [tag]] [[tag-color]] [tag-u] [[tag-tag-link]] fradile [tag]] [[tag-color]] [tag-u] [[tag-tag-link]] fradile [tag]] [[tag-color]] [tag-u] [[tag-tag-link]] fradile [tag]] [[tag-color]] [tag-u] [[tag-tag-link]] fradile]",
+      "panicDescription": "Turn Start: Ally Random perde 20 sp."
+    },
+    {
+      "id": 1003,
+      "panicName": "Sobrecarregado",
+      "lowMoraleDescription": "Turn Start: Gain 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Atacar a energia para baixo [[tag-color]] [[tag-link]] [[tag-u]]",
+      "panicDescription": "Não age para este turno."
+    },
+    {
+      "id": 1004,
+      "panicName": "Atrofiado",
+      "lowMoraleDescription": "Turn Start: Gain 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Atacar a energia para baixo [[tag-color]] [[tag-link]] [[tag-u]]",
+      "panicDescription": "Turn Start: Gain 4 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Atacar a energia para baixo [[tag-color]] [[tag-link]] [[tag-u]]"
+    },
+    {
+      "id": 1005,
+      "panicName": "Agitado",
+      "lowMoraleDescription": "Vire o início: ganho 1 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] danificar [[tag-color]] [[tag-link]] [[tag-u]] e 2 [tag-sprite]] [[tag-color]] [[tag-u] [[tag-link]] frite] [[tag-color]] [[tag-u]] [[tag-link]] frite]",
+      "panicDescription": "Vire o início: ganho 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] danificar [[tag-color]] [[tag-link]] [[tag-u]] e 5 [[tag-sprite]] [[tag-color]] [[tag-u] [[tag-link]] frite]"
+    },
+    {
+      "id": 1006,
+      "panicName": "Correndo",
+      "lowMoraleDescription": "Não age. Quando atingido, esta unidade é derrotada após o término da habilidade.",
+      "panicDescription": ""
+    },
+    {
+      "id": 1007,
+      "panicName": "Tristeza",
+      "lowMoraleDescription": "Ganho 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Danificar [[tag-color]] [[tag-link]] [[tag-u]] cada turno",
+      "panicDescription": "Ganho 5 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] danificar [[tag-color]] [[tag-link]] [[tag-u]] e 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] fradile [tag-cor]]"
+    },
+    {
+      "id": 1008,
+      "panicName": "Enlouquecido",
+      "lowMoraleDescription": "Quando no baixo moral pela primeira vez, tem como alvo as unidades indiscriminadamente",
+      "panicDescription": "Tem como alvo indiscriminadamente; Poder de conflito +1 e ganho 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] danificar [[tag-color]] [[tag-link]] [[tag-u]]]"
+    },
+    {
+      "id": 1009,
+      "panicName": "Suicida",
+      "lowMoraleDescription": "Quando em baixo moral pela primeira vez, torne -se incapaz de agir",
+      "panicDescription": "Não pode agir por 3 voltas. Após 3 voltas, a unidade morre no Start Turn; Todos os seus aliados perdem 10 SP adicionais com cada condição de perda de SP"
+    },
+    {
+      "id": 1010,
+      "panicName": "Wandering",
+      "lowMoraleDescription": "Turn End: Deal 2 SP danos aos aliados",
+      "panicDescription": "Turn End: Dar 5 SP Danos aos Aliados. Foge da batalha após três turnos passaram"
+    },
+    {
+      "id": 1011,
+      "panicName": "Instável",
+      "lowMoraleDescription": "Vire o início: ganho 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] atacar Power Up [[tag-color]] [[tag-link]] [[tag-u]] e 3 [tag-sprite]]",
+      "panicDescription": "Vire início: fique escalonado"
+    },
+    {
+      "id": 1012,
+      "panicName": "Dejeção",
+      "lowMoraleDescription": "Ganho 1 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] frágil [[tag-color]] [[tag-link]] [[tag-u]]; Em um confronto, se houver qualquer moeda aterrar a caudas, o Clash Power -1 para o confronto.",
+      "panicDescription": "Ganho 3 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] frágil [[tag-color]] [[tag-link]] [[tag-u]]; Em um confronto, se houver qualquer moeda aterrar a caudas, o Clash Power -3 para o confronto."
+    },
+    {
+      "id": 9999,
+      "panicName": "Pânico",
+      "lowMoraleDescription": "",
+      "panicDescription": "Não age para este turno."
+    },
+    {
+      "id": 1013,
+      "panicName": "Impureza",
+      "lowMoraleDescription": "Ganho 1 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] frágil [[tag-color]] [[tag-link]] [[tag-u]]. O alvo perde 2 sp se esta unidade perder o confronto",
+      "panicDescription": "Ganho 1 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] frágil [[tag-color]] [[tag-link]] [[tag-u]]. O alvo perde 5 SP se esta unidade perder o confronto"
+    },
+    {
+      "id": 1014,
+      "panicName": "Vingança",
+      "lowMoraleDescription": "Vire o início: ganho 1 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] atacar Power Up [[tag-color]] [[tag-link]] [[tag-u]] e 3 [tag-sprite]] [[tag-color]] [tag-u] [tag] [[tag-link] nível de defesa] Gain [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] danificar [[tag-color]] [[tag-link]] [[tag-u]] com base na quantidade de danos causados ​​pela última vez (1 tag-link] [[tag-sprite]] [[tag-color]] [[tag-u]] [tag-link] danos] 3% de Max HP perdido)",
+      "panicDescription": "Vire o início: ganho 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] atacar Power Up [[tag-color]] [[tag-link]] [[tag-u]] e 6 [tag-sprite]] [[tag-color]] [tag-u] [tag] [[tag-link] nível de defesa] Gain [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] danificar [[tag-color]] [[tag-link]] [[tag-u]] com base na quantidade de danos causados ​​pela última vez (1 tag-link] [[tag-sprite]] [[tag-color]] [[tag-u]] [tag-link] danos] 3% de Max HP perdido)"
+    },
+    {
+      "id": 1015,
+      "panicName": "Pânico pálido",
+      "lowMoraleDescription": "[[Suporte]] +2",
+      "panicDescription": "Cada extremidade de volta: Ganhe 2 [[tag-sprite]] [[tag-color]] [[tag-u]] [[tag-link]] Bind [[tag-color]] [[tag-link]] [[tag-u]].\nCada moeda que esta unidade vira pousa nas caudas."
+    },
+    {
+      "id": 1016,
+      "panicName": "Ressentimento",
+      "lowMoraleDescription": "Turn Start: Gain 2 [[Bracket]] e 3 [[suporte]]]",
+      "panicDescription": "Turn Start: Gain 1 [[Bracket]] e 5 [[suporte]]]"
+    },
+    {
+      "id": 1026,
+      "panicName": "Ruína",
+      "lowMoraleDescription": "Ganhe 3 [[suporte]] a cada curva; Poder de confronto -1",
+      "panicDescription": "Ganhe 5 [[suporte]] e +3 [[backet]] contam a cada turno; Poder de conflito -2"
+    }
+  ]
+}

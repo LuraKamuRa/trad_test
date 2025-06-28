@@ -1,0 +1,130 @@
+{
+    "dataList": [
+        {
+            "id": "BloodyHand",
+            "name": "Bloodied Hand",
+            "desc": "- Valor Máximo: 10\n- Valor Base: 0\n- Com 10 de Pilha: inflija +1 de Ruptura adicional ao Acertar com a Habilidade desta unidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloomingThorns",
+            "name": "Blooming Thorn",
+            "desc": "- Valor Máximo: 10\n- Ao receber dano de Habilidades, inflija Sangramento igual a metade da Pilha desse efeito contra o Atacante (arredondado para cima)",
+            "summary": "Infligir Sangramento igual a Pilha contra o Atacante",
+            "undefined": "-"
+        },
+        {
+            "id": "BloomingThorns_2nd",
+            "name": "Bloodwoven Thorn",
+            "desc": "- Quaisquer efeitos que ganhem Blooming Thorn ganham esse efeito em vez disso\n- Valor Máximo: 10\n- Início do Turno: ganhe 1 Aumento de Nível de Ofensa a cada 3 Acumulações (máx. 3)\n- Ao receber dano de Habilidades, inflija Sangramento igual a Acumulação deste efeito contra o Atacante, então perca 1 Acumulação (arredondado para cima)\n- Ao Acertar, inflija +1 a mais de Sangramento e Contagem de Sangramento com os efeitos de Habilidade desta unidade\n- Ao aplicar Aumento de Nível de Ofensa ou Aumento de Nível de Defesa a outro aliado com efeitos de Moeda de Habilidade, aplique 1 Aumento de Poder de Conflito no próximo turno também\n- Todas as Habilidades que consomem Bloodfeast ganham Poder de Moeda +1",
+            "summary": "Infligir Sangramento no Atacante igual a Pilha\nInfligir +1 a mais de Potência de Sangramento e Contagem\nAplicar 1 Clash Power Up aos aliados\nSe a Habilidade consumir Bloodfeast, Poder de Moeda +1",
+            "undefined": "-"
+        },
+        {
+            "id": "BloomingThorns_3rd",
+            "name": "Bloodmolded Thorn",
+            "desc": "- Quaisquer efeitos que ganhem Blooming Thorn ganham esse efeito em vez disso\n- Valor Máximo: 10\n- Início do Turno: ganhe 1 Aumento de Nível de Ofensa por 2 Acumulações (máx. 5)\n- Ao receber dano de Habilidades, inflija Sangramento igual a Acumulação deste efeito contra o Atacante, então perca 1 Acumulação (arredondado para cima)\n- Ao Acertar, inflija +2 a mais de Sangramento e Contagem de Sangramento com os efeitos de Habilidade desta unidade\n- Ao aplicar Aumento de Nível de Ofensa ou Aumento de Nível de Defesa a outro aliado com efeitos de Moeda de Habilidade, aplique 2 Aumento de Poder de Conflito no próximo turno também\n- Todas as Habilidades que consomem Bloodfeast ganham Poder de Moeda +2 e causam +50% a mais de dano\n- Ao usar a Habilidade 'The Parade Repeats for Eternity', em vez de curar HP, cure o mesmo valor que SP",
+            "summary": "Infligir Sangramento no Atacante igual a Pilha\nInfligir +2 a mais de Potência de Sangramento e Contagem\nAplicar 2 Clash Power Up aos aliados\nSe a Habilidade consumir Bloodfeast, Coin Power +2 e causar +50% a mais de dano",
+            "undefined": "-"
+        },
+        {
+            "id": "FestivalFever",
+            "name": "Festive Fever",
+            "desc": "- Valor Máximo: 10\n- Início do Turno: ganhe 1 Aumento de Nível de Ofensa por 3 Pilhas (máx. 3)\n- Usado para habilidades especiais",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "IncompleteParade",
+            "name": "Imperfect Parade",
+            "desc": "- Valor Máximo: 50\n- Ganhe 2 quando um Bloodbag morre\n- Ganhe 3 quando um Bloodfiend morre\n- Início do Turno: ganhe 1 Frágil toda vez que esta unidade consumir 5 Stack cumulativos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FamineBloodDolci_LowMorale",
+            "name": "Bridle of Nihility",
+            "desc": "- Moral baixo\n- Início do turno: ganhe 1 aumento de poder de ataque e 3 redução de nível de defesa\n- Fim do turno: receba 5 de dano de SP",
+            "summary": "Ganhe 1 aumento de poder de ataque e 3 níveis de defesa reduzidos",
+            "undefined": "-"
+        },
+        {
+            "id": "FamineBloodDolci_Panic",
+            "name": "Bridle of Nihility",
+            "desc": "- Pânico\n- Início do turno: ganhe 2 Poderes de Ataque Aumentados e 6 de Defesa Reduzidos\n- Fim do turno: cure 10 SP",
+            "summary": "Ganhe 2 Poderes de Ataque Aumentados e 6 Níveis de Defesa Diminuídos",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingDolcineaOne",
+            "name": "Withered",
+            "desc": "- Morreu de fome por sangue por um longo, longo tempo.\n- Perca 35 de nível de ataque\n- Perca 35 de nível de defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingDolcineaServant",
+            "name": "Withered",
+            "desc": "- Faminto por sangue por um longo, longo tempo.\n- Perca 15 níveis de ataque\n- Perca 15 níveis de defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ThornyFall_LowMorale",
+            "name": "Thorns",
+            "desc": "Vitória no confronto: ganhe 1 de dano",
+            "summary": "Vitória no confronto: ganhe 1 de dano",
+            "undefined": "-"
+        },
+        {
+            "id": "ThornyFall_Panic",
+            "name": "Thorns",
+            "desc": "Vitória no Clash: ganhe 1 de aumento de dano\nFim do turno: ganhe 2 de aumento de poder no Clash no próximo turno",
+            "summary": "Vitória no confronto: ganhe 1 de dano",
+            "undefined": "-"
+        },
+        {
+            "id": "HonorableDuel_Don",
+            "name": "Honorable Duel",
+            "desc": "Um conto de aventuras relembrado\nTorne-se imensamente poderoso",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "HonorableDuel_Knight",
+            "name": "Honorable Duel",
+            "desc": "Contos de aventura relembrados",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingPriestOne",
+            "name": "Withered",
+            "desc": "- Faminto por sangue por um longo, longo tempo.\n- Perca 15 níveis de ataque\n- Perca 15 níveis de defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FamineBloodPriestServant_LowMorale",
+            "name": "Hunger",
+            "desc": "- Moral baixo\n- Início do turno: ganhe 1 aumento de poder de choque e 3 níveis de defesa reduzidos\n- Fim do turno: receba 5 de dano SP",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FamineBloodPriestServant_Panic",
+            "name": "Hunger",
+            "desc": "- Pânico\n- Início do turno: ganhe 2 Clash Power Up e 6 Defense Level Down\n- Fim do turno: cure 10 SP",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnstoppableFunny",
+            "name": "Unstoppable Bliss",
+            "desc": "Ao morrer:\n- Ganhe 1 recurso E.G.O para 3 recursos E.G.O menos possuídos\n- Inflija +3 Contagem de Sangramento contra um inimigo (prioriza a unidade que matou esta unidade)\n- Todos os aliados com 5+ Febre Festiva ganham 1 Aceleração no próximo turno\n- Todos os aliados sem Febre Festiva ganham 1 Aumento de Poder de Choque",
+            "summary": "Ganhe 1 de cada 3 recursos E.G.O\nInfligir +3 Contagem de Sangramento",
+            "undefined": "-"
+        }
+    ]
+}

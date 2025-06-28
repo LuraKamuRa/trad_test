@@ -1,0 +1,42 @@
+{
+    "dataList": [
+        {
+            "id": "AaCfPbBe",
+            "name": "Marked Prey",
+            "desc": "- Com cada golpe que esta unidade recebe, recebe dano de Slash bônus igual a 10% do dano de HP recebido. Expira no próximo turno.\n- Se esta unidade não receber dano durante este turno, inflige 1 Complexo de Inferioridade após o ataque e expira\n- Valor Máximo: 1",
+            "summary": "Receba dano de Corte bônus igual a 10% do dano de HP recebido",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBf",
+            "name": "Inferiority Complex",
+            "desc": "- Toda vez que esta unidade for atingida, receba ((20% do dano HP recebido) * Valor) de dano\n- Valor Máximo: 5",
+            "summary": "Receber ((20% do dano de HP recebido) * Valor) de dano",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBa",
+            "name": "Explosive Gloom",
+            "desc": "- Resistência de Afinidade de Obscuridade +0,3\n- Resistência de Outra Afinidade -0,5\n- Quando atingido: inflija 3 de dano de SP no atacante, ganhe 1 Contagem de Afundamento e ganhe 1 Aumento de Nível de Ofensa no próximo turno (9 vezes por turno)",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBb",
+            "name": "Explosive Envy",
+            "desc": "- Resistência de Afinidade de Inveja +0,3\n- Resistência de Outra Afinidade -0,5\n- Quando atingido: aplique 1 Aumento de Nível de Ofensa, inflija 2 Sangramento e 2 Contagem de Sangramento no atacante e ganhe 1 Redução de Nível de Defesa no próximo turno (9 vezes por turno)",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBc",
+            "name": "Explosive Wrath",
+            "desc": "- Resistência de Afinidade à Ira +0,3\n- Resistência a Outras Afinidades -0,5\n- Quando atingido: Ganhe 1 Nível de Ataque Aumentado e 1 Nível de Defesa Diminuído no próximo turno (9 vezes por turno)",
+            "undefined": "-"
+        },
+        {
+            "id": "AaCfPbBd",
+            "name": "Deep Bereavement",
+            "desc": "Início do turno: Perca 5 de Velocidade e ganhe 5 de Nível de Defesa Reduzido",
+            "undefined": "-"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "dataList": [
+        {
+            "id": "railway_dungeon_alarm_buff_no_one_select_for_heal",
+            "content": "Sem ID recuperável"
+        },
+        {
+            "id": "railway_dungeon_alarm_buff_no_one_select_for_resurrect",
+            "content": "Sem identificação revivível"
+        },
+        {
+            "id": "railway_dungeon_healable",
+            "content": "Recuperável"
+        },
+        {
+            "id": "railway_dungeon_resurrectable",
+            "content": "Revivível"
+        },
+        {
+            "id": "railway_dungeon_ask_to_select_buff_and_rotate",
+            "content": "Retornar ao<color=#0f7137>Primeira parada</color>?\n<size=90%>Fazer isso aumenta sua contagem de ciclos, \nE você pode selecionar 1<color=#0f7137>Ally Buff</color>& 1<color=#990000>Buff inimigo</color>.</size>"
+        },
+        {
+            "id": "railway_dungeon_current_rotation_count_title",
+            "content": "Contagem de ciclo:"
+        },
+        {
+            "id": "railway_dungeon_rotation_count",
+            "content": "Contagem de ciclo"
+        },
+        {
+            "id": "railway_dungeon_cumulative_turn_count",
+            "content": "Voltas totais"
+        },
+        {
+            "id": "railway_dungeon_2_banner_reward_condition_1",
+            "content": "Obtido pela linha de limpeza 2 com {1} ou mais contagens de ciclo"
+        },
+        {
+            "id": "railway_dungeon_2_banner_reward_condition_2",
+            "content": "Obtido pela linha de limpeza 2 com {1} ou mais contagens de ciclo"
+        },
+        {
+            "id": "railway_dungeon_2_banner_reward_condition_3",
+            "content": "Obtido pela linha de limpeza 2 com {1} ou mais contagens de ciclo e sob {0} voltas totais"
+        },
+        {
+            "id": "railway_dungeon_2_banner_reward_condition_4",
+            "content": "Obtido pela linha de limpeza 2 com {1} ou mais contagens de ciclo antes<color=#d6e7f2>Temporada 2: reminiscência</color>termina"
+        },
+        {
+            "id": "railway_dungeon_2_banner_reward_condition_5",
+            "content": "Obtido pela linha de limpeza 2 com {1} ou mais contagens de ciclo antes<color=#d6e7f2>Temporada 2: reminiscência</color>termina"
+        },
+        {
+            "id": "railway_dungeon_2_banner_reward_condition_6",
+            "content": "Obtido pela linha de limpeza 2 com {1} ou mais contagens de ciclo e {0} ou menos voltas totais antes<color=#d6e7f2>Temporada 2: reminiscência</color>termina"
+        },
+        {
+            "id": "railway_dungeon_2_buff_list",
+            "content": "Lista de buffs"
+        },
+        {
+            "id": "railway_dungeon_2_dummy_buff_name_1",
+            "content": "Nome de Buff 1 (manequim)"
+        },
+        {
+            "id": "railway_dungeon_2_dummy_buff_name_2",
+            "content": "Nome do Buff 2 (manequim)"
+        },
+        {
+            "id": "railway_dungeon_2_dummy_buff_name_3",
+            "content": "Nome do Buff 3 (manequim)"
+        },
+        {
+            "id": "railway_dungeon_2_dummy_buff_name_4",
+            "content": "Nome de Buff 4 (boneco)"
+        },
+        {
+            "id": "railway_dungeon_2_dummy_buff_name_5",
+            "content": "Nome do Buff 5 (boneco)"
+        },
+        {
+            "id": "railway_dungeon_2_no_owned_buff_desc",
+            "content": "Sem buffs ativos."
+        },
+        {
+            "id": "railway_dungeon_2_buff_effect_title",
+            "content": "Lista de buffs selecionados"
+        },
+        {
+            "id": "railway_dungeon_2_current_buff",
+            "content": "Status de buff"
+        },
+        {
+            "id": "railway_dungeon_2_buff_acquire_ally_buff",
+            "content": "Selecione 1<style=\"railwayDungeonAlly\">Ally Buff</style>."
+        },
+        {
+            "id": "railway_dungeon_2_buff_acquire_enemy_buff",
+            "content": "Selecione 1<style=\"railwayDungeonEnemy\">Buff inimigo</style>."
+        },
+        {
+            "id": "railway_dungeon_2_buff_not_selectable",
+            "content": "Não pode ser selecionado neste ciclo."
+        },
+        {
+            "id": "railway_dungeon_2_buff_fixed_selection",
+            "content": "Escolha fixa"
+        },
+        {
+            "id": "railway_dungeon_2_select_buff_popup_title",
+            "content": "Selecione Buffs"
+        },
+        {
+            "id": "railway_dungeon_2_select_ally_buff",
+            "content": "Selecione Ally Buff"
+        },
+        {
+            "id": "railway_dungeon_2_select_enemy_buff",
+            "content": "Selecione Buff inimigo"
+        },
+        {
+            "id": "railway_dungeon_2_ally_buff",
+            "content": "Ally Buffs"
+        },
+        {
+            "id": "railway_dungeon_2_enemy_buff",
+            "content": "Inimigo Buffs"
+        },
+        {
+            "id": "railway_dungeon_2_select_resurrect",
+            "content": "Selecione identidade para reviver"
+        },
+        {
+            "id": "railway_dungeon_2_empty_selected_buffs",
+            "content": "Sem buffs selecionados."
+        },
+        {
+            "id": "railway_dungeon_2_ask_retry_when_all_died",
+            "content": "Todos os seus pecadores estão mortos. Você não pode mais continuar o encontro.\nVoltar ao estado imediatamente antes de entrar nesta fase?"
+        },
+        {
+            "id": "railway_dungeon_2_ask_retry_when_defeat",
+            "content": "Voltar ao estado imediatamente antes de entrar nesta fase?"
+        },
+        {
+            "id": "railway_dungeon_2_ask_retry_when_defeat_info",
+            "content": "※ Se você optar por continuar, pode usar os pecadores restantes para continuar a batalha. Os efeitos inimigos de HP e buff são transferidos."
+        },
+        {
+            "id": "railway_dungeon_2_retry_stage",
+            "content": "Repetir estágio"
+        },
+        {
+            "id": "railway_dungeon_2_retry_popup_exit",
+            "content": "Estágio final"
+        },
+        {
+            "id": "railway_dungeon_2_retry_popup_continue",
+            "content": "Continuar"
+        },
+        {
+            "id": "railway_dungeon_2_retry_popup_retry",
+            "content": "Tente novamente"
+        },
+        {
+            "id": "railway_dungeon_2_rotation_count",
+            "content": "({0} contagem de ciclo)"
+        },
+        {
+            "id": "railway_dungeon_2_rotation_count_short",
+            "content": "Ciclo: {0}"
+        },
+        {
+            "id": "railway_dungeon_2_turn_count_short",
+            "content": "Turnos: {0}"
+        },
+        {
+            "id": "railway_dungeon_2_rotation_node",
+            "content": "Ciclo"
+        },
+        {
+            "id": "railway_dungeon_2_reward_condition_special_ticket",
+            "content": "※ obtido pela linha de limpeza 2 com<color=#005823>{1}</color>ou mais contagens de ciclo e<color=#005823>{0}</color>ou menos voltas totais antes<color=#32434f>Temporada 2: reminiscência</color>termina"
+        },
+        {
+            "id": "railway_dungeon_2_special_reward_title",
+            "content": "Recompensas especiais"
+        },
+        {
+            "id": "railway_dungeon_2_fixed_enemy_buff",
+            "content": "Fustores inimigos fixos"
+        },
+        {
+            "id": "railway_dungeon_2_pass_station",
+            "content": "Estação de passagem"
+        },
+        {
+            "id": "railway_dungeon_2_next_station",
+            "content": "Próxima estação"
+        },
+        {
+            "id": "railway_dungeon_2_final_station",
+            "content": "O terminal"
+        },
+        {
+            "id": "railway_dungeon_2_banner_reward_condition_7",
+            "content": "Obtido pela linha de limpeza 2 com {1} ou mais contagens de ciclo e {0} ou menos voltas totais antes<color=#d6e7f2>Temporada 2: reminiscência</color>termina (deve ser um recorde de uma corrida iniciada após 2023.09.15 20:15 (kst))"
+        },
+        {
+            "id": "railway_dungeon_2_reward_condition_special_ticket_14",
+            "content": "Obtido pela linha de limpeza 2 com<color=#005823>{1}</color>ou mais contagens de ciclo e<color=#005823>{0}</color>ou menos voltas totais\nantes<color=#32434f>Temporada 2: reminiscência</color>termina\n(Deve ser um recorde de uma corrida iniciada após 2023.09.15 20:15 (KST))"
+        },
+        {
+            "id": "railway_dungeon_2_current_battle_turn_count",
+            "content": "Turns tiradas nesta estação:<style=\"number_highlight\"><size=\"60%\">{0}</size></style>"
+        },
+        {
+            "id": "railway_dungeon_2_ask_retry_when_defeat_info_turn_count",
+            "content": "※ Ao concluir a estação,<style=\"yellow\">Reviravoltas na estação atual</style>será adicionado ao<style=\"yellow\">Voltas totais</style>."
+        },
+        {
+            "id": "railway_dungeon_2_ask_retry_when_defeat_info_save_battle",
+            "content": "Se você optar por continuar, poderá usar os pecadores restantes para continuar a batalha. Os efeitos inimigos de HP e buff são transferidos."
+        },
+        {
+            "id": "railway_dungeon_2_ask_retry_when_all_died_turn_count",
+            "content": "※ <style=\"yellow\">Reviravoltas na estação atual</style>será adicionado ao<style=\"yellow\">Voltas totais</style>Somente depois de concluir a estação."
+        }
+    ]
+}

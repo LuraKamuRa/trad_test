@@ -1,0 +1,200 @@
+{
+    "dataList": [
+        {
+            "id": 9732,
+            "name": "Economy Class Discount Voucher",
+            "desc": "Fim do turno: entre Identidades com Velocidade 5, aquela com a Velocidade mais lenta ganha 1 [Agilidade] no próximo turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9732,
+                    "simpleDesc": "Gain 1 Haste next turn"
+                }
+            ]
+        },
+        {
+            "id": 9733,
+            "name": "Canned Ice Cream",
+            "desc": "Quando um aliado perde HP devido ao efeito de sua própria Habilidade de Ataque, cura metade do HP perdido devido ao efeito da Habilidade no próximo Início de Turno. (arredondado para baixo)\n\nQuando um aliado cura HP devido a um efeito de Habilidade E.G.O, cura +12,5% mais HP. (arredondado para baixo)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9733,
+                    "simpleDesc": "Heal HP at the next Turn Start"
+                },
+                {
+                    "abilityID": 97331,
+                    "simpleDesc": "Enhance E.G.O HP Heal effects"
+                }
+            ]
+        },
+        {
+            "id": 9734,
+            "name": "E-Type Dimensional Dagger",
+            "desc": "Habilidade 1 que ganham [Carga] Contagem ou 'Carga Única' ganham Poder de Choque +1 e causam +5% a mais de dano.\n\nSe essa Habilidade 1 for uma Habilidade de moeda única, ganhe Poder de Choque +1 e cause +12,5% a mais de dano.\n\nSe uma Identidade da W Corp. causar dano a um inimigo com uma Habilidade de Inveja (incluindo Habilidades E.G.O), inflija 2 HP de Cura para Baixo. (não acumula)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9734,
+                    "simpleDesc": "Skill 1 gains Clash Power and deals more damage"
+                },
+                {
+                    "abilityID": 97341,
+                    "simpleDesc": "Skill 1 gains Clash Power and deals more damage"
+                },
+                {
+                    "abilityID": 97342,
+                    "simpleDesc": "Inflict 2 HP Healing Down"
+                }
+            ]
+        },
+        {
+            "id": 9735,
+            "name": "Portable Barrier Battery",
+            "desc": "Habilidade 1 que ganha [Carga] Contagem ou 'Carga Única' ganha Poder de Choque +2.\n\nAo usar uma Habilidade 1 que ganha [Carga] Contagem, ganhe +2 [Carga] Contagem e 1 [CargaForçaCampo]. (uma vez por turno)\n\nSe uma Identidade W Corp. receber dano de HP devido a qualquer efeito que não seja dano direto, ganhe 5 [CargaForçaCampo]. (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9735,
+                    "simpleDesc": "Skill 1 gains Clash Power, Charge Count, and Charge Barrier"
+                },
+                {
+                    "abilityID": 97351,
+                    "simpleDesc": "Gain Charge Barrier"
+                }
+            ]
+        },
+        {
+            "id": 9736,
+            "name": "Biogenerative Battery",
+            "desc": "Aliados com [Carga] Contagem ou 'Carga Única' ganham 1 Nível de Ofensa a cada Choque. (máx. 6. Reinicia após Ataque)\n\nFim do Turno: Identidades com 10+ ([Carga] Contagem + 'Carga Única') ganham 1 [Agilidade] no próximo turno. Em 18+ ([Carga] Contagem + 'Carga Única'), ganham 3 [AtaqueAumentar] também.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9736,
+                    "simpleDesc": "Gain Offense Level"
+                },
+                {
+                    "abilityID": 97361,
+                    "simpleDesc": "Gain Haste"
+                },
+                {
+                    "abilityID": 97362,
+                    "simpleDesc": "Gain Offense Level Up"
+                }
+            ]
+        },
+        {
+            "id": 9737,
+            "name": "Cardiovascular Reactive Module",
+            "desc": "Quando um aliado com [Charge] Count ou 'Unique Charge' perde um Clash, ganha Escudo igual a ([Charge] Count + 'Unique Charge'). (uma vez por turno)\n\nQuando estiver com 50%- HP, ganha (([Charge] Count + 'Unique Charge') x 2) Escudo em vez disso. (uma vez por turno)\n\nSe uma MultiCrack Office Identity recebeu dano de HP durante este Encontro: no próximo turno, eles curam 33% do HP perdido no último turno. (arredondado para baixo)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9737,
+                    "simpleDesc": "Gain Shield"
+                },
+                {
+                    "abilityID": 97371,
+                    "simpleDesc": "Heal HP based on HP lost last turn"
+                }
+            ]
+        },
+        {
+            "id": 9738,
+            "name": "Prosthetic Joint Servos",
+            "desc": "Próximo turno: os aliados ganham [Agilidade] e Contagem de [Carga] igual ao número de Contagem de [Carga] ou 'Carga Única' ganhando Habilidades de Ataque base que eles usaram neste turno. (máx. 2)\n\nQuando uma Identidade de Escritório MultiCrack ganha ou consome Contagem de [Carga] com uma Habilidade de Ataque base, eles ganham +1 Contagem de [Carga] adicional. (máx. 2)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9738,
+                    "simpleDesc": "Gain Haste and Charge Count"
+                },
+                {
+                    "abilityID": 97381,
+                    "simpleDesc": "Gain more Charge Count"
+                }
+            ]
+        },
+        {
+            "id": 9739,
+            "name": "Crystallized Blood",
+            "desc": "Fim do turno: Se esta unidade tiver [Laceração], reduza pela metade a Potência de [Laceração] em si mesmo e cure (Potência de [Laceração] reduzida x Contagem de [Laceração] em si mesmo) HP. (arredondado para baixo. Pode curar até 10% do HP máximo de uma vez)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9739,
+                    "simpleDesc": "Halve Bleed Potency on self, heal HP"
+                }
+            ]
+        },
+        {
+            "id": 9740,
+            "name": "Automated Joints",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que ganham Contagem de [Carga] ou efeitos de 'Carga Única'. (Sem contar Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nHabilidades de Ataque Base que consomem Contagem de [Carga] ou 'Carga Única': ganham Poder de Moeda +1 e causam +(soma de Contagem de [Carga] e 'Carga Única' consumidas por essa Habilidade x 4)% a mais de dano (máx. 40%)\n\nFim do Turno: aliados com Contagem de [Carga] ou 'Carga Única' ganham 1 [Agilidade] (máx. 2) e 1 [AtaqueDmgUp] (máx. 3) para cada instância em que usaram uma Habilidade de Ataque base que consome Contagem de [Carga] ou 'Carga Única' neste Encontro.\n\nSe uma Identidade MultiCrack Office tiver 5+ [Carga], eles ganham Poder de Moeda +1 para Habilidades de Ataque base.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9740,
+                    "simpleDesc": "Gain Coin Power and deal more damage"
+                },
+                {
+                    "abilityID": 97401,
+                    "simpleDesc": "Gain Haste and Damage Up next turn"
+                },
+                {
+                    "abilityID": 97402,
+                    "simpleDesc": "Gain Coin Power"
+                }
+            ]
+        },
+        {
+            "id": 9741,
+            "name": "Overcharged Battery",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que ganham efeitos de Contagem de [Carga] ou 'Carga Única'. (Sem contar Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nHabilidades de Ataque Base que consomem Contagem de [Carga] ou 'Carga Única': ganham Poder de Moeda +1 e causam +(soma de Contagem de [Carga] e 'Carga Única' consumidas por essa Habilidade x 4)% a mais de dano (máx. 40%)\n\nQuando aliados com Contagem de [Carga] ou 'Carga Única' se envolvem em Conflitos com Habilidades de Ataque base: Poder de Conflitos +2; ganham +3 Contagem de [Carga] após Vitória de Conflitos e perdem 6 Contagens de [Carga] após Perda de Conflitos.\n\nAo vencer um Conflito com uma Habilidade de Ataque base de Afinidade de Inveja, inflija 1 [VioletTakeDamageUp]. (acumula 3 vezes)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9741,
+                    "simpleDesc": "Gain Coin Power and deal more damage"
+                },
+                {
+                    "abilityID": 97411,
+                    "simpleDesc": "Gain Clash Power; gain Charge Count upon Clash Win, lose Charge Count upon Clash Lose"
+                },
+                {
+                    "abilityID": 97412,
+                    "simpleDesc": "Inflict Envy Fragility"
+                }
+            ]
+        },
+        {
+            "id": 9742,
+            "name": "Perpetual Generator Servos",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que ganham Contagem de [Carga] ou efeitos de 'Carga Única'. (Sem contar Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nHabilidades de Ataque Base que consomem Contagem de [Carga] ou 'Carga Única': ganham Poder de Moeda +1 e causam +(soma de Contagem de [Carga] e 'Carga Única' consumidas por essa Habilidade x 4)% a mais de dano (máx. 40%)\n\nQuando aliados com Contagem de [Carga] ou 'Carga Única' se envolvem em um Confronto com Habilidades de Ataque base: Poder de Confronto +1; ganhe 2 [AtaqueAumentar] no Início do Turno para cada instância de Vitória de Confronto naquele Confronto durante este Encontro. (máx. 6)\n\nNeste Encontro, quando um aliado recebe dano que o mataria, consome toda a Contagem de [Carga] e 'Carga Única' em si mesmo; então, cure imediatamente (10 + soma da Contagem de [Carga] e 'Carga Única' consumida)% HP (uma vez por Encontro); então, ganhe 3 [Proteção] até que o aliado seja derrotado.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9742,
+                    "simpleDesc": "Gain Coin Power and deal more damage"
+                },
+                {
+                    "abilityID": 97421,
+                    "simpleDesc": "Gain Clash Power and Offense Level Up"
+                },
+                {
+                    "abilityID": 97422,
+                    "simpleDesc": "Immediately before death, consume Charge Count to instantly heal and gain Protection"
+                }
+            ]
+        },
+        {
+            "id": 9743,
+            "name": "Hearts-powered Jewel",
+            "desc": "Início do Encontro: Este Dom é ativado quando 5 ou mais Identidades têm Habilidades de Ataque que ganham Contagem de [Carga] ou efeitos de 'Carga Única'. (Sem contar Habilidades E.G.O, conta apenas Identidades no campo no Início do Encontro)\n\nHabilidades de Ataque Base que consomem Contagem de [Carga]: ganham Poder de Moeda +1 e causam +(soma de Contagem de [Carga] e 'Carga Única' consumidas por essa Habilidade x 4)% a mais de dano (máx. 40%)\n\nQuando aliados têm 15+ (Contagem de [Carga] + 'Carga Única'): quando eles usam uma Habilidade 3 que consome Contagem de [Carga] ou 'Carga Única', e se houver Contagem de [Carga] ou 'Carga Única' restantes Após o Ataque, consomem toda a Contagem de [Carga] e 'Carga Única' restantes para causar (soma de Contagem de [Carga] e 'Carga Única' consumidas x 7,5)% de dano bônus fixo. (máx. 75%)\n\nContagem de [Carga] Máx. +5.",
+            "simpleDesc": [
+                {
+                    "abilityID": 9743,
+                    "simpleDesc": "Gain Coin Power and deal more damage"
+                },
+                {
+                    "abilityID": 97431,
+                    "simpleDesc": "Spend additional Charge Count to deal bonus damage"
+                },
+                {
+                    "abilityID": 97432,
+                    "simpleDesc": "Max Charge Count +5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "dataList": [
+        {
+            "id": "ADDITIONAL_COST_START",
+            "description": "Custo inicial +{0}"
+        },
+        {
+            "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
+            "description": "Ganhe {0} mais Custo após vencer um encontro de combate"
+        },
+        {
+            "id": "EGO_RESOURCE",
+            "description": "Recurso E.G.O para todas as Afinidades +{0}"
+        },
+        {
+            "id": "EGO_RESOURCE_FORMATION",
+            "description": "Recurso E.G.O para Afinidades de Identidades iniciais +{0}"
+        },
+        {
+            "id": "HP_RECOVER_RATE_AFTER_WIN_BATTLE",
+            "description": "Após vencer um encontro de combate, cure {0}% do HP Máx."
+        },
+        {
+            "id": "MP_RECOVER_NUMBER_AFTER_EVENT_ENCOUNTER",
+            "description": "Após um encontro de evento, cure {0} SP"
+        },
+        {
+            "id": "AttackLevelAdder",
+            "description": "Nível de ofensa +{0}"
+        },
+        {
+            "id": "AttackLevelMultiply",
+            "description": "Nível de ofensa +{0}%"
+        },
+        {
+            "id": "DefenseLevelAdder",
+            "description": "Nível de Defesa +{0}"
+        },
+        {
+            "id": "DefenseLevelMultiply",
+            "description": "Nível de Defesa +{0}%"
+        },
+        {
+            "id": "MaxHpAdder",
+            "description": "HP Máx. +{0}"
+        },
+        {
+            "id": "MaxHpMultiply",
+            "description": "HP Máx. +{0}%"
+        },
+        {
+            "id": "MaxSpeedUpAdder",
+            "description": "Velocidade Máxima +{0}"
+        },
+        {
+            "id": "AttackDamageAdder",
+            "description": "Dano Causado +{0}"
+        },
+        {
+            "id": "AttackDamageMultiply",
+            "description": "Dano Causado +{0}%"
+        },
+        {
+            "id": "TakeAttackDamageReducer",
+            "description": "Dano sofrido -{0}"
+        },
+        {
+            "id": "TakeAttackDamageMultipliedReducer",
+            "description": "Dano sofrido -{0}%"
+        },
+        {
+            "id": "StickCoinHeadAndTailToMaxPer",
+            "description": "A cada {0} turnos, todas as moedas de cada habilidade usada pelos aliados caem no mesmo lado, dependendo do tipo da moeda"
+        },
+        {
+            "id": "RemoveBreakSection",
+            "description": "Os primeiros limites de escalonamento dos aliados são anulados"
+        }
+    ]
+}

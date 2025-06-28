@@ -1,0 +1,1196 @@
+{
+  "dataList": [
+    {
+      "id": 9012801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deter Rulebreakers",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], Heal 4 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rule Execution",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], Power de moedas +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 5 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Execute Rulebreakers",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], ganhe 1 [[suporte]] próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 5 [[suporte]], causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 5 [[suporte]], causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, ganhe 2 [[suporte]] no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dispose Rulebreakers",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], Heal 4 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rule Fulfillment",
+          "desc": "[[Bracket]] Se o alvo tiver 4+ [[Bracket]] contagem, poder de moeda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 5 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punish Rulebreakers",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], ganhe 1 [[suporte]] próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 4+ [[Bracket]] contagem, causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 4+ [[Bracket]] contagem, causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, ganhe 2 [[suporte]] no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punishment Execution",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], reutilize essa habilidade (uma vez)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 5 [[Bracket]] e +2 [[Bracket]] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Discipline Rulebreakers",
+          "desc": "Se o Target tiver 5+ [[suporte]], causar + 30% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[Bracket]], infligir 2 [[bracket]] Próxima turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[suporte]] igual a ([[suporte]]/2) no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 7 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Violated Clause",
+          "desc": "Poder de moeda +1 para cada 3 [[suporte]] no alvo (máximo 3)\n[[Bracket]] Se o alvo tiver 6+ [[suporte]], causar + 40% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 8 [[Bracket]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Backet]] infligir [[backet]] igual a [[backet]] no alvo"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 10 SP"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], reutilize essa habilidade (uma vez)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Bracket]] Ganho [[Bracket]] (Máx 1)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sketch",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brushstroke",
+          "desc": "Se o Target tiver 5+ [[suporte]], potência base +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Backet]] infligir [[backet]] igual a [[backet]] no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Dots",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], ganhe 1 [[suporte]] próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 5 [[suporte]], causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 5 [[suporte]], causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], reutilize essa habilidade (1 vez máx)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, ganhe 3 [[suporte]] na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Line Art",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stroke",
+          "desc": "Se o Target tiver 5+ [[suporte]], potência base +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +2 [[backet]] contagem"
+                },
+                {
+                  "desc": "[[Bracket]] Se o Target tiver [[Bracket]], Heal 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Backet]] infligir [[backet]] igual a [[backet]] no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Points",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], ganhe 1 [[suporte]] próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 4+ [[Bracket]] contagem, causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 4+ [[Bracket]] contagem, causar 20% dos danos causados ​​como dano ao bônus"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver 4+ [[Bracket]] contagem, reutilize essa habilidade (1 tempo máx)"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "Se esta unidade tiver escudo restante HP na extremidade do turno, ganhe 3 [[suporte]] na próxima curva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coloring",
+          "desc": "[[Bracket]] Se o alvo tiver 5+ [[suporte]], reutilize essa habilidade em um inimigo aleatório após o ataque (uma vez)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +4 [[backet]] contagem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Pointillism",
+          "desc": "Se o Target tiver 5+ [[suporte]], causar + 30% de dano",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[Bracket]], infligir 2 [[bracket]] Próxima turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] Próxima turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 5 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Backet]] infligir [[backet]] igual a [[backet]] no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pointillism",
+          "desc": "Poder de moeda +1 para cada 3 [[suporte]] no alvo (máximo 4)\n[[Bracket]] Se o alvo tiver 6+ [[suporte]], causar + 40% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Infligir 10 [[Bracket]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir [[backet]] contagem igual a [[backet]] contagem no alvo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Backet]] infligir [[backet]] igual a [[backet]] no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bloody of the Valley",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], ganhe 1 [[suporte]] próximo turno\n[[Bracket]] Se o alvo tiver 10+ [[suporte]], ganhe 1 [[suporte]] próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 5 [[suporte]], reutilize essa habilidade (3 vezes max)"
+                },
+                {
+                  "desc": "[[Bracket]] Reduce [[Bracket]] Contar no alvo por 1"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evade",
+          "desc": "[[Bracket]] Ganho [[Bracket]] (Máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal Attack 1",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal Attack 2",
+          "desc": "[[Bracket]] Se o alvo tiver [[suporte]], causar +20% mais danos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal Attack 3",
+          "desc": "[[Bracket]] Se o alvo tiver 2+ [[suporte]], Power Clash +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 4 SP em si mesmo"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 4 SP em si mesmo"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 4 SP em si mesmo"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal Attack 4",
+          "desc": "Prioriza os alvos com os efeitos mais negativos\n[[Bracket]] Clash Power +1 para cada 3 [[suporte]] no alvo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal +20% mais danos a cada 2 [[suporte]] no alvo (máximo 100%)"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 3 efeitos negativos, reutilize esta moeda (1 tempo máx)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "Se o alvo tiver [[suporte]], potência base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Damn Plebs...!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Remove You",
+          "desc": "[[Suporte]] Poder de base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], causar 20% dos danos causados ​​como dano por bônus"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver [[suporte]], causar 20% dos danos causados ​​como dano por bônus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Make Things Right Again",
+          "desc": "[[Bracket]] Se o alvo tiver 2+ [[suporte]], potência base +1\n[[Bracket]] Se o alvo tiver [[suporte]], causar +30% mais danos",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 4 SP em si mesmo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 4 SP em si mesmo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Heal 4 SP em si mesmo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Get Crushed",
+          "desc": "Prioriza os alvos com os efeitos mais negativos\n[[Bracket]] Power +1 para cada 3 [[suporte]] no alvo (máximo 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]]]"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 1 [[suporte]] Próximo turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligir 2 [[suporte]] Próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] Deal +30% mais danos a cada 2 [[suporte]] no alvo (máximo 120%)"
+                },
+                {
+                  "desc": "[[Bracket]] Se o alvo tiver mais de 3 efeitos negativos, reutilize esta moeda (1 tempo máx)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[[Bracket]] Ganhe 20 HP adicional de escudo para todos os outros aliados sobreviventes",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bat Bash",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Smackdown",
+          "desc": "[[Bracket]] Ganhe 1 [[suporte]] e 1 dano no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir +3 [[backet]] contagem"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]]"
+                },
+                {
+                  "desc": "[[Backet]] infligir [[backet]] igual a [[backet]] no alvo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Upheaval",
+          "desc": "Se o alvo tiver mais de 5 anos [[suporte]], poder de confronto +1\nSe o alvo tiver mais de 5 anos [[suporte]], poder de confronto +1\n[[Bracket]] infligir +3 [[backet]] contagem",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] A próxima moeda tem +1 poder"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] A próxima moeda tem +2 de potência"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[[Bracket]] infligir 3 [[suporte]] Próxima turno"
+                },
+                {
+                  "desc": "[[Bracket]] infligiram o bônus de píer de dano igual a ([[bracket]] x [[bracket]] contagem)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[[Bracket]] Ganhe 1 [[Bracket]] Próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

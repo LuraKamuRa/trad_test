@@ -1,0 +1,1184 @@
+{
+  "dataList": [
+    {
+      "id": "dungeon_selectable",
+      "content": "Selecionável"
+    },
+    {
+      "id": "dungeon_battle_reawrd_card_selection",
+      "content": "Selecione o cartão de recompensa do encontro"
+    },
+    {
+      "id": "dungeon_opportunity_to_select_rewards_remaining",
+      "content": "Você ainda não selecionou uma recompensa.\nContinue sem escolher uma recompensa?"
+    },
+    {
+      "id": "mirrordungeon_appear_able_theme_pack_title",
+      "content": "{0} - pacotes temáticos em destaque"
+    },
+    {
+      "id": "mirrordungeon_theme_pack_boss",
+      "content": "Boss em destaque"
+    },
+    {
+      "id": "mirrordungeon_theme_pack_ego_gift",
+      "content": "Em destaque, por exemplo, presentes"
+    },
+    {
+      "id": "mirrordunge_theme_pack_history_button_label",
+      "content": "Compêndio do pacote de temas"
+    },
+    {
+      "id": "simulation_difficulty",
+      "content": "Simulação"
+    },
+    {
+      "id": "ritournelle_difficulty",
+      "content": "RITORNLO"
+    },
+    {
+      "id": "enter_simulation_difficulty",
+      "content": "Digite simulação"
+    },
+    {
+      "id": "enter_ritournelle_difficulty",
+      "content": "Digite Ritorornello"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_4_normal",
+      "content": "Piso de simulação {0}"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_4_hard",
+      "content": "Piso ritornello {0}"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_before_exploration",
+      "content": "Antes da entrada"
+    },
+    {
+      "id": "mirror_dungeon4_entrance_hard_hint_after_release",
+      "content": "[[Tag-unlock]]\nLimpar 5-36\nEspelho claro do Wuthering\nDificuldade de simulação"
+    },
+    {
+      "id": "dungeon_encounter_guide_elite_battle",
+      "content": "Encontro de elite"
+    },
+    {
+      "id": "purchase_ego_gift",
+      "content": "Compra, por exemplo, presentes"
+    },
+    {
+      "id": "purchase_personality_skill_desc",
+      "content": "Gaste [[tag-color]] {0} [[tag-color]] Custo para substituir essa habilidade?"
+    },
+    {
+      "id": "mirror_dungeon_4_start_buff_name",
+      "content": "Caminho das estrelas"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_1",
+      "content": "Olho da tempestade"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_2",
+      "content": "Trovão"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_3",
+      "content": "Vento cortante"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_4",
+      "content": "Ventos justos"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_5",
+      "content": "Cascata de Levin"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_6",
+      "content": "Reunindo tempestade"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_7",
+      "content": "Tornado"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_8",
+      "content": "Tocando da véspera de Ano Novo"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_9",
+      "content": "Desmaiado parto"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_10",
+      "content": "Noite polar preta"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_11",
+      "content": "Ainda amanhece"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_12",
+      "content": "Dreno de inverno"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_13",
+      "content": "Cidade sem noite"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_14",
+      "content": "Nuvens de ovelha"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_15",
+      "content": "Grande Mar de nuvens"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_16",
+      "content": "Vento katabático"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_17",
+      "content": "Rajada feroz"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_18",
+      "content": "Caminho do vento oeste"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_19",
+      "content": "Updraft"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_19_1",
+      "content": "Chuva noturna"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_20",
+      "content": "Festa dos raios"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_21",
+      "content": "Trovão iminente"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_22",
+      "content": "Névoa nebulosa"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_23",
+      "content": "Chuva itinerante"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_24",
+      "content": "Corrente sem fim"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_25",
+      "content": "Horizonte de eventos"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_26",
+      "content": "Via Láctea"
+    },
+    {
+      "id": "mirror_dungeon_4_buffs_title_27",
+      "content": "Cometa iminente"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_100",
+      "content": "[[SUPORTE]]\nGanhe 200 Starlight sobre a gravação desta estrela (apenas um tempo, não afetado pelo status de ativação)"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_101",
+      "content": "[[SUPORTE]]\nIntroduzir 7 Novos, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1011",
+      "content": "[[SUPORTE]]\nDesbloqueios queimam, por exemplo, categoria de presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1012",
+      "content": "[[SUPORTE]]\nDesbloqueia o sangramento, por exemplo, categoria de presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1013",
+      "content": "[[SUPORTE]]\nDesbloqueia o tremor, por exemplo, categoria de presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1014",
+      "content": "[[SUPORTE]]\nDesbloqueia ruptura, por exemplo, categoria de presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1015",
+      "content": "[[SUPORTE]]\nDesbloqueia o afundamento, por exemplo, categoria de presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1016",
+      "content": "[[SUPORTE]]\nDesbloqueia o posto, por exemplo, categoria de presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1017",
+      "content": "[[SUPORTE]]\nDesbloqueia cobrar, por exemplo, categoria de presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_102",
+      "content": "[[SUPORTE]]\nApresente 6 novos presentes, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1021",
+      "content": "[[SUPORTE]]\nDesbloqueia Slash, por exemplo, categoria de presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1022",
+      "content": "[[SUPORTE]]\nDesbloqueia Pierce, por exemplo, categoria de presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1023",
+      "content": "[[SUPORTE]]\nDesbloqueia categoria de presentes, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1024",
+      "content": "(Não usado)"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_103",
+      "content": "[[SUPORTE]]\nGanhe +50 de custo inicial"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1031",
+      "content": "[[SUPORTE]]\nGanhe +50 de custo inicial"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1032",
+      "content": "[[SUPORTE]]\nGanhe +50 de custo inicial"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1033",
+      "content": "[[SUPORTE]]\nGanhe +50 de custo inicial"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_104",
+      "content": "[[SUPORTE]]\nIntroduzir 16 Novo Nível 2, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1041",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1042",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1043",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo, aparecendo na categoria Tremor +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1044",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo, aparecendo na categoria de ruptura +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1045",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1046",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1047",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo, aparecendo na categoria de cobrança +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_105",
+      "content": "[[SUPORTE]]\nIntroduzir 28 Novo Nível 3 ~ 4, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1051",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo, aparecendo na categoria Slash +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1052",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo, aparecendo na categoria Pierce +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1053",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1054",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo, aparecendo na categoria aleatória +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_106",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo, vendidos em lojas +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_111",
+      "content": "[[SUPORTE]]\nVende um nível mais alto, por exemplo, presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1111",
+      "content": "[[SUPORTE]]\nVende um nível mais alto, por exemplo, presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1112",
+      "content": "[[SUPORTE]]\nVende um nível mais alto, por exemplo, presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1113",
+      "content": "[[SUPORTE]]\nVende um nível mais alto, por exemplo, presentes"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_112",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo, vendidos em lojas +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1121",
+      "content": "[[SUPORTE]]\nCusto de atualização -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1122",
+      "content": "[[SUPORTE]]\nCusto de atualização -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_113",
+      "content": "[[SUPORTE]]\nPor exemplo, custo de compra de presente -5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1131",
+      "content": "[[SUPORTE]]\nNível 1, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1132",
+      "content": "[[SUPORTE]]\nCusto de compra de presente de nível 2e.G.O -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1133",
+      "content": "[[SUPORTE]]\nNível 3, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1134",
+      "content": "[[SUPORTE]]\nNível 4+, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_114",
+      "content": "[[SUPORTE]]\nPor exemplo, custo de compra de presente -5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1141",
+      "content": "[[SUPORTE]]\nQueima, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1142",
+      "content": "[[SUPORTE]]\nSangramento, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1143",
+      "content": "[[SUPORTE]]\nTremor, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1144",
+      "content": "[[SUPORTE]]\nRuptura, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1145",
+      "content": "[[SUPORTE]]\nSunking, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1146",
+      "content": "[[SUPORTE]]\nPoise, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1147",
+      "content": "[[SUPORTE]]\nCobrar, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_115",
+      "content": "[[SUPORTE]]\nPor exemplo, custo de compra de presente -5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1151",
+      "content": "[[SUPORTE]]\nBarra, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1152",
+      "content": "[[SUPORTE]]\nPierce, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1153",
+      "content": "[[SUPORTE]]\nBlunt, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1154",
+      "content": "[[SUPORTE]]\nSem -chave, por exemplo, custo de compra de presente -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_116",
+      "content": "[[SUPORTE]]\nNúmero de presentes, por exemplo, vendidos em lojas +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1161",
+      "content": "[[SUPORTE]]\nNível 1, por exemplo, custo de venda de presentes +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1162",
+      "content": "[[SUPORTE]]\nNível 2, por exemplo, custo de venda de presentes +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1163",
+      "content": "[[SUPORTE]]\nNível 3, por exemplo, custo de venda de presentes +20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1164",
+      "content": "[[SUPORTE]]\nNível 4+, por exemplo, custo de venda de presentes + 20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1165",
+      "content": "[[SUPORTE]]\nCusto de reposição de habilidade -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1166",
+      "content": "[[SUPORTE]]\nCusto de reposição de habilidade -20%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_121",
+      "content": "[[SUPORTE]]\nPor exemplo, um presente aumenta o custo -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1211",
+      "content": "[[SUPORTE]]\nNível 1, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1212",
+      "content": "[[SUPORTE]]\nNível 2, por exemplo, um presente para melhorar o custo -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1213",
+      "content": "[[SUPORTE]]\nNível 3, por exemplo, um presente para melhorar o custo -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1214",
+      "content": "[[SUPORTE]]\nNível 4+, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_122",
+      "content": "[[SUPORTE]]\n20% de chance para uma atualização sem custo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_123",
+      "content": "[[SUPORTE]]\nPor exemplo, um presente aumenta o custo -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1231",
+      "content": "[[SUPORTE]]\nQueima, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1232",
+      "content": "[[SUPORTE]]\nSangramento, por exemplo, um presente para melhorar o custo -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1233",
+      "content": "[[SUPORTE]]\nTremor, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1234",
+      "content": "[[SUPORTE]]\nRuptura, por exemplo, um presente de presente para aumentar o custo -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1235",
+      "content": "[[SUPORTE]]\nNaufrágio, por exemplo, um presente para melhorar o custo -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1236",
+      "content": "[[SUPORTE]]\nPoise, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1237",
+      "content": "[[SUPORTE]]\nCobrança, por exemplo, um presente aumenta o custo -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_124",
+      "content": "[[SUPORTE]]\n20% de chance de reembolsar o custo de aprimoramento"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_125",
+      "content": "[[SUPORTE]]\nPor exemplo, um presente aumenta o custo -10%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1251",
+      "content": "[[SUPORTE]]\nSlash, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1252",
+      "content": "[[SUPORTE]]\nPierce, por exemplo, presente, aumente o custo -7,5%"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1253",
+      "content": "[[SUPORTE]]\nBlunt, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1254",
+      "content": "[[SUPORTE]]\nSem -chave, por exemplo"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_126",
+      "content": "[[SUPORTE]]\nGanhe +10% mais custo depois de ganhar um encontro de combate"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1261",
+      "content": "[[SUPORTE]]\nGanhe +10% mais custo depois de ganhar um encontro regular"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1262",
+      "content": "[[SUPORTE]]\nGanhe +10% mais custo depois de ganhar um encontro focado"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1263",
+      "content": "[[SUPORTE]]\nGanhe +10% mais custo depois de ganhar um encontro de elite"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1264",
+      "content": "[[SUPORTE]]\nGanhe +10% mais custo depois de ganhar um encontro de chefe"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_131",
+      "content": "[[SUPORTE]]\nNúmero de opções de temas do piso +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_132",
+      "content": "[[SUPORTE]]\nAcordo +2,5% de dano"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1321",
+      "content": "[[SUPORTE]]\nAcordo +2,5% de dano"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1322",
+      "content": "[[SUPORTE]]\nAcordo +2,5% de dano"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1323",
+      "content": "[[SUPORTE]]\nAcordo +2,5% de dano"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1324",
+      "content": "[[SUPORTE]]\nNível de ofensa +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1325",
+      "content": "[[SUPORTE]]\nNível de ofensa +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_133",
+      "content": "[[SUPORTE]]\nNúmero de opções de cartão de recompensa de encontro +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_134",
+      "content": "[[SUPORTE]]\nTome -2,5% de dano"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1341",
+      "content": "[[SUPORTE]]\nTome -2,5% de dano"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1342",
+      "content": "[[SUPORTE]]\nTome -2,5% de dano"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1343",
+      "content": "[[SUPORTE]]\nTome -2,5% de dano"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1344",
+      "content": "[[SUPORTE]]\nNível de defesa +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1345",
+      "content": "[[SUPORTE]]\nNível de defesa +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1346",
+      "content": "[[SUPORTE]]\nNível de defesa +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_135",
+      "content": "[[SUPORTE]]\nNúmero de opções de temas do piso +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_136",
+      "content": "[[SUPORTE]]\n+1 a todos, por exemplo, recursos no início do espelho Dungeon Run"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1361",
+      "content": "[[SUPORTE]]\n+1 a todos, por exemplo, recursos no início do espelho Dungeon Run"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1362",
+      "content": "[[SUPORTE]]\nVelocidade máxima +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_1363",
+      "content": "[[SUPORTE]]\nVelocidade máxima +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_141",
+      "content": "Por exemplo, seleção de presentes +1"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_142",
+      "content": "Custo inicial +250"
+    },
+    {
+      "id": "md4_buffs_summaryDesc_14",
+      "content": "Depois de selecionar um presente de partida, por exemplo"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_1",
+      "content": "Em, por exemplo, fusão de presentes, [[coloria]] fundindo, por exemplo, presentes com a mesma palavra-chave [[tag-color]] aumenta a chance de obter um presente, por exemplo, da palavra-chave correspondente."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_2",
+      "content": "A seguir, são apresentadas as previsões de nível de presente, por exemplo, ao fusar 2, por exemplo, presentes juntos."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_diffrent_keyword",
+      "content": "Combinando presentes com palavras -chave diferentes"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_identical_keyword",
+      "content": "Combinando presentes com a mesma palavra -chave"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_two_same_keywords",
+      "content": "Combinando presentes quando apenas 2/3 presentes compartilham a palavra -chave"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_1_0",
+      "content": "Nível 1 + Nível 1 => Nível 1"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_1_1",
+      "content": "Nível 1 + Nível 1 => [[colorido de tag]] Nível 2 [[colorido de tag]]]"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_2_0",
+      "content": "Nível 1 + Nível 2 => Nível 1"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_2_1",
+      "content": "Nível 1 + Nível 2 => [[coloria de tag]] Nível 2 [[coloria tag]]]"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_3_0",
+      "content": "Nível 1 + Nível 3 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_3_1",
+      "content": "Nível 1 + Nível 3 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_4_0",
+      "content": "Nível 2 + Nível 2 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_4_1",
+      "content": "Nível 2 + Nível 2 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_5_0",
+      "content": "Nível 2 + Nível 3 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_5_1",
+      "content": "Nível 2 + Nível 3 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_6_0",
+      "content": "Nível 3 + Nível 3 => Nível 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_1_desc_6_1",
+      "content": "Nível 3 + Nível 3 => Nível 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_3",
+      "content": "A seguir, são apresentadas as previsões de palavras -chave para presente, por exemplo, ao fusar 2, por exemplo, presentes juntos."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_2_desc_1_0",
+      "content": "Taxas para palavras -chave no ingrediente, por exemplo, presentes: 37,5% cada\nTaxa combinada para todas as outras palavras -chave: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_2_desc_1_1",
+      "content": "Taxa de palavra -chave no ingrediente, por exemplo, presentes: 75%\nTaxa combinada para todas as outras palavras -chave: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_4",
+      "content": "A seguir, são apresentadas as previsões de nível de presente, por exemplo, ao fusar 3, por exemplo, presentes juntos."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_1_0",
+      "content": "Nível 1 + Nível 1 + Nível 1 => Nível 1"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_1_1",
+      "content": "Nível 1 + Nível 1 + Nível 1 => [[coloria de tag]] Nível 2 [[colorido tag]]"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_2_0",
+      "content": "Nível 1 + Nível 1 + Nível 2 => Nível 1"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_2_1",
+      "content": "Nível 1 + Nível 1 + Nível 2 => [[coloria de tag]] Nível 2 [[colorido tag]]"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_3_0",
+      "content": "Nível 1 + Nível 1 + Nível 3 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_3_1",
+      "content": "Nível 1 + Nível 1 + Nível 3 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_4_0",
+      "content": "Nível 1 + Nível 2 + Nível 2 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_4_1",
+      "content": "Nível 1 + Nível 2 + Nível 2 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_5_0",
+      "content": "Nível 1 + Nível 2 + Nível 3 => Nível 2"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_5_1",
+      "content": "Nível 1 + Nível 2 + Tier 3 => [[coloria tag]] Nível 3 [[colorido de tag]]"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_6_0",
+      "content": "Nível 1 + Nível 3 + Nível 3 => Nível 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_6_1",
+      "content": "Nível 1 + Nível 3 + Nível 3 => Nível 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_7_0",
+      "content": "Nível 2 + Nível 2 + Nível 2 => Nível 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_7_1",
+      "content": "Nível 2 + Nível 2 + Nível 2 => Nível 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_8_0",
+      "content": "Nível 2 + Nível 2 + Nível 3 => Nível 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_8_1",
+      "content": "Nível 2 + Nível 2 + Nível 2 => Nível 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_9_0",
+      "content": "Nível 2 + Nível 3 + Nível 3 => Nível 3"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_9_1",
+      "content": "Nível 2 + Nível 3 + Nível 3 => [[coloria de tag]] Nível 4 [[colorido de tag]]"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_10_0",
+      "content": "Nível 3 + Nível 3 + Nível 3 => Nível 4"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_3_desc_10_1",
+      "content": "Nível 3 + Nível 3 + Nível 3 => Nível 4"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_5",
+      "content": "A seguir, são apresentadas as previsões de palavras -chave para presente, por exemplo, ao fusar 3, por exemplo, presentes juntos."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_0",
+      "content": "Taxas para palavras -chave no ingrediente, por exemplo, presentes: 25% cada\nTaxa combinada para todas as outras palavras -chave: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_1",
+      "content": "Taxa para a palavra -chave no ingrediente, por exemplo, presentes que compartilham a palavra -chave: 50%\n\nTaxa para a palavra -chave no ingrediente, por exemplo, presente que não compartilha a palavra -chave: 25%\n\nTaxa combinada para todas as outras palavras -chave: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_table_4_desc_1_2",
+      "content": "Taxa de palavra -chave no ingrediente, por exemplo, presentes: 75%\n\nTaxa combinada para todas as outras palavras -chave: 25%"
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_desc_6",
+      "content": "※ No entanto, se não houver mais obtidos, por exemplo, presentes que encaixam as condições acima, a fusão de presentes pode resultar em presentes de diferentes camadas ou palavras -chave."
+    },
+    {
+      "id": "mirror_ego_gift_combine_guide_popup_title",
+      "content": "Guia de fusão"
+    },
+    {
+      "id": "mirrordungeon_select_theme_pack_at_floor",
+      "content": "Selecione o piso {0} pacote de temas"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_appear_rate_up",
+      "content": "Avaliar"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_appearable",
+      "content": "Apresentou"
+    },
+    {
+      "id": "mirrordungeon_selected_floor_theme_label",
+      "content": "Tema do piso selecionado"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_sort_by_tier",
+      "content": "Por camada"
+    },
+    {
+      "id": "mirrordungeon_ego_gift_sort_by_keyword",
+      "content": "Por palavra -chave"
+    },
+    {
+      "id": "side_content_cannot_acquire_specific_ego_gift",
+      "content": "Não há Nível {0}, por exemplo, presentes obtidos com o tema atual do piso."
+    },
+    {
+      "id": "side_content_free_refresh",
+      "content": "[[Bracket]] Buff ativado\nAtualizar o custo reembolsado"
+    },
+    {
+      "id": "side_content_egogift_free_upgrade",
+      "content": "[[Bracket]] Buff ativado\nCusto de aprimoramento reembolsado"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_floor_theme",
+      "content": "Tema do chão"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_battle_reward",
+      "content": "Encontrar cartões de recompensa"
+    },
+    {
+      "id": "mirror_dungeon_finished_panel_used",
+      "content": "Custo da luz das estrelas"
+    },
+    {
+      "id": "mirror_dungeon_appeared_ego_gift",
+      "content": "Em destaque, por exemplo, presentes"
+    },
+    {
+      "id": "mirror_dungeon_select_theme_drag",
+      "content": "Selecione um pacote\nE puxe"
+    },
+    {
+      "id": "mirror_dungeon_cannot_acquired_ego_gift",
+      "content": "Não ganhou um presente, por exemplo"
+    },
+    {
+      "id": "simulation_difficulty_short",
+      "content": "Simulação"
+    },
+    {
+      "id": "ritournelle_difficulty_short",
+      "content": "RITORNLO"
+    },
+    {
+      "id": "easy_difficulty_simple",
+      "content": "Fácil"
+    },
+    {
+      "id": "refresh_shop_item_by_chip_warning",
+      "content": "Consumir a luz das estrelas para atualizar?\n\n[[Size tag-size]] ※「 Starlight Refresh 」usa [[[coloria de tag]] Starlight de propriedade do início da masmorra [[cor-cor]] e [[colorido]] qualquer luz das estrelas obtida durante a corrida de masmorra [[cor-tag]].\nNo entanto, você não pode gastar mais luz das estrelas do que o que tem. [[Size de tag]]\n\n[[Size de tag-size]] Starlight de propriedade do início da masmorra: {0} [[size de tag]]"
+    },
+    {
+      "id": "mirror_dungeon_theme_ego_gift_popup_valid_atk",
+      "content": "Afinidades eficazes"
+    },
+    {
+      "id": "mirror_dungeon_shop_keyword_refresh",
+      "content": "Atualização de palavra -chave"
+    },
+    {
+      "id": "mirror_dungeon_shop_refresh_by_chip",
+      "content": "Starlight Refresh"
+    },
+    {
+      "id": "mirror_dungeon_shop_keyword_refresh_popup_title",
+      "content": "Loja - Atualização de palavras -chave"
+    },
+    {
+      "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
+      "content": "'Atualização de palavras -chave' para aumentar as chances de obter presentes, por exemplo, da categoria de palavras -chave selecionadas na loja.\nGaste {0} custo para fazer a atualização de palavras -chave?"
+    },
+    {
+      "id": "ego_gift_combine_ui_plz_select_keyword",
+      "content": "Selecione uma palavra -chave."
+    },
+    {
+      "id": "ego_gift_select_keyword_ui_title",
+      "content": "Fusão - Seleção de palavras -chave"
+    },
+    {
+      "id": "ego_gift_select_keyword_ui_desc",
+      "content": "Escolha uma palavra -chave em que você deseja se fundir."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_1",
+      "content": "A seguir, é apresentada a previsão de palavras-chave para presente, por exemplo, depois de selecionar a palavra-chave que deseja se fundir na tela [[fusão de tags]]."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_col_1_title",
+      "content": "Número de ingredientes, por exemplo, presentes usados ​​para fusão"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_col_2_title",
+      "content": "Taxas para um presente, por exemplo, com sua palavra -chave selecionada"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_1_0",
+      "content": "2 presentes"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_1_1",
+      "content": "60%"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_2_0",
+      "content": "3 presentes"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_1_desc_2_1",
+      "content": "90%"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_diffrent_keyword_notice",
+      "content": "※ As palavras -chave no ingrediente, por exemplo, presentes não afetam o resultado da fusão."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_2",
+      "content": "A seguir, são apresentadas as previsões de nível de presente, por exemplo, ao fusar 2, por exemplo, presentes. Observe que você pode receber até o Nível 3, por exemplo, presentes ao fusível 2, por exemplo, presentes juntos."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_col_1_title",
+      "content": "Ingrediente, por exemplo, camadas de presente"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_col_2_title",
+      "content": "Por exemplo, previsão de camada de presente"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_1_0",
+      "content": "Nível 1 + Nível 1"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_2_0",
+      "content": "Nível 1 + Nível 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_3_0",
+      "content": "Nível 1 + Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_4_0",
+      "content": "Nível 2 + Nível 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_5_0",
+      "content": "Nível 2 + Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_2_desc_6_0",
+      "content": "Nível 3 + Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_3",
+      "content": "A seguir, são apresentadas as previsões de nível de presente, por exemplo, ao fusar 3, por exemplo, presentes. Observe que você pode receber até o Nível 4, por exemplo"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_col_1_title",
+      "content": "Combinando presentes com palavras -chave diferentes"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_col_2_title",
+      "content": "Por exemplo, previsão de camada de presente"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_1_0",
+      "content": "Nível 1 + Nível 1 + Nível 1"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_2_0",
+      "content": "Nível 1 + Nível 1 + Nível 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_3_0",
+      "content": "Nível 1 + Nível 1 + Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_4_0",
+      "content": "Nível 1 + Nível 2 + Nível 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_5_0",
+      "content": "Nível 1 + Nível 2 + Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_6_0",
+      "content": "Nível 1 + Nível 3 + Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_7_0",
+      "content": "Nível 2 + Nível 2 + Nível 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_8_0",
+      "content": "Nível 2 + Nível 2 + Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_9_0",
+      "content": "Nível 2 + Nível 3 + Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_table_3_desc_10_0",
+      "content": "Nível 3 + Nível 3 + Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_1",
+      "content": "Nível 1"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_2",
+      "content": "Nível 2"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_3",
+      "content": "Nível 3"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_tier_4",
+      "content": "Nível 4"
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_4",
+      "content": "No entanto, se você já adquiriu todos os presentes, por exemplo, na combinação de palavras-chave e camadas acima, ou se esses presentes, por exemplo, já foram atribuídos a eventos de masmorra espelhados ou as recompensas do chefe deste piso, então [[tag-u] [tag-b]] você pode adquirir um presente de tags] [tag] [tag]] [tag-b]], você pode adquirir um presente de tag."
+    },
+    {
+      "id": "new_ego_gift_combine_guide_desc_5",
+      "content": "Se você já adquiriu todos, por exemplo, presentes na camada correspondente ou não conseguirá obtê-los devido aos motivos mencionados, então [[tag-u]] [[tag-b]] não pode prosseguir com a fusão [[tag-u]] [[tag-b]]."
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_popup_title",
+      "content": "Guia de cartões de recompensa para encontrar"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_text_1",
+      "content": "Você pode ter a chance de obter um cartão de recompensa de encontro ao limpar um encontro. Variáveis ​​como a dificuldade da masmorra de espelho e seu efeito atual de piso que encontram cartões de recompensa que você pode obter."
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_text_2",
+      "content": "A seguir, são apresentadas as taxas de aparência dos cartões de recompensa do encontro."
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_0_1",
+      "content": "Simulação de masmorra de espelho"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_0_2",
+      "content": "Mirror Dungeon Ritornello"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_0",
+      "content": "Piso 1"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_1",
+      "content": "Encontro regular: 7,5%\nEncontro focado: -\nEncontro de elite: -\nEncontro de chefe: 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_1_2",
+      "content": "Encontro regular: 7,5%\nEncontro focado: -\nEncontro de elite: -\nEncontro de chefe: 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_0",
+      "content": "Piso 2"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_1",
+      "content": "Encontro regular: 10%\nEncontro focado: 20%\nEncontro de elite: 33%\nEncontro de chefe: 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_2_2",
+      "content": "Encontro regular: 10%\nEncontro focado: 20%\nEncontro de elite: 33%\nEncontro de chefe: 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_0",
+      "content": "Piso 3"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_1",
+      "content": "Encontro regular: 10%\nEncontro focado: 20%\nEncontro de elite: 33%\nEncontro de chefe: 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_3_2",
+      "content": "Encontro regular: 10%\nEncontro focado: 20%\nEncontro de elite: 33%\nEncontro de chefe: 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_0",
+      "content": "Piso 4"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_1",
+      "content": "Encontro regular: 12,5%\nEncontro focado: 25%\nEncontro de elite: 50%\nEncontro de chefe: -"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_4_2",
+      "content": "Encontro regular: 12,5%\nEncontro focado: 25%\nEncontro de elite: 50%\nEncontro de chefe: 100%"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_0",
+      "content": "Piso 5+"
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_1",
+      "content": null
+    },
+    {
+      "id": "mirror_battle_reward_card_guide_table_1_desc_5_2",
+      "content": "Encontro regular: 12,5%\nEncontro focado: 25%\nEncontro de elite: 50%\nEncontro de chefe: -"
+    },
+    {
+      "id": "expected_result",
+      "content": "Previsões"
+    },
+    {
+      "id": "confirmed",
+      "content": "Garantido"
+    },
+    {
+      "id": "combine_tooltip_title",
+      "content": "A seguir, são apresentadas as circunstâncias em que o presente resultante da fusão não corresponde às previsões de fusão. Nesses casos, a previsão de palavras -chave será marcada como \"? (Alemanha)\"."
+    },
+    {
+      "id": "combine_tooltip_desc1",
+      "content": "Quando todos os presentes disponíveis, por exemplo"
+    },
+    {
+      "id": "combine_tooltip_desc2",
+      "content": "Quando, por exemplo, presentes da categoria de palavras -chave selecionadas e a camada prevista foram atribuídas aos eventos de masmorra do espelho daquele piso ou ao pool de recompensa de encontros de chefe (pode ser obtido no próximo andar)"
+    },
+    {
+      "id": "combine_tooltip_notice",
+      "content": "Você não pode continuar com a fusão se tiver coletado a cada por exemplo, um presente no nível previsto."
+    }
+  ]
+}

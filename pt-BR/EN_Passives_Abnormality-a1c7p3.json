@@ -1,0 +1,256 @@
+{
+  "dataList": [
+    {
+      "id": 837804,
+      "name": "Starved and Withered",
+      "desc": "Ganha [[suporte]] no início do encontro"
+    },
+    {
+      "id": 837801,
+      "name": "Unctio Extrema",
+      "desc": "Turn End: Ative [[Bracket]] em si mesmo. (MAX 50; Consume 1 [[Bracket]] Counts a Self) Cure 50 hp para o núcleo e parte de um fixo de sangue aliado com o menor HP (não é ativado se todos os aliados estiverem no HP completo)"
+    },
+    {
+      "id": 837802,
+      "name": "Sacramentum Paenitentiae",
+      "desc": "Turn End: Lost 5 SP e Heal 10 SP para um fixo de sangue aliado com o mínimo SP (não é ativado se não houver aliados com SP)"
+    },
+    {
+      "id": 837803,
+      "name": "Ailing Heart",
+      "desc": "Ganha novos padrões baseados no valor [[backet]] em si mesmo\nTurn End: Gain 1 [[Bracket]]"
+    },
+    {
+      "id": 837805,
+      "name": "Bloodied Hand",
+      "desc": "- Aos 10+ [[suporte]], converta -os em [[suporte]].\n- Aos 20+ [[Bracket]], converta -os em [[suporte]]."
+    },
+    {
+      "id": 837901,
+      "name": "The Once-loved Ones",
+      "desc": "Turn Start: Se todos os inimigos tiverem [[suporte]], use uma habilidade poderosa"
+    },
+    {
+      "id": 837902,
+      "name": "Grimy Iron Stake",
+      "desc": "Ao atingir um inimigo usando uma habilidade de um único lance, infliga 3 [[suporte]] potência. Infligir 2 [[suporte]] até o final do próximo turno.\nSe o alvo já possui [[suporte]], infligir 5 [[suporte]] potência em vez disso"
+    },
+    {
+      "id": 837903,
+      "name": "To Remember",
+      "desc": "Se esta unidade foi escalonada devido ao efeito final de um abraço triste, ganhe 10 [[suporte]] no próximo turno Start"
+    },
+    {
+      "id": 837904,
+      "name": "To Love",
+      "desc": "Se em menos ou igual a 30% hp na extremidade do turno: em vez de infligir 3 [[suporte]] a todos os inimigos, ganhe 15 [[bracket]] no próximo turno (uma vez por encontro)"
+    },
+    {
+      "id": 837905,
+      "name": "Please Don't be Sick",
+      "desc": "Poder base -1 para cada 3 tipos de efeitos negativos no alvo (máximo 3)"
+    },
+    {
+      "id": 837301,
+      "name": "Sin Resistance",
+      "desc": "A menos que esta unidade esteja escalada ou quebrada, tome 50% menos dano [[suporte]]"
+    },
+    {
+      "id": 837401,
+      "name": "Sin Resistance",
+      "desc": "A menos que esta unidade seja escalada ou quebrada, tome apenas metade dos danos críticos."
+    },
+    {
+      "id": 837501,
+      "name": "Carmilla",
+      "desc": "Vire o início: para um inimigo aleatório, causar danos fixos iguais a 5% de seu HP."
+    },
+    {
+      "id": 837502,
+      "name": "A Drop of Nourishment",
+      "desc": "Após o ataque: curar núcleo e parte igual a 50% dos danos que esta unidade lidou com sua habilidade de ataque\n- a 100% HP, ganha 2 [[suporte]] No próximo turno. (2 vezes max)\nCom base na porcentagem de HP curada, obtenha os seguintes efeitos (cumulativos)\n- Na pilha mais de 1\n- AT 2+ Stack: Ganhe 3 [[Bracket]] a cada passo do início\n- Na pilha de 3+: ganho +2 min e velocidade máxima\n- AT 5+ Stack: Ganhe 3 [[Bracket]] a cada passo do início"
+    },
+    {
+      "id": 837503,
+      "name": "A Single Strangling Flower",
+      "desc": "Após o ataque: infligir 1 [[suporte]]\nSe o alvo tiver [[suporte]], infligir 1 [[suporte]] após o ataque"
+    },
+    {
+      "id": 837601,
+      "name": "Spiked Whip",
+      "desc": "Se o alvo tiver [[suporte]] imediatamente antes do ataque, 20% de chance de infligir +1 [[bracket]] contagem\nAo infligir [[suporte]], gerar uma unidade 'farpado'.",
+      "summary": "Se o alvo tiver [[suporte]] imediatamente antes do ataque, 20% de chance de infligir +1 [[bracket]] contagem"
+    },
+    {
+      "id": 837602,
+      "name": "Bramble Steed",
+      "desc": "Velocidade de ganho igual à unidade gerada 'farpado' em campo"
+    },
+    {
+      "id": 837603,
+      "name": "Interlocking Brambles",
+      "desc": "Em 40%- hp, ganhe um novo padrão\nA cada turno, infligir [[suporte]] igual à velocidade de cada inimigo contra cada inimigo\nInfligir 2 [[suporte]] em vez disso\nGanho 2 [[suporte]] e [[suporte]] a cada volta passageira (máximo 12)"
+    },
+    {
+      "id": 838006,
+      "name": "In Dreams",
+      "desc": "Encontro Início: Gain [[Bracket]].\nInício do encontro: o sangue do sono que encharcou o campo de batalha aparecerá, aumentando [[suporte]] em 400."
+    },
+    {
+      "id": 838001,
+      "name": "The Enthralling Tales, the Beating Passion",
+      "desc": "Ao atingir 80%, 60%e 40%hp, não sofre mais danos e ganha um novo padrão\nAo ganhar um novo padrão, recupere -se de escalonamento e aumente a velocidade para 10 na próxima curva"
+    },
+    {
+      "id": 838002,
+      "name": "If we can be freed from this excruciating sickness",
+      "desc": "Em sucesso, se o alvo tiver [[suporte]], curar a parte e o núcleo em 40% dos danos causados.\n- Esta cura passiva +1% mais HP para cada potência [[suporte]] em si (no máximo 20%)\n- Para moedas inquebráveis: esse efeito não é ativado no acerto após a perda de conflito.\nTodo turno START: Heal ([[[suporte]]/10) HP. (máximo 50)\nTodo turno Start: a -15 ou menos SP, consuma (20 - SP atual) [[Bracket]] para ganhar SP e ganhar 2 Clash Power Up Up\nOn Kill, Ganhe 5 [[Bracket]]",
+      "summary": "On Hit, se o alvo tiver [[suporte]], Heal HP"
+    },
+    {
+      "id": 838003,
+      "name": "Can I go on an adventure, too?",
+      "desc": "Turn End: Min & Max Speed ​​+1 próximo turno para cada 300 [[suporte]]]"
+    },
+    {
+      "id": 838004,
+      "name": "Bloodfeast",
+      "desc": "Se esta unidade estiver em campo ou for uma das unidades que podem aparecer neste estágio, aumente o valor [[suporte]] pela quantidade de dano [[suporte]] recebido coletivamente por todas as unidades.\nQuando esta unidade entra no campo, o sangue para dormir encharcado no campo de batalha inundará a superfície."
+    },
+    {
+      "id": 838005,
+      "name": "Hardblood",
+      "desc": "Início de combate: Ganho 1 [[suporte]]\n- [[Bracket]] não pode cair abaixo de 1\n- Aos 10+ [[suporte]], converta -os em [[suporte]].\n- Aos 20+ [[Bracket]], converta -os em [[suporte]].\nGanho Min & Max Speed ​​com base no estágio desse efeito (Máx 2)\nSe esta unidade consumir [[suporte]] e cair abaixo dos limites acima, reverte para os estágios anteriores de acordo"
+    },
+    {
+      "id": 838007,
+      "name": "But I have my Father and my Family whom I cannot abandon",
+      "desc": "Turn End: Se em pânico, recupere -se do pânico e consuma 100 [[Bracket]] para ganhar 3 [[suporte]]]\n- Se esta unidade falhou em consumir [[suporte]], ganhe 30 [[suporte]], 3 [[bracket]] e 2 danos elevados acima"
+    },
+    {
+      "id": 837701,
+      "name": "Barbed Lasso ",
+      "desc": "Quando esta unidade morre, o [[suporte]] do inimigo ligado a esta unidade expira"
+    },
+    {
+      "id": 839401,
+      "name": "Designated Protection",
+      "desc": "No Turn Start, aplique 2 nível de defesa até o aliado que perdeu a maior porcentagem de HP entre este turno e o último turno"
+    },
+    {
+      "id": 840301,
+      "name": "Shattering, Scattering Hardblood",
+      "desc": "Quando esta unidade é morta devido ao ataque inimigo ou ao status dos danos, aumente [[suporte]] em 30 e aumente, por exemplo"
+    },
+    {
+      "id": 840302,
+      "name": "This Explosive Insanity!",
+      "desc": "Se esta unidade ainda estiver viva até a extremidade, use a habilidade de auto-detonação na próxima curva. Se esta unidade ainda estiver viva na mesma extremidade que a curva, esta unidade usou a habilidade de auto-detonação, morre."
+    },
+    {
+      "id": 839001,
+      "name": "Fix Core HP to 1",
+      "desc": "O núcleo HP não cai abaixo de 1."
+    },
+    {
+      "id": 839002,
+      "name": "La Manchaland, Abandoned and Festering",
+      "desc": "Gera gôndolas cheias de fãs de sangue e sacos de sangue em um intervalo definido. Um certo número de Bloodfiends e Bloodbags pode chegar ao campo quando quando uma gôndola for gerada."
+    },
+    {
+      "id": 839003,
+      "name": "The Eternal Cycle of Windmills, Wheels, and Us",
+      "desc": "Não pode ser atacado quando há uma gôndola no campo.\nNão perde o HP devido a danos às habilidades. Não leva danos à HP devido a [[suporte]], [[bracket]], [[backet]], [[bracket]] ou [[bracket]]."
+    },
+    {
+      "id": 839004,
+      "name": "Here we go... another lap.",
+      "desc": "Se [[bracket]] estiver em 0 e não houver unidades a serem geradas no próximo turno na extremidade do turno ou durante a fase de combate, passe para a próxima fase."
+    },
+    {
+      "id": 839005,
+      "name": "Starved and Withered",
+      "desc": "Ganha [[suporte]] no início do encontro"
+    },
+    {
+      "id": 841001,
+      "name": "Returning Bloodlust",
+      "desc": "- Aos 10+ [[suporte]], converta -os em [[suporte]].\n- Aos 20+ [[Bracket]], converta -os em [[suporte]].\n- Se esta unidade consome [[suporte]] e a solta abaixo dos limites acima, reverte para estágios anteriores de acordo"
+    },
+    {
+      "id": 841002,
+      "name": "Don Quixote Hardblood Arts",
+      "desc": "No sucesso, se o alvo tiver [[suporte]], curar a parte e o núcleo desta unidade em 30% dos danos da HP.\nPara moedas inquebráveis: esse efeito não é ativado no acerto após a perda de conflito."
+    },
+    {
+      "id": 841003,
+      "name": "An Unfamiliar Banquet",
+      "desc": "Se esta unidade curou mais de 15% de seu máximo de HP, ou desviou o [[suporte]] do inimigo, ganhe 3 [[bracket]] na próxima curva. (uma vez por turno)\nSe esta unidade matou o alvo com sua habilidade, ganhe 2 [[suporte]] e 1 [[suporte]] na próxima curva. (3 vezes por turno)"
+    },
+    {
+      "id": 841004,
+      "name": "For the Family...",
+      "desc": "Turn End: Se em pânico, recupere do pânico no próximo turno e redefina o SP para 0.\nAo se recuperar do pânico:\n- Consuma 30 [[Bracket]] para ganhar 2 [[suporte]] e 1 [[bracket]] na próxima curva e curar 30 sp.\n- Se esta unidade falhar em consumir [[bracket]], obtenha 40 [[suporte]], retire imediatamente o dano de [[bracket]], depois perca 5 [[bracket]] contagem.\n- Então, ganhe 2 [[suporte]] Próximo turno e Heal 30 sp"
+    },
+    {
+      "id": 841101,
+      "name": "Broken Fragment of a Futile, Naive Dream",
+      "desc": "Se esta unidade for eliminada, aumente [[suporte]] por 30\nQuando morto por um pecador, gerar memórias da aventura de sonho"
+    },
+    {
+      "id": 841102,
+      "name": "A Selfish Wish at the Expense of the Family",
+      "desc": "Quando morto por Don Quixote:\n- Don Quixote ganha 5 [[suporte]].\n- Todos os pecadores sofrem de 30 danos à luxúria e ganham 8 [[suporte]] potência e contagem."
+    },
+    {
+      "id": 841301,
+      "name": "Memories of the Journeys Past",
+      "desc": "Todos os pecadores ganham 5 sp a cada passo.\nDon Quixote O pecador ganha um efeito especial"
+    },
+    {
+      "id": 841302,
+      "name": "Reminders of Determination",
+      "desc": "Quando morto por Don Quixote: Don Quixote Gains 3 [[Bracket]] Nesta curva e na próxima vez."
+    },
+    {
+      "id": 841201,
+      "name": "Hardblood Wedge Gaol",
+      "desc": "Quando esta unidade for eliminada, o aliado que foi empalado por esta unidade perderá o status [[suporte]] próximo."
+    },
+    {
+      "id": 841202,
+      "name": "Shattering, Scattering Hardblood",
+      "desc": "Quando esta unidade for eliminada, obtenha 3, por exemplo, recursos para o recurso de propriedade menos de propriedade."
+    },
+    {
+      "id": 841203,
+      "name": "Internal Blood Crystallization",
+      "desc": "Se esta unidade não for eliminada pelo turno após sua geração, esta unidade será eliminada na extremidade do turno, ativando o seguinte efeito.\nO aliado que foi empalado por esta unidade recebe danos fixos iguais a 30% do seu HP máximo e ganha 10 [[suporte]] potência e +5 [[bracket]] contam."
+    },
+    {
+      "id": 841204,
+      "name": "Total Blood Coagulation",
+      "desc": "Quando morto pelo verdadeiro Don Quixote, ative o efeito na morte e o aliado empalado por esta unidade será morto."
+    },
+    {
+      "id": 841103,
+      "name": "I never should've dreamed this irresponsible dream",
+      "desc": "Se esta unidade tiver [[suporte]], as memórias da aventura de sonho não serão geradas na morte"
+    },
+    {
+      "id": 839006,
+      "name": "The Golden Bough's Forced Arbitration",
+      "desc": "Encontro Início: Gain [[Bracket]]."
+    },
+    {
+      "id": 841005,
+      "name": "Please, try again",
+      "desc": "Ao obter um novo padrão, reduz a redução da potência de [[suporte]], [[suporte]], [[backet]], [[backet]] e [[bracket]] nas partes desta unidade."
+    },
+    {
+      "id": 841104,
+      "name": "The adventure ends here.",
+      "desc": "Don Quixote ganha escudo a cada passo do início."
+    }
+  ]
+}

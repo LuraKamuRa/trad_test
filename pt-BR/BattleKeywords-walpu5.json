@@ -1,0 +1,39 @@
+{
+    "dataList": [
+        {
+            "id": "Smoke",
+            "name": "Smoke",
+            "desc": "- Potência Máxima: 10\n- Contagem Máxima: 5\n- Com Potência 9+, Poder Final +1\n- Recebe +5% a mais de dano para cada Potência\n- Perde 1 Contagem no Fim do Turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Church_LowMorale",
+            "name": "The Church",
+            "desc": "- Moral baixo\n- Ganhe 1 Fumaça ou Contagem de Fumaça adicional ao ganhá-los\n- Início do turno: ganhe 3 Fragilidade, 2 Aumento de dano e 1 Aumento de poder de defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Church_Panic",
+            "name": "The Church",
+            "desc": "- Pânico\n- Ganhe 2 Smoke ou Smoke Count adicionais ao ganhá-los\n- Início do turno: ganhe 3 Fragilidade, 4 Aumento de dano e 2 Aumento de poder de defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MeatGearForce",
+            "name": "Meat Gear: Coercion",
+            "desc": "- O HP não cai abaixo de 1 HP durante a Fase de Combate.\n- Esta unidade morre se tiver 1 HP no Fim do Turno.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AllSetForShooting",
+            "name": "Ready to Fire",
+            "desc": "- Slot de Habilidade +1\n- Modificar conjunto de Habilidades: Ganhe 1 uso da Habilidade 3, mas perca 1 uso da Habilidade 1\n- Causa +10% de dano para cada Munição usada pela Habilidade de Ataque Base\n- Habilidades de Ataque que ganham Munição causam +10% a mais de dano para cada Bala de Atirador ou Bala Mágica (escolha qualquer uma das duas que tiver o maior ganho de dano)\n- Ao Matar com uma Habilidade: cure 25 SP para 2 aliados (incluindo você mesmo) com o menor SP; +2 recursos E.G.O para a Afinidade da Habilidade que derrotou o alvo; +1 recurso E.G.O para todas as outras Afinidades",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

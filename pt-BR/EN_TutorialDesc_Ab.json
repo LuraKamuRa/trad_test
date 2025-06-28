@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": "tutorial_1001_renewal_01",
+      "content": "Nas masmorras, você pode encontrar entidades conhecidas como anormalidades. Mesmo entre os inimigos que você pode enfrentar ao longo de sua jornada, eles exigem a maior cautela e a tomada de decisão cuidadosa."
+    },
+    {
+      "id": "tutorial_1001_renewal_02",
+      "content": "Entidades como essas exigem uma abordagem prática mais meticulosa do que os outros inimigos."
+    },
+    {
+      "id": "tutorial_1001_renewal_03",
+      "content": "Encontros com esses inimigos são chamados de \"encontros focados\"."
+    },
+    {
+      "id": "tutorial_1001_renewal_04",
+      "content": "Em encontros regulares, você deu comando aos seus pecadores, encadeando habilidades da extremidade esquerda do painel para a direita."
+    },
+    {
+      "id": "tutorial_1001_renewal_05",
+      "content": "Em encontros focados, no entanto, você deve selecionar os ícones de habilidade dos pecadores e encorrer -los diretamente contra os slots de habilidade das anormalidades."
+    },
+    {
+      "id": "tutorial_1001_renewal_06",
+      "content": "Vamos realizar um exercício de campo prático. Selecione uma habilidade na coluna mais à esquerda do painel."
+    },
+    {
+      "id": "tutorial_1001_renewal_07",
+      "content": "Corrente o ícone de habilidade selecionado para o slot de habilidade da entidade."
+    },
+    {
+      "id": "tutorial_1001_renewal_08",
+      "content": "Precisamente. Lembre -se: em encontros focados, conecte as habilidades dos pecadores diretamente aos slots de habilidade dos inimigos."
+    },
+    {
+      "id": "tutorial_1001_renewal_09",
+      "content": "Por favor, pressione o equipamento à esquerda, se quiser aumentar o zoom e ver todo o campo de batalha."
+    },
+    {
+      "id": "tutorial_1001_renewal_10",
+      "content": "Bom. Pressionar a engrenagem à esquerda enquanto o zoom redefinirá seu campo de visão."
+    },
+    {
+      "id": "tutorial_1001_renewal_11",
+      "content": "Depois de selecionar e conectar todas as habilidades disponíveis aos slots de habilidades dos inimigos, o equipamento à direita será ativado. Em seguida, você pode prosseguir para a fase de combate."
+    },
+    {
+      "id": "tutorial_1001_renewal_12",
+      "content": "Então, querido gerente. Por favor, comande seus pecadores para que possamos continuar a batalha."
+    },
+    {
+      "id": "tutorial_1001_renewal_13",
+      "content": "Assim termina o básico da introdução aos encontros focados. \"Velocidade\" antes de continuarmos ainda mais na batalha."
+    },
+    {
+      "id": "tutorial_1001_renewal_14",
+      "content": "Anormalidades geralmente têm várias partes que podem ser direcionadas. A \"velocidade\" exibida acima de seus slots de habilidade reflete a velocidade das partes correspondentes."
+    },
+    {
+      "id": "tutorial_1001_renewal_01_popup_title",
+      "content": "Peças de anormalidade"
+    },
+    {
+      "id": "tutorial_1001_renewal_01_popup_desc",
+      "content": "Anormalidades geralmente têm várias partes que podem ser direcionadas.\nCada parte usará habilidades dos slots de habilidades atribuídos a eles.\nA velocidade dos slots de habilidade é a mesma que a velocidade da peça que os utiliza."
+    },
+    {
+      "id": "tutorial_1001_renewal_15",
+      "content": "A velocidade determina a ordem das ações em encontros."
+    },
+    {
+      "id": "tutorial_1001_renewal_16",
+      "content": "Ao contrário dos encontros regulares, você pode selecionar quais inimigos segmentarem em encontros focados. Você pode usar pecadores com valores de velocidade mais altos para forçar os inimigos com valores de velocidade mais baixos para atingir -os."
+    },
+    {
+      "id": "tutorial_1001_renewal_17",
+      "content": "Os pecadores com valores de velocidade mais altos podem forçar anormalidades com valores de velocidade mais baixos para atingir -os, resultando em um confronto."
+    },
+    {
+      "id": "tutorial_1001_renewal_18",
+      "content": "Os pecadores com valores de velocidade inferior ou igual não podem forçar anormalidades com valores de velocidade mais altos para atingir -os. A encadeamento da habilidade de um pecador mais lento a uma anormalidade mais rápida fará com que eles conduzam um ataque sem oposição, em vez de colidir com a anormalidade."
+    },
+    {
+      "id": "tutorial_1001_renewal_19",
+      "content": "Os pecadores que são direcionados pela habilidade de uma anormalidade, no entanto, podem usar sua habilidade para colidir com a habilidade da anormalidade que os direciona. Nesse caso, a velocidade não é um fator relevante."
+    },
+    {
+      "id": "tutorial_1001_renewal_20",
+      "content": "Eu entendo que a experiência prática pode ser a melhor maneira de aprender. Por enquanto, basta ter em mente que os pecadores com valores de velocidade mais altos podem redirecionar ataques de inimigos com valores de velocidade mais baixa para si mesmos."
+    },
+    {
+      "id": "tutorial_1001_renewal_02_popup_title",
+      "content": "Velocidade do pecador> velocidade do inimigo"
+    },
+    {
+      "id": "tutorial_1001_renewal_02_popup_desc",
+      "content": "Os pecadores com valores de velocidade mais altos podem forçar anormalidades com valores de velocidade mais baixos para atingir -os.\nIsso levará a um confronto (marcado por setas amarelas) entre o pecador e a anormalidade."
+    },
+    {
+      "id": "tutorial_1001_renewal_03_popup_title",
+      "content": "Velocidade do pecador ≤ velocidade do inimigo"
+    },
+    {
+      "id": "tutorial_1001_renewal_03_popup_desc",
+      "content": "Os pecadores com valores de velocidade inferior ou igual não podem forçar anormalidades com valores de velocidade mais altos para atingir -os.\nNesse caso, o pecador conduzirá um ataque sem oposição (marcado por setas azuis) em vez de colidir com a anormalidade."
+    },
+    {
+      "id": "tutorial_1001_renewal_04_popup_title",
+      "content": "Quando alvo de uma habilidade inimiga"
+    },
+    {
+      "id": "tutorial_1001_renewal_04_popup_desc",
+      "content": "Os pecadores que são direcionados pela habilidade de uma anormalidade podem usar sua habilidade para se chocá -lo (marcado por setas amarelas) com a habilidade da anormalidade que os direciona. Nesse caso, a velocidade não é um fator relevante."
+    }
+  ]
+}

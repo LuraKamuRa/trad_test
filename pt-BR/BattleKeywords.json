@@ -1,0 +1,1734 @@
+{
+    "dataList": [
+        {
+            "id": "AreaAtk",
+            "name": "AoE Attack",
+            "desc": "Tem como alvo 2 ou mais inimigos."
+        },
+        {
+            "id": "Enhancement",
+            "name": "Attack Power Up",
+            "desc": "As habilidades de ataque ganham Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "Agility",
+            "name": "Haste",
+            "desc": "A velocidade aumenta pela contagem do efeito por um turno."
+        },
+        {
+            "id": "Endurance",
+            "name": "Defense Power Up",
+            "desc": "As habilidades de defesa ganham Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "Reduction",
+            "name": "Attack Power Down",
+            "desc": "As habilidades de ataque perdem o Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "Binding",
+            "name": "Bind",
+            "desc": "A velocidade diminui pela contagem do efeito por um turno."
+        },
+        {
+            "id": "Vulnerable",
+            "name": "Fragile",
+            "desc": "Sofra mais dano de habilidades com base na contagem do efeito por um turno. (Máx. 10)",
+            "summary": "+{0}0% de dano sofrido"
+        },
+        {
+            "id": "Taunt",
+            "name": "Taunt",
+            "desc": ""
+        },
+        {
+            "id": "Stun",
+            "name": "Stun",
+            "desc": ""
+        },
+        {
+            "id": "ElectricShock",
+            "name": "Shock",
+            "desc": "Receba mais dano pelo valor do efeito do turno"
+        },
+        {
+            "id": "Burn",
+            "name": "Burn",
+            "desc": "No final do turno, receba dano fixo pela contagem do efeito e depois reduza-o pela metade."
+        },
+        {
+            "id": "Bleeding",
+            "name": "Bleed",
+            "desc": "Ao atacar, recebe dano fixo igual a (Contagem)% do HP atual e depois reduz pela metade."
+        },
+        {
+            "id": "Target",
+            "name": "Marked",
+            "desc": "Alvo do personagem com a passiva [Lâmina Afiada]."
+        },
+        {
+            "id": "SelfHarm_LowMorale",
+            "name": "Compulsion",
+            "desc": "- Moral baixo\n- Início do turno: Ganhe 2 de Aceleração e 2 de Frágil"
+        },
+        {
+            "id": "SelfHarm_Panic",
+            "name": "Compulsion",
+            "desc": "- Pânico\n- Início de Turno: Perde 10 HP"
+        },
+        {
+            "id": "Blame_LowMorale",
+            "name": "Outlash",
+            "desc": "- Moral baixo\n- Início do turno: Ganhe 2 Poderes de Ataque e 2 Frágeis"
+        },
+        {
+            "id": "Blame_Panic",
+            "name": "Outlash",
+            "desc": "- Pânico\n- Início do turno: Um aliado aleatório perde 20 SP"
+        },
+        {
+            "id": "Charge",
+            "name": "Charge",
+            "desc": "Recurso usado por certas habilidades para efeitos adicionais. Sua contagem pode ir até 20. A contagem diminui em 1 no final de cada turno."
+        },
+        {
+            "id": "DamageOverTime",
+            "name": "Ongoing Damage",
+            "desc": "No início do turno, receba dano fixo pela contagem do efeito."
+        },
+        {
+            "id": "ResultEnhancement",
+            "name": "Power Up",
+            "desc": "As habilidades ganham Poder final pela Contagem do efeito por um turno.",
+            "summary": "Habilidade Poder Final +{0}"
+        },
+        {
+            "id": "Protection",
+            "name": "Protection",
+            "desc": "Receba menos dano de habilidades com base na contagem do efeito por um turno. (Máx. 10)",
+            "summary": "-{0}0% de dano sofrido"
+        },
+        {
+            "id": "AttackDmgUp",
+            "name": "Damage Up",
+            "desc": "Causa mais dano com habilidades baseadas na contagem do efeito por um turno. (Máx. 10)",
+            "summary": "+{0}0% de dano causado"
+        },
+        {
+            "id": "DefenseUp",
+            "name": "Defense Level Up",
+            "desc": "O Nível de Defesa aumenta com base na Potência do efeito por um turno.",
+            "summary": "Nível de Defesa +{0}"
+        },
+        {
+            "id": "PlusCoinValueUp",
+            "name": "Plus Coin Boost",
+            "desc": "Aumente o poder das moedas Plus pela contagem do efeito."
+        },
+        {
+            "id": "MinusCoinValueUp",
+            "name": "Minus Coin Boost",
+            "desc": "Aumente o poder das moedas negativas pela contagem do efeito."
+        },
+        {
+            "id": "TimesCoinValueUp",
+            "name": "Multiply Coin Boost",
+            "desc": "Aumente o poder das moedas multiplicadas pela contagem do efeito."
+        },
+        {
+            "id": "Disarming",
+            "name": "Defense Power Down",
+            "desc": "As habilidades de defesa perdem o Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "ResultReduction",
+            "name": "Power Down",
+            "desc": "Todas as habilidades perdem o Poder final pela Contagem do efeito por um turno.",
+            "summary": "Habilidade Poder Final -{0}"
+        },
+        {
+            "id": "AttackDmgDown",
+            "name": "Damage Down",
+            "desc": "Causa menos dano com habilidades com base na contagem do efeito por um turno. (Máx. 10)",
+            "summary": "-{0}0% de dano causado"
+        },
+        {
+            "id": "DefenseDown",
+            "name": "Defense Level Down",
+            "desc": "O Nível de Defesa diminui com base na Potência do efeito por um turno.",
+            "summary": "Nível de Defesa -{0}"
+        },
+        {
+            "id": "Paralysis",
+            "name": "Paralyze",
+            "desc": "Fixe o Poder das Moedas em 0 por um turno, com uma Moeda por Contagem do efeito."
+        },
+        {
+            "id": "PlusCoinValueDown",
+            "name": "Plus Coin Drop",
+            "desc": "Reduza o poder das Plus Coins pela contagem do efeito."
+        },
+        {
+            "id": "MinusCoinValueDown",
+            "name": "Minus Coin Drop",
+            "desc": "Reduza o poder das Moedas Negativas pela Contagem do efeito."
+        },
+        {
+            "id": "TimesCoinValueDown",
+            "name": "Multiply Coin Drop",
+            "desc": "Reduza o poder de Multiplicar Moedas pela Contagem do efeito."
+        },
+        {
+            "id": "MoonLight",
+            "name": "Moonlight",
+            "desc": "Recurso usado por certas habilidades para efeitos adicionais."
+        },
+        {
+            "id": "Anger",
+            "name": "Rage",
+            "desc": "Gasto por certas habilidades. Necessário para o uso de certas habilidades."
+        },
+        {
+            "id": "Inactible",
+            "name": "Immobilize",
+            "desc": "Não atua no turno."
+        },
+        {
+            "id": "Combustion",
+            "name": "Burn",
+            "desc": "No final do turno, receba dano fixo pela Potência do efeito.\nEntão, reduza sua Contagem em 1."
+        },
+        {
+            "id": "Laceration",
+            "name": "Bleed",
+            "desc": "Ao lançar uma Moeda de ataque, receba dano fixo pela Potência do efeito.\nEntão, reduza sua Contagem em 1."
+        },
+        {
+            "id": "Vibration",
+            "name": "Tremor",
+            "desc": "Quando atacado por habilidades que ativam Tremor Burst, aumente o Stagger Threshold pela Potency do efeito.\nNo final do turno, reduza a Count em 1."
+        },
+        {
+            "id": "Burst",
+            "name": "Rupture",
+            "desc": "Quando atingido por um ataque, recebe dano fixo pela Potência do efeito.\nEntão, reduza sua Contagem em 1."
+        },
+        {
+            "id": "Sinking",
+            "name": "Sinking",
+            "desc": "Quando atingido por um ataque, recebe dano SP fixo pela Potência do efeito.\n(Unidades sem Sanidade recebem dano Gloom em vez disso.)\nEntão, reduza sua Contagem em 1."
+        },
+        {
+            "id": "Breath",
+            "name": "Poise",
+            "desc": "Ao acertar, ganhe uma chance baseada em Potência de causar dano crítico, reduzindo a Contagem em 1 se for bem-sucedido.\nNo final do turno, reduza a Contagem em 1."
+        },
+        {
+            "id": "BloodPocket",
+            "name": "Blood Sac",
+            "desc": "Use um ataque poderoso depois que o Conde atingir uma certa quantidade."
+        },
+        {
+            "id": "WaterPocket",
+            "name": "Fluid Sac",
+            "desc": "Cura HP com base na contagem."
+        },
+        {
+            "id": "DogThunder",
+            "name": "Lightning",
+            "desc": "Aumenta o poder quando o Conde atinge uma certa quantidade."
+        },
+        {
+            "id": "Run_Panic",
+            "name": "Oppression",
+            "desc": "Não pode agir por um turno. Quando atingido, foge da batalha após a habilidade do atacante terminar."
+        },
+        {
+            "id": "Operation",
+            "name": "Surgery",
+            "desc": "Morra quando a Contagem chegar a 5.\nReduza o HP Máx. em 20% (por Contagem).\nCause 20% (por Contagem) a mais de dano.\nNo início do turno, ganhe Haste pela Contagem do efeito."
+        },
+        {
+            "id": "Emergency_Operation",
+            "name": "Makeshift Surgery",
+            "desc": "Aumente o HP Máx. em 25% e o Poder de habilidade em 1 por Contagem deste efeito.\nA cada turno, aumente a Contagem deste efeito em 1.\nMorra quando a Contagem chegar a 5."
+        },
+        {
+            "id": "BabayagaTimeLimit",
+            "name": "Baba Yaga’s Coming!",
+            "desc": ""
+        },
+        {
+            "id": "PinkRibbon",
+            "name": "Pink Ribbons",
+            "desc": "No final do turno, se estiver com Potência 5+, remova este efeito e aplique ‘Desejoso’ no próximo turno."
+        },
+        {
+            "id": "Greedy",
+            "name": "Desirous",
+            "desc": "No início do turno, ganhe 10 Bind.\nTodas as resistências físicas mudam para ‘Fatal’.\nPoder de Habilidade de Ataque +2.\nPoder de Habilidade de Defesa -2."
+        },
+        {
+            "id": "PinkRibbon_Ishmael",
+            "name": "Pink Ribbons",
+            "desc": "A contagem aumenta em 1 sempre que a unidade afetada joga uma habilidade de ataque Coin.\nNo final do turno, inflija Bind pela contagem do efeito e, em seguida, remova o efeito."
+        },
+        {
+            "id": "Muckworm",
+            "name": "Maggots",
+            "desc": "Fim do turno: Sofra dano de Gula pela Contagem e depois reduza-o em 1; Contagem de Sangramento +1."
+        },
+        {
+            "id": "AttackUp",
+            "name": "Offense Level Up",
+            "desc": "O nível de ofensa aumenta com base na Potência do efeito por um turno."
+        },
+        {
+            "id": "AttackDown",
+            "name": "Offense Level Down ",
+            "desc": "O nível de ofensa diminui com base na Potência do efeito por um turno."
+        },
+        {
+            "id": "Liu_Meursault_Guard_Buff",
+            "name": "Great Mountain",
+            "desc": "Quando atacado, inflige +1 Contagem de Queimadura no atacante."
+        },
+        {
+            "id": "SlashResistUp",
+            "name": "Slash Resist Up",
+            "desc": "Diminui a Resistência ao Corte com base na Pilha.\n(0,1 por Pilha)"
+        },
+        {
+            "id": "PenetrateResistUp",
+            "name": "Pierce Resist Up",
+            "desc": "Diminui a Resistência à Perfuração com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "HitResistUp",
+            "name": "Blunt Resist Up",
+            "desc": "Diminua a Resistência ao Contundente com base na Pilha.\n(0,1 por Pilha)"
+        },
+        {
+            "id": "SlashDamageUp",
+            "name": "Slash DMG Up",
+            "desc": "Causa mais dano com habilidades de Slash com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "PenetrateDamageUp",
+            "name": "Pierce DMG Up",
+            "desc": "Causa mais dano com habilidades de Perfuração com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "HitDamageUp",
+            "name": "Blunt DMG Up",
+            "desc": "Causa mais dano com habilidades Blunt com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "SlashResistDown",
+            "name": "Slash Resist Down",
+            "desc": "Aumenta a Resistência ao Corte com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "PenetrateResistDown",
+            "name": "Pierce Resist Down",
+            "desc": "Aumenta a Resistência à Perfuração com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "HitResistDown",
+            "name": "Blunt Resist Down",
+            "desc": "Aumenta a Resistência ao Contundente com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "SlashDamageDown",
+            "name": "Slash DMG Down",
+            "desc": "Causa menos dano com habilidades de Slash com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "PenetrateDamageDown",
+            "name": "Pierce DMG Down",
+            "desc": "Causa menos dano com habilidades de Perfuração com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "HitDamageDown",
+            "name": "Blunt DMG Down",
+            "desc": "Causa menos dano com habilidades Blunt com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "CrimsonResistDown",
+            "name": "Wrath Resist Down",
+            "desc": "Aumenta a Wrath Resistance com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "ScarletResistDown",
+            "name": "Lust Resist Down",
+            "desc": "Aumenta a Resistência à Luxúria com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "AmberResistDown",
+            "name": "Sloth Resist Down",
+            "desc": "Aumenta a resistência à preguiça com base na pilha.\n(0,1 por pilha)"
+        },
+        {
+            "id": "ShamrockResistDown",
+            "name": "Gluttony Resist Down",
+            "desc": "Aumenta a Resistência à Gula com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "AzureResistDown",
+            "name": "Gloom Resist Down",
+            "desc": "Aumenta a Resistência à Escuridão com base na Pilha.\n(0,1 por Pilha)"
+        },
+        {
+            "id": "IndigoResistDown",
+            "name": "Pride Resist Down",
+            "desc": "Aumenta a Resistência ao Orgulho com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "VioletResistDown",
+            "name": "Envy Resist Down",
+            "desc": "Aumenta a Resistência à Inveja com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "CrimsonResistUp",
+            "name": "Wrath Resist Up",
+            "desc": "Reduza a Resistência à Ira com base no Stack.\n(0,1 por Stack)"
+        },
+        {
+            "id": "ScarletResistUp",
+            "name": "Lust Resist Up",
+            "desc": "Reduz a Resistência à Luxúria com base na Pilha.\n(0,1 por Pilha)"
+        },
+        {
+            "id": "AmberResistUp",
+            "name": "Sloth Resist Up",
+            "desc": "Diminui a resistência à preguiça com base na pilha.\n(0,1 por pilha)"
+        },
+        {
+            "id": "ShamrockResistUp",
+            "name": "Gluttony Resist Up",
+            "desc": "Diminua a Resistência à Gula com base na Pilha.\n(0,1 por Pilha)"
+        },
+        {
+            "id": "AzureResistUp",
+            "name": "Gloom Resist Up",
+            "desc": "Diminua a resistência à escuridão com base na pilha.\n(0,1 por pilha)"
+        },
+        {
+            "id": "IndigoResistUp",
+            "name": "Pride Resist Up",
+            "desc": "Diminua a Resistência ao Orgulho com base na Pilha.\n(0,1 por Pilha)"
+        },
+        {
+            "id": "VioletResistUp",
+            "name": "Envy Resist Up",
+            "desc": "Diminua a Resistência à Inveja com base na Pilha.\n(0,1 por Pilha)"
+        },
+        {
+            "id": "CrimsonDamageDown",
+            "name": "Wrath DMG Down",
+            "desc": "Causa menos dano com habilidades de Ira com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "ScarletDamageDown",
+            "name": "Lust DMG Down",
+            "desc": "Causa menos dano com habilidades de Luxúria com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "AmberDamageDown",
+            "name": "Sloth DMG Down",
+            "desc": "Causa menos dano com habilidades de Preguiça com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "ShamrockDamageDown",
+            "name": "Gluttony DMG Down",
+            "desc": "Causa menos dano com habilidades de Gula com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "AzureDamageDown",
+            "name": "Gloom DMG Down",
+            "desc": "Causa menos dano com habilidades de Gloom com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "IndigoDamageDown",
+            "name": "Pride DMG Down",
+            "desc": "Causa menos dano com habilidades de Orgulho com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "VioletDamageDown",
+            "name": "Envy DMG Down",
+            "desc": "Causa menos dano com habilidades de Inveja com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "CrimsonDamageUp",
+            "name": "Wrath DMG Up",
+            "desc": "Causa mais dano com habilidades de Ira com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "ScarletDamageUp",
+            "name": "Lust DMG Up",
+            "desc": "Causa mais dano com habilidades de Luxúria com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "AmberDamageUp",
+            "name": "Sloth DMG Up",
+            "desc": "Causa mais dano com habilidades de Preguiça com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "ShamrockDamageUp",
+            "name": "Gluttony DMG Up",
+            "desc": "Causa mais dano com habilidades de Gula com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "AzureDamageUp",
+            "name": "Gloom DMG Up",
+            "desc": "Causa mais dano com habilidades de Gloom com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "IndigoDamageUp",
+            "name": "Pride DMG Up",
+            "desc": "Causa mais dano com habilidades de Orgulho com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "VioletDamageUp",
+            "name": "Envy DMG Up",
+            "desc": "Causa mais dano com habilidades de Inveja com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "Curse",
+            "name": "Curse",
+            "desc": "Fim do Turno: No próximo turno, ganhe aleatoriamente um dos seguintes, então reduza a Contagem deste efeito em 1.\n1 Poder de Ataque Reduzido/1 Poder de Defesa Reduzido/2 Níveis de Ataque Reduzidos/2 Níveis de Defesa Reduzidos."
+        },
+        {
+            "id": "AttackDmgUp_Weak",
+            "name": "Weak-resist DMG Boost",
+            "desc": "Aumente o dano de ataques contra resistências Fracas em % com base na Contagem.\n(10% por Contagem)"
+        },
+        {
+            "id": "Bullet",
+            "name": "Ammo",
+            "desc": "Gasto por certas habilidades.\nAlguns ataques cancelam se faltar Munição."
+        },
+        {
+            "id": "Meursault_Last_Remodeling",
+            "name": "Final Augment",
+            "desc": "No início do turno, ganhe 3 de Aumento de Poder de Ataque, Aumento de Poder de Defesa e Aceleração; morra após 3 turnos."
+        },
+        {
+            "id": "Choice_90103301",
+            "name": "Struggle",
+            "desc": "Velocidade +1 para esta batalha.",
+            "summary": "Velocidade máxima +1"
+        },
+        {
+            "id": "Choice_90103402",
+            "name": "Relief",
+            "desc": "Velocidade +2 para esta batalha.",
+            "summary": "Velocidade máxima +2"
+        },
+        {
+            "id": "Choice_901001",
+            "name": "Spreading Flame",
+            "desc": "Início do combate: Aliados sem Habilidade de Ataque de Afinidade com Ira recebem 5 de dano de Ira"
+        },
+        {
+            "id": "Choice_901007",
+            "name": "Gentle Sendoff",
+            "desc": "Início do turno: Cura 10 HP e SP. (Até 3 turnos)",
+            "summary": "HP e SP +10"
+        },
+        {
+            "id": "Choice_901009",
+            "name": "Photopia",
+            "desc": "Início do Combate: Poder Final da Habilidade -1.",
+            "summary": "Habilidade Poder Final -1"
+        },
+        {
+            "id": "Choice_901010",
+            "name": "Emptied",
+            "desc": "Início do combate: Aliados sem a habilidade de ataque Lust Affinity são escalonados."
+        },
+        {
+            "id": "Choice_901019",
+            "name": "Contamination",
+            "desc": "Início de combate: Velocidade -2.",
+            "summary": "Velocidade de rotação -2"
+        },
+        {
+            "id": "Aggressive",
+            "name": "Instincts",
+            "desc": "No final do turno, se a contagem estiver em 4+, mude para um estado “agressivo”."
+        },
+        {
+            "id": "Cromer_Target",
+            "name": "Gaze of the One Who Grips",
+            "desc": "Cambaleou por um turno. Recebe +100% de dano de Kromer."
+        },
+        {
+            "id": "Poison",
+            "name": "Poison",
+            "desc": "No final do turno, receba dano fixo do Conde e depois reduza o Conde pela metade."
+        },
+        {
+            "id": "Desire",
+            "name": "Urge",
+            "desc": "No final do turno, se tiver 5+ acúmulos, receba 30 de dano de SP, ganhe 2 de Frágil e 10 de Vincular e remova este efeito."
+        },
+        {
+            "id": "Assemble",
+            "name": "Fanatic",
+            "desc": "Aumente o Poder Final da Habilidade pela Contagem do efeito contra unidades com Pregos no turno. (Aplica-se também a confrontos)"
+        },
+        {
+            "id": "Nail",
+            "name": "N Corp’s Nails",
+            "desc": "No início do turno, ganhe 1 Bleed e aumente a Contagem de Bleed pela Contagem deste efeito.\nNo final do turno, reduza a Contagem em 1."
+        },
+        {
+            "id": "BeingGolden",
+            "name": "Golden Sheen",
+            "desc": "No início do turno, cure 10 HP por contagem."
+        },
+        {
+            "id": "SlashTakeDamageDown",
+            "name": "Slash Protection",
+            "desc": "Receba menos dano das habilidades de Slash com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "PenetrateTakeDamageDown",
+            "name": "Pierce Protection",
+            "desc": "Receba menos dano das habilidades de Perfuração com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "HitTakeDamageDown",
+            "name": "Blunt Protection",
+            "desc": "Receba menos dano de habilidades contundentes com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "CrimsonTakeDamageDown",
+            "name": "Wrath Protection",
+            "desc": "Receba menos dano das habilidades de Ira com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "ScarletTakeDamageDown",
+            "name": "Lust Protection",
+            "desc": "Receba menos dano das habilidades de Luxúria com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "AmberTakeDamageDown",
+            "name": "Sloth Protection",
+            "desc": "Receba menos dano das habilidades de Preguiça com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "ShamrockTakeDamageDown",
+            "name": "Gluttony Protection",
+            "desc": "Receba menos dano das habilidades de Gula com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "AzureTakeDamageDown",
+            "name": "Gloom Protection",
+            "desc": "Receba menos dano das habilidades de Gloom com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "IndigoTakeDamageDown",
+            "name": "Pride Protection",
+            "desc": "Receba menos dano das habilidades de Orgulho com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "VioletTakeDamageDown",
+            "name": "Envy Protection",
+            "desc": "Receba menos dano das habilidades de Inveja com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "SlashTakeDamageUp",
+            "name": "Slash Fragility",
+            "desc": "Sofra mais dano com habilidades de Slash com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "PenetrateTakeDamageUp",
+            "name": "Pierce Fragility",
+            "desc": "Sofra mais dano com as habilidades de Perfuração com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "HitTakeDamageUp",
+            "name": "Blunt Fragility",
+            "desc": "Sofra mais dano com habilidades contundentes com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "CrimsonTakeDamageUp",
+            "name": "Wrath Fragility",
+            "desc": "Sofra mais dano das habilidades de Ira com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "ScarletTakeDamageUp",
+            "name": "Lust Fragility",
+            "desc": "Sofra mais dano das habilidades de Luxúria com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "AmberTakeDamageUp",
+            "name": "Sloth Fragility",
+            "desc": "Sofra mais dano com habilidades de Preguiça com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "ShamrockTakeDamageUp",
+            "name": "Gluttony Fragility",
+            "desc": "Sofra mais dano com habilidades de Gula com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "AzureTakeDamageUp",
+            "name": "Gloom Fragility",
+            "desc": "Sofra mais dano com habilidades de Gloom com base na contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "IndigoTakeDamageUp",
+            "name": "Pride Fragility",
+            "desc": "Sofra mais dano das habilidades de Orgulho com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "VioletTakeDamageUp",
+            "name": "Envy Fragility",
+            "desc": "Sofra mais dano das habilidades de Inveja com base na Contagem do efeito por um turno. (Máx. 10)"
+        },
+        {
+            "id": "NailPersonality",
+            "name": "Nails",
+            "desc": "Sangramento Único\nInício do Turno: Ganhe 1 Sangramento e aumente a Contagem de Sangramento pela Contagem deste efeito.\nFim do Turno: Reduza a Contagem pela Metade. (Arredondado para baixo)"
+        },
+        {
+            "id": "AssemblePersonality",
+            "name": "Fanatic",
+            "desc": "Aumente o Poder Final da Habilidade pela Contagem do efeito contra unidades com Pregos no turno. (Aplica-se também a confrontos)"
+        },
+        {
+            "id": "MarkOfHeresy",
+            "name": "Gaze",
+            "desc": "Receba +20% de dano das habilidades Pierce e Blunt por um turno.\nO aliado que derrotar a unidade marcada cura 10 SP; se o aliado for um 'N Corp. Fanatic', também aplique 1 Fanatic no próximo turno."
+        },
+        {
+            "id": "HitResultUp",
+            "name": "Blunt Power Up",
+            "desc": "Habilidades contundentes ganham Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "WeaknessAnalysis",
+            "name": "Weakness Analyzed",
+            "desc": "Uma resistência aleatória do tipo ataque “Resistir” ou “Normal” é enfraquecida [+0,2 no multiplicador de dano] por um turno."
+        },
+        {
+            "id": "Cycle",
+            "name": "Karma",
+            "desc": "Receba +1% de dano por Contagem. No final do turno, se em 108+ Contagem, a unidade morre."
+        },
+        {
+            "id": "Duress",
+            "name": "Captivity",
+            "desc": "Fique Staggered por 3 turnos.\nInício do Turno: Se Kqe-1j-23 estiver Staggered, remova este status."
+        },
+        {
+            "id": "ShamrockResultUp",
+            "name": "Gluttony Power Up",
+            "desc": "As Habilidades de Gula ganham Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "VioletResultUp",
+            "name": "Envy Power Up",
+            "desc": "As habilidades de inveja ganham Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "CyclingKarma",
+            "name": "Cyclical Karma",
+            "desc": "Todas as unidades transferem seu Karma para seus alvos após um ataque bem-sucedido.\nKarma não é transferido para My Form Empties enquanto seus aliados estiverem vivos.",
+            "summary": "Karma transferido na vitória do Clash"
+        },
+        {
+            "id": "Cromer_Ecstasy",
+            "name": "Ecstatic",
+            "desc": "Todas as resistências físicas do Maw mudam para ‘Fatal’."
+        },
+        {
+            "id": "Cromer_Madness",
+            "name": "Purity",
+            "desc": "Todas as partes ganham 3 Bind e 3 Damage Up, e suas resistências físicas mudam para ‘Fatal’."
+        },
+        {
+            "id": "TakeHpHealReduce",
+            "name": "HP Healing Down",
+            "desc": "HP curado por Passivos, efeitos de Habilidade ou efeitos de Moeda diminui proporcionalmente ao valor deste efeito. (Máx. 5)"
+        },
+        {
+            "id": "AttackLevelAdder",
+            "name": "Offense level+",
+            "desc": "O nível de ofensa aumenta pela contagem do efeito por um turno."
+        },
+        {
+            "id": "Thirst",
+            "name": "Appetite",
+            "desc": "Aumenta a cura fornecida pelo Passivo [Rustle Up].\nGasto quando o Passivo ativa."
+        },
+        {
+            "id": "GainSinStockAdder",
+            "name": "E.G.O Resource Amp",
+            "desc": "Aumenta a quantidade de recursos E.G.O obtidos com habilidades pela contagem do efeito por um turno."
+        },
+        {
+            "id": "Enrage",
+            "name": "Frenzy",
+            "desc": "Ganhe 3 Attack Power Up e 3 Fragile por um turno, e mude o comportamento. Não ganha Aggression quando atacado."
+        },
+        {
+            "id": "DimensionRift",
+            "name": "Dimensional Rift",
+            "desc": "No final do turno, ganhe Rupture Count pela quantidade deste efeito. Então, remova este efeito."
+        },
+        {
+            "id": "ShardOfUmbrella",
+            "name": "Umbrella Splinters",
+            "desc": "Ganhe 5 Rupturas por contagem no final do turno",
+            "summary": "Ganhe 5 Rupturas por contagem no final do turno"
+        },
+        {
+            "id": "WrappedCurseTag",
+            "name": "Entangled Curse Talisman",
+            "desc": "Causa +1% de dano por contagem\nCom contagem 9+, ganhe 2 de redução de poder de ataque no início do turno",
+            "summary": "Causa +1% de dano por contagem; em contagem 9+, ganha 2 de redução de poder de ataque no início do turno"
+        },
+        {
+            "id": "ReattachedCurseTag",
+            "name": "Reattached Curse Talisman",
+            "desc": "Em 9+, ganhe 5 Bind no início do turno.\nEm 12+, ganhe 5 Attack Power Down no início do turno.",
+            "summary": "Em 9+, ganhe 5 Bind no início do turno.\nEm 12+, ganhe 5 Attack Power Down no início do turno."
+        },
+        {
+            "id": "ElectricStorage",
+            "name": "Capacitor",
+            "desc": "Parece estar armazenando eletricidade em seu corpo.",
+            "summary": "Para exibição"
+        },
+        {
+            "id": "SelfCharge",
+            "name": "Self-charge",
+            "desc": "Correntes elétricas parecem fluir ao redor de seu corpo.\nApós a unidade enfrentar a morte, enquanto tiver Autocarga, seu HP é fixado em 1 até que seja totalmente consumido. (Máx. 20)",
+            "summary": "Para exibição"
+        },
+        {
+            "id": "Exalted",
+            "name": "Morale Boost",
+            "desc": "Ganhe dano até a contagem do efeito a cada turno (máx. 5)\nNão é possível ganhar o status enquanto estiver embriagado",
+            "summary": "Ganhe dano aumentado pela contagem do efeito a cada turno; não pode ganhar o status enquanto estiver bêbado"
+        },
+        {
+            "id": "Tipsiness",
+            "name": "Tipsy",
+            "desc": "Perca o poder de choque pela contagem do efeito (máx. 5)",
+            "summary": "Perca o poder de choque pela contagem do efeito"
+        },
+        {
+            "id": "Predation",
+            "name": "Predation",
+            "desc": "Parece estar preparando um movimento poderoso.",
+            "summary": "Para exibição"
+        },
+        {
+            "id": "ATL_EndureCombustion",
+            "name": "Burn Resistance",
+            "desc": "Ao receber dano de Burn, reduza o dano em 10% por contagem (máx. 10)",
+            "summary": "Ao receber dano de Queimadura, receba 10% a menos de dano por Contagem"
+        },
+        {
+            "id": "Resonate",
+            "name": "Resonant",
+            "desc": "Ao ativar o Tremor Burst ou aumentar o Threshold Stagger, cause 3% de dano fixo por contagem e aumente ainda mais o Threshold Stagger em 3% por contagem.",
+            "summary": "Ao ativar o Tremor Burst ou aumentar os Thresholds Stagger, cause dano e aumente ainda mais o Stagger Threshold"
+        },
+        {
+            "id": "VibrationAssimilation",
+            "name": "Tremor Sync",
+            "desc": "Em um confronto, o oponente tem -1 de Poder de Choque para cada 5 de Tremor que ele tiver",
+            "summary": "Em um confronto, o oponente tem -1 de Poder de Choque para cada 5 de Tremor que ele tiver"
+        },
+        {
+            "id": "CollapseAmpoule",
+            "name": "Decay Ampule",
+            "desc": "Sofra dano de 2% do HP máximo por contagem",
+            "summary": "Sofra dano de 2% do HP máximo por contagem"
+        },
+        {
+            "id": "InterlockingTime",
+            "name": "Interlocking Time",
+            "desc": "Reduz o dano final em 30% e armazena. Em 3 Count, recebe dano fixo em 1,5 vezes o dano acumulado e ganha 3 Bind no próximo turno.",
+            "summary": "Reduz o dano final em 30% e armazena. Em 3 Count, recebe dano fixo em 1,5 vezes o dano acumulado e ganha 3 Bind no próximo turno."
+        },
+        {
+            "id": "TimeRental",
+            "name": "Borrowed Time of the Fathoms",
+            "desc": "No final do turno, ganhe 3 de Aceleração e 2 de Dano Aumentado; se resta apenas 1 Contagem, ganhe 4 de Vinculação e 1 de Poder de Ataque Diminuído no próximo turno.",
+            "summary": "No final do turno, ganhe 3 de Aceleração e 2 de Dano Aumentado; se resta apenas 1 Contagem, ganhe 4 de Vinculação e 1 de Poder de Ataque Diminuído no próximo turno."
+        },
+        {
+            "id": "ATL_EndureLaceration",
+            "name": "Bleed Resistance",
+            "desc": "Ao receber dano de Sangramento, reduza o dano em 10% por Contagem (Máx. 10)",
+            "summary": "Ao receber dano de Sangramento, receba 10% a menos de dano por Contagem"
+        },
+        {
+            "id": "Bull_Sadness",
+            "name": "Unresolved Sorrow",
+            "desc": "No início do turno, ganhe Attack Power Down pela contagem.\nNo final do turno, se este efeito estiver em 3+ Contagem, muda para Expanding Sorrow",
+            "summary": ""
+        },
+        {
+            "id": "Bull_BuzzingEmotion",
+            "name": "Wavering Emotions",
+            "desc": "Início do turno: ganhe aleatoriamente Poder de Ataque, Paralisar ou Amarrar pela Contagem deste efeito e, em seguida, remova este efeito.",
+            "summary": "Início do turno: ganhe aleatoriamente Poder de Ataque, Paralisar ou Amarrar pela Contagem deste efeito e, em seguida, remova este efeito."
+        },
+        {
+            "id": "Scared",
+            "name": "Fear",
+            "desc": "Fim do turno: Com -20 SP ou menos, ganhe 1 de Proteção no próximo turno.",
+            "summary": "Fim do turno: Com -20 SP ou menos, ganhe 1 de Proteção no próximo turno."
+        },
+        {
+            "id": "Stressed",
+            "name": "Stressed",
+            "desc": "Fim do turno: Com -25 SP ou menos, ganhe 1 Aumento de Poder de Defesa no próximo turno.",
+            "summary": "Fim do turno: Com -25 SP ou menos, ganhe 1 Aumento de Poder de Defesa no próximo turno."
+        },
+        {
+            "id": "Nervous",
+            "name": "Nervous",
+            "desc": "Fim do turno: Com -15 SP ou menos, ganhe 5 de Defesa de Nível Aumentado no próximo turno.",
+            "summary": "Fim do turno: Com -15 SP ou menos, ganhe 5 de Defesa de Nível Aumentado no próximo turno."
+        },
+        {
+            "id": "ATL_Agility",
+            "name": "Faster!",
+            "desc": "Ganhe 2 de Aceleração",
+            "summary": "Para exibição"
+        },
+        {
+            "id": "ATL_Breath",
+            "name": "Aim True!",
+            "desc": "Ganhe 3 de Equilíbrio",
+            "summary": "Para exibição"
+        },
+        {
+            "id": "ATL_Target",
+            "name": "Get 'Em!",
+            "desc": "Ataca uma unidade simultaneamente.",
+            "summary": "Para exibição"
+        },
+        {
+            "id": "Bull_FadedHeat",
+            "name": "Momentary Cool",
+            "desc": "Núcleo e corpo perdem 50% do HP máximo"
+        },
+        {
+            "id": "Bull_Fever",
+            "name": "Fever",
+            "desc": "Causa +10% de dano por contagem\nReduzido em 1 no final do turno",
+            "summary": ""
+        },
+        {
+            "id": "Bull_ReinforcedSadness",
+            "name": "Expanding Sorrow",
+            "desc": "Muda o comportamento.",
+            "summary": "Muda o comportamento."
+        },
+        {
+            "id": "Crazy_LowMorale",
+            "name": "Maddened",
+            "desc": "- Moral baixo\n- Quando estiver com moral baixo pela primeira vez, mira unidades indiscriminadamente",
+            "undefined": "-"
+        },
+        {
+            "id": "Crazy_Panic",
+            "name": "Maddened",
+            "desc": "- Pânico\n- Alvos indiscriminadamente; Poder de Choque +1 e ganhe 2 de Dano",
+            "undefined": "-"
+        },
+        {
+            "id": "Suicide_LowMorale",
+            "name": "Suicidal",
+            "desc": "- Moral baixo\n- Quando estiver com moral baixo pela primeira vez, fique incapaz de agir",
+            "undefined": "-"
+        },
+        {
+            "id": "Suicide_Panic",
+            "name": "Suicidal",
+            "desc": "- Pânico\n- Não pode agir por 3 turnos. A unidade morre no início do turno; todos os seus aliados perdem 10 SP",
+            "undefined": "-"
+        },
+        {
+            "id": "Prowl_LowMorale",
+            "name": "Wandering",
+            "desc": "- Moral baixo\n- Fim do turno: causa 2 de dano SP aos aliados",
+            "undefined": "-"
+        },
+        {
+            "id": "Prowl_Panic",
+            "name": "Wandering",
+            "desc": "- Pânico\n- Fim de turno: causa 5 SP de dano aos aliados. Foge da batalha após 3 turnos terem passado",
+            "undefined": "-"
+        },
+        {
+            "id": "Blue_LowMorale",
+            "name": "Dejection",
+            "desc": "- Moral baixo\n- Em um confronto, se alguma moeda cair em coroa, o Poder de Choque -1 para o confronto",
+            "undefined": "-"
+        },
+        {
+            "id": "Blue_Panic",
+            "name": "Dejection",
+            "desc": "- Pânico\n- Em um confronto, se alguma Moeda cair em coroa, Poder de Choque -3 para o confronto",
+            "undefined": "-"
+        },
+        {
+            "id": "DongbaekGrow",
+            "name": "Growing",
+            "desc": "No final do turno, adicione +1 Contagem e ganhe HP Máx. proporcional à Contagem. (Máx. 3)",
+            "summary": "No final do turno, adicione +1 Contagem e ganhe HP Máx. proporcional à Contagem. (Máx. 3)"
+        },
+        {
+            "id": "DongbaekFlorescence",
+            "name": "Blooming",
+            "desc": "Fim do turno: Em contagem de 5+, receba dano de Preguiça em (Contagem)% do HP máximo e torne-se totalmente florescente\nEm contagem menor que 5, perca (Contagem * 5) SP e reduza a contagem em 1",
+            "summary": ""
+        },
+        {
+            "id": "DongbaekFullBloom",
+            "name": "Fully Bloomed",
+            "desc": "Não pode agir\nNo final do turno, perca 20 SP; se SP chegar a -45, cure SP completamente e ganhe 'Mente Ofuscada' no próximo turno.\nSe este efeito não for removido por 2 turnos, remova-o no final do turno.",
+            "summary": ""
+        },
+        {
+            "id": "DongbaekFascination",
+            "name": "Dazzled Mind",
+            "desc": "Alvos aliados para ataques\nQuando atordoado, remova este efeito no próximo turno.\nSe este efeito não for removido por 2 turnos, perca 30 SP e remova-o no final do turno.",
+            "summary": ""
+        },
+        {
+            "id": "DongbaekShowdown",
+            "name": "Dueling",
+            "desc": "Início do turno: Unidades sem esse status entram no status 'Totalmente Florescidas'\nSe Yi Sang tiver esse efeito, Dongbaek ganha 1 Aumento de Poder de Ataque",
+            "summary": ""
+        },
+        {
+            "id": "DongbaekScatterPetal",
+            "name": "Scattering Petals",
+            "desc": "Fim do turno: na contagem de 6+, fique atordoado",
+            "summary": ""
+        },
+        {
+            "id": "Thorn",
+            "name": "Thorns",
+            "desc": "Ao ser atingido, devolve 50% do dano sofrido pelo atacante",
+            "summary": "Causa 50% do dano sofrido pelo atacante"
+        },
+        {
+            "id": "Fragile_Mind_LowMorale",
+            "name": "Perilous Heart",
+            "desc": "Início do turno: Ganhe 2 Poderes de Ataque e 3 de Vinculação",
+            "summary": "Início do turno: Ganhe 2 Poderes de Ataque e 3 de Vinculação"
+        },
+        {
+            "id": "Fragile_Mind_Panic",
+            "name": "Faltering Heart",
+            "desc": "Em pânico, fique cambaleante.",
+            "summary": "Em pânico, fique cambaleante."
+        },
+        {
+            "id": "ErodingMind",
+            "name": "Corroding Heart",
+            "desc": "Início do turno: Ganhe 2 de Poder de Ataque para Baixo, 2 de Frágil e 5 de Vincular",
+            "summary": "Início do turno: Ganhe 2 de Poder de Ataque para Baixo, 2 de Frágil e 5 de Vincular"
+        },
+        {
+            "id": "CrimsonResultUp",
+            "name": "Wrath Power Up",
+            "desc": "As habilidades de Ira ganham Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "EmittedCurrent",
+            "name": "Spark Discharge",
+            "desc": "Quando atingido, o atacante ganha +1 Contagem de Carga; quando atingido por um ataque de Escuridão, ganha +1 Contagem de Ruptura e então reduz a Contagem em 1."
+        },
+        {
+            "id": "DistortedDongrangRadiantVanity",
+            "name": "Radiant Vanity",
+            "desc": "No início do turno, Dongrang ganha 1 Proteção e 1 Aumento de Poder de Ataque."
+        },
+        {
+            "id": "DistortedDongrangEmptyMark",
+            "name": "Empty Mark",
+            "desc": "Alvo de Dongrang. Ganhe 2 Bind a cada turno e receba +50% de dano de Dongrang."
+        },
+        {
+            "id": "DistortedDongrangEarnestAchievement",
+            "name": "Earnest Accomplishment",
+            "desc": "Se esta unidade for derrotada ou seu HP for reduzido a 1, o atacante ganha bônus."
+        },
+        {
+            "id": "DistortedDongrangEmptyHonor",
+            "name": "Empty Honor",
+            "desc": "Se Dongrang derrotar esta unidade, ela perde HP, ganha 1 de Vazio e fica enfraquecida no próximo turno."
+        },
+        {
+            "id": "DistortedDongrangMomentaryGlory",
+            "name": "Momentary Glory",
+            "desc": "Com contagem de 3+, Dongrang se torna mais poderoso."
+        },
+        {
+            "id": "DistortedDongrangEmptiness",
+            "name": "Emptiness",
+            "desc": "Na contagem 4+, Dongrang fica atordoado."
+        },
+        {
+            "id": "DistortedDongrangFruition",
+            "name": "Borne Fruition",
+            "desc": "A unidade que derrotou esta unidade recupera HP e ganha 1 Aceleração e 1 Aumento de Poder de Ataque no próximo turno."
+        },
+        {
+            "id": "EgoAwakenDongrangRadiantDesire",
+            "name": "Radiant Desire",
+            "desc": "Início do turno: Dongrang ganha 1 de aumento de dano e 1 de proteção."
+        },
+        {
+            "id": "EgoAwakenDongrangSeed",
+            "name": "Seeds",
+            "desc": "Fim do turno: em contagem 5+, ganhe Drenagem de Nutrientes por 2 turnos; em contagem menor que 5, reduza a Contagem em 1"
+        },
+        {
+            "id": "EgoAwakenDongrangTree",
+            "name": "Nutrient Drain",
+            "desc": "Fim do turno: Dongrang cura 10 HP"
+        },
+        {
+            "id": "EgoAwakenDongrangOverHeal",
+            "name": "Overheal",
+            "desc": "A contagem aumenta pela quantidade de HP que Dongrang causou a cura; com contagem de 50+, receba dano de Gula pela contagem do efeito, ganhe 5 Frágil e remova o efeito."
+        },
+        {
+            "id": "SinkingSurge",
+            "name": "Sinking Deluge",
+            "desc": "Causa dano de SP por (Contagem de Afundamento * Potência de Afundamento), então remove Afundamento\nSe o SP do alvo for -45 ou menos, o excesso de dano de SP é causado como dano de HP de afinidade com Gloom\n(Unidades sem Sanidade recebem tudo como dano de HP de Gloom)"
+        },
+        {
+            "id": "AmberResultUp",
+            "name": "Sloth Power Up",
+            "desc": "As habilidades de preguiça ganham Poder final pela Contagem do efeito por um turno.",
+            "summary": "Habilidade de Preguiça Poder Final +{0}"
+        },
+        {
+            "id": "Blue",
+            "name": "Tears",
+            "desc": "Fim do turno: Perca 5 SP\nMoedas Coroas causam 2 Afundamentos"
+        },
+        {
+            "id": "EgoAwakenDongrangTreeDisplay",
+            "name": "Nutrient Drain",
+            "desc": "Fim do turno: Dongrang cura 10 HP"
+        },
+        {
+            "id": "DongbaekFullBloomDisplay",
+            "name": "Fully Bloomed",
+            "desc": "Não pode agir\nNo final do turno, perca 20 SP; se SP chegar a -45, cure SP completamente e ganhe 'Mente Ofuscada' no próximo turno.\nSe este efeito não for removido por 2 turnos, remova-o no final do turno.",
+            "summary": ""
+        },
+        {
+            "id": "TakeHpHealIncrease",
+            "name": "HP Healing Boost",
+            "desc": "HP curado por Passivos, efeitos de Habilidade ou efeitos de Moeda aumenta proporcionalmente ao valor deste efeito. (Máx. 5)"
+        },
+        {
+            "id": "SkillPowerUp",
+            "name": "Base Power Up",
+            "desc": "Aumente o Poder Base das Habilidades pela Contagem do efeito."
+        },
+        {
+            "id": "MaxHpMultiplier",
+            "name": "Max HP Up",
+            "desc": "Aumenta o HP máximo em 10% por contagem."
+        },
+        {
+            "id": "KCorpSerum",
+            "name": "K Corp Ampule",
+            "desc": "Início do turno: Em menos de 4 contagens, cura em (Contagem * 5)% do HP máximo\nEm 4+ contagens, a unidade morre",
+            "summary": ""
+        },
+        {
+            "id": "Talisman",
+            "name": "Talisman",
+            "desc": "Ao acertar, inflija Ruptura pela Contagem; Ao acertar, ganhe Ruptura pela Contagem.\nFim do Turno: Em Contagem 6+, remova todos os Talismãs e receba dano fixo pela Contagem deles.",
+            "summary": "Infligir Ruptura com ataques e ganhar Ruptura quando atingido"
+        },
+        {
+            "id": "Choice_90104001",
+            "name": "Understanding",
+            "desc": "No início da batalha, ganhe 2 recursos E.G.O para cada Afinidade.",
+            "summary": "Ganhe +2 de recurso E.G.O para todas as afinidades"
+        },
+        {
+            "id": "Choice_9010400101",
+            "name": "Determined",
+            "desc": "Todas as Unidades Aliadas ganham +2 de Poder Final de Habilidade para esta batalha",
+            "summary": "Habilidade Poder Final +2"
+        },
+        {
+            "id": "Choice_90104002",
+            "name": "Longing",
+            "desc": "Todas as Unidades Aliadas ganham +1 de Poder de Habilidade para esta batalha",
+            "summary": "Poder de Habilidade +1"
+        },
+        {
+            "id": "MentalSystemResultIncrease_Typo",
+            "name": "SP Heal Efficiency",
+            "desc": "Quantidade de SP curada devido aos 'Fatores base que aumentam a Sanidade (SP)' da Identidade"
+        },
+        {
+            "id": "MentalSystemResultDecrease_Typo",
+            "name": "SP Loss Efficiency",
+            "desc": "Quantidade de SP perdida devido aos 'Fatores de base que diminuem a Sanidade (SP)' da Identidade"
+        },
+        {
+            "id": "DuelDeclaration",
+            "name": "Declared Duel",
+            "desc": "- Em um Clash entre a unidade que infligiu Declared Duel e a unidade com o status, o declarante tem +1 Clash Power. Ao acertar, o declarante ganha 1 Haste no próximo turno. (4 vezes por turno)\n- Expira quando a unidade inflige Declared Duel em um alvo diferente. Substituído quando outra unidade inflige Declared Duel no mesmo alvo."
+        },
+        {
+            "id": "Aggro",
+            "name": "Aggro",
+            "desc": "Em encontros focados, espaços com valores de Aggro mais altos têm mais probabilidade de serem alvos de inimigos."
+        },
+        {
+            "id": "BurstVulnerable",
+            "name": "Rupture Fragility",
+            "desc": "Receba +1 de dano por contagem de efeitos de Ruptura por um turno."
+        },
+        {
+            "id": "EmergencyFeed",
+            "name": "Emergency Nutrient Supply",
+            "desc": "No final do turno, se esta unidade tiver curado 15% do HP Máx. ou mais, o corpo será restaurado no próximo turno."
+        },
+        {
+            "id": "Bullet_Crab",
+            "name": "Molted Shell Shot",
+            "desc": "Recurso usado por certas habilidades para efeitos adicionais."
+        },
+        {
+            "id": "SinkingVulnerable",
+            "name": "Sinking Fragility",
+            "desc": "Receba +1 de dano por Contagem de efeitos de Afundamento por um turno."
+        },
+        {
+            "id": "BurstProtection",
+            "name": "Rupture Protection",
+            "desc": "Receba -1 de dano por Contagem de efeitos de Ruptura por um turno."
+        },
+        {
+            "id": "PseudoLastBoss_KingCrap",
+            "name": "Crab Rage",
+            "desc": "No início do turno, aplique Attack Power Up a todos os outros caranguejos aliados e ganhe 2 Protection se sua Shell não estiver quebrada.\n-5 SP para o alvo ao usar uma habilidade.\nCom 50%- HP, cada parte ganha 2 Attack Power Up e 2 Fragile."
+        },
+        {
+            "id": "ChargeForceField",
+            "name": "Charge Barrier",
+            "desc": "- Ganhe (Charge Barrier # x 3) Escudo.\n- Perca 1 Charge Barrier após perder (Charge Barrier # x 3) Escudo.\n- (Se a unidade for um funcionário da W Corp., TODOS os efeitos de Charge Barrier ativam em (Charge Barrier # x 5) em vez de em (Charge Barrier # x 3))\n- Fim do turno: Ganhe uma Contagem de Carga para cada Charge Barrier #, e Charge Barrier e Shield ganhos de Charge Barrier expiram completamente no próximo turno"
+        },
+        {
+            "id": "SlashResultUp",
+            "name": "Slash Power Up",
+            "desc": "As habilidades de corte ganham Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "Discard",
+            "name": "Discard",
+            "desc": "- Exclua Skills que se encaixem na condição e sejam selecionáveis ​​durante a Fase de Encadeamento do Painel. (Habilidades Defensivas e E.G.O não contam. Não exclui a Skill da lista de Skills futuras)\n- Skills descartadas não ativarão efeitos de Skill ou efeitos de Moedas além dos efeitos de Descarte, e não darão recursos E.G.O."
+        },
+        {
+            "id": "KnowledgeExplored",
+            "name": "Insight",
+            "desc": "A classificação da última Habilidade Descartada pela unidade com este efeito (Valor Base: 1)"
+        },
+        {
+            "id": "Unjust_Enrichment",
+            "name": "Unjust Enrichment",
+            "desc": "- Ganhado em Heads Hit contra alvo com Bleed (Máx. 4)\n- Quando a Passiva 'Bullets are Pricey' é ativada, consome toda a pilha de Unjust Enrichment para causar dano bônus"
+        },
+        {
+            "id": "Resentment",
+            "name": "Resentment",
+            "desc": "Se o inimigo com o <sprite name=\"RetaliationBook\"><color=#e30000><link=\"RetaliationBook\">Vengeance Mark</color></link></u> for atingido por um ataque, este efeito expira no Fim do Ataque.\nExpira no final do turno",
+            "undefined": "-"
+        },
+        {
+            "id": "RetaliationBook",
+            "name": "Vengeance Mark",
+            "desc": "Aplicado à unidade que causou mais dano a um aliado (máx. 1)",
+            "undefined": "-"
+        },
+        {
+            "id": "PenetrateResultUp",
+            "name": "Pierce Power Up",
+            "desc": "As habilidades de perfuração ganham Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "DuelDeclaration_DonQuixote",
+            "name": "Declared Duel - Don Quixote",
+            "desc": "- Em um Clash entre a unidade que infligiu Declared Duel e a unidade com o status, o declarante tem +1 Clash Power. Ao acertar, o declarante ganha 1 Haste no próximo turno. (4 vezes por turno)\n- Expira quando a unidade inflige Declared Duel em um alvo diferente. Substituído quando outra unidade inflige Declared Duel no mesmo alvo."
+        },
+        {
+            "id": "DuelDeclaration_Outis",
+            "name": "Declared Duel - Outis",
+            "desc": "- Em um Clash entre a unidade que infligiu Declared Duel e a unidade com o status, o declarante tem +1 Clash Power. Ao acertar, o declarante ganha 1 Haste no próximo turno. (4 vezes por turno)\n- Expira quando a unidade inflige Declared Duel em um alvo diferente. Substituído quando outra unidade inflige Declared Duel no mesmo alvo."
+        },
+        {
+            "id": "DuelDeclaration_Sinclair",
+            "name": "Declared Duel - Sinclair",
+            "desc": "- Em um Clash entre a unidade que infligiu Declared Duel e a unidade com o status, o declarante tem +1 Clash Power. Ao acertar, o declarante ganha 1 Haste no próximo turno. (4 vezes por turno)\n- Expira quando a unidade inflige Declared Duel em um alvo diferente. Substituído quando outra unidade inflige Declared Duel no mesmo alvo."
+        },
+        {
+            "id": "VibrationExplosion",
+            "name": "Tremor Burst",
+            "desc": "Aumenta o Limiar de Cambaleio do alvo pela Potência de Tremor no alvo"
+        },
+        {
+            "id": "OneOnOneDuel",
+            "name": "Single Combat",
+            "desc": "Estabelecido quando o Slot atacado é alvo de uma única unidade, e somente por essa única unidade. Esta condição é estabelecida somente entre a unidade atacante e o Slot atacado. (Não se aplica a Skills reutilizadas)"
+        },
+        {
+            "id": "BulletFreischutz",
+            "name": "사용하지 않음",
+            "desc": "Não em uso"
+        },
+        {
+            "id": "FreischutzShotCount",
+            "name": "Magic Bullet",
+            "desc": "- Máx.: 7\n- O valor muda dependendo de certos efeitos de Skill.\n- Quanto maior o valor, maior o Base Power e o Coin Power da Skill 3"
+        },
+        {
+            "id": "DarkFlame",
+            "name": "Dark Flame",
+            "desc": "- Queimadura Única\n- Valor Máximo: 7\n- O alvo perde Nível de Defesa igual ao valor deste efeito\n- Fim do Turno: Causa (Valor x Queimadura no alvo) dano de Afinidade de Orgulho, então expira"
+        },
+        {
+            "id": "CtrlTeamCaptain",
+            "name": "Control Team Captain",
+            "desc": "- Slot de Habilidade +1\n- Modificar conjunto de Habilidades: Ganhe 1 uso da Habilidade 3, mas perca 1 uso da Habilidade 1\n- Quando esta unidade derrota um inimigo com uma Habilidade, 2 aliados (incluindo esta unidade) com o menor SP curam 25 SP. Ganhe +2 de recurso E.G.O para a Afinidade da Habilidade que derrotou o inimigo; ganhe +1 de recurso E.G.O para o resto das Afinidades"
+        },
+        {
+            "id": "HeatedGasHarpoon",
+            "name": "Heated Gas Harpoon",
+            "desc": "Por 1 turno, inflija 1 Queimadura com Golpe na Cabeça"
+        },
+        {
+            "id": "OverHeatedGasHarpoon",
+            "name": "Overheated Gas Harpoon",
+            "desc": "Por 1 turno, inflija 1 Queimadura ao Acertar"
+        },
+        {
+            "id": "CoverAttack",
+            "name": "Assist Attack",
+            "desc": "- Se a unidade A aplicar este efeito à unidade B: a unidade B segue com um Ataque Sem Oposição com sua Habilidade 1 contra o mesmo inimigo que a unidade A atacou com sua Habilidade. Ativa no Fim do Ataque da Unidade A.\n- A Habilidade usada como Ataque de Assistência não afeta a lista de Habilidades futuras da Unidade B."
+        },
+        {
+            "id": "ReCompulsion",
+            "name": "Reverse Compulsion",
+            "desc": "Cure 15 SP em cada início de turno"
+        },
+        {
+            "id": "IndigoResultUp",
+            "name": "Pride Power Up",
+            "desc": "As Habilidades de Orgulho ganham Poder final pela Contagem do efeito por um turno."
+        },
+        {
+            "id": "BladeResultUpTier1",
+            "name": "Sword of the Homeland - Rending",
+            "desc": "A Habilidade 1 ganha Poder Final pela Contagem do efeito para este turno."
+        },
+        {
+            "id": "BladeResultUpTier2",
+            "name": "Sword of the Homeland - Penetrating",
+            "desc": "A Habilidade 2 ganha Poder Final pela Contagem do efeito para este turno."
+        },
+        {
+            "id": "SwordPlayOfTheHomeland",
+            "name": "Swordplay of the Homeland",
+            "desc": "- Quando em 5+ Poise, ao usar a Skill, a Skill 1 e a Skill 2 ganham Poder de Moeda +(3/# de Moedas, mínimo 1) e causam +(30/# de Moedas)% de dano em Acerto Crítico\n- Quando em 7+ Poise, ao usar a Skill, a Skill 3 causa +(30/# de Moedas)% a mais de dano e causa +(50/# de Moedas)% de dano em Acerto Crítico"
+        },
+        {
+            "id": "SwordPlayOfTheMemorial",
+            "name": "Remembrance",
+            "desc": "- Quando em 5+ Poise, ao usar a Skill, a Skill 1 e a Skill 2 ganham Poder de Moeda +(3/# de Moedas, mínimo 1) e causam +(30/# de Moedas)% de dano em Acerto Crítico\n- Quando em 7+ Poise, ao usar a Skill, a Skill 3 causa +(30/# de Moedas)% a mais de dano e causa +(50/# de Moedas)% de dano em Acerto Crítico"
+        },
+        {
+            "id": "RedApricotBlossom",
+            "name": "Red Plum Blossom",
+            "desc": "- Sangramento Único\n- Valor máximo: 10\n- +10% de chance desta unidade ser Acertada Criticamente se esta unidade for o alvo principal\n- Quando atingido por um Acerto Crítico, ganha Sangramento igual à metade do valor e recebe +(valor x 3)% de dano no Acerto Crítico\n- Reduz o valor em 1 quando atingido",
+            "summary": "Maior chance de ser atingido criticamente; receba mais dano ao ser atingido criticamente"
+        },
+        {
+            "id": "VibrationCollapse",
+            "name": "Tremor - Decay",
+            "desc": "Perca 1 Nível de Defesa para cada 4 Potências de Tremor em si mesmo\nQuando Atingido por Habilidades que ativam Explosão de Tremor, aumente o Limiar de Cambaleio pela Potência do efeito\nFim do Turno: reduza a Contagem em 1\n(Interage da mesma forma que o Tremor normal faz com efeitos que aumentam ou reduzem a Potência/Contagem de Tremor)"
+        },
+        {
+            "id": "EchoOfMansion",
+            "name": "Echoes of the Manor",
+            "desc": "- 50% de chance de ganhar +1 Contagem de Afundamento ao ganhar Potência de Afundamento ou Contagem de efeitos de Habilidade ou Moeda\n- Unidades com SP: Mude o Tipo de Pânico para Ecos da Mansão. Quando esta unidade entra em Pânico, inflija 2 Ecos da Mansão a 2 outros aliados aleatórios desta unidade\n- Unidades sem SP: -10% de chance de virar Cara\n- Reduza em 1 no Fim do Turno\nEste efeito não é cumulativo; infligi-lo substituirá o valor atual pelo valor infligido.\n※ Aplique a condicional \"Unidades sem SP\" a certos inimigos que têm SP, mas não podem alterar seus Tipos de Pânico."
+        },
+        {
+            "id": "Switch_Vibration",
+            "name": "Amplitude Conversion",
+            "desc": "Converte Tremor ou Tremor já convertido no alvo para um tipo diferente de Tremor.\nOs valores de Potência e Contagem não mudam durante a conversão."
+        },
+        {
+            "id": "AzureResultUp",
+            "name": "Gloom Power Up",
+            "desc": "As habilidades de escuridão ganham poder final pela contagem do efeito por um turno."
+        },
+        {
+            "id": "VibrationCrack",
+            "name": "Tremor - Fracture",
+            "desc": "- Quando Staggered, e quando a soma de Tremor Potency e Count somam 20 ou mais, aumenta o Stagger Level em 1\n- Não pode exceder o Stagger Level máximo com este efeito\n\nQuando atingido por ataques que ativam Tremor Burst, aumenta o Stagger Threshold pela Potência do efeito\nFinal de Turno: reduz a Contagem em 1\n(Interage da mesma forma que o Tremor normal faz com efeitos que aumentam ou reduzem Tremor Potency/Count)"
+        },
+        {
+            "id": "ForwardToTheKing",
+            "name": "Before the King",
+            "desc": "Quando o ataque desta unidade com 1 Peso de Ataque acertar, cause 50% do valor da Moeda resultante no Acerto como (Afinidade/Tipo de Ataque da Habilidade de Ataque usada para acertar) de dano contra 2 outros inimigos atacáveis ​​com menos HP.",
+            "summary": ""
+        },
+        {
+            "id": "ForwardToTheBoundKing",
+            "name": "Before the King in Binds",
+            "desc": "Quando o ataque desta unidade com 1 Peso de Ataque acerta, inflija 100% do valor da Moeda resultante no Acerto como (Afinidade/Tipo de Ataque da Habilidade de Ataque usada para acertar) de dano contra 2 outros inimigos atacáveis ​​com o menor HP",
+            "summary": ""
+        },
+        {
+            "id": "MarkOfButler",
+            "name": "B.M.",
+            "desc": "Melhora as habilidades do chefe mordomo da família Edgar Ryōshū contra alvos com este efeito.\nFim do turno: reduza a contagem em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "PreparedMeat",
+            "name": "Prepared Meat",
+            "desc": "Se as condições forem atendidas, a Rainha das Fadas mata esta unidade no Fim do Turno"
+        },
+        {
+            "id": "Hunger",
+            "name": "Hunger",
+            "desc": "Fim do turno: ganhe 1 se esta unidade não conseguiu derrotar um aliado com Carne Preparada.\nCom 75%- HP, ganhe 2. Com 50%- HP, ganhe 3.\nInício do turno: perca 1 se esta unidade derrotou um aliado com Carne Preparada.\nCom valor 0, ganhe (# de aliados derrotados x 3) Redução de Poder de Ataque e Redução de Poder de Defesa.",
+            "summary": ""
+        },
+        {
+            "id": "UnstableFeeling",
+            "name": "Volatile Passion",
+            "desc": "- Ao acertar, inflija 1 Queimadura\n- Se o alvo principal tiver Queimadura, Poder Final +1\n- Ao ser atingido, se esta unidade tiver uma Habilidade de Defesa encadeada no Início do Combate, inflija Queimadura contra o atacante pelo turno\n- Fim do turno: perca (# de turnos gastos no estado E.G.O Volátil x 5) SP. (Perda máxima de SP: 40)",
+            "summary": ""
+        },
+        {
+            "id": "VibrationEcho",
+            "name": "Tremor - Reverb",
+            "desc": "- Em Tremor Burst, receba dano de Preguiça igual à Potência de Tremor em si mesmo.\n- Quando atingido por Habilidades que ativam Tremor Burst, aumente o Stagger Threshold pela Potência do efeito.\n- Fim do Turno: reduza a Contagem em 1.\n(Interage da mesma forma que Tremor normal faz com efeitos que aumentam ou reduzem a Potência/Contagem de Tremor)",
+            "summary": ""
+        },
+        {
+            "id": "ShieldManagerCryingToad",
+            "name": "Blubberbubble",
+            "desc": "- Este efeito conta como um efeito de 'Gerenciamento de Escudo'.\n- Fim do Turno: Reduz a Contagem em 1\n- Esta unidade não perde Escudo no Fim do Turno enquanto tiver o efeito Blubberbubble (a menos que seja esgotado por dano ou efeito)\n- Se o Escudo afetado por Blubberbubble quebrar devido a receber dano, inflija 4 Potência/Contagem de Afundamento contra o atacante. (Quanto desse valor '4' é Potência ou Contagem é determinado aleatoriamente)\n- Esta unidade pode acumular seu valor de Escudo usando este efeito. No entanto, enquanto Blubberbubble estiver em efeito, o valor de Escudo não pode exceder 60% do HP Máx. desta unidade.",
+            "summary": ""
+        },
+        {
+            "id": "VibrationContinue",
+            "name": "Tremor - Everlasting",
+            "desc": "- Quando atingido por Habilidades ou efeitos de Moedas que ativam Explosão de Tremor, (Potência de Tremor em si)% de chance de ativar uma Explosão de Tremor adicional. (máx. 50%)\n- Quando atingido por Habilidades ou efeitos de Moedas que ativam Explosão de Tremor, (Contagem de Tremor em si)% de chance de ativar uma Explosão de Tremor adicional. (máx. 50%)\n- Quando atingido por Habilidades que ativam Explosão de Tremor, aumenta o Limiar de Cambaleio pela Potência do efeito\n- Fim do Turno: reduz a Contagem em 1\n(Interage da mesma forma que o Tremor normal faz com efeitos que aumentam ou reduzem a Potência/Contagem de Tremor)",
+            "summary": ""
+        },
+        {
+            "id": "TimeSuspend",
+            "name": "Time Moratorium",
+            "desc": "- Não sofre nenhum dano enquanto este efeito estiver ativo; armazena todo o dano recebido em vez disso\n- Fim do Combate: Se houver apenas 1 Contagem restante deste efeito, o efeito aciona Explosão de Tremor após causar (100 + (Acúmulo x 15)% do dano armazenado como dano de Preguiça\n- Fim do Turno: ganha 1 Acúmulo e perde 1 Contagem\n- A Moratória do Tempo expirará imediatamente após acionar o Explosão de Tremor e o efeito de dano de Preguiça se outra instância de Moratória do Tempo for infligida a uma unidade com Moratória do Tempo.",
+            "summary": ""
+        },
+        {
+            "id": "TimeRentalTwoPersonality",
+            "name": "Borrowed Time",
+            "desc": "Fim do turno em 2+ contagem:\n- Ganhe (Contagem de tempo emprestado - 1) Aceleração, Aumento de poder de choque e Frágil no próximo turno\n- Se esta unidade estiver configurada para ganhar mais Vinculação do que Aceleração no próximo turno, o efeito Tempo emprestado expira no próximo Início do turno, e esta unidade fica atordoada\n\nFim do turno: Em 1 contagem, ganhe 2 (Acumulação de tempo emprestado - 1) Vinculação no próximo turno\nFim do turno: Ganhe 1 Acumulação, perca 1 Contagem",
+            "summary": ""
+        },
+        {
+            "id": "VibrationChainPersonality",
+            "name": "Tremor - Chain",
+            "desc": "- Perca 1 Clash Power para cada 10 Tremor Potency em si mesmo (máx. 3)\n- Quando atingido por Skills que ativam Tremor Burst, aumente o Stagger Threshold pela Potência do efeito\n- Fim do turno: reduza a Contagem em 1\n- (Interage da mesma forma que o Tremor normal faz com efeitos que aumentam ou reduzem Tremor Potência/Contagem)",
+            "summary": ""
+        },
+        {
+            "id": "GazePersonality",
+            "name": "Gaze of Contempt",
+            "desc": "- Valor Máximo: 7\n- Causa +7% a mais de dano para cada Olhar de Desprezo\n- Fim do Turno: este efeito expira\n- Fim do Turno: Com valor de Olhar de Desprezo 7, converta-o para Desprezo do Olhar no próximo turno em vez de expirar\n\n[Desprezo do Olhar]\n- Ganhe 7 de Proteção\n- Ganhe 7 de Dano Reduzido\n- Um dos Slots desta unidade ganha +20 de Aggro\n- Não pode ganhar Olhar de Desprezo enquanto o Desprezo do Olhar estiver ativo\n- Fim do Turno: este efeito expira",
+            "summary": ""
+        },
+        {
+            "id": "ContemptPersonality",
+            "name": "Contempt of the Gaze",
+            "desc": "- Ganhe 7 de Proteção\n- Ganhe 7 de Dano Reduzido\n- Um dos Slots de Habilidade desta unidade ganha +20 de Aggro\n- Não pode ganhar Olhar de Desprezo enquanto o Desprezo do Olhar estiver ativo\n- Fim do Turno: este efeito expira",
+            "summary": ""
+        },
+        {
+            "id": "KnowledgeTraining",
+            "name": "Erudition",
+            "desc": "- Valor Máximo: 6\n- Ao Descartar uma Habilidade, ganhe (Erudição x 1,5)% do HP máximo desta unidade como Escudo (uma vez por turno)\n- Se esta unidade Descartar uma Habilidade com 2+ Insight, ganhe 1 Poder de Choque (uma vez por turno)\n- Reduzido em 1 ao receber dano de HP após ser atingido pela Habilidade de Ataque de um inimigo\n- Expira quando Cambaleado",
+            "summary": ""
+        },
+        {
+            "id": "BoseProjektil",
+            "name": "Torn Memory",
+            "desc": "- Valor Máximo: 7\n- Usado para certas Habilidades",
+            "summary": ""
+        },
+        {
+            "id": "ChargeLoad",
+            "name": "Load",
+            "desc": "- Valor Máximo: 6\n- Habilidades de Ataque que consumiram Contagem de Carga causam +2,5% a mais de dano para cada valor em si mesmo (máx. 15%)\n- Se a unidade afetada for um funcionário da W Corp., causa +5% a mais de dano para cada valor em vez disso (máx. 30%)\n- Fim do Turno: este efeito expira",
+            "summary": ""
+        },
+        {
+            "id": "PhotoElectricity",
+            "name": "Photoelectricity",
+            "desc": "Valor Máximo: 3\nQuando esta unidade é atingida, o Atacante ganha Contagem de Carga igual ao valor (uma vez por Habilidade)\n- Se o Atacante tiver Contagem de Carga 5, ele ganha +3 Contagem de Carga adicional\nFim do Turno: este efeito expira",
+            "summary": ""
+        },
+        {
+            "id": "Coffin",
+            "name": "Coffin",
+            "desc": "- Valor Máximo: 10\n- No Fim do Turno:\n- Ganhe 2 de Dano Up no próximo turno para cada Valor 3 (máx. 6)\n- Aumente a Velocidade mínima em 1 no próximo turno para cada Valor 4 (máx. 2)\n- Ganhe 1 Clash Power Up no próximo turno para cada Valor 5 (máx. 2)",
+            "summary": ""
+        },
+        {
+            "id": "WildHunt",
+            "name": "Wild Hunt",
+            "desc": "- No mesmo turno, esta unidade ganhou Wild Hunt pela primeira vez, sempre tenha 1 HP restante; \"reviva\" (cure 50% de HP e reinicie SP para 0) esta unidade no final do turno.\n- Se esta unidade for morta por um ataque, ganhe recurso E.G.O para o recurso E.G.O menos possuído\n- Se esta unidade for morta por um ataque, inflija 3 Naufrágios contra o último atacante\n- Morre no final do mesmo turno em que esta unidade foi revivida",
+            "summary": ""
+        },
+        {
+            "id": "NightPathfinding",
+            "name": "Dullahan",
+            "desc": "- Valor Máximo: 3\n- Ganhe 3 Níveis de Ataque\n- Perca 3 Níveis de Defesa\n- Aumente os valores de Velocidade Mínima e Máxima em 1\n- Fim do Turno: Ganhe 1 Dullahan no próximo turno (Com -25 SP ou menos, no entanto, perca completamente o Dullahan)\n- Fim do Turno: Se esta unidade tiver Dullahan, perca (15 - (Caixão/2)) SP. (mín. 10)",
+            "summary": ""
+        },
+        {
+            "id": "WanderingFootsteps",
+            "name": "Impending Ruin",
+            "desc": "- Unidades com SP: alteram seu Tipo de Pânico para \"\"Ruína\"\".\n(Ruína: quando esta unidade entra em estado de Moral Baixo, ganha 3 Afundamentos em cada Fim de Turno e perde 1 Poder de Choque. Quando esta unidade entra em Pânico, ganha 5 Afundamentos e 3 Contagens de Afundamentos em cada Fim de Turno e perde 2 Poder de Choque)\n- Unidades sem SP: -10% de chance de virar Cara\n- Reduzido em 1 no Fim de Turno\n- Este efeito não é cumulativo; infligi-lo substituirá o valor atual pelo valor infligido.\n※ Aplique a condicional \"\"Unidades sem SP\"\" a certos inimigos que têm SP, mas não podem alterar seus Tipos de Pânico.",
+            "summary": ""
+        },
+        {
+            "id": "WanderingFootsteps_Main",
+            "name": "Impending Ruin",
+            "desc": "- Alvos com SP: Muda seu tipo de pânico para 'Ruína'\n- Reduzido em 1 no fim do turno",
+            "summary": ""
+        },
+        {
+            "id": "WanderingFootsteps_Sub",
+            "name": "Impending Ruin",
+            "desc": "-10% de chance de virar cara\n- Reduzido em 1 no fim do turno",
+            "summary": ""
+        },
+        {
+            "id": "WanderingFootsteps_LowMorale",
+            "name": "Ruin",
+            "desc": "- Moral baixo\n- Poder de choque -1 em si mesmo. Ganhe 3 afundamentos em cada fim de turno",
+            "summary": "Poder de Choque -1 em si mesmo. Ganhe 3 Afundamentos em cada Fim de Turno",
+            "undefined": "-"
+        },
+        {
+            "id": "WanderingFootsteps_Panic",
+            "name": "Ruin",
+            "desc": "- Pânico\n- Poder de Choque -2 em si mesmo. Ganhe 5 de Afundamento e +3 de Contagem de Afundamento em cada Fim de Turno",
+            "summary": "Poder de Choque -2 em si mesmo. Ganhe 5 Afundamentos e +3 Contagem de Afundamentos em cada Fim de Turno",
+            "undefined": "-"
+        },
+        {
+            "id": "UninvitedGuestPersonality",
+            "name": "The Uninvited",
+            "desc": "- Valor Máximo: 2\n- Após a morte, o último atacante cura 3 SP; então, um aliado aleatório sem esse efeito ganha 2 Pilhas desse efeito.\n- Recebe +0,5% a mais de dano para cada Afundamento em si mesmo (máx. 10%; para Encontros Focados, conte Afundamento em cada Parte separadamente)\n- Fim do Turno: reduzido em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DevyatDimensionalSack",
+            "name": "Courier Trunk - Rodion",
+            "desc": "- Valor base: 0\n- Início do turno: ganhe 3 Stack\n- Stack não expira em Recuo; ele é armazenado em vez disso\n- Em 10+ Stack: aumente os valores de Velocidade mínima e máxima em 1\n- Em 20+ Stack: ganhe 1 Clash Power Up e 1 Slash Damage Up\n- Em 30+ Stack:\n· No uso da habilidade, receba (Stack/3)% de dano HP e (Stack/3) de dano SP\n· No fim do turno, receba (Stack/2)% de dano HP e (Stack/2) de dano SP (aplica-se antes de Recuo)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Retreat",
+            "name": "Strategic R&R Mode",
+            "desc": "- Fim do turno: recupere-se do Stagger e recue do encontro (a menos que você seja um Stagger forçado; não conta como morte)\n· Em batalhas em cadeia, dê os slots desta unidade para uma unidade substituída e mova-se para o lugar mais atrás na ordem de implantação das unidades de backup (escape completamente do encontro se não houver outras unidades de backup restantes para trocar de lugar com o próximo turno. Ao retornar à batalha, retorne na ordem em que recuaram)\n· Ao retornar à batalha, retorne com a mesma quantidade de HP e SP que esta unidade tinha quando recuou e elimine todos os efeitos em si mesmo para alguns selecionados (se esta unidade tiver menos de 0 SP ao recuar, redefina SP para 0)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DefensiveStance",
+            "name": "Defensive Stance",
+            "desc": "- Valor Máximo: 2\n- Este efeito não aumenta em potência; acumulá-lo apenas estende sua duração.\n- Reduzido em 1 no Fim do Turno\n- Quando uma unidade ganha este efeito, ganha os seguintes efeitos no próximo turno:\n· Fixa a Velocidade desta unidade para seu valor mínimo\n· Ganha 5 de Nível de Defesa Aumentado\n· Cada um dos Slots desta unidade ganha +(10 / # de Slots desta unidade) Aggro\n· Ao encadear Habilidades, esta unidade pode atrair o ataque dos inimigos em direção a esta unidade, independentemente da Velocidade (apenas Encontros Focados)\n· Após Vitória no Choque, aciona Explosão de Tremor\n· Não pode ser atordoado por dano",
+            "summary": ""
+        },
+        {
+            "id": "CanDuelGuard",
+            "name": "Clashable Guard",
+            "desc": "- On Clash Win: aumenta o Stagger Threshold do alvo pelo Clash Power final desta unidade.\n- On Clash Lose: quando atingido, reduz o Skill Power final do atacante pelo Final Power desta unidade.\n- On Clash Lose: não ganha Final Power das seguintes fontes: Resonance e a disparidade de Level contra a Attack Skill",
+            "summary": ""
+        },
+        {
+            "id": "SuperCoin",
+            "name": "Unbreakable Coin",
+            "desc": "- Esta moeda não quebra em Clash Lose.\n- Se uma habilidade de ataque tiver esta moeda, ataque com esta moeda após ser atingido.\n- Em Clash Lose, fixe o poder da moeda da moeda não quebrada para 1",
+            "summary": ""
+        },
+        {
+            "id": "BloodScissorPersonalityFirst",
+            "name": "Blood-tinged Scissorblades",
+            "desc": "- Valor Máximo: 10\n- Estágio 1 Blood-tinged Scissorblades\n- Em 10+ Blood-tinged Scissorblades, converte para Blood-tinged Scissorblades II.\n- Em 20+ Blood-tinged Scissorblades, converte para Blood-tinged Scissorblades III.\n- Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.\n- Blood-tinged Scissorblades não cai abaixo de 1.\n- Em Blood-tinged Scissorblades II, ganhe 1 Offense Level Up e 1 Defense Level Down com base na Pilha\n- Em Blood-tinged Scissorblades III, ganhe 1 Offense Level Up com base na Pilha",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodScissorPersonalitySecond",
+            "name": "Blood-tinged Scissorblades II",
+            "desc": "- Valor Máximo: 20\n- Estágio 2 Tesoura Tingida de Sangue\n- Início do Turno: ganhe 1 Nível de Ataque Aumentado e 1 Nível de Defesa Diminuído para cada 5 Pilhas\n- Em 10+ Tesoura Tingida de Sangue, converte para Tesoura Tingida de Sangue II.\n- Em 20+ Tesoura Tingida de Sangue, converte para Tesoura Tingida de Sangue III.\n- Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.\n- Tesoura Tingida de Sangue não cai abaixo de 1.\n- Em Tesoura Tingida de Sangue II, ganhe 1 Nível de Ataque Aumentado e 1 Nível de Defesa Diminuído com base na Pilha\n- Em Tesoura Tingida de Sangue III, ganhe 1 Nível de Ataque Aumentado com base na Pilha",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodScissorPersonalityThird",
+            "name": "Blood-tinged Scissorblades III",
+            "desc": "- Valor Máximo: 30\n- Estágio 3 Tesouras Tingidas de Sangue\n- Início do Turno: ganhe 1 Aumento de Nível de Ofensa para cada 5 Pilhas\n- Em 10+ Tesouras Tingidas de Sangue, converte para Tesouras Tingidas de Sangue II.\n- Em 20+ Tesouras Tingidas de Sangue, converte para Tesouras Tingidas de Sangue III.\n- Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.\n- Tesouras Tingidas de Sangue não cai abaixo de 1.\n- Em Tesouras Tingidas de Sangue II, ganhe 1 Aumento de Nível de Ofensa e 1 Redução de Nível de Defesa com base na Pilha\n- Em Tesouras Tingidas de Sangue III, ganhe 1 Aumento de Nível de Ofensa com base na Pilha",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "LineCuttingPersonality",
+            "name": "Sewing Target",
+            "desc": "- Valor Máximo: 1\n- Recebe +0,5% a mais de dano para cada Sangramento em si mesmo (máx. 10%)\n- Fim do Turno: reduzido em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Snare",
+            "name": "Lasso",
+            "desc": "- Valor Máximo: 3\n- Fim do Turno: ganhe Potência de Ruptura igual ao valor de Velocidade atual desta unidade (máx. 5) e ganhe 1 Vinculação no próximo turno\n- Fim do Turno: reduzido em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodyHandGregFirst",
+            "name": "Bloodied Hand",
+            "desc": "- Valor Máximo: 10\n- Estágio 1 Bloodied Hand\n- Em 10+ Bloodied Hand, converte para Bloodied Hand II.\n- Em 20+ Bloodied Hand, converte para Bloodied Hand III.\n- Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.\n- Em Bloodied Hand II, ganha 1 Offense Level Up com base na Pilha\n- Em Bloodied Hand III, ganha 1 Offense Level Up com base na Pilha e adicionalmente inflige 1 Ruptura e 1 Sangramento ao Acertar com Habilidades Básicas",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodyHandGregSecond",
+            "name": "Bloodied Hand II",
+            "desc": "- Valor Máximo: 20\n- Estágio 2 Bloodied Hand\n- Início do Turno: ganhe 1 Offense Level Up para cada 10 Stack\n- Em 10+ Bloodied Hand, converte para Bloodied Hand II.\n- Em 20+ Bloodied Hand, converte para Bloodied Hand III.\n- Reverte para o Estágio anterior quando o Stack cai abaixo dos requisitos.\n- Em Bloodied Hand II, ganhe 1 Offense Level Up com base no Stack\n- Em Bloodied Hand III, ganhe 1 Offense Level Up com base no Stack e adicionalmente inflija 1 Ruptura e 1 Sangramento ao Acertar com Habilidades Básicas",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodyHandGregThird",
+            "name": "Bloodied Hand III",
+            "desc": "- Valor Máximo: 30\n- Estágio 3 Bloodied Hand\n- Início do Turno: ganhe 1 Offense Level Up para cada 10 Stack\n- Ao Acertar com Habilidades Básicas: adicionalmente inflija 1 Ruptura e 1 Sangramento\n- Em 10+ Bloodied Hand, converte para Bloodied Hand II.\n- Em 20+ Bloodied Hand, converte para Bloodied Hand III.\n- Reverte para o Estágio anterior quando o Stack cai abaixo dos requisitos.\n- Em Bloodied Hand II, ganhe 1 Offense Level Up com base no Stack\n- Em Bloodied Hand III, ganhe 1 Offense Level Up com base no Stack e adicionalmente inflija 1 Ruptura e 1 Sangramento Ao Acertar com Habilidades Básicas",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WornHeartGreg",
+            "name": "Ailing Heart",
+            "desc": "- Valor Máximo: 10\n- Fim do Turno: ganhe 1 Stack\n- Início do Turno: ganhe 1 Defense Level Up para cada 3 Stack\n- Com 50%- HP, ganhe 1 Defense Level para cada 3 Stack\n- Com 40%- HP, Ao Acertar com Habilidades Básicas, cure (Stack x 5)% do dano causado Ao Acertar como HP (mín. 1; arredondado para baixo; cure até 30 HP por Habilidade)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloomingThornsRodionFirst",
+            "name": "Blooming Thorn",
+            "desc": "- Valor Máximo: 10\n- Estágio 1 Blooming Thorn\n- Ganhe 1 Nível de Defesa para cada 2 Pilhas (máx. 5)\n- Quando atingido, inflija 1 Sangramento contra o atacante e perca 1 Pilha\n- [A Princesa de La Mancha e Rodion Apenas]\n· No máximo da Pilha, converta para o próximo Estágio deste efeito.\n· Inflija +(Estágio - 1) mais Sangramento e Potência de Ruptura com os efeitos de Moeda de Habilidade de Ataque Base desta unidade.\n· Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloomingThornsRodionSecond",
+            "name": "Blooming Thorn II",
+            "desc": "- Valor Máximo: 20\n- Estágio 2 Blooming Thorn\n- Ganhe 1 Nível de Defesa para cada 2 Pilhas (máx. 5)\n- Quando atingido, inflija 1 Sangramento contra o atacante e perca 1 Pilha\n- [A Princesa de La Mancha e Rodion Apenas]\n· No máximo da Pilha, converta para o próximo Estágio deste efeito.\n· Inflija +(Estágio - 1) mais Sangramento e Ruptura com os efeitos de Moedas de Habilidade de Ataque Base desta unidade.\n· Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloomingThornsRodionThird",
+            "name": "Blooming Thorn III",
+            "desc": "- Valor Máximo: 30\n- Estágio 3 Blooming Thorn\n- Ganhe 1 Nível de Defesa para cada 2 Pilhas (máx. 5)\n- Quando atingido, inflija 1 Sangramento contra o atacante e perca 1 Pilha\n- [A Princesa de La Mancha e Rodion Apenas]\n· No máximo da Pilha, converta para o próximo Estágio deste efeito.\n· Inflija +(Estágio - 1) mais Sangramento e Ruptura com os efeitos de Moedas de Habilidade de Ataque Base desta unidade.\n· Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FestivalFeverRodion",
+            "name": "Festive Fever",
+            "desc": "- Valor Máximo: 10\n- Expira no Fim do Turno\n- Contra alvos com Sangramento: causa +1,5% a mais de dano para cada Pilha\n- Habilidades que consomem ou ganham Bloodfeast causam +3% a mais de dano para cada Pilha em vez disso",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "VibrationSpring",
+            "name": "Tremor - Clockwinding",
+            "desc": "- Velocidade Máxima + 2\n- Consuma Tremor Count em si mesmo para infligir mais 1 de Tremor Potency ou Count ao infligir com os efeitos de Skill ou Coin desta unidade\n- Quando atingido por Skills que ativam Tremor Burst, aumente o Stagger Threshold pela Potência do efeito\n- Fim do Turno: reduza a Count em 1\n- (Interage da mesma forma que o Tremor normal faz com efeitos que aumentam ou reduzem Tremor Potency/Count)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DevyatDimensionalSackSinclair",
+            "name": "Courier Trunk - Sinclair",
+            "desc": "- Valor base: 0\n- Início do turno: ganhe 3 Stack\n- Stack não expira em Recuo; ele é armazenado em vez disso\n- Em 10+ Stack: aumente os valores de Velocidade mínima e máxima em 1\n- Em 20+ Stack: ganhe 1 Clash Power Up e 1 Blunt Damage Up\n- Em 30+ Stack:\n· No uso da habilidade, receba (Stack/3)% de dano HP e (Stack/3) de dano SP\n· No fim do turno, receba (Stack/2)% de dano HP e (Stack/2) de dano SP (aplica-se antes de Recuo)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Zazen",
+            "name": "Dhyāna",
+            "desc": "- Pilha Máxima: 108\n- Causa +1% a mais de dano para cada Pilha",
+            "summary": "Causa mais dano"
+        },
+        {
+            "id": "SwirlingBloodPersonality",
+            "name": "Shimmering [Bloodfiend]",
+            "desc": "- Pilha Máxima: 50\n- Enquanto esse efeito existir, todo dano de Sangramento recebido pelo HP do Escudo é convertido em Bloodfeast.\n- Ganhe HP do Escudo igual a Pilha no momento de sua aplicação\n- Expira no Fim do Turno",
+            "summary": ""
+        },
+        {
+            "id": "BloodArmorPersonalityFirst",
+            "name": "Hardblood",
+            "desc": "- Pilha Máxima: 10\n- Estágio 1 Hardblood\n- Em 10+ Hardblood, converte para Hardblood II.\n- Em 20+ Hardblood, converte para Hardblood III.\n- Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.\n- Hardblood não cai abaixo de 1.\n- Aumenta os valores de Velocidade Mínima e Máxima em 1 para cada 10 Hardblood\n- Em Hardblood II, ganha 1 Nível de Ataque com base na Pilha\n- Em Hardblood III, ganha 1 Nível de Ataque e 1 Nível de Defesa com base na Pilha",
+            "summary": ""
+        },
+        {
+            "id": "BloodArmorPersonalitySecond",
+            "name": "Hardblood II",
+            "desc": "- Pilha Máxima: 20\n- Estágio 2 Hardblood\n- Início do Turno: ganhe 1 Aumento de Nível de Ofensa para cada 5 Pilhas\n- Aumente os valores de Velocidade Mínima e Máxima em 1\n- Em 10+ Hardblood, converte para Hardblood II.\n- Em 20+ Hardblood, converte para Hardblood III.\n- Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.\n- Hardblood não cai abaixo de 1.\n- Em Hardblood II, ganhe 1 Aumento de Nível de Ofensa com base na Pilha\n- Em Hardblood III, ganhe 1 Aumento de Nível de Ofensa e 1 Aumento de Nível de Defesa com base na Pilha",
+            "summary": ""
+        },
+        {
+            "id": "BloodArmorPersonalityThird",
+            "name": "Hardblood III",
+            "desc": "- Pilha Máxima: 30\n- Estágio 3 Hardblood\n- Início do Turno: ganhe 1 Nível de Ataque e 1 Nível de Defesa para cada 5 Pilhas\n- Aumente os valores de Velocidade Mínima e Máxima em 2\n- Em 10+ Hardblood, converte para Hardblood II.\n- Em 20+ Hardblood, converte para Hardblood III.\n- Reverte para o Estágio anterior quando a Pilha cai abaixo dos requisitos.\n- Hardblood não cai abaixo de 1.\n- Em Hardblood II, ganhe 1 Nível de Ataque com base na Pilha\n- Em Hardblood III, ganhe 1 Nível de Ataque e 1 Nível de Defesa com base na Pilha",
+            "summary": ""
+        },
+        {
+            "id": "SadLamanchaland",
+            "name": "Responsibility",
+            "desc": "- Valor Máximo: 1\n- Poder de Choque +1\n- Causa +20% a mais de dano\n- Recebe +20% a mais de dano",
+            "summary": ""
+        }
+    ]
+}

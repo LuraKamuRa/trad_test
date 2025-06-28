@@ -1,0 +1,189 @@
+{
+  "dataList": [
+    {
+      "id": 2036,
+      "name": "Silver Watch Case",
+      "desc": "Ao causar danos a um inimigo com habilidades de ataque (não contando, por exemplo, habilidades) que infligem [[suporte]] potência, contagem ou tremor único, causam +10% mais danos.\n\nSe a habilidade desencadeada [[suporte]] no inimigo pela primeira vez nesta curva, infligir +2 [[suporte]] contagem no próximo turno (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 2036,
+          "simpleDesc": "Acordo +10% mais dano"
+        },
+        {
+          "abilityID": 20361,
+          "simpleDesc": "Infligir +2 [[suporte]] contagem no próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 2037,
+      "name": "Faded Watch Case",
+      "desc": "Ao colidir com um inimigo mais rápido, coloque o poder +1.\n\nAo causar danos a um inimigo mais rápido, infligir 3 [[suporte]] potência e +2 [[suporte]] contam no próximo turno. (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 2037,
+          "simpleDesc": "Power de conflito +1"
+        },
+        {
+          "abilityID": 20371,
+          "simpleDesc": "Infligir 3 [[suporte]] Potência e +2 [[suporte]] Contagem na próxima volta"
+        }
+      ]
+    },
+    {
+      "id": 2038,
+      "name": "Warning Notice",
+      "desc": "Turn End: Infligir 1 [[suporte]] ao inimigo mais rápido na próxima curva. (para anormalidades, uma parte)\n\nSe o alvo tiver [[suporte]] ou 'tremor exclusivo', infligir 2 [[suporte]].\n\nQuando um aliado ataca alvos com [[suporte]], acordo + (5 + (2,5 x [[suporte]])) mais danos. (no máximo 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 2038,
+          "simpleDesc": "Aplique 1 [[suporte]] Próximo turno"
+        },
+        {
+          "abilityID": 20381,
+          "simpleDesc": "Acordo + (5 + (2,5 x [[suporte]] valor)) mais danos"
+        }
+      ]
+    },
+    {
+      "id": 2039,
+      "name": "Etched Clock Hands",
+      "desc": "Primeira virada Início de uma onda: infligir (9 - velocidade atual) [[suporte]] potência para 3 inimigos com a velocidade mais lenta. (Min. 3)\n\nOcorrente + 10% mais danos contra alvos com 12+ [[suporte]] ou 'tremor exclusivo' no início da curva.",
+      "simpleDesc": [
+        {
+          "abilityID": 2039,
+          "simpleDesc": "Infligir (9 - velocidade atual) [[suporte]] potência"
+        },
+        {
+          "abilityID": 20391,
+          "simpleDesc": "Acordo +10% mais dano"
+        }
+      ]
+    },
+    {
+      "id": 2040,
+      "name": "Rusted Clock Hands",
+      "desc": "Primeira virada Início de uma onda: infligir (9 - velocidade atual) [[suporte]] potência (min. 3) e (9 - velocidade atual)/2 [[bracket]] contam para 1 inimigo com a velocidade mais rápida. (arredondado; para anormalidades, uma parte)\n\nTome -10% menos dano dos alvos com 12+ [[suporte]] ou 'tremor exclusivo' no Start Start.",
+      "simpleDesc": [
+        {
+          "abilityID": 2040,
+          "simpleDesc": "Infligir (9 - velocidade atual) [[suporte]] potência (min. 3) e (9 - velocidade de corrente)/2 [[bracket]] contagem"
+        },
+        {
+          "abilityID": 20401,
+          "simpleDesc": "Danos causados ​​-10%."
+        }
+      ]
+    },
+    {
+      "id": 2041,
+      "name": "Chalice of Trickle-down",
+      "desc": "Quando um aliado com habilidades de ataque (não por exemplo, habilidades) que infligem a potência, a contagem ou o 'tremor único' vencem um confronto, infligir 2 [[suporte]] potência e +2 [[bracket]] contagem. (2 vezes por turno)\n\nIdentidades de Yurodivy: Infligir 3 [[suporte]] Potência e +3 [[Bracket]] Contagem (3 vezes por turno)\n\nSe a identidade afetada entrar em conflito contra alvos com níveis de ofensa mais altos, o poder de conflito +2; Ocorre +20% mais danos ao atacar depois de vencer o confronto.",
+      "simpleDesc": [
+        {
+          "abilityID": 2041,
+          "simpleDesc": "Infligir 2 [[suporte]] Potência e +2 [[suporte]] contagem"
+        },
+        {
+          "abilityID": 20411,
+          "simpleDesc": "Infligir 3 [[suporte]] Potência e +3 [[suporte]] contagem"
+        },
+        {
+          "abilityID": 20412,
+          "simpleDesc": "Poder de conflito +2, causar +20% mais danos"
+        }
+      ]
+    },
+    {
+      "id": 2042,
+      "name": "Prepaid Time Receipt",
+      "desc": "Acordo + (5 + (2,5 x diferença de velocidade))% mais danos contra inimigos mais rápidos com mais de 2 anos de velocidade. (no máximo 15%)\n\nTurn End: Se um aliado causou danos com uma habilidade de ataque (não contando, por exemplo, habilidades), essa virada contra inimigos mais rápidos com mais de 2 velocidades de velocidade, infligir 2 [[suporte]] e 1 [[suporte]] ao inimigo na próxima curva. (uma vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 2042,
+          "simpleDesc": "Acordo + (5 + (diferença de velocidade 2,5 x))% mais danos contra"
+        },
+        {
+          "abilityID": 20421,
+          "simpleDesc": "Infligir 2 [[suporte]] e 1 [[suporte]] ao inimigo próximo turno na próxima curva"
+        }
+      ]
+    },
+    {
+      "id": 2043,
+      "name": "Pocket Watch : Type L",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam potência [[Bracket]], contagem ou efeitos de 'tremor exclusivo'. (Sem contar, por exemplo, habilidades)\n\nÀs habilidades dos Aliados 3s que infligem potência, contagem ou 'tremor exclusivo': potência de moedas +2 e causar +25% mais danos.\n\nQuando um aliado que inflige a potência [[suporte]], contagem ou \"tremor exclusivo\" [[suporte]] em um inimigo com habilidades de ataque (incluindo, por exemplo, habilidades): multiplique a potência [[suporte]] e a contagem de 1,5 (somente quando realmente converte -os em diferentes tipos 'e tremendo) e o enxugamento 5 [[[ (uma vez por turno)\n\nPrimeira virada Início de uma onda: infligir (12 - velocidade atual) [[suporte]] potência (min. 6) a 3 inimigos com a velocidade mais lenta.",
+      "simpleDesc": [
+        {
+          "abilityID": 2043,
+          "simpleDesc": "Habilidade 3 ganha poder de moeda +2 e causar +25% mais danos"
+        },
+        {
+          "abilityID": 20431,
+          "simpleDesc": "Multiplique [[suporte]] potência e contagem por 1.5 ao desencadear a conversão de amplitude"
+        },
+        {
+          "abilityID": 20432,
+          "simpleDesc": "Infligir (12 - velocidade atual) [[suporte]] potência"
+        }
+      ]
+    },
+    {
+      "id": 2044,
+      "name": "Pocket Watch : Type E",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam potência [[Bracket]], contagem ou efeitos de 'tremor exclusivo'. (Sem contar, por exemplo, habilidades)\n\nÀs habilidades dos Aliados 3s que infligem potência, contagem ou 'tremor exclusivo': potência de moedas +2 e causar +25% mais danos.\n\nQuando um aliado que inflige [[suporte]] potência, contagem ou 'tremor exclusivo' causa danos a um inimigo mais lento com mais de 2 velocidades entre eles: acordo + ([[bracket]] potência no alvo, max 25)% mais danos e infligir 2 [[faixa]] sempre os causos da dano (max 6).\n\nPrimeira virada Início de uma onda: infligir (12 - velocidade atual) [[suporte]] potência (min. 6) e (velocidade 12 -corrente)/2 [[bracket]] contam 1 inimigo com a velocidade mais rápida. (arredondado; para anormalidades, uma parte)",
+      "simpleDesc": [
+        {
+          "abilityID": 2044,
+          "simpleDesc": "Habilidade 3 ganha poder de moeda +2 e causar +25% mais danos"
+        },
+        {
+          "abilityID": 20441,
+          "simpleDesc": "Acordo +([[suporte]] potência no alvo)% mais danos; infligir 2 [[suporte]] toda vez que o aliado causa dano"
+        },
+        {
+          "abilityID": 20442,
+          "simpleDesc": "Infligir (12 - velocidade atual) [[suporte]] potência (min. 3) e (9 - velocidade de corrente)/2 [[bracket]] contagem"
+        }
+      ]
+    },
+    {
+      "id": 2045,
+      "name": "Pocket Watch : Type Y",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam potência [[Bracket]], contagem ou efeitos de 'tremor exclusivo'. (Sem contar, por exemplo, habilidades)\n\nÀs habilidades dos Aliados 3s que infligem potência, contagem ou 'tremor exclusivo': potência de moedas +2 e causar +25% mais danos.\n\nIdentidades de Yurodivy: Habilidade 3 ganha potência de moedas +2 e acordo +(25 +(soma de [[suporte]] potência e contagem no alvo))% mais danos. (máximo 100%)\n\nIdentidades de Yurodivy: Ganhe +3 [[Bracket]] Contagem no Start Turn.",
+      "simpleDesc": [
+        {
+          "abilityID": 2045,
+          "simpleDesc": "Habilidade 3 ganha poder de moeda +2 e causar +25% mais danos"
+        },
+        {
+          "abilityID": 20451,
+          "simpleDesc": "Habilidade 3 ganha potência de moedas +2 e negócio +(25 +(soma de [[suporte]] potência e contagem no alvo))% mais danos."
+        },
+        {
+          "abilityID": 20452,
+          "simpleDesc": "Ganhe +3 [[Bracket]] Count"
+        }
+      ]
+    },
+    {
+      "id": 2046,
+      "name": "Pocket Watch : Type P",
+      "desc": "Encontro Iniciado: Este presente é ativado quando 5 ou mais identidades têm habilidades de ataque que aplicam potência [[Bracket]], contagem ou efeitos de 'tremor exclusivo'. (Sem contar, por exemplo, habilidades)\n\nÀs habilidades dos Aliados 3s que infligem potência, contagem ou 'tremor exclusivo': potência de moedas +2 e causar +25% mais danos.\n\nQuando um aliado que inflige [[suporte]] potência, contagem ou 'tremor exclusivo' se chocam contra um inimigo mais rápido com mais de 2 velocidades de velocidade: poder de conflito +2 e negócio +([[[suporte]] potência no alvo)% mais danos. (no máximo 50%)\n\nVire o início: do mais lento ao mais rápido, os 3 aliados mais lentos ganham 5 [[suporte]], 3 [[suporte]] e 2 [[backet]], respectivamente.",
+      "simpleDesc": [
+        {
+          "abilityID": 2046,
+          "simpleDesc": "Habilidade 3 ganha poder de moeda +2 e causar +25% mais danos"
+        },
+        {
+          "abilityID": 20461,
+          "simpleDesc": "Clash Power +2 e Deal +([[[suporte]] potência no alvo)% mais danos"
+        },
+        {
+          "abilityID": 20462,
+          "simpleDesc": "Ganho [[suporte]]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "dataList": [
+    {
+      "id": 836602,
+      "name": "",
+      "subDesc": "",
+      "desc": "Parece que podemos restaurar um dos sistemas desativados da equipe de segurança, além das funcionalidades básicas do regenerador.\n\nQual devemos reativar?",
+      "options": [
+        {
+          "message": "Regenerator Mk2",
+          "messageDesc": "Selecione para curar o HP para todos os aliados.",
+          "result": [
+            "Regenerator Mk2 reactivated.\n\nI can feel the Sinners' bodies rapidly regenerating.\n\nIt didn't just regenerate our wounds; it healed their fatigue or minor injuries as well."
+          ]
+        },
+        {
+          "message": "Corrupção mental neutralizando gás",
+          "messageDesc": "Selecione para curar SP para todos os aliados.",
+          "result": [
+            "The Mental Corruption Neutralizing Gas has been activated.\n\nThe Sinners all look noticeably more comfortable, as though their heads have been cleared.\n\nWe're now all ready to fight our next battle."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971032,
+      "name": "Education & Machine Console",
+      "desc": "Encontramos uma unidade de contenção quando estávamos atravessando o corredor. Sua porta está soltando faíscas de raios.\n\nParece que o gerador está curto; A porta se recusa a fechar. Mas não parece que qualquer anormalidade tenha escapado.\n\nExperimente, por podermos dar uma olhada melhor, a pura escuridão da unidade de contenção torna difícil dizer o que está acontecendo lá.\n\nAs teias que se destacavam do teto e o piso suspeito de arremesso era bastante bizarro, no entanto.",
+      "options": [
+        {
+          "message": "Olhe para as teias.",
+          "messageDesc": "Selecione para ganhar um sangramento, por exemplo, presente",
+          "result": [
+            "Looking through the webs reveals... small spiders crawling within.\n\nAnd that they were no mere spiderweb.\n\nThe darkness that devoured the floor lights up, red eyes glowing and teeming.\n\nThe little spiders notice the generator, and begin weaving their webs.\n\nSome of them stick to the Sinners, slowly crawling up their bodies."
+          ]
+        },
+        {
+          "message": "Verifique o gerador.",
+          "messageDesc": "Selecione para obter uma cobrança, por exemplo, presente",
+          "result": [
+            "Thankfully, it doesn't take much time before a malfunctioning part is identified.\n\nWe carefully removed the malfunctioning part...\n\n... and all of a sudden, the generator stops fizzling, and the door of the containment unit slams shut."
+          ]
+        },
+        {
+          "message": "Verifique o gerador, mas não tire os olhos das teias.",
+          "messageDesc": "Envia e luxúria Verifique vantagem. Passe para ganhar um sangramento e cobrar, por exemplo, presente.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971033,
+      "name": "Safety Team",
+      "desc": "Cada canto desta sala é preenchido com uma luz esmeralda.\n\nAlguém derramou um monte de encase de encaso na mesa, o suficiente para começar a pingar lentamente no chão.\n\n'Gerente Executivo, encontramos um pouco de encaso aqui.'\n\n'MM. Provavelmente será útil para nossos empreendimentos, caso os colecionemos '\n\n'T.T.G.G.C.C?'\n\n\"Pegue aquele recipiente a gás de vidro, capiche?\" ... ela diz ... '",
+      "options": [
+        {
+          "message": "Pegue um pouco de enkefalina.",
+          "messageDesc": "Selecione para ganhar um afundamento, por exemplo, presente",
+          "result": [
+            "'It is a terrible strategy to mess with gas you don't know the effects of! I say that we leave the gas and take only the Enkephalin.'\n\n'Hmph, you don't know what you're blathering about.'\n\n'Do you not see the twisted beauty emanating from the ominous gas container?'\n\n'Nah, lass. I don't. It's just you.'\n\n'So, um. Wouldn't that Enkephalin also be contaminated or something?'\n\n'Enkephalin is not a material that is so easily tainted.'\n\nThe Sinners soon split into two parties and begin arguing with one another.\n\nFew minutes later, we found ourselves quickly making our way through the hallway with a box of Enkephalin in our hands."
+          ]
+        },
+        {
+          "message": "Pegue o recipiente a gás.",
+          "messageDesc": "Selecione para ganhar um afundamento, por exemplo, presente",
+          "result": [
+            "'It is a terrible strategy to mess with gas you don't know the effects of! I say that we leave the gas and take only the Enkephalin.'\n\n'Hmph, you don't know what you're blathering about.'\n\n'Do you not see the twisted beauty emanating from the ominous gas container?'\n\n'I am rather partial to the hazy levitation of the effluvium.'\n\n'Ooho, forsooth! Yet... how shalt thou carry the intangible gas!?'\n\n'Look, here's a button to extract the gas into a portable gas canister~'\n\nThe Sinners soon split into two parties and begin arguing with one another.\n\nFew minutes later, we found ourselves quickly making our way through the hallway with a gas canister in our hands."
+          ]
+        },
+        {
+          "message": "Pegue os dois",
+          "messageDesc": "Verificação de vantagem de luxúria e preguiça. Passe para ganhar 2 naufrágio, por exemplo, presentes (falha começa um encontro de combate)",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971034,
+      "name": "One Sin SP Healing E.G.O Gift Giveaway",
+      "desc": "Um fio de luz espreita através do vidro e da porta do entrevista.\n\nAlém do vidro, é um crânio bizarro ...\n\nUm crânio flutuante ligado por espinhos a uma cruz, cercado por uma luz circular.\n\nOs órbitas vazios do crânio olham diretamente para nós.\n\n\"Essa denominação dessa anormalidade é\" um pecado e centenas de boas ações \".\n\n'Claro, não é a mesma entidade que uma vez residiu dentro da L Corp.'\n\nAs profundidades inúteis estão dentro das cavidades de seus olhos; nos perfurando. '",
+      "options": [
+        {
+          "message": "Ore diante de um pecado e centenas de boas ações.",
+          "messageDesc": "Verificação de vantagem de preguiça e sombra. Passe para obter um presente sem palavras -chave, por exemplo.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Fale com um pecado e centenas de boas ações.",
+          "messageDesc": "Verificação de vantagem de preguiça e sombra. Passe para obter um presente sem palavras -chave, por exemplo.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971035,
+      "name": "Heal HP, SP, or gain Cost",
+      "desc": "Olhamos para cima para ver borboletas brancas acima de nós.\n\nEmbora dadas asas, as borboletas vagam pelo corredor, vibrando para lugar nenhum.\n\nFizemos o nosso caminho para onde parece descansar um pouco, e vemos um caixão grande além da janela de vidro transparente.\n\nEra muito grande para um, mas pequeno demais para muitos.\n\n'Um caixão solitário mentira.'\n\n'Eugh, um caixão ...? Tenho um mau pressentimento sobre isso. Provavelmente não devemos tocá -lo, certo?\n\n- Essa seria a escolha mais segura, sim ... mas e se houver algo que pudesse nos ajudar?",
+      "options": [
+        {
+          "message": "Não vamos mexer com o caixão e sair.",
+          "messageDesc": "",
+          "result": [
+            "We solemnly paid our respects to the coffin past the door, then left.\n\nButterflies without a home dance, fluttering toward us on a shearing, cold wind.\n\nAre they writhing out of sorrow, or are they wingbeats of lamentation? We cannot know.\n\nA remembrance rises as I quietly observe the butterflies. That something has merely and fully returned to whence it came."
+          ]
+        },
+        {
+          "message": "Vamos ver o que está dentro do caixão.",
+          "messageDesc": "Selecione para ganhar um afundamento, por exemplo, presente",
+          "result": [
+            "A cold cadaver of a butterfly rests silently inside the coffin.\n\nThe white butterflies, who so desperately fluttered their tiny wings in the faith that there must be something there at the end, are no more; gone, unnoticed by all.\n\nWhat lies past the periphery of death, one asks. Truth be told, there is nothing, nothing at all."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971036,
+      "name": "Miracle in District 20 Hard Event 1",
+      "desc": "A fábrica é iluminada com luminárias vermelhas e verdes.\n\nEm meio ao barulho caótico de máquinas e ferramentas de agressão ...\n\n... são pequenos gnomos, correndo muito entre as linhas de montagem.\n\n'Vamos G-OME! Se apresse-se !! '\n\n'Coloque-os na correia transportadora !!'\n\n'Vamos pegar Packin'-AME !!'",
+      "options": [
+        {
+          "message": "Abordagem.",
+          "messageDesc": "Execute uma verificação de vantagem de preguiça e gula para obter um presente sem palavras, por exemplo, um presente.",
+          "result": [
+            "All kinds of fascinating gifts are piled up here.\n\nMaybe we can rummage through it to find something that might be of help to us."
+          ]
+        },
+        {
+          "message": "Passar por isso.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971037,
+      "name": "Miracle in District 20 Hard Event 2",
+      "desc": "Uma cama velha e estridente fica solenemente no meio da sala.\n\nÉ cercado por inúmeras lanternas e castiçais.\n\nAlguns estão esgotados, seus restos mortos e frios, deixando apenas singes sombrios como testamento de suas antigas chamas ...\n\nMas os outros ainda estavam iluminados, suas chamas quentes viajando diligentemente pelos wicks.\n\nNo entanto, as sombras escuras e escuras à espreita nas pernas da cama, ao lado dos lençóis semi-chapando da cama, estão em pó.\n\nUm tremor estranho vibra o chão.\n\nE logo ouço um som de algo arrastando o chão acompanhado por uma sensação de um olhar frio e úmido espiando atentamente em minha direção ...\n\nO que poderia deitar embaixo daquela cama?",
+      "options": [
+        {
+          "message": "Aproxime -se da cama.",
+          "messageDesc": "Execute uma verificação de vantagem de preguiça e gula para obter um presente sem palavras, por exemplo, um presente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Não se aproxime da cama.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

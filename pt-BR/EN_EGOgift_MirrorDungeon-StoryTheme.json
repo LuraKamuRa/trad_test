@@ -1,0 +1,282 @@
+{
+  "dataList": [
+    {
+      "id": 9403,
+      "name": "Ebony Brooch",
+      "desc": "Primeira virada no início de um encontro: infligir 2 [[suporte]] potência e contar para todos os inimigos.\n\nInfligir 2 [[bracket]] Próximo turno na extremidade da curva para todos os inimigos por 3 voltas.",
+      "simpleDesc": [
+        {
+          "abilityID": 9403,
+          "simpleDesc": "Infligir 2 [[suporte]] Potência e +2 [[suporte]] contam com todos os inimigos"
+        },
+        {
+          "abilityID": 94031,
+          "simpleDesc": "Infligir 2 [[suporte]] em todos os inimigos"
+        }
+      ]
+    },
+    {
+      "id": 9404,
+      "name": "Contained Maggots",
+      "desc": "Ao usar uma habilidade de ataque de afinidade de gula (exceto, por exemplo, habilidades) contra um inimigo, infligir 2 [[suporte]] no alvo.\n\nSe a referida habilidade aplicar [[suporte]] potência, contagem ou 'sangramento único', infligir 3 [[suporte]].",
+      "simpleDesc": [
+        {
+          "abilityID": 9404,
+          "simpleDesc": "Infligir 2 [[suporte]]"
+        },
+        {
+          "abilityID": 94041,
+          "simpleDesc": "Infligir 3 [[suporte]]"
+        }
+      ]
+    },
+    {
+      "id": 9407,
+      "name": "Made-to-Order",
+      "desc": "[[SUPORTE]]\n\nEncontro Início: Ganho +3 [[Bracket]] Contagem.\n\nTurn Start: Gain 1 [[Bracket]], 1 [[suporte]] e 1 [[suporte]].",
+      "simpleDesc": [
+        {
+          "abilityID": 9407,
+          "simpleDesc": "Ganhe +3 [[Bracket]] Count"
+        },
+        {
+          "abilityID": 94071,
+          "simpleDesc": "Ganho 1 [[suporte]], 1 [[bracket]] e 1 [[suporte]]]"
+        }
+      ]
+    },
+    {
+      "id": 9408,
+      "name": "Haunted Shoes",
+      "desc": "[[SUPORTE]]\n\nEncontro Início: Ganho +3 [[Bracket]] Contagem.\n\nTurn Start: Gain 1 [[Bracket]], 1 [[suporte]] e 1 [[suporte]].",
+      "simpleDesc": [
+        {
+          "abilityID": 9408,
+          "simpleDesc": "Ganhe +3 [[Bracket]] Count"
+        },
+        {
+          "abilityID": 94081,
+          "simpleDesc": "Ganho 1 [[suporte]], 1 [[bracket]] e 1 [[suporte]]]"
+        }
+      ]
+    },
+    {
+      "id": 9409,
+      "name": "Frozen Cries",
+      "desc": "Aplica -se apenas a 1 identidade com a velocidade mais lenta no início da curva.\n\nSe o referido aliado vencer um confronto ou for atingido por um inimigo, infligir 3 [[suporte]] contra o inimigo.",
+      "simpleDesc": [
+        {
+          "abilityID": 9409,
+          "simpleDesc": "Infligir 3 [[suporte]] contra o inimigo"
+        }
+      ]
+    },
+    {
+      "id": 9410,
+      "name": "Hoarfrost Footprint",
+      "desc": "Primeira virada no início de uma onda: todos os aliados ganham +3 [[suporte]] contam e infligem todos os inimigos (ou todas as partes de anormalidade) 4 [[bracket]] potência e +8 [[backet]] contam.\n\nInimigos com [[suporte]] perdem 2 poder de confronto; Quando uma identidade aliada ganha um confronto contra um inimigo afetado, infligir 2 [[suporte]] potência; Quando uma identidade aliada é atingida por um inimigo afetado, infliga 3 [[suporte]] potência.",
+      "simpleDesc": [
+        {
+          "abilityID": 9410,
+          "simpleDesc": "Infligir 4 [[suporte]] Potência e +8 [[suporte]] contam contra todos os inimigos."
+        },
+        {
+          "abilityID": 94101,
+          "simpleDesc": "Inimigos com [[suporte]] perdem 2 poder de confronto"
+        }
+      ]
+    },
+    {
+      "id": 9413,
+      "name": "Nagel und Hammer Scriptures",
+      "desc": "Quando um aliado ganha um confronto usando uma habilidade que inflige a potência, contagem ou 'sangramento exclusivo', infligir 1 ~ 2 [[suporte]].\n\nSe o referido aliado for um 'N Corp. Fanatic', ganhe 1 fanático no Start Turn.",
+      "simpleDesc": [
+        {
+          "abilityID": 9413,
+          "simpleDesc": "Infligir 1 ~ 2 [[suporte]]"
+        },
+        {
+          "abilityID": 94131,
+          "simpleDesc": "Se a unidade for um 'N Corp. Fanatic', ganhe 1 fanático no Start Turn."
+        }
+      ]
+    },
+    {
+      "id": 9414,
+      "name": "Blood-red Mane",
+      "desc": "Os efeitos se aplicam a todas as identidades com habilidades de ataque de afinidade com ira ou luxúria.\n\nTurn End: Se esta unidade não sofreu nenhum dano das habilidades de ataque inimigo nesta curva, ganhe 2 [[suporte]] e 2 [[suporte]].\n\nTurn End: Se esta unidade sofreu danos causados ​​por habilidades de ataque inimigo nesta curva, ganhe 2 [[suporte]] e Clash Power +2 Próximo turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 9414,
+          "simpleDesc": "Ganhe 2 [[suporte]] e 2 [[suporte]] na próxima curva"
+        },
+        {
+          "abilityID": 94141,
+          "simpleDesc": "Ganhe 2 [[suporte]] e Power de conflito +2 Próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 9415,
+      "name": "Squalidity",
+      "desc": "Quando um aliado ataca um inimigo que tem [[suporte]] com uma habilidade que inflige [[suporte]] potência, contagem ou 'sangramento único', causar +15% mais danos contra o alvo.\n\nSe o alvo tiver 33%- hp, infligir +25% mais danos contra o alvo.",
+      "simpleDesc": [
+        {
+          "abilityID": 9415,
+          "simpleDesc": "Acordo +15% mais dano"
+        },
+        {
+          "abilityID": 94151,
+          "simpleDesc": "Acordo +25% mais dano"
+        }
+      ]
+    },
+    {
+      "id": 9416,
+      "name": "Wholeness",
+      "desc": "Se o aliado ganha um confronto usando uma habilidade que inflige a potência, contagem ou 'sangramento único' [[suporte]].\n\nSe o aliado for um 'N Corp. Fanatic'., Ganhe 1 fanático no início do turno e causar +25% mais danos contra alvos com [[suporte]].\n\nAtive um efeito especial quando houver identidades fanáticas de 5+ 'N Corp. (apenas conta as identidades no campo no início do encontro):\n- Identidades 'fanáticas de' N Corp. obtêm potência final +1, além de potência de moedas +1, menos potência da moeda -1 e habilidades de ataque infligir +1 mais [[Bracket]]. Se uma identidade 'N Corp. Fanatic' estiver em Max SP no Start Start, ganhe 3 [[Bracket]].",
+      "simpleDesc": [
+        {
+          "abilityID": 9416,
+          "simpleDesc": "Win Clash: Infligir 2 ~ 3 [[suporte]]]"
+        },
+        {
+          "abilityID": 94161,
+          "simpleDesc": "As identidades 'fanáticas' N Corp. causam +25% mais danos ao atacar um inimigo"
+        },
+        {
+          "abilityID": 94162,
+          "simpleDesc": "Ative um efeito especial quando houver identidades fanáticas de 5+ 'N Corp."
+        }
+      ]
+    },
+    {
+      "id": 9419,
+      "name": "Spicebush Branch",
+      "desc": "Para esse encontro, o seguinte efeito é ativado todas as vezes Habilidade 1, Habilidade 2 e Habilidade 3 são usadas pelo menos uma vez.\n\nTurn Start: Gain 1 [[Bracket]] e 1 [[suporte]]. (pode empilhar até 3 vezes)",
+      "simpleDesc": [
+        {
+          "abilityID": 9419,
+          "simpleDesc": "Turn Start: Gain 1 [[Bracket]] e 1 [[suporte]]."
+        }
+      ]
+    },
+    {
+      "id": 9420,
+      "name": "Kaleidoscope",
+      "desc": "Turn START: As unidades acompanhadas por outras identidades da mesma facção que elas ganham [[suporte]] igual ao número de outras identidades da mesma facção. (Máx 4)\n\nIdentidades da Technology Liberation Alliance Ganhe Power Clash +1.",
+      "simpleDesc": [
+        {
+          "abilityID": 9420,
+          "simpleDesc": "Ganho [[suporte]]"
+        },
+        {
+          "abilityID": 94201,
+          "simpleDesc": "Power de conflito +1"
+        }
+      ]
+    },
+    {
+      "id": 9423,
+      "name": "Broken Glasses",
+      "desc": "Quando um aliado coloca contra um inimigo com uma velocidade mais rápida, ganhe poder de conflito +1.\n\nQuando um aliado ganha um confronto contra um inimigo com uma velocidade mais rápida, ganhe 2 [[suporte]] próximo (máximo 4.)",
+      "simpleDesc": [
+        {
+          "abilityID": 9423,
+          "simpleDesc": "Power de conflito +1"
+        },
+        {
+          "abilityID": 94231,
+          "simpleDesc": "Ganhe 2 [[suporte]] Próximo turno"
+        }
+      ]
+    },
+    {
+      "id": 9424,
+      "name": "Unmailed Letter",
+      "desc": "[[SUPORTE]]\n\nAo ganhar um confronto com uma habilidade de ataque que inflige a potência ou contagem de [[suporte]], infligir 5 [[suporte]] potência e +3 [[bracket]] contam contra o alvo. (uma vez por turno por identidade)\n\nAo entrar em conflito contra um inimigo com uma velocidade mais lenta, obtenha potência final +1 e causa +25% mais danos.\n\nAo ganhar um confronto contra um inimigo com o buff [[suporte]], ganhe 3 [[suporte]] para o próximo turno e infligir 3 [[bracket]] no inimigo que perdeu o confronto (valor absoluto 9)",
+      "simpleDesc": [
+        {
+          "abilityID": 9424,
+          "simpleDesc": "Win Clash: infligir 5 [[suporte]] Power e +3 [[backet]] contam contra o alvo"
+        },
+        {
+          "abilityID": 94241,
+          "simpleDesc": "Power final +1, acordo +25% mais dano"
+        },
+        {
+          "abilityID": 94242,
+          "simpleDesc": "Infligir 3 [[suporte]] contra o inimigo que perdeu o confronto"
+        }
+      ]
+    },
+    {
+      "id": 9429,
+      "name": "Harpoon Prosthetic Leg",
+      "desc": "Turn End: Aplique 2 [[Bracket]], 2 [[suporte]] e 2 [[bracket]] Próxima virada para o aliado com a soma mais alta da potência e contagem [[suporte]].\n\nAs identidades de Pequod ganham velocidade máxima +1.",
+      "simpleDesc": [
+        {
+          "abilityID": 9429,
+          "simpleDesc": "Aplique 2 [[Bracket]], 2 [[bracket]] e 2 [[suporte]] Próxima virada"
+        },
+        {
+          "abilityID": 94291,
+          "simpleDesc": "As identidades de Pequod ganham velocidade máxima +1."
+        }
+      ]
+    },
+    {
+      "id": 9430,
+      "name": "Guiding Gas Lamp",
+      "desc": "Primeira virada no início de uma onda: todos os aliados ganham 5 [[suporte]] e +5 [[bracket]] contam.\n\nTurn End: 1 aliado com a soma mais alta de [[suporte]] potência e contagem ganhos 2 [[suporte]], 3 [[bracket]] e 3 [[bracket]] no próximo turno.\n\nAs identidades de Pequod ganham potência de habilidade +2 e velocidade máxima +2.",
+      "simpleDesc": [
+        {
+          "abilityID": 9430,
+          "simpleDesc": "Todos os aliados ganham 5 [[suporte]] e +5 [[bracket]] contam."
+        },
+        {
+          "abilityID": 94301,
+          "simpleDesc": "Aplique 2 [[suporte]], 3 [[bracket]] e 3 [[bracket]] próximo."
+        },
+        {
+          "abilityID": 94302,
+          "simpleDesc": "Power de habilidade +2, velocidade máxima +2."
+        }
+      ]
+    },
+    {
+      "id": 9433,
+      "name": "Chief Butler's Secret Arts",
+      "desc": "Primeira virada Início de uma onda: Selecione 1 inimigo com a velocidade mais lenta (ou uma parte de anormalidade aleatória) e infliga 5 [[suporte]] por 5 voltas começando no próximo turno.\n\nWin Clash: Se a velocidade desta unidade for mais rápida que a do alvo, Heal SP igual à diferença de velocidade e ganhe 'nível de ofensa' igual à metade dessa diferença de velocidade. (Aplica -se apenas à habilidade usada para ganhar o Clash. Max 'Ofense Nível' Ganho: 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9433,
+          "simpleDesc": "Infligir 5 [[suporte]] por 5 voltas começando na próxima curva"
+        },
+        {
+          "abilityID": 94331,
+          "simpleDesc": "Heal SP, e Gain Ofense Nível igual à quantidade de SP curado"
+        }
+      ]
+    },
+    {
+      "id": 9434,
+      "name": "Handheld Mirror",
+      "desc": "Primeira virada no início de uma onda: selecione 2 inimigos com a velocidade mais lenta (ou 2 peças de anormalidade aleatória. O efeito não empilha se o inimigo for singular) e infligir 5 [[bracket]] e 3 [[suporte]] ao começar a começar no próximo turno.\n\nQuando o inimigo se recupera de escalonamento e, se não tiver limiares de escalonamento restantes, crie um novo limite de escalonamento com 66% da marca da HP atual do alvo (3 vezes por encontro). If an ally Staggers an enemy with an Attack Skill(except E.G.O Skills) that applies [Binding] Potency or [DefenseDown] Count(including on self or on ally), randomly inflict [Vibration] Potency equal to half of the [Vibration] Potency on target between other enemies(or other Abnormality parts), and increase [Vibration] Potency on the Staggered target by x2.",
+      "simpleDesc": [
+        {
+          "abilityID": 9433,
+          "simpleDesc": "Turn Start: Ganhe 5 Bind e 3 Nível de defesa Down."
+        },
+        {
+          "abilityID": 94331,
+          "simpleDesc": "Crie um novo limite de cambaleante com 66% da marca do HP atual do alvo"
+        },
+        {
+          "abilityID": 94332,
+          "simpleDesc": "[[Suporte]] A potência no alvo escalonado aumenta por x2"
+        }
+      ]
+    }
+  ]
+}
