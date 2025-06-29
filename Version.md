@@ -1,1 +1,1 @@
-Versao: 1.0.4
+Versao: 1.0.5
